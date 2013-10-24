@@ -1,17 +1,16 @@
-Trichia perichaenoides Mosquera, Lado, Estrada & Beltrán-Tej., 2000 SPECIES
-=======
+# Trichia agaves (G. Moreno, Lizárraga & Illana) Mosquera, Lado, Estrada & Beltrán-Tej., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lado, Cuadernos de Trabajo de Flora Micológica Ibérica (Madrid) 16: 82 (2001)
 
 #### Original name
-null
+Hemitrichia agaves G. Moreno, Lizárraga & Illana, 2000
 
 ### Remarks
 null

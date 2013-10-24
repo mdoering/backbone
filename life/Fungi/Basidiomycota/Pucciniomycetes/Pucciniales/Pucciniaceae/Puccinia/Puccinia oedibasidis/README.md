@@ -1,17 +1,16 @@
-Puccinia oedibasis Ramaz. SPECIES
-=======
+# Puccinia oedibasidis Ramaz. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ramazanova, Faizieva, Sagdullaeva, Kirgizbaeva & Gaponenko, Flora Gribov Uzbekistana (Tashkent), <b>3</b> Rzhavchinnye griby 158 (1986)
 
 #### Original name
-Puccinia oedibasis Ramaz.
+Puccinia oedibasidis Ramaz.
 
 ### Remarks
 null

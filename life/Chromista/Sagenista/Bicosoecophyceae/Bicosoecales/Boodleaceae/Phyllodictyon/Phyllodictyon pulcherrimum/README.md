@@ -1,11 +1,10 @@
-Struvea pulcherrima (J.E. Gray) Murray & Boodle SPECIES
-=======
+# Phyllodictyon pulcherrimum J.E.Gray SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

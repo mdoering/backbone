@@ -1,5 +1,4 @@
-Erysipelothrix tonsillarum Takahashi et al., 1987 SPECIES
-=======
+# Erysipelothrix tonsillarum Takahashi et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

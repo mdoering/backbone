@@ -1,5 +1,4 @@
-Greletia planchonis (Dunal ex Boud.) Donadini SPECIES
-=======
+# Greletia planchonis (Dunal ex Boud.) Donadini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crepidotus hemiphlebius (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Crepidotus hemiphlebius (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

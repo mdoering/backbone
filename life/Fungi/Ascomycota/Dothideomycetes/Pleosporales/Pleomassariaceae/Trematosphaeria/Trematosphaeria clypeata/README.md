@@ -1,5 +1,4 @@
-Trematosphaeria clypeata Sacc. & Paol. SPECIES
-=======
+# Trematosphaeria clypeata Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

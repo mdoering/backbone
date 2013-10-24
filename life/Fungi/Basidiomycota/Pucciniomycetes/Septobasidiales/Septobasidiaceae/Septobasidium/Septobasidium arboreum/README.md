@@ -1,5 +1,4 @@
-Septobasidium arboreum (Couch) Boedijn & B.A. Steinm. SPECIES
-=======
+# Septobasidium arboreum (Couch) Boedijn & B.A. Steinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius aptecohaerens Rob. Henry SPECIES
-=======
+# Cortinarius aptecohaerens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cantharellus limbatus Velen. SPECIES
-=======
+# Cantharellus limbatus Velen. SPECIES
 
 #### Status
 ACCEPTED

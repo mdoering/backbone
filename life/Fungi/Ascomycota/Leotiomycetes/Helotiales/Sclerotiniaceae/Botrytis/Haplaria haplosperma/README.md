@@ -1,5 +1,4 @@
-Haplaria haplosperma (Corda) Bonord. SPECIES
-=======
+# Haplaria haplosperma (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xylosphaera kegeliana (Lév.) Dennis SPECIES
-=======
+# Xylosphaera kegeliana (Lév.) Dennis SPECIES
 
 #### Status
 ACCEPTED

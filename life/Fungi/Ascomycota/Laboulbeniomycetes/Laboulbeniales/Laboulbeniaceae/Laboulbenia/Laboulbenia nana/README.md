@@ -1,5 +1,4 @@
-Laboulbenia nana Sugiy. SPECIES
-=======
+# Laboulbenia nana Sugiy. SPECIES
 
 #### Status
 ACCEPTED

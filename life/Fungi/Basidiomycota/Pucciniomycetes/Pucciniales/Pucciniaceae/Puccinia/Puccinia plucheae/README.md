@@ -1,5 +1,4 @@
-Puccinia plucheae (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Puccinia plucheae (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

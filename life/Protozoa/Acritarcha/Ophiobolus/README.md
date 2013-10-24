@@ -1,5 +1,4 @@
-Ophiobolus Wetzel, 1933 GENUS
-=======
+# Ophiobolus Wetzel, 1933 GENUS
 
 #### Status
 ACCEPTED

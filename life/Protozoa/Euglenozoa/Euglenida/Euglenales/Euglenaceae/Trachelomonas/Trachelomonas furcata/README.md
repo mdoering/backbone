@@ -1,5 +1,4 @@
-Trachelomonas furcata Dolgoff SPECIES
-=======
+# Trachelomonas furcata Dolgoff SPECIES
 
 #### Status
 ACCEPTED

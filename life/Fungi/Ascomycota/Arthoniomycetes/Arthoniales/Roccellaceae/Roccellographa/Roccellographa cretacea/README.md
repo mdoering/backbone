@@ -1,5 +1,4 @@
-Roccellographa cretacea J. Steiner SPECIES
-=======
+# Roccellographa cretacea J. Steiner SPECIES
 
 #### Status
 ACCEPTED

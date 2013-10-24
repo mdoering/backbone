@@ -1,5 +1,4 @@
-Dendrosarcus leiophyllus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus leiophyllus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

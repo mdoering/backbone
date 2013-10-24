@@ -1,5 +1,4 @@
-Leptoglossum luteum (Peck) Sacc. SPECIES
-=======
+# Leptoglossum luteum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

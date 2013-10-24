@@ -1,5 +1,4 @@
-Fracchiaea cucurbitarioides var. cucurbitarioides VARIETY
-=======
+# Fracchiaea cucurbitarioides Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Anal. Soc. cient. argent. 10(1): 16 (1880)
 
 #### Original name
-Fracchiaea cucurbitarioides var. cucurbitarioides
+Fracchiaea cucurbitarioides Speg.
 
 ### Remarks
 null

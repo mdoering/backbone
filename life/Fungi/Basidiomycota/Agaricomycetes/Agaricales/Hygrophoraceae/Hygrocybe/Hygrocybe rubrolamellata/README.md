@@ -1,5 +1,4 @@
-Hygrocybe rubrolamellata T. Borgen & Arnolds SPECIES
-=======
+# Hygrocybe rubrolamellata T. Borgen & Arnolds SPECIES
 
 #### Status
 ACCEPTED

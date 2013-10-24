@@ -1,5 +1,4 @@
-Endocarpon porphyrium (G. Mey.) Servít SPECIES
-=======
+# Endocarpon porphyrium (G. Mey.) Servít SPECIES
 
 #### Status
 ACCEPTED

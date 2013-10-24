@@ -1,5 +1,4 @@
-Titaea pes-avis Cif. SPECIES
-=======
+# Titaea pes-avis Cif. SPECIES
 
 #### Status
 ACCEPTED

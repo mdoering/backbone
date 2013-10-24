@@ -1,5 +1,4 @@
-Stigmatea platylophi Verwoerd & du Plessis SPECIES
-=======
+# Stigmatea platylophi Verwoerd & du Plessis SPECIES
 
 #### Status
 ACCEPTED

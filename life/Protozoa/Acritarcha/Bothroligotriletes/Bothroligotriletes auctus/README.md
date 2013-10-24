@@ -1,5 +1,4 @@
-Bothroligotriletes auctus Timofeev SPECIES
-=======
+# Bothroligotriletes auctus Timofeev SPECIES
 
 #### Status
 ACCEPTED

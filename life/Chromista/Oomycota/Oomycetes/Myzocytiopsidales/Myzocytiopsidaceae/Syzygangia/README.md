@@ -1,17 +1,16 @@
-Resticularia P.A. Dang. GENUS
-=======
+# Syzygangia M.W. Dick GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Botaniste 2: 96 (1890)
+Mycol. Res. 101(7): 880 (1997)
 
 #### Original name
-Resticularia P.A. Dang.
+Syzygangia M.W. Dick
 
 ### Remarks
 null

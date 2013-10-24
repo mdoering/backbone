@@ -1,5 +1,4 @@
-Asterina obtusispora Speg. SPECIES
-=======
+# Asterina obtusispora Speg. SPECIES
 
 #### Status
 ACCEPTED

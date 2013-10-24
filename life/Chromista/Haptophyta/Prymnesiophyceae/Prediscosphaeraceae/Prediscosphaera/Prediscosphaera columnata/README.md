@@ -1,5 +1,4 @@
-Prediscosphaera columnata (Stover, 1966) Perch-Nielsen, 1984 SPECIES
-=======
+# Prediscosphaera columnata (Stover, 1966) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

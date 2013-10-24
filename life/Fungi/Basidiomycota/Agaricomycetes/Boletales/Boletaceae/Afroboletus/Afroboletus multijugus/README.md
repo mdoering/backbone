@@ -1,5 +1,4 @@
-Afroboletus multijugus Heinem. & Rammeloo, 1995 SPECIES
-=======
+# Afroboletus multijugus Heinem. & Rammeloo, 1995 SPECIES
 
 #### Status
 ACCEPTED

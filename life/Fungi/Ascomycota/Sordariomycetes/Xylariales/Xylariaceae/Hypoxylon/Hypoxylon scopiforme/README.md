@@ -1,5 +1,4 @@
-Hypoxylon scopiforme Kunze SPECIES
-=======
+# Hypoxylon scopiforme Kunze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius candiculus Schulzer SPECIES
-=======
+# Lactarius candiculus Schulzer SPECIES
 
 #### Status
 ACCEPTED

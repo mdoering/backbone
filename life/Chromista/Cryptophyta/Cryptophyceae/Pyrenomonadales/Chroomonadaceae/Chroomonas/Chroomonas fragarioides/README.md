@@ -1,5 +1,4 @@
-Chroomonas fragarioides R. W. Butcher SPECIES
-=======
+# Chroomonas fragarioides R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

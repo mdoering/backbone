@@ -1,5 +1,4 @@
-Mycena daisyogunensis Kobayasi SPECIES
-=======
+# Mycena daisyogunensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

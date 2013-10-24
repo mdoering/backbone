@@ -1,5 +1,4 @@
-Granomarginata S.N.Naumova, 1960 GENUS
-=======
+# Granomarginata S.N.Naumova, 1960 GENUS
 
 #### Status
 ACCEPTED

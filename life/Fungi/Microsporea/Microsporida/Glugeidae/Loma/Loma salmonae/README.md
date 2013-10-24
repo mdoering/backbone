@@ -1,5 +1,4 @@
-Loma salmonae (Putz, Hoffman & Dunbar) C.M. Morrison & V. Sprague SPECIES
-=======
+# Loma salmonae (Putz, Hoffman & Dunbar) C.M. Morrison & V. Sprague SPECIES
 
 #### Status
 ACCEPTED

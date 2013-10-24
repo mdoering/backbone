@@ -1,5 +1,4 @@
-Sphaeria combulliens Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria combulliens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

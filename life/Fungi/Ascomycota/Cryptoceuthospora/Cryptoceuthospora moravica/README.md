@@ -1,5 +1,4 @@
-Cryptoceuthospora moravica Petr., 1921 SPECIES
-=======
+# Cryptoceuthospora moravica Petr., 1921 SPECIES
 
 #### Status
 ACCEPTED

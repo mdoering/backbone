@@ -1,5 +1,4 @@
-Stephensia crocea Quél., 1886 SPECIES
-=======
+# Stephensia crocea Quél., 1886 SPECIES
 
 #### Status
 ACCEPTED

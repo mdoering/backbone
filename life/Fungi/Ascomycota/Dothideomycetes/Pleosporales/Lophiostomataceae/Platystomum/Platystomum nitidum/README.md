@@ -1,5 +1,4 @@
-Platystomum nitidum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum nitidum (Ellis & Everh.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

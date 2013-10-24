@@ -1,17 +1,16 @@
-Haplosporella fraxini Died. SPECIES
-=======
+# Aplosporella fraxini Died. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Krypt. -Fl. Brandenburg (Leipzig) 9: 588 (1914)
 
 #### Original name
-Haplosporella fraxini Died.
+Aplosporella fraxini Died.
 
 ### Remarks
 null

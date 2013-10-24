@@ -1,5 +1,4 @@
-Meliola dendroseta Mibey & P.F. Cannon SPECIES
-=======
+# Meliola dendroseta Mibey & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

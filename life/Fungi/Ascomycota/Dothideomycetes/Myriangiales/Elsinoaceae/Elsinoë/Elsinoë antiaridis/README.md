@@ -1,5 +1,4 @@
-Elsinoë antiaridis Hansf. SPECIES
-=======
+# Elsinoë antiaridis Hansf. SPECIES
 
 #### Status
 ACCEPTED

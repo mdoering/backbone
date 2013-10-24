@@ -1,5 +1,4 @@
-Leptostroma rubi (Lib.) Speg. & Roum. SPECIES
-=======
+# Leptostroma rubi (Lib.) Speg. & Roum. SPECIES
 
 #### Status
 ACCEPTED

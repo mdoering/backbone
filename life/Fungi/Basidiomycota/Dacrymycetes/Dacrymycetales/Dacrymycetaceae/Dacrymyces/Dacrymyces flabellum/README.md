@@ -1,5 +1,4 @@
-Dacrymyces flabellum Ellis & Everh. SPECIES
-=======
+# Dacrymyces flabellum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

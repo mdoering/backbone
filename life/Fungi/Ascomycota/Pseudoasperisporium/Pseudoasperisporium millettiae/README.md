@@ -1,5 +1,4 @@
-Pseudoasperisporium millettiae U. Braun & Hosag., 2006 SPECIES
-=======
+# Pseudoasperisporium millettiae U. Braun & Hosag., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rimularia ramboldiana Kantvilas & Elix SPECIES
-=======
+# Rimularia ramboldiana Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

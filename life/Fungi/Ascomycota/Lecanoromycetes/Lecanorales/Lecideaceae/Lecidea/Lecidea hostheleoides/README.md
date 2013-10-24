@@ -1,5 +1,4 @@
-Lecidea hostheleoides Nyl. SPECIES
-=======
+# Lecidea hostheleoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

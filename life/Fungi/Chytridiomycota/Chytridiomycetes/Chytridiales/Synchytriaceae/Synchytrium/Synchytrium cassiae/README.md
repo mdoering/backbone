@@ -1,5 +1,4 @@
-Synchytrium cassiae Lingappa SPECIES
-=======
+# Synchytrium cassiae Lingappa SPECIES
 
 #### Status
 ACCEPTED

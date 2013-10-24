@@ -1,5 +1,4 @@
-Puccinia magnoecia Ellis & Everh. SPECIES
-=======
+# Puccinia magnoecia Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

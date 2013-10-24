@@ -1,5 +1,4 @@
-Mollisia clavigera Ellis & Everh. SPECIES
-=======
+# Mollisia clavigera Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

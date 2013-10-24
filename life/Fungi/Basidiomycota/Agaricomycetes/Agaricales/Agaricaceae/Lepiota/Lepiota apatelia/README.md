@@ -1,5 +1,4 @@
-Lepiota apatelia Vellinga & Huijser SPECIES
-=======
+# Lepiota apatelia Vellinga & Huijser SPECIES
 
 #### Status
 ACCEPTED

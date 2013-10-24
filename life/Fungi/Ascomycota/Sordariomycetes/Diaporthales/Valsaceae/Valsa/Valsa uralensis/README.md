@@ -1,5 +1,4 @@
-Valsa uralensis Naumov SPECIES
-=======
+# Valsa uralensis Naumov SPECIES
 
 #### Status
 ACCEPTED

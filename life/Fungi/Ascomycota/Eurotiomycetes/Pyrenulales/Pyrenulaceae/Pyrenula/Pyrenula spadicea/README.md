@@ -1,5 +1,4 @@
-Pyrenula spadicea (Wallr.) Schaer. SPECIES
-=======
+# Pyrenula spadicea (Wallr.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

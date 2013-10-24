@@ -1,5 +1,4 @@
-Sarcinomyces sideticae Sert & Sterfl. SPECIES
-=======
+# Sarcinomyces sideticae Sert & Sterfl. SPECIES
 
 #### Status
 ACCEPTED

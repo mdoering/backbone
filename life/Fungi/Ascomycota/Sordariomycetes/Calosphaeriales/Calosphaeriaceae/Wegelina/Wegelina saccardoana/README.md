@@ -1,5 +1,4 @@
-Wegelina saccardoana Berl., 1900 SPECIES
-=======
+# Wegelina saccardoana Berl., 1900 SPECIES
 
 #### Status
 ACCEPTED

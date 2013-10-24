@@ -1,5 +1,4 @@
-Physalospora dalbergiae J.K. Sharma, C.N. Mohanan & Florence SPECIES
-=======
+# Physalospora dalbergiae J.K. Sharma, C.N. Mohanan & Florence SPECIES
 
 #### Status
 ACCEPTED

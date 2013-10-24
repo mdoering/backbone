@@ -1,5 +1,4 @@
-Trichocicinnus ugandensis Bat. & H. Maia SPECIES
-=======
+# Trichocicinnus ugandensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hansfordiana Cummins SPECIES
-=======
+# Puccinia hansfordiana Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Podophrya pyriformis SPECIES
-=======
+# Podophrya pyriformis SPECIES
 
 #### Status
 ACCEPTED

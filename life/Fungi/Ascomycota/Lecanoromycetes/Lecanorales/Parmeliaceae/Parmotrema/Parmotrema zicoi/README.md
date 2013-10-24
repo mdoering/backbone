@@ -1,5 +1,4 @@
-Parmotrema zicoi Marcelli & C. H. Ribeiro SPECIES
-=======
+# Parmotrema zicoi Marcelli & C. H. Ribeiro SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia dracaenicola Died. SPECIES
-=======
+# Diplodia dracaenicola Died. SPECIES
 
 #### Status
 ACCEPTED

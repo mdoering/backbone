@@ -1,5 +1,4 @@
-Cerebella ischaemi Petch SPECIES
-=======
+# Cerebella ischaemi Petch SPECIES
 
 #### Status
 ACCEPTED

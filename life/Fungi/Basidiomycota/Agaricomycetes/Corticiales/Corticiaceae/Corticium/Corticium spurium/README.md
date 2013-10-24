@@ -1,17 +1,16 @@
-Corticium spurium f. spurium FORM
-=======
+# Corticium spurium SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Belgian Species List
 
 #### Published in
-Rev. Sci. Bourb. Centr. Fr. 35: 15 (1922)
+null
 
 #### Original name
-Corticium spurium f. spurium
+null
 
 ### Remarks
 null

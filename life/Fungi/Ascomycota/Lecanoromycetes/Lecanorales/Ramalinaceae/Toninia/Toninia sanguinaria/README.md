@@ -1,5 +1,4 @@
-Toninia sanguinaria Bagl. SPECIES
-=======
+# Toninia sanguinaria Bagl. SPECIES
 
 #### Status
 ACCEPTED

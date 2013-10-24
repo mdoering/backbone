@@ -1,5 +1,4 @@
-Rhopalodictya Haeckel, 1887 GENUS
-=======
+# Rhopalodictya Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

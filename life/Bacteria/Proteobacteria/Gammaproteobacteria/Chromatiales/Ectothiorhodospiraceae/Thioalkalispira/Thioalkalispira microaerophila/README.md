@@ -1,5 +1,4 @@
-Thioalkalispira microaerophila Sorokin et al., 2002 SPECIES
-=======
+# Thioalkalispira microaerophila Sorokin et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora ilicis-micrococcae Sawada SPECIES
-=======
+# Cercospora ilicis-micrococcae Sawada SPECIES
 
 #### Status
 ACCEPTED

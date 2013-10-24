@@ -1,8 +1,7 @@
-Pertusaria simplex Vain. SPECIES
-=======
+# Pertusaria cryptostoma Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Pertusaria cryptostoma Müll. Arg.
 
 ### Remarks
 null

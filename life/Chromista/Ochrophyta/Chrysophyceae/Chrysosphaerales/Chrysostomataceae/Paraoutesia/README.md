@@ -1,5 +1,4 @@
-Paraoutesia Zanon GENUS
-=======
+# Paraoutesia Zanon GENUS
 
 #### Status
 ACCEPTED

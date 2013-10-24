@@ -1,5 +1,4 @@
-Capnobotryella renispora Sugiy., 1987 SPECIES
-=======
+# Capnobotryella renispora Sugiy., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps gigantea Zipp. & Lév. SPECIES
-=======
+# Cordyceps gigantea Zipp. & Lév. SPECIES
 
 #### Status
 ACCEPTED

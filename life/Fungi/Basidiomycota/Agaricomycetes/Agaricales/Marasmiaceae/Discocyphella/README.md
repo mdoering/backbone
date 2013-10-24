@@ -1,5 +1,4 @@
-Discocyphella GENUS
-=======
+# Discocyphella GENUS
 
 #### Status
 ACCEPTED

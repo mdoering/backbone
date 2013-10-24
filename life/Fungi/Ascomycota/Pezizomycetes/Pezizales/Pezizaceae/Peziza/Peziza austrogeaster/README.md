@@ -1,5 +1,4 @@
-Peziza austrogeaster (Rodway) Rifai SPECIES
-=======
+# Peziza austrogeaster (Rodway) Rifai SPECIES
 
 #### Status
 ACCEPTED

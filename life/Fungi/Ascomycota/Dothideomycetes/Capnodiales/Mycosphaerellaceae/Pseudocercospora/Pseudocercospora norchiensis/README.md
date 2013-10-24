@@ -1,5 +1,4 @@
-Pseudocercospora norchiensis Crous SPECIES
-=======
+# Pseudocercospora norchiensis Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Asterotexis cucurbitacearum (Rehm) Arx, 1958 SPECIES
-=======
+# Rhagadolobium cucurbitacearum (Rehm) Theiss. & Syd., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungus, Wageningen 28: 6 (1958)
+Annls mycol. 12(3): 275 (1914)
 
 #### Original name
 Dothidella cucurbitacearum Rehm, 1897

@@ -1,5 +1,4 @@
-Cercospora cyperi Sawada SPECIES
-=======
+# Cercospora cyperi Sawada SPECIES
 
 #### Status
 ACCEPTED

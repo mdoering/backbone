@@ -1,5 +1,4 @@
-Lyngbya cartilaginea (Montagne) P. A. C. Senna SPECIES
-=======
+# Lyngbya cartilaginea (Montagne) P. A. C. Senna SPECIES
 
 #### Status
 ACCEPTED

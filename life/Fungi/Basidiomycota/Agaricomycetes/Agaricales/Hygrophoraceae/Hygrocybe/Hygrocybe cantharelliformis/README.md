@@ -1,5 +1,4 @@
-Hygrocybe cantharelliformis K. Syme SPECIES
-=======
+# Hygrocybe cantharelliformis K. Syme SPECIES
 
 #### Status
 ACCEPTED

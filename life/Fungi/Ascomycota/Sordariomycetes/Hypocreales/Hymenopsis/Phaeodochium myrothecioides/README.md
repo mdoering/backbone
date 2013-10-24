@@ -1,5 +1,4 @@
-Phaeodochium myrothecioides M.L. Farr SPECIES
-=======
+# Phaeodochium myrothecioides M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

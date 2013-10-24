@@ -1,5 +1,4 @@
-Sticta propaginea Taylor SPECIES
-=======
+# Sticta propaginea Taylor SPECIES
 
 #### Status
 ACCEPTED

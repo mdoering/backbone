@@ -1,5 +1,4 @@
-Rhizocarpon subconglomeratum Räsänen SPECIES
-=======
+# Rhizocarpon subconglomeratum Räsänen SPECIES
 
 #### Status
 ACCEPTED

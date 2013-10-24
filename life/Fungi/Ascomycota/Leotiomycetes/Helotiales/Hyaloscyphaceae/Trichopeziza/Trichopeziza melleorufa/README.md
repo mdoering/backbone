@@ -1,5 +1,4 @@
-Trichopeziza melleorufa Penz. & Sacc. SPECIES
-=======
+# Trichopeziza melleorufa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

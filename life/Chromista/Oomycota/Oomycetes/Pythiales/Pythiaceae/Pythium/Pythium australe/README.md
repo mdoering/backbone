@@ -1,5 +1,4 @@
-Pythium australe Shahzad SPECIES
-=======
+# Pythium australe Shahzad SPECIES
 
 #### Status
 ACCEPTED

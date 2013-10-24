@@ -1,5 +1,4 @@
-Cellulomonas gelida (Kellerman et al., 1913) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
-=======
+# Cellulomonas gelida (Kellerman et al., 1913) Bergey et al., 1923 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

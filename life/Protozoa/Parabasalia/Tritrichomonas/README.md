@@ -1,5 +1,4 @@
-Tritrichomonas Kofoid, 1920 GENUS
-=======
+# Tritrichomonas Kofoid, 1920 GENUS
 
 #### Status
 ACCEPTED

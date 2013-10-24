@@ -1,5 +1,4 @@
-Crepidotus hypsophilus O.R. Fr. SPECIES
-=======
+# Crepidotus hypsophilus O.R. Fr. SPECIES
 
 #### Status
 ACCEPTED

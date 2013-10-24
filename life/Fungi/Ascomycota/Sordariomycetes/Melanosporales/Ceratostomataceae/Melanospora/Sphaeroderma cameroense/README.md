@@ -1,5 +1,4 @@
-Sphaeroderma cameroense Rehm SPECIES
-=======
+# Sphaeroderma cameroense Rehm SPECIES
 
 #### Status
 ACCEPTED

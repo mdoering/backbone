@@ -1,5 +1,4 @@
-Euglena ignobilis L. P. Johnson SPECIES
-=======
+# Euglena ignobilis L. P. Johnson SPECIES
 
 #### Status
 ACCEPTED

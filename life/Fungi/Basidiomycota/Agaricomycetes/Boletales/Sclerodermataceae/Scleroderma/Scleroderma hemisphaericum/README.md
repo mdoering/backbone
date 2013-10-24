@@ -1,5 +1,4 @@
-Scleroderma hemisphaericum Lázaro Ibiza SPECIES
-=======
+# Scleroderma hemisphaericum Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

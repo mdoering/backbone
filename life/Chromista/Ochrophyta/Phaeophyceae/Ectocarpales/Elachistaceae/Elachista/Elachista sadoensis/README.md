@@ -1,5 +1,4 @@
-Elachista sadoensis Noda SPECIES
-=======
+# Elachista sadoensis Noda SPECIES
 
 #### Status
 ACCEPTED

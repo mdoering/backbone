@@ -1,5 +1,4 @@
-Aecidium lebeckiae Henn. SPECIES
-=======
+# Aecidium lebeckiae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eunotogramma Weisse GENUS
-=======
+# Eunotogramma Weisse GENUS
 
 #### Status
 ACCEPTED

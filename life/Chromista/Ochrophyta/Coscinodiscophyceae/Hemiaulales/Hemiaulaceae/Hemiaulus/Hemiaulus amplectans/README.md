@@ -1,5 +1,4 @@
-Hemiaulus amplectans Grove & Sturt SPECIES
-=======
+# Hemiaulus amplectans Grove & Sturt SPECIES
 
 #### Status
 ACCEPTED

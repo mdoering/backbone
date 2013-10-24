@@ -1,5 +1,4 @@
-Catenularia megalospora Speg. SPECIES
-=======
+# Catenularia megalospora Speg. SPECIES
 
 #### Status
 ACCEPTED

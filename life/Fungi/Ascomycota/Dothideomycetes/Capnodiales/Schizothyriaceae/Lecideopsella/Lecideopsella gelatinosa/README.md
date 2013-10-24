@@ -1,17 +1,16 @@
-Leptophyma gelatinosum var. gelatinosum (Höhn.) Arx VARIETY
-=======
+# Lecideopsella gelatinosa Höhn., 1909 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Proc. Linn. Soc. London 157: 38 (1909)
 
 #### Original name
-Leptophyma gelatinosum var. gelatinosum (Höhn.) Arx
+Lecideopsella gelatinosa Höhn., 1909
 
 ### Remarks
 null

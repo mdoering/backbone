@@ -1,5 +1,4 @@
-Ustilaginoidella GENUS
-=======
+# Ustilaginoidella GENUS
 
 #### Status
 ACCEPTED

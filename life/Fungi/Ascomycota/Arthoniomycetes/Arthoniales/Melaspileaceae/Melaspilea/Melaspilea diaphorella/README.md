@@ -1,5 +1,4 @@
-Melaspilea diaphorella Nyl. SPECIES
-=======
+# Melaspilea diaphorella Nyl. SPECIES
 
 #### Status
 ACCEPTED

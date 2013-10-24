@@ -1,5 +1,4 @@
-Glenodinium leptodermum T.M. Harris SPECIES
-=======
+# Glenodinium leptodermum T.M. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xenosoma resinaceum (Lloyd) Syd. & P. Syd. SPECIES
-=======
+# Xenosoma resinaceum (Lloyd) Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

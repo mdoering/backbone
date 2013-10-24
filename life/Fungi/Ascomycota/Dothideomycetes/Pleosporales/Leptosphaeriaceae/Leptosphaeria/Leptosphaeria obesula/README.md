@@ -1,5 +1,4 @@
-Leptosphaeria obesula Mouton SPECIES
-=======
+# Leptosphaeria obesula Mouton SPECIES
 
 #### Status
 ACCEPTED

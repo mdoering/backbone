@@ -1,5 +1,4 @@
-Lecidea laurentiana Nyl. SPECIES
-=======
+# Lecidea laurentiana Nyl. SPECIES
 
 #### Status
 ACCEPTED

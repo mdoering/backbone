@@ -1,5 +1,4 @@
-Agaricus purpuropus Pers. SPECIES
-=======
+# Agaricus purpuropus Pers. SPECIES
 
 #### Status
 ACCEPTED

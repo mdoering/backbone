@@ -1,5 +1,4 @@
-Pseudohaplosporella Spegazzini, 1921 GENUS
-=======
+# Pseudohaplosporella Spegazzini, 1921 GENUS
 
 #### Status
 ACCEPTED

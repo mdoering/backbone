@@ -1,5 +1,4 @@
-Lophodermium vaccinii J. Schröt. SPECIES
-=======
+# Lophodermium vaccinii J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

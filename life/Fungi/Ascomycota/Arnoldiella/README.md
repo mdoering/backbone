@@ -1,5 +1,4 @@
-Arnoldiella R.F. Castañeda, 1984 GENUS
-=======
+# Arnoldiella R.F. Castañeda, 1984 GENUS
 
 #### Status
 ACCEPTED

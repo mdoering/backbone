@@ -1,5 +1,4 @@
-Lichen cruciformis Schrank SPECIES
-=======
+# Lichen cruciformis Schrank SPECIES
 
 #### Status
 ACCEPTED

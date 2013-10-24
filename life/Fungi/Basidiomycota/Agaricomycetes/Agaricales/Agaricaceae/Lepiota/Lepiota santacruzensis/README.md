@@ -1,5 +1,4 @@
-Lepiota santacruzensis A.B. Pereira SPECIES
-=======
+# Lepiota santacruzensis A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

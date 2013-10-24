@@ -1,5 +1,4 @@
-Duportella sphaerospora G. Cunn., 1957 SPECIES
-=======
+# Duportella sphaerospora G. Cunn., 1957 SPECIES
 
 #### Status
 ACCEPTED

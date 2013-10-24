@@ -1,5 +1,4 @@
-Triloculina pyriformis Schlumberger, 1894 SPECIES
-=======
+# Triloculina pyriformis Schlumberger, 1894 SPECIES
 
 #### Status
 ACCEPTED

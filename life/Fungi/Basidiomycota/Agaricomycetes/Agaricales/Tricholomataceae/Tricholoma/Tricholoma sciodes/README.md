@@ -1,17 +1,16 @@
-Tricholoma sciodes var. virgatoides Bon VARIETY
-=======
+# Tricholoma sciodes (Pers.) C. Martín, 1919 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 4(no. 14): 103 (1974)
+Add. Lichenogr. Antill. 51 (1919)
 
 #### Original name
-Tricholoma sciodes var. virgatoides Bon
+Agaricus myomyces Pers., 1794
 
 ### Remarks
 null

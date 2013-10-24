@@ -1,5 +1,4 @@
-Leptospira fainei Perolat et al., 1998 SPECIES
-=======
+# Leptospira fainei Perolat et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

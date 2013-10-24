@@ -1,5 +1,4 @@
-Leptogium anastomosans Nyl. SPECIES
-=======
+# Leptogium anastomosans Nyl. SPECIES
 
 #### Status
 ACCEPTED

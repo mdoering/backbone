@@ -1,5 +1,4 @@
-Solenia verticalis Hoffm. SPECIES
-=======
+# Solenia verticalis Hoffm. SPECIES
 
 #### Status
 ACCEPTED

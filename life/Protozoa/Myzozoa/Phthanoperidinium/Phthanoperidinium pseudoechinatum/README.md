@@ -1,5 +1,4 @@
-Phthanoperidinium pseudoechinatum Bujak, 1980 SPECIES
-=======
+# Phthanoperidinium pseudoechinatum Bujak, 1980 SPECIES
 
 #### Status
 ACCEPTED

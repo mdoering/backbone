@@ -1,17 +1,16 @@
-Thelephora amphibola Fr. SPECIES
-=======
+# Thelephora amphibolia Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Havniae) 1: 151 (1815)
 
 #### Original name
-Thelephora amphibola Fr.
+Thelephora amphibolia Fr.
 
 ### Remarks
 null

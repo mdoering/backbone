@@ -1,5 +1,4 @@
-Didymocyrtidium mozambicum Vain. SPECIES
-=======
+# Didymocyrtidium mozambicum Vain. SPECIES
 
 #### Status
 ACCEPTED

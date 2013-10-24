@@ -1,5 +1,4 @@
-Cercospora maculans Pat. SPECIES
-=======
+# Cercospora maculans Pat. SPECIES
 
 #### Status
 ACCEPTED

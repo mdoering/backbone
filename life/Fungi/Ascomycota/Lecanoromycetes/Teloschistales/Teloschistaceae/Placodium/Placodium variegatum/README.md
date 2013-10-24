@@ -1,5 +1,4 @@
-Placodium variegatum Colmeiro SPECIES
-=======
+# Placodium variegatum Colmeiro SPECIES
 
 #### Status
 ACCEPTED

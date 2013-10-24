@@ -1,5 +1,4 @@
-Lecanora mundula Stirt. SPECIES
-=======
+# Lecanora mundula Stirt. SPECIES
 
 #### Status
 ACCEPTED

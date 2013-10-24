@@ -1,5 +1,4 @@
-Burkholderia vietnamiensis Gillis et al., 1995 SPECIES
-=======
+# Burkholderia vietnamiensis Gillis et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

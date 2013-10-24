@@ -1,17 +1,16 @@
-Coniothyrium fuckelii var. fuckelii VARIETY
-=======
+# Leptosphaeria coniothyrium (Fuckel) Sacc., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungi venet. nov. vel. Crit. , Ser. 5 200 (1878)
+G. bot. ital. 7: 317 (1875)
 
 #### Original name
-Coniothyrium fuckelii var. fuckelii
+Sphaeria coniothyrium Fuckel, 1870
 
 ### Remarks
 null

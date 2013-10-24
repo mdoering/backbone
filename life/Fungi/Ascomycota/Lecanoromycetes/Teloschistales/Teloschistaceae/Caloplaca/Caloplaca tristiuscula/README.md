@@ -1,5 +1,4 @@
-Caloplaca tristiuscula H. Magn. SPECIES
-=======
+# Caloplaca tristiuscula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria macrura A. Bayer SPECIES
-=======
+# Sordaria macrura A. Bayer SPECIES
 
 #### Status
 ACCEPTED

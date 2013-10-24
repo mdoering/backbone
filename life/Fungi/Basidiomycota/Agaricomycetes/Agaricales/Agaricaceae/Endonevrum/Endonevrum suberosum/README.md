@@ -1,5 +1,4 @@
-Endonevrum suberosum (Fr.) Czern. SPECIES
-=======
+# Endonevrum suberosum (Fr.) Czern. SPECIES
 
 #### Status
 ACCEPTED

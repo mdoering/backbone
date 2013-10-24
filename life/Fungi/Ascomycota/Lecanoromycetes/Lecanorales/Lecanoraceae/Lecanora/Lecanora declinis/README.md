@@ -1,5 +1,4 @@
-Lecanora declinis Nyl. SPECIES
-=======
+# Lecanora declinis Nyl. SPECIES
 
 #### Status
 ACCEPTED

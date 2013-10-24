@@ -1,5 +1,4 @@
-Fulgia hyalinella Trevis. SPECIES
-=======
+# Fulgia hyalinella Trevis. SPECIES
 
 #### Status
 ACCEPTED

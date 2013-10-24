@@ -1,17 +1,16 @@
-Pertusaria microspora Müll. Arg. SPECIES
-=======
+# Pertusaria pertractata Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Glasgow Soc. Fld Nat. 4: 93 (1876)
 
 #### Original name
-null
+Pertusaria pertractata Stirt.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Jerainum triquetrum Nawawi & Kuthub., 1992 SPECIES
-=======
+# Jerainum triquetrum Nawawi & Kuthub., 1992 SPECIES
 
 #### Status
 ACCEPTED

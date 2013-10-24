@@ -1,5 +1,4 @@
-Citricoccus alkalitolerans Li et al., 2005 SPECIES
-=======
+# Citricoccus alkalitolerans Li et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

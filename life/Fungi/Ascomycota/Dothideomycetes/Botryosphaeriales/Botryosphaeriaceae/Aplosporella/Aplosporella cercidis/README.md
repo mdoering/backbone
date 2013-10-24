@@ -1,5 +1,4 @@
-Aplosporella cercidis Ellis & Barthol. SPECIES
-=======
+# Aplosporella cercidis Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

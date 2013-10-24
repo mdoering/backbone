@@ -1,17 +1,16 @@
-Cintractia fimbristylicola Pavgi & Mundk. SPECIES
-=======
+# Pilocintractia fimbristylidicola (Pavgi & Mundk.) Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Balcanica 1(2-3): 173 (2004)
 
 #### Original name
-Cintractia fimbristylicola Pavgi & Mundk.
+Cintractia fimbristylidicola Pavgi & Mundk., 1949
 
 ### Remarks
 null

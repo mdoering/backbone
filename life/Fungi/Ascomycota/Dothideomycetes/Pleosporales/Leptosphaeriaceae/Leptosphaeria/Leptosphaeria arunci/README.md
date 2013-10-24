@@ -1,5 +1,4 @@
-Leptosphaeria arunci Zeller SPECIES
-=======
+# Leptosphaeria arunci Zeller SPECIES
 
 #### Status
 ACCEPTED

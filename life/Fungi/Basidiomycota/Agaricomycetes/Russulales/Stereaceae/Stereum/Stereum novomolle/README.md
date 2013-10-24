@@ -1,5 +1,4 @@
-Stereum novomolle Lloyd SPECIES
-=======
+# Stereum novomolle Lloyd SPECIES
 
 #### Status
 ACCEPTED

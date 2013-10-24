@@ -1,5 +1,4 @@
-Microdiplodia astragalina S. Ahmad SPECIES
-=======
+# Microdiplodia astragalina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

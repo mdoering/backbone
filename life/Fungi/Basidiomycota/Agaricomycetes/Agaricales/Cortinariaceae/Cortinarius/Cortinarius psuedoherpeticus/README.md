@@ -1,5 +1,4 @@
-Cortinarius psuedoherpeticus Rob. Henry SPECIES
-=======
+# Cortinarius psuedoherpeticus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

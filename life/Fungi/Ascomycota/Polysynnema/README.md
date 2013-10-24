@@ -1,5 +1,4 @@
-Polysynnema Constant. & Seifert GENUS
-=======
+# Polysynnema Constant. & Seifert GENUS
 
 #### Status
 ACCEPTED

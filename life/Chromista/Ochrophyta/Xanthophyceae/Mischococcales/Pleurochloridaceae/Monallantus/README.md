@@ -1,5 +1,4 @@
-Monallantus Pascher, 1937 GENUS
-=======
+# Monallantus Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

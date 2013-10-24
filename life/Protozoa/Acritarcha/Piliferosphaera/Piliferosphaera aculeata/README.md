@@ -1,5 +1,4 @@
-Piliferosphaera aculeata (Díez & Cramer, 1976) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Piliferosphaera aculeata (Díez & Cramer, 1976) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

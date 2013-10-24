@@ -1,5 +1,4 @@
-Arthonia neuridella Stirt. SPECIES
-=======
+# Arthonia neuridella Stirt. SPECIES
 
 #### Status
 ACCEPTED

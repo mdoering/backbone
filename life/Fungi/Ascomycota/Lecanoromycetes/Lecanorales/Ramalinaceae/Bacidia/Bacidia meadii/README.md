@@ -1,5 +1,4 @@
-Bacidia meadii (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia meadii (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

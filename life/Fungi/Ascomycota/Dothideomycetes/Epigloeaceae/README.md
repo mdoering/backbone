@@ -1,5 +1,4 @@
-Epigloeaceae Zahlbr. FAMILY
-=======
+# Epigloeaceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED

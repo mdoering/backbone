@@ -1,14 +1,13 @@
-Dicaeoma hemerocallidis (Thüm.) Kuntze, 1898 SPECIES
-=======
+# Puccinia hemerocallidis Thüm., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 469 (1898)
+Pilzflora Siber. no. 512 (1880)
 
 #### Original name
 Puccinia hemerocallidis Thüm., 1880

@@ -1,5 +1,4 @@
-Gymnosporangium trachysorum F. Kern, 1910 SPECIES
-=======
+# Gymnosporangium trachysorum F. Kern, 1910 SPECIES
 
 #### Status
 ACCEPTED

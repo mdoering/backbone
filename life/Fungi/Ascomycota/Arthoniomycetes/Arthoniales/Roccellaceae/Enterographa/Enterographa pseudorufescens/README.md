@@ -1,5 +1,4 @@
-Enterographa pseudorufescens (B. de Lesd.) Redinger SPECIES
-=======
+# Enterographa pseudorufescens (B. de Lesd.) Redinger SPECIES
 
 #### Status
 ACCEPTED

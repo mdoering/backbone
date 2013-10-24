@@ -1,14 +1,13 @@
-Polyporus frondosus var. frondosus VARIETY
-=======
+# Grifola frondosa (Dicks.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 643 (1821)
 
 #### Original name
 Boletus frondosus Pers., 1800

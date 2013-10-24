@@ -1,5 +1,4 @@
-Dialonectria solani (Reinke & Berthold) Cooke SPECIES
-=======
+# Dialonectria solani (Reinke & Berthold) Cooke SPECIES
 
 #### Status
 ACCEPTED

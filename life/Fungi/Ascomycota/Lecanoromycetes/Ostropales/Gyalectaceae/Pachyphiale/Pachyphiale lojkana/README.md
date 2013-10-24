@@ -1,5 +1,4 @@
-Pachyphiale lojkana (Nyl.) Keissl. SPECIES
-=======
+# Pachyphiale lojkana (Nyl.) Keissl. SPECIES
 
 #### Status
 ACCEPTED

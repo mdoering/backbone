@@ -1,5 +1,4 @@
-Cladosporium nervisequum Mont. SPECIES
-=======
+# Cladosporium nervisequum Mont. SPECIES
 
 #### Status
 ACCEPTED

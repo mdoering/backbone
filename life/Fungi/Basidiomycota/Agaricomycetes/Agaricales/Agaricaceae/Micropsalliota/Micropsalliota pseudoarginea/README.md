@@ -1,5 +1,4 @@
-Micropsalliota pseudoarginea Heinem. SPECIES
-=======
+# Micropsalliota pseudoarginea Heinem. SPECIES
 
 #### Status
 ACCEPTED

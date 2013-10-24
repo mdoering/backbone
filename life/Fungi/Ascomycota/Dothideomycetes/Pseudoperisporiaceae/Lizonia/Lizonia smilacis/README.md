@@ -1,5 +1,4 @@
-Lizonia smilacis Racib. SPECIES
-=======
+# Lizonia smilacis Racib. SPECIES
 
 #### Status
 ACCEPTED

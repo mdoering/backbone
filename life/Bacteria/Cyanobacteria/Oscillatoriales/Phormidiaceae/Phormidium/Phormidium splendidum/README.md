@@ -1,5 +1,4 @@
-Phormidium splendidum (Greville ex Gomont) Anagnostidis & Komárek, 1988 SPECIES
-=======
+# Phormidium splendidum (Greville ex Gomont) Anagnostidis & Komárek, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strombomonas ampullaeformis Huber-Pestalozzi SPECIES
-=======
+# Strombomonas ampullaeformis Huber-Pestalozzi SPECIES
 
 #### Status
 ACCEPTED

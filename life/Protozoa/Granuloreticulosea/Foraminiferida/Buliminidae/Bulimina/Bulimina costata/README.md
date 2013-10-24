@@ -1,5 +1,4 @@
-Bulimina costata SPECIES
-=======
+# Bulimina costata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thecaphora piluliformis Berk. & M.A. Curtis SPECIES
-=======
+# Thecaphora piluliformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

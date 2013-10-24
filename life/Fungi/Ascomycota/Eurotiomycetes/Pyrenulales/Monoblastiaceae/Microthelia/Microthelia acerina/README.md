@@ -1,5 +1,4 @@
-Microthelia acerina Rossman & H.E. Wilcox SPECIES
-=======
+# Microthelia acerina Rossman & H.E. Wilcox SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrina Höhn. GENUS
-=======
+# Leptothyrina Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus maritimoides Peck SPECIES
-=======
+# Agaricus maritimoides Peck SPECIES
 
 #### Status
 ACCEPTED

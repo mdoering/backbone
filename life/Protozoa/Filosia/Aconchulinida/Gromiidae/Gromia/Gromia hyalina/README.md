@@ -1,5 +1,4 @@
-Gromia hyalina Schlumberger, 1845 SPECIES
-=======
+# Gromia hyalina Schlumberger, 1845 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina weyhei Staritz SPECIES
-=======
+# Diplodina weyhei Staritz SPECIES
 
 #### Status
 ACCEPTED

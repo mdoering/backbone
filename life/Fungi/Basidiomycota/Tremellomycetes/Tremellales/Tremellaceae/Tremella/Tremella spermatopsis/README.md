@@ -1,5 +1,4 @@
-Tremella spermatopsis Speg. SPECIES
-=======
+# Tremella spermatopsis Speg. SPECIES
 
 #### Status
 ACCEPTED

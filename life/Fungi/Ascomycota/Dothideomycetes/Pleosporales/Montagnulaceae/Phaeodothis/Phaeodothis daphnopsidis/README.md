@@ -1,5 +1,4 @@
-Phaeodothis daphnopsidis (Henn.) Theiss. & Syd. SPECIES
-=======
+# Phaeodothis daphnopsidis (Henn.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

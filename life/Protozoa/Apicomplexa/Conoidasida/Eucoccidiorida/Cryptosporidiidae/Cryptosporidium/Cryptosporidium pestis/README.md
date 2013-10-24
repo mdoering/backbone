@@ -1,5 +1,4 @@
-Cryptosporidium pestis Slapeta, 2006 SPECIES
-=======
+# Cryptosporidium pestis Slapeta, 2006 SPECIES
 
 #### Status
 ACCEPTED

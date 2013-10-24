@@ -1,5 +1,4 @@
-Torula galleti Roum. SPECIES
-=======
+# Torula galleti Roum. SPECIES
 
 #### Status
 ACCEPTED

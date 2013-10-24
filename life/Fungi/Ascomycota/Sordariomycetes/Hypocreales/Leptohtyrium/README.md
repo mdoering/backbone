@@ -1,5 +1,4 @@
-Leptohtyrium GENUS
-=======
+# Leptohtyrium GENUS
 
 #### Status
 ACCEPTED

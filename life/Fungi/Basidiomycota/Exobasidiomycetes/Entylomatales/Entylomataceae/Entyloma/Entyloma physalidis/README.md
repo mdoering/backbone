@@ -1,5 +1,4 @@
-Entyloma physalidis (Kalchbr. & Cooke) G. Winter SPECIES
-=======
+# Entyloma physalidis (Kalchbr. & Cooke) G. Winter SPECIES
 
 #### Status
 ACCEPTED

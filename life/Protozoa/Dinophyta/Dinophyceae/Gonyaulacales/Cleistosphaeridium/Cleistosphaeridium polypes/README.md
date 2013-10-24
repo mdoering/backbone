@@ -1,5 +1,4 @@
-Cleistosphaeridium polypes (Cookson & Eisenack, 1962) Davey SPECIES
-=======
+# Cleistosphaeridium polypes (Cookson & Eisenack, 1962) Davey SPECIES
 
 #### Status
 ACCEPTED

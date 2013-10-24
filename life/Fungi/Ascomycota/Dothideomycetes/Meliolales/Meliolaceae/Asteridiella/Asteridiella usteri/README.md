@@ -1,5 +1,4 @@
-Asteridiella usteri (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella usteri (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

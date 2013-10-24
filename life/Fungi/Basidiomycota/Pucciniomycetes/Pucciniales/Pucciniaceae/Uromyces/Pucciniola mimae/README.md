@@ -1,5 +1,4 @@
-Pucciniola mimae (Syd.) Arthur SPECIES
-=======
+# Pucciniola mimae (Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

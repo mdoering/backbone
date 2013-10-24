@@ -1,5 +1,4 @@
-Phyllostictella cucurbitacearum Tassi SPECIES
-=======
+# Phyllostictella cucurbitacearum Tassi SPECIES
 
 #### Status
 ACCEPTED

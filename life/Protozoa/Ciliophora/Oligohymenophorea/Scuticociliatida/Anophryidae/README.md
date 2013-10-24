@@ -1,5 +1,4 @@
-Anophryidae FAMILY
-=======
+# Anophryidae FAMILY
 
 #### Status
 ACCEPTED

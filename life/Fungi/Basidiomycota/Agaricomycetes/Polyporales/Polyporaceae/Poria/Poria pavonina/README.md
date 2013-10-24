@@ -1,5 +1,4 @@
-Poria pavonina Bres., 1896 SPECIES
-=======
+# Poria pavonina Bres., 1896 SPECIES
 
 #### Status
 ACCEPTED

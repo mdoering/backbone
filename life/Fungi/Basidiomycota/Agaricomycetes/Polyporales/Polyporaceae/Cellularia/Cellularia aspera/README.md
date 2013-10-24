@@ -1,5 +1,4 @@
-Cellularia aspera (Klotzsch) Kuntze SPECIES
-=======
+# Cellularia aspera (Klotzsch) Kuntze SPECIES
 
 #### Status
 ACCEPTED

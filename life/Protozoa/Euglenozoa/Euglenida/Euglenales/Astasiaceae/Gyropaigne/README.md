@@ -1,5 +1,4 @@
-Gyropaigne Skuja, 1939 GENUS
-=======
+# Gyropaigne Skuja, 1939 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta kalymbetovii Shirn.-Grish. SPECIES
-=======
+# Ascochyta kalymbetovii Shirn.-Grish. SPECIES
 
 #### Status
 ACCEPTED

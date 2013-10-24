@@ -1,5 +1,4 @@
-Patellaria glebulosa (Sm.) Spreng. SPECIES
-=======
+# Patellaria glebulosa (Sm.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

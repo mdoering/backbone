@@ -1,5 +1,4 @@
-Amanita dolichosporus E.H.L. Krause SPECIES
-=======
+# Amanita dolichosporus E.H.L. Krause SPECIES
 
 #### Status
 ACCEPTED

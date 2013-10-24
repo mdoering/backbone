@@ -1,5 +1,4 @@
-Peronoplasmopara GENUS
-=======
+# Peronoplasmopara GENUS
 
 #### Status
 ACCEPTED

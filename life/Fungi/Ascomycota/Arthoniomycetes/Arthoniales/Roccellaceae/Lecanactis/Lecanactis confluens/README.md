@@ -1,5 +1,4 @@
-Lecanactis confluens var. confluens Mont. VARIETY
-=======
+# Lecanactis confluens Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanactis confluens var. confluens Mont.
+Lecanactis confluens Mont.
 
 ### Remarks
 null

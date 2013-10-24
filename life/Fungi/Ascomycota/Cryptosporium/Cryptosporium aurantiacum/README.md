@@ -1,5 +1,4 @@
-Cryptosporium aurantiacum Link SPECIES
-=======
+# Cryptosporium aurantiacum Link SPECIES
 
 #### Status
 ACCEPTED

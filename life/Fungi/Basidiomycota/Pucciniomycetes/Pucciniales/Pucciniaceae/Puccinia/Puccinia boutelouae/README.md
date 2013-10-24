@@ -1,5 +1,4 @@
-Puccinia boutelouae (H.S. Jenn.) Holw. SPECIES
-=======
+# Puccinia boutelouae (H.S. Jenn.) Holw. SPECIES
 
 #### Status
 ACCEPTED

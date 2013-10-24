@@ -1,5 +1,4 @@
-Muellerella stictinae (H. Olivier) Vouaux SPECIES
-=======
+# Muellerella stictinae (H. Olivier) Vouaux SPECIES
 
 #### Status
 ACCEPTED

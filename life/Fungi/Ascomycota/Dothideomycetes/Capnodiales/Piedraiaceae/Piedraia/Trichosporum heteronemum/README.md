@@ -1,5 +1,4 @@
-Trichosporum heteronemum Pass. SPECIES
-=======
+# Trichosporum heteronemum Pass. SPECIES
 
 #### Status
 ACCEPTED

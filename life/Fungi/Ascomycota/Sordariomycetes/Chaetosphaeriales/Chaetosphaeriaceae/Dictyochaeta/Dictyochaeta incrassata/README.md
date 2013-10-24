@@ -1,5 +1,4 @@
-Dictyochaeta incrassata Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta incrassata Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

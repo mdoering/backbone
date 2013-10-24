@@ -1,17 +1,16 @@
-Pholiotina aeruginosa var. aeruginosa VARIETY
-=======
+# Conocybe aeruginosa Romagn., 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 84: 368 (1969)
 
 #### Original name
-null
+Conocybe aeruginosa Romagn., 1969
 
 ### Remarks
 null

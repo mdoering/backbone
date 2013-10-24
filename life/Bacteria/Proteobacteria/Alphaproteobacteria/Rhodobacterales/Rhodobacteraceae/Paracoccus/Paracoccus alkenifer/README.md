@@ -1,5 +1,4 @@
-Paracoccus alkenifer Lipski et al., 1998 SPECIES
-=======
+# Paracoccus alkenifer Lipski et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

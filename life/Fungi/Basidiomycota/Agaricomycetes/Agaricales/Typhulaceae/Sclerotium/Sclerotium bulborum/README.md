@@ -1,5 +1,4 @@
-Sclerotium bulborum Kleb. SPECIES
-=======
+# Sclerotium bulborum Kleb. SPECIES
 
 #### Status
 ACCEPTED

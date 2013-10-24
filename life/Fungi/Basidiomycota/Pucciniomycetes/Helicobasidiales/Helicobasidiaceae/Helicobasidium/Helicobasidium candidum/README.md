@@ -1,5 +1,4 @@
-Helicobasidium candidum G.W. Martin SPECIES
-=======
+# Helicobasidium candidum G.W. Martin SPECIES
 
 #### Status
 ACCEPTED

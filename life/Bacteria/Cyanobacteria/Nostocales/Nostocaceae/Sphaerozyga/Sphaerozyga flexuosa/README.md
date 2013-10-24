@@ -1,5 +1,4 @@
-Sphaerozyga flexuosa C. Agardh SPECIES
-=======
+# Sphaerozyga flexuosa C. Agardh SPECIES
 
 #### Status
 ACCEPTED

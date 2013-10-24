@@ -1,5 +1,4 @@
-Septoria ulicis Göbelez SPECIES
-=======
+# Septoria ulicis Göbelez SPECIES
 
 #### Status
 ACCEPTED

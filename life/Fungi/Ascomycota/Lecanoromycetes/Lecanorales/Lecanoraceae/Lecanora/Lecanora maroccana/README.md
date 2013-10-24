@@ -1,5 +1,4 @@
-Lecanora maroccana (B. de Lesd.) SPECIES
-=======
+# Lecanora maroccana (B. de Lesd.) SPECIES
 
 #### Status
 ACCEPTED

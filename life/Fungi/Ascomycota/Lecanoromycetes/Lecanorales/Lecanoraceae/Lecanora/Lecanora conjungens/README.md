@@ -1,5 +1,4 @@
-Lecanora conjungens Nyl. SPECIES
-=======
+# Lecanora conjungens Nyl. SPECIES
 
 #### Status
 ACCEPTED

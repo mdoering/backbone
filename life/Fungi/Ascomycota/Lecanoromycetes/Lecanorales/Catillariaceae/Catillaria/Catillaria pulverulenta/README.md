@@ -1,5 +1,4 @@
-Catillaria pulverulenta (Müll. Arg.) SPECIES
-=======
+# Catillaria pulverulenta (Müll. Arg.) SPECIES
 
 #### Status
 ACCEPTED

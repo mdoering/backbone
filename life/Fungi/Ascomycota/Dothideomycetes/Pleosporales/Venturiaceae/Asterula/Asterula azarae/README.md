@@ -1,5 +1,4 @@
-Asterula azarae Lév. SPECIES
-=======
+# Asterula azarae Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora andropogonis Niessl SPECIES
-=======
+# Pleospora andropogonis Niessl SPECIES
 
 #### Status
 ACCEPTED

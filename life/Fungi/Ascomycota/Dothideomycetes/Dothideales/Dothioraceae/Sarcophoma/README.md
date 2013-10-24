@@ -1,5 +1,4 @@
-Sarcophoma Höhn. GENUS
-=======
+# Sarcophoma Höhn. GENUS
 
 #### Status
 ACCEPTED

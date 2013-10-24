@@ -1,5 +1,4 @@
-Fusarium putaminum (Thüm.) Sacc. SPECIES
-=======
+# Fusarium putaminum (Thüm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

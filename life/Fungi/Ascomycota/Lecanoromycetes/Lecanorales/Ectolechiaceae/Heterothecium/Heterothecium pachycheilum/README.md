@@ -1,5 +1,4 @@
-Heterothecium pachycheilum (Tuck.) Tuck. SPECIES
-=======
+# Heterothecium pachycheilum (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

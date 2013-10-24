@@ -1,5 +1,4 @@
-Pseudocercospora photiniae-serrulatae (L. Anzal. & Plakidas) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora photiniae-serrulatae (L. Anzal. & Plakidas) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

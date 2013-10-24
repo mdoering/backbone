@@ -1,5 +1,4 @@
-Incertisporites polygranulatus Hammen SPECIES
-=======
+# Incertisporites polygranulatus Hammen SPECIES
 
 #### Status
 ACCEPTED

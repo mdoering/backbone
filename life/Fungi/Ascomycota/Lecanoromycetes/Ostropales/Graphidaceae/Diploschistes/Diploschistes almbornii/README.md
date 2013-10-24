@@ -1,5 +1,4 @@
-Diploschistes almbornii C.W. Dodge SPECIES
-=======
+# Diploschistes almbornii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

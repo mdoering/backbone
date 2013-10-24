@@ -1,5 +1,4 @@
-Calosphaeria ulmicola Höhn. SPECIES
-=======
+# Calosphaeria ulmicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Episphaerella densa Syd. SPECIES
-=======
+# Episphaerella densa Syd. SPECIES
 
 #### Status
 ACCEPTED

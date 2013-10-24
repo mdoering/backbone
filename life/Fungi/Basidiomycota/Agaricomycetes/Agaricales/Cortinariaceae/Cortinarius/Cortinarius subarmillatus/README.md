@@ -1,5 +1,4 @@
-Cortinarius subarmillatus Hongo SPECIES
-=======
+# Cortinarius subarmillatus Hongo SPECIES
 
 #### Status
 ACCEPTED

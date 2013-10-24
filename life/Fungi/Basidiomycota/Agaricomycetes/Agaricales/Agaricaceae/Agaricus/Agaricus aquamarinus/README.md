@@ -1,5 +1,4 @@
-Agaricus aquamarinus Batsch SPECIES
-=======
+# Agaricus aquamarinus Batsch SPECIES
 
 #### Status
 ACCEPTED

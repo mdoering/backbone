@@ -1,14 +1,13 @@
-Myzocytium lenticulare G.L. Barron, 1976 SPECIES
-=======
+# Myzocytiopsis lenticularis (G.L. Barron) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Antonie van Leeuwenhoek 42(1-2): 132 (1976)
+Mycol. Res. 101(7): 879 (1997)
 
 #### Original name
 Myzocytium lenticulare G.L. Barron, 1976

@@ -1,5 +1,4 @@
-Physcia ciliaris var. ciliaris VARIETY
-=======
+# Physcia ciliaris SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia ciliaris var. ciliaris
+null
 
 ### Remarks
 null

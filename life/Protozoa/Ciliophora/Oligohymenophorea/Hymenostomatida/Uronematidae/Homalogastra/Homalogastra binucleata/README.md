@@ -1,5 +1,4 @@
-Homalogastra binucleata Song, 1993 SPECIES
-=======
+# Homalogastra binucleata Song, 1993 SPECIES
 
 #### Status
 ACCEPTED

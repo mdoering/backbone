@@ -1,5 +1,4 @@
-Bacidia decussata (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia decussata (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

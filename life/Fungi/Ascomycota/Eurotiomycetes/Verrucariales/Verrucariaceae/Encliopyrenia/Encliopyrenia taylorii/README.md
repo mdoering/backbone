@@ -1,8 +1,7 @@
-Encliopyrenia taylori Trevis. SPECIES
-=======
+# Encliopyrenia taylorii Trevis. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Encliopyrenia taylori Trevis.
+Encliopyrenia taylorii Trevis.
 
 ### Remarks
 null

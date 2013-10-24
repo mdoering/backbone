@@ -1,5 +1,4 @@
-Lepiota sierraleonis (Beeli) Locq. SPECIES
-=======
+# Lepiota sierraleonis (Beeli) Locq. SPECIES
 
 #### Status
 ACCEPTED

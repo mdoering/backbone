@@ -1,5 +1,4 @@
-Mycena olivaceoalcalina Singer SPECIES
-=======
+# Mycena olivaceoalcalina Singer SPECIES
 
 #### Status
 ACCEPTED

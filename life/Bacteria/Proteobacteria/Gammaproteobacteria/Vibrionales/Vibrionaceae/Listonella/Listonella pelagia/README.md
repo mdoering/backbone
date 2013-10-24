@@ -1,8 +1,7 @@
-Vibrio pelagius (Baumann et al., 1971) Baumann et al., 1981 SPECIES
-=======
+# Listonella pelagia (Baumann et al., 1971) MacDonell & Colwell, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

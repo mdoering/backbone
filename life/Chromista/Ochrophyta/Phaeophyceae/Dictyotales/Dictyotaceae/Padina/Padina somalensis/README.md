@@ -1,5 +1,4 @@
-Padina somalensis Hauck SPECIES
-=======
+# Padina somalensis Hauck SPECIES
 
 #### Status
 ACCEPTED

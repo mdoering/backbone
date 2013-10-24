@@ -1,5 +1,4 @@
-Meristacram asterospermum Drechsler. SPECIES
-=======
+# Meristacram asterospermum Drechsler. SPECIES
 
 #### Status
 ACCEPTED

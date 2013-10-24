@@ -1,5 +1,4 @@
-Shearia magnoliae (Shear) Petr. SPECIES
-=======
+# Shearia magnoliae (Shear) Petr. SPECIES
 
 #### Status
 ACCEPTED

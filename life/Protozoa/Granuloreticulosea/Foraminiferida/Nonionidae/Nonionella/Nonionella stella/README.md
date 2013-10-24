@@ -1,5 +1,4 @@
-Nonionella stella Cushman & Moyer, 1930 SPECIES
-=======
+# Nonionella stella Cushman & Moyer, 1930 SPECIES
 
 #### Status
 ACCEPTED

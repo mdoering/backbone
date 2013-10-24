@@ -1,5 +1,4 @@
-Dendrothele minima Duhem SPECIES
-=======
+# Dendrothele minima Duhem SPECIES
 
 #### Status
 ACCEPTED

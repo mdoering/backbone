@@ -1,5 +1,4 @@
-Biscogniauxia discincola (Schwein.) Lar.N. Vassiljeva SPECIES
-=======
+# Biscogniauxia discincola (Schwein.) Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

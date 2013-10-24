@@ -1,5 +1,4 @@
-Thielavia pakistanica L.R. Batra, S. Ahmad & Millner SPECIES
-=======
+# Thielavia pakistanica L.R. Batra, S. Ahmad & Millner SPECIES
 
 #### Status
 ACCEPTED

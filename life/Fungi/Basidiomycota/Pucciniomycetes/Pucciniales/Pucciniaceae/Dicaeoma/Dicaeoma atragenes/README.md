@@ -1,5 +1,4 @@
-Dicaeoma atragenes (W. Hausm.) Kuntze SPECIES
-=======
+# Dicaeoma atragenes (W. Hausm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

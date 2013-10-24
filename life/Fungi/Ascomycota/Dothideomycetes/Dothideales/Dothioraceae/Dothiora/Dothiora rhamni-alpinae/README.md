@@ -1,5 +1,4 @@
-Dothiora rhamni-alpinae Froid., 1973 SPECIES
-=======
+# Dothiora rhamni-alpinae Froid., 1973 SPECIES
 
 #### Status
 ACCEPTED

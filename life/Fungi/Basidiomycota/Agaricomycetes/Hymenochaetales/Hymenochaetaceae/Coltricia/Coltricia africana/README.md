@@ -1,5 +1,4 @@
-Coltricia africana Masuka & Ryvarden SPECIES
-=======
+# Coltricia africana Masuka & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

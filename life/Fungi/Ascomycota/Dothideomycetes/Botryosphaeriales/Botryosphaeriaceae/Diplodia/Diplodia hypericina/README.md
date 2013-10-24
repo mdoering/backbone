@@ -1,5 +1,4 @@
-Diplodia hypericina Sacc. SPECIES
-=======
+# Diplodia hypericina Sacc. SPECIES
 
 #### Status
 ACCEPTED

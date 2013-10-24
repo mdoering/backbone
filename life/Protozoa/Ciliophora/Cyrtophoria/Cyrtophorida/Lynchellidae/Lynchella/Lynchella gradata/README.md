@@ -1,5 +1,4 @@
-Lynchella gradata (Kahl, 1933) Jankowski, 1968 SPECIES
-=======
+# Lynchella gradata (Kahl, 1933) Jankowski, 1968 SPECIES
 
 #### Status
 ACCEPTED

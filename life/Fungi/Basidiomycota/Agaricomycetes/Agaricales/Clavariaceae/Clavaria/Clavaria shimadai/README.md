@@ -1,5 +1,4 @@
-Clavaria shimadai S. Imai SPECIES
-=======
+# Clavaria shimadai S. Imai SPECIES
 
 #### Status
 ACCEPTED

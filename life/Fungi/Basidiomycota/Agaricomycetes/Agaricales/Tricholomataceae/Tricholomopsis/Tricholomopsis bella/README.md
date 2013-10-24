@@ -1,5 +1,4 @@
-Tricholomopsis bella A.H. Sm. SPECIES
-=======
+# Tricholomopsis bella A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

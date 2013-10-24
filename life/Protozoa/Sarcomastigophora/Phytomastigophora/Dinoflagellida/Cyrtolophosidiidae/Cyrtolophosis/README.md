@@ -1,5 +1,4 @@
-Cyrtolophosis (Schew.) GENUS
-=======
+# Cyrtolophosis (Schew.) GENUS
 
 #### Status
 ACCEPTED

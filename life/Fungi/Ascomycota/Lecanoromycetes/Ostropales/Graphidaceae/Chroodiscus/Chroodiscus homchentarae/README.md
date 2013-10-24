@@ -1,5 +1,4 @@
-Chroodiscus homchentarae Papong & Lücking SPECIES
-=======
+# Chroodiscus homchentarae Papong & Lücking SPECIES
 
 #### Status
 ACCEPTED

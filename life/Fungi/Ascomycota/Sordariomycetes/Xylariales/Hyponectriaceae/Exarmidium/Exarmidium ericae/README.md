@@ -1,5 +1,4 @@
-Exarmidium ericae Petr. SPECIES
-=======
+# Exarmidium ericae Petr. SPECIES
 
 #### Status
 ACCEPTED

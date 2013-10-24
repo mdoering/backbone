@@ -1,14 +1,13 @@
-Lecidea metaleptodes Nyl. SPECIES
-=======
+# Stigmatochroma metaleptodes (Nyl.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 319 (2000)
 
 #### Original name
 Lecidea metaleptodes Nyl.

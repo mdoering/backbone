@@ -1,5 +1,4 @@
-Psora rubiformella (Zahlbr.) Gotth. Schneid. SPECIES
-=======
+# Psora rubiformella (Zahlbr.) Gotth. Schneid. SPECIES
 
 #### Status
 ACCEPTED

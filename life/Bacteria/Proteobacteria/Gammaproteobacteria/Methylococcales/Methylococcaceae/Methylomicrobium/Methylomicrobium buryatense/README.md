@@ -1,5 +1,4 @@
-Methylomicrobium buryatense Kaluzhnaya et al., 2001 SPECIES
-=======
+# Methylomicrobium buryatense Kaluzhnaya et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

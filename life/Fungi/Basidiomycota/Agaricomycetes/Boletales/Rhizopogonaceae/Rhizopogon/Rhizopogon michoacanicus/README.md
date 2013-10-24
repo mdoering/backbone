@@ -1,5 +1,4 @@
-Rhizopogon michoacanicus Trappe & Guzmán SPECIES
-=======
+# Rhizopogon michoacanicus Trappe & Guzmán SPECIES
 
 #### Status
 ACCEPTED

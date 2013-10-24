@@ -1,5 +1,4 @@
-Calycellina lauri Dennis & Spooner SPECIES
-=======
+# Calycellina lauri Dennis & Spooner SPECIES
 
 #### Status
 ACCEPTED

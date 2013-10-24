@@ -1,5 +1,4 @@
-Pseudonummoloculina GENUS
-=======
+# Pseudonummoloculina GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus laricinus Velen. SPECIES
-=======
+# Pleurotus laricinus Velen. SPECIES
 
 #### Status
 ACCEPTED

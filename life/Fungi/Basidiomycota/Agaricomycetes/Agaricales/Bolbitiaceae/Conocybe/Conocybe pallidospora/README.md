@@ -1,17 +1,16 @@
-Conocybe siliginea var. pallidospora Kühner, 1935 VARIETY
-=======
+# Conocybe pallidospora Kühner & Watling, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Encyclop. Mycol. 7: 100 (1935)
+in Watling, Notes R. bot. Gdn Edinb. 40(3): 540 (1983)
 
 #### Original name
-Conocybe siliginea var. pallidospora Kühner, 1935
+Conocybe pallidospora Kühner & Watling, 1983
 
 ### Remarks
 null

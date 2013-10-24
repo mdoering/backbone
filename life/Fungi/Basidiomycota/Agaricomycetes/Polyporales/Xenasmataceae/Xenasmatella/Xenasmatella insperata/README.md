@@ -1,14 +1,13 @@
-Corticium insperatum H.S. Jacks., 1950 SPECIES
-=======
+# Xenasmatella insperata (H.S. Jacks.) Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Canadian Journal of Research, Section C 28: 718 (1950)
+Persoonia 10(3): 334 (1979)
 
 #### Original name
 Corticium insperatum H.S. Jacks., 1950

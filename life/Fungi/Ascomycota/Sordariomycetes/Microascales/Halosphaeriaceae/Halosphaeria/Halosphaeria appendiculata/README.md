@@ -1,5 +1,4 @@
-Halosphaeria appendiculata Linder, 1944 SPECIES
-=======
+# Halosphaeria appendiculata Linder, 1944 SPECIES
 
 #### Status
 ACCEPTED

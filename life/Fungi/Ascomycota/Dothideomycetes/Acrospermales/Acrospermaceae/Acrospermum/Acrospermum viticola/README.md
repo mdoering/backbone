@@ -1,8 +1,7 @@
-Acrospermum viticolum Ikata & Hitomi SPECIES
-=======
+# Acrospermum viticola Ikata & Hitomi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Acrospermum viticolum Ikata & Hitomi
+Acrospermum viticola Ikata & Hitomi
 
 ### Remarks
 null

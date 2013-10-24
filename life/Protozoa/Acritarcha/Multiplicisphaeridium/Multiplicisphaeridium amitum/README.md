@@ -1,5 +1,4 @@
-Multiplicisphaeridium amitum Wicander & Loeblich, 1977 SPECIES
-=======
+# Multiplicisphaeridium amitum Wicander & Loeblich, 1977 SPECIES
 
 #### Status
 ACCEPTED

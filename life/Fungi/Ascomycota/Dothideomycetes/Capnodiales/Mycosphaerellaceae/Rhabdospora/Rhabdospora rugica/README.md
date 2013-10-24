@@ -1,5 +1,4 @@
-Rhabdospora rugica Syd. SPECIES
-=======
+# Rhabdospora rugica Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula alba Velen. SPECIES
-=======
+# Russula alba Velen. SPECIES
 
 #### Status
 ACCEPTED

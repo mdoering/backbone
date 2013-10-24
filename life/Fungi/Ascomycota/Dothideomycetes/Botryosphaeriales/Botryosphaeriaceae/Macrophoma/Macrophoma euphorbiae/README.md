@@ -1,5 +1,4 @@
-Macrophoma euphorbiae Bacc. SPECIES
-=======
+# Macrophoma euphorbiae Bacc. SPECIES
 
 #### Status
 ACCEPTED

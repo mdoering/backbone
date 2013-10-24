@@ -1,5 +1,4 @@
-Doliomyces saksenaensis (S.S. Singh) Nag Raj SPECIES
-=======
+# Doliomyces saksenaensis (S.S. Singh) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

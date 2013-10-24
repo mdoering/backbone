@@ -1,5 +1,4 @@
-Bachmannia maurula (Müll. Arg.) Zschacke SPECIES
-=======
+# Bachmannia maurula (Müll. Arg.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

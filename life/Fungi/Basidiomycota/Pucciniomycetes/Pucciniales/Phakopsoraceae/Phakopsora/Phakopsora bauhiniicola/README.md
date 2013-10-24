@@ -1,5 +1,4 @@
-Phakopsora bauhiniicola Y. Ono, Buriticá & J.F. Hennen SPECIES
-=======
+# Phakopsora bauhiniicola Y. Ono, Buriticá & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramaria angustata (Lév.) Corner SPECIES
-=======
+# Ramaria angustata (Lév.) Corner SPECIES
 
 #### Status
 ACCEPTED

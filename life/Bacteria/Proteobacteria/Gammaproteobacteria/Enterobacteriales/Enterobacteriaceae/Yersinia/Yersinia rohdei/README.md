@@ -1,5 +1,4 @@
-Yersinia rohdei Aleksic et al., 1987 SPECIES
-=======
+# Yersinia rohdei Aleksic et al., 1987 SPECIES
 
 #### Status
 ACCEPTED

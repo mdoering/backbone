@@ -1,5 +1,4 @@
-Asterina perpusilla Syd. & P. Syd. SPECIES
-=======
+# Asterina perpusilla Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

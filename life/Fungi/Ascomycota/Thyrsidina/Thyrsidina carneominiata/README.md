@@ -1,5 +1,4 @@
-Thyrsidina carneominiata Höhn., 1905 SPECIES
-=======
+# Thyrsidina carneominiata Höhn., 1905 SPECIES
 
 #### Status
 ACCEPTED

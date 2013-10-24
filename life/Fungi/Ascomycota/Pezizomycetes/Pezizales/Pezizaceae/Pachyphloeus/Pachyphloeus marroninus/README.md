@@ -1,5 +1,4 @@
-Pachyphloeus marroninus Healy, Bonito & Guevara SPECIES
-=======
+# Pachyphloeus marroninus Healy, Bonito & Guevara SPECIES
 
 #### Status
 ACCEPTED

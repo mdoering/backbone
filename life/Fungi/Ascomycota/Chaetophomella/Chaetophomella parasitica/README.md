@@ -1,5 +1,4 @@
-Chaetophomella parasitica Petr. SPECIES
-=======
+# Chaetophomella parasitica Petr. SPECIES
 
 #### Status
 ACCEPTED

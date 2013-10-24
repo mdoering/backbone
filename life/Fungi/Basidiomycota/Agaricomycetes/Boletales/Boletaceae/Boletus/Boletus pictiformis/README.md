@@ -1,5 +1,4 @@
-Boletus pictiformis (Murrill) Murrill SPECIES
-=======
+# Boletus pictiformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

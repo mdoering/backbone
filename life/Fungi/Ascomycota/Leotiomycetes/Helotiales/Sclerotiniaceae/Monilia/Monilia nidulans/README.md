@@ -1,5 +1,4 @@
-Monilia nidulans Roth SPECIES
-=======
+# Monilia nidulans Roth SPECIES
 
 #### Status
 ACCEPTED

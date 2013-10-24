@@ -1,8 +1,7 @@
-Tricholoma dense-lamellatum (Britzelm.) Sacc. SPECIES
-=======
+# Tricholoma densilamellatum (Britzelm.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

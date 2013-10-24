@@ -1,5 +1,4 @@
-Lecanora encephalarti Kremp. SPECIES
-=======
+# Lecanora encephalarti Kremp. SPECIES
 
 #### Status
 ACCEPTED

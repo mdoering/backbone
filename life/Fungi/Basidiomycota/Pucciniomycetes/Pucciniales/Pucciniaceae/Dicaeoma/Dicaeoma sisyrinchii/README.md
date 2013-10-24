@@ -1,5 +1,4 @@
-Dicaeoma sisyrinchii (Mont.) Kuntze SPECIES
-=======
+# Dicaeoma sisyrinchii (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

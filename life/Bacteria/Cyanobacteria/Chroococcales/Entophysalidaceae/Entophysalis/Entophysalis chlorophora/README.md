@@ -1,5 +1,4 @@
-Entophysalis chlorophora Gardner SPECIES
-=======
+# Entophysalis chlorophora Gardner SPECIES
 
 #### Status
 ACCEPTED

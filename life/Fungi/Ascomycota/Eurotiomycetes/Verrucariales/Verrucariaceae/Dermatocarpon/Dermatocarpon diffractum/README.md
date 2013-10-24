@@ -1,5 +1,4 @@
-Dermatocarpon diffractum Blomb. & Forssell SPECIES
-=======
+# Dermatocarpon diffractum Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

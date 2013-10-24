@@ -1,5 +1,4 @@
-Agaricus ammoniacus Fr. SPECIES
-=======
+# Agaricus ammoniacus Fr. SPECIES
 
 #### Status
 ACCEPTED

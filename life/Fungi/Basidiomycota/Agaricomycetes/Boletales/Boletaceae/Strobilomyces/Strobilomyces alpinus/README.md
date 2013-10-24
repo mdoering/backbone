@@ -1,5 +1,4 @@
-Strobilomyces alpinus M. Zang, Y. Xuan & K.K. Cheng SPECIES
-=======
+# Strobilomyces alpinus M. Zang, Y. Xuan & K.K. Cheng SPECIES
 
 #### Status
 ACCEPTED

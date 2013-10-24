@@ -1,5 +1,4 @@
-Pseudocercospora luculiae (M.K. Khan, Budathoki & Kamal) D.E. Shaw & Alcorn SPECIES
-=======
+# Pseudocercospora luculiae (M.K. Khan, Budathoki & Kamal) D.E. Shaw & Alcorn SPECIES
 
 #### Status
 ACCEPTED

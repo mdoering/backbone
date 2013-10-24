@@ -1,5 +1,4 @@
-Anteholosticha extensa Kahl, 1932 SPECIES
-=======
+# Anteholosticha extensa Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

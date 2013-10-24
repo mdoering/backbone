@@ -1,5 +1,4 @@
-Uredo wrightii Berk. & M.A. Curtis SPECIES
-=======
+# Uredo wrightii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

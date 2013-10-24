@@ -1,5 +1,4 @@
-Favulina Patterson & Richardson, 1988 GENUS
-=======
+# Favulina Patterson & Richardson, 1988 GENUS
 
 #### Status
 ACCEPTED

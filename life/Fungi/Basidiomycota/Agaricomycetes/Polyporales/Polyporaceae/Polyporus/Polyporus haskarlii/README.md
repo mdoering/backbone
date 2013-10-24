@@ -1,8 +1,7 @@
-Polyporus hasskarlii Lév. SPECIES
-=======
+# Polyporus haskarlii Lév. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyporus hasskarlii Lév.
+Polyporus haskarlii Lév.
 
 ### Remarks
 null

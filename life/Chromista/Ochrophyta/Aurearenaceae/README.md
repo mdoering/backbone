@@ -1,5 +1,4 @@
-Aurearenaceae Kai, Yoshii, Nakayama & Inouye, 2008 FAMILY
-=======
+# Aurearenaceae Kai, Yoshii, Nakayama & Inouye, 2008 FAMILY
 
 #### Status
 ACCEPTED

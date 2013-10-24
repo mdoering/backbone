@@ -1,5 +1,4 @@
-Peltulaceae Büdel FAMILY
-=======
+# Peltulaceae Büdel FAMILY
 
 #### Status
 ACCEPTED

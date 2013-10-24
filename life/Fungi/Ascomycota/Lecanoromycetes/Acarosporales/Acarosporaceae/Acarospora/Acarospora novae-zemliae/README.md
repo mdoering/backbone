@@ -1,5 +1,4 @@
-Acarospora novae-zemliae H. Magn. SPECIES
-=======
+# Acarospora novae-zemliae H. Magn. SPECIES
 
 #### Status
 ACCEPTED

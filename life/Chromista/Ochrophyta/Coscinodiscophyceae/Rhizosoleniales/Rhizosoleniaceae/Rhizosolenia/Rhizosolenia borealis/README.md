@@ -1,8 +1,7 @@
-Rhizosolenia styliformis var. oceanica Wimpenny, 1946 VARIETY
-=======
+# Rhizosolenia borealis B.G.Sundström, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

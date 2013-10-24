@@ -1,5 +1,4 @@
-Amphoroblastia pachydermis (Servít) Servít SPECIES
-=======
+# Amphoroblastia pachydermis (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

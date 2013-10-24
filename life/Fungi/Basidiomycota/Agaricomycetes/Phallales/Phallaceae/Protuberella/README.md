@@ -1,5 +1,4 @@
-Protuberella S. Imai & A. Kawam. GENUS
-=======
+# Protuberella S. Imai & A. Kawam. GENUS
 
 #### Status
 ACCEPTED

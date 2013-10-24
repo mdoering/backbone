@@ -1,5 +1,4 @@
-Myceliochytrium fulgens A.E. Johanson SPECIES
-=======
+# Myceliochytrium fulgens A.E. Johanson SPECIES
 
 #### Status
 ACCEPTED

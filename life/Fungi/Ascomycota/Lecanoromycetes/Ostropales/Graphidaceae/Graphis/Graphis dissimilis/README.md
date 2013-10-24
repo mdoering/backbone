@@ -1,5 +1,4 @@
-Graphis dissimilis SPECIES
-=======
+# Graphis dissimilis SPECIES
 
 #### Status
 ACCEPTED

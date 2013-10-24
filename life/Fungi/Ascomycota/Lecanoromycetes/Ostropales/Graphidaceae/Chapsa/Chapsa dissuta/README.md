@@ -1,5 +1,4 @@
-Chapsa dissuta (Hale) Mangold SPECIES
-=======
+# Chapsa dissuta (Hale) Mangold SPECIES
 
 #### Status
 ACCEPTED

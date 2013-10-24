@@ -1,5 +1,4 @@
-Blastoconium tropicum Cif., 1931 SPECIES
-=======
+# Blastoconium tropicum Cif., 1931 SPECIES
 
 #### Status
 ACCEPTED

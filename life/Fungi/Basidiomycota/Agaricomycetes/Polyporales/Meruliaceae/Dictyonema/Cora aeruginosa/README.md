@@ -1,5 +1,4 @@
-Cora aeruginosa (Blume & T. Nees) Sacc. SPECIES
-=======
+# Cora aeruginosa (Blume & T. Nees) Sacc. SPECIES
 
 #### Status
 ACCEPTED

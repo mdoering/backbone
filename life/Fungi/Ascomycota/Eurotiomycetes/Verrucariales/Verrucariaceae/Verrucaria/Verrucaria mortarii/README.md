@@ -1,5 +1,4 @@
-Verrucaria mortarii f. mortarii FORM
-=======
+# Verrucaria mortarii Lamy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria mortarii f. mortarii
+Verrucaria mortarii Lamy
 
 ### Remarks
 null

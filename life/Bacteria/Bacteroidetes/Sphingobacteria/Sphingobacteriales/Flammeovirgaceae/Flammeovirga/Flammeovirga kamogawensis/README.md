@@ -1,5 +1,4 @@
-Flammeovirga kamogawensis Hosoya & Yokota, 2007 SPECIES
-=======
+# Flammeovirga kamogawensis Hosoya & Yokota, 2007 SPECIES
 
 #### Status
 ACCEPTED

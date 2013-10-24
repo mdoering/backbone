@@ -1,14 +1,13 @@
-Echinoderma hystrix (F.H. Møller & J.E. Lange) Bon, 1991 SPECIES
-=======
+# Lepiota hystrix F.H. Møller & J.E. Lange, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. , mém. hors sér. 21(no. 82): 63 (1991)
+Fl. Agaric. Danic. 5(Appx. ): V (1940)
 
 #### Original name
 Lepiota hystrix F.H. Møller & J.E. Lange, 1940

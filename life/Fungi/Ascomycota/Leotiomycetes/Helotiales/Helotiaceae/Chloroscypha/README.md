@@ -1,5 +1,4 @@
-Chloroscypha Seaver GENUS
-=======
+# Chloroscypha Seaver GENUS
 
 #### Status
 ACCEPTED

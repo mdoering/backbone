@@ -1,17 +1,16 @@
-Clavaria amethystina subsp. amethystina SUBSPECIES
-=======
+# Clavaria zollingeri Lév., 1846 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 5: 155 (1846)
 
 #### Original name
-Clavaria amethystina subsp. amethystina
+Clavaria zollingeri Lév., 1846
 
 ### Remarks
 null

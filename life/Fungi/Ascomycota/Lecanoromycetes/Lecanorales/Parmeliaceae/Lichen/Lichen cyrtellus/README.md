@@ -1,5 +1,4 @@
-Lichen cyrtellus (Ach.) Sm. SPECIES
-=======
+# Lichen cyrtellus (Ach.) Sm. SPECIES
 
 #### Status
 ACCEPTED

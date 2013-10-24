@@ -1,5 +1,4 @@
-Ostracoderma linkii (Duby) S. Hughes SPECIES
-=======
+# Ostracoderma linkii (Duby) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia centrophora Müll. Arg. SPECIES
-=======
+# Cladonia centrophora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filaspora montagnei (Sacc.) Kuntze SPECIES
-=======
+# Filaspora montagnei (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

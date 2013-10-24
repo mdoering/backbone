@@ -1,5 +1,4 @@
-Marasmiellus epitrichialis Singer SPECIES
-=======
+# Marasmiellus epitrichialis Singer SPECIES
 
 #### Status
 ACCEPTED

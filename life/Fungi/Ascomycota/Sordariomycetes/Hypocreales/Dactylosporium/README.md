@@ -1,5 +1,4 @@
-Dactylosporium Harz, 1872 GENUS
-=======
+# Dactylosporium Harz, 1872 GENUS
 
 #### Status
 ACCEPTED

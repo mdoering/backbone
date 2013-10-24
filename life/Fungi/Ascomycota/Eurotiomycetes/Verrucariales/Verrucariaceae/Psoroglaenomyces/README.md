@@ -1,5 +1,4 @@
-Psoroglaenomyces GENUS
-=======
+# Psoroglaenomyces GENUS
 
 #### Status
 ACCEPTED

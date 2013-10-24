@@ -1,5 +1,4 @@
-Acarosporium lichenicola Ihlen & Tønsberg SPECIES
-=======
+# Acarosporium lichenicola Ihlen & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

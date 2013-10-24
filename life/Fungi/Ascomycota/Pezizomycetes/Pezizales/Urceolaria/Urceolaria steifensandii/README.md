@@ -1,5 +1,4 @@
-Urceolaria steifensandii Stein SPECIES
-=======
+# Urceolaria steifensandii Stein SPECIES
 
 #### Status
 ACCEPTED

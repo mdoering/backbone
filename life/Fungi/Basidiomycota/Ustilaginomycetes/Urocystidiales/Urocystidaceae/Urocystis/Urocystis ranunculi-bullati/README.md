@@ -1,5 +1,4 @@
-Urocystis ranunculi-bullati (Cif.) Zundel SPECIES
-=======
+# Urocystis ranunculi-bullati (Cif.) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula bataanensis (Rehm) Shoemaker & P.M. LeClair SPECIES
-=======
+# Pyrenula bataanensis (Rehm) Shoemaker & P.M. LeClair SPECIES
 
 #### Status
 ACCEPTED

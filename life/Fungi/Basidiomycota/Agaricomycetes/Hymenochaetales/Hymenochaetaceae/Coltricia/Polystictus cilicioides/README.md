@@ -1,5 +1,4 @@
-Polystictus cilicioides Fr. SPECIES
-=======
+# Polystictus cilicioides Fr. SPECIES
 
 #### Status
 ACCEPTED

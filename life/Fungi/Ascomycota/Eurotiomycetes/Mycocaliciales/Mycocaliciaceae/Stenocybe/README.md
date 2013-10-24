@@ -1,5 +1,4 @@
-Stenocybe Nylander ex Körber, 1855 GENUS
-=======
+# Stenocybe Nylander ex Körber, 1855 GENUS
 
 #### Status
 ACCEPTED

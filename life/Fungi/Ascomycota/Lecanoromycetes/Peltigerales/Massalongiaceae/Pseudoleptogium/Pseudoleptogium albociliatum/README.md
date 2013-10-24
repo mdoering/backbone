@@ -1,5 +1,4 @@
-Pseudoleptogium albociliatum (Desm.) Jatta SPECIES
-=======
+# Pseudoleptogium albociliatum (Desm.) Jatta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Niptera atrofusca (Berk. & M.A. Curtis) Underw. & Earle SPECIES
-=======
+# Niptera atrofusca (Berk. & M.A. Curtis) Underw. & Earle SPECIES
 
 #### Status
 ACCEPTED

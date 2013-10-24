@@ -1,5 +1,4 @@
-Stephanocostis chantaicus Genkal & Kuzmin SPECIES
-=======
+# Stephanocostis chantaicus Genkal & Kuzmin SPECIES
 
 #### Status
 ACCEPTED

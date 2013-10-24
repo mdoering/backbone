@@ -1,5 +1,4 @@
-Gymnosporangium gracile Pat., 1902 SPECIES
-=======
+# Gymnosporangium gracile Pat., 1902 SPECIES
 
 #### Status
 ACCEPTED

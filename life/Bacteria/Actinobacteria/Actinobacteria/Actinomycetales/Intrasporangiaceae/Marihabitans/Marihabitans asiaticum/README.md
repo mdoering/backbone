@@ -1,5 +1,4 @@
-Marihabitans asiaticum Kageyama, Haga, Kasai, Shizuri, Omura & Takahashi, 2008 SPECIES
-=======
+# Marihabitans asiaticum Kageyama, Haga, Kasai, Shizuri, Omura & Takahashi, 2008 SPECIES
 
 #### Status
 ACCEPTED

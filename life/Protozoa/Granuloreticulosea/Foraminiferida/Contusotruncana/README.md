@@ -1,5 +1,4 @@
-Contusotruncana Korchagin, 1982 GENUS
-=======
+# Contusotruncana Korchagin, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexadendrum Haeckel, 1881 GENUS
-=======
+# Hexadendrum Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum valdezii Lloyd SPECIES
-=======
+# Stereum valdezii Lloyd SPECIES
 
 #### Status
 ACCEPTED

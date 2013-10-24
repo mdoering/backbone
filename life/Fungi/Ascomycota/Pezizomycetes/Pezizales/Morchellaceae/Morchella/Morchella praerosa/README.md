@@ -1,5 +1,4 @@
-Morchella praerosa Krombh. SPECIES
-=======
+# Morchella praerosa Krombh. SPECIES
 
 #### Status
 ACCEPTED

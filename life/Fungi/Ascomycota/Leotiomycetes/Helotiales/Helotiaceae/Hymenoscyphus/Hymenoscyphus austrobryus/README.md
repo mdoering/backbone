@@ -1,5 +1,4 @@
-Hymenoscyphus austrobryus Spooner SPECIES
-=======
+# Hymenoscyphus austrobryus Spooner SPECIES
 
 #### Status
 ACCEPTED

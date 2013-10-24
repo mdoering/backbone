@@ -1,5 +1,4 @@
-Chaetothyrina tenuissima (Petch) Arx SPECIES
-=======
+# Chaetothyrina tenuissima (Petch) Arx SPECIES
 
 #### Status
 ACCEPTED

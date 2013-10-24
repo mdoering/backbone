@@ -1,17 +1,16 @@
-Collybia hariolorum var. hariolorum VARIETY
-=======
+# Gymnopus hariolorum (Bull.) Antonín, Halling & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 94 (1872)
+Mycotaxon 63: 364 (1997)
 
 #### Original name
-Collybia hariolorum var. hariolorum
+Agaricus hariolorum Bull., 1782
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Baltisphaeridium multipilosum (Eisenack, 1931 ex Eisenack, 1938) Eisenack, 1959 SPECIES
-=======
+# Baltisphaeridium multipilosum (Eisenack, 1931 ex Eisenack, 1938) Eisenack, 1959 SPECIES
 
 #### Status
 ACCEPTED

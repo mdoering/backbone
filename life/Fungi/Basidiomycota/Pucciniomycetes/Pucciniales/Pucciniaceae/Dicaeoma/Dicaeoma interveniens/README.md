@@ -1,5 +1,4 @@
-Dicaeoma interveniens (Peck) Arthur & Fromme SPECIES
-=======
+# Dicaeoma interveniens (Peck) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

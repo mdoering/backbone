@@ -1,5 +1,4 @@
-Bryopogon olivaceus var. olivaceus VARIETY
-=======
+# Bryopogon olivaceus (Räsänen) M. Choisy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bryopogon olivaceus var. olivaceus
+Alectoria olivacea Räsänen
 
 ### Remarks
 null

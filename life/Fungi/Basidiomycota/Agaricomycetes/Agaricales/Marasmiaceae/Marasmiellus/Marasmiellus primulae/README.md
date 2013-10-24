@@ -1,5 +1,4 @@
-Marasmiellus primulae Schmid-Heckel SPECIES
-=======
+# Marasmiellus primulae Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

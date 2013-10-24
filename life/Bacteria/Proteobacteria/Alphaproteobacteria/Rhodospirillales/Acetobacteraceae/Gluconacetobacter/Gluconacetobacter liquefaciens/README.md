@@ -1,5 +1,4 @@
-Gluconacetobacter liquefaciens (Asai, 1935) Yamada et al., 1998 SPECIES
-=======
+# Gluconacetobacter liquefaciens (Asai, 1935) Yamada et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

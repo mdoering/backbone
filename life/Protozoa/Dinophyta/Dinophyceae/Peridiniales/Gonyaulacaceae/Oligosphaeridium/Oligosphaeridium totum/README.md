@@ -1,5 +1,4 @@
-Oligosphaeridium totum Brideaux, 1971 SPECIES
-=======
+# Oligosphaeridium totum Brideaux, 1971 SPECIES
 
 #### Status
 ACCEPTED

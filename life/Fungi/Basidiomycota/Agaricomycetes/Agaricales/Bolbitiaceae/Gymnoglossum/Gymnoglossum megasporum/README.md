@@ -1,5 +1,4 @@
-Gymnoglossum megasporum (Zeller & C.W. Dodge) Zeller SPECIES
-=======
+# Gymnoglossum megasporum (Zeller & C.W. Dodge) Zeller SPECIES
 
 #### Status
 ACCEPTED

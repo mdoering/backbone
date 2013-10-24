@@ -1,5 +1,4 @@
-Hypotrachyna sinuosella Elix, T. H. Nash & Sipman SPECIES
-=======
+# Hypotrachyna sinuosella Elix, T. H. Nash & Sipman SPECIES
 
 #### Status
 ACCEPTED

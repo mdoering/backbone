@@ -1,8 +1,7 @@
-Peridinium loeblichii (Cox & Arnott) Dale SPECIES
-=======
+# Ensiculifera loeblichii Cox & Arnott SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

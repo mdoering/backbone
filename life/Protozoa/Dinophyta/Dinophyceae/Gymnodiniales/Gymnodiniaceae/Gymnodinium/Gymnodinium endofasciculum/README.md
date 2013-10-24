@@ -1,5 +1,4 @@
-Gymnodinium endofasciculum Campbell SPECIES
-=======
+# Gymnodinium endofasciculum Campbell SPECIES
 
 #### Status
 ACCEPTED

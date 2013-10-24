@@ -1,5 +1,4 @@
-Neocapnodium tanakae (Shirai & Hara) W. Yamam. SPECIES
-=======
+# Neocapnodium tanakae (Shirai & Hara) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

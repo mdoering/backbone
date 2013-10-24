@@ -1,5 +1,4 @@
-Chabiosphaera K.Drábek GENUS
-=======
+# Chabiosphaera K.Drábek GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peyronelia sirodesmioides Cif. & Gonz. Frag., 1927 SPECIES
-=======
+# Peyronelia sirodesmioides Cif. & Gonz. Frag., 1927 SPECIES
 
 #### Status
 ACCEPTED

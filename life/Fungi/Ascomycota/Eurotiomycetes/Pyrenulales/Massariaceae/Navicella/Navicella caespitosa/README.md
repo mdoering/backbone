@@ -1,5 +1,4 @@
-Navicella caespitosa (Fuckel) Kuntze SPECIES
-=======
+# Navicella caespitosa (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

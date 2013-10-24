@@ -1,5 +1,4 @@
-Coleosporium ligulariae Thüm., 1877 SPECIES
-=======
+# Coleosporium ligulariae Thüm., 1877 SPECIES
 
 #### Status
 ACCEPTED

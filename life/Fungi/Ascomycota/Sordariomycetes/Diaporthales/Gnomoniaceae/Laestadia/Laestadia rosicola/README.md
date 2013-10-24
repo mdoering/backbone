@@ -1,5 +1,4 @@
-Laestadia rosicola (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Laestadia rosicola (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

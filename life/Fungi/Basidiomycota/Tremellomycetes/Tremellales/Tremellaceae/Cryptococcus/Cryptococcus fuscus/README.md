@@ -1,5 +1,4 @@
-Cryptococcus fuscus Fontoyn. & Boucher {?} SPECIES
-=======
+# Cryptococcus fuscus Fontoyn. & Boucher {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium globosum J. Walz SPECIES
-=======
+# Pythium globosum J. Walz SPECIES
 
 #### Status
 ACCEPTED

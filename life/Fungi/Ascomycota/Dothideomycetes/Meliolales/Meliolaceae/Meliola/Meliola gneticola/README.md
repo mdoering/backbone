@@ -1,5 +1,4 @@
-Meliola gneticola Y.X. Hu SPECIES
-=======
+# Meliola gneticola Y.X. Hu SPECIES
 
 #### Status
 ACCEPTED

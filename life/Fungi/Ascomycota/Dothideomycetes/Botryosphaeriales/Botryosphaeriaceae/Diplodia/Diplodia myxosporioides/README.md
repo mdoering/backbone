@@ -1,5 +1,4 @@
-Diplodia myxosporioides Sacc. SPECIES
-=======
+# Diplodia myxosporioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

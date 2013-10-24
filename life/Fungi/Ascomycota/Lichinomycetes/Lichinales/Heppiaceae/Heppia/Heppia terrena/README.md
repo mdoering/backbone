@@ -1,5 +1,4 @@
-Heppia terrena Nyl. SPECIES
-=======
+# Heppia terrena Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vsegeina Bugrova, 1989 GENUS
-=======
+# Vsegeina Bugrova, 1989 GENUS
 
 #### Status
 ACCEPTED

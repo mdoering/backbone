@@ -1,5 +1,4 @@
-Volucribacter psittacicida Christensen et al., 2004 SPECIES
-=======
+# Volucribacter psittacicida Christensen et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

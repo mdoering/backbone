@@ -1,14 +1,13 @@
-Lactarius subdulcis sphagneti Fr., 1855 INFRASPECIFIC_NAME
-=======
+# Lactarius sphagneti (Fr.) Neuhoff, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pilze Mitteleuropas (Stuttgart) 181 (1956)
 
 #### Original name
 null

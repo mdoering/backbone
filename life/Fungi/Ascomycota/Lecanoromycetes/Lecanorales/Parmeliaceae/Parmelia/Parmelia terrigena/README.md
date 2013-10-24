@@ -1,5 +1,4 @@
-Parmelia terrigena G. Mey. SPECIES
-=======
+# Parmelia terrigena G. Mey. SPECIES
 
 #### Status
 ACCEPTED

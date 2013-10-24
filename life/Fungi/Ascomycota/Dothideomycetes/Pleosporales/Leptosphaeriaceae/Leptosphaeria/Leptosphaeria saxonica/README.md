@@ -1,5 +1,4 @@
-Leptosphaeria saxonica Höhn. SPECIES
-=======
+# Leptosphaeria saxonica Höhn. SPECIES
 
 #### Status
 ACCEPTED

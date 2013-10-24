@@ -1,5 +1,4 @@
-Sphaeria brachystoma Wallr. SPECIES
-=======
+# Sphaeria brachystoma Wallr. SPECIES
 
 #### Status
 ACCEPTED

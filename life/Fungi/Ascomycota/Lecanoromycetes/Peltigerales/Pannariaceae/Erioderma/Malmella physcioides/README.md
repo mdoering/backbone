@@ -1,14 +1,13 @@
-Malmella physciodes (Vain.) C.W. Dodge SPECIES
-=======
+# Malmella physcioides (Vain.) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mo. bot. Gdn 20: 448 (1933)
 
 #### Original name
 Erioderma physcioides Vain.

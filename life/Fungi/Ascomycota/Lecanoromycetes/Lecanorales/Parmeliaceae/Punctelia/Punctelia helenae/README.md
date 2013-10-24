@@ -1,5 +1,4 @@
-Punctelia helenae (B. de Lesd.) Hale ex DePriest & B.W. Hale SPECIES
-=======
+# Punctelia helenae (B. de Lesd.) Hale ex DePriest & B.W. Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Proliferodiscus inspersus var. inspersus VARIETY
-=======
+# Proliferodiscus inspersus (Berk. & M.A. Curtis) J.H. Haines & Dumont, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 75(3): 538 (1983)
 
 #### Original name
-Proliferodiscus inspersus var. inspersus
+null
 
 ### Remarks
 null

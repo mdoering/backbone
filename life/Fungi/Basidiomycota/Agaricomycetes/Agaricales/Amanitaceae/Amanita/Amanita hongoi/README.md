@@ -1,5 +1,4 @@
-Amanita hongoi Bas SPECIES
-=======
+# Amanita hongoi Bas SPECIES
 
 #### Status
 ACCEPTED

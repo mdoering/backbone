@@ -1,5 +1,4 @@
-Teichospora obliqua P. Karst. SPECIES
-=======
+# Teichospora obliqua P. Karst. SPECIES
 
 #### Status
 ACCEPTED

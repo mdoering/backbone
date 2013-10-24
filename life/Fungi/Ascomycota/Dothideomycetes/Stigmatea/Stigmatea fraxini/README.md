@@ -1,5 +1,4 @@
-Stigmatea fraxini Oudem. SPECIES
-=======
+# Stigmatea fraxini Oudem. SPECIES
 
 #### Status
 ACCEPTED

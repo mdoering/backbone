@@ -1,5 +1,4 @@
-Lentinus paolii Bacc. SPECIES
-=======
+# Lentinus paolii Bacc. SPECIES
 
 #### Status
 ACCEPTED

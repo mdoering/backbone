@@ -1,5 +1,4 @@
-Lentariaceae Jülich FAMILY
-=======
+# Lentariaceae Jülich FAMILY
 
 #### Status
 ACCEPTED

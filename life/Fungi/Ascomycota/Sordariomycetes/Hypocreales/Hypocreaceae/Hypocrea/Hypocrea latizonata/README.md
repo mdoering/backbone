@@ -1,5 +1,4 @@
-Hypocrea latizonata Peck SPECIES
-=======
+# Hypocrea latizonata Peck SPECIES
 
 #### Status
 ACCEPTED

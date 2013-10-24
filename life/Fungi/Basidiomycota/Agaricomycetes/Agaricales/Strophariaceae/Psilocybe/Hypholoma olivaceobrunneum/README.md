@@ -1,5 +1,4 @@
-Hypholoma olivaceobrunneum Bres. SPECIES
-=======
+# Hypholoma olivaceobrunneum Bres. SPECIES
 
 #### Status
 ACCEPTED

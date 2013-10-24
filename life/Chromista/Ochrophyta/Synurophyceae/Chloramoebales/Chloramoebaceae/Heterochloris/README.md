@@ -1,5 +1,4 @@
-Heterochloris Pascher, 1914 GENUS
-=======
+# Heterochloris Pascher, 1914 GENUS
 
 #### Status
 ACCEPTED

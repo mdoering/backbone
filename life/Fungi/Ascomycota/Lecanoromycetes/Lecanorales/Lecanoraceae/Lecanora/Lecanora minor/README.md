@@ -1,5 +1,4 @@
-Lecanora minor (H. Olivier) M. Choisy SPECIES
-=======
+# Lecanora minor (H. Olivier) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

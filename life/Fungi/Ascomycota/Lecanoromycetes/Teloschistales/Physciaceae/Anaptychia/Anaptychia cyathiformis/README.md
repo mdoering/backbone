@@ -1,5 +1,4 @@
-Anaptychia cyathiformis Kurok. SPECIES
-=======
+# Anaptychia cyathiformis Kurok. SPECIES
 
 #### Status
 ACCEPTED

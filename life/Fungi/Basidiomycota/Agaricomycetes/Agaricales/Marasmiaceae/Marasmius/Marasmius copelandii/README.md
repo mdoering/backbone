@@ -1,5 +1,4 @@
-Marasmius copelandii Peck SPECIES
-=======
+# Marasmius copelandii Peck SPECIES
 
 #### Status
 ACCEPTED

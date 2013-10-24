@@ -1,5 +1,4 @@
-Micropeltis rionegrensis Bat. & O.M. Fonseca SPECIES
-=======
+# Micropeltis rionegrensis Bat. & O.M. Fonseca SPECIES
 
 #### Status
 ACCEPTED

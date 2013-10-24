@@ -1,5 +1,4 @@
-Sargassum yongxingense Tseng & Lu SPECIES
-=======
+# Sargassum yongxingense Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

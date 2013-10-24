@@ -1,5 +1,4 @@
-Pleospora fenestrata Niessl & Berl. SPECIES
-=======
+# Pleospora fenestrata Niessl & Berl. SPECIES
 
 #### Status
 ACCEPTED

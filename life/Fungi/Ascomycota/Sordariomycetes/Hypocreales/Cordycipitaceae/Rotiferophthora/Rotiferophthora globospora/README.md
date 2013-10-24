@@ -1,5 +1,4 @@
-Rotiferophthora globospora G.L. Barron, 1991 SPECIES
-=======
+# Rotiferophthora globospora G.L. Barron, 1991 SPECIES
 
 #### Status
 ACCEPTED

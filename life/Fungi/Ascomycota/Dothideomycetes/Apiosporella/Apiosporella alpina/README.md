@@ -1,5 +1,4 @@
-Apiosporella alpina Wehm. SPECIES
-=======
+# Apiosporella alpina Wehm. SPECIES
 
 #### Status
 ACCEPTED

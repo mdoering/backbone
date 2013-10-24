@@ -1,5 +1,4 @@
-Chiodecton rufescens Vain. SPECIES
-=======
+# Chiodecton rufescens Vain. SPECIES
 
 #### Status
 ACCEPTED

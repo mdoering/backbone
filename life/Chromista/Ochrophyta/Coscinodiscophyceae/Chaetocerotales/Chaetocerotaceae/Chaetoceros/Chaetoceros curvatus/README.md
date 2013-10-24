@@ -1,5 +1,4 @@
-Chaetoceros curvatus Castracane, 1886 SPECIES
-=======
+# Chaetoceros curvatus Castracane, 1886 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaeria abrupta Berk. & M.A. Curtis SPECIES
-=======
+# Botryosphaeria abrupta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

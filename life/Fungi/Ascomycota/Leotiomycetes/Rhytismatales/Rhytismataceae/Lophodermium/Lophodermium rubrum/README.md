@@ -1,5 +1,4 @@
-Lophodermium rubrum P.R. Johnst., 1989 SPECIES
-=======
+# Lophodermium rubrum P.R. Johnst., 1989 SPECIES
 
 #### Status
 ACCEPTED

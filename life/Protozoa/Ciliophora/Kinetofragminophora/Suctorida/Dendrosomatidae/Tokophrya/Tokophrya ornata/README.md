@@ -1,5 +1,4 @@
-Tokophrya ornata Gajewskaja, 1933 SPECIES
-=======
+# Tokophrya ornata Gajewskaja, 1933 SPECIES
 
 #### Status
 ACCEPTED

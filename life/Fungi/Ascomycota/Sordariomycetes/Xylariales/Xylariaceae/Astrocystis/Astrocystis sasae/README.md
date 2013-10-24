@@ -1,5 +1,4 @@
-Astrocystis sasae Laessøe & Spooner SPECIES
-=======
+# Astrocystis sasae Laessøe & Spooner SPECIES
 
 #### Status
 ACCEPTED

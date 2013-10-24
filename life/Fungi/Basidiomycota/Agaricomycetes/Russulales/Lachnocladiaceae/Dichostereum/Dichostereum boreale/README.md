@@ -1,14 +1,13 @@
-Vararia borealis Pouzar, 1982 SPECIES
-=======
+# Dichostereum boreale (Pouzar) Ginns & M.N.L. Lefebvre, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceská Mykol. 36: 72 (1982)
+Mycol. Mem. 19: 59 (1993)
 
 #### Original name
 Vararia borealis Pouzar, 1982

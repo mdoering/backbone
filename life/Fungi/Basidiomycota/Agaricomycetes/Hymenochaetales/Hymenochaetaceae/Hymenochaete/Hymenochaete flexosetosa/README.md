@@ -1,5 +1,4 @@
-Hymenochaete flexosetosa Parmasto SPECIES
-=======
+# Hymenochaete flexosetosa Parmasto SPECIES
 
 #### Status
 ACCEPTED

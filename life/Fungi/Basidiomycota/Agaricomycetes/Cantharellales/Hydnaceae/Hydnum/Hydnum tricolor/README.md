@@ -1,5 +1,4 @@
-Hydnum tricolor Rick SPECIES
-=======
+# Hydnum tricolor Rick SPECIES
 
 #### Status
 ACCEPTED

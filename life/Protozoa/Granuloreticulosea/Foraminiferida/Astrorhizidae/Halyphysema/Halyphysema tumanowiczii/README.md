@@ -1,5 +1,4 @@
-Halyphysema tumanowiczii Bowerbank, 1862 SPECIES
-=======
+# Halyphysema tumanowiczii Bowerbank, 1862 SPECIES
 
 #### Status
 ACCEPTED

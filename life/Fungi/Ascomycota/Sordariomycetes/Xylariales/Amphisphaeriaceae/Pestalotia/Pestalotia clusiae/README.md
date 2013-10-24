@@ -1,5 +1,4 @@
-Pestalotia clusiae Griffon & Maubl. SPECIES
-=======
+# Pestalotia clusiae Griffon & Maubl. SPECIES
 
 #### Status
 ACCEPTED

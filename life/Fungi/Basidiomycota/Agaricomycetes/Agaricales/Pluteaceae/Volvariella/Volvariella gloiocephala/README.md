@@ -1,17 +1,16 @@
-Volvaria gloiocephala var. abyssinica Henn. VARIETY
-=======
+# Volvariella gloiocephala (DC.) Boekhout & Enderle, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Kenntn. Pilze Mitteleur. 2: 78 (1986)
 
 #### Original name
-Volvaria gloiocephala var. abyssinica Henn.
+Agaricus gloiocephalus DC., 1815
 
 ### Remarks
 null

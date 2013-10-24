@@ -1,5 +1,4 @@
-Merulius aureus var. aureus VARIETY
-=======
+# Merulius aureus Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Observ. mycol. (Havniae) 1: 101 (1815)
+Elench. fung. (Greifswald) 1: 62 (1828)
 
 #### Original name
-Merulius aureus var. aureus
+Merulius aureus Fr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystigmites Meschinelli in Saccardo, 1892 GENUS
-=======
+# Polystigmites Meschinelli in Saccardo, 1892 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Sphaerella salicicola f. salicicola FORM
-=======
+# Mycosphaerella salicicola (Fuckel) Johanson ex Oudem., 1897 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Sphaerella salicicola f. salicicola
+null
 
 ### Remarks
 null

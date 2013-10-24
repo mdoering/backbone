@@ -1,5 +1,4 @@
-Russula phaeocephala Buyck SPECIES
-=======
+# Russula phaeocephala Buyck SPECIES
 
 #### Status
 ACCEPTED

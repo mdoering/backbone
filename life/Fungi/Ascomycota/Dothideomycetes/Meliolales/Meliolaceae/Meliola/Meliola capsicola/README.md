@@ -1,5 +1,4 @@
-Meliola capsicola F. Stevens SPECIES
-=======
+# Meliola capsicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

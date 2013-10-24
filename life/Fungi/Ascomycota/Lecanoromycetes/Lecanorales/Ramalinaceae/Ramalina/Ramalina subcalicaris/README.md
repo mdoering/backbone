@@ -1,5 +1,4 @@
-Ramalina subcalicaris (Nyl.) Kashiw. SPECIES
-=======
+# Ramalina subcalicaris (Nyl.) Kashiw. SPECIES
 
 #### Status
 ACCEPTED

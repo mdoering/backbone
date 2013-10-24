@@ -1,5 +1,4 @@
-Sporonema Desmazières, 1847 GENUS
-=======
+# Sporonema Desmazières, 1847 GENUS
 
 #### Status
 ACCEPTED

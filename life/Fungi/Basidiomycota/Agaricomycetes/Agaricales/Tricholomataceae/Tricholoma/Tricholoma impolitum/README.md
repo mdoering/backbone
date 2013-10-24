@@ -1,5 +1,4 @@
-Tricholoma impolitum (Lasch) P. Kumm. SPECIES
-=======
+# Tricholoma impolitum (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

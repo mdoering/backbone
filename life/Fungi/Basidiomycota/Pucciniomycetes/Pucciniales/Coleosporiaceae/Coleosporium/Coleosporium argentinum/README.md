@@ -1,5 +1,4 @@
-Coleosporium argentinum (Speg.) Speg. SPECIES
-=======
+# Coleosporium argentinum (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

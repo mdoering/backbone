@@ -1,5 +1,4 @@
-Pileolaria standleyi Cummins SPECIES
-=======
+# Pileolaria standleyi Cummins SPECIES
 
 #### Status
 ACCEPTED

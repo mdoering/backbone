@@ -1,5 +1,4 @@
-Phyllosticta anthuriophylla Verpl. & Van den Broecke SPECIES
-=======
+# Phyllosticta anthuriophylla Verpl. & Van den Broecke SPECIES
 
 #### Status
 ACCEPTED

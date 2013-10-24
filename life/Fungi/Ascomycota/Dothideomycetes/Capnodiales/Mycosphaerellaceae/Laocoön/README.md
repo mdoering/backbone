@@ -1,5 +1,4 @@
-Laocoön J.C. David GENUS
-=======
+# Laocoön J.C. David GENUS
 
 #### Status
 ACCEPTED

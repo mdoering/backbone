@@ -1,5 +1,4 @@
-Cenangium olivaceonigrum Rehm SPECIES
-=======
+# Cenangium olivaceonigrum Rehm SPECIES
 
 #### Status
 ACCEPTED

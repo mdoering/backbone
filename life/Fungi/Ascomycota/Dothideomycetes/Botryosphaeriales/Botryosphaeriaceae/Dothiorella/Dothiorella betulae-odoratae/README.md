@@ -1,5 +1,4 @@
-Dothiorella betulae-odoratae Bubák & Vleugel SPECIES
-=======
+# Dothiorella betulae-odoratae Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

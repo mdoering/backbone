@@ -1,5 +1,4 @@
-Microsporum sapporoense T. Takah. SPECIES
-=======
+# Microsporum sapporoense T. Takah. SPECIES
 
 #### Status
 ACCEPTED

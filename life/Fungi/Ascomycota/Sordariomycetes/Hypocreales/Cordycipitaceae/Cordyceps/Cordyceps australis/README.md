@@ -1,17 +1,16 @@
-Cordyceps unilateralis var. australis Speg. VARIETY
-=======
+# Cordyceps australis (Speg.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 12(5): 215 (1881)
+Syll. fung. (Abellini) 2: 571 (1883)
 
 #### Original name
-Cordyceps unilateralis var. australis Speg.
+Cordyceps unilateralis australis Speg., 1881
 
 ### Remarks
 null

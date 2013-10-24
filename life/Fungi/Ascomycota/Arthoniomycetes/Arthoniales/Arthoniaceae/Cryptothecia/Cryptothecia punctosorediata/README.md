@@ -1,5 +1,4 @@
-Cryptothecia punctosorediata Sparrius SPECIES
-=======
+# Cryptothecia punctosorediata Sparrius SPECIES
 
 #### Status
 ACCEPTED

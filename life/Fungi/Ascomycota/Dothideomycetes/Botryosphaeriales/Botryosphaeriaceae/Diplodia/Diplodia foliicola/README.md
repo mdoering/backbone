@@ -1,5 +1,4 @@
-Diplodia foliicola Sacc. SPECIES
-=======
+# Diplodia foliicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudanabaena lonchoides SPECIES
-=======
+# Pseudanabaena lonchoides SPECIES
 
 #### Status
 ACCEPTED

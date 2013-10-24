@@ -1,17 +1,16 @@
-Galactinia subisabellina var. subisabellina VARIETY
-=======
+# Pachyella subisabellina (Le Gal) Trimbach, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 83: 357 (1967)
+null
 
 #### Original name
-Galactinia subisabellina var. subisabellina
+null
 
 ### Remarks
 null

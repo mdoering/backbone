@@ -1,5 +1,4 @@
-Cortinarius egenus E. Horak SPECIES
-=======
+# Cortinarius egenus E. Horak SPECIES
 
 #### Status
 ACCEPTED

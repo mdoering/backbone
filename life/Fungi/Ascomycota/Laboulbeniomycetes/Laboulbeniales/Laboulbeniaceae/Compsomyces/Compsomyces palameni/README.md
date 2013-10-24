@@ -1,5 +1,4 @@
-Compsomyces palameni Thaxt., 1931 SPECIES
-=======
+# Compsomyces palameni Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

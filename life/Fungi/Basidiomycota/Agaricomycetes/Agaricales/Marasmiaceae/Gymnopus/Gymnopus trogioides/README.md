@@ -1,5 +1,4 @@
-Gymnopus trogioides A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus trogioides A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

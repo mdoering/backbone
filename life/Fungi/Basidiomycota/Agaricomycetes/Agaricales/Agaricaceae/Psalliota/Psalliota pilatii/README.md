@@ -1,5 +1,4 @@
-Psalliota pilatii Velen. SPECIES
-=======
+# Psalliota pilatii Velen. SPECIES
 
 #### Status
 ACCEPTED

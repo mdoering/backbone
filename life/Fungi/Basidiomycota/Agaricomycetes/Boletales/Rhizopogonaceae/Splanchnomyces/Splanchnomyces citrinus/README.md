@@ -1,5 +1,4 @@
-Splanchnomyces citrinus Corda SPECIES
-=======
+# Splanchnomyces citrinus Corda SPECIES
 
 #### Status
 ACCEPTED

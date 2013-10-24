@@ -1,5 +1,4 @@
-Marasmius polychaetopus Singer SPECIES
-=======
+# Marasmius polychaetopus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ustulinites chusseniensis Kirschst. SPECIES
-=======
+# Ustulinites schusseniensis Kirschst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustulinites chusseniensis Kirschst.
+Ustulinites schusseniensis Kirschst.
 
 ### Remarks
 null

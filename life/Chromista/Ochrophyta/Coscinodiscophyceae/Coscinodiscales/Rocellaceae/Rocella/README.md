@@ -1,5 +1,4 @@
-Rocella Hanna, 1930 GENUS
-=======
+# Rocella Hanna, 1930 GENUS
 
 #### Status
 ACCEPTED

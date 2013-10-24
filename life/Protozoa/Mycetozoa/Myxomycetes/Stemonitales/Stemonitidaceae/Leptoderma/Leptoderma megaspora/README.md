@@ -1,5 +1,4 @@
-Leptoderma megaspora Aramb. & Spinedi, 1989 SPECIES
-=======
+# Leptoderma megaspora Aramb. & Spinedi, 1989 SPECIES
 
 #### Status
 ACCEPTED

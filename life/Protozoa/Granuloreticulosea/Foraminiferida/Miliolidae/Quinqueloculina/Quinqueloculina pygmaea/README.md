@@ -1,5 +1,4 @@
-Quinqueloculina pygmaea Reuss, 1850 SPECIES
-=======
+# Quinqueloculina pygmaea Reuss, 1850 SPECIES
 
 #### Status
 ACCEPTED

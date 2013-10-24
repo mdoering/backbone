@@ -1,5 +1,4 @@
-Aphanostigme mayteni Bat. SPECIES
-=======
+# Aphanostigme mayteni Bat. SPECIES
 
 #### Status
 ACCEPTED

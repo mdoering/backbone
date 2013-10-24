@@ -1,5 +1,4 @@
-Hygrophorus camarophylloides Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus camarophylloides Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

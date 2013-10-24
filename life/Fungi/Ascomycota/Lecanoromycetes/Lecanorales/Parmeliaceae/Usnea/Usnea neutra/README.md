@@ -1,5 +1,4 @@
-Usnea neutra (Motyka) Rizzini SPECIES
-=======
+# Usnea neutra (Motyka) Rizzini SPECIES
 
 #### Status
 ACCEPTED

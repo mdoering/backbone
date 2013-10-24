@@ -1,5 +1,4 @@
-Hypheothrix (M.Gomont) O.Kirchner, 1898 GENUS
-=======
+# Hypheothrix (M.Gomont) O.Kirchner, 1898 GENUS
 
 #### Status
 ACCEPTED

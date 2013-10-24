@@ -1,5 +1,4 @@
-Chrysosporium barabicum Scharapov SPECIES
-=======
+# Chrysosporium barabicum Scharapov SPECIES
 
 #### Status
 ACCEPTED

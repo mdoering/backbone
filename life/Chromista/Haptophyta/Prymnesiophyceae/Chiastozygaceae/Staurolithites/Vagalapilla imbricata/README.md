@@ -1,5 +1,4 @@
-Vagalapilla imbricata (Gartner, 1968) Bukry, 1969 SPECIES
-=======
+# Vagalapilla imbricata (Gartner, 1968) Bukry, 1969 SPECIES
 
 #### Status
 DOUBTFUL

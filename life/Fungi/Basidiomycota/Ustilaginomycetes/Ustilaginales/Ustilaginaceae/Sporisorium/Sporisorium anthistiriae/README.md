@@ -1,5 +1,4 @@
-Sporisorium anthistiriae (Cobb) Vánky SPECIES
-=======
+# Sporisorium anthistiriae (Cobb) Vánky SPECIES
 
 #### Status
 ACCEPTED

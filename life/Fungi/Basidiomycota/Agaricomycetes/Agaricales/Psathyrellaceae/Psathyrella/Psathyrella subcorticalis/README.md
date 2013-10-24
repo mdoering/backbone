@@ -1,5 +1,4 @@
-Psathyrella subcorticalis Speg. SPECIES
-=======
+# Psathyrella subcorticalis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostomella mammoides Ellis & Everh. SPECIES
-=======
+# Anthostomella mammoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

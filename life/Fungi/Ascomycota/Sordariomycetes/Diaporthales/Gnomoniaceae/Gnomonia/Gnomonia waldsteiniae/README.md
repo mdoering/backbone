@@ -1,5 +1,4 @@
-Gnomonia waldsteiniae Dearn. & House SPECIES
-=======
+# Gnomonia waldsteiniae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

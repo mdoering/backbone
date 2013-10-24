@@ -1,5 +1,4 @@
-Holkeria Strank, 1982 GENUS
-=======
+# Holkeria Strank, 1982 GENUS
 
 #### Status
 ACCEPTED

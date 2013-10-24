@@ -1,5 +1,4 @@
-Henningsomyces leptus Y.L. Wei & Y.C. Dai SPECIES
-=======
+# Henningsomyces leptus Y.L. Wei & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

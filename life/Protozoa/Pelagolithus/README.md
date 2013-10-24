@@ -1,5 +1,4 @@
-Pelagolithus Bernard GENUS
-=======
+# Pelagolithus Bernard GENUS
 
 #### Status
 ACCEPTED

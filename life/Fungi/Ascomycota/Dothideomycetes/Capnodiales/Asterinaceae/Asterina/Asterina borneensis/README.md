@@ -1,5 +1,4 @@
-Asterina borneensis Hansf. SPECIES
-=======
+# Asterina borneensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

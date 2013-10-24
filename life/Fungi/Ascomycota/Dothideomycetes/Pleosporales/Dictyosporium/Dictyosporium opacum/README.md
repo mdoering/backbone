@@ -1,5 +1,4 @@
-Dictyosporium opacum Cooke & Harkn. SPECIES
-=======
+# Dictyosporium opacum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

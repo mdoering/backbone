@@ -1,5 +1,4 @@
-Cercospora aspidospermatis Bat. & Peres SPECIES
-=======
+# Cercospora aspidospermatis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

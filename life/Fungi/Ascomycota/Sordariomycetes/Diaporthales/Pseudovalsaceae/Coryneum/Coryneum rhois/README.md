@@ -1,5 +1,4 @@
-Coryneum rhois (Rabenh.) Sacc. SPECIES
-=======
+# Coryneum rhois (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

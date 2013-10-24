@@ -1,5 +1,4 @@
-Agaricus grandineus Berk. & Broome SPECIES
-=======
+# Agaricus grandineus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

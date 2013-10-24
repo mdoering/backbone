@@ -1,5 +1,4 @@
-Methanococcus GENUS
-=======
+# Methanococcus GENUS
 
 #### Status
 ACCEPTED

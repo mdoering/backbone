@@ -1,5 +1,4 @@
-Verrucaria perfragilis Nyl. SPECIES
-=======
+# Verrucaria perfragilis Nyl. SPECIES
 
 #### Status
 ACCEPTED

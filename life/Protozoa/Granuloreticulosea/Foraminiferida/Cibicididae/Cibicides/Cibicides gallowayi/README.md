@@ -1,5 +1,4 @@
-Cibicides gallowayi Cushman & Valentine, 1930 SPECIES
-=======
+# Cibicides gallowayi Cushman & Valentine, 1930 SPECIES
 
 #### Status
 ACCEPTED

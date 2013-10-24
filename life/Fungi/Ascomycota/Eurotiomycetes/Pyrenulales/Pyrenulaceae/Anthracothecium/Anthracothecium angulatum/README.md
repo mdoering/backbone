@@ -1,5 +1,4 @@
-Anthracothecium angulatum Zahlbr. SPECIES
-=======
+# Anthracothecium angulatum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

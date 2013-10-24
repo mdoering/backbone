@@ -1,5 +1,4 @@
-Karschia Körber, 1865 GENUS
-=======
+# Karschia Körber, 1865 GENUS
 
 #### Status
 ACCEPTED

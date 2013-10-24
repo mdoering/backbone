@@ -1,5 +1,4 @@
-Kitasatospora putterlickiae Groth et al., 2003 SPECIES
-=======
+# Kitasatospora putterlickiae Groth et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

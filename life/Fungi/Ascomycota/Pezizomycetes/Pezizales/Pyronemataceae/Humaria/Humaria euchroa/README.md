@@ -1,5 +1,4 @@
-Humaria euchroa (P. Karst.) Sacc. SPECIES
-=======
+# Humaria euchroa (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

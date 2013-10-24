@@ -1,5 +1,4 @@
-Pertusaria matzuzavae Yasuda ex Räsänen SPECIES
-=======
+# Pertusaria matzuzavae Yasuda ex Räsänen SPECIES
 
 #### Status
 ACCEPTED

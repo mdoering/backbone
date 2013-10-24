@@ -1,5 +1,4 @@
-Dimerina floridana Petr. SPECIES
-=======
+# Dimerina floridana Petr. SPECIES
 
 #### Status
 ACCEPTED

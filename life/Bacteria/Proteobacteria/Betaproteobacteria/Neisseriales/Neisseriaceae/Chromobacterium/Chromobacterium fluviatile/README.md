@@ -1,5 +1,4 @@
-Chromobacterium fluviatile Moss et al., 1981 SPECIES
-=======
+# Chromobacterium fluviatile Moss et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

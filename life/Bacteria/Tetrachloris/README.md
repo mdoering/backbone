@@ -1,5 +1,4 @@
-Tetrachloris A. Pascher, 1925 GENUS
-=======
+# Tetrachloris A. Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

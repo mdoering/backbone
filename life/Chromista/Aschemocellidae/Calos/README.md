@@ -1,5 +1,4 @@
-Calos Schröder, Medioli & Scott, 1989 GENUS
-=======
+# Calos Schröder, Medioli & Scott, 1989 GENUS
 
 #### Status
 ACCEPTED

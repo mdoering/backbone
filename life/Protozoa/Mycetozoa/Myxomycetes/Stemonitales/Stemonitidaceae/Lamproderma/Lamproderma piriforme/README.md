@@ -1,17 +1,16 @@
-Lamproderma sauteri piriforme Meyl., 1925 INFRASPECIFIC_NAME
-=======
+# Lamproderma piriforme (Meyl.) Mar.Mey. & Poulain, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Poulain & Meyer, Bulletin Mycologique et Botanique Dauphiné-Savoie 45(no. 176): 16 (2005)
 
 #### Original name
-null
+Lamproderma sauteri var. piriformis Meyl.
 
 ### Remarks
 null

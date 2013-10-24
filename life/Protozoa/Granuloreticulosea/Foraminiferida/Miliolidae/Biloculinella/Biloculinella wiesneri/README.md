@@ -1,5 +1,4 @@
-Biloculinella wiesneri (Le Calvez, J. & Y., 1958) SPECIES
-=======
+# Biloculinella wiesneri (Le Calvez, J. & Y., 1958) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetriastrum GENUS
-=======
+# Tetriastrum GENUS
 
 #### Status
 ACCEPTED

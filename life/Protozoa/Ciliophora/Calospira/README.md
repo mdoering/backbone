@@ -1,5 +1,4 @@
-Calospira Chatton & Lwoff, 1935 GENUS
-=======
+# Calospira Chatton & Lwoff, 1935 GENUS
 
 #### Status
 ACCEPTED

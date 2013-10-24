@@ -1,14 +1,13 @@
-Gibberidea bicolor (Fuckel) Kuntze, 1898 SPECIES
-=======
+# Cucurbitaria bicolor Fuckel, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 481 (1898)
+Jb. nassau. Ver. Naturk. 25-26: 309 (1871)
 
 #### Original name
 Cucurbitaria bicolor Fuckel, 1871

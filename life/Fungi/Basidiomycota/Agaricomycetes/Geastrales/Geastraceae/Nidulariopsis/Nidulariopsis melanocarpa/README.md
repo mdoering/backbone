@@ -1,5 +1,4 @@
-Nidulariopsis melanocarpa Greis, 1935 SPECIES
-=======
+# Nidulariopsis melanocarpa Greis, 1935 SPECIES
 
 #### Status
 ACCEPTED

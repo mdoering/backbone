@@ -1,5 +1,4 @@
-Fuscopannaria cyanogranulata P. M. Jørg. SPECIES
-=======
+# Fuscopannaria cyanogranulata P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

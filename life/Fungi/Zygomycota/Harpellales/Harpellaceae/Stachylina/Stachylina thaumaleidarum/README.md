@@ -1,5 +1,4 @@
-Stachylina thaumaleidarum Lichtw. & M.C. Williams, 1990 SPECIES
-=======
+# Stachylina thaumaleidarum Lichtw. & M.C. Williams, 1990 SPECIES
 
 #### Status
 ACCEPTED

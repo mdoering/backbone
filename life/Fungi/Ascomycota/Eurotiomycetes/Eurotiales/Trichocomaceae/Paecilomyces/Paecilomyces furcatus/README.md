@@ -1,5 +1,4 @@
-Paecilomyces furcatus Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
-=======
+# Paecilomyces furcatus Z.Q. Liang, H.L. Chu & Y.F. Han SPECIES
 
 #### Status
 ACCEPTED

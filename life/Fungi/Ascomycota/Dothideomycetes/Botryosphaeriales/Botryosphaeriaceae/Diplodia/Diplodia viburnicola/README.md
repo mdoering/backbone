@@ -1,5 +1,4 @@
-Diplodia viburnicola var. viburnicola VARIETY
-=======
+# Diplodia viburnicola Brunaud SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Journal d'Hist. nat. 4: 55 (1885)
 
 #### Original name
-Diplodia viburnicola var. viburnicola
+Diplodia viburnicola Brunaud
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Guttulina irregularis (d'Orbigny) SPECIES
-=======
+# Guttulina irregularis (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclocytospora GENUS
-=======
+# Cyclocytospora GENUS
 
 #### Status
 ACCEPTED

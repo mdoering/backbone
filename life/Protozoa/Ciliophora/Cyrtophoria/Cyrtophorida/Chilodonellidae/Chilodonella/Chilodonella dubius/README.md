@@ -1,8 +1,7 @@
-Craspedothorax dubius (Maupas, 1883) Sondheim, 1929 SPECIES
-=======
+# Chilodonella dubius Maupas, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

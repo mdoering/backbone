@@ -1,5 +1,4 @@
-Mesenterica Tode GENUS
-=======
+# Mesenterica Tode GENUS
 
 #### Status
 ACCEPTED

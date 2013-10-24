@@ -1,5 +1,4 @@
-Melanoleuca piperata (Peck) Murrill SPECIES
-=======
+# Melanoleuca piperata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

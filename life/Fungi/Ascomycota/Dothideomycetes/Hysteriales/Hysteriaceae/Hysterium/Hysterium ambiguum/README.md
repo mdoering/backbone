@@ -1,5 +1,4 @@
-Hysterium ambiguum Duby SPECIES
-=======
+# Hysterium ambiguum Duby SPECIES
 
 #### Status
 ACCEPTED

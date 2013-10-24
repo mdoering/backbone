@@ -1,5 +1,4 @@
-Glomus antarcticum Cabello SPECIES
-=======
+# Glomus antarcticum Cabello SPECIES
 
 #### Status
 ACCEPTED

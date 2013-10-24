@@ -1,14 +1,13 @@
-Lophiostoma minimum Ellis & Everh., 1888 SPECIES
-=======
+# Thyridaria minima (Ellis & Everh.) Wehm., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 4: 247 (1941)
 
 #### Original name
 Lophiostoma minimum Ellis & Everh., 1888

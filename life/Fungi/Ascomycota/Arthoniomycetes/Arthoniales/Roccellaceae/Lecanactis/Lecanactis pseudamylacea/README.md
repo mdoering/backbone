@@ -1,5 +1,4 @@
-Lecanactis pseudamylacea Redón & Follmann SPECIES
-=======
+# Lecanactis pseudamylacea Redón & Follmann SPECIES
 
 #### Status
 ACCEPTED

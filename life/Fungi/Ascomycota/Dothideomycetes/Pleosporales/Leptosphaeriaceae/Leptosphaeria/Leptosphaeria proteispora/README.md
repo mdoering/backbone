@@ -1,5 +1,4 @@
-Leptosphaeria proteispora Speg. SPECIES
-=======
+# Leptosphaeria proteispora Speg. SPECIES
 
 #### Status
 ACCEPTED

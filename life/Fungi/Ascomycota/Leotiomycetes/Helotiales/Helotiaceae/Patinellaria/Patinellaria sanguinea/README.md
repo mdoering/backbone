@@ -1,14 +1,13 @@
-Tapesia sanguinea (Pers.) Fuckel, 1870 SPECIES
-=======
+# Patinellaria sanguinea (Pers.) P. Karst., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: (1870)
+Acta Soc. Fauna Flora fenn. 2(no. 6): 153 (1885)
 
 #### Original name
 null

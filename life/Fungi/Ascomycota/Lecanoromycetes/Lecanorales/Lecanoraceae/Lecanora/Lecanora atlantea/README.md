@@ -1,5 +1,4 @@
-Lecanora atlantea Werner SPECIES
-=======
+# Lecanora atlantea Werner SPECIES
 
 #### Status
 ACCEPTED

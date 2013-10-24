@@ -1,17 +1,16 @@
-Gloeopyrenia Zschacke GENUS
-=======
+# Protothelenella Räsänen GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Keissler, Rabenh. Krypt. -Fl. (Leipzig), Edn 2 9(1,2): 467 (1937)
+Ann. bot. Soc. Zool. -Bot. fenn. Vanamo 18(1): 102 (1943)
 
 #### Original name
-Gloeopyrenia Zschacke
+Protothelenella Räsänen
 
 ### Remarks
 null

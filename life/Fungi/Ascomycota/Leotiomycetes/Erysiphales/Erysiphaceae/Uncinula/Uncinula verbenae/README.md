@@ -1,5 +1,4 @@
-Uncinula verbenae Eliade SPECIES
-=======
+# Uncinula verbenae Eliade SPECIES
 
 #### Status
 ACCEPTED

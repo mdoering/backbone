@@ -1,5 +1,4 @@
-Helotiella lonicerae (E.K. Cash) Seaver SPECIES
-=======
+# Helotiella lonicerae (E.K. Cash) Seaver SPECIES
 
 #### Status
 ACCEPTED

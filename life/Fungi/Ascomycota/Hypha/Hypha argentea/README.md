@@ -1,5 +1,4 @@
-Hypha argentea var. argentea VARIETY
-=======
+# Hypha argentea Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hypha argentea var. argentea
+Hypha argentea Pers.
 
 ### Remarks
 null

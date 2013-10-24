@@ -1,5 +1,4 @@
-Paxillus nitens Lambotte SPECIES
-=======
+# Paxillus nitens Lambotte SPECIES
 
 #### Status
 ACCEPTED

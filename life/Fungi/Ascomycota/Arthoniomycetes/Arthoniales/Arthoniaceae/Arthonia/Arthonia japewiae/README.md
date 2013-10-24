@@ -1,5 +1,4 @@
-Arthonia japewiae Grube & Holien SPECIES
-=======
+# Arthonia japewiae Grube & Holien SPECIES
 
 #### Status
 ACCEPTED

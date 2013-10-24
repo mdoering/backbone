@@ -1,5 +1,4 @@
-Hydnotrya ellipsospora Gilkey SPECIES
-=======
+# Hydnotrya ellipsospora Gilkey SPECIES
 
 #### Status
 ACCEPTED

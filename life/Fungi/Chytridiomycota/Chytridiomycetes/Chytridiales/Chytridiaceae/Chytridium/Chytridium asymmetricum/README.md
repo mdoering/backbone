@@ -1,5 +1,4 @@
-Chytridium asymmetricum P.A. Dang. SPECIES
-=======
+# Chytridium asymmetricum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

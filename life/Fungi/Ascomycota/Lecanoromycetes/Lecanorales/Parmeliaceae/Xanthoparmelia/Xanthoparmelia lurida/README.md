@@ -1,5 +1,4 @@
-Xanthoparmelia lurida (Brusse) Elix SPECIES
-=======
+# Xanthoparmelia lurida (Brusse) Elix SPECIES
 
 #### Status
 ACCEPTED

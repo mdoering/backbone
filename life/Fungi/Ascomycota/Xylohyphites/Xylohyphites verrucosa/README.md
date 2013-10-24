@@ -1,5 +1,4 @@
-Xylohyphites verrucosa Kalgutkar & Sigler SPECIES
-=======
+# Xylohyphites verrucosa Kalgutkar & Sigler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium rhamni Ellis & Everh. SPECIES
-=======
+# Cylindrosporium rhamni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

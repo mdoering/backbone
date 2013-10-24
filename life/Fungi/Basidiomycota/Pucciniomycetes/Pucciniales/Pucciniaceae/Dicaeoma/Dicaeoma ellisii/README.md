@@ -1,5 +1,4 @@
-Dicaeoma ellisii (De Toni) Kuntze SPECIES
-=======
+# Dicaeoma ellisii (De Toni) Kuntze SPECIES
 
 #### Status
 ACCEPTED

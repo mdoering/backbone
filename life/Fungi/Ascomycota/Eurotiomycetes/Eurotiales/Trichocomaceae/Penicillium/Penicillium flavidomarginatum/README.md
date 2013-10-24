@@ -1,5 +1,4 @@
-Penicillium flavidomarginatum Biourge SPECIES
-=======
+# Penicillium flavidomarginatum Biourge SPECIES
 
 #### Status
 ACCEPTED

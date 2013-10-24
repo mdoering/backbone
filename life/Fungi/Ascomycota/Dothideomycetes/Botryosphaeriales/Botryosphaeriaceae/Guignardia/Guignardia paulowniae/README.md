@@ -1,5 +1,4 @@
-Guignardia paulowniae (S. Ito & Kobayasi) Yamam. {?} & S. Ito SPECIES
-=======
+# Guignardia paulowniae (S. Ito & Kobayasi) Yamam. {?} & S. Ito SPECIES
 
 #### Status
 ACCEPTED

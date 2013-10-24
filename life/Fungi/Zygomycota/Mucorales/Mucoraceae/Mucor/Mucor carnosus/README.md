@@ -1,5 +1,4 @@
-Mucor carnosus Dicks. SPECIES
-=======
+# Mucor carnosus Dicks. SPECIES
 
 #### Status
 ACCEPTED

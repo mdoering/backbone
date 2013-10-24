@@ -1,5 +1,4 @@
-Euplotes neapolitanus Wichterman, 1964 SPECIES
-=======
+# Euplotes neapolitanus Wichterman, 1964 SPECIES
 
 #### Status
 ACCEPTED

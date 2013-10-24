@@ -1,5 +1,4 @@
-Septoria indigoferae-pulchellae B.V. Patil, Sukapure & Thirum. SPECIES
-=======
+# Septoria indigoferae-pulchellae B.V. Patil, Sukapure & Thirum. SPECIES
 
 #### Status
 ACCEPTED

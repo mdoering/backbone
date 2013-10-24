@@ -1,5 +1,4 @@
-Lophodermium oxyascum Speg. SPECIES
-=======
+# Lophodermium oxyascum Speg. SPECIES
 
 #### Status
 ACCEPTED

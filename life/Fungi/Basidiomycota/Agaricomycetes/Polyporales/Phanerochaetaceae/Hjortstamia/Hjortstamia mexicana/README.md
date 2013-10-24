@@ -1,14 +1,13 @@
-Lopharia mexicana A.L. Welden, 1971 SPECIES
-=======
+# Hjortstamia mexicana (A.L. Welden) Boidin & Gilles, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tulane Stud. Zool. Bot. 17: 19 (1971)
+Bull. Soc. mycol. Fr. 118(2): 99 (2003)
 
 #### Original name
 Lopharia mexicana A.L. Welden, 1971

@@ -1,5 +1,4 @@
-Omphalodium ceranoides (Lam.) C.W. Dodge SPECIES
-=======
+# Omphalodium ceranoides (Lam.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

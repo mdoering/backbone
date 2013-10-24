@@ -1,5 +1,4 @@
-Plagiosphaera japonica Tak. Kobay. & K. Sasaki SPECIES
-=======
+# Plagiosphaera japonica Tak. Kobay. & K. Sasaki SPECIES
 
 #### Status
 ACCEPTED

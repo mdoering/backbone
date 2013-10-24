@@ -1,5 +1,4 @@
-Phoma monotropae Kirschst. SPECIES
-=======
+# Phoma monotropae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

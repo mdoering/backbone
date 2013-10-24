@@ -1,5 +1,4 @@
-Phaeoscopulariopsis bertii (Pollacci) M. Ota SPECIES
-=======
+# Phaeoscopulariopsis bertii (Pollacci) M. Ota SPECIES
 
 #### Status
 ACCEPTED

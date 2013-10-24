@@ -1,5 +1,4 @@
-Mycena profusa Manim. & Leelav. SPECIES
-=======
+# Mycena profusa Manim. & Leelav. SPECIES
 
 #### Status
 ACCEPTED

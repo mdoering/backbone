@@ -1,5 +1,4 @@
-Hoehnelomyces GENUS
-=======
+# Hoehnelomyces GENUS
 
 #### Status
 ACCEPTED

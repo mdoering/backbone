@@ -1,5 +1,4 @@
-Puccinia cookei De Toni SPECIES
-=======
+# Puccinia cookei De Toni SPECIES
 
 #### Status
 ACCEPTED

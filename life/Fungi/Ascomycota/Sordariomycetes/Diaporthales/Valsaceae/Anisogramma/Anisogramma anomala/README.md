@@ -1,14 +1,13 @@
-Apioporthe anomala (Peck) Höhn., 1917 SPECIES
-=======
+# Anisogramma anomala (Peck) E. Müll., 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 126: 381 (1917)
+in Müller & Arx, Beitr. Kryptfl. Schweiz 11(no. 2): 769 (1962)
 
 #### Original name
 Diatrype anomala Peck, 1876

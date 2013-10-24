@@ -1,5 +1,4 @@
-Absidia cylindrospora var. rhizomorpha Hesselt. & J.J. Ellis, 1962 VARIETY
-=======
+# Absidia cylindrospora Hagem, 1908 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 53(4): 409 (1962)
+null
 
 #### Original name
-Absidia cylindrospora var. rhizomorpha Hesselt. & J.J. Ellis, 1962
+null
 
 ### Remarks
 null

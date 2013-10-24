@@ -1,5 +1,4 @@
-Tryblidiella saltuaria (Teng) Teng SPECIES
-=======
+# Tryblidiella saltuaria (Teng) Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta adscripta (Nyl.) Müll. Arg. SPECIES
-=======
+# Sticta adscripta (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

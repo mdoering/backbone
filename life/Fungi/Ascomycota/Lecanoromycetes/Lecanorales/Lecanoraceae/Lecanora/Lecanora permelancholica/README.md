@@ -1,5 +1,4 @@
-Lecanora permelancholica Zahlbr. SPECIES
-=======
+# Lecanora permelancholica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

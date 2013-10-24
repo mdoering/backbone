@@ -1,5 +1,4 @@
-Septogloeum convolvuli Ellis & Everh. SPECIES
-=======
+# Septogloeum convolvuli Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

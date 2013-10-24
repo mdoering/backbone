@@ -1,5 +1,4 @@
-Aplosporella ribis Sacc. SPECIES
-=======
+# Aplosporella ribis Sacc. SPECIES
 
 #### Status
 ACCEPTED

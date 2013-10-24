@@ -1,5 +1,4 @@
-Epipolaeum inconspicuum (Petr.) E. Müll. SPECIES
-=======
+# Epipolaeum inconspicuum (Petr.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

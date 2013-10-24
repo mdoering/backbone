@@ -1,5 +1,4 @@
-Camarosporium jacarandae Gonz. Frag. SPECIES
-=======
+# Camarosporium jacarandae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

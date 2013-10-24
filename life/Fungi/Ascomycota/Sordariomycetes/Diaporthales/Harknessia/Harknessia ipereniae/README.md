@@ -1,5 +1,4 @@
-Harknessia ipereniae Crous SPECIES
-=======
+# Harknessia ipereniae Crous SPECIES
 
 #### Status
 ACCEPTED

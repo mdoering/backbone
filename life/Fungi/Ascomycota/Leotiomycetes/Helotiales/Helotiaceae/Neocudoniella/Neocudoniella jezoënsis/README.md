@@ -1,14 +1,13 @@
-Cudoniella jezoënsis S. Imai SPECIES
-=======
+# Neocudoniella jezoënsis (S. Imai) S. Imai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Coll. agric. , Hokkaido Imp. Univ. 45: 234 (1941)
 
 #### Original name
 Cudoniella jezoënsis S. Imai

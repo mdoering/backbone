@@ -1,5 +1,4 @@
-Entoloma totivillosum Corner & E. Horak SPECIES
-=======
+# Entoloma totivillosum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus trailii Berk. & Cooke SPECIES
-=======
+# Agaricus trailii Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

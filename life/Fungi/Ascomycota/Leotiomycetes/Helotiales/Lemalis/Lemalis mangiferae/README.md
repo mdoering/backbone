@@ -1,5 +1,4 @@
-Lemalis mangiferae Mont. SPECIES
-=======
+# Lemalis mangiferae Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tripterospora ultima Cailleux, 1970 SPECIES
-=======
+# Zopfiella longicaudata (Cain) Arx, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers de La Maboké 8(1): 15 (1970)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 76(3): 291 (1972)
 
 #### Original name
-Tripterospora ultima Cailleux, 1970
+Tripterospora longicaudata Cain, 1956
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leioligotriletes nitidus Timofeev, 1958 SPECIES
-=======
+# Leioligotriletes nitidus Timofeev, 1958 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacothecium varium (Tul.) Trevis. SPECIES
-=======
+# Phacothecium varium (Tul.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

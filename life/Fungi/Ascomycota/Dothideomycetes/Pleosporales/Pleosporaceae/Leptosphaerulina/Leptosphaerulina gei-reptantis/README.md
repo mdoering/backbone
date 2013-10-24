@@ -1,5 +1,4 @@
-Leptosphaerulina gei-reptantis (Carestia) Crivelli SPECIES
-=======
+# Leptosphaerulina gei-reptantis (Carestia) Crivelli SPECIES
 
 #### Status
 ACCEPTED

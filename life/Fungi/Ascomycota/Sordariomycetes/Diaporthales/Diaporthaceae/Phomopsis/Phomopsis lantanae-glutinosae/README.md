@@ -1,17 +1,16 @@
-Phomopsis latanae-glutinosae J.M. Pereira & R.W. Barreto SPECIES
-=======
+# Phomopsis lantanae-glutinosae J.M. Pereira & R.W. Barreto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopathologia 151(2): 77 (2001)
 
 #### Original name
-Phomopsis latanae-glutinosae J.M. Pereira & R.W. Barreto
+Phomopsis lantanae-glutinosae J.M. Pereira & R.W. Barreto
 
 ### Remarks
 null

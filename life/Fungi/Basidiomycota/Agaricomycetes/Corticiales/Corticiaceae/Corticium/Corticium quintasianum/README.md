@@ -1,5 +1,4 @@
-Corticium quintasianum Bres. & Roum. SPECIES
-=======
+# Corticium quintasianum Bres. & Roum. SPECIES
 
 #### Status
 ACCEPTED

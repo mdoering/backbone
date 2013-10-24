@@ -1,5 +1,4 @@
-Peltistroma Henn. GENUS
-=======
+# Peltistroma Henn. GENUS
 
 #### Status
 ACCEPTED

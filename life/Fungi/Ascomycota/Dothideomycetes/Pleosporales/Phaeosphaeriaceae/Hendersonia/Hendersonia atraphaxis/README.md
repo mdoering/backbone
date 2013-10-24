@@ -1,8 +1,7 @@
-Hendersonia atraphaxidis Kravtzev SPECIES
-=======
+# Hendersonia atraphaxis Kravtzev SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia atraphaxidis Kravtzev
+Hendersonia atraphaxis Kravtzev
 
 ### Remarks
 null

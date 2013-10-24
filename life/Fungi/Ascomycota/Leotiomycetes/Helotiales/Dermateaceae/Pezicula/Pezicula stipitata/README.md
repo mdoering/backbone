@@ -1,5 +1,4 @@
-Pezicula stipitata G. Johans. SPECIES
-=======
+# Pezicula stipitata G. Johans. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stichotricha inquilina Entz, 1884 SPECIES
-=======
+# Stichotricha inquilina Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

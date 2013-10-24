@@ -1,5 +1,4 @@
-Stictis macroloma Durieu & Lév. SPECIES
-=======
+# Stictis macroloma Durieu & Lév. SPECIES
 
 #### Status
 ACCEPTED

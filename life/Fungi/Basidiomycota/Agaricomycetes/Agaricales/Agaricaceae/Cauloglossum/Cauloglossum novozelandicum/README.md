@@ -1,14 +1,13 @@
-Cauloglossum novo-zelandicum (Henn.) Lloyd SPECIES
-=======
+# Cauloglossum novozelandicum (Henn.) Lloyd SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Writ. 8 (1905)
 
 #### Original name
 null

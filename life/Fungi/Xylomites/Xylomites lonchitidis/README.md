@@ -1,5 +1,4 @@
-Xylomites lonchitidis Ettingsh. SPECIES
-=======
+# Xylomites lonchitidis Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pedobacter heparinus (Payza & Korn, 1956) Steyn et al., 1998 SPECIES
-=======
+# Pedobacter heparinus (Payza & Korn, 1956) Steyn et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

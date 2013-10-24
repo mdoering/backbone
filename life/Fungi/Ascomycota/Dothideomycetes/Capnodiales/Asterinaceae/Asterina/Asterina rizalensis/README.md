@@ -1,5 +1,4 @@
-Asterina rizalensis Hansf. SPECIES
-=======
+# Asterina rizalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

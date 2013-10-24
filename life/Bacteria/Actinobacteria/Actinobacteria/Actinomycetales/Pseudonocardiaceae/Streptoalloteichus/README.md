@@ -1,5 +1,4 @@
-Streptoalloteichus (ex Tomita et al., 1978) Tomita et al., 1987 GENUS
-=======
+# Streptoalloteichus (ex Tomita et al., 1978) Tomita et al., 1987 GENUS
 
 #### Status
 ACCEPTED

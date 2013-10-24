@@ -1,5 +1,4 @@
-Lepiota carneoannulata (Clem.) Sacc. SPECIES
-=======
+# Lepiota carneoannulata (Clem.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

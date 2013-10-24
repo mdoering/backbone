@@ -1,5 +1,4 @@
-Boletus rhodoleucus Corner SPECIES
-=======
+# Boletus rhodoleucus Corner SPECIES
 
 #### Status
 ACCEPTED

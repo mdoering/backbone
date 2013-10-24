@@ -1,5 +1,4 @@
-Maireomyces peyssoneliae Feldmann SPECIES
-=======
+# Maireomyces peyssoneliae Feldmann SPECIES
 
 #### Status
 ACCEPTED

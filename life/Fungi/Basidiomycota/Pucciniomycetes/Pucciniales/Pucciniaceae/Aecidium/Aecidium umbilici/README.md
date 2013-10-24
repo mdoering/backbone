@@ -1,5 +1,4 @@
-Aecidium umbilici Trotter SPECIES
-=======
+# Aecidium umbilici Trotter SPECIES
 
 #### Status
 ACCEPTED

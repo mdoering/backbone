@@ -1,5 +1,4 @@
-Endophyllum stachytarphetae (Henn.) Whetzel & Olive, 1917 SPECIES
-=======
+# Endophyllum stachytarphetae (Henn.) Whetzel & Olive, 1917 SPECIES
 
 #### Status
 ACCEPTED

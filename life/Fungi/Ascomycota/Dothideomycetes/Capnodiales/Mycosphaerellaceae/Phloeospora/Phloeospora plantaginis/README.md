@@ -1,5 +1,4 @@
-Phloeospora plantaginis Kabát & Bubák SPECIES
-=======
+# Phloeospora plantaginis Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

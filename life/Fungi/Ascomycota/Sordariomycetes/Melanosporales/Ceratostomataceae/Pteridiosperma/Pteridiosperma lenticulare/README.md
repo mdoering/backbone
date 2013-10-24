@@ -1,17 +1,16 @@
-Pteridiosperma lenticularis Udagawa & T. Muroi SPECIES
-=======
+# Pteridiosperma lenticulare Udagawa & T. Muroi, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Mycol. Soc. Japan 22(1): 20 (1981)
 
 #### Original name
-Pteridiosperma lenticularis Udagawa & T. Muroi
+Pteridiosperma lenticulare Udagawa & T. Muroi, 1981
 
 ### Remarks
 null

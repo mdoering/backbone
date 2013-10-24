@@ -1,14 +1,13 @@
-Nielsenia eragrostidis (Tracy) Syd., 1921 SPECIES
-=======
+# Uromyces eragrostidis Tracy, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 171 (1921)
+J. Mycol. 7(3): 281 (1893)
 
 #### Original name
 Uromyces eragrostidis Tracy, 1893

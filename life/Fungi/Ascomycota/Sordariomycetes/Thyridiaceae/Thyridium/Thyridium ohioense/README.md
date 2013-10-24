@@ -1,14 +1,13 @@
-Thyridium ohiense (Ellis & Everh.) Rossman & Samuels SPECIES
-=======
+# Thyridium ohioense (Ellis & Everh.) Rossman & Samuels SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 176 (1999)
 
 #### Original name
 Teichospora ohioensis Ellis & Everh.

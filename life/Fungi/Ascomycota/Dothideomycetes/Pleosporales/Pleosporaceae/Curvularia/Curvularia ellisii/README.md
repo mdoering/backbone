@@ -1,17 +1,16 @@
-Curvularia ellisi S.I. Ahmed & M. Qureshi SPECIES
-=======
+# Curvularia ellisii S.I. Ahmed & M. Qureshi, 1960 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pakist. J. scient. ind. Res. 3(3): 177 (1960)
 
 #### Original name
-Curvularia ellisi S.I. Ahmed & M. Qureshi
+Curvularia ellisii S.I. Ahmed & M. Qureshi, 1960
 
 ### Remarks
 null

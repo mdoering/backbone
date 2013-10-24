@@ -1,5 +1,4 @@
-Scopulariopsis minima Sartory, Hufschm. & J. Mey. SPECIES
-=======
+# Scopulariopsis minima Sartory, Hufschm. & J. Mey. SPECIES
 
 #### Status
 ACCEPTED

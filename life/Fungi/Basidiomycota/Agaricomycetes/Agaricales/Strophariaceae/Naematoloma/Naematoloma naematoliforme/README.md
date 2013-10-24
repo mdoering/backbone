@@ -1,14 +1,13 @@
-Naematoloma naematoliformis (Guzmán) Guzmán SPECIES
-=======
+# Naematoloma naematoliforme (Guzmán) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 12(1): 236 (1980)
 
 #### Original name
 Psilocybe naematoliformis Guzmán

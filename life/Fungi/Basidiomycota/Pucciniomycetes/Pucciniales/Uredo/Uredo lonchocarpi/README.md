@@ -1,5 +1,4 @@
-Uredo lonchocarpi Doidge SPECIES
-=======
+# Uredo lonchocarpi Doidge SPECIES
 
 #### Status
 ACCEPTED

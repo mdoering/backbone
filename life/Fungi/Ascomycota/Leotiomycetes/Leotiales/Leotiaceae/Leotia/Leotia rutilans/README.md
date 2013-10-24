@@ -1,5 +1,4 @@
-Leotia rutilans (S. Imai & Minakata) S. Imai SPECIES
-=======
+# Leotia rutilans (S. Imai & Minakata) S. Imai SPECIES
 
 #### Status
 ACCEPTED

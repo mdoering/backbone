@@ -1,5 +1,4 @@
-Leptogium caeruleum F. Wilson SPECIES
-=======
+# Leptogium caeruleum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

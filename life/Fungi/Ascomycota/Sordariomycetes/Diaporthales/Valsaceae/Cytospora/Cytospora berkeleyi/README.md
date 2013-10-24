@@ -1,5 +1,4 @@
-Cytospora berkeleyi G.C. Adams SPECIES
-=======
+# Cytospora berkeleyi G.C. Adams SPECIES
 
 #### Status
 ACCEPTED

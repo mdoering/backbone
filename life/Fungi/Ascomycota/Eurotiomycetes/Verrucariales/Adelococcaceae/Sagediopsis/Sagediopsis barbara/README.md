@@ -1,5 +1,4 @@
-Sagediopsis barbara (Th. Fr.) R. Sant. & Triebel SPECIES
-=======
+# Sagediopsis barbara (Th. Fr.) R. Sant. & Triebel SPECIES
 
 #### Status
 ACCEPTED

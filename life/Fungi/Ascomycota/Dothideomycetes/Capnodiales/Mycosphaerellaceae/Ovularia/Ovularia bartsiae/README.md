@@ -1,5 +1,4 @@
-Ovularia bartsiae Rostr. SPECIES
-=======
+# Ovularia bartsiae Rostr. SPECIES
 
 #### Status
 ACCEPTED

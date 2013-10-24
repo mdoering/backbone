@@ -1,5 +1,4 @@
-Aecidium scutellariae Syd. & P. Syd., 1907 SPECIES
-=======
+# Aecidium scutellariae Syd. & P. Syd., 1907 SPECIES
 
 #### Status
 ACCEPTED

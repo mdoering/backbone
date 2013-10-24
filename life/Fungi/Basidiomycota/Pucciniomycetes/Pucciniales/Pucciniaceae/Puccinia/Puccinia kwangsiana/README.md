@@ -1,5 +1,4 @@
-Puccinia kwangsiana Cummins SPECIES
-=======
+# Puccinia kwangsiana Cummins SPECIES
 
 #### Status
 ACCEPTED

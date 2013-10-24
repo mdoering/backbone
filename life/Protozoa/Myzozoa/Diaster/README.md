@@ -1,5 +1,4 @@
-Diaster Meunier, 1919 GENUS
-=======
+# Diaster Meunier, 1919 GENUS
 
 #### Status
 SYNONYM

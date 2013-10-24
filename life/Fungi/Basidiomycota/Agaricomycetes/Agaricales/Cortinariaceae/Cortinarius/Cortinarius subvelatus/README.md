@@ -1,5 +1,4 @@
-Cortinarius subvelatus (Rob. Henry) Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius subvelatus (Rob. Henry) Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

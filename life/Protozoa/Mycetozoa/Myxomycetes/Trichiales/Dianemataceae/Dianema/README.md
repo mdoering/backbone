@@ -1,17 +1,16 @@
-Dianemina A.R. Loebl. & Tappan GENUS
-=======
+# Dianema Rex, 1891 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Paleontology 35(2): 266 (1961)
+Proc. Acad. Nat. Sci. Philad. , 1891, 397.
 
 #### Original name
-Dianemina A.R. Loebl. & Tappan
+Dianema Rex, 1891
 
 ### Remarks
 null

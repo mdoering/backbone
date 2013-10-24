@@ -1,11 +1,10 @@
-Cochlodinium angustum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium brandtii WuIff SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

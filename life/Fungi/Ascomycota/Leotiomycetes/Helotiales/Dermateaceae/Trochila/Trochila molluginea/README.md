@@ -1,5 +1,4 @@
-Trochila molluginea Mouton SPECIES
-=======
+# Trochila molluginea Mouton SPECIES
 
 #### Status
 ACCEPTED

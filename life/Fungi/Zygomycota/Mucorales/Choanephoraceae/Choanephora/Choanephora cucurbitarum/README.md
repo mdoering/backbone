@@ -1,14 +1,13 @@
-Rhopalomyces cucurbitarum Berk. & Ravenel, 1875 SPECIES
-=======
+# Choanephora cucurbitarum (Berk. & Ravenel) Thaxt., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 3(no. 27): 109 (1875)
+Rhodora 5: 99 (1903)
 
 #### Original name
 Rhopalomyces cucurbitarum Berk. & Ravenel, 1875

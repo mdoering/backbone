@@ -1,5 +1,4 @@
-Pterocanarium Haeckel, 1887 GENUS
-=======
+# Pterocanarium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

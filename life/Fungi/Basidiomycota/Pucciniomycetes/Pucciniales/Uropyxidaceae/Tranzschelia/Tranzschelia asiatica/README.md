@@ -1,5 +1,4 @@
-Tranzschelia asiatica Y. Ono, 1994 SPECIES
-=======
+# Tranzschelia asiatica Y. Ono, 1994 SPECIES
 
 #### Status
 ACCEPTED

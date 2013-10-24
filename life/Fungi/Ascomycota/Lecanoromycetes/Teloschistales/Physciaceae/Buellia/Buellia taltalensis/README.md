@@ -1,5 +1,4 @@
-Buellia taltalensis C.W. Dodge SPECIES
-=======
+# Buellia taltalensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

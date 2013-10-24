@@ -1,5 +1,4 @@
-Cercosporina propinqua (C. Massal.) Sacc. SPECIES
-=======
+# Cercosporina propinqua (C. Massal.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

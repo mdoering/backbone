@@ -1,5 +1,4 @@
-Psalliota pseudocomptula Cout. SPECIES
-=======
+# Psalliota pseudocomptula Cout. SPECIES
 
 #### Status
 ACCEPTED

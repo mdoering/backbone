@@ -1,5 +1,4 @@
-Spirochaetes (Class) Cavalier-Smith, 2002 CLASS
-=======
+# Spirochaetes (Class) Cavalier-Smith, 2002 CLASS
 
 #### Status
 ACCEPTED

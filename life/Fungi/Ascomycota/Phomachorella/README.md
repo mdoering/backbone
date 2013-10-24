@@ -1,5 +1,4 @@
-Phomachorella Petr. GENUS
-=======
+# Phomachorella Petr. GENUS
 
 #### Status
 ACCEPTED

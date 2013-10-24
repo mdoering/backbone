@@ -1,14 +1,13 @@
-Sesia mollusca (Fr.) Kuntze, 1891 SPECIES
-=======
+# Leucogyrophana mollusca (Fr.) Pouzar, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 870 (1891)
+Ceská Mykol. 12(1): 33 (1958)
 
 #### Original name
 null

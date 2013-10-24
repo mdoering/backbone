@@ -1,5 +1,4 @@
-Phyllosticta yanagawana Togashi SPECIES
-=======
+# Phyllosticta yanagawana Togashi SPECIES
 
 #### Status
 ACCEPTED

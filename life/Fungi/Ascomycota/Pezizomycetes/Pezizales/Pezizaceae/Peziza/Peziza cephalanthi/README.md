@@ -1,5 +1,4 @@
-Peziza cephalanthi Schwein. SPECIES
-=======
+# Peziza cephalanthi Schwein. SPECIES
 
 #### Status
 ACCEPTED

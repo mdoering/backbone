@@ -1,5 +1,4 @@
-Phacus formosus Pochmann SPECIES
-=======
+# Phacus formosus Pochmann SPECIES
 
 #### Status
 ACCEPTED

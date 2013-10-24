@@ -1,5 +1,4 @@
-Marasmiellus epibryus (Singer) Singer SPECIES
-=======
+# Marasmiellus epibryus (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

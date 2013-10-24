@@ -1,5 +1,4 @@
-Siphotrochammina Saunders, 1957 GENUS
-=======
+# Siphotrochammina Saunders, 1957 GENUS
 
 #### Status
 ACCEPTED

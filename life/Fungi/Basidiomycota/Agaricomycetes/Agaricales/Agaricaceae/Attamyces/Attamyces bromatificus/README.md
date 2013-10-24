@@ -1,5 +1,4 @@
-Attamyces bromatificus Kreisel, 1972 SPECIES
-=======
+# Attamyces bromatificus Kreisel, 1972 SPECIES
 
 #### Status
 ACCEPTED

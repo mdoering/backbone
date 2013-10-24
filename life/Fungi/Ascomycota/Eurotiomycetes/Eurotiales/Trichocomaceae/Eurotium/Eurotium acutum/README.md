@@ -1,5 +1,4 @@
-Eurotium acutum Blaser SPECIES
-=======
+# Eurotium acutum Blaser SPECIES
 
 #### Status
 ACCEPTED

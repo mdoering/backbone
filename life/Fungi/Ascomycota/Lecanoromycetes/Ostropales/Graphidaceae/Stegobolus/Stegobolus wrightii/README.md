@@ -1,14 +1,13 @@
-Myriotrema wrightii (Tuck.) Hale SPECIES
-=======
+# Stegobolus wrightii (Tuck.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 11(1): 136 (1980)
+in Frisch & Kalb, Biblthca Lichenol. 92: 496 (2006)
 
 #### Original name
 Thelotrema wrightii Tuck.

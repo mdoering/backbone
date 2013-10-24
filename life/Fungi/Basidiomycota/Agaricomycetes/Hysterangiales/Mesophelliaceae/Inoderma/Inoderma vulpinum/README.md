@@ -1,5 +1,4 @@
-Inoderma vulpinum (Fr.) P. Karst. SPECIES
-=======
+# Inoderma vulpinum (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

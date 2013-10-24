@@ -1,5 +1,4 @@
-Lepiota helveoloides Bon ex Bon & Andary SPECIES
-=======
+# Lepiota helveoloides Bon ex Bon & Andary SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliothrichum Wille GENUS
-=======
+# Heliothrichum Wille GENUS
 
 #### Status
 ACCEPTED

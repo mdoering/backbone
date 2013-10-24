@@ -1,5 +1,4 @@
-Cordella rubicola Speg. SPECIES
-=======
+# Cordella rubicola Speg. SPECIES
 
 #### Status
 ACCEPTED

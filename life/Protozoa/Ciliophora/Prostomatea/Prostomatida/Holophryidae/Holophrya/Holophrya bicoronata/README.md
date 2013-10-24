@@ -1,5 +1,4 @@
-Holophrya bicoronata SPECIES
-=======
+# Holophrya bicoronata SPECIES
 
 #### Status
 ACCEPTED

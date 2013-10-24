@@ -1,5 +1,4 @@
-Achlya spiralis B. Paul & Steciow SPECIES
-=======
+# Achlya spiralis B. Paul & Steciow SPECIES
 
 #### Status
 ACCEPTED

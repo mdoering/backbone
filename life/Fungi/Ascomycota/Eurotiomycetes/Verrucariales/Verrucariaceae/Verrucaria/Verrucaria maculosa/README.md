@@ -1,5 +1,4 @@
-Verrucaria maculosa Nyl. SPECIES
-=======
+# Verrucaria maculosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

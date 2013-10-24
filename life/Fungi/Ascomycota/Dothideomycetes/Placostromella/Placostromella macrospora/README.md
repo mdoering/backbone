@@ -1,5 +1,4 @@
-Placostromella macrospora Petr., 1947 SPECIES
-=======
+# Placostromella macrospora Petr., 1947 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora mesophana Nyl. SPECIES
-=======
+# Lecanora mesophana Nyl. SPECIES
 
 #### Status
 ACCEPTED

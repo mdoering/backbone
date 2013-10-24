@@ -1,5 +1,4 @@
-Himantia lateritia Pers. SPECIES
-=======
+# Himantia lateritia Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schinzia penicillata Nägeli SPECIES
-=======
+# Schinzia penicillata Nägeli SPECIES
 
 #### Status
 ACCEPTED

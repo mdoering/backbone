@@ -1,5 +1,4 @@
-Herpomyces periplanetae Thaxt., 1903 SPECIES
-=======
+# Herpomyces periplanetae Thaxt., 1903 SPECIES
 
 #### Status
 ACCEPTED

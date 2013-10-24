@@ -1,8 +1,7 @@
-Eggerella arctica Höglund, 1947 SPECIES
-=======
+# Verneuilina arctica Höglund, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

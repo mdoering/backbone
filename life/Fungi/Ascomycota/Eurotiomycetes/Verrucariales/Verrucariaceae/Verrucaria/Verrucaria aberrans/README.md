@@ -1,5 +1,4 @@
-Verrucaria aberrans Garov. SPECIES
-=======
+# Verrucaria aberrans Garov. SPECIES
 
 #### Status
 ACCEPTED

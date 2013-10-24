@@ -1,5 +1,4 @@
-Septoria dealbata Lév. SPECIES
-=======
+# Septoria dealbata Lév. SPECIES
 
 #### Status
 ACCEPTED

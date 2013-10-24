@@ -1,5 +1,4 @@
-Myxofusicoccum salviae Died. SPECIES
-=======
+# Myxofusicoccum salviae Died. SPECIES
 
 #### Status
 ACCEPTED

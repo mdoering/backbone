@@ -1,5 +1,4 @@
-Phomatosporopsis GENUS
-=======
+# Phomatosporopsis GENUS
 
 #### Status
 ACCEPTED

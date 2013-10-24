@@ -1,5 +1,4 @@
-Lecanora brucei Printzen SPECIES
-=======
+# Lecanora brucei Printzen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus merulius Bertero SPECIES
-=======
+# Agaricus merulius Bertero SPECIES
 
 #### Status
 ACCEPTED

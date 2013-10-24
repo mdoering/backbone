@@ -1,5 +1,4 @@
-Asperisporium musicola Matsush. SPECIES
-=======
+# Asperisporium musicola Matsush. SPECIES
 
 #### Status
 ACCEPTED

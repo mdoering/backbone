@@ -1,5 +1,4 @@
-Calonectria fulvida (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Calonectria fulvida (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

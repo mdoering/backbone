@@ -1,5 +1,4 @@
-Hyalodendron Diddens, 1934 GENUS
-=======
+# Hyalodendron Diddens, 1934 GENUS
 
 #### Status
 ACCEPTED

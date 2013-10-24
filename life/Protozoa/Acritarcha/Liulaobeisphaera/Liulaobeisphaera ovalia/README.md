@@ -1,5 +1,4 @@
-Liulaobeisphaera ovalia SPECIES
-=======
+# Liulaobeisphaera ovalia SPECIES
 
 #### Status
 ACCEPTED

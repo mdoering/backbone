@@ -1,5 +1,4 @@
-Spheconisca grandiuscula SPECIES
-=======
+# Spheconisca grandiuscula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imshaugia venezolana (Hale) Elix SPECIES
-=======
+# Imshaugia venezolana (Hale) Elix SPECIES
 
 #### Status
 ACCEPTED

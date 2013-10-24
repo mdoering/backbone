@@ -1,5 +1,4 @@
-Hydnum tremellosum Wallr. SPECIES
-=======
+# Hydnum tremellosum Wallr. SPECIES
 
 #### Status
 ACCEPTED

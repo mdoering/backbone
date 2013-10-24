@@ -1,5 +1,4 @@
-Bacidia spruceana (Müll. Arg.) Swinscow & Krog SPECIES
-=======
+# Bacidia spruceana (Müll. Arg.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

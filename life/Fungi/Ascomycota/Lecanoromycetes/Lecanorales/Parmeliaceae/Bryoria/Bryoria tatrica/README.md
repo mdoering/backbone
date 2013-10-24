@@ -1,5 +1,4 @@
-Bryoria tatrica (Motyka) Bystrek SPECIES
-=======
+# Bryoria tatrica (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

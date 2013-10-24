@@ -1,5 +1,4 @@
-Solenosphactra Haeckel, 1887 GENUS
-=======
+# Solenosphactra Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola banguiensis H.S. Yates SPECIES
-=======
+# Meliola banguiensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

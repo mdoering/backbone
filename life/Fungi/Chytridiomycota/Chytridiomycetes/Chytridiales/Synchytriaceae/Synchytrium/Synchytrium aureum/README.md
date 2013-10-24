@@ -1,17 +1,16 @@
-Synchytrium aureum f. sp FORM
-=======
+# Synchytrium aureum J. Schröt., 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Pflanz. Galt. Symd. 4 (1870)
 
 #### Original name
-Synchytrium aureum f. sp
+Synchytrium aureum J. Schröt., 1870
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptotrema vesiculiferum (Vain.) Zahlbr. SPECIES
-=======
+# Leptotrema vesiculiferum (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

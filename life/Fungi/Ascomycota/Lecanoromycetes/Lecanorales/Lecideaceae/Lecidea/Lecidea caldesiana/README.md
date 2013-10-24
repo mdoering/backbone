@@ -1,5 +1,4 @@
-Lecidea caldesiana SPECIES
-=======
+# Lecidea caldesiana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schroeteriaster elettariae Racib. SPECIES
-=======
+# Schroeteriaster elettariae Racib. SPECIES
 
 #### Status
 ACCEPTED

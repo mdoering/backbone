@@ -1,5 +1,4 @@
-Nectria leucorrhodina (Mont.) Samuels SPECIES
-=======
+# Nectria leucorrhodina (Mont.) Samuels SPECIES
 
 #### Status
 ACCEPTED

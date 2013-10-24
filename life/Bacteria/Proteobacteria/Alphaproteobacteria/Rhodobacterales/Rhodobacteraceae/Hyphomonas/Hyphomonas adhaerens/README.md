@@ -1,5 +1,4 @@
-Hyphomonas adhaerens Weiner et al., 2000 SPECIES
-=======
+# Hyphomonas adhaerens Weiner et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

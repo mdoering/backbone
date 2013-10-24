@@ -1,5 +1,4 @@
-Octospora borealis (Eckblad) Caillet & Moyne SPECIES
-=======
+# Octospora borealis (Eckblad) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

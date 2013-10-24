@@ -1,5 +1,4 @@
-Ganoderma ghesquierei Steyaert SPECIES
-=======
+# Ganoderma ghesquierei Steyaert SPECIES
 
 #### Status
 ACCEPTED

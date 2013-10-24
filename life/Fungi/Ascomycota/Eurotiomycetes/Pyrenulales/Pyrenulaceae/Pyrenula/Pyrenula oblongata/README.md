@@ -1,5 +1,4 @@
-Pyrenula oblongata (Müll. Arg.) Willey SPECIES
-=======
+# Pyrenula oblongata (Müll. Arg.) Willey SPECIES
 
 #### Status
 ACCEPTED

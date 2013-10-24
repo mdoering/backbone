@@ -1,5 +1,4 @@
-Strombidion Claparède & Lachmann, 1860 GENUS
-=======
+# Strombidion Claparède & Lachmann, 1860 GENUS
 
 #### Status
 ACCEPTED

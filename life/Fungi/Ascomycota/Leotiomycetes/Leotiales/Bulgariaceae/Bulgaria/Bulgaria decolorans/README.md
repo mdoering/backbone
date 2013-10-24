@@ -1,5 +1,4 @@
-Bulgaria decolorans Berk. & M.A. Curtis SPECIES
-=======
+# Bulgaria decolorans Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

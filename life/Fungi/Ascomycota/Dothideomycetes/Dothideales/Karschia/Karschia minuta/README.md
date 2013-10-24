@@ -1,5 +1,4 @@
-Karschia minuta Velen. SPECIES
-=======
+# Karschia minuta Velen. SPECIES
 
 #### Status
 ACCEPTED

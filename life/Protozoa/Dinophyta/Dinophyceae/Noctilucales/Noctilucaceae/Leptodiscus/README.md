@@ -1,5 +1,4 @@
-Leptodiscus R. Hertwig, 1877 GENUS
-=======
+# Leptodiscus R. Hertwig, 1877 GENUS
 
 #### Status
 ACCEPTED

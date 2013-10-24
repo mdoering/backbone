@@ -1,5 +1,4 @@
-Hysterium batucense Speg. SPECIES
-=======
+# Hysterium batucense Speg. SPECIES
 
 #### Status
 ACCEPTED

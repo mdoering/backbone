@@ -1,5 +1,4 @@
-Methanobrevibacter woesei Miller & Lin, 2002 SPECIES
-=======
+# Methanobrevibacter woesei Miller & Lin, 2002 SPECIES
 
 #### Status
 ACCEPTED

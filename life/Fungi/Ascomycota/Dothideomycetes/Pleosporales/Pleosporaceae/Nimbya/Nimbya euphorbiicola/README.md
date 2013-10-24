@@ -1,5 +1,4 @@
-Nimbya euphorbiicola W.Q. Chen & T.Y. Zhang, 1997 SPECIES
-=======
+# Nimbya euphorbiicola W.Q. Chen & T.Y. Zhang, 1997 SPECIES
 
 #### Status
 ACCEPTED

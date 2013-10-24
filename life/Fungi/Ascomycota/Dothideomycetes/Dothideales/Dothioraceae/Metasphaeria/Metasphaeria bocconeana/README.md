@@ -1,5 +1,4 @@
-Metasphaeria bocconeana Sacc. SPECIES
-=======
+# Metasphaeria bocconeana Sacc. SPECIES
 
 #### Status
 ACCEPTED

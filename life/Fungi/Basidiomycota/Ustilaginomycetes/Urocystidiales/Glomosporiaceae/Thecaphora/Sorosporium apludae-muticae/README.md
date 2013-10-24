@@ -1,5 +1,4 @@
-Sorosporium apludae-muticae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
-=======
+# Sorosporium apludae-muticae A.R. Patil, T.M. Patil & M.S. Patil SPECIES
 
 #### Status
 ACCEPTED

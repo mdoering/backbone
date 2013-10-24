@@ -1,17 +1,16 @@
-Nectria flavolanata f. flavolanata FORM
-=======
+# Lanatonectria flavolanata (Berk. & Broome) Samuels & Rossman, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Linn. Soc. , Bot. 14(2): 114 (1875)
+in Rossman, Samuels, Rogerson & Lowen, Stud. Mycol. 42: 139 (1999)
 
 #### Original name
-Nectria flavolanata f. flavolanata
+Nectria flavolanata Berk. & Broome, 1875
 
 ### Remarks
 null

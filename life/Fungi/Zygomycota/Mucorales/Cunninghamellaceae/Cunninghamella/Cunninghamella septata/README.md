@@ -1,5 +1,4 @@
-Cunninghamella septata R.Y. Zheng SPECIES
-=======
+# Cunninghamella septata R.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

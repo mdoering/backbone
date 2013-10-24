@@ -1,5 +1,4 @@
-Buffhamia Batters, 1895 GENUS
-=======
+# Buffhamia Batters, 1895 GENUS
 
 #### Status
 ACCEPTED

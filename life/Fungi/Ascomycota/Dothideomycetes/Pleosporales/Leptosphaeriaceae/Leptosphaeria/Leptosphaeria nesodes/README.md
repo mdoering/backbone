@@ -1,17 +1,16 @@
-Heptameria nesodes (Berk. & Broome) Cooke, 1889 SPECIES
-=======
+# Leptosphaeria nesodes (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 85 (1883)
 
 #### Original name
-null
+Sphaeria nesodes Berk. & Broome, 1873
 
 ### Remarks
 null

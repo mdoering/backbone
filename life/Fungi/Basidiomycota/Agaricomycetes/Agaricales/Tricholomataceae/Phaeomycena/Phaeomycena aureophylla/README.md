@@ -1,5 +1,4 @@
-Phaeomycena aureophylla R. Heim, 1966 SPECIES
-=======
+# Phaeomycena aureophylla R. Heim, 1966 SPECIES
 
 #### Status
 ACCEPTED

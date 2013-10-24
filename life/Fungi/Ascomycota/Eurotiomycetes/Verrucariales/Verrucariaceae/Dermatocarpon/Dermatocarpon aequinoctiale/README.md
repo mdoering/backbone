@@ -1,5 +1,4 @@
-Dermatocarpon aequinoctiale (Hochst.) Müll. Arg. SPECIES
-=======
+# Dermatocarpon aequinoctiale (Hochst.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

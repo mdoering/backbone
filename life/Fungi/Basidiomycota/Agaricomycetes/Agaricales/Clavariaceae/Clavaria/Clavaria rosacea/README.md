@@ -1,5 +1,4 @@
-Clavaria rosacea Henn. SPECIES
-=======
+# Clavaria rosacea Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum griseoflavum Link SPECIES
-=======
+# Sporotrichum griseoflavum Link SPECIES
 
 #### Status
 ACCEPTED

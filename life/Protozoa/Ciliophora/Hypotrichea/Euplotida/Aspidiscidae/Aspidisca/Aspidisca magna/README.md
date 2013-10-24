@@ -1,5 +1,4 @@
-Aspidisca magna Kahl, 1932 SPECIES
-=======
+# Aspidisca magna Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

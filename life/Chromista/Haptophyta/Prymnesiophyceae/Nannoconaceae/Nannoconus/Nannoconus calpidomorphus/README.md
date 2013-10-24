@@ -1,5 +1,4 @@
-Nannoconus calpidomorphus Deflandre & Deflandre, 1967 SPECIES
-=======
+# Nannoconus calpidomorphus Deflandre & Deflandre, 1967 SPECIES
 
 #### Status
 ACCEPTED

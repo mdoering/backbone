@@ -1,5 +1,4 @@
-Agaricus stellulatus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus stellulatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

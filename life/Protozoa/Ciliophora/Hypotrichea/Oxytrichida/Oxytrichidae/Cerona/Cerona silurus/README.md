@@ -1,5 +1,4 @@
-Cerona silurus SPECIES
-=======
+# Cerona silurus SPECIES
 
 #### Status
 ACCEPTED

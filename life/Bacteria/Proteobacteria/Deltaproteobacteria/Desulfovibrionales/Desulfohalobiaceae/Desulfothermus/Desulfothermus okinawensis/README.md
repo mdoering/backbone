@@ -1,5 +1,4 @@
-Desulfothermus okinawensis Nunoura, Oida, Miyazaki, Suzuki, Takai & Horikoshi, 2007 SPECIES
-=======
+# Desulfothermus okinawensis Nunoura, Oida, Miyazaki, Suzuki, Takai & Horikoshi, 2007 SPECIES
 
 #### Status
 ACCEPTED

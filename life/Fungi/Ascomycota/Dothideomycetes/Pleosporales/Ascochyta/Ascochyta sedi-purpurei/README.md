@@ -1,5 +1,4 @@
-Ascochyta sedi-purpurei Rothers SPECIES
-=======
+# Ascochyta sedi-purpurei Rothers SPECIES
 
 #### Status
 ACCEPTED

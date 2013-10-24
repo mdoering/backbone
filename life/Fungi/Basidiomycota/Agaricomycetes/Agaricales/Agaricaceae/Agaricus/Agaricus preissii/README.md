@@ -1,5 +1,4 @@
-Agaricus preissii Fr. SPECIES
-=======
+# Agaricus preissii Fr. SPECIES
 
 #### Status
 ACCEPTED

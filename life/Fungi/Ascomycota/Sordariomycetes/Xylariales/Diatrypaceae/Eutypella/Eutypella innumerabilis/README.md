@@ -1,5 +1,4 @@
-Eutypella innumerabilis (Peck) Sacc. SPECIES
-=======
+# Eutypella innumerabilis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

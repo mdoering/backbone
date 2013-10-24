@@ -1,5 +1,4 @@
-Peziza planoumbilicata Grev. SPECIES
-=======
+# Peziza planoumbilicata Grev. SPECIES
 
 #### Status
 ACCEPTED

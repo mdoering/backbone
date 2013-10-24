@@ -1,5 +1,4 @@
-Parmelia meridionalis Tav. SPECIES
-=======
+# Parmelia meridionalis Tav. SPECIES
 
 #### Status
 ACCEPTED

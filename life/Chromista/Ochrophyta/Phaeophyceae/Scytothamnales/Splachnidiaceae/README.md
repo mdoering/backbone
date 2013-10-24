@@ -1,5 +1,4 @@
-Splachnidiaceae Mitchell & Whitting, 1892 FAMILY
-=======
+# Splachnidiaceae Mitchell & Whitting, 1892 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria hultingii (H. Magn.) Motyka SPECIES
-=======
+# Urceolaria hultingii (H. Magn.) Motyka SPECIES
 
 #### Status
 ACCEPTED

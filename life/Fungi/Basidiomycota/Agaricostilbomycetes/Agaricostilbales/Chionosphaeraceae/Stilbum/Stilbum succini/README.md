@@ -1,5 +1,4 @@
-Stilbum succini Casp. SPECIES
-=======
+# Stilbum succini Casp. SPECIES
 
 #### Status
 ACCEPTED

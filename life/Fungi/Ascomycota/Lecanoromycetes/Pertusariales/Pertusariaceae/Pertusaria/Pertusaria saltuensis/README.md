@@ -1,5 +1,4 @@
-Pertusaria saltuensis A. W. Archer & Elix SPECIES
-=======
+# Pertusaria saltuensis A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED

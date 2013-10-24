@@ -1,5 +1,4 @@
-Physcia palmarum f. palmarum FORM
-=======
+# Physcia palmarum Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia palmarum f. palmarum
+Physcia palmarum Vain.
 
 ### Remarks
 null

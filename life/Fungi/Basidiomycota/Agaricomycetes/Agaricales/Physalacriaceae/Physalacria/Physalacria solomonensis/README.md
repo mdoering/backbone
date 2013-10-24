@@ -1,5 +1,4 @@
-Physalacria solomonensis Corner, 1967 SPECIES
-=======
+# Physalacria solomonensis Corner, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactridium atrovirens Berk. SPECIES
-=======
+# Bactridium atrovirens Berk. SPECIES
 
 #### Status
 ACCEPTED

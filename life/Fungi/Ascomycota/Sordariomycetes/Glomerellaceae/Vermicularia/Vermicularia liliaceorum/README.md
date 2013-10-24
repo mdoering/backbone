@@ -1,5 +1,4 @@
-Vermicularia liliaceorum Schwein. SPECIES
-=======
+# Vermicularia liliaceorum Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphingomonas stygia Balkwill et al., 1997 SPECIES
-=======
+# Sphingomonas stygia Balkwill et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

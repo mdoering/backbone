@@ -1,5 +1,4 @@
-Macrophoma gymnopogri Feldmann SPECIES
-=======
+# Macrophoma gymnopogri Feldmann SPECIES
 
 #### Status
 ACCEPTED

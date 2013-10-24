@@ -1,5 +1,4 @@
-Chromidina coronata (Foettinger, 1881) SPECIES
-=======
+# Chromidina coronata (Foettinger, 1881) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ephedracetes T.C. Huang GENUS
-=======
+# Ephedracetes T.C. Huang GENUS
 
 #### Status
 ACCEPTED

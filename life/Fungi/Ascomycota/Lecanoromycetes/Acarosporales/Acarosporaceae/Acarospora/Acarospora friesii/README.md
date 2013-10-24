@@ -1,5 +1,4 @@
-Acarospora friesii H. Magn. SPECIES
-=======
+# Acarospora friesii H. Magn. SPECIES
 
 #### Status
 ACCEPTED

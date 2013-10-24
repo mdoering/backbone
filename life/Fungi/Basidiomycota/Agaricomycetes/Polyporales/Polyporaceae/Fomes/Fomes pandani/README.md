@@ -1,5 +1,4 @@
-Fomes pandani (Lour.) Fr. SPECIES
-=======
+# Fomes pandani (Lour.) Fr. SPECIES
 
 #### Status
 ACCEPTED

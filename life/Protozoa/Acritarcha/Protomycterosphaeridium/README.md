@@ -1,5 +1,4 @@
-Protomycterosphaeridium B.V. Timofeev, 1963 GENUS
-=======
+# Protomycterosphaeridium B.V. Timofeev, 1963 GENUS
 
 #### Status
 ACCEPTED

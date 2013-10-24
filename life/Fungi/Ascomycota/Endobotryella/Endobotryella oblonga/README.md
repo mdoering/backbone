@@ -1,14 +1,13 @@
-Thyrsidium oblongum (Fuckel) Sacc., 1884 SPECIES
-=======
+# Endobotryella oblonga (Fuckel) Höhn., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 118: 1536 (1909)
 
 #### Original name
 Myriocephalum oblongum Fuckel, 1870

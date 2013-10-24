@@ -1,5 +1,4 @@
-Phyllosticta dysanthi Motohashi & C. Nakash. SPECIES
-=======
+# Phyllosticta dysanthi Motohashi & C. Nakash. SPECIES
 
 #### Status
 ACCEPTED

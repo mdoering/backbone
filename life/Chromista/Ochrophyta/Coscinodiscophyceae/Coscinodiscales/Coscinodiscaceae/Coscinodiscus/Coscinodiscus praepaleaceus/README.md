@@ -1,5 +1,4 @@
-Coscinodiscus praepaleaceus H.J. Schrader SPECIES
-=======
+# Coscinodiscus praepaleaceus H.J. Schrader SPECIES
 
 #### Status
 ACCEPTED

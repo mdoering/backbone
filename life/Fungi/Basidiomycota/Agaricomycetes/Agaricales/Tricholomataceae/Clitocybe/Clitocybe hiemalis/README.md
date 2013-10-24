@@ -1,5 +1,4 @@
-Clitocybe hiemalis Murrill SPECIES
-=======
+# Clitocybe hiemalis Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe coriariigena U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe coriariigena U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

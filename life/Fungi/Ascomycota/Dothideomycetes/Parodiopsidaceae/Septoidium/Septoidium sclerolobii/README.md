@@ -1,5 +1,4 @@
-Septoidium sclerolobii (Henn.) M.B. Ellis SPECIES
-=======
+# Septoidium sclerolobii (Henn.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium submucosum SPECIES
-=======
+# Anthracothecium submucosum SPECIES
 
 #### Status
 ACCEPTED

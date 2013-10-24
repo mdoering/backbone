@@ -1,5 +1,4 @@
-Phyllosticta thuringiaca Died. SPECIES
-=======
+# Phyllosticta thuringiaca Died. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum amenti P. Karst. SPECIES
-=======
+# Sporotrichum amenti P. Karst. SPECIES
 
 #### Status
 ACCEPTED

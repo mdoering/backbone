@@ -1,5 +1,4 @@
-Septoria ingae-fagifoliae Bat. & Peres SPECIES
-=======
+# Septoria ingae-fagifoliae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

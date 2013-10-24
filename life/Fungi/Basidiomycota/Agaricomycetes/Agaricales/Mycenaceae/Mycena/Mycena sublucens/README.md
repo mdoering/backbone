@@ -1,5 +1,4 @@
-Mycena sublucens Corner SPECIES
-=======
+# Mycena sublucens Corner SPECIES
 
 #### Status
 ACCEPTED

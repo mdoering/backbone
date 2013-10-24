@@ -1,5 +1,4 @@
-Pocillaria spegazzinii (Sacc. & Cub.) Kuntze SPECIES
-=======
+# Pocillaria spegazzinii (Sacc. & Cub.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

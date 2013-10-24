@@ -1,5 +1,4 @@
-Pholiota tuberosa (Henn.) SPECIES
-=======
+# Pholiota tuberosa (Henn.) SPECIES
 
 #### Status
 ACCEPTED

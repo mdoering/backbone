@@ -1,5 +1,4 @@
-Puccinia agasyllidis Tranzschel & Erem. SPECIES
-=======
+# Puccinia agasyllidis Tranzschel & Erem. SPECIES
 
 #### Status
 ACCEPTED

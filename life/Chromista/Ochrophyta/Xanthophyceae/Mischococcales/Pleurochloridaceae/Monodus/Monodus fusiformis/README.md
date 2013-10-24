@@ -1,5 +1,4 @@
-Monodus fusiformis Starmach SPECIES
-=======
+# Monodus fusiformis Starmach SPECIES
 
 #### Status
 ACCEPTED

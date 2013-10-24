@@ -1,5 +1,4 @@
-Amphisphaeria sapinea P. Karst. SPECIES
-=======
+# Amphisphaeria sapinea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

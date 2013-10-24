@@ -1,5 +1,4 @@
-Trichobasis GENUS
-=======
+# Trichobasis GENUS
 
 #### Status
 ACCEPTED

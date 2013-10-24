@@ -1,5 +1,4 @@
-Verrucaria epigaea SPECIES
-=======
+# Verrucaria epigaea SPECIES
 
 #### Status
 ACCEPTED

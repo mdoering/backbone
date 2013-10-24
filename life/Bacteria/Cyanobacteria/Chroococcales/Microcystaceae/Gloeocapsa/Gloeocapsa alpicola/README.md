@@ -1,5 +1,4 @@
-Gloeocapsa alpicola (Lyngbye) Bornet SPECIES
-=======
+# Gloeocapsa alpicola (Lyngbye) Bornet SPECIES
 
 #### Status
 ACCEPTED

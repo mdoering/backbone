@@ -1,5 +1,4 @@
-Fasciculithaceae Hay & Mohler, 1967 FAMILY
-=======
+# Fasciculithaceae Hay & Mohler, 1967 FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccothecium vincae (Fr.) Kirschst. SPECIES
-=======
+# Saccothecium vincae (Fr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

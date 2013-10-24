@@ -1,5 +1,4 @@
-Halomonas ventosae Martínez-Cánovas et al., 2004 SPECIES
-=======
+# Halomonas ventosae Martínez-Cánovas et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

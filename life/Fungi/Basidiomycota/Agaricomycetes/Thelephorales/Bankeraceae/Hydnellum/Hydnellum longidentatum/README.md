@@ -1,5 +1,4 @@
-Hydnellum longidentatum Coker SPECIES
-=======
+# Hydnellum longidentatum Coker SPECIES
 
 #### Status
 ACCEPTED

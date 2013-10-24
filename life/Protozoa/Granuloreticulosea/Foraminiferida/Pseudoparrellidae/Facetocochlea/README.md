@@ -1,5 +1,4 @@
-Facetocochlea Loeblich & Tappan, 1994 GENUS
-=======
+# Facetocochlea Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

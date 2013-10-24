@@ -1,5 +1,4 @@
-Phoma knysnensis Matsush. SPECIES
-=======
+# Phoma knysnensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

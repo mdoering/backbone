@@ -1,5 +1,4 @@
-Buellia substigmatea Fink SPECIES
-=======
+# Buellia substigmatea Fink SPECIES
 
 #### Status
 ACCEPTED

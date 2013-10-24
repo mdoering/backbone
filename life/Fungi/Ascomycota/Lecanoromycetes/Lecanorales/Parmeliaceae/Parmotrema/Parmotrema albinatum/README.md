@@ -1,17 +1,16 @@
-Rimelia albinatua K.H. Moon, Kurok. & Kashiw. SPECIES
-=======
+# Parmotrema albinatum (K.H. Moon, Kurok. & Kashiw.) O. Blanco, A. Crespo, Divakar, Elix & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 97(1): 157 (2005)
 
 #### Original name
-null
+Rimelia albinata K.H. Moon, Kurok. & Kashiw.
 
 ### Remarks
 null

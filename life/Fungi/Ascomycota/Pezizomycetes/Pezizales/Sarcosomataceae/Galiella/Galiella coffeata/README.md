@@ -1,5 +1,4 @@
-Galiella coffeata Gamundí SPECIES
-=======
+# Galiella coffeata Gamundí SPECIES
 
 #### Status
 ACCEPTED

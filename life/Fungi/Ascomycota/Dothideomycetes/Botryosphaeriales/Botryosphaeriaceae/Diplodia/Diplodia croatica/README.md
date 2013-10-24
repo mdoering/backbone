@@ -1,5 +1,4 @@
-Diplodia croatica Baudy & Picb. SPECIES
-=======
+# Diplodia croatica Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

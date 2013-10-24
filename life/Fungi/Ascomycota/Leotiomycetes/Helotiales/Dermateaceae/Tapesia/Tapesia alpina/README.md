@@ -1,5 +1,4 @@
-Tapesia alpina Velen. SPECIES
-=======
+# Tapesia alpina Velen. SPECIES
 
 #### Status
 ACCEPTED

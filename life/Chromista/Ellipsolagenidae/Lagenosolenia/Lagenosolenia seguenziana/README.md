@@ -1,5 +1,4 @@
-Lagenosolenia seguenziana (Fornasini, 1886) SPECIES
-=======
+# Lagenosolenia seguenziana (Fornasini, 1886) SPECIES
 
 #### Status
 ACCEPTED

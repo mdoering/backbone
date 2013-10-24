@@ -1,5 +1,4 @@
-Euglena elastica Prescott SPECIES
-=======
+# Euglena elastica Prescott SPECIES
 
 #### Status
 ACCEPTED

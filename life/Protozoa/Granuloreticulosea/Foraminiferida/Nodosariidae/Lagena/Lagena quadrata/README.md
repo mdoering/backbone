@@ -1,5 +1,4 @@
-Lagena quadrata SPECIES
-=======
+# Lagena quadrata SPECIES
 
 #### Status
 ACCEPTED

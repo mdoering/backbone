@@ -1,5 +1,4 @@
-Scytonema brunneum Schmidle SPECIES
-=======
+# Scytonema brunneum Schmidle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Pezizella fairmani Rehm SPECIES
-=======
+# Pezizella fairmanii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pezizella fairmani Rehm
+Pezizella fairmanii Rehm
 
 ### Remarks
 null

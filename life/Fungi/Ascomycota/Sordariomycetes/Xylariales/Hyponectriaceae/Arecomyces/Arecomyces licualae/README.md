@@ -1,5 +1,4 @@
-Arecomyces licualae K.D. Hyde & J. Fröhl. SPECIES
-=======
+# Arecomyces licualae K.D. Hyde & J. Fröhl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhopalostroma lekae Whalley, Thienh., M.A. Whalley & Sihan., 1998 SPECIES
-=======
+# Rhopalostroma lekae Whalley, Thienh., M.A. Whalley & Sihan., 1998 SPECIES
 
 #### Status
 ACCEPTED

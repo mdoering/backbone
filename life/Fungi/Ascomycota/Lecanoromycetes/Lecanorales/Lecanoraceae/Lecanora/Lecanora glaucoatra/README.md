@@ -1,5 +1,4 @@
-Lecanora glaucoatra Vain. SPECIES
-=======
+# Lecanora glaucoatra Vain. SPECIES
 
 #### Status
 ACCEPTED

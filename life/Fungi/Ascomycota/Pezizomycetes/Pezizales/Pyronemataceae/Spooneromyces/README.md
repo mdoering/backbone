@@ -1,5 +1,4 @@
-Spooneromyces T. Schumach. & J. Moravec GENUS
-=======
+# Spooneromyces T. Schumach. & J. Moravec GENUS
 
 #### Status
 ACCEPTED

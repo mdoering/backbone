@@ -1,5 +1,4 @@
-Eutypella hunanensis Rappaz SPECIES
-=======
+# Eutypella hunanensis Rappaz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria colpoma Corda SPECIES
-=======
+# Sphaeria colpoma Corda SPECIES
 
 #### Status
 ACCEPTED

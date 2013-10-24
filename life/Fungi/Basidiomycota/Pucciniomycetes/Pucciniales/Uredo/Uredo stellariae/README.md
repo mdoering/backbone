@@ -1,5 +1,4 @@
-Uredo stellariae Fuckel SPECIES
-=======
+# Uredo stellariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

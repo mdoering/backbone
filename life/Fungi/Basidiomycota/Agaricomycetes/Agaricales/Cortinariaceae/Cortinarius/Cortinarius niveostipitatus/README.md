@@ -1,5 +1,4 @@
-Cortinarius niveostipitatus Svrcek SPECIES
-=======
+# Cortinarius niveostipitatus Svrcek SPECIES
 
 #### Status
 ACCEPTED

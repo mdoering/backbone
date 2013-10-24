@@ -1,5 +1,4 @@
-Cancris higuerotensis SPECIES
-=======
+# Cancris higuerotensis SPECIES
 
 #### Status
 ACCEPTED

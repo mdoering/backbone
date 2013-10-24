@@ -1,17 +1,16 @@
-Camarosporium eucomiae Koshk. & Frolov SPECIES
-=======
+# Camarosporium eucommiae Koshk. & Frolov SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mikoflora Podgornoi Raviniy Kopetdaga i Tsentral'nykh Karakumov [Mycoflora of the mountainous plains of Kopet Dagh and Central Kara Kum] (Ashkhabad) 134 (1973)
 
 #### Original name
-Camarosporium eucomiae Koshk. & Frolov
+Camarosporium eucommiae Koshk. & Frolov
 
 ### Remarks
 null

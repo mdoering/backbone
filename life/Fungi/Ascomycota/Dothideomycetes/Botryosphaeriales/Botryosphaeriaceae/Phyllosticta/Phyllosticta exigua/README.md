@@ -1,5 +1,4 @@
-Phyllosticta exigua Syd. SPECIES
-=======
+# Phyllosticta exigua Syd. SPECIES
 
 #### Status
 ACCEPTED

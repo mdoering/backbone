@@ -1,5 +1,4 @@
-Corethromyces laminiferus Thaxt. SPECIES
-=======
+# Corethromyces laminiferus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

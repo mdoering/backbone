@@ -1,5 +1,4 @@
-Dictyopteris polypodiodes (De Candolle) Lamoureaux SPECIES
-=======
+# Dictyopteris polypodiodes (De Candolle) Lamoureaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma lagenicola Sacc. SPECIES
-=======
+# Phoma lagenicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

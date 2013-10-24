@@ -1,5 +1,4 @@
-Hoarella Arcay de Peraza, 1963 GENUS
-=======
+# Hoarella Arcay de Peraza, 1963 GENUS
 
 #### Status
 ACCEPTED

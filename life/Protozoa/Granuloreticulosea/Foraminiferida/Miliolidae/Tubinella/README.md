@@ -1,5 +1,4 @@
-Tubinella Rhumbler, 1906 GENUS
-=======
+# Tubinella Rhumbler, 1906 GENUS
 
 #### Status
 ACCEPTED

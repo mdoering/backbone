@@ -1,5 +1,4 @@
-Uredo gardeniae-floridae (Sawada) Hirats. f. SPECIES
-=======
+# Uredo gardeniae-floridae (Sawada) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

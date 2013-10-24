@@ -1,5 +1,4 @@
-Pestalozziella geranii-pusilli var. geranii-pusilli VARIETY
-=======
+# Pestalozziella geranii-pusilli C. Massal. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pestalozziella geranii-pusilli var. geranii-pusilli
+Pestalozziella geranii-pusilli C. Massal.
 
 ### Remarks
 null

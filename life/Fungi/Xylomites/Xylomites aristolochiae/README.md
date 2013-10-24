@@ -1,5 +1,4 @@
-Xylomites aristolochiae Ettingsh. SPECIES
-=======
+# Xylomites aristolochiae Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

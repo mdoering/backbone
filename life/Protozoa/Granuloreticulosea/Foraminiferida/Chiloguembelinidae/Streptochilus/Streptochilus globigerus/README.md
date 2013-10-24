@@ -1,8 +1,7 @@
-Textularia globigera Schwager, 1866 SPECIES
-=======
+# Streptochilus globigerus (Schwager, 1866) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

@@ -1,5 +1,4 @@
-Syncephalis nigricans Tiegh., 1878 SPECIES
-=======
+# Syncephalis nigricans Tiegh., 1878 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus suntoryeus Cachat & Priest, 2005 SPECIES
-=======
+# Lactobacillus suntoryeus Cachat & Priest, 2005 SPECIES
 
 #### Status
 ACCEPTED

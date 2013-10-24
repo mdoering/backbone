@@ -1,5 +1,4 @@
-Puccinia moriokaensis S. Ito SPECIES
-=======
+# Puccinia moriokaensis S. Ito SPECIES
 
 #### Status
 ACCEPTED

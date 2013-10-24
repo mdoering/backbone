@@ -1,5 +1,4 @@
-Coprinus siskiyouensis Bogart SPECIES
-=======
+# Coprinus siskiyouensis Bogart SPECIES
 
 #### Status
 ACCEPTED

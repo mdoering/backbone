@@ -1,5 +1,4 @@
-Ceriomyces atkinsonianus Murrill SPECIES
-=======
+# Ceriomyces atkinsonianus Murrill SPECIES
 
 #### Status
 ACCEPTED

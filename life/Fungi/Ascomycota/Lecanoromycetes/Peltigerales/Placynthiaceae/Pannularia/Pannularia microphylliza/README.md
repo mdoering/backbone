@@ -1,5 +1,4 @@
-Pannularia microphylliza Nyl. SPECIES
-=======
+# Pannularia microphylliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

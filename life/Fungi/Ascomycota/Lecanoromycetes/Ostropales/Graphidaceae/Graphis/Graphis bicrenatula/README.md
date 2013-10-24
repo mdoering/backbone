@@ -1,5 +1,4 @@
-Graphis bicrenatula Redinger SPECIES
-=======
+# Graphis bicrenatula Redinger SPECIES
 
 #### Status
 ACCEPTED

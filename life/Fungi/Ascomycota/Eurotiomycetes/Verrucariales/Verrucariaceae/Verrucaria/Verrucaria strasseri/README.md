@@ -1,5 +1,4 @@
-Verrucaria strasseri Servít SPECIES
-=======
+# Verrucaria strasseri Servít SPECIES
 
 #### Status
 ACCEPTED

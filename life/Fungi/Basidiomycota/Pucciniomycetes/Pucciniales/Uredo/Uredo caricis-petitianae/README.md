@@ -1,5 +1,4 @@
-Uredo caricis-petitianae Doidge SPECIES
-=======
+# Uredo caricis-petitianae Doidge SPECIES
 
 #### Status
 ACCEPTED

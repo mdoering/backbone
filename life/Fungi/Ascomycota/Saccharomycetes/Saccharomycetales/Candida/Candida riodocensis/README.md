@@ -1,5 +1,4 @@
-Candida riodocensis Pimentel, Lachance & C.A. Rosa SPECIES
-=======
+# Candida riodocensis Pimentel, Lachance & C.A. Rosa SPECIES
 
 #### Status
 ACCEPTED

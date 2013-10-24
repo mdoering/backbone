@@ -1,5 +1,4 @@
-Leprocaulon Nyl. GENUS
-=======
+# Leprocaulon Nyl. GENUS
 
 #### Status
 ACCEPTED

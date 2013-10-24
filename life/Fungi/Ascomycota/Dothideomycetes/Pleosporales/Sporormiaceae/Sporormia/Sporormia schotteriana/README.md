@@ -1,5 +1,4 @@
-Sporormia schotteriana Breton & Faurel SPECIES
-=======
+# Sporormia schotteriana Breton & Faurel SPECIES
 
 #### Status
 ACCEPTED

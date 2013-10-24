@@ -1,5 +1,4 @@
-Cercospora aeglicola S. Das SPECIES
-=======
+# Cercospora aeglicola S. Das SPECIES
 
 #### Status
 ACCEPTED

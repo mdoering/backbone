@@ -1,5 +1,4 @@
-Psoroma sinense SPECIES
-=======
+# Psoroma sinense SPECIES
 
 #### Status
 ACCEPTED

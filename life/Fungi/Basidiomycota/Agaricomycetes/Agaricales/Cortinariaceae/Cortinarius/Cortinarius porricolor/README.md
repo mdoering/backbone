@@ -1,5 +1,4 @@
-Cortinarius porricolor Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius porricolor Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

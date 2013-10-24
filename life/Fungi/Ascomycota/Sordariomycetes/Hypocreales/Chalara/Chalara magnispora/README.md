@@ -1,5 +1,4 @@
-Chalara magnispora Matsush. SPECIES
-=======
+# Chalara magnispora Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Matanzia Palmer, 1936 GENUS
-=======
+# Matanzia Palmer, 1936 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe integra Corner SPECIES
-=======
+# Clitocybe integra Corner SPECIES
 
 #### Status
 ACCEPTED

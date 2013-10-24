@@ -1,5 +1,4 @@
-Scenidium vitellinum (Ces.) Kuntze SPECIES
-=======
+# Scenidium vitellinum (Ces.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

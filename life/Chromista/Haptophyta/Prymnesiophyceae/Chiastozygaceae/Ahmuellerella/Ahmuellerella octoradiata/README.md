@@ -1,5 +1,4 @@
-Ahmuellerella octoradiata (Gorka, 1957) Reinhardt, 1964 SPECIES
-=======
+# Ahmuellerella octoradiata (Gorka, 1957) Reinhardt, 1964 SPECIES
 
 #### Status
 ACCEPTED

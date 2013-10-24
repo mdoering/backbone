@@ -1,5 +1,4 @@
-Rhabdospora brunaudiana (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora brunaudiana (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

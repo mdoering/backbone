@@ -1,5 +1,4 @@
-Cladina imshaugii (Ahti) Ahti SPECIES
-=======
+# Cladina imshaugii (Ahti) Ahti SPECIES
 
 #### Status
 ACCEPTED

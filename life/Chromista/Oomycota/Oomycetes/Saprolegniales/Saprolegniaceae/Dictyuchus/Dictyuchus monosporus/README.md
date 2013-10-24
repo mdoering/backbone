@@ -1,5 +1,4 @@
-Dictyuchus monosporus Leitg., 1870 SPECIES
-=======
+# Dictyuchus monosporus Leitg., 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirochaeta litoralis (ex Hespell & Canale-Parola, 1970) Canale-Parola, 1980 SPECIES
-=======
+# Spirochaeta litoralis (ex Hespell & Canale-Parola, 1970) Canale-Parola, 1980 SPECIES
 
 #### Status
 ACCEPTED

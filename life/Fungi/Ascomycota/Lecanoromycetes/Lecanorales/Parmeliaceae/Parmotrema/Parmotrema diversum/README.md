@@ -1,5 +1,4 @@
-Parmotrema diversum (Hale) Hale SPECIES
-=======
+# Parmotrema diversum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

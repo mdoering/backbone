@@ -1,5 +1,4 @@
-Russula pacifica Thiers SPECIES
-=======
+# Russula pacifica Thiers SPECIES
 
 #### Status
 ACCEPTED

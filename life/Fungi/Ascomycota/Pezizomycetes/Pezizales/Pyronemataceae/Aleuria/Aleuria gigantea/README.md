@@ -1,5 +1,4 @@
-Aleuria gigantea (K.S. Thind & Waraitch) J. Moravec & S.C. Kaushal SPECIES
-=======
+# Aleuria gigantea (K.S. Thind & Waraitch) J. Moravec & S.C. Kaushal SPECIES
 
 #### Status
 ACCEPTED

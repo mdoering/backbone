@@ -1,5 +1,4 @@
-Lyophyllum miserum (Fr.) Singer SPECIES
-=======
+# Lyophyllum miserum (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

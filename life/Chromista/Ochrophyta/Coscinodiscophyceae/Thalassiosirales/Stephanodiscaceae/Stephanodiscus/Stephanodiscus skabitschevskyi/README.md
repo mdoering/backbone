@@ -1,5 +1,4 @@
-Stephanodiscus skabitschevskyi Popovskaya SPECIES
-=======
+# Stephanodiscus skabitschevskyi Popovskaya SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endozythia moravica Petr., 1959 SPECIES
-=======
+# Endozythia moravica Petr., 1959 SPECIES
 
 #### Status
 ACCEPTED

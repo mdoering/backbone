@@ -1,5 +1,4 @@
-Mycena brevispina X. He & X.D. Fang SPECIES
-=======
+# Mycena brevispina X. He & X.D. Fang SPECIES
 
 #### Status
 ACCEPTED

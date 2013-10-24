@@ -1,5 +1,4 @@
-Diatrype roseola G. Winter SPECIES
-=======
+# Diatrype roseola G. Winter SPECIES
 
 #### Status
 ACCEPTED

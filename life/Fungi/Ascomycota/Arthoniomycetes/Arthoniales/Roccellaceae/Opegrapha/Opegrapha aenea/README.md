@@ -1,5 +1,4 @@
-Opegrapha aenea Lam. & DC. SPECIES
-=======
+# Opegrapha aenea Lam. & DC. SPECIES
 
 #### Status
 ACCEPTED

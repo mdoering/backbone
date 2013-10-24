@@ -1,5 +1,4 @@
-Fusarium miscanthi W. Gams, Klamer & O'Donnell, 1999 SPECIES
-=======
+# Fusarium miscanthi W. Gams, Klamer & O'Donnell, 1999 SPECIES
 
 #### Status
 ACCEPTED

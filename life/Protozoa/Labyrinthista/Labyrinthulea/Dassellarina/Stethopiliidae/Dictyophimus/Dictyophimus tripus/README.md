@@ -1,5 +1,4 @@
-Dictyophimus tripus SPECIES
-=======
+# Dictyophimus tripus SPECIES
 
 #### Status
 ACCEPTED

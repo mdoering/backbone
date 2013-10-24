@@ -1,8 +1,7 @@
-Sclerotium acerinum Alb. & Schwein., 1805 SPECIES
-=======
+# Pilidium acerinum (Alb. & Schwein.) Kunze, 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

@@ -1,5 +1,4 @@
-Nodosaria pseudo-obliquestriata Plummer SPECIES
-=======
+# Nodosaria pseudo-obliquestriata Plummer SPECIES
 
 #### Status
 ACCEPTED

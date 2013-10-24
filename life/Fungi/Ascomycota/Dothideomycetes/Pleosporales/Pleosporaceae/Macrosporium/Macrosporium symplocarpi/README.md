@@ -1,5 +1,4 @@
-Macrosporium symplocarpi Syd. SPECIES
-=======
+# Macrosporium symplocarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula procera G.F. Atk. SPECIES
-=======
+# Galerula procera G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

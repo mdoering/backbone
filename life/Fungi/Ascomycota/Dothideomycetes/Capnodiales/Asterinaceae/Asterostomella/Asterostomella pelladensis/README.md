@@ -1,5 +1,4 @@
-Asterostomella pelladensis Henn. SPECIES
-=======
+# Asterostomella pelladensis Henn. SPECIES
 
 #### Status
 ACCEPTED

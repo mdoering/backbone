@@ -1,5 +1,4 @@
-Stagonospora mulgedii Siemaszko SPECIES
-=======
+# Stagonospora mulgedii Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caricis-conicae Homma SPECIES
-=======
+# Puccinia caricis-conicae Homma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jahnula systyla K.D. Hyde & S.W. Wong SPECIES
-=======
+# Jahnula systyla K.D. Hyde & S.W. Wong SPECIES
 
 #### Status
 ACCEPTED

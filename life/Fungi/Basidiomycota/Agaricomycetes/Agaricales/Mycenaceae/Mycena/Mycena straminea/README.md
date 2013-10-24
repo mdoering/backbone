@@ -1,5 +1,4 @@
-Mycena straminea Beeli SPECIES
-=======
+# Mycena straminea Beeli SPECIES
 
 #### Status
 ACCEPTED

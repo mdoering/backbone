@@ -1,5 +1,4 @@
-Reticulofenestra minuta Roth, 1970 SPECIES
-=======
+# Reticulofenestra minuta Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Irpex oeckii (Banker) Saaren. & Kotir., 2002 SPECIES
-=======
+# Steccherinum peckii Banker, 1912 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 4(6): 314 (1912)
 
 #### Original name
-null
+Steccherinum peckii Banker, 1912
 
 ### Remarks
 null

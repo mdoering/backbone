@@ -1,5 +1,4 @@
-Graphis dispersa Makhija & Adaw. SPECIES
-=======
+# Graphis dispersa Makhija & Adaw. SPECIES
 
 #### Status
 ACCEPTED

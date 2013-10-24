@@ -1,5 +1,4 @@
-Meliola apayaoensis H.S. Yates SPECIES
-=======
+# Meliola apayaoensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

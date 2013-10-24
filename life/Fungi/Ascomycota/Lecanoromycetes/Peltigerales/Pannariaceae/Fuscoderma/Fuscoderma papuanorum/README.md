@@ -1,5 +1,4 @@
-Fuscoderma papuanorum P. M. Jørg. & Sipman SPECIES
-=======
+# Fuscoderma papuanorum P. M. Jørg. & Sipman SPECIES
 
 #### Status
 ACCEPTED

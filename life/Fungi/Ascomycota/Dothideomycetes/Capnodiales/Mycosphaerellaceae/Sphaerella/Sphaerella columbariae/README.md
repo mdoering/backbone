@@ -1,5 +1,4 @@
-Sphaerella columbariae (Feltgen) Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella columbariae (Feltgen) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta sii Lasch SPECIES
-=======
+# Ascochyta sii Lasch SPECIES
 
 #### Status
 ACCEPTED

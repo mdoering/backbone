@@ -1,5 +1,4 @@
-Heterodermia tropica (Kurok.) Kurok. SPECIES
-=======
+# Heterodermia tropica (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

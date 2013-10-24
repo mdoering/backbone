@@ -1,5 +1,4 @@
-Colletotrichum allii Av.-Saccá SPECIES
-=======
+# Colletotrichum allii Av.-Saccá SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia recepta Müll. Arg. SPECIES
-=======
+# Arthopyrenia recepta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxofusicoccum piskorzii Petr. SPECIES
-=======
+# Myxofusicoccum piskorzii Petr. SPECIES
 
 #### Status
 ACCEPTED

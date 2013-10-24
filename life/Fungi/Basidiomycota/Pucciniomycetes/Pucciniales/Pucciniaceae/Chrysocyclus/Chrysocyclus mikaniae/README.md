@@ -1,14 +1,13 @@
-Chrysopsora mikaniae Arthur, 1924 SPECIES
-=======
+# Chrysocyclus mikaniae (Arthur) Syd., 1925 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 51: 54 (1924)
+Annls mycol. 23(3/6): 322 (1925)
 
 #### Original name
 Chrysopsora mikaniae Arthur, 1924

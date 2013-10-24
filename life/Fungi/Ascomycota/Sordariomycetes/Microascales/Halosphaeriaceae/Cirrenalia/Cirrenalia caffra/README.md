@@ -1,17 +1,16 @@
-Cirrenalia caffera Matsush. SPECIES
-=======
+# Cirrenalia caffra Matsush. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Matsush. Mycol. Mem. 9: 6 (1996)
 
 #### Original name
-Cirrenalia caffera Matsush.
+Cirrenalia caffra Matsush.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pertusaria albescens var. albescens (Huds.) M. Choisy & Werner VARIETY
-=======
+# Pertusaria albescens (Huds.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cavanillesia 5: 165 (1932)
+null
 
 #### Original name
-Lichen albescens (Hoffm.) Ach.
+null
 
 ### Remarks
 null

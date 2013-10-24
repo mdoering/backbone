@@ -1,5 +1,4 @@
-Phragmothyrites lutosus (Dilcher) R.K. Kar & R.K. Saxena SPECIES
-=======
+# Phragmothyrites lutosus (Dilcher) R.K. Kar & R.K. Saxena SPECIES
 
 #### Status
 ACCEPTED

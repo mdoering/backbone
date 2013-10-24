@@ -1,5 +1,4 @@
-Alectoria ambigua Motyka SPECIES
-=======
+# Alectoria ambigua Motyka SPECIES
 
 #### Status
 ACCEPTED

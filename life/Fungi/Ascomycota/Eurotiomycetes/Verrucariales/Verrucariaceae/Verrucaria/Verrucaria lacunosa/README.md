@@ -1,5 +1,4 @@
-Verrucaria lacunosa Servít SPECIES
-=======
+# Verrucaria lacunosa Servít SPECIES
 
 #### Status
 ACCEPTED

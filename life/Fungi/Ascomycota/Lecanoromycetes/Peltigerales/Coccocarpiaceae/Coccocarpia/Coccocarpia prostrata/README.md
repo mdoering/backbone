@@ -1,5 +1,4 @@
-Coccocarpia prostrata Lücking, Aptroot & Sipman SPECIES
-=======
+# Coccocarpia prostrata Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

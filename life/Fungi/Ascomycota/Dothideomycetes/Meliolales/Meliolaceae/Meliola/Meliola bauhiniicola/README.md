@@ -1,5 +1,4 @@
-Meliola bauhiniicola W. Yamam. SPECIES
-=======
+# Meliola bauhiniicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

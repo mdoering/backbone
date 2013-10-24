@@ -1,5 +1,4 @@
-Botrytis atrata Fr. SPECIES
-=======
+# Botrytis atrata Fr. SPECIES
 
 #### Status
 ACCEPTED

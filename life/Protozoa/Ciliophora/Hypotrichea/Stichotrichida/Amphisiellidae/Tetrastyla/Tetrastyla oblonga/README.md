@@ -1,5 +1,4 @@
-Tetrastyla oblonga Schewiakoff, 1892 SPECIES
-=======
+# Tetrastyla oblonga Schewiakoff, 1892 SPECIES
 
 #### Status
 ACCEPTED

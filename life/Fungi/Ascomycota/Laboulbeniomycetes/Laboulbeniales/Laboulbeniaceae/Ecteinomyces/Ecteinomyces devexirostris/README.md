@@ -1,5 +1,4 @@
-Ecteinomyces devexirostris Speg. SPECIES
-=======
+# Ecteinomyces devexirostris Speg. SPECIES
 
 #### Status
 ACCEPTED

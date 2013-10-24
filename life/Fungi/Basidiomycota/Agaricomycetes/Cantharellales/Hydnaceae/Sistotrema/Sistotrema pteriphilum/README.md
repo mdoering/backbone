@@ -1,5 +1,4 @@
-Sistotrema pteriphilum K.H. Larss. & Hjortstam, 1986 SPECIES
-=======
+# Sistotrema pteriphilum K.H. Larss. & Hjortstam, 1986 SPECIES
 
 #### Status
 ACCEPTED

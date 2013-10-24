@@ -1,5 +1,4 @@
-Ypsilonia tropicalis Nag Raj SPECIES
-=======
+# Ypsilonia tropicalis Nag Raj SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius salicis-herbaceae var. salicis-herbaceae VARIETY
-=======
+# Lactarius salicis-herbaceae Kühner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 91: 68 (1975)
 
 #### Original name
-Lactarius salicis-herbaceae var. salicis-herbaceae
+Lactarius salicis-herbaceae Kühner
 
 ### Remarks
 null

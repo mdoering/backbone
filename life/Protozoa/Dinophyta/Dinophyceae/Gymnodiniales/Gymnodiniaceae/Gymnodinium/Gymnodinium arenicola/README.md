@@ -1,5 +1,4 @@
-Gymnodinium arenicola Dragesco SPECIES
-=======
+# Gymnodinium arenicola Dragesco SPECIES
 
 #### Status
 ACCEPTED

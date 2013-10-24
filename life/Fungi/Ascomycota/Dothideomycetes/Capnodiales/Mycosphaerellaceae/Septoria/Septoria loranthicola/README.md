@@ -1,5 +1,4 @@
-Septoria loranthicola Speg. SPECIES
-=======
+# Septoria loranthicola Speg. SPECIES
 
 #### Status
 ACCEPTED

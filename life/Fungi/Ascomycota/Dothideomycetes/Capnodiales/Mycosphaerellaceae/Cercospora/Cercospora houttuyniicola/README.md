@@ -1,5 +1,4 @@
-Cercospora houttuyniicola Goh & W.H. Hsieh SPECIES
-=======
+# Cercospora houttuyniicola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

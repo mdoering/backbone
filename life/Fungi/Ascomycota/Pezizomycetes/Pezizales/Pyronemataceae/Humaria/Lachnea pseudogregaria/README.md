@@ -1,5 +1,4 @@
-Lachnea pseudogregaria Rick SPECIES
-=======
+# Lachnea pseudogregaria Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha laeta Stirt. SPECIES
-=======
+# Opegrapha laeta Stirt. SPECIES
 
 #### Status
 ACCEPTED

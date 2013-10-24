@@ -1,5 +1,4 @@
-Sydowiella Petr. GENUS
-=======
+# Sydowiella Petr. GENUS
 
 #### Status
 ACCEPTED

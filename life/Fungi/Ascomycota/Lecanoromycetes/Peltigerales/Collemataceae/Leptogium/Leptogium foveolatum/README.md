@@ -1,5 +1,4 @@
-Leptogium foveolatum Nyl. SPECIES
-=======
+# Leptogium foveolatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

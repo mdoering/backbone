@@ -1,5 +1,4 @@
-Trichopeziza veronicae (Lasch) Sacc. SPECIES
-=======
+# Trichopeziza veronicae (Lasch) Sacc. SPECIES
 
 #### Status
 ACCEPTED

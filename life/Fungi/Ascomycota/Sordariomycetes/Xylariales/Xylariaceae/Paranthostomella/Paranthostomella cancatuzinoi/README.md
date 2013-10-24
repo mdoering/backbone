@@ -1,5 +1,4 @@
-Paranthostomella cancatuzinoi SPECIES
-=======
+# Paranthostomella cancatuzinoi SPECIES
 
 #### Status
 ACCEPTED

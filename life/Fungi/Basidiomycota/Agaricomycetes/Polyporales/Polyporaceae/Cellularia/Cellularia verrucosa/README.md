@@ -1,5 +1,4 @@
-Cellularia verrucosa (J. Kickx f.) Kuntze SPECIES
-=======
+# Cellularia verrucosa (J. Kickx f.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

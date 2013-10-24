@@ -1,14 +1,13 @@
-Pseudospiropes falcatus Morgan-Jones, 1982 SPECIES
-=======
+# Minimelanolocus falcatus (Morgan-Jones) R.F. Castañeda & Heredia, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 16(1): 189 (1982)
+in Castañeda Ruiz, Heredia, Reyes, Arias & Decock, Cryptog. Mycol. 22(1): 10 (2001)
 
 #### Original name
 Pseudospiropes falcatus Morgan-Jones, 1982

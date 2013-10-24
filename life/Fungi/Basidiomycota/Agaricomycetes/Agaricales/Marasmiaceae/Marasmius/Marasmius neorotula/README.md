@@ -1,5 +1,4 @@
-Marasmius neorotula Singer SPECIES
-=======
+# Marasmius neorotula Singer SPECIES
 
 #### Status
 ACCEPTED

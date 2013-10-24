@@ -1,5 +1,4 @@
-Cylindrotrichum gorii Lunghini SPECIES
-=======
+# Cylindrotrichum gorii Lunghini SPECIES
 
 #### Status
 ACCEPTED

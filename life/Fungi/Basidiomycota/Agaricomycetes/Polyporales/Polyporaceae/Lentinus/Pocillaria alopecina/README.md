@@ -1,5 +1,4 @@
-Pocillaria alopecina (Fr.) Kuntze SPECIES
-=======
+# Pocillaria alopecina (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

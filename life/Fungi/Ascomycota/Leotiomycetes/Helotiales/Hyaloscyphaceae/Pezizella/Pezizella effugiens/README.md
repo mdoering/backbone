@@ -1,5 +1,4 @@
-Pezizella effugiens (Roberge ex Desm.) Rehm SPECIES
-=======
+# Pezizella effugiens (Roberge ex Desm.) Rehm SPECIES
 
 #### Status
 ACCEPTED

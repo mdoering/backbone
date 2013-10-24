@@ -1,5 +1,4 @@
-Tranolithus incus SPECIES
-=======
+# Tranolithus incus SPECIES
 
 #### Status
 ACCEPTED

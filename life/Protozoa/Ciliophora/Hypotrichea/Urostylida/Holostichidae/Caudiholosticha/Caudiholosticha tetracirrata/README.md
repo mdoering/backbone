@@ -1,8 +1,7 @@
-Holosticha tetracirrata Buitkamp & Wilbert, 1974 SPECIES
-=======
+# Caudiholosticha tetracirrata (Buitkamp & Wilbert, 1974) Berger, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

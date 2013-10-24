@@ -1,5 +1,4 @@
-Helotium nectriella P. Karst. SPECIES
-=======
+# Helotium nectriella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Calloria fairmani Rehm SPECIES
-=======
+# Calloria fairmanii Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Calloria fairmani Rehm
+Calloria fairmanii Rehm
 
 ### Remarks
 null

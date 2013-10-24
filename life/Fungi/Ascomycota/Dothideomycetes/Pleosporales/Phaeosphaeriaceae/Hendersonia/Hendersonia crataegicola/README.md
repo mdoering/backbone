@@ -1,5 +1,4 @@
-Hendersonia crataegicola G.F. Atk. SPECIES
-=======
+# Hendersonia crataegicola G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria surculosa Y.S. Paul & A. Singh SPECIES
-=======
+# Septoria surculosa Y.S. Paul & A. Singh SPECIES
 
 #### Status
 ACCEPTED

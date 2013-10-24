@@ -1,5 +1,4 @@
-Ganoderma elegantum Ryvarden, 2004 SPECIES
-=======
+# Ganoderma elegantum Ryvarden, 2004 SPECIES
 
 #### Status
 ACCEPTED

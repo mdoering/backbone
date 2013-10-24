@@ -1,5 +1,4 @@
-Uredo labatiae Speg. SPECIES
-=======
+# Uredo labatiae Speg. SPECIES
 
 #### Status
 ACCEPTED

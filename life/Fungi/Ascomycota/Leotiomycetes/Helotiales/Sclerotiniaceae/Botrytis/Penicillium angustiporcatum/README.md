@@ -1,5 +1,4 @@
-Penicillium angustiporcatum Takada & Udagawa, 1983 SPECIES
-=======
+# Penicillium angustiporcatum Takada & Udagawa, 1983 SPECIES
 
 #### Status
 DOUBTFUL

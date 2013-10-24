@@ -1,5 +1,4 @@
-Psilocybe magnispora E. Horak, Guzmán & Desjardin SPECIES
-=======
+# Psilocybe magnispora E. Horak, Guzmán & Desjardin SPECIES
 
 #### Status
 ACCEPTED

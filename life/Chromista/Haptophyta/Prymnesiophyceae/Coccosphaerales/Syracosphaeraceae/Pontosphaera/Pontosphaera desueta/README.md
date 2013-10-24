@@ -1,5 +1,4 @@
-Pontosphaera desueta (Müller, 1970) Perch-Nielsen, 1984 SPECIES
-=======
+# Pontosphaera desueta (Müller, 1970) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

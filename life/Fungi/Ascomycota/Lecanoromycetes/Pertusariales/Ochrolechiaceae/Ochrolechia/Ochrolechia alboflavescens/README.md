@@ -1,17 +1,16 @@
-Ochrolechia alboflavescens var. alboflavescens VARIETY
-=======
+# Ochrolechia alboflavescens (Wulfen) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cat. Lich. Univers. 4: 676 (1927)
 
 #### Original name
-Ochrolechia alboflavescens var. alboflavescens
+Lichen alboflavescens Wulfen
 
 ### Remarks
 null

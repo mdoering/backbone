@@ -1,5 +1,4 @@
-Pyrenochaeta sacchari Bitanc., 1938 SPECIES
-=======
+# Pyrenochaeta sacchari Bitanc., 1938 SPECIES
 
 #### Status
 ACCEPTED

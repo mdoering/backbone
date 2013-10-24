@@ -1,5 +1,4 @@
-Helvella palustris Peck SPECIES
-=======
+# Helvella palustris Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe boriviliensis B.D. Sharma, S.D. Deshp. & S.G. Pradhan SPECIES
-=======
+# Hygrocybe boriviliensis B.D. Sharma, S.D. Deshp. & S.G. Pradhan SPECIES
 
 #### Status
 ACCEPTED

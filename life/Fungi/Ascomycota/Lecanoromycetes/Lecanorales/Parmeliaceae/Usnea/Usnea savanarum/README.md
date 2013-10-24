@@ -1,5 +1,4 @@
-Usnea savanarum P.A. Duvign. SPECIES
-=======
+# Usnea savanarum P.A. Duvign. SPECIES
 
 #### Status
 ACCEPTED

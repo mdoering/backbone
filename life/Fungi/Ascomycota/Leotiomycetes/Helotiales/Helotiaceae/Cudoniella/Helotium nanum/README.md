@@ -1,5 +1,4 @@
-Helotium nanum (Hedw.) Sacc. SPECIES
-=======
+# Helotium nanum (Hedw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

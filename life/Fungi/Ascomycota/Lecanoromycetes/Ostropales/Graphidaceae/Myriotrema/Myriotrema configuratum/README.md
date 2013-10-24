@@ -1,5 +1,4 @@
-Myriotrema configuratum (Hale) Hale SPECIES
-=======
+# Myriotrema configuratum (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

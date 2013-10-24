@@ -1,5 +1,4 @@
-Phyllachora tapirirae Viégas, 1944 SPECIES
-=======
+# Phyllachora tapirirae Viégas, 1944 SPECIES
 
 #### Status
 DOUBTFUL

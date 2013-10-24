@@ -1,5 +1,4 @@
-Cucujomyces intermedius Thaxt., 1917 SPECIES
-=======
+# Cucujomyces intermedius Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

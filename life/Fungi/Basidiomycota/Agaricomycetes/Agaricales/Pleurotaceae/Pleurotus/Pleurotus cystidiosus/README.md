@@ -1,17 +1,16 @@
-Antromycopsis broussonetiae subsp. broussonetiae SUBSPECIES
-=======
+# Pleurotus cystidiosus O.K. Mill., 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 61: 889 (1969)
 
 #### Original name
-Antromycopsis broussonetiae subsp. broussonetiae
+Pleurotus cystidiosus O.K. Mill., 1969
 
 ### Remarks
 null

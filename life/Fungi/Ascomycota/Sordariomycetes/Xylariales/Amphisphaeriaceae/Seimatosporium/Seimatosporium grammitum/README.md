@@ -1,5 +1,4 @@
-Seimatosporium grammitum (Berk. & M.A. Curtis) Nag Raj SPECIES
-=======
+# Seimatosporium grammitum (Berk. & M.A. Curtis) Nag Raj SPECIES
 
 #### Status
 ACCEPTED

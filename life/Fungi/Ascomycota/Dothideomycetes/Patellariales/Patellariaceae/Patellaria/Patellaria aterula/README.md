@@ -1,5 +1,4 @@
-Patellaria aterula Müll. Arg. SPECIES
-=======
+# Patellaria aterula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haplotrichum griseum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
-=======
+# Haplotrichum griseum (Berk. & M.A. Curtis) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

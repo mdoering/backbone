@@ -1,5 +1,4 @@
-Physalospora oenanthes (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Physalospora oenanthes (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

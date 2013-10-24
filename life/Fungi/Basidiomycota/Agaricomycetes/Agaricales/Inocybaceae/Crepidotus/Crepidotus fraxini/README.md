@@ -1,5 +1,4 @@
-Crepidotus fraxini Velen. SPECIES
-=======
+# Crepidotus fraxini Velen. SPECIES
 
 #### Status
 ACCEPTED

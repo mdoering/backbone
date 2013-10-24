@@ -1,5 +1,4 @@
-Parathelium GENUS
-=======
+# Parathelium GENUS
 
 #### Status
 ACCEPTED

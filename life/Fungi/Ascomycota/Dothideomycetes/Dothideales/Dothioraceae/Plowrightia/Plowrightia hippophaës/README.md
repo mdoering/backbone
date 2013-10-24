@@ -1,5 +1,4 @@
-Plowrightia hippophaës (Pass.) Sacc. SPECIES
-=======
+# Plowrightia hippophaës (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

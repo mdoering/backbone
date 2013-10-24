@@ -1,5 +1,4 @@
-Aulacoseira subborealis Swap SPECIES
-=======
+# Aulacoseira subborealis Swap SPECIES
 
 #### Status
 ACCEPTED

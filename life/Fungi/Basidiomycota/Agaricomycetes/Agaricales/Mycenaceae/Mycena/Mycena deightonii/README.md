@@ -1,5 +1,4 @@
-Mycena deightonii Beeli SPECIES
-=======
+# Mycena deightonii Beeli SPECIES
 
 #### Status
 ACCEPTED

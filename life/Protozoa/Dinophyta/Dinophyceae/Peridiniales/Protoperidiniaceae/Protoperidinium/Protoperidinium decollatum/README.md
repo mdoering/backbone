@@ -1,5 +1,4 @@
-Protoperidinium decollatum (Balech, 1971) Balech, 1974 SPECIES
-=======
+# Protoperidinium decollatum (Balech, 1971) Balech, 1974 SPECIES
 
 #### Status
 ACCEPTED

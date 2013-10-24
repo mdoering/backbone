@@ -1,5 +1,4 @@
-Myoschiston Jankowski, 1985 GENUS
-=======
+# Myoschiston Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

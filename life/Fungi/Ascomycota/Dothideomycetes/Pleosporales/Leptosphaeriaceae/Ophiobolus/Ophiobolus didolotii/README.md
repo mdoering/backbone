@@ -1,5 +1,4 @@
-Ophiobolus didolotii Saccas SPECIES
-=======
+# Ophiobolus didolotii Saccas SPECIES
 
 #### Status
 ACCEPTED

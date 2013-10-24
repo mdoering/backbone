@@ -1,17 +1,16 @@
-Badhamia lilacina var. megaspora Nann.-Bremek. VARIETY
-=======
+# Badhamia lilacina (Fr.) Rostaf., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta bot. neerl. 7: 784 (1958)
+Vers. Syst. Mycetozoen (Strassburg) 10 (1875)
 
 #### Original name
-Badhamia lilacina var. megaspora Nann.-Bremek.
+Physarum lilacinum Fr., 1829
 
 ### Remarks
 null

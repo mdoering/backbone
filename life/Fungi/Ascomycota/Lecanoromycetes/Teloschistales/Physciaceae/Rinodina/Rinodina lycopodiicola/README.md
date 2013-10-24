@@ -1,5 +1,4 @@
-Rinodina lycopodiicola B. de Lesd. SPECIES
-=======
+# Rinodina lycopodiicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

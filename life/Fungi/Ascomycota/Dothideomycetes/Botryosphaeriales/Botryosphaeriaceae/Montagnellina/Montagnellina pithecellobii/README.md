@@ -1,14 +1,13 @@
-Montagnellina pithecolobii (Racib.) Höhn. SPECIES
-=======
+# Montagnellina pithecellobii (Racib.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 121: 388 (1912)
 
 #### Original name
 Euryachora pithecellobii Racib.

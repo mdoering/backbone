@@ -1,5 +1,4 @@
-Parmelia amplectens Stirt. SPECIES
-=======
+# Parmelia amplectens Stirt. SPECIES
 
 #### Status
 ACCEPTED

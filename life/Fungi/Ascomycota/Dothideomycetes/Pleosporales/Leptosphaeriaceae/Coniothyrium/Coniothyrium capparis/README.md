@@ -1,17 +1,16 @@
-Coniothyrium capparidis S. Ahmad SPECIES
-=======
+# Coniothyrium capparis S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17(2): 68 (1971)
 
 #### Original name
-Coniothyrium capparidis S. Ahmad
+Coniothyrium capparis S. Ahmad
 
 ### Remarks
 null

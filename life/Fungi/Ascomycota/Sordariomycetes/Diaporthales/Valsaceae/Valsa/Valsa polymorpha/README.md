@@ -1,5 +1,4 @@
-Valsa polymorpha Nitschke SPECIES
-=======
+# Valsa polymorpha Nitschke SPECIES
 
 #### Status
 ACCEPTED

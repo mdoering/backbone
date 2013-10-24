@@ -1,5 +1,4 @@
-Pestalotiopsis lambertiae (Petr.) A.R. Liu, T. Xu & L.D. Guo SPECIES
-=======
+# Pestalotiopsis lambertiae (Petr.) A.R. Liu, T. Xu & L.D. Guo SPECIES
 
 #### Status
 ACCEPTED

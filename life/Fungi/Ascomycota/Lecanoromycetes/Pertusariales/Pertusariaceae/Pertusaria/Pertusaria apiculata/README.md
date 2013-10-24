@@ -1,5 +1,4 @@
-Pertusaria apiculata Müll. Arg. SPECIES
-=======
+# Pertusaria apiculata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

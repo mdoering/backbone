@@ -1,5 +1,4 @@
-Pseudokahlerina Sosnina, 1968 GENUS
-=======
+# Pseudokahlerina Sosnina, 1968 GENUS
 
 #### Status
 ACCEPTED

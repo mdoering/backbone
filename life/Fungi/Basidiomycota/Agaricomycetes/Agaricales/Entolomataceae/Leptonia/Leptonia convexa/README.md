@@ -1,5 +1,4 @@
-Leptonia convexa var. convexa VARIETY
-=======
+# Leptonia convexa Largent SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 112 (1977)
 
 #### Original name
-Leptonia convexa var. convexa
+Leptonia convexa Largent
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Absidia clavata B.S. Mehrotra & Nand SPECIES
-=======
+# Absidia clavata B.S. Mehrotra & Nand SPECIES
 
 #### Status
 ACCEPTED

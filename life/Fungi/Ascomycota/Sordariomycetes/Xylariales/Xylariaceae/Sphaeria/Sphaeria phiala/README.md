@@ -1,5 +1,4 @@
-Sphaeria phiala Durieu & Mont. SPECIES
-=======
+# Sphaeria phiala Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

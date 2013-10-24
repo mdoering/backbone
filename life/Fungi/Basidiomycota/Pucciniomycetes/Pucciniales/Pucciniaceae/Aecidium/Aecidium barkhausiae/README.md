@@ -1,5 +1,4 @@
-Aecidium barkhausiae Roum. SPECIES
-=======
+# Aecidium barkhausiae Roum. SPECIES
 
 #### Status
 ACCEPTED

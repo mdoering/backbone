@@ -1,5 +1,4 @@
-Wallrothiella dispersa Rehm SPECIES
-=======
+# Wallrothiella dispersa Rehm SPECIES
 
 #### Status
 ACCEPTED

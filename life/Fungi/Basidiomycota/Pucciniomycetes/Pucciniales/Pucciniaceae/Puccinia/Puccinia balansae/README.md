@@ -1,5 +1,4 @@
-Puccinia balansae Speg. SPECIES
-=======
+# Puccinia balansae Speg. SPECIES
 
 #### Status
 ACCEPTED

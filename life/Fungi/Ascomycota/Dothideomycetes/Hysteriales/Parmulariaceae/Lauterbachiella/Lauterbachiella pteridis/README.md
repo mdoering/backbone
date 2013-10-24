@@ -1,5 +1,4 @@
-Lauterbachiella pteridis Henn., 1898 SPECIES
-=======
+# Lauterbachiella pteridis Henn., 1898 SPECIES
 
 #### Status
 ACCEPTED

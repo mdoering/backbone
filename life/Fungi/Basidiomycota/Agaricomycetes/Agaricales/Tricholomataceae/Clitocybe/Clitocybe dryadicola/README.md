@@ -1,5 +1,4 @@
-Clitocybe dryadicola (J. Favre) Harmaja SPECIES
-=======
+# Clitocybe dryadicola (J. Favre) Harmaja SPECIES
 
 #### Status
 ACCEPTED

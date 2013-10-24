@@ -1,5 +1,4 @@
-Anteholosticha brachysticha Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Anteholosticha brachysticha Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urceolaria ameliensis Motyka SPECIES
-=======
+# Urceolaria ameliensis Motyka SPECIES
 
 #### Status
 ACCEPTED

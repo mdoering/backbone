@@ -1,5 +1,4 @@
-Pleurotus tahitensis Pat. SPECIES
-=======
+# Pleurotus tahitensis Pat. SPECIES
 
 #### Status
 ACCEPTED

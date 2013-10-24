@@ -1,5 +1,4 @@
-Cortinarius hinnuleoscitus Ramm & Rob. Henry SPECIES
-=======
+# Cortinarius hinnuleoscitus Ramm & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

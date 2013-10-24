@@ -1,5 +1,4 @@
-Caloplaca consociata J. Steiner SPECIES
-=======
+# Caloplaca consociata J. Steiner SPECIES
 
 #### Status
 ACCEPTED

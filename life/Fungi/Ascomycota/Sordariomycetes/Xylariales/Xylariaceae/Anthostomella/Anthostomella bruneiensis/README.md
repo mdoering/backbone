@@ -1,5 +1,4 @@
-Anthostomella bruneiensis K.D. Hyde, 1996 SPECIES
-=======
+# Anthostomella bruneiensis K.D. Hyde, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus atramentosus Kalchbr. SPECIES
-=======
+# Agaricus atramentosus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Costatosphaerina septata Lopukhin, 1966 SPECIES
-=======
+# Costatosphaerina septata Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allosphaerium Kidder & Summers, 1935 GENUS
-=======
+# Allosphaerium Kidder & Summers, 1935 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adnatosphaeridium filamentosum (Cookson & Eisenack, 1958) Williams & Downie SPECIES
-=======
+# Adnatosphaeridium filamentosum (Cookson & Eisenack, 1958) Williams & Downie SPECIES
 
 #### Status
 ACCEPTED

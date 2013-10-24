@@ -1,5 +1,4 @@
-Boletus alliaceus Beeli SPECIES
-=======
+# Boletus alliaceus Beeli SPECIES
 
 #### Status
 ACCEPTED

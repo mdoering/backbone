@@ -1,5 +1,4 @@
-Aphelariopsis Jülich GENUS
-=======
+# Aphelariopsis Jülich GENUS
 
 #### Status
 ACCEPTED

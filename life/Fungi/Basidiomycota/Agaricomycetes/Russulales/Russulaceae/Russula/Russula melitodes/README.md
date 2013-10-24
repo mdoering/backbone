@@ -1,17 +1,16 @@
-Russula integra f. integra FORM
-=======
+# Russula melitodes Romagn., 1943 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 360 (1838)
+Bull. trimest. Soc. mycol. Fr. 59: 71 (1943)
 
 #### Original name
-Russula integra f. integra
+Russula melitodes Romagn., 1943
 
 ### Remarks
 null

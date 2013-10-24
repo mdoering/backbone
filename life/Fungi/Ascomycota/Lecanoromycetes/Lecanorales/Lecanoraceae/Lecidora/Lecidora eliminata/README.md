@@ -1,5 +1,4 @@
-Lecidora eliminata (Arnold) Motyka SPECIES
-=======
+# Lecidora eliminata (Arnold) Motyka SPECIES
 
 #### Status
 ACCEPTED

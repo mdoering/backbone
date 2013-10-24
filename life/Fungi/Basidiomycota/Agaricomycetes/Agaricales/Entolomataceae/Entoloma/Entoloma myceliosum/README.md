@@ -1,5 +1,4 @@
-Entoloma myceliosum E. Horak SPECIES
-=======
+# Entoloma myceliosum E. Horak SPECIES
 
 #### Status
 ACCEPTED

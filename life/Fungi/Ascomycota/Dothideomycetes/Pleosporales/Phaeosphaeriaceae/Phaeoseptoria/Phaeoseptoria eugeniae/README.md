@@ -1,5 +1,4 @@
-Phaeoseptoria eugeniae Viégas SPECIES
-=======
+# Phaeoseptoria eugeniae Viégas SPECIES
 
 #### Status
 ACCEPTED

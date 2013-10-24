@@ -1,5 +1,4 @@
-Neoclavulina Puri, 1957 GENUS
-=======
+# Neoclavulina Puri, 1957 GENUS
 
 #### Status
 ACCEPTED

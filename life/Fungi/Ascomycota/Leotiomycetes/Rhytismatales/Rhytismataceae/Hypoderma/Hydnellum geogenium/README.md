@@ -1,5 +1,4 @@
-Hydnellum geogenium (Fr.) Banker, 1913 SPECIES
-=======
+# Hydnellum geogenium (Fr.) Banker, 1913 SPECIES
 
 #### Status
 DOUBTFUL

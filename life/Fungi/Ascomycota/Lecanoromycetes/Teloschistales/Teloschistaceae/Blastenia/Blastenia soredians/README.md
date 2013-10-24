@@ -1,5 +1,4 @@
-Blastenia soredians Müll. Arg. SPECIES
-=======
+# Blastenia soredians Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

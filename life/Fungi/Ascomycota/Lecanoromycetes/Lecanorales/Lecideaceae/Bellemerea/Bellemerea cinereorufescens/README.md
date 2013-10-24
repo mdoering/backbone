@@ -1,17 +1,16 @@
-Aspicilia cinereorufescens var. cinereorufescens VARIETY
-=======
+# Bellemerea cinereorufescens (Ach.) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ric. auton. lich. crost. (Verona) 37, fig. 62 (1852)
+Bull. Soc. bot. Centre-Ouest, Nouv. sér. 15: 129 (1984)
 
 #### Original name
-Aspicilia cinereorufescens var. cinereorufescens
+null
 
 ### Remarks
 null

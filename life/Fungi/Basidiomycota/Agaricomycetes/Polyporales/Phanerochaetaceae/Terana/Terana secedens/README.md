@@ -1,5 +1,4 @@
-Terana secedens (Sacc.) Kuntze SPECIES
-=======
+# Terana secedens (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

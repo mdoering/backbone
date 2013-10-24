@@ -1,5 +1,4 @@
-Peltigera hilleri C.W. Dodge SPECIES
-=======
+# Peltigera hilleri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

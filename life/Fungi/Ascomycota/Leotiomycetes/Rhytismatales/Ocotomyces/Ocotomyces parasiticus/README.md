@@ -1,8 +1,7 @@
-Uyucamyces parasiticus H.C. Evans & Minter, 1985 SPECIES
-=======
+# Ocotomyces parasiticus H.C. Evans & Minter, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Trans. Br. mycol. Soc. 84(1): 68 (1985)
 
 #### Original name
-Uyucamyces parasiticus H.C. Evans & Minter, 1985
+Ocotomyces parasiticus H.C. Evans & Minter, 1985
 
 ### Remarks
 null

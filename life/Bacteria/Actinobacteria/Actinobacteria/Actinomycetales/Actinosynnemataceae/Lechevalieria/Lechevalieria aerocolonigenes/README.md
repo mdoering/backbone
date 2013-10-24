@@ -1,5 +1,4 @@
-Lechevalieria aerocolonigenes (Labeda, 1986) Labeda et al., 2001 SPECIES
-=======
+# Lechevalieria aerocolonigenes (Labeda, 1986) Labeda et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

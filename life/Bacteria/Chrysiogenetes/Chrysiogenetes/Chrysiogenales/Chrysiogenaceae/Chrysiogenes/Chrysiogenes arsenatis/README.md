@@ -1,5 +1,4 @@
-Chrysiogenes arsenatis Macy et al., 1996 SPECIES
-=======
+# Chrysiogenes arsenatis Macy et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

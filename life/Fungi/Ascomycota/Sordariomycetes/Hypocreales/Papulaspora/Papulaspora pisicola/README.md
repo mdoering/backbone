@@ -1,5 +1,4 @@
-Papulaspora pisicola J.F.H. Beyma, 1931 SPECIES
-=======
+# Papulaspora pisicola J.F.H. Beyma, 1931 SPECIES
 
 #### Status
 ACCEPTED

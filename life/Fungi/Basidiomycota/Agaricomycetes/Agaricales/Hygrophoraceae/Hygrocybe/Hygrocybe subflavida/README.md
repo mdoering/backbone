@@ -1,5 +1,4 @@
-Hygrocybe subflavida (Murrill) Pegler SPECIES
-=======
+# Hygrocybe subflavida (Murrill) Pegler SPECIES
 
 #### Status
 ACCEPTED

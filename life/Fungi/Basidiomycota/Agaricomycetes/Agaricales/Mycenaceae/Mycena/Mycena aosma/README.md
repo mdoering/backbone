@@ -1,5 +1,4 @@
-Mycena aosma Singer SPECIES
-=======
+# Mycena aosma Singer SPECIES
 
 #### Status
 ACCEPTED

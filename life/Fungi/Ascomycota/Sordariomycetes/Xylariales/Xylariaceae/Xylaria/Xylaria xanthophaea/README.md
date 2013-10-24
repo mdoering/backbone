@@ -1,5 +1,4 @@
-Xylaria xanthophaea Penz. & Sacc. SPECIES
-=======
+# Xylaria xanthophaea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

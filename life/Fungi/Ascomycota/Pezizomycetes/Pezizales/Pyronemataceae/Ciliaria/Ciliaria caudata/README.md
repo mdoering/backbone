@@ -1,5 +1,4 @@
-Ciliaria caudata W.D. Buckley, 1924 SPECIES
-=======
+# Ciliaria caudata W.D. Buckley, 1924 SPECIES
 
 #### Status
 ACCEPTED

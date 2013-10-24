@@ -1,5 +1,4 @@
-Entyloma tozziae Heinricher {?} SPECIES
-=======
+# Entyloma tozziae Heinricher {?} SPECIES
 
 #### Status
 ACCEPTED

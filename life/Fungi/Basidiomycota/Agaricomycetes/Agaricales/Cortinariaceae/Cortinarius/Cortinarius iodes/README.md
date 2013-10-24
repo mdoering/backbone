@@ -1,5 +1,4 @@
-Cortinarius iodes Berk. & M.A. Curtis SPECIES
-=======
+# Cortinarius iodes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

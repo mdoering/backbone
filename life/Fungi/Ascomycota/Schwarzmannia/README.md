@@ -1,5 +1,4 @@
-Schwarzmannia Pisareva GENUS
-=======
+# Schwarzmannia Pisareva GENUS
 
 #### Status
 ACCEPTED

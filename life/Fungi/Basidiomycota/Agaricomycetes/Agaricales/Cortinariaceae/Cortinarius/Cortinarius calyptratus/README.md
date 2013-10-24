@@ -1,5 +1,4 @@
-Cortinarius calyptratus A.H. Sm. SPECIES
-=======
+# Cortinarius calyptratus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

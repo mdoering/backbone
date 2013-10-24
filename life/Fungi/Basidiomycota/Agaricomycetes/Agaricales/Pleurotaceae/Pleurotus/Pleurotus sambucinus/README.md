@@ -1,5 +1,4 @@
-Pleurotus sambucinus Velen. SPECIES
-=======
+# Pleurotus sambucinus Velen. SPECIES
 
 #### Status
 ACCEPTED

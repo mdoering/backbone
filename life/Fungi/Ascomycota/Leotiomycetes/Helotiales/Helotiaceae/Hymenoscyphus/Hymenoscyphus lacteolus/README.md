@@ -1,5 +1,4 @@
-Hymenoscyphus lacteolus (Quél.) Kuntze SPECIES
-=======
+# Hymenoscyphus lacteolus (Quél.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

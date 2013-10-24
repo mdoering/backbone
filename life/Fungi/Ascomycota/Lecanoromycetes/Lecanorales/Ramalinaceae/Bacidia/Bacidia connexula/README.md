@@ -1,5 +1,4 @@
-Bacidia connexula (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia connexula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

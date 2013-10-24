@@ -1,5 +1,4 @@
-Mycosphaerella taxodii (Cooke) Lindau SPECIES
-=======
+# Mycosphaerella taxodii (Cooke) Lindau SPECIES
 
 #### Status
 ACCEPTED

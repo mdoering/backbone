@@ -1,5 +1,4 @@
-Pseudocercospora euphorbiicola (G.F. Atk.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora euphorbiicola (G.F. Atk.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

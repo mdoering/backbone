@@ -1,5 +1,4 @@
-Acarospora socialis H. Magn. SPECIES
-=======
+# Acarospora socialis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

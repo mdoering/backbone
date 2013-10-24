@@ -1,5 +1,4 @@
-Ramulina aculeata Wright SPECIES
-=======
+# Ramulina aculeata Wright SPECIES
 
 #### Status
 ACCEPTED

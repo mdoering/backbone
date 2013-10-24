@@ -1,5 +1,4 @@
-Cortinarius exitiosus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius exitiosus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

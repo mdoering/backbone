@@ -1,5 +1,4 @@
-Merulius crucibulum Fr. SPECIES
-=======
+# Merulius crucibulum Fr. SPECIES
 
 #### Status
 ACCEPTED

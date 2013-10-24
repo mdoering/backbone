@@ -1,5 +1,4 @@
-Passalora stemodiae (Syd.) U. Braun & Crous SPECIES
-=======
+# Passalora stemodiae (Syd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

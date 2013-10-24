@@ -1,5 +1,4 @@
-Galera flexipes Massee SPECIES
-=======
+# Galera flexipes Massee SPECIES
 
 #### Status
 ACCEPTED

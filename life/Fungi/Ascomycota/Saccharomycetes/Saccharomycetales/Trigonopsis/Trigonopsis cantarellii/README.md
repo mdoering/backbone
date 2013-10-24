@@ -1,5 +1,4 @@
-Trigonopsis cantarellii (van der Walt & Kerken) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Trigonopsis cantarellii (van der Walt & Kerken) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

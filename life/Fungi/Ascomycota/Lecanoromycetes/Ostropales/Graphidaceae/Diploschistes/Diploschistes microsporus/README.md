@@ -1,5 +1,4 @@
-Diploschistes microsporus Lumbsch & Elix SPECIES
-=======
+# Diploschistes microsporus Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

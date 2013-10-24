@@ -1,5 +1,4 @@
-Cercospora zizaniae Thirum. & Govindu SPECIES
-=======
+# Cercospora zizaniae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

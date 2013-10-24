@@ -1,5 +1,4 @@
-Collybia homotricha Berk. SPECIES
-=======
+# Collybia homotricha Berk. SPECIES
 
 #### Status
 ACCEPTED

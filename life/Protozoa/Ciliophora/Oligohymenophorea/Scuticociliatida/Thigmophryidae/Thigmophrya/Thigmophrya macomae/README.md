@@ -1,5 +1,4 @@
-Thigmophrya macomae Kahl ?, 1926 SPECIES
-=======
+# Thigmophrya macomae Kahl ?, 1926 SPECIES
 
 #### Status
 ACCEPTED

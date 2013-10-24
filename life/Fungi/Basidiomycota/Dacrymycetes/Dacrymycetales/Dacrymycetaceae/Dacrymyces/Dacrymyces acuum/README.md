@@ -1,5 +1,4 @@
-Dacrymyces acuum Lasch SPECIES
-=======
+# Dacrymyces acuum Lasch SPECIES
 
 #### Status
 ACCEPTED

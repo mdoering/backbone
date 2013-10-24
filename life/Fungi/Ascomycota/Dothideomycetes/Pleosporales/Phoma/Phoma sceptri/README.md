@@ -1,5 +1,4 @@
-Phoma sceptri P. Karst. SPECIES
-=======
+# Phoma sceptri P. Karst. SPECIES
 
 #### Status
 ACCEPTED

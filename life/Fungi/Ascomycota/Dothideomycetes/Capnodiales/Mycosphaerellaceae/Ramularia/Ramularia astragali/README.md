@@ -1,5 +1,4 @@
-Ramularia astragali Ellis & Holw. SPECIES
-=======
+# Ramularia astragali Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

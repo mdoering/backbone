@@ -1,5 +1,4 @@
-Palaeopontosphaera erismata F.H. Wind & S.W. Wise SPECIES
-=======
+# Palaeopontosphaera erismata F.H. Wind & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

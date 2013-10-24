@@ -1,5 +1,4 @@
-Tournayellina Lipina, 1955 GENUS
-=======
+# Tournayellina Lipina, 1955 GENUS
 
 #### Status
 ACCEPTED

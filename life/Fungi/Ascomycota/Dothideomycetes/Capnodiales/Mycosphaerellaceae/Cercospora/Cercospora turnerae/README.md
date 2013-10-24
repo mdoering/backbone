@@ -1,5 +1,4 @@
-Cercospora turnerae Ellis & Everh. SPECIES
-=======
+# Cercospora turnerae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

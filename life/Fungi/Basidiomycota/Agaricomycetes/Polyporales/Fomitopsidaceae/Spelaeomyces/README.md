@@ -1,5 +1,4 @@
-Spelaeomyces GENUS
-=======
+# Spelaeomyces GENUS
 
 #### Status
 ACCEPTED

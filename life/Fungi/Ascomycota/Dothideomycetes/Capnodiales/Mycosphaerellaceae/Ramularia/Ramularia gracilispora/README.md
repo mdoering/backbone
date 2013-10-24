@@ -1,5 +1,4 @@
-Ramularia gracilispora U. Braun SPECIES
-=======
+# Ramularia gracilispora U. Braun SPECIES
 
 #### Status
 ACCEPTED

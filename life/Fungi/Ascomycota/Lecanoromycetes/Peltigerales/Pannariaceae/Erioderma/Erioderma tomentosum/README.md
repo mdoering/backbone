@@ -1,5 +1,4 @@
-Erioderma tomentosum Hue SPECIES
-=======
+# Erioderma tomentosum Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria drymios Mont. SPECIES
-=======
+# Septoria drymios Mont. SPECIES
 
 #### Status
 ACCEPTED

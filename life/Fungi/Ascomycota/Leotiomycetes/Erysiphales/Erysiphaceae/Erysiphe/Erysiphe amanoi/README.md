@@ -1,5 +1,4 @@
-Erysiphe amanoi (Y. Nomura) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe amanoi (Y. Nomura) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

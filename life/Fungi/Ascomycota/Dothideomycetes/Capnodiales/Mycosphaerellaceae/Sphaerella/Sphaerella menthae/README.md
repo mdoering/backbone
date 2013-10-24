@@ -1,5 +1,4 @@
-Sphaerella menthae F. Lamb. & Fautrey SPECIES
-=======
+# Sphaerella menthae F. Lamb. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

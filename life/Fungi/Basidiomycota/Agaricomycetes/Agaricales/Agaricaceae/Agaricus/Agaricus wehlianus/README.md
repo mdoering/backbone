@@ -1,5 +1,4 @@
-Agaricus wehlianus F. Muell. SPECIES
-=======
+# Agaricus wehlianus F. Muell. SPECIES
 
 #### Status
 ACCEPTED

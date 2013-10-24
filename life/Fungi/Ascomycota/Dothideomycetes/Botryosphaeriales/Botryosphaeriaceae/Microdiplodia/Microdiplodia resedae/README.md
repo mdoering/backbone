@@ -1,5 +1,4 @@
-Microdiplodia resedae Lind SPECIES
-=======
+# Microdiplodia resedae Lind SPECIES
 
 #### Status
 ACCEPTED

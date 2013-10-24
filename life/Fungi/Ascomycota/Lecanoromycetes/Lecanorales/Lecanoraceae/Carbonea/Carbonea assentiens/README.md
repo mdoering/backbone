@@ -1,17 +1,16 @@
-Lecidea aubertii B. de Lesd. SPECIES
-=======
+# Carbonea assentiens (Nyl.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lecideaceae exsiccatae (München), Fascicle <b>VI</b> (nos 101-120) no. 103 (1984)
 
 #### Original name
-Lecidea aubertii B. de Lesd.
+Lecidea assentiens Nyl.
 
 ### Remarks
 null

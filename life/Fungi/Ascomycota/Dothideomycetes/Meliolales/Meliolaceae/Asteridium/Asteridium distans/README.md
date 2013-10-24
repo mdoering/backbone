@@ -1,5 +1,4 @@
-Asteridium distans Rehm SPECIES
-=======
+# Asteridium distans Rehm SPECIES
 
 #### Status
 ACCEPTED

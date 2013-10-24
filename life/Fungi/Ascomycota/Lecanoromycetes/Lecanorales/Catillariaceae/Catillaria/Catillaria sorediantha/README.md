@@ -1,5 +1,4 @@
-Catillaria sorediantha SPECIES
-=======
+# Catillaria sorediantha SPECIES
 
 #### Status
 ACCEPTED

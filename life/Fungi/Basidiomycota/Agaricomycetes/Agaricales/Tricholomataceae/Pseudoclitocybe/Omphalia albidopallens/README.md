@@ -1,5 +1,4 @@
-Omphalia albidopallens P. Karst. SPECIES
-=======
+# Omphalia albidopallens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

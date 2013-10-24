@@ -1,5 +1,4 @@
-Crepidotus occidentalis Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus occidentalis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

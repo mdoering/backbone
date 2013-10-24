@@ -1,5 +1,4 @@
-Distephanus acanthicus D. Bukry SPECIES
-=======
+# Distephanus acanthicus D. Bukry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatea hendrickxii Hansf. SPECIES
-=======
+# Stigmatea hendrickxii Hansf. SPECIES
 
 #### Status
 ACCEPTED

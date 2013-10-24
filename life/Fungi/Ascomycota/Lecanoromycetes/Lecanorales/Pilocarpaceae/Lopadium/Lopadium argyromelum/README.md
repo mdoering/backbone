@@ -1,5 +1,4 @@
-Lopadium argyromelum (Nyl.) Zahlbr. SPECIES
-=======
+# Lopadium argyromelum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

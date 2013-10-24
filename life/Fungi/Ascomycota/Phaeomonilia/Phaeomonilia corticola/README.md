@@ -1,14 +1,13 @@
-Monilia corticola R.F. Castañeda SPECIES
-=======
+# Phaeomonilia corticola (R.F. Castañeda) R.F. Castañeda, Saikawa & M. Stadler, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Deuteromycotina de Cuba (La Habana), Hyphomycetes 2: 11 (1985)
+in Castañeda Ruíz, Heredia Abarca, Arias, Saikawa, Minter & Stadler, Mycotaxon 100: 332 (2007)
 
 #### Original name
 Monilia corticola R.F. Castañeda

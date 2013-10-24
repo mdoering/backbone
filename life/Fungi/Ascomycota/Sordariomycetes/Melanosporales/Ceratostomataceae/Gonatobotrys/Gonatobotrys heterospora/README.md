@@ -1,5 +1,4 @@
-Gonatobotrys heterospora Peyronel SPECIES
-=======
+# Gonatobotrys heterospora Peyronel SPECIES
 
 #### Status
 ACCEPTED

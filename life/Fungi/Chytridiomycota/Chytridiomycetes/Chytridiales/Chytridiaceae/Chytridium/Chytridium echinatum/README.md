@@ -1,5 +1,4 @@
-Chytridium echinatum P.A. Dang. SPECIES
-=======
+# Chytridium echinatum P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

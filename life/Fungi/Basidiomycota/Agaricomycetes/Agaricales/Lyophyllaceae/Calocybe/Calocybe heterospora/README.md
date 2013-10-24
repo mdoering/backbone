@@ -1,5 +1,4 @@
-Calocybe heterospora Singer SPECIES
-=======
+# Calocybe heterospora Singer SPECIES
 
 #### Status
 ACCEPTED

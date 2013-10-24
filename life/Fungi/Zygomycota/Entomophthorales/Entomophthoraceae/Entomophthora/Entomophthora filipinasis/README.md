@@ -1,5 +1,4 @@
-Entomophthora filipinasis Villac. & Wilding SPECIES
-=======
+# Entomophthora filipinasis Villac. & Wilding SPECIES
 
 #### Status
 ACCEPTED

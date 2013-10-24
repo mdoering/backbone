@@ -1,5 +1,4 @@
-Dietelia impatientis Gjaerum, 1985 SPECIES
-=======
+# Dietelia impatientis Gjaerum, 1985 SPECIES
 
 #### Status
 ACCEPTED

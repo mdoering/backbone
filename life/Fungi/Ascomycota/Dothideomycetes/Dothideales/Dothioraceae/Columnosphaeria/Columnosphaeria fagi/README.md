@@ -1,17 +1,16 @@
-Guignardia fagi H.J. Huds., 1966 SPECIES
-=======
+# Columnosphaeria fagi (H.J. Huds.) M.E. Barr, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 10(3/4): 323 (1966)
+null
 
 #### Original name
-Guignardia fagi H.J. Huds., 1966
+null
 
 ### Remarks
 null

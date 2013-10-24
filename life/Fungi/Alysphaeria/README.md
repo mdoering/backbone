@@ -1,5 +1,4 @@
-Alysphaeria Turpin GENUS
-=======
+# Alysphaeria Turpin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia mutabilis Malme SPECIES
-=======
+# Bacidia mutabilis Malme SPECIES
 
 #### Status
 ACCEPTED

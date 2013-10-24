@@ -1,5 +1,4 @@
-Dermatea microspora Velen. SPECIES
-=======
+# Dermatea microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

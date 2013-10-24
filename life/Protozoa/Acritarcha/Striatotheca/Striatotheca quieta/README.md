@@ -1,5 +1,4 @@
-Striatotheca quieta (Martin, 1969) Rauscher, 1973 SPECIES
-=======
+# Striatotheca quieta (Martin, 1969) Rauscher, 1973 SPECIES
 
 #### Status
 ACCEPTED

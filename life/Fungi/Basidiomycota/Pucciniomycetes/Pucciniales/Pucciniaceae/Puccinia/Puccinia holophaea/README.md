@@ -1,5 +1,4 @@
-Puccinia holophaea Syd. SPECIES
-=======
+# Puccinia holophaea Syd. SPECIES
 
 #### Status
 ACCEPTED

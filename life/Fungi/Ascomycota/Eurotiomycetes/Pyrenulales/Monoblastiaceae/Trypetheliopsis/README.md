@@ -1,5 +1,4 @@
-Trypetheliopsis Asahina GENUS
-=======
+# Trypetheliopsis Asahina GENUS
 
 #### Status
 ACCEPTED

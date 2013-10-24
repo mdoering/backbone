@@ -1,5 +1,4 @@
-Heppia lavicola Zahlbr. SPECIES
-=======
+# Heppia lavicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

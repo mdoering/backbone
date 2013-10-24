@@ -1,5 +1,4 @@
-Linochora longispora Petr. SPECIES
-=======
+# Linochora longispora Petr. SPECIES
 
 #### Status
 ACCEPTED

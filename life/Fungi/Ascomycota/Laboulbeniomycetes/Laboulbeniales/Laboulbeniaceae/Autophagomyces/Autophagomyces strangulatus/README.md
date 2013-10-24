@@ -1,5 +1,4 @@
-Autophagomyces strangulatus Thaxt. SPECIES
-=======
+# Autophagomyces strangulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

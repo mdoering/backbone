@@ -1,5 +1,4 @@
-Morenoella cliftoniae (Tracy & Earle) Theiss. SPECIES
-=======
+# Morenoella cliftoniae (Tracy & Earle) Theiss. SPECIES
 
 #### Status
 ACCEPTED

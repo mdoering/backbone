@@ -1,5 +1,4 @@
-Natronolimnobius baerhuensis Itoh et al., 2005 SPECIES
-=======
+# Natronolimnobius baerhuensis Itoh et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

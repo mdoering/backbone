@@ -1,17 +1,16 @@
-Entoloma lividum var. lividum VARIETY
-=======
+# Entoloma sinuatum (Bull.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 116 (1872)
+Führ. Pilzk. (Zwickau) 23, 97 (1871)
 
 #### Original name
-Entoloma lividum var. lividum
+Agaricus sinuatus Pers., 1801
 
 ### Remarks
 null

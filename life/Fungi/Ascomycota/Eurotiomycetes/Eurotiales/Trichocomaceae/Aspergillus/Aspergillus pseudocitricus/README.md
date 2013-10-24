@@ -1,5 +1,4 @@
-Aspergillus pseudocitricus Mosseray SPECIES
-=======
+# Aspergillus pseudocitricus Mosseray SPECIES
 
 #### Status
 ACCEPTED

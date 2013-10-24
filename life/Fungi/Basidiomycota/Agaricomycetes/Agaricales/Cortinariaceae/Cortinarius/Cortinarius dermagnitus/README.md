@@ -1,5 +1,4 @@
-Cortinarius dermagnitus Rob. Henry SPECIES
-=======
+# Cortinarius dermagnitus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

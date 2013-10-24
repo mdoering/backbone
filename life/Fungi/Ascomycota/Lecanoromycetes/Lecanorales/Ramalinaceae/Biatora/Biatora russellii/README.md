@@ -1,5 +1,4 @@
-Biatora russellii Tuck. SPECIES
-=======
+# Biatora russellii Tuck. SPECIES
 
 #### Status
 ACCEPTED

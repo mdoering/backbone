@@ -1,5 +1,4 @@
-Akanthomyces aculeatus Lebert, 1858 SPECIES
-=======
+# Akanthomyces aculeatus Lebert, 1858 SPECIES
 
 #### Status
 ACCEPTED

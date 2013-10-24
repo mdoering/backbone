@@ -1,5 +1,4 @@
-Auliela Nazarov, 1977 GENUS
-=======
+# Auliela Nazarov, 1977 GENUS
 
 #### Status
 ACCEPTED

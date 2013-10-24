@@ -1,17 +1,16 @@
-Cortinarius velicopia Kauffman SPECIES
-=======
+# Cortinarius velicopius Kauffman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Publications Mich. geol. biol. Surv. , Biol. Ser. 5 26: 339 (1918)
 
 #### Original name
-Cortinarius velicopia Kauffman
+Cortinarius velicopius Kauffman
 
 ### Remarks
 null

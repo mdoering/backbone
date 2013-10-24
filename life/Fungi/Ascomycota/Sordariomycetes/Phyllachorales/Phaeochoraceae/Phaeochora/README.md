@@ -1,5 +1,4 @@
-Phaeochora Höhn. GENUS
-=======
+# Phaeochora Höhn. GENUS
 
 #### Status
 ACCEPTED

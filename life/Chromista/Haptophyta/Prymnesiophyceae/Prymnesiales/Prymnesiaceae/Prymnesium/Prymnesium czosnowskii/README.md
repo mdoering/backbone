@@ -1,5 +1,4 @@
-Prymnesium czosnowskii Starmach, 1968 SPECIES
-=======
+# Prymnesium czosnowskii Starmach, 1968 SPECIES
 
 #### Status
 ACCEPTED

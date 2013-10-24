@@ -1,5 +1,4 @@
-Helicosingula leucadendri P.S. van Wyk, Marasas, Baard & Knox-Dav., 1985 SPECIES
-=======
+# Helicosingula leucadendri P.S. van Wyk, Marasas, Baard & Knox-Dav., 1985 SPECIES
 
 #### Status
 ACCEPTED

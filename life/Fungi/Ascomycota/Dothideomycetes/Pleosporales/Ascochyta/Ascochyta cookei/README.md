@@ -1,5 +1,4 @@
-Ascochyta cookei Massee SPECIES
-=======
+# Ascochyta cookei Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pleomeris canaliculata (Schwein.) Syd., 1921 SPECIES
-=======
+# Phyllachora canaliculata (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 19: 171 (1921)
+Syll. fung. (Abellini) 2: 623 (1883)
 
 #### Original name
-Puccinia canaliculata Arthur, 1918
+Sphaeria canaliculata Schwein., 1832
 
 ### Remarks
 null

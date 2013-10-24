@@ -1,5 +1,4 @@
-Hypoxylon resinosum Urries SPECIES
-=======
+# Hypoxylon resinosum Urries SPECIES
 
 #### Status
 ACCEPTED

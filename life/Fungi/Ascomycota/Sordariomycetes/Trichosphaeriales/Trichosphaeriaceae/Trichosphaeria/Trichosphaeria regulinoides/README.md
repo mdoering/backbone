@@ -1,5 +1,4 @@
-Trichosphaeria regulinoides Sacc. SPECIES
-=======
+# Trichosphaeria regulinoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

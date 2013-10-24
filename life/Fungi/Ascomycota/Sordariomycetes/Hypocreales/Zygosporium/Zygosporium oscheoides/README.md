@@ -1,17 +1,16 @@
-Zygosporium oscheoides subsp. oscheoides SUBSPECIES
-=======
+# Zygosporium oscheoides Mont., 1842 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 17: 121 (1842)
 
 #### Original name
-null
+Zygosporium oscheoides Mont., 1842
 
 ### Remarks
 null

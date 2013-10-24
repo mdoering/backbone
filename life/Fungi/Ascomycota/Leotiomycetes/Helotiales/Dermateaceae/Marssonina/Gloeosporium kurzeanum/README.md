@@ -1,5 +1,4 @@
-Gloeosporium kurzeanum Niessl SPECIES
-=======
+# Gloeosporium kurzeanum Niessl SPECIES
 
 #### Status
 ACCEPTED

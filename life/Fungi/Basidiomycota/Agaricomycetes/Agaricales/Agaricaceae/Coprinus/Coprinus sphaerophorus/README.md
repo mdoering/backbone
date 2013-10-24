@@ -1,5 +1,4 @@
-Coprinus sphaerophorus Speg. SPECIES
-=======
+# Coprinus sphaerophorus Speg. SPECIES
 
 #### Status
 ACCEPTED

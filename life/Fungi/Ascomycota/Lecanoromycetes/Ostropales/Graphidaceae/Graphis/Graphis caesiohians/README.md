@@ -1,5 +1,4 @@
-Graphis caesiohians Nyl. SPECIES
-=======
+# Graphis caesiohians Nyl. SPECIES
 
 #### Status
 ACCEPTED

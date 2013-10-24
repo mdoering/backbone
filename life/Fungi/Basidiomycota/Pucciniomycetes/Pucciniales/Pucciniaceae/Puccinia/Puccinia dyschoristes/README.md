@@ -1,5 +1,4 @@
-Puccinia dyschoristes Cummins SPECIES
-=======
+# Puccinia dyschoristes Cummins SPECIES
 
 #### Status
 ACCEPTED

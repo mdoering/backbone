@@ -1,17 +1,16 @@
-Uredo pustulata cerastii Pers. SUBSPECIES
-=======
+# Melampsorella cerastii (Pers.) J. Schröt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 366 (1887)
 
 #### Original name
-null
+Uredo pustulata var. cerastii Pers.
 
 ### Remarks
 null

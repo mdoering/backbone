@@ -1,5 +1,4 @@
-Lichenopuccinia poeltii D. Hawksw. & Hafellner, 1984 SPECIES
-=======
+# Lichenopuccinia poeltii D. Hawksw. & Hafellner, 1984 SPECIES
 
 #### Status
 ACCEPTED

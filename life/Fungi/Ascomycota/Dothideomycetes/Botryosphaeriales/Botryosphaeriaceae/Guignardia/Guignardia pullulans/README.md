@@ -1,5 +1,4 @@
-Guignardia pullulans Kleb. SPECIES
-=======
+# Guignardia pullulans Kleb. SPECIES
 
 #### Status
 ACCEPTED

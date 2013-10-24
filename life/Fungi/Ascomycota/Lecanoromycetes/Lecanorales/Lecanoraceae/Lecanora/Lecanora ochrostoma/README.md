@@ -1,5 +1,4 @@
-Lecanora ochrostoma Hepp SPECIES
-=======
+# Lecanora ochrostoma Hepp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rucinolithus sumastrocyclus Bukry, 1969 SPECIES
-=======
+# Rucinolithus sumastrocyclus Bukry, 1969 SPECIES
 
 #### Status
 ACCEPTED

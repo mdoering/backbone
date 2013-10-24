@@ -1,5 +1,4 @@
-Mollisia tetrica Quél. SPECIES
-=======
+# Mollisia tetrica Quél. SPECIES
 
 #### Status
 ACCEPTED

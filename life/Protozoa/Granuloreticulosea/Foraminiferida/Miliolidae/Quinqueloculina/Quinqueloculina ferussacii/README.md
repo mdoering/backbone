@@ -1,5 +1,4 @@
-Quinqueloculina ferussacii d'Orbigny SPECIES
-=======
+# Quinqueloculina ferussacii d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazziniella philodendricola var. macrocarpa Bat. & W.A. Campb. VARIETY
-=======
+# Spegazziniella philodendricola (Bat. & Gayão) Bat. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Publções Inst. Micol. Recife 312: 21 (1961)
+Publções Inst. Micol. Recife 56: 348 (1959)
 
 #### Original name
-Spegazziniella philodendricola var. macrocarpa Bat. & W.A. Campb.
+Micropeltella philodendricola Bat. & Gayão
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Octospora inquinans Gray SPECIES
-=======
+# Octospora inquinans Gray SPECIES
 
 #### Status
 ACCEPTED

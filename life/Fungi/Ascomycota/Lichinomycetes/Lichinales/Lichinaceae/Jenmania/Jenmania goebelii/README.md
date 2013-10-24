@@ -1,5 +1,4 @@
-Jenmania goebelii W. Wächt. SPECIES
-=======
+# Jenmania goebelii W. Wächt. SPECIES
 
 #### Status
 ACCEPTED

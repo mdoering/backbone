@@ -1,5 +1,4 @@
-Eoepiphyton R.V. Butin, 1959 GENUS
-=======
+# Eoepiphyton R.V. Butin, 1959 GENUS
 
 #### Status
 ACCEPTED

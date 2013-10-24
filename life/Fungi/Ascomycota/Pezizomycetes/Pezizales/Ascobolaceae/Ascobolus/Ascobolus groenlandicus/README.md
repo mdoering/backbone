@@ -1,5 +1,4 @@
-Ascobolus groenlandicus Dissing SPECIES
-=======
+# Ascobolus groenlandicus Dissing SPECIES
 
 #### Status
 ACCEPTED

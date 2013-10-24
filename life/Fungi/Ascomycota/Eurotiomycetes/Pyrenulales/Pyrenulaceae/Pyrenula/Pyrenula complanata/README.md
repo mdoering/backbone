@@ -1,5 +1,4 @@
-Pyrenula complanata (Mont.) Trevis. SPECIES
-=======
+# Pyrenula complanata (Mont.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolyposporium minus J. Schröt. SPECIES
-=======
+# Tolyposporium minus J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

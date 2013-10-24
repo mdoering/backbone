@@ -1,5 +1,4 @@
-Scyphidiella Guhl, 1979 GENUS
-=======
+# Scyphidiella Guhl, 1979 GENUS
 
 #### Status
 ACCEPTED

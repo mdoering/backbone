@@ -1,5 +1,4 @@
-Vaucheria alaskana Blum SPECIES
-=======
+# Vaucheria alaskana Blum SPECIES
 
 #### Status
 ACCEPTED

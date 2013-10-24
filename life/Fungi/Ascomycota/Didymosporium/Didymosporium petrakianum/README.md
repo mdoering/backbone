@@ -1,5 +1,4 @@
-Didymosporium petrakianum Sacc. SPECIES
-=======
+# Didymosporium petrakianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

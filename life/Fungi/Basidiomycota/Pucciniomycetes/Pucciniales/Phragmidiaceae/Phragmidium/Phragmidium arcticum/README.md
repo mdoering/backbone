@@ -1,5 +1,4 @@
-Phragmidium arcticum Lagerh., 1908 SPECIES
-=======
+# Phragmidium arcticum Lagerh., 1908 SPECIES
 
 #### Status
 ACCEPTED

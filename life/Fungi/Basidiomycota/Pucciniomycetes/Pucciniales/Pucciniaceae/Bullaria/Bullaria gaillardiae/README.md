@@ -1,5 +1,4 @@
-Bullaria gaillardiae (Dietel & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria gaillardiae (Dietel & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

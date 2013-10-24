@@ -1,14 +1,13 @@
-Cudonia monticola Mains, 1940 SPECIES
-=======
+# Pachycudonia monticola (Mains) S. Imai, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 27: 322 (1940)
+Bot. Mag. , Tokyo 63: 235 (1950)
 
 #### Original name
 Cudonia monticola Mains, 1940

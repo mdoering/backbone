@@ -1,5 +1,4 @@
-Arthopyreniomyces GENUS
-=======
+# Arthopyreniomyces GENUS
 
 #### Status
 ACCEPTED

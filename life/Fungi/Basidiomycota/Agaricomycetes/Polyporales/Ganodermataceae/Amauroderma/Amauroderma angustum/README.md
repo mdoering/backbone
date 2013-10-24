@@ -1,5 +1,4 @@
-Amauroderma angustum (Berk.) Torrend SPECIES
-=======
+# Amauroderma angustum (Berk.) Torrend SPECIES
 
 #### Status
 ACCEPTED

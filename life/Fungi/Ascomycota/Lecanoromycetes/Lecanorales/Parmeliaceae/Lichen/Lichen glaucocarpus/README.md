@@ -1,5 +1,4 @@
-Lichen glaucocarpus (Ach.) Wahlenb. SPECIES
-=======
+# Lichen glaucocarpus (Ach.) Wahlenb. SPECIES
 
 #### Status
 ACCEPTED

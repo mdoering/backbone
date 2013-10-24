@@ -1,5 +1,4 @@
-Psathyrella variabilissima A.H. Sm. SPECIES
-=======
+# Psathyrella variabilissima A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

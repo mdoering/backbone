@@ -1,5 +1,4 @@
-Podosporium penicillium var. penicillium VARIETY
-=======
+# Podosporium penicillium Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 618 (1889)
 
 #### Original name
-Podosporium penicillium var. penicillium
+Podosporium penicillium Speg.
 
 ### Remarks
 null

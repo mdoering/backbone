@@ -1,17 +1,16 @@
-Cladonia carassensis subsp. carassensis Vain. SUBSPECIES
-=======
+# Cladonia carassensis Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Fauna Flora fenn. 4: 313 (1887)
+null
 
 #### Original name
-Cladonia carassensis subsp. carassensis Vain.
+null
 
 ### Remarks
 null

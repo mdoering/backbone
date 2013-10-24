@@ -1,5 +1,4 @@
-Titaea costaricana (Syd.) Boedijn SPECIES
-=======
+# Titaea costaricana (Syd.) Boedijn SPECIES
 
 #### Status
 ACCEPTED

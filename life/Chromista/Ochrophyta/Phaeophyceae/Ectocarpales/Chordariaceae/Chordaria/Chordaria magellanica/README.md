@@ -1,5 +1,4 @@
-Chordaria magellanica Kylin SPECIES
-=======
+# Chordaria magellanica Kylin SPECIES
 
 #### Status
 ACCEPTED

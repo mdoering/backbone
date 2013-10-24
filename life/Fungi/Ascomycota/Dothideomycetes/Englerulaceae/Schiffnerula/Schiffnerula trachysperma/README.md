@@ -1,5 +1,4 @@
-Schiffnerula trachysperma Petr. SPECIES
-=======
+# Schiffnerula trachysperma Petr. SPECIES
 
 #### Status
 ACCEPTED

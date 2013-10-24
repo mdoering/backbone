@@ -1,5 +1,4 @@
-Loxophyllum piriformis SPECIES
-=======
+# Loxophyllum piriformis SPECIES
 
 #### Status
 ACCEPTED

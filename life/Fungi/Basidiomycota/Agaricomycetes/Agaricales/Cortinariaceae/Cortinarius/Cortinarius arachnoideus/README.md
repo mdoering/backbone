@@ -1,5 +1,4 @@
-Cortinarius arachnoideus (Krombh.) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius arachnoideus (Krombh.) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

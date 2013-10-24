@@ -1,5 +1,4 @@
-Amoebophilus simplex G.L. Barron, 1984 SPECIES
-=======
+# Amoebophilus simplex G.L. Barron, 1984 SPECIES
 
 #### Status
 ACCEPTED

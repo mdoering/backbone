@@ -1,8 +1,7 @@
-Penicillium olivinoviride Biourge, 1923 SPECIES
-=======
+# Penicillium viridicatum Westling, 1911 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

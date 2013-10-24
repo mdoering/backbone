@@ -1,5 +1,4 @@
-Hymenoscyphus hyalina J. Schröt. SPECIES
-=======
+# Hymenoscyphus hyalina J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glenospora gandavensis Vuill. SPECIES
-=======
+# Glenospora gandavensis Vuill. SPECIES
 
 #### Status
 ACCEPTED

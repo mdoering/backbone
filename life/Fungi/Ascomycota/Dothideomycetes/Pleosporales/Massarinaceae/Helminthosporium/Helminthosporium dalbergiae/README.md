@@ -1,5 +1,4 @@
-Helminthosporium dalbergiae M.B. Ellis SPECIES
-=======
+# Helminthosporium dalbergiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

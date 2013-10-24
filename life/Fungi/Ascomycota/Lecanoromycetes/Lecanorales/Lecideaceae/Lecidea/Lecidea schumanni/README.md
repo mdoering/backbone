@@ -1,5 +1,4 @@
-Lecidea schumanni Körb. SPECIES
-=======
+# Lecidea schumanni Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Streptomyces luteofluorescens Shinobu, 1962 SPECIES
-=======
+# Actinomadura luteofluorescens (Shinobu, 1962) Preobrazhenskaya et al., 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

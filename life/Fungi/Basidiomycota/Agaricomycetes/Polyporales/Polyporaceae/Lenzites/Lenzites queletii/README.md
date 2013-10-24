@@ -1,5 +1,4 @@
-Lenzites queletii Schulzer SPECIES
-=======
+# Lenzites queletii Schulzer SPECIES
 
 #### Status
 ACCEPTED

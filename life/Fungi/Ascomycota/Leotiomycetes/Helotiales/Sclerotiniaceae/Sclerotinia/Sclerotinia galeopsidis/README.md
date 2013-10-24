@@ -1,5 +1,4 @@
-Sclerotinia galeopsidis Velen. SPECIES
-=======
+# Sclerotinia galeopsidis Velen. SPECIES
 
 #### Status
 ACCEPTED

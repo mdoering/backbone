@@ -1,5 +1,4 @@
-Mycogone echinulata Penz. & Sacc. SPECIES
-=======
+# Mycogone echinulata Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

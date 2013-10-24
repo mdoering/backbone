@@ -1,5 +1,4 @@
-Lactocollybia modesta Singer, 1971 SPECIES
-=======
+# Lactocollybia modesta Singer, 1971 SPECIES
 
 #### Status
 ACCEPTED

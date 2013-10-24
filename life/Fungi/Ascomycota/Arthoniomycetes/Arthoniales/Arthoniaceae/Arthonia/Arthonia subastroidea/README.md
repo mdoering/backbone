@@ -1,5 +1,4 @@
-Arthonia subastroidea Anzi SPECIES
-=======
+# Arthonia subastroidea Anzi SPECIES
 
 #### Status
 ACCEPTED

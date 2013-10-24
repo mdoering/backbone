@@ -1,5 +1,4 @@
-Meliola homalii-dolichophylli Hansf. & Deighton SPECIES
-=======
+# Meliola homalii-dolichophylli Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

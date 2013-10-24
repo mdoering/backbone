@@ -1,5 +1,4 @@
-Loxophyllum acutum Dragesco, 1965 SPECIES
-=======
+# Loxophyllum acutum Dragesco, 1965 SPECIES
 
 #### Status
 ACCEPTED

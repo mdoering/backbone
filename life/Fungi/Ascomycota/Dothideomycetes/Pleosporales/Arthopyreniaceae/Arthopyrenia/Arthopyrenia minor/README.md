@@ -1,5 +1,4 @@
-Arthopyrenia minor R.C. Harris SPECIES
-=======
+# Arthopyrenia minor R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

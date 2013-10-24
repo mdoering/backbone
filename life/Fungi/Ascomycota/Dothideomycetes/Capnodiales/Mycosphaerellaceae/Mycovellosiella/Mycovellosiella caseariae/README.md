@@ -1,5 +1,4 @@
-Mycovellosiella caseariae Bhalla, N. Srivast. & Kamal SPECIES
-=======
+# Mycovellosiella caseariae Bhalla, N. Srivast. & Kamal SPECIES
 
 #### Status
 ACCEPTED

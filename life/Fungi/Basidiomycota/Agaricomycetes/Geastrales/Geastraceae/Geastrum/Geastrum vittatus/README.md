@@ -1,8 +1,7 @@
-Geaster vittatus Kalchbr. SPECIES
-=======
+# Geastrum vittatus Kalchbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster vittatus Kalchbr.
+Geastrum vittatus Kalchbr.
 
 ### Remarks
 null

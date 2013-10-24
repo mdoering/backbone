@@ -1,5 +1,4 @@
-Puccinia oregonensis Earle SPECIES
-=======
+# Puccinia oregonensis Earle SPECIES
 
 #### Status
 ACCEPTED

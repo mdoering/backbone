@@ -1,5 +1,4 @@
-Tympanis crataegi Lasch SPECIES
-=======
+# Tympanis crataegi Lasch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Savaryella Jud, 1994 GENUS
-=======
+# Savaryella Jud, 1994 GENUS
 
 #### Status
 ACCEPTED

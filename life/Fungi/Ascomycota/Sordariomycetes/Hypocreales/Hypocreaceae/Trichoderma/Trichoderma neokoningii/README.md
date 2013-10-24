@@ -1,5 +1,4 @@
-Trichoderma neokoningii Samuels & Soberanis SPECIES
-=======
+# Trichoderma neokoningii Samuels & Soberanis SPECIES
 
 #### Status
 ACCEPTED

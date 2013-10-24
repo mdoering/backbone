@@ -1,5 +1,4 @@
-Diplodia siphonis Henn. SPECIES
-=======
+# Diplodia siphonis Henn. SPECIES
 
 #### Status
 ACCEPTED

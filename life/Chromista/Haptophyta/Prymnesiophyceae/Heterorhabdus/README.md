@@ -1,5 +1,4 @@
-Heterorhabdus D. Noël, 1970 GENUS
-=======
+# Heterorhabdus D. Noël, 1970 GENUS
 
 #### Status
 ACCEPTED

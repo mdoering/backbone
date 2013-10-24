@@ -1,5 +1,4 @@
-Sphaeria syconophila De Not. SPECIES
-=======
+# Sphaeria syconophila De Not. SPECIES
 
 #### Status
 ACCEPTED

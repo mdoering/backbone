@@ -1,14 +1,13 @@
-Peroneutypella obesa Syd., 1909 SPECIES
-=======
+# Peroneutypa obesa (Syd.) Carmarán & A.I. Romero, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Carmarán, Romero & Giussani, Fungal Diversity 23: 84 (2006)
 
 #### Original name
 Peroneutypella obesa Syd., 1909

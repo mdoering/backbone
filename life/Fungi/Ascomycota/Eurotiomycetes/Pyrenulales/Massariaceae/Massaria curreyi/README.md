@@ -1,5 +1,4 @@
-Massaria curreyi Sacc. SPECIES
-=======
+# Massaria curreyi Sacc. SPECIES
 
 #### Status
 ACCEPTED

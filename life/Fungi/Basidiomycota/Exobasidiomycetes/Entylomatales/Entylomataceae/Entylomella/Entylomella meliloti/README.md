@@ -1,5 +1,4 @@
-Entylomella meliloti Cif. SPECIES
-=======
+# Entylomella meliloti Cif. SPECIES
 
 #### Status
 ACCEPTED

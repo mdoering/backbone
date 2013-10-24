@@ -1,5 +1,4 @@
-Rhabdospora phoenicis J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Rhabdospora phoenicis J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

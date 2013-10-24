@@ -1,5 +1,4 @@
-Parmelia simodensis Asahina SPECIES
-=======
+# Parmelia simodensis Asahina SPECIES
 
 #### Status
 ACCEPTED

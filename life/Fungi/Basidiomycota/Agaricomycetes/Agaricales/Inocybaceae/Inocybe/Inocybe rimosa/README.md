@@ -1,17 +1,16 @@
-Inocybe umbrinella f. umbrinella FORM
-=======
+# Inocybe rimosa (Bull.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 3(2): 161 (1905)
+Führ. Pilzk. (Zwickau) 78 (1871)
 
 #### Original name
-Inocybe umbrinella f. umbrinella
+Inocybe rimosa (Bull.) P. Kumm., 1871
 
 ### Remarks
 null

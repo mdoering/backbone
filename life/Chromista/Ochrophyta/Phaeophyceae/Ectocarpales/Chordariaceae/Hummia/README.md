@@ -1,5 +1,4 @@
-Hummia J.Fiore, 1975 GENUS
-=======
+# Hummia J.Fiore, 1975 GENUS
 
 #### Status
 ACCEPTED

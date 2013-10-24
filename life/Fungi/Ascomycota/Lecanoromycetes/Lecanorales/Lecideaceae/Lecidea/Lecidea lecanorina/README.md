@@ -1,5 +1,4 @@
-Lecidea lecanorina Schaer. SPECIES
-=======
+# Lecidea lecanorina Schaer. SPECIES
 
 #### Status
 ACCEPTED

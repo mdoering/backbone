@@ -1,5 +1,4 @@
-Nigrohydnum Ryvarden GENUS
-=======
+# Nigrohydnum Ryvarden GENUS
 
 #### Status
 ACCEPTED

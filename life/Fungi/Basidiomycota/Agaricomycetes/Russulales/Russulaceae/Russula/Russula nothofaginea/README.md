@@ -1,5 +1,4 @@
-Russula nothofaginea f. nothofaginea FORM
-=======
+# Russula nothofaginea Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Russula nothofaginea f. nothofaginea
+Russula nothofaginea Singer
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Apertius G. Goy, 1979 in Goy, D. Noël & G. Busson, 1979 GENUS
-=======
+# Crucirhabdus B. Prins ex A.P. Rood, W.W. Hay & T. Barnard, 1973 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Documents Lab. Geol. Fac. Sci. Lyon No. 75: 40.
+null
 
 #### Original name
 null

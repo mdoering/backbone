@@ -1,5 +1,4 @@
-Gymnodinium parvum J. Larsen SPECIES
-=======
+# Gymnodinium parvum J. Larsen SPECIES
 
 #### Status
 ACCEPTED

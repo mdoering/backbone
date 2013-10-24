@@ -1,5 +1,4 @@
-Sclerotinia festucae Velen. SPECIES
-=======
+# Sclerotinia festucae Velen. SPECIES
 
 #### Status
 ACCEPTED

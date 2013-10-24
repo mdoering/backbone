@@ -1,5 +1,4 @@
-Omphalina bicolor Murrill SPECIES
-=======
+# Omphalina bicolor Murrill SPECIES
 
 #### Status
 ACCEPTED

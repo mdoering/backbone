@@ -1,5 +1,4 @@
-Endocarpon superpositum H. Harada SPECIES
-=======
+# Endocarpon superpositum H. Harada SPECIES
 
 #### Status
 ACCEPTED

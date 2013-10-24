@@ -1,5 +1,4 @@
-Rhabdospora longissima (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora longissima (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

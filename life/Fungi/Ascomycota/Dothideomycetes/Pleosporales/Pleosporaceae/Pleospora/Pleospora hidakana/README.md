@@ -1,5 +1,4 @@
-Pleospora hidakana Otani & Mikawa SPECIES
-=======
+# Pleospora hidakana Otani & Mikawa SPECIES
 
 #### Status
 ACCEPTED

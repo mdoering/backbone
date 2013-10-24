@@ -1,5 +1,4 @@
-Dicaeoma magelhanicum (Peyr.) Kuntze SPECIES
-=======
+# Dicaeoma magelhanicum (Peyr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

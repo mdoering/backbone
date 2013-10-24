@@ -1,5 +1,4 @@
-Wallackia schiffmanni Foissner, 1976 SPECIES
-=======
+# Wallackia schiffmanni Foissner, 1976 SPECIES
 
 #### Status
 ACCEPTED

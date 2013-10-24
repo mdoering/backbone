@@ -1,5 +1,4 @@
-Hygrophoropsis rufescens (Quél.) Singer SPECIES
-=======
+# Hygrophoropsis rufescens (Quél.) Singer SPECIES
 
 #### Status
 ACCEPTED

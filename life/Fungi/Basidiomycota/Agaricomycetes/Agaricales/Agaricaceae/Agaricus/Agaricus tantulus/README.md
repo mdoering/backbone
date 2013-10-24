@@ -1,5 +1,4 @@
-Agaricus tantulus A.E. Freeman SPECIES
-=======
+# Agaricus tantulus A.E. Freeman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Helmisporium gongrotrichum Corda SPECIES
-=======
+# Helminthosporium gongrotrichum Corda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 13 (1837)
 
 #### Original name
-Helmisporium gongrotrichum Corda
+Helminthosporium gongrotrichum Corda
 
 ### Remarks
 null

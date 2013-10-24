@@ -1,5 +1,4 @@
-Spilosticta macularis anon. SPECIES
-=======
+# Spilosticta macularis anon. SPECIES
 
 #### Status
 ACCEPTED

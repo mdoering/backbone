@@ -1,5 +1,4 @@
-Euglena fornicata Ettl SPECIES
-=======
+# Euglena fornicata Ettl SPECIES
 
 #### Status
 ACCEPTED

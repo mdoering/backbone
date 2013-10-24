@@ -1,5 +1,4 @@
-Karyorelictea Corliss, 1974 CLASS
-=======
+# Karyorelictea Corliss, 1974 CLASS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia paradoxa (Fée) A. Massal. SPECIES
-=======
+# Arthopyrenia paradoxa (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

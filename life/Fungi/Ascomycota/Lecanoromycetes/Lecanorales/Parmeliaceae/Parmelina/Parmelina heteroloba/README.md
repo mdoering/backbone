@@ -1,5 +1,4 @@
-Parmelina heteroloba (Zahlbr.) Hale SPECIES
-=======
+# Parmelina heteroloba (Zahlbr.) Hale SPECIES
 
 #### Status
 ACCEPTED

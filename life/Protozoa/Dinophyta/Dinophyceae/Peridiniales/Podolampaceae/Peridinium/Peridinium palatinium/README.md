@@ -1,8 +1,7 @@
-Peridinium palatinum f. cristatum Lindemann FORM
-=======
+# Peridinium palatinium Lauterborn SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

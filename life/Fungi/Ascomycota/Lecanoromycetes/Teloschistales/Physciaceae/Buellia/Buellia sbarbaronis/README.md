@@ -1,5 +1,4 @@
-Buellia sbarbaronis SPECIES
-=======
+# Buellia sbarbaronis SPECIES
 
 #### Status
 ACCEPTED

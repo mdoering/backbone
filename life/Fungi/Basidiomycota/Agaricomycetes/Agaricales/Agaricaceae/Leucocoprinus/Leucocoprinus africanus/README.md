@@ -1,5 +1,4 @@
-Leucocoprinus africanus R. Heim SPECIES
-=======
+# Leucocoprinus africanus R. Heim SPECIES
 
 #### Status
 ACCEPTED

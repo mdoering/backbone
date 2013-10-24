@@ -1,5 +1,4 @@
-Uromyces aconiti-lycoctoni (DC.) G. Winter SPECIES
-=======
+# Uromyces aconiti-lycoctoni (DC.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

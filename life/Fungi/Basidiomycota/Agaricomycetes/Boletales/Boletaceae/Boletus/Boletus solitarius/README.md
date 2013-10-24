@@ -1,5 +1,4 @@
-Boletus solitarius Corner SPECIES
-=======
+# Boletus solitarius Corner SPECIES
 
 #### Status
 ACCEPTED

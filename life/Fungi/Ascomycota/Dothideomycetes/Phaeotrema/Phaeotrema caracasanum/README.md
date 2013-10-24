@@ -1,5 +1,4 @@
-Phaeotrema caracasanum Müll. Arg., 1895 SPECIES
-=======
+# Phaeotrema caracasanum Müll. Arg., 1895 SPECIES
 
 #### Status
 ACCEPTED

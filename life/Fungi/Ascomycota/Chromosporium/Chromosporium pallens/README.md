@@ -1,5 +1,4 @@
-Chromosporium pallens Penz. & Sacc. SPECIES
-=======
+# Chromosporium pallens Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

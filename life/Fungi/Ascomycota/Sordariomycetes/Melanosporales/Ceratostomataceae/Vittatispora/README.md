@@ -1,5 +1,4 @@
-Vittatispora P. Chaudhary, J. Campb., D. Hawksw. & K.N. Sastry GENUS
-=======
+# Vittatispora P. Chaudhary, J. Campb., D. Hawksw. & K.N. Sastry GENUS
 
 #### Status
 ACCEPTED

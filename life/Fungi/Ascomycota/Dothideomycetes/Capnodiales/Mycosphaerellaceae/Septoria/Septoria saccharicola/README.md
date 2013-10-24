@@ -1,5 +1,4 @@
-Septoria saccharicola Pavgi & R.A. Singh SPECIES
-=======
+# Septoria saccharicola Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

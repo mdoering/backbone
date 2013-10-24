@@ -1,5 +1,4 @@
-Acarospora subpruinata Stirt. SPECIES
-=======
+# Acarospora subpruinata Stirt. SPECIES
 
 #### Status
 ACCEPTED

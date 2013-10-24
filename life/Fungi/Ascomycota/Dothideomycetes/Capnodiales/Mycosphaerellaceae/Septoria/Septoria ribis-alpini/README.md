@@ -1,5 +1,4 @@
-Septoria ribis-alpini A.G. Eliasson SPECIES
-=======
+# Septoria ribis-alpini A.G. Eliasson SPECIES
 
 #### Status
 ACCEPTED

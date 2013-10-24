@@ -1,17 +1,16 @@
-Triphragmium clavellosum f. clavellosum Berk. FORM
-=======
+# Nyssopsora clavellosa (Berk.) Arthur, 1912 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7: 180 (1912)
 
 #### Original name
-Triphragmium clavellosum f. clavellosum Berk.
+Triphragmium clavellosum Berk., 1857
 
 ### Remarks
 null

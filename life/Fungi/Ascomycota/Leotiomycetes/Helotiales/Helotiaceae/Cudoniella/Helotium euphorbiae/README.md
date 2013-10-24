@@ -1,5 +1,4 @@
-Helotium euphorbiae Velen. SPECIES
-=======
+# Helotium euphorbiae Velen. SPECIES
 
 #### Status
 ACCEPTED

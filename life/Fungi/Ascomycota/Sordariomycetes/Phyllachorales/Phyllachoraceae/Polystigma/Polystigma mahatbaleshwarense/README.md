@@ -1,17 +1,16 @@
-Phyllachora mahableshwarensis Ananthan. SPECIES
-=======
+# Polystigma mahatbaleshwarense (Ananthan.) Ullasa, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 24: 162 (1971)
 
 #### Original name
-Phyllachora mahableshwarensis Ananthan.
+Phyllachora mahatbaleshwarense Ananthan., 1964
 
 ### Remarks
 null

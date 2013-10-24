@@ -1,5 +1,4 @@
-Oligosphaeridium diluculum R. J. Davey SPECIES
-=======
+# Oligosphaeridium diluculum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

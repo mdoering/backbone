@@ -1,5 +1,4 @@
-Lophodermium tumidulum Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Lophodermium tumidulum Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

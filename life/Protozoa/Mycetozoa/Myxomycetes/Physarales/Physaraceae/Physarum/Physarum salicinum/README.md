@@ -1,5 +1,4 @@
-Physarum salicinum Schumach. SPECIES
-=======
+# Physarum salicinum Schumach. SPECIES
 
 #### Status
 ACCEPTED

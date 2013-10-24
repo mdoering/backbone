@@ -1,5 +1,4 @@
-Enterographa seawardii Lücking & Henssen SPECIES
-=======
+# Enterographa seawardii Lücking & Henssen SPECIES
 
 #### Status
 ACCEPTED

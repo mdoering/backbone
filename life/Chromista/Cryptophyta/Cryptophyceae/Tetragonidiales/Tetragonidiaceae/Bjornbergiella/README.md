@@ -1,5 +1,4 @@
-Bjornbergiella Bicudo, 1966 GENUS
-=======
+# Bjornbergiella Bicudo, 1966 GENUS
 
 #### Status
 ACCEPTED

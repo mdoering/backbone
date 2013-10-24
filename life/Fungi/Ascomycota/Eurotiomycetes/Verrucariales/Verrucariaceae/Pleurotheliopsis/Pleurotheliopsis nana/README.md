@@ -1,5 +1,4 @@
-Pleurotheliopsis nana Zahlbr. SPECIES
-=======
+# Pleurotheliopsis nana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

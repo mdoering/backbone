@@ -1,5 +1,4 @@
-Hyaloria Möller GENUS
-=======
+# Hyaloria Möller GENUS
 
 #### Status
 ACCEPTED

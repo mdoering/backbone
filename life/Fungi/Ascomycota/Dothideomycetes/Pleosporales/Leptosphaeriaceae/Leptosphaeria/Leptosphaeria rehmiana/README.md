@@ -1,5 +1,4 @@
-Leptosphaeria rehmiana W. Voss SPECIES
-=======
+# Leptosphaeria rehmiana W. Voss SPECIES
 
 #### Status
 ACCEPTED

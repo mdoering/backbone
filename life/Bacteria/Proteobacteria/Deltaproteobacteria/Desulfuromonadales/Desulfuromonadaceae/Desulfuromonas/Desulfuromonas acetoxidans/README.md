@@ -1,5 +1,4 @@
-Desulfuromonas acetoxidans Pfennig and Biebl, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Desulfuromonas acetoxidans Pfennig and Biebl, 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

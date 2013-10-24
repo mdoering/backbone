@@ -1,5 +1,4 @@
-Omphalopsis euspeirea (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Omphalopsis euspeirea (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

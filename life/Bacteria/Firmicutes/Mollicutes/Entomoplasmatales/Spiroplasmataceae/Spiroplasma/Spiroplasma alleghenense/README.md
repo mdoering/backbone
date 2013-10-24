@@ -1,5 +1,4 @@
-Spiroplasma alleghenense Adams et al., 1997 SPECIES
-=======
+# Spiroplasma alleghenense Adams et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptothecia involuta Stirt. SPECIES
-=======
+# Cryptothecia involuta Stirt. SPECIES
 
 #### Status
 ACCEPTED

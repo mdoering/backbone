@@ -1,5 +1,4 @@
-Merulioporia violacea (Fr.) Bondartsev SPECIES
-=======
+# Merulioporia violacea (Fr.) Bondartsev SPECIES
 
 #### Status
 ACCEPTED

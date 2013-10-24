@@ -1,5 +1,4 @@
-Recurvoidella Uchio, 1960 GENUS
-=======
+# Recurvoidella Uchio, 1960 GENUS
 
 #### Status
 ACCEPTED

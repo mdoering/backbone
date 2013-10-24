@@ -1,5 +1,4 @@
-Diplauxis Vivier, Ormieres & Tuzet, 1964 GENUS
-=======
+# Diplauxis Vivier, Ormieres & Tuzet, 1964 GENUS
 
 #### Status
 ACCEPTED

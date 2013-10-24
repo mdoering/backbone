@@ -1,17 +1,16 @@
-Lecanora psarophana var. psarophana VARIETY
-=======
+# Protoparmelia montagnei (Fr.) Poelt & Nimis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 55: 429 (1855)
+Actas del VI Simposio Nacional de Botanica Criptogamica, Universidad de Granada, Spain 447 (1987)
 
 #### Original name
-Lecanora psarophana var. psarophana
+Parmelia montagnei Fr.
 
 ### Remarks
 null

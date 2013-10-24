@@ -1,5 +1,4 @@
-Irenopsis aciculosa var. aciculosa VARIETY
-=======
+# Irenopsis aciculosa (G. Winter) F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Annls mycol. 25(5/6): 438 (1927)
 
 #### Original name
-Irenopsis aciculosa var. aciculosa
+Meliola aciculosa G. Winter
 
 ### Remarks
 null

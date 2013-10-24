@@ -1,5 +1,4 @@
-Lasallia pennsylvanica f. pennsylvanica FORM
-=======
+# Lasallia pennsylvanica (Ach.) Llano SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-null
+Lecidea pennsylvanica (Hoffm.) Ach.
 
 ### Remarks
 null

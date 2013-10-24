@@ -1,8 +1,7 @@
-Molleriella betulae (J. Reid & Piroz.) Arx & E. Müll. SPECIES
-=======
+# Moelleriella betulae (J. Reid & Piroz.) Arx & E. Müll. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

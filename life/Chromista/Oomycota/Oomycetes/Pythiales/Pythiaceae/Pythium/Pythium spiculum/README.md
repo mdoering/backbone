@@ -1,5 +1,4 @@
-Pythium spiculum B. Paul SPECIES
-=======
+# Pythium spiculum B. Paul SPECIES
 
 #### Status
 ACCEPTED

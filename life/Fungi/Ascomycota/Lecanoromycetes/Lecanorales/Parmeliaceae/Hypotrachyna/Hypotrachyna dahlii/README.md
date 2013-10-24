@@ -1,5 +1,4 @@
-Hypotrachyna dahlii Kurok. & Moon SPECIES
-=======
+# Hypotrachyna dahlii Kurok. & Moon SPECIES
 
 #### Status
 ACCEPTED

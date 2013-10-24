@@ -1,5 +1,4 @@
-Loxophyllum fastigatum Dumas, 1930 SPECIES
-=======
+# Loxophyllum fastigatum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium nitrariae Pat. SPECIES
-=======
+# Aecidium nitrariae Pat. SPECIES
 
 #### Status
 ACCEPTED

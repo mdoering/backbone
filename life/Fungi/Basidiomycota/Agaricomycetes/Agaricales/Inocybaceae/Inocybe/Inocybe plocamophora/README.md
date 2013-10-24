@@ -1,5 +1,4 @@
-Inocybe plocamophora Singer, I.J. Araujo & Ivory SPECIES
-=======
+# Inocybe plocamophora Singer, I.J. Araujo & Ivory SPECIES
 
 #### Status
 ACCEPTED

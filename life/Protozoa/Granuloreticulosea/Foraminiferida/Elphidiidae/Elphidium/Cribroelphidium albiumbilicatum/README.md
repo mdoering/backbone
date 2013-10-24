@@ -1,11 +1,10 @@
-Elphidium albiumbilicatum (Weiss, 1954) SPECIES
-=======
+# Cribroelphidium albiumbilicatum (Weiss, 1954) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null

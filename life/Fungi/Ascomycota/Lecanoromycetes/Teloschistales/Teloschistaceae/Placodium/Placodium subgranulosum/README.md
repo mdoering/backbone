@@ -1,5 +1,4 @@
-Placodium subgranulosum Vain. SPECIES
-=======
+# Placodium subgranulosum Vain. SPECIES
 
 #### Status
 ACCEPTED

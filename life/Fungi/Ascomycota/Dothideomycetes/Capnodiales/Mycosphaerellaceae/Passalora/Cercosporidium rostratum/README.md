@@ -1,5 +1,4 @@
-Cercosporidium rostratum anon. SPECIES
-=======
+# Cercosporidium rostratum anon. SPECIES
 
 #### Status
 ACCEPTED

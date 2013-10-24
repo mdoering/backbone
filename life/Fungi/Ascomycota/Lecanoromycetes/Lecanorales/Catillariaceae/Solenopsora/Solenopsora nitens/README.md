@@ -1,5 +1,4 @@
-Solenopsora nitens (Pers.) M. Choisy & Werner SPECIES
-=======
+# Solenopsora nitens (Pers.) M. Choisy & Werner SPECIES
 
 #### Status
 ACCEPTED

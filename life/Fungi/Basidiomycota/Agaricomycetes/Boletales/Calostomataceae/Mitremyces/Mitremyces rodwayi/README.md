@@ -1,5 +1,4 @@
-Mitremyces rodwayi Lloyd SPECIES
-=======
+# Mitremyces rodwayi Lloyd SPECIES
 
 #### Status
 ACCEPTED

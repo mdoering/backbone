@@ -1,5 +1,4 @@
-Lamprospora asperella (Rehm) Boud. SPECIES
-=======
+# Lamprospora asperella (Rehm) Boud. SPECIES
 
 #### Status
 ACCEPTED

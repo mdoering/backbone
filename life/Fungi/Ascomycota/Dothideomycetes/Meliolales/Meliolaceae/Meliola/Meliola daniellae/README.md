@@ -1,5 +1,4 @@
-Meliola daniellae Hansf. & Deighton SPECIES
-=======
+# Meliola daniellae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED

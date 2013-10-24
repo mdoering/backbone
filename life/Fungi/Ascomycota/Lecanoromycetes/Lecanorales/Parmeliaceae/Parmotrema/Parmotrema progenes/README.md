@@ -1,5 +1,4 @@
-Parmotrema progenes Hale SPECIES
-=======
+# Parmotrema progenes Hale SPECIES
 
 #### Status
 ACCEPTED

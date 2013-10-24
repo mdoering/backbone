@@ -1,5 +1,4 @@
-Uromyces montanus Arthur SPECIES
-=======
+# Uromyces montanus Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia prasinata (Tuck.) Coppins SPECIES
-=======
+# Bacidia prasinata (Tuck.) Coppins SPECIES
 
 #### Status
 ACCEPTED

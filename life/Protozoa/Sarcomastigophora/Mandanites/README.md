@@ -1,5 +1,4 @@
-Mandanites Rahaghi, 1989 GENUS
-=======
+# Mandanites Rahaghi, 1989 GENUS
 
 #### Status
 ACCEPTED

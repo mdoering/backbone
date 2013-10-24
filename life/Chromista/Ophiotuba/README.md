@@ -1,5 +1,4 @@
-Ophiotuba Rhumbler, 1894 GENUS
-=======
+# Ophiotuba Rhumbler, 1894 GENUS
 
 #### Status
 ACCEPTED

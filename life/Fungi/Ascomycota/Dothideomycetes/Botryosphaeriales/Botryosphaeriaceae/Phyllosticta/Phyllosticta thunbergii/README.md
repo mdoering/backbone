@@ -1,5 +1,4 @@
-Phyllosticta thunbergii G. Winter SPECIES
-=======
+# Phyllosticta thunbergii G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyscytalum truncatum B. Sutton & Hodges, 1977 SPECIES
-=======
+# Polyscytalum truncatum B. Sutton & Hodges, 1977 SPECIES
 
 #### Status
 ACCEPTED

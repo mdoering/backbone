@@ -1,5 +1,4 @@
-Lichen elveloides Wulfen SPECIES
-=======
+# Lichen elveloides Wulfen SPECIES
 
 #### Status
 ACCEPTED

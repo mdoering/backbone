@@ -1,5 +1,4 @@
-Marasmius celtibericus G. Moreno & Raitv. SPECIES
-=======
+# Marasmius celtibericus G. Moreno & Raitv. SPECIES
 
 #### Status
 ACCEPTED

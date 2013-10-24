@@ -1,5 +1,4 @@
-Dimerina longispora Hansf. SPECIES
-=======
+# Dimerina longispora Hansf. SPECIES
 
 #### Status
 ACCEPTED

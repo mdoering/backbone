@@ -1,5 +1,4 @@
-Enchelydium blattereri Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Enchelydium blattereri Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

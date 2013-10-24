@@ -1,14 +1,13 @@
-Gaudryinoides Saidova, 1975 GENUS
-=======
+# Karrerulina Finlay, 1940 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Trans. Proc. Roy. Soc. N. Z. , 69, 450.
 
 #### Original name
 null

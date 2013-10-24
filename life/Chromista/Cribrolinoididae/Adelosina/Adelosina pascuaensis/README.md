@@ -1,5 +1,4 @@
-Adelosina pascuaensis Koutsoukos & Falcetta, 1987 SPECIES
-=======
+# Adelosina pascuaensis Koutsoukos & Falcetta, 1987 SPECIES
 
 #### Status
 ACCEPTED

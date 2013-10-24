@@ -1,5 +1,4 @@
-Gyalideopsis arvidssonii Lücking SPECIES
-=======
+# Gyalideopsis arvidssonii Lücking SPECIES
 
 #### Status
 ACCEPTED

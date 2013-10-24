@@ -1,5 +1,4 @@
-Excentropylomma Dumitrica, 1970 GENUS
-=======
+# Excentropylomma Dumitrica, 1970 GENUS
 
 #### Status
 ACCEPTED

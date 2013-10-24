@@ -1,5 +1,4 @@
-Niesslia horridula (Wallr.) Kirschst. SPECIES
-=======
+# Niesslia horridula (Wallr.) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

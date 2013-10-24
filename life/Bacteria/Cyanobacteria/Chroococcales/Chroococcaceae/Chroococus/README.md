@@ -1,5 +1,4 @@
-Chroococus GENUS
-=======
+# Chroococus GENUS
 
 #### Status
 ACCEPTED

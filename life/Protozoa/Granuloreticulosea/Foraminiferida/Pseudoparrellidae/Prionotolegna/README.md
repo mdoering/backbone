@@ -1,5 +1,4 @@
-Prionotolegna Loeblich & Tappan, 1994 GENUS
-=======
+# Prionotolegna Loeblich & Tappan, 1994 GENUS
 
 #### Status
 ACCEPTED

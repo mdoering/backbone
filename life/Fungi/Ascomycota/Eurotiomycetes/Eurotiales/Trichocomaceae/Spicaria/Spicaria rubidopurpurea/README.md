@@ -1,5 +1,4 @@
-Spicaria rubidopurpurea Aoki SPECIES
-=======
+# Spicaria rubidopurpurea Aoki SPECIES
 
 #### Status
 ACCEPTED

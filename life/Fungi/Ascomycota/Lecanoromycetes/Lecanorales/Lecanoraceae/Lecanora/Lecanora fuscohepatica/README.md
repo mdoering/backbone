@@ -1,5 +1,4 @@
-Lecanora fuscohepatica Nyl. SPECIES
-=======
+# Lecanora fuscohepatica Nyl. SPECIES
 
 #### Status
 ACCEPTED

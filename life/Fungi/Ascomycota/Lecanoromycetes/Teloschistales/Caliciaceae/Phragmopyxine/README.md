@@ -1,5 +1,4 @@
-Phragmopyxine GENUS
-=======
+# Phragmopyxine GENUS
 
 #### Status
 ACCEPTED

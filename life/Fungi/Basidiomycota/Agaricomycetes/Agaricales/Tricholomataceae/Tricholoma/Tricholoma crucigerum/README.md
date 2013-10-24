@@ -1,5 +1,4 @@
-Tricholoma crucigerum (St.-Amans) Sacc. & Trotter SPECIES
-=======
+# Tricholoma crucigerum (St.-Amans) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

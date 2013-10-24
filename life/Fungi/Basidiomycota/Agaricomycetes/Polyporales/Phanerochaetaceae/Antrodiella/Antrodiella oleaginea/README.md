@@ -1,17 +1,16 @@
-Antrodiella oleginea Overh. ex Ryvarden SPECIES
-=======
+# Antrodiella oleaginea Overh. ex Ryvarden SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 260 (1980)
 
 #### Original name
-Antrodiella oleginea Overh. ex Ryvarden
+Antrodiella oleaginea Overh. ex Ryvarden
 
 ### Remarks
 null

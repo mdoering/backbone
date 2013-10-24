@@ -1,17 +1,16 @@
-Oidium spiraea Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
-=======
+# Oidium spiraeae Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 59(1): 78 (2006)
 
 #### Original name
-Oidium spiraea Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal
+Oidium spiraeae Puzari, A.K. Sarbhoy, N. Ahmad & D.K. Agarwal
 
 ### Remarks
 null

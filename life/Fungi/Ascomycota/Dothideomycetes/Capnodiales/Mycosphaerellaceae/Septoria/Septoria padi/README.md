@@ -1,5 +1,4 @@
-Septoria padi Lasch SPECIES
-=======
+# Septoria padi Lasch SPECIES
 
 #### Status
 ACCEPTED

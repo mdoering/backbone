@@ -1,5 +1,4 @@
-Lecidea artytoides Nyl. SPECIES
-=======
+# Lecidea artytoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

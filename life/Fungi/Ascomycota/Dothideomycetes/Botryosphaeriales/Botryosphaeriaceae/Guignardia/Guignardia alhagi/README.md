@@ -1,5 +1,4 @@
-Guignardia alhagi Bubák SPECIES
-=======
+# Guignardia alhagi Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia gigaspora Ellis & Everh. SPECIES
-=======
+# Rosellinia gigaspora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

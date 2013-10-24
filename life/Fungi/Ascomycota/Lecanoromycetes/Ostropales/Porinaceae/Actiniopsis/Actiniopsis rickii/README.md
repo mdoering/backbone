@@ -1,5 +1,4 @@
-Actiniopsis rickii Theiss. SPECIES
-=======
+# Actiniopsis rickii Theiss. SPECIES
 
 #### Status
 ACCEPTED

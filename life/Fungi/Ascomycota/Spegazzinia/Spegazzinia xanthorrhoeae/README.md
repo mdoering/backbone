@@ -1,5 +1,4 @@
-Spegazzinia xanthorrhoeae Subram., 1988 SPECIES
-=======
+# Spegazzinia xanthorrhoeae Subram., 1988 SPECIES
 
 #### Status
 ACCEPTED

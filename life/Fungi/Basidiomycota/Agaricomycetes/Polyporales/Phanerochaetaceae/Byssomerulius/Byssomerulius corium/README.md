@@ -1,17 +1,16 @@
-Auricularia papyrina var. papyrina VARIETY
-=======
+# Byssomerulius corium (Pers.) Parmasto, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 383 (1967)
 
 #### Original name
-null
+Thelephora corium Pers., 1801
 
 ### Remarks
 null

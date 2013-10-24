@@ -1,5 +1,4 @@
-Erysiphe duriaei Lév. SPECIES
-=======
+# Erysiphe duriaei Lév. SPECIES
 
 #### Status
 ACCEPTED

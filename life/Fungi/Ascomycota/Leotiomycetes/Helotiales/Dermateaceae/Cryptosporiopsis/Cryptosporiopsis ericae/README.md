@@ -1,5 +1,4 @@
-Cryptosporiopsis ericae Sigler SPECIES
-=======
+# Cryptosporiopsis ericae Sigler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia lithophila Redinger SPECIES
-=======
+# Ocellularia lithophila Redinger SPECIES
 
 #### Status
 ACCEPTED

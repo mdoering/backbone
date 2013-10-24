@@ -1,5 +1,4 @@
-Fungus undulatus Scop. SPECIES
-=======
+# Fungus undulatus Scop. SPECIES
 
 #### Status
 ACCEPTED

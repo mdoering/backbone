@@ -1,5 +1,4 @@
-Microthyrium melastomacearum Speg. SPECIES
-=======
+# Microthyrium melastomacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

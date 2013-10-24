@@ -1,14 +1,13 @@
-Parmelia sublanea Kurok. SPECIES
-=======
+# Relicina sublanea (Kurok.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hale & Kurokawa, Contr. U. S. natnl. Herb. 36: 146 (1964)
+Phytologia 28: 485 (1974)
 
 #### Original name
 Parmelia sublanea Kurok.

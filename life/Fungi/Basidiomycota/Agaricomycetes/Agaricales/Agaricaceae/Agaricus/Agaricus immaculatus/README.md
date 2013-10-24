@@ -1,5 +1,4 @@
-Agaricus immaculatus Peck SPECIES
-=======
+# Agaricus immaculatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium mougeotii (Pers.) Sacc. SPECIES
-=======
+# Helotium mougeotii (Pers.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe neoceracea Hongo SPECIES
-=======
+# Hygrocybe neoceracea Hongo SPECIES
 
 #### Status
 ACCEPTED

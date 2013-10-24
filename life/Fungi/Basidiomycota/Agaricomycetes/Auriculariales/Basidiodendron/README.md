@@ -1,5 +1,4 @@
-Basidiodendron Rick, 1938 GENUS
-=======
+# Basidiodendron Rick, 1938 GENUS
 
 #### Status
 ACCEPTED

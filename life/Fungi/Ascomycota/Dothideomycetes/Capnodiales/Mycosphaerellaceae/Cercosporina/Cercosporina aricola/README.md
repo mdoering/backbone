@@ -1,5 +1,4 @@
-Cercosporina aricola (Sacc.) Sacc. SPECIES
-=======
+# Cercosporina aricola (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

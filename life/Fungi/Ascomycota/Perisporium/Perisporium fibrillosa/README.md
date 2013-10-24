@@ -1,5 +1,4 @@
-Perisporium fibrillosa Desm. SPECIES
-=======
+# Perisporium fibrillosa Desm. SPECIES
 
 #### Status
 ACCEPTED

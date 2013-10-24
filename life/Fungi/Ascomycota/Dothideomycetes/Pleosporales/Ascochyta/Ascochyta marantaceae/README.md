@@ -1,5 +1,4 @@
-Ascochyta marantaceae Rangel SPECIES
-=======
+# Ascochyta marantaceae Rangel SPECIES
 
 #### Status
 ACCEPTED

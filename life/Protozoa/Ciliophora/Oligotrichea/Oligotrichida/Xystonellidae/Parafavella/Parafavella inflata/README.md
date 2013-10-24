@@ -1,5 +1,4 @@
-Parafavella inflata Kofoid & Campbell, 1929 SPECIES
-=======
+# Parafavella inflata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

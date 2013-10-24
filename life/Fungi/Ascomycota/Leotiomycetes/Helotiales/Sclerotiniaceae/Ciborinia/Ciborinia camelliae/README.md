@@ -1,17 +1,16 @@
-Sclerotinia camelliae f. camelliae Hara FORM
-=======
+# Ciborinia camelliae L.M. Kohn, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 9(2): 399 (1979)
 
 #### Original name
-Sclerotinia camelliae f. camelliae Hara
+Ciborinia camelliae L.M. Kohn, 1979
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ataxiodinium Reid GENUS
-=======
+# Ataxiodinium Reid GENUS
 
 #### Status
 ACCEPTED

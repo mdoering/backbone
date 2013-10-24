@@ -1,5 +1,4 @@
-Lithopera Ehrenberg, 1847 GENUS
-=======
+# Lithopera Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

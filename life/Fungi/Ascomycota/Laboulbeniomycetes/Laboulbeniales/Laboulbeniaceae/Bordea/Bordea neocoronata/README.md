@@ -1,5 +1,4 @@
-Bordea neocoronata R.K. Benj. SPECIES
-=======
+# Bordea neocoronata R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

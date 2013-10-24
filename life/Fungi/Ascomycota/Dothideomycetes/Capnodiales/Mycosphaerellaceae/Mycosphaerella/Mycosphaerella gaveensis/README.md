@@ -1,5 +1,4 @@
-Mycosphaerella gaveensis Henn. SPECIES
-=======
+# Mycosphaerella gaveensis Henn. SPECIES
 
 #### Status
 ACCEPTED

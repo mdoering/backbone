@@ -1,5 +1,4 @@
-Ocellularia maculata Hale SPECIES
-=======
+# Ocellularia maculata Hale SPECIES
 
 #### Status
 ACCEPTED

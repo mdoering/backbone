@@ -1,5 +1,4 @@
-Dictyocha bipartita Ehrenberg SPECIES
-=======
+# Dictyocha bipartita Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

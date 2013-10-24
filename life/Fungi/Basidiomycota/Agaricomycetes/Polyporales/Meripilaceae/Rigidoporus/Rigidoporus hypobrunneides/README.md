@@ -1,5 +1,4 @@
-Rigidoporus hypobrunneides Corner, 1987 SPECIES
-=======
+# Rigidoporus hypobrunneides Corner, 1987 SPECIES
 
 #### Status
 ACCEPTED

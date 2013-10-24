@@ -1,5 +1,4 @@
-Cercosporina iponemensis (Henn.) Sacc. SPECIES
-=======
+# Cercosporina iponemensis (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

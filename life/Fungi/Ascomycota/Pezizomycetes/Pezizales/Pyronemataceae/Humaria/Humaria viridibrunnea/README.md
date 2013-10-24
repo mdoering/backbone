@@ -1,5 +1,4 @@
-Humaria viridibrunnea (Ces.) Sacc. SPECIES
-=======
+# Humaria viridibrunnea (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pestalotiopsis arboreae N.I. Singh SPECIES
-=======
+# Pestalotiopsis arborei N.I. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 34(2): 234 (1981)
 
 #### Original name
-Pestalotiopsis arboreae N.I. Singh
+Pestalotiopsis arborei N.I. Singh
 
 ### Remarks
 null

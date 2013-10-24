@@ -1,5 +1,4 @@
-Phacellium Bonord. GENUS
-=======
+# Phacellium Bonord. GENUS
 
 #### Status
 ACCEPTED

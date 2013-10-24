@@ -1,5 +1,4 @@
-Arthonia glomerulosa Fée SPECIES
-=======
+# Arthonia glomerulosa Fée SPECIES
 
 #### Status
 ACCEPTED

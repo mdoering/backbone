@@ -1,5 +1,4 @@
-Cortinarius subadelphus Rob. Henry SPECIES
-=======
+# Cortinarius subadelphus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

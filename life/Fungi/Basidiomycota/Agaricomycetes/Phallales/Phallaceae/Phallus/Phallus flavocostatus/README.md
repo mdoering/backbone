@@ -1,5 +1,4 @@
-Phallus flavocostatus Kreisel SPECIES
-=======
+# Phallus flavocostatus Kreisel SPECIES
 
 #### Status
 ACCEPTED

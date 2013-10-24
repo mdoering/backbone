@@ -1,5 +1,4 @@
-Sphaeria concolor Schwein. SPECIES
-=======
+# Sphaeria concolor Schwein. SPECIES
 
 #### Status
 ACCEPTED

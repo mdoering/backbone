@@ -1,5 +1,4 @@
-Lenzites unguliformis Berk. & M.A. Curtis SPECIES
-=======
+# Lenzites unguliformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

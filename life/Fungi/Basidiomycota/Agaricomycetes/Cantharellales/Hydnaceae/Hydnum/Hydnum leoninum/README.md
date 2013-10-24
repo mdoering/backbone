@@ -1,5 +1,4 @@
-Hydnum leoninum Fr. SPECIES
-=======
+# Hydnum leoninum Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthroderma insingulare A.A. Padhye & J.W. Carmich., 1972 SPECIES
-=======
+# Arthroderma insingulare A.A. Padhye & J.W. Carmich., 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agrocybe dennisii Watling SPECIES
-=======
+# Agrocybe dennisii Watling SPECIES
 
 #### Status
 ACCEPTED

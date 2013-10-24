@@ -1,5 +1,4 @@
-Sphaeria stannea Fr. SPECIES
-=======
+# Sphaeria stannea Fr. SPECIES
 
 #### Status
 ACCEPTED

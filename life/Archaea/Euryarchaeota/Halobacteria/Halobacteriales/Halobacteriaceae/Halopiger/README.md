@@ -1,5 +1,4 @@
-Halopiger Gutiérrez et al., 2007 GENUS
-=======
+# Halopiger Gutiérrez et al., 2007 GENUS
 
 #### Status
 ACCEPTED

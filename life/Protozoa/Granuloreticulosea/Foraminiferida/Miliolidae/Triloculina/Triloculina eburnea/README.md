@@ -1,5 +1,4 @@
-Triloculina eburnea d'Orbigny, 1839 SPECIES
-=======
+# Triloculina eburnea d'Orbigny, 1839 SPECIES
 
 #### Status
 ACCEPTED

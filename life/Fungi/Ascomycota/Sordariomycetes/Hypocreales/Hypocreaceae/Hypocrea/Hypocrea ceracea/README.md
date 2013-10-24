@@ -1,5 +1,4 @@
-Hypocrea ceracea P. Chaverri & Samuels SPECIES
-=======
+# Hypocrea ceracea P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

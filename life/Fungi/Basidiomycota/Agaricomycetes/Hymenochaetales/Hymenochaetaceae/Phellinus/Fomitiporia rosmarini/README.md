@@ -1,5 +1,4 @@
-Fomitiporia rosmarini (Bernicchia) Ghob.-Nejh. & Y.C. Dai SPECIES
-=======
+# Fomitiporia rosmarini (Bernicchia) Ghob.-Nejh. & Y.C. Dai SPECIES
 
 #### Status
 ACCEPTED

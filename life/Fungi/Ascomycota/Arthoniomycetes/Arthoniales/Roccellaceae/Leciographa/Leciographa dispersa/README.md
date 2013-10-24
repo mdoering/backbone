@@ -1,5 +1,4 @@
-Leciographa dispersa Syd. SPECIES
-=======
+# Leciographa dispersa Syd. SPECIES
 
 #### Status
 ACCEPTED

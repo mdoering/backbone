@@ -1,5 +1,4 @@
-Morenoella camphorae (Earle) Theiss. SPECIES
-=======
+# Morenoella camphorae (Earle) Theiss. SPECIES
 
 #### Status
 ACCEPTED

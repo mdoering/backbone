@@ -1,5 +1,4 @@
-Dictyococcites perplexus D. A. Burns SPECIES
-=======
+# Dictyococcites perplexus D. A. Burns SPECIES
 
 #### Status
 ACCEPTED

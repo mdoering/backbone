@@ -1,5 +1,4 @@
-Phyllosticta religiosa Syd. SPECIES
-=======
+# Phyllosticta religiosa Syd. SPECIES
 
 #### Status
 ACCEPTED

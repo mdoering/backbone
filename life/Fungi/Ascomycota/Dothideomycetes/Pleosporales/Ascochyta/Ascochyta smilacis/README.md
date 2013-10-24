@@ -1,5 +1,4 @@
-Ascochyta smilacis Ellis & G. Martin SPECIES
-=======
+# Ascochyta smilacis Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus seriatus (Kalchbr.) Cooke SPECIES
-=======
+# Polystictus seriatus (Kalchbr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

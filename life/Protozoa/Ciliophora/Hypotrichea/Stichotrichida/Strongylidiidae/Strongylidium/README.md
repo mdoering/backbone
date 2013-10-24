@@ -1,5 +1,4 @@
-Strongylidium Sterki, 1878 GENUS
-=======
+# Strongylidium Sterki, 1878 GENUS
 
 #### Status
 ACCEPTED

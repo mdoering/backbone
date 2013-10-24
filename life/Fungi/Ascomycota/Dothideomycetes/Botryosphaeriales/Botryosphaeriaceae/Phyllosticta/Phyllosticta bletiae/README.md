@@ -1,5 +1,4 @@
-Phyllosticta bletiae H. Zimm. SPECIES
-=======
+# Phyllosticta bletiae H. Zimm. SPECIES
 
 #### Status
 ACCEPTED

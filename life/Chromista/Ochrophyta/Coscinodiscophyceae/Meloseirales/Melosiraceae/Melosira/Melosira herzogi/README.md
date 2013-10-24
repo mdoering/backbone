@@ -1,5 +1,4 @@
-Melosira herzogi Lemmermann SPECIES
-=======
+# Melosira herzogi Lemmermann SPECIES
 
 #### Status
 ACCEPTED

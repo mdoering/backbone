@@ -1,8 +1,7 @@
-Trachelonema longicollis Dragesco, 1960 SPECIES
-=======
+# Tracheloraphis longicollis (Dragesco, 1960) Foissner & Dragesco, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

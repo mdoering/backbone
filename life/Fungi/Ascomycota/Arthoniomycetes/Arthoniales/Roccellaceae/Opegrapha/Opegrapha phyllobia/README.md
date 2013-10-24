@@ -1,5 +1,4 @@
-Opegrapha phyllobia Nyl. SPECIES
-=======
+# Opegrapha phyllobia Nyl. SPECIES
 
 #### Status
 ACCEPTED

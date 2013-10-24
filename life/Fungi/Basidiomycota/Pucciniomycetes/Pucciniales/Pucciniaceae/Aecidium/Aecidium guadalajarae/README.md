@@ -1,5 +1,4 @@
-Aecidium guadalajarae Syd. & P. Syd. SPECIES
-=======
+# Aecidium guadalajarae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

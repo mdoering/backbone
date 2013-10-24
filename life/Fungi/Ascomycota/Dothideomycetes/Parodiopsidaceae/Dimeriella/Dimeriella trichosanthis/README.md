@@ -1,5 +1,4 @@
-Dimeriella trichosanthis Tilak SPECIES
-=======
+# Dimeriella trichosanthis Tilak SPECIES
 
 #### Status
 ACCEPTED

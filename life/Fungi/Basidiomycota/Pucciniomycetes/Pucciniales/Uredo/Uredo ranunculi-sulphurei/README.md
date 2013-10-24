@@ -1,5 +1,4 @@
-Uredo ranunculi-sulphurei Jørst. SPECIES
-=======
+# Uredo ranunculi-sulphurei Jørst. SPECIES
 
 #### Status
 ACCEPTED

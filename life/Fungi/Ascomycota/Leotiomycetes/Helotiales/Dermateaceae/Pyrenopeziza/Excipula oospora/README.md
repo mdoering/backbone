@@ -1,5 +1,4 @@
-Excipula oospora Penz. & Sacc. SPECIES
-=======
+# Excipula oospora Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

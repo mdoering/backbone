@@ -1,5 +1,4 @@
-Phoma acanthina Sacc. & Roum. SPECIES
-=======
+# Phoma acanthina Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

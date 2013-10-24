@@ -1,5 +1,4 @@
-Parasonderia Fauré-Fremiet, 1973 GENUS
-=======
+# Parasonderia Fauré-Fremiet, 1973 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sciniatosporium trimerum (Sacc.) Morgan-Jones SPECIES
-=======
+# Sciniatosporium trimerum (Sacc.) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

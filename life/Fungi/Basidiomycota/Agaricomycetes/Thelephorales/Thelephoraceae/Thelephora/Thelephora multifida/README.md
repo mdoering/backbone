@@ -1,5 +1,4 @@
-Thelephora multifida Rabenh. SPECIES
-=======
+# Thelephora multifida Rabenh. SPECIES
 
 #### Status
 ACCEPTED

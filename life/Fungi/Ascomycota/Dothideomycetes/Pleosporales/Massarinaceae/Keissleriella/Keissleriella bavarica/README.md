@@ -1,5 +1,4 @@
-Keissleriella bavarica Butin SPECIES
-=======
+# Keissleriella bavarica Butin SPECIES
 
 #### Status
 ACCEPTED

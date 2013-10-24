@@ -1,17 +1,16 @@
-Leptostromella hysterioides var. hysterioides VARIETY
-=======
+# Leptostromella hysterioides (Fr.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 3: 659 (1884)
 
 #### Original name
-Leptostromella hysterioides var. hysterioides
+Leptostroma hysterioides Fr., 1815
 
 ### Remarks
 null

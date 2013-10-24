@@ -1,5 +1,4 @@
-Oxydothis nontincta J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Oxydothis nontincta J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

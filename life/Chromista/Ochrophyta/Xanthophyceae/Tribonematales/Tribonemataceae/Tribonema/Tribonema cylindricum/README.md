@@ -1,5 +1,4 @@
-Tribonema cylindricum Heering SPECIES
-=======
+# Tribonema cylindricum Heering SPECIES
 
 #### Status
 ACCEPTED

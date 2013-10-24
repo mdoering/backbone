@@ -1,5 +1,4 @@
-Phoma palina (Fr.) Sacc. SPECIES
-=======
+# Phoma palina (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

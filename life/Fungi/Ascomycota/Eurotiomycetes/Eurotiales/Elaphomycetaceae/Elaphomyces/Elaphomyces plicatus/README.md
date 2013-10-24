@@ -1,5 +1,4 @@
-Elaphomyces plicatus R. Hesse SPECIES
-=======
+# Elaphomyces plicatus R. Hesse SPECIES
 
 #### Status
 ACCEPTED

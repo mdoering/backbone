@@ -1,5 +1,4 @@
-Helotium sommierianum Magnus SPECIES
-=======
+# Helotium sommierianum Magnus SPECIES
 
 #### Status
 ACCEPTED

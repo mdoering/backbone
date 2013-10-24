@@ -1,14 +1,13 @@
-Graphis leprocarpa Nyl. SPECIES
-=======
+# Chapsa leprocarpa (Nyl.) Frisch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Soc. Sci. fenn. 7: 472 (1863)
+Biblthca Lichenol. 92: 108 (2006)
 
 #### Original name
 Graphis leprocarpa Nyl.

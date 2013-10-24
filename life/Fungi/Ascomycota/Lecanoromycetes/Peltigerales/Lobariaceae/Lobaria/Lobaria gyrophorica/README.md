@@ -1,5 +1,4 @@
-Lobaria gyrophorica Yoshim. SPECIES
-=======
+# Lobaria gyrophorica Yoshim. SPECIES
 
 #### Status
 ACCEPTED

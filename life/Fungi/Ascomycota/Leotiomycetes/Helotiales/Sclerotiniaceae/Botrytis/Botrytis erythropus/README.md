@@ -1,5 +1,4 @@
-Botrytis erythropus Lév. SPECIES
-=======
+# Botrytis erythropus Lév. SPECIES
 
 #### Status
 ACCEPTED

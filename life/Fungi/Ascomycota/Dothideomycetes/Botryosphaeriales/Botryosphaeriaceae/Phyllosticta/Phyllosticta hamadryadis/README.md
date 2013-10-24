@@ -1,5 +1,4 @@
-Phyllosticta hamadryadis Speg. SPECIES
-=======
+# Phyllosticta hamadryadis Speg. SPECIES
 
 #### Status
 ACCEPTED

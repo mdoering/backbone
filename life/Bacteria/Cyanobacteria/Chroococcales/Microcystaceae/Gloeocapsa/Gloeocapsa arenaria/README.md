@@ -1,5 +1,4 @@
-Gloeocapsa arenaria (Hassall) Rabenhorst SPECIES
-=======
+# Gloeocapsa arenaria (Hassall) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cubaxonium Haeckel, 1887 GENUS
-=======
+# Cubaxonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

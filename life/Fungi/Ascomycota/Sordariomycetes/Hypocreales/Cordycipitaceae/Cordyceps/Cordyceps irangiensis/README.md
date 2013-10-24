@@ -1,5 +1,4 @@
-Cordyceps irangiensis Moureau SPECIES
-=======
+# Cordyceps irangiensis Moureau SPECIES
 
 #### Status
 ACCEPTED

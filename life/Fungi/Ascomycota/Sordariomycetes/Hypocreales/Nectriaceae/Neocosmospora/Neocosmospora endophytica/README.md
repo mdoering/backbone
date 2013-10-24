@@ -1,5 +1,4 @@
-Neocosmospora endophytica Polishook, Bills & Rossman SPECIES
-=======
+# Neocosmospora endophytica Polishook, Bills & Rossman SPECIES
 
 #### Status
 ACCEPTED

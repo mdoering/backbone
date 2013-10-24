@@ -1,5 +1,4 @@
-Lecanora mobergiana Lumbsch & Elix SPECIES
-=======
+# Lecanora mobergiana Lumbsch & Elix SPECIES
 
 #### Status
 ACCEPTED

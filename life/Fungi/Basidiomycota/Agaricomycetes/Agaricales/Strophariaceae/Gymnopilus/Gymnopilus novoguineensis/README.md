@@ -1,5 +1,4 @@
-Gymnopilus novoguineensis Hongo SPECIES
-=======
+# Gymnopilus novoguineensis Hongo SPECIES
 
 #### Status
 ACCEPTED

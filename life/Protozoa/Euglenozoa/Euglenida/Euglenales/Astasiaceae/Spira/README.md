@@ -1,5 +1,4 @@
-Spira B.V. Skvortzov, 1969 GENUS
-=======
+# Spira B.V. Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

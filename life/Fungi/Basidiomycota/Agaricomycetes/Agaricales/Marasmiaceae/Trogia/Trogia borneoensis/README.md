@@ -1,5 +1,4 @@
-Trogia borneoensis Lloyd SPECIES
-=======
+# Trogia borneoensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

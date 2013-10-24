@@ -1,5 +1,4 @@
-Lecidea fuscorussa Hue SPECIES
-=======
+# Lecidea fuscorussa Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Janetia leprosa (Piroz.) S. Hughes SPECIES
-=======
+# Janetia leprosa (Piroz.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

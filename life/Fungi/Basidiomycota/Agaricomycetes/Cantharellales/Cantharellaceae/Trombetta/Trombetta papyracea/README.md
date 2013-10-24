@@ -1,5 +1,4 @@
-Trombetta papyracea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Trombetta papyracea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

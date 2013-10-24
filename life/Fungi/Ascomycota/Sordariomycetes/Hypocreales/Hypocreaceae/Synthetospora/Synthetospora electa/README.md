@@ -1,5 +1,4 @@
-Synthetospora electa Morgan SPECIES
-=======
+# Synthetospora electa Morgan SPECIES
 
 #### Status
 ACCEPTED

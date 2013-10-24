@@ -1,5 +1,4 @@
-Odontia sacchari Burt SPECIES
-=======
+# Odontia sacchari Burt SPECIES
 
 #### Status
 ACCEPTED

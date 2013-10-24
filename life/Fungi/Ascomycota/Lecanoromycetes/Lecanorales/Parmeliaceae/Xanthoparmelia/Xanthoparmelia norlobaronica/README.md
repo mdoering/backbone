@@ -1,5 +1,4 @@
-Xanthoparmelia norlobaronica Hale SPECIES
-=======
+# Xanthoparmelia norlobaronica Hale SPECIES
 
 #### Status
 ACCEPTED

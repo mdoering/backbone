@@ -1,5 +1,4 @@
-Ptychostomum chattoni SPECIES
-=======
+# Ptychostomum chattoni SPECIES
 
 #### Status
 ACCEPTED

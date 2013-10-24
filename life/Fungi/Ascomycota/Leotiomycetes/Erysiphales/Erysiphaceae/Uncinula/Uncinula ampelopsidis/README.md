@@ -1,5 +1,4 @@
-Uncinula ampelopsidis Peck SPECIES
-=======
+# Uncinula ampelopsidis Peck SPECIES
 
 #### Status
 ACCEPTED

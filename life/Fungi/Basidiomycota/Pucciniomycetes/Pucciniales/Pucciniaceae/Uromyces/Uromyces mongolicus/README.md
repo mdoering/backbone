@@ -1,5 +1,4 @@
-Uromyces mongolicus U. Braun & G. Hirsch SPECIES
-=======
+# Uromyces mongolicus U. Braun & G. Hirsch SPECIES
 
 #### Status
 ACCEPTED

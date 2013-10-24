@@ -1,5 +1,4 @@
-Choreospora Constant. & R. Sant. GENUS
-=======
+# Choreospora Constant. & R. Sant. GENUS
 
 #### Status
 ACCEPTED

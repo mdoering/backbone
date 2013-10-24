@@ -1,5 +1,4 @@
-Phyllosticta pollaccii A. Agostini SPECIES
-=======
+# Phyllosticta pollaccii A. Agostini SPECIES
 
 #### Status
 ACCEPTED

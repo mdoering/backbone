@@ -1,5 +1,4 @@
-Globorotalitidae Loeblich & Tappan, 1984 FAMILY
-=======
+# Globorotalitidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

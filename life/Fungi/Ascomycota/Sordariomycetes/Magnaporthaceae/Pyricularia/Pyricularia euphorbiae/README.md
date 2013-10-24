@@ -1,14 +1,13 @@
-Piricularia euphorbiae (Tracy & Earle) G.F. Atk. SPECIES
-=======
+# Pyricularia euphorbiae (Tracy & Earle) G.F. Atk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin of Cornell University 3: 40 (1897)
 
 #### Original name
 Scolicotrichum euphorbiae Tracy & Earle

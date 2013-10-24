@@ -1,5 +1,4 @@
-Rinodina griseofusca SPECIES
-=======
+# Rinodina griseofusca SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina sonorensis Kashiw. & T. H. Nash SPECIES
-=======
+# Ramalina sonorensis Kashiw. & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

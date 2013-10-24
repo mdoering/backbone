@@ -1,5 +1,4 @@
-Tepidicella xavieri França et al., 2006 SPECIES
-=======
+# Tepidicella xavieri França et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

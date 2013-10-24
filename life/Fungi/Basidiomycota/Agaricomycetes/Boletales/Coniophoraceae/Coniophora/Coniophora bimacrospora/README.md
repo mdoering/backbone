@@ -1,5 +1,4 @@
-Coniophora bimacrospora Decock, Bitew & G. Castillo SPECIES
-=======
+# Coniophora bimacrospora Decock, Bitew & G. Castillo SPECIES
 
 #### Status
 ACCEPTED

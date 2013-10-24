@@ -1,5 +1,4 @@
-Phyllosticta durmitorensis Bubák SPECIES
-=======
+# Phyllosticta durmitorensis Bubák SPECIES
 
 #### Status
 ACCEPTED

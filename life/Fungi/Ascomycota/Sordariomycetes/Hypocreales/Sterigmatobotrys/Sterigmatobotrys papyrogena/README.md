@@ -1,5 +1,4 @@
-Sterigmatobotrys papyrogena (Sacc.) Oudem. SPECIES
-=======
+# Sterigmatobotrys papyrogena (Sacc.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

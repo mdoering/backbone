@@ -1,5 +1,4 @@
-Puccinia impatientis-uliginosae F.L. Tai SPECIES
-=======
+# Puccinia impatientis-uliginosae F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

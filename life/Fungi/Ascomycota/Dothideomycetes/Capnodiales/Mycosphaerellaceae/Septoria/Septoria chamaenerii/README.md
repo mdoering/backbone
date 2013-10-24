@@ -1,5 +1,4 @@
-Septoria chamaenerii Pass. SPECIES
-=======
+# Septoria chamaenerii Pass. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collaria GENUS
-=======
+# Collaria GENUS
 
 #### Status
 ACCEPTED

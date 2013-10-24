@@ -1,5 +1,4 @@
-Acarospora scaberrima Hue SPECIES
-=======
+# Acarospora scaberrima Hue SPECIES
 
 #### Status
 ACCEPTED

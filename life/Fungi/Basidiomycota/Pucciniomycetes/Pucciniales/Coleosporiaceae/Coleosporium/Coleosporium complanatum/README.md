@@ -1,5 +1,4 @@
-Coleosporium complanatum Barclay SPECIES
-=======
+# Coleosporium complanatum Barclay SPECIES
 
 #### Status
 ACCEPTED

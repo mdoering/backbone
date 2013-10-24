@@ -1,5 +1,4 @@
-Biatora rupestris f. rupestris FORM
-=======
+# Biatora rupestris SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatora rupestris f. rupestris
+null
 
 ### Remarks
 null

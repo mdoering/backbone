@@ -1,5 +1,4 @@
-Ocellularia homothecia (Vain.) Zahlbr. SPECIES
-=======
+# Ocellularia homothecia (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

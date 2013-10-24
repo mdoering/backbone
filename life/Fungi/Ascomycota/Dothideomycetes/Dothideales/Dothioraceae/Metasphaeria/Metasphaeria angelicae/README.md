@@ -1,5 +1,4 @@
-Metasphaeria angelicae Rostr. SPECIES
-=======
+# Metasphaeria angelicae Rostr. SPECIES
 
 #### Status
 ACCEPTED

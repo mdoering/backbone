@@ -1,5 +1,4 @@
-Achlya sparrowii Reischer, 1949 SPECIES
-=======
+# Achlya sparrowii Reischer, 1949 SPECIES
 
 #### Status
 ACCEPTED

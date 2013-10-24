@@ -1,5 +1,4 @@
-Pleurotus blakei (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus blakei (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

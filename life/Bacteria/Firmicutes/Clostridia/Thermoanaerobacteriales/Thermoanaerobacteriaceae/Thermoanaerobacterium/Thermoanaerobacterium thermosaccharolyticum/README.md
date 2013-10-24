@@ -1,11 +1,10 @@
-Therminosporus thermosaccharolyticus (McClung, 1935) Prévot, 1938 SPECIES
-=======
+# Thermoanaerobacterium thermosaccharolyticum (McClung, 1935) Collins et al., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

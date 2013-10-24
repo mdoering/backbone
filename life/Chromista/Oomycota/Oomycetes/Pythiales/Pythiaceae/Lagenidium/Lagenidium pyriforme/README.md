@@ -1,5 +1,4 @@
-Lagenidium pyriforme S.N. Dasgupta & R. John SPECIES
-=======
+# Lagenidium pyriforme S.N. Dasgupta & R. John SPECIES
 
 #### Status
 ACCEPTED

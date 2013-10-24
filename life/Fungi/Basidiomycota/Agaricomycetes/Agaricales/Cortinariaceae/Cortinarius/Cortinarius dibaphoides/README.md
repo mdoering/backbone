@@ -1,5 +1,4 @@
-Cortinarius dibaphoides (E. Horak) Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius dibaphoides (E. Horak) Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

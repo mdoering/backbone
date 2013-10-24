@@ -1,5 +1,4 @@
-Aquifex pyrophilus Huber & Stetter, 1992 SPECIES
-=======
+# Aquifex pyrophilus Huber & Stetter, 1992 SPECIES
 
 #### Status
 ACCEPTED

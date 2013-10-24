@@ -1,5 +1,4 @@
-Lecidea pseudophana Nyl. SPECIES
-=======
+# Lecidea pseudophana Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holophrya lateralis Kent, 1881 SPECIES
-=======
+# Holophrya lateralis Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

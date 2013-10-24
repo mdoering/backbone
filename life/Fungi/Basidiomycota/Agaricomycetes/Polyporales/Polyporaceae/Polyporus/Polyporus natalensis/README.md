@@ -1,5 +1,4 @@
-Polyporus natalensis (Fr.) Sacc. SPECIES
-=======
+# Polyporus natalensis (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

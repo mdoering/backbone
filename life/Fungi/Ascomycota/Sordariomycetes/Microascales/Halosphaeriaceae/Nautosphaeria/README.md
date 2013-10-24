@@ -1,5 +1,4 @@
-Nautosphaeria E.B.G. Jones GENUS
-=======
+# Nautosphaeria E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

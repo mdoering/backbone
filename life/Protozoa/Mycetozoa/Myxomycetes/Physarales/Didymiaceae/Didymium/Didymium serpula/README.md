@@ -1,17 +1,16 @@
-Physarum cinereum var. complanatum (Batsch) Pers. VARIETY
-=======
+# Didymium serpula Fr., 1829 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) 1: 170 (1801)
+Syst. mycol. (Lundae) 3(1): 126 (1829)
 
 #### Original name
-Lycoperdon complanatum Batsch
+Didymium serpula Fr., 1829
 
 ### Remarks
 null

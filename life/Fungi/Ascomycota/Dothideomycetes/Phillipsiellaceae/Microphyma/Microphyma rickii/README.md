@@ -1,5 +1,4 @@
-Microphyma rickii Rehm SPECIES
-=======
+# Microphyma rickii Rehm SPECIES
 
 #### Status
 ACCEPTED

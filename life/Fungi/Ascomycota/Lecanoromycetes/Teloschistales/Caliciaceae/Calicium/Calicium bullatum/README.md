@@ -1,5 +1,4 @@
-Calicium bullatum Aptroot & Tibell SPECIES
-=======
+# Calicium bullatum Aptroot & Tibell SPECIES
 
 #### Status
 ACCEPTED

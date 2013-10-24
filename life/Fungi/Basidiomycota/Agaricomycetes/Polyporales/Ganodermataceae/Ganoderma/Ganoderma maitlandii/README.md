@@ -1,5 +1,4 @@
-Ganoderma maitlandii var. maitlandii VARIETY
-=======
+# Ganoderma maitlandii Steyaert SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Jard. bot. État Brux. 31: 77 (1961)
 
 #### Original name
-Ganoderma maitlandii var. maitlandii
+Ganoderma maitlandii Steyaert
 
 ### Remarks
 null

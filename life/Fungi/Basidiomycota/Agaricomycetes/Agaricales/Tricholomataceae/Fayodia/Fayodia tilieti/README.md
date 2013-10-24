@@ -1,5 +1,4 @@
-Fayodia tilieti Singer SPECIES
-=======
+# Fayodia tilieti Singer SPECIES
 
 #### Status
 ACCEPTED

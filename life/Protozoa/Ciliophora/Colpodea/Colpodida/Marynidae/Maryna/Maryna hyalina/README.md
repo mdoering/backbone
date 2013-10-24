@@ -1,5 +1,4 @@
-Maryna hyalina Dingfelder, 1962 SPECIES
-=======
+# Maryna hyalina Dingfelder, 1962 SPECIES
 
 #### Status
 ACCEPTED

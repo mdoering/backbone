@@ -1,5 +1,4 @@
-Cortinarius griseofuscescens Rob. Henry SPECIES
-=======
+# Cortinarius griseofuscescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis irosina Vain. SPECIES
-=======
+# Graphis irosina Vain. SPECIES
 
 #### Status
 ACCEPTED

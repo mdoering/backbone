@@ -1,5 +1,4 @@
-Phyllosticta morifolia Pass. SPECIES
-=======
+# Phyllosticta morifolia Pass. SPECIES
 
 #### Status
 ACCEPTED

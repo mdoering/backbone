@@ -1,5 +1,4 @@
-Trapelia lilacea Kantvilas & Elix SPECIES
-=======
+# Trapelia lilacea Kantvilas & Elix SPECIES
 
 #### Status
 ACCEPTED

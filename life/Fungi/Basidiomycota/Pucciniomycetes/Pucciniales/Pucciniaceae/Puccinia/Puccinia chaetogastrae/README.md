@@ -1,5 +1,4 @@
-Puccinia chaetogastrae Lagerh. SPECIES
-=======
+# Puccinia chaetogastrae Lagerh. SPECIES
 
 #### Status
 ACCEPTED

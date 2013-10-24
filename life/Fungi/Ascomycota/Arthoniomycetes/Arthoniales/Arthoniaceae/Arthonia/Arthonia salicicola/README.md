@@ -1,5 +1,4 @@
-Arthonia salicicola Nyl. SPECIES
-=======
+# Arthonia salicicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

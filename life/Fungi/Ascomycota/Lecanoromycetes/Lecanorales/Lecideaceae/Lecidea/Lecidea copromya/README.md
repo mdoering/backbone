@@ -1,5 +1,4 @@
-Lecidea copromya (A. Massal.) Jatta SPECIES
-=======
+# Lecidea copromya (A. Massal.) Jatta SPECIES
 
 #### Status
 ACCEPTED

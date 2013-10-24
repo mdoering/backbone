@@ -1,5 +1,4 @@
-Amanita siamensis Sanmee, Zhu L. Yang, P. Lumyong & Lumyong SPECIES
-=======
+# Amanita siamensis Sanmee, Zhu L. Yang, P. Lumyong & Lumyong SPECIES
 
 #### Status
 ACCEPTED

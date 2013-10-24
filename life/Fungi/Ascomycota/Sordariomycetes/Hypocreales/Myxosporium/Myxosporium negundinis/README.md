@@ -1,5 +1,4 @@
-Myxosporium negundinis Oudem. SPECIES
-=======
+# Myxosporium negundinis Oudem. SPECIES
 
 #### Status
 ACCEPTED

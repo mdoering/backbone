@@ -1,5 +1,4 @@
-Buellia mycetoides Anzi SPECIES
-=======
+# Buellia mycetoides Anzi SPECIES
 
 #### Status
 ACCEPTED

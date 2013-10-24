@@ -1,5 +1,4 @@
-Pleospora baccharidis Koshk. & Frolov SPECIES
-=======
+# Pleospora baccharidis Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

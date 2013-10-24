@@ -1,5 +1,4 @@
-Amanitopsis villosa Peck SPECIES
-=======
+# Amanitopsis villosa Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichia australis S.K. Bose, 1961 SPECIES
-=======
+# Herpotrichia australis S.K. Bose, 1961 SPECIES
 
 #### Status
 ACCEPTED

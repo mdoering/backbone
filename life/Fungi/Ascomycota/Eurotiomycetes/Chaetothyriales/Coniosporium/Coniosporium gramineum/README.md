@@ -1,5 +1,4 @@
-Coniosporium gramineum (Ellis & Everh.) Sacc. SPECIES
-=======
+# Coniosporium gramineum (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

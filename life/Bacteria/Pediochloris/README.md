@@ -1,5 +1,4 @@
-Pediochloris Geitler GENUS
-=======
+# Pediochloris Geitler GENUS
 
 #### Status
 ACCEPTED

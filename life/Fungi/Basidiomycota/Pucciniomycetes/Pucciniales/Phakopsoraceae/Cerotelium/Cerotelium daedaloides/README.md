@@ -1,5 +1,4 @@
-Cerotelium daedaloides Cummins SPECIES
-=======
+# Cerotelium daedaloides Cummins SPECIES
 
 #### Status
 ACCEPTED

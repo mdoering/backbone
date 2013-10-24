@@ -1,17 +1,16 @@
-Sistotrema commune J. Erikss., 1949 SPECIES
-=======
+# Sistotrema octosporum (J. Schröt. ex Höhn. & Litsch.) Hallenb., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Svensk bot. Tidskr. 43: 312 (1949)
+in Eriksson, Hjortstam & Ryvarden, Cortic. N. Eur. (Oslo) 7: 1349 (1984)
 
 #### Original name
-Sistotrema commune J. Erikss., 1949
+null
 
 ### Remarks
 null

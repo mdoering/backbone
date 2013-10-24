@@ -1,5 +1,4 @@
-Calycellina guttulifera Svrcek SPECIES
-=======
+# Calycellina guttulifera Svrcek SPECIES
 
 #### Status
 ACCEPTED

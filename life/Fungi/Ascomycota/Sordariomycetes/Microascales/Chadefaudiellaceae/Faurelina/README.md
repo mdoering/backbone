@@ -1,5 +1,4 @@
-Faurelina Locq.-Lin. GENUS
-=======
+# Faurelina Locq.-Lin. GENUS
 
 #### Status
 ACCEPTED

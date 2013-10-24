@@ -1,5 +1,4 @@
-Amanita squamosa (Massee) Corner & Bas SPECIES
-=======
+# Amanita squamosa (Massee) Corner & Bas SPECIES
 
 #### Status
 ACCEPTED

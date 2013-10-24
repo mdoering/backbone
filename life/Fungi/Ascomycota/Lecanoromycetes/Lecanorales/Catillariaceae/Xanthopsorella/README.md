@@ -1,5 +1,4 @@
-Xanthopsorella Kalb & Hafellner GENUS
-=======
+# Xanthopsorella Kalb & Hafellner GENUS
 
 #### Status
 ACCEPTED

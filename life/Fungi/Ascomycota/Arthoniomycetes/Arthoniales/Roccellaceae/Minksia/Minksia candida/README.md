@@ -1,5 +1,4 @@
-Minksia candida Müll. Arg. SPECIES
-=======
+# Minksia candida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

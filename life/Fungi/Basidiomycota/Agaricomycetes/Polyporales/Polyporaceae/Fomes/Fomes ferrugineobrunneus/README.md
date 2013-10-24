@@ -1,5 +1,4 @@
-Fomes ferrugineobrunneus Cout. SPECIES
-=======
+# Fomes ferrugineobrunneus Cout. SPECIES
 
 #### Status
 ACCEPTED

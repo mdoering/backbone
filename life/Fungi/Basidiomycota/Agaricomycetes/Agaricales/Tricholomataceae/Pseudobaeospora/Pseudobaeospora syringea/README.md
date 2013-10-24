@@ -1,5 +1,4 @@
-Pseudobaeospora syringea Singer SPECIES
-=======
+# Pseudobaeospora syringea Singer SPECIES
 
 #### Status
 ACCEPTED

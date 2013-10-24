@@ -1,5 +1,4 @@
-Cortinarius porphyreticus Moënne-Locc. SPECIES
-=======
+# Cortinarius porphyreticus Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

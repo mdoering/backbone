@@ -1,5 +1,4 @@
-Diplodia elaeagni Pass. SPECIES
-=======
+# Diplodia elaeagni Pass. SPECIES
 
 #### Status
 ACCEPTED

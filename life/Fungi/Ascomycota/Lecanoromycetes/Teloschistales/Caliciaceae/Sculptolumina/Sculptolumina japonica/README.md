@@ -1,14 +1,13 @@
-Lecidea japonica Tuck. SPECIES
-=======
+# Sculptolumina japonica (Tuck.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 296 (2000)
 
 #### Original name
 Lecidea japonica Tuck.

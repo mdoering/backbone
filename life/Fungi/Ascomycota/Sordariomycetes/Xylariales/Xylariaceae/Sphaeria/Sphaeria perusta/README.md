@@ -1,5 +1,4 @@
-Sphaeria perusta Berk. & Broome SPECIES
-=======
+# Sphaeria perusta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

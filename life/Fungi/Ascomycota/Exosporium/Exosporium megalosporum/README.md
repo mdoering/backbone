@@ -1,5 +1,4 @@
-Exosporium megalosporum Penz. & Sacc. SPECIES
-=======
+# Exosporium megalosporum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

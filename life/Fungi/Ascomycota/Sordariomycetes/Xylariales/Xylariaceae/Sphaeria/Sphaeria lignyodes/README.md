@@ -1,5 +1,4 @@
-Sphaeria lignyodes Berk. & Broome SPECIES
-=======
+# Sphaeria lignyodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

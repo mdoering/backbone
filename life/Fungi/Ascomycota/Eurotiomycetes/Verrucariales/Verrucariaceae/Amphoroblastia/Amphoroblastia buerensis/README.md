@@ -1,5 +1,4 @@
-Amphoroblastia buerensis (Zschacke) Servít SPECIES
-=======
+# Amphoroblastia buerensis (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia olympiana A.H. Sm. SPECIES
-=======
+# Collybia olympiana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

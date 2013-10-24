@@ -1,5 +1,4 @@
-Polyporus hispoides Peck SPECIES
-=======
+# Polyporus hispoides Peck SPECIES
 
 #### Status
 ACCEPTED

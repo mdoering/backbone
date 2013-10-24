@@ -1,5 +1,4 @@
-Cheiromyces ananthgiriensis Manohar., N.K. Rao, Kunwar & D.K. Agarwal SPECIES
-=======
+# Cheiromyces ananthgiriensis Manohar., N.K. Rao, Kunwar & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

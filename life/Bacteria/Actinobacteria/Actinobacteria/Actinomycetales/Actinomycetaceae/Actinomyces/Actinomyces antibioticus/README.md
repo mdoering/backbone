@@ -1,5 +1,4 @@
-Actinomyces antibioticus Waksman SPECIES
-=======
+# Actinomyces antibioticus Waksman SPECIES
 
 #### Status
 ACCEPTED

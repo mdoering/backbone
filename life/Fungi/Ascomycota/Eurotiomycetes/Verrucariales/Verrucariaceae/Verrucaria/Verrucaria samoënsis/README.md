@@ -1,5 +1,4 @@
-Verrucaria samoënsis Zahlbr. SPECIES
-=======
+# Verrucaria samoënsis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella gardeniae Henn. SPECIES
-=======
+# Hypocrella gardeniae Henn. SPECIES
 
 #### Status
 ACCEPTED

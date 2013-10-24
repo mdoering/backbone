@@ -1,17 +1,16 @@
-Verrucaria kernstockii var. kernstockii VARIETY
-=======
+# Hydropunctaria rheitrophila (Zschacke) Keller, Gueidan & Thüs SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Verrucaria kernstockii var. kernstockii
+null
 
 ### Remarks
 null

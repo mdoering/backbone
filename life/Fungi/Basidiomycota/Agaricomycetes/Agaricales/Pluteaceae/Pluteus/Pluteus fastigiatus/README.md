@@ -1,5 +1,4 @@
-Pluteus fastigiatus Singer SPECIES
-=======
+# Pluteus fastigiatus Singer SPECIES
 
 #### Status
 ACCEPTED

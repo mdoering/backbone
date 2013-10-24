@@ -1,5 +1,4 @@
-Lentinus dorsalis (Bosc) Henn. SPECIES
-=======
+# Lentinus dorsalis (Bosc) Henn. SPECIES
 
 #### Status
 ACCEPTED

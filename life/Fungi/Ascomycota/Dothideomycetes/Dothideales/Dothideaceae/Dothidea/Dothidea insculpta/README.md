@@ -1,14 +1,13 @@
-Dothidella insculpta (Wallr.) Theiss. & Syd., 1915 SPECIES
-=======
+# Dothidea insculpta Wallr., 1833 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(3/4): 310 (1915)
+Fl. crypt. Germ. (Nürnberg) 2: 864 (1833)
 
 #### Original name
 Dothidea insculpta Wallr., 1833

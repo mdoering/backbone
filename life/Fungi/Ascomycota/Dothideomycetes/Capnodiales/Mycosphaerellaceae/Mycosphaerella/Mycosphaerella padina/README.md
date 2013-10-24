@@ -1,5 +1,4 @@
-Mycosphaerella padina (P. Karst.) Jørst. SPECIES
-=======
+# Mycosphaerella padina (P. Karst.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

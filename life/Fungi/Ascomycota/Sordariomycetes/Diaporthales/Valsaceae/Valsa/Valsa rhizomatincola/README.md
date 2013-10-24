@@ -1,5 +1,4 @@
-Valsa rhizomatincola Kirschst. SPECIES
-=======
+# Valsa rhizomatincola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

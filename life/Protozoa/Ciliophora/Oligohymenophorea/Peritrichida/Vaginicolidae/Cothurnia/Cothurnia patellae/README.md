@@ -1,5 +1,4 @@
-Cothurnia patellae Hutton, 1878 SPECIES
-=======
+# Cothurnia patellae Hutton, 1878 SPECIES
 
 #### Status
 ACCEPTED

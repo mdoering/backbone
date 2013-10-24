@@ -1,5 +1,4 @@
-Dickeya dianthicola Samson et al., 2005 SPECIES
-=======
+# Dickeya dianthicola Samson et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

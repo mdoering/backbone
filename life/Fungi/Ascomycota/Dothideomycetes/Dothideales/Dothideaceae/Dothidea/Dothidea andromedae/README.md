@@ -1,5 +1,4 @@
-Dothidea andromedae Heer SPECIES
-=======
+# Dothidea andromedae Heer SPECIES
 
 #### Status
 ACCEPTED

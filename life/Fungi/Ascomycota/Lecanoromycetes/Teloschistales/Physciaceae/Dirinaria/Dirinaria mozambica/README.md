@@ -1,5 +1,4 @@
-Dirinaria mozambica C.W. Dodge SPECIES
-=======
+# Dirinaria mozambica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

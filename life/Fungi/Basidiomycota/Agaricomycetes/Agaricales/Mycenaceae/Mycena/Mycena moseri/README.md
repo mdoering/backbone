@@ -1,5 +1,4 @@
-Mycena moseri Robich & Carassai SPECIES
-=======
+# Mycena moseri Robich & Carassai SPECIES
 
 #### Status
 ACCEPTED

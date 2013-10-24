@@ -1,5 +1,4 @@
-Coronophora fallax Sacc., E. Bommer & M. Rousseau SPECIES
-=======
+# Coronophora fallax Sacc., E. Bommer & M. Rousseau SPECIES
 
 #### Status
 ACCEPTED

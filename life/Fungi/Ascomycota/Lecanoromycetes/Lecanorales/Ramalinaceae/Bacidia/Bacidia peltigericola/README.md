@@ -1,5 +1,4 @@
-Bacidia peltigericola Vain. SPECIES
-=======
+# Bacidia peltigericola Vain. SPECIES
 
 #### Status
 ACCEPTED

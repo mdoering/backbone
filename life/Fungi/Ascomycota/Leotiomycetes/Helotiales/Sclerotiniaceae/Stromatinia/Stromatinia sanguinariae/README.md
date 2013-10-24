@@ -1,5 +1,4 @@
-Stromatinia sanguinariae J.W. Groves & M.E. Elliott SPECIES
-=======
+# Stromatinia sanguinariae J.W. Groves & M.E. Elliott SPECIES
 
 #### Status
 ACCEPTED

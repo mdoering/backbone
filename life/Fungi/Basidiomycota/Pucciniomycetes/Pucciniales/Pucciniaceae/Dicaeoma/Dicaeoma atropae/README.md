@@ -1,5 +1,4 @@
-Dicaeoma atropae (Mont.) Kuntze SPECIES
-=======
+# Dicaeoma atropae (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

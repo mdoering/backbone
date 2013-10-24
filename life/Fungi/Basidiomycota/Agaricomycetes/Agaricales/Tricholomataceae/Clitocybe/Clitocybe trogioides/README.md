@@ -1,5 +1,4 @@
-Clitocybe trogioides var. trogioides VARIETY
-=======
+# Clitocybe trogioides Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia, Beih. 109: 126 (1994)
 
 #### Original name
-Clitocybe trogioides var. trogioides
+Clitocybe trogioides Corner
 
 ### Remarks
 null

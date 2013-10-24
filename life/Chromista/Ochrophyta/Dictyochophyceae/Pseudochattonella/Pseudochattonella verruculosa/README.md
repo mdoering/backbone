@@ -1,5 +1,4 @@
-Pseudochattonella verruculosa (Hara & Chihara) Tanabe-Hosoi, Honda, Fukuya, Inagaki & Sako, 2007 SPECIES
-=======
+# Pseudochattonella verruculosa (Hara & Chihara) Tanabe-Hosoi, Honda, Fukuya, Inagaki & Sako, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces elegans (Berk. & M.A. Curtis) Lagerh. SPECIES
-=======
+# Uromyces elegans (Berk. & M.A. Curtis) Lagerh. SPECIES
 
 #### Status
 ACCEPTED

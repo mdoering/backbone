@@ -1,8 +1,7 @@
-Fenestella subcaespitosa (G.H. Otth) M.E. Barr, 1974 SPECIES
-=======
+# Cucurbitaria subcaespitosa G.H. Otth SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

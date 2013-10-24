@@ -1,5 +1,4 @@
-Zignoëlla rhodostacheos Speg. SPECIES
-=======
+# Zignoëlla rhodostacheos Speg. SPECIES
 
 #### Status
 ACCEPTED

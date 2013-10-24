@@ -1,5 +1,4 @@
-Jaculispora H.J. Huds. & Ingold GENUS
-=======
+# Jaculispora H.J. Huds. & Ingold GENUS
 
 #### Status
 ACCEPTED

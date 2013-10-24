@@ -1,5 +1,4 @@
-Diaporthe gloriosa Sacc. & Speg. SPECIES
-=======
+# Diaporthe gloriosa Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria pelliculosa Beeli SPECIES
-=======
+# Armillaria pelliculosa Beeli SPECIES
 
 #### Status
 ACCEPTED

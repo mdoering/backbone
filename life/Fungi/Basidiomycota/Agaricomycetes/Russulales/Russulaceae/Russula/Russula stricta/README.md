@@ -1,5 +1,4 @@
-Russula stricta Murrill SPECIES
-=======
+# Russula stricta Murrill SPECIES
 
 #### Status
 ACCEPTED

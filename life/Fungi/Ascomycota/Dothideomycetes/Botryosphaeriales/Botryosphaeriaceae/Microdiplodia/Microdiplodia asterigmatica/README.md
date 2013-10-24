@@ -1,5 +1,4 @@
-Microdiplodia asterigmatica (Vestergr.) Tassi SPECIES
-=======
+# Microdiplodia asterigmatica (Vestergr.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrophoma crastophila Sacc. SPECIES
-=======
+# Dendrophoma crastophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

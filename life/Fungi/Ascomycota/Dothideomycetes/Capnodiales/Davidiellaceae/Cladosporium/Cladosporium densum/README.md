@@ -1,5 +1,4 @@
-Cladosporium densum Sacc. SPECIES
-=======
+# Cladosporium densum Sacc. SPECIES
 
 #### Status
 ACCEPTED

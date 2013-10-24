@@ -1,5 +1,4 @@
-Cryptothecia cretacea Groenh. SPECIES
-=======
+# Cryptothecia cretacea Groenh. SPECIES
 
 #### Status
 ACCEPTED

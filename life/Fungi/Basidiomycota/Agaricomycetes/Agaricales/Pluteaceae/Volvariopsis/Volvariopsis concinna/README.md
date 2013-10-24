@@ -1,5 +1,4 @@
-Volvariopsis concinna (Clem.) Murrill SPECIES
-=======
+# Volvariopsis concinna (Clem.) Murrill SPECIES
 
 #### Status
 ACCEPTED

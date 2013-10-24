@@ -1,17 +1,16 @@
-Physarum lividum var. conglobatum Rostaf. VARIETY
-=======
+# Physarum licheniforme (Schwein.) Lado, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz) 96 (1875)
+Cuadernos de Trabajo de Flora Micológica Ibérica (Madrid) 16: 70 (2001)
 
 #### Original name
-Physarum conglobatum Fr., 1818
+Spumaria licheniformis Schwein., 1832
 
 ### Remarks
 null

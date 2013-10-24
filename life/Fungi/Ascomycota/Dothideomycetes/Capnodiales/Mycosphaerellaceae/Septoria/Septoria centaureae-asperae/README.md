@@ -1,5 +1,4 @@
-Septoria centaureae-asperae Unamuno SPECIES
-=======
+# Septoria centaureae-asperae Unamuno SPECIES
 
 #### Status
 ACCEPTED

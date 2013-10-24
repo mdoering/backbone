@@ -1,5 +1,4 @@
-Polyporus hydnatinus (Bosc) Fr. SPECIES
-=======
+# Polyporus hydnatinus (Bosc) Fr. SPECIES
 
 #### Status
 ACCEPTED

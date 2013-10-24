@@ -1,5 +1,4 @@
-Sticta rubrireagens SPECIES
-=======
+# Sticta rubrireagens SPECIES
 
 #### Status
 ACCEPTED

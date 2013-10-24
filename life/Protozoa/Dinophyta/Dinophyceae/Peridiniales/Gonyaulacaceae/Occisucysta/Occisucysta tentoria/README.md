@@ -1,5 +1,4 @@
-Occisucysta tentoria Duxbury, 1977 SPECIES
-=======
+# Occisucysta tentoria Duxbury, 1977 SPECIES
 
 #### Status
 ACCEPTED

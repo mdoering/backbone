@@ -1,5 +1,4 @@
-Dactylaria cannae Sawada SPECIES
-=======
+# Dactylaria cannae Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pulvinula minor M.H. Liu SPECIES
-=======
+# Pulvinula minor M.H. Liu SPECIES
 
 #### Status
 ACCEPTED

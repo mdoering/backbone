@@ -1,5 +1,4 @@
-Romellina Petr. GENUS
-=======
+# Romellina Petr. GENUS
 
 #### Status
 ACCEPTED

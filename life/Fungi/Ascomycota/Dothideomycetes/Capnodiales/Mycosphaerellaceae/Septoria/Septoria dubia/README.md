@@ -1,5 +1,4 @@
-Septoria dubia Sacc. & P. Syd. SPECIES
-=======
+# Septoria dubia Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybiopsis GENUS
-=======
+# Collybiopsis GENUS
 
 #### Status
 ACCEPTED

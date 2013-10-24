@@ -1,5 +1,4 @@
-Trenomyces australis Speg. SPECIES
-=======
+# Trenomyces australis Speg. SPECIES
 
 #### Status
 ACCEPTED

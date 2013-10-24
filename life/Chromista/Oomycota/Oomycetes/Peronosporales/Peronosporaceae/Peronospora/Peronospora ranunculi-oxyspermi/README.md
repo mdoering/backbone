@@ -1,5 +1,4 @@
-Peronospora ranunculi-oxyspermi Jacz. & Sergeeva SPECIES
-=======
+# Peronospora ranunculi-oxyspermi Jacz. & Sergeeva SPECIES
 
 #### Status
 ACCEPTED

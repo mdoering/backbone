@@ -1,5 +1,4 @@
-Corythodinium belgicae (Meunier, 1910) Taylor, 1976 SPECIES
-=======
+# Corythodinium belgicae (Meunier, 1910) Taylor, 1976 SPECIES
 
 #### Status
 ACCEPTED

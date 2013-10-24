@@ -1,5 +1,4 @@
-Pleospora dolioloides Fuckel SPECIES
-=======
+# Pleospora dolioloides Fuckel SPECIES
 
 #### Status
 ACCEPTED

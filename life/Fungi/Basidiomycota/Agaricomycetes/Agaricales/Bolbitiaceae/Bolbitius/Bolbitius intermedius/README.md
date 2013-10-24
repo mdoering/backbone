@@ -1,5 +1,4 @@
-Bolbitius intermedius (Coker) Watling SPECIES
-=======
+# Bolbitius intermedius (Coker) Watling SPECIES
 
 #### Status
 ACCEPTED

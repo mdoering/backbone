@@ -1,14 +1,13 @@
-Terana convolvens (P. Karst.) Kuntze, 1891 SPECIES
-=======
+# Gloeocystidiellum convolvens (P. Karst.) Donk, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Fungus, Wageningen 26(1-4): 9 (1956)
 
 #### Original name
 null

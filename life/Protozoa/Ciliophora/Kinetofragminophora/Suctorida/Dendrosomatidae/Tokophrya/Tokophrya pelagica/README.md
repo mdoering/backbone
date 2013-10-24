@@ -1,5 +1,4 @@
-Tokophrya pelagica (Jankowski, 1982) Dovgal, 2002 SPECIES
-=======
+# Tokophrya pelagica (Jankowski, 1982) Dovgal, 2002 SPECIES
 
 #### Status
 ACCEPTED

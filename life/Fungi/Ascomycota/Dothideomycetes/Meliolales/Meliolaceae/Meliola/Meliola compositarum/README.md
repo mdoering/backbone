@@ -1,5 +1,4 @@
-Meliola compositarum Earle SPECIES
-=======
+# Meliola compositarum Earle SPECIES
 
 #### Status
 ACCEPTED

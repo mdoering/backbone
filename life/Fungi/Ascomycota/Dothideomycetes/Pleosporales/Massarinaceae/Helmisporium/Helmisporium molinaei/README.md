@@ -1,5 +1,4 @@
-Helmisporium molinaei Brond. SPECIES
-=======
+# Helmisporium molinaei Brond. SPECIES
 
 #### Status
 ACCEPTED

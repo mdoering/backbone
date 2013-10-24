@@ -1,5 +1,4 @@
-Sphaeria galeobdolonis Kirchn. SPECIES
-=======
+# Sphaeria galeobdolonis Kirchn. SPECIES
 
 #### Status
 ACCEPTED

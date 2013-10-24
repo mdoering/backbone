@@ -1,5 +1,4 @@
-Epipyxis anglica D. K. Hilliard SPECIES
-=======
+# Epipyxis anglica D. K. Hilliard SPECIES
 
 #### Status
 ACCEPTED

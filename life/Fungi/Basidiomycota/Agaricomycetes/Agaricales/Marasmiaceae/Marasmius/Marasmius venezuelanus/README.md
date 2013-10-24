@@ -1,5 +1,4 @@
-Marasmius venezuelanus Dennis SPECIES
-=======
+# Marasmius venezuelanus Dennis SPECIES
 
 #### Status
 ACCEPTED

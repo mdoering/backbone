@@ -1,5 +1,4 @@
-Triceratium campeachianum Grunow SPECIES
-=======
+# Triceratium campeachianum Grunow SPECIES
 
 #### Status
 ACCEPTED

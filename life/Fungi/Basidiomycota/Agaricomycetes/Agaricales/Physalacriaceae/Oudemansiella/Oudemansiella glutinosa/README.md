@@ -1,5 +1,4 @@
-Oudemansiella glutinosa Singer SPECIES
-=======
+# Oudemansiella glutinosa Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectriopsis sibicola Samuels, 1988 SPECIES
-=======
+# Nectriopsis sibicola Samuels, 1988 SPECIES
 
 #### Status
 ACCEPTED

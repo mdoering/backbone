@@ -1,5 +1,4 @@
-Metasphaeria maculans Rehm SPECIES
-=======
+# Metasphaeria maculans Rehm SPECIES
 
 #### Status
 ACCEPTED

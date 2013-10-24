@@ -1,5 +1,4 @@
-Hydnangiaceae Gäum. & C.W. Dodge FAMILY
-=======
+# Hydnangiaceae Gäum. & C.W. Dodge FAMILY
 
 #### Status
 ACCEPTED

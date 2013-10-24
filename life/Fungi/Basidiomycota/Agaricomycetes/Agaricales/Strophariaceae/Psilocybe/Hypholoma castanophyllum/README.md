@@ -1,5 +1,4 @@
-Hypholoma castanophyllum Berk. SPECIES
-=======
+# Hypholoma castanophyllum Berk. SPECIES
 
 #### Status
 ACCEPTED

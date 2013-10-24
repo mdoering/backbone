@@ -1,5 +1,4 @@
-Mazzantia hamatospora Schulzer SPECIES
-=======
+# Mazzantia hamatospora Schulzer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriotrema columellatum (Zahlbr.) Sipman SPECIES
-=======
+# Myriotrema columellatum (Zahlbr.) Sipman SPECIES
 
 #### Status
 ACCEPTED

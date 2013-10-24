@@ -1,5 +1,4 @@
-Tenua anaphrissa (W.A.S. Sarjeant) P.N. Benedek SPECIES
-=======
+# Tenua anaphrissa (W.A.S. Sarjeant) P.N. Benedek SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalosphaeria eugeniae P.K. Chi & S.M. Lin SPECIES
-=======
+# Pestalosphaeria eugeniae P.K. Chi & S.M. Lin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cephaloidophora chthamali Léger & Duboscq, 1909 SPECIES
-=======
+# Cephaloidophora communis Mavrodiadi, 1908 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

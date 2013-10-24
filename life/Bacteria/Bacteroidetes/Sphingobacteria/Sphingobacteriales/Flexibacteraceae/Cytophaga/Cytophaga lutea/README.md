@@ -1,5 +1,4 @@
-Cytophaga lutea SPECIES
-=======
+# Cytophaga lutea SPECIES
 
 #### Status
 ACCEPTED

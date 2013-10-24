@@ -1,8 +1,7 @@
-Lophospyris pentagona subsp. pentagona SUBSPECIES
-=======
+# Lophospyris pentagona (Ehrenberg) Petrushevskaya, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

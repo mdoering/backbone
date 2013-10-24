@@ -1,5 +1,4 @@
-Cercospora paspali W.W. Ray SPECIES
-=======
+# Cercospora paspali W.W. Ray SPECIES
 
 #### Status
 ACCEPTED

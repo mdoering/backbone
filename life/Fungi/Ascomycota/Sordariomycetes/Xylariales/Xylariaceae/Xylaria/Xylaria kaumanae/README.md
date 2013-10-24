@@ -1,5 +1,4 @@
-Xylaria kaumanae J.D. Rogers, Hemmes & Y.M. Ju, 2003 SPECIES
-=======
+# Xylaria kaumanae J.D. Rogers, Hemmes & Y.M. Ju, 2003 SPECIES
 
 #### Status
 ACCEPTED

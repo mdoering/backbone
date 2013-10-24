@@ -1,5 +1,4 @@
-Granulicatella Collins & Lawson, 2000 GENUS
-=======
+# Granulicatella Collins & Lawson, 2000 GENUS
 
 #### Status
 ACCEPTED

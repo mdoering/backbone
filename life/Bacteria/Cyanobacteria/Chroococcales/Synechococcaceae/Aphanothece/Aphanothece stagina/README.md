@@ -1,5 +1,4 @@
-Aphanothece stagina (Spreng.) SPECIES
-=======
+# Aphanothece stagina (Spreng.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurotus parthenopejus (Comes) Sacc. SPECIES
-=======
+# Pleurotus parthenopejus (Comes) Sacc. SPECIES
 
 #### Status
 ACCEPTED

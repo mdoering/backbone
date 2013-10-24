@@ -1,5 +1,4 @@
-Amanita lignitincta Zhu L. Yang SPECIES
-=======
+# Amanita lignitincta Zhu L. Yang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora massula Stizenb. SPECIES
-=======
+# Lecanora massula Stizenb. SPECIES
 
 #### Status
 ACCEPTED

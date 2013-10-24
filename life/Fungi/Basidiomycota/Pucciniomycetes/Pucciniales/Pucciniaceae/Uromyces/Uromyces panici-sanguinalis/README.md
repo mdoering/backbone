@@ -1,5 +1,4 @@
-Uromyces panici-sanguinalis Rangel SPECIES
-=======
+# Uromyces panici-sanguinalis Rangel SPECIES
 
 #### Status
 ACCEPTED

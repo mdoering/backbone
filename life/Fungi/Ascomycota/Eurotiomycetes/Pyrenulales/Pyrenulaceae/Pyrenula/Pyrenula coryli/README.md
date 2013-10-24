@@ -1,14 +1,13 @@
-Verrucaria coryli (A. Massal.) Nyl. SPECIES
-=======
+# Pyrenula coryli A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ric. auton. lich. crost. (Verona) 164 (1852)
 
 #### Original name
 Pyrenula coryli A. Massal.

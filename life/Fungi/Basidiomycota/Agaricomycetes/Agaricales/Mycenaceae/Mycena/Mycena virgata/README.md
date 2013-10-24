@@ -1,5 +1,4 @@
-Mycena virgata Maas Geest. & E. Horak SPECIES
-=======
+# Mycena virgata Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

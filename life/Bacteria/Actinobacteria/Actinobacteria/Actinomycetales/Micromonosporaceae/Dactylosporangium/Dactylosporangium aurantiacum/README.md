@@ -1,5 +1,4 @@
-Dactylosporangium aurantiacum Thiemann et al., 1967 (Approved Lists, 1980) SPECIES
-=======
+# Dactylosporangium aurantiacum Thiemann et al., 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

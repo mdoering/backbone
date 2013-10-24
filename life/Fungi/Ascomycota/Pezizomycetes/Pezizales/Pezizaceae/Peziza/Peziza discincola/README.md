@@ -1,5 +1,4 @@
-Peziza discincola Schwein. SPECIES
-=======
+# Peziza discincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

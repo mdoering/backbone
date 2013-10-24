@@ -1,5 +1,4 @@
-Pluteus washingtonensis Murrill SPECIES
-=======
+# Pluteus washingtonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

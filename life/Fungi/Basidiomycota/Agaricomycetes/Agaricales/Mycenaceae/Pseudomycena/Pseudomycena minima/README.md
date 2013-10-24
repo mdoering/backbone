@@ -1,5 +1,4 @@
-Pseudomycena minima Velen. SPECIES
-=======
+# Pseudomycena minima Velen. SPECIES
 
 #### Status
 ACCEPTED

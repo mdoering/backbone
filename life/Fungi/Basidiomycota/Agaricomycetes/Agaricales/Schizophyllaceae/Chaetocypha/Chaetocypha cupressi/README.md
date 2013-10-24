@@ -1,5 +1,4 @@
-Chaetocypha cupressi (Schwein.) Kuntze SPECIES
-=======
+# Chaetocypha cupressi (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

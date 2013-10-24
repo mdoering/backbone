@@ -1,5 +1,4 @@
-Helicoma sympodiophorum Matsush. SPECIES
-=======
+# Helicoma sympodiophorum Matsush. SPECIES
 
 #### Status
 ACCEPTED

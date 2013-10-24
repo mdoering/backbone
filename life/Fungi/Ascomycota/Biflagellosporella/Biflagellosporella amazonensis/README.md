@@ -1,5 +1,4 @@
-Biflagellosporella amazonensis Matsush., 1993 SPECIES
-=======
+# Biflagellosporella amazonensis Matsush., 1993 SPECIES
 
 #### Status
 ACCEPTED

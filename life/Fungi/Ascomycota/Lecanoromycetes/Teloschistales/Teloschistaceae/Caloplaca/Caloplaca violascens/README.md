@@ -1,5 +1,4 @@
-Caloplaca violascens H. Magn. SPECIES
-=======
+# Caloplaca violascens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

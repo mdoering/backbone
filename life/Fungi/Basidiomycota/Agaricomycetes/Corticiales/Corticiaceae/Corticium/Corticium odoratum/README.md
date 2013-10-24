@@ -1,5 +1,4 @@
-Corticium odoratum SPECIES
-=======
+# Corticium odoratum SPECIES
 
 #### Status
 ACCEPTED

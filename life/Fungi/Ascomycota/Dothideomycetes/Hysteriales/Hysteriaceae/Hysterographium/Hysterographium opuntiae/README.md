@@ -1,5 +1,4 @@
-Hysterographium opuntiae J.G. Br. SPECIES
-=======
+# Hysterographium opuntiae J.G. Br. SPECIES
 
 #### Status
 ACCEPTED

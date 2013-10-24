@@ -1,5 +1,4 @@
-Hypomyces conviva Bacc. SPECIES
-=======
+# Hypomyces conviva Bacc. SPECIES
 
 #### Status
 ACCEPTED

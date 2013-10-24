@@ -1,5 +1,4 @@
-Lecania lactea Arnold SPECIES
-=======
+# Lecania lactea Arnold SPECIES
 
 #### Status
 ACCEPTED

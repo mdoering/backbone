@@ -1,5 +1,4 @@
-Dictyodochium Sivan. GENUS
-=======
+# Dictyodochium Sivan. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces anthacanthi H.S. Jacks. SPECIES
-=======
+# Uromyces anthacanthi H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

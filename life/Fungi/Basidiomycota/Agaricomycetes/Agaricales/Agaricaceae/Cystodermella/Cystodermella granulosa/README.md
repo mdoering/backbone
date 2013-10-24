@@ -1,17 +1,16 @@
-Agaricus granulosus var. granulosus VARIETY
-=======
+# Cystodermella granulosa (Batsch) Harmaja, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 42(2): 46 (2002)
 
 #### Original name
-Agaricus granulosus var. granulosus
+Agaricus granulosus Batsch, 1783
 
 ### Remarks
 null

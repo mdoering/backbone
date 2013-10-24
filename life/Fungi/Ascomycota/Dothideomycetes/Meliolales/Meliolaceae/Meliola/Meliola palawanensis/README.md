@@ -1,5 +1,4 @@
-Meliola palawanensis Syd. & P. Syd. SPECIES
-=======
+# Meliola palawanensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

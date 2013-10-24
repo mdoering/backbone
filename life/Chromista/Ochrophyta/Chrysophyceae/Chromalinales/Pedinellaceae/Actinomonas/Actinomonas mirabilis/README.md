@@ -1,5 +1,4 @@
-Actinomonas mirabilis Kent SPECIES
-=======
+# Actinomonas mirabilis Kent SPECIES
 
 #### Status
 ACCEPTED

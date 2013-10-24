@@ -1,5 +1,4 @@
-Ascochyta elephas Bubák & Kabát SPECIES
-=======
+# Ascochyta elephas Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

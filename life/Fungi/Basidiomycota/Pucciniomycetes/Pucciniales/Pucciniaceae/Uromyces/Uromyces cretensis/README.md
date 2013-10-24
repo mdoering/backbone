@@ -1,5 +1,4 @@
-Uromyces cretensis Petr. SPECIES
-=======
+# Uromyces cretensis Petr. SPECIES
 
 #### Status
 ACCEPTED

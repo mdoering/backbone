@@ -1,14 +1,13 @@
-Otideopsis yunnanensis B. Liu & J.Z. Cao, 1987 SPECIES
-=======
+# Otidea yunnanensis (B. Liu & J.Z. Cao) W.Y. Zhuang & C.Y. Liu, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Journal of Shanxi University, Natural Science 4: 70 (1987)
+in Liu & Zhuang, Fungal Diversity 23: 188 (2006)
 
 #### Original name
 Otideopsis yunnanensis B. Liu & J.Z. Cao, 1987

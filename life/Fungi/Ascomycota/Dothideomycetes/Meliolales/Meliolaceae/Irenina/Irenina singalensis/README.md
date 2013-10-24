@@ -1,5 +1,4 @@
-Irenina singalensis Hansf. SPECIES
-=======
+# Irenina singalensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

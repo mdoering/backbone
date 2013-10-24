@@ -1,5 +1,4 @@
-Lecidea glaucosarca SPECIES
-=======
+# Lecidea glaucosarca SPECIES
 
 #### Status
 ACCEPTED

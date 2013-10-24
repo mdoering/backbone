@@ -1,5 +1,4 @@
-Lecanora eudoxa (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora eudoxa (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

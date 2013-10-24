@@ -1,14 +1,13 @@
-Tubulicrinis pirina (Bourdot & Galzin) Parmasto SPECIES
-=======
+# Tubulicrinis pyrinus (Bourdot & Galzin) Parmasto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Eesti NSV Tead. Akad. Toim. , Biol. seer 16(4): 394 (1967)
 
 #### Original name
 Peniophora glebulosa var. pirina Bourdot & Galzin

@@ -1,5 +1,4 @@
-Pyrenotea aponina A. Massal. SPECIES
-=======
+# Pyrenotea aponina A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus clitocybe Singer SPECIES
-=======
+# Marasmiellus clitocybe Singer SPECIES
 
 #### Status
 ACCEPTED

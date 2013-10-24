@@ -1,5 +1,4 @@
-Prunulus atroumbonatus (Peck) Murrill SPECIES
-=======
+# Prunulus atroumbonatus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

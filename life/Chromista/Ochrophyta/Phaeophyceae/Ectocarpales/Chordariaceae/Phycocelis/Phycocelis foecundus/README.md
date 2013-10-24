@@ -1,5 +1,4 @@
-Phycocelis foecundus SPECIES
-=======
+# Phycocelis foecundus SPECIES
 
 #### Status
 ACCEPTED

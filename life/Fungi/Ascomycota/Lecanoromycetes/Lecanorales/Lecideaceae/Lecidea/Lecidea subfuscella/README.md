@@ -1,5 +1,4 @@
-Lecidea subfuscella Arnold SPECIES
-=======
+# Lecidea subfuscella Arnold SPECIES
 
 #### Status
 ACCEPTED

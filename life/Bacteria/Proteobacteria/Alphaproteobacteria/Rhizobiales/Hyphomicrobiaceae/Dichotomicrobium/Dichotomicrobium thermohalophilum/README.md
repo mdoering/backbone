@@ -1,5 +1,4 @@
-Dichotomicrobium thermohalophilum Hirsch & Hoffman, 1989 SPECIES
-=======
+# Dichotomicrobium thermohalophilum Hirsch & Hoffman, 1989 SPECIES
 
 #### Status
 ACCEPTED

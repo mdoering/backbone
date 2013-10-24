@@ -1,5 +1,4 @@
-Coscinodiscus wailesii Gran & Angst, 1931 SPECIES
-=======
+# Coscinodiscus wailesii Gran & Angst, 1931 SPECIES
 
 #### Status
 ACCEPTED

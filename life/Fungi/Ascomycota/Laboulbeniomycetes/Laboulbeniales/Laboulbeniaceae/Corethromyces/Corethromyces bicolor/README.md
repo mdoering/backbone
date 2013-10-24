@@ -1,14 +1,13 @@
-Mimeomyces bicolor (Thaxt.) I.I. Tav., 1985 SPECIES
-=======
+# Corethromyces bicolor Thaxt., 1918 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Mem. 9: 256 (1985)
+Proc. Amer. Acad. Arts & Sci. 54: 220 (1918)
 
 #### Original name
 Corethromyces bicolor Thaxt., 1918

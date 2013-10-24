@@ -1,5 +1,4 @@
-Botulobacillus GENUS
-=======
+# Botulobacillus GENUS
 
 #### Status
 ACCEPTED

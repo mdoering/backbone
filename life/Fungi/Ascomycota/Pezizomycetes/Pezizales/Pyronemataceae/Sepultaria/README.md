@@ -1,5 +1,4 @@
-Sepultaria GENUS
-=======
+# Sepultaria GENUS
 
 #### Status
 ACCEPTED

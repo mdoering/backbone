@@ -1,5 +1,4 @@
-Phyllobathelium megapotamicum (Malme) R. Sant. SPECIES
-=======
+# Phyllobathelium megapotamicum (Malme) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

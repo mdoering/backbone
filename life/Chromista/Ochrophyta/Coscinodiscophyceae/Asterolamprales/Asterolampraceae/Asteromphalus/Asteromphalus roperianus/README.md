@@ -1,8 +1,7 @@
-Asterolampra roperiana Greville SPECIES
-=======
+# Asteromphalus roperianus (Greville) Ralfs SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

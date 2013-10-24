@@ -1,5 +1,4 @@
-Malenconia GENUS
-=======
+# Malenconia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria areolata (Nyl.) Nyl. SPECIES
-=======
+# Verrucaria areolata (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

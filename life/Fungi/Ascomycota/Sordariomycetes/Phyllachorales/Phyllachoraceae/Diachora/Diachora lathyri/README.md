@@ -1,14 +1,13 @@
-Phyllachora lathyri (Lév.) Theiss. & Syd., 1915 SPECIES
-=======
+# Diachora lathyri (Lév.) E. Müll., 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 13(5/6): 501 (1915)
+Trans. Bot. Soc. Edinb. , 150th anniversary supplement 72 (1986)
 
 #### Original name
 Dothidea lathyri Lév., 1842

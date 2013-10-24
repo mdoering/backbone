@@ -1,5 +1,4 @@
-Lecanorella salicalis Motyka SPECIES
-=======
+# Lecanorella salicalis Motyka SPECIES
 
 #### Status
 ACCEPTED

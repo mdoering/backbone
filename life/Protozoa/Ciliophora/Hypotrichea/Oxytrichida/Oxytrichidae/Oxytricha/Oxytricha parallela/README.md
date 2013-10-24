@@ -1,8 +1,7 @@
-Opisthotricha parallella Engelmann, 1862 SPECIES
-=======
+# Oxytricha parallela Engelmann, 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sporocybe concentrica (Schwein.) Sacc. SPECIES
-=======
+# Sporocybe concentrica (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

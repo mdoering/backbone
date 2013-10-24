@@ -1,14 +1,13 @@
-Heimiella subretispora Corner, 1972 SPECIES
-=======
+# Heimioporus subretisporus (Corner) E. Horak, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletus in Malaysia (Singapore) 75 (1972)
+Sydowia 56(2): 239 (2004)
 
 #### Original name
 Heimiella subretispora Corner, 1972

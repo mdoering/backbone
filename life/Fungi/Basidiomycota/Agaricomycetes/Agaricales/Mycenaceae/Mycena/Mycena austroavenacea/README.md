@@ -1,5 +1,4 @@
-Mycena austroavenacea Singer, 1969 SPECIES
-=======
+# Mycena austroavenacea Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED

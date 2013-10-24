@@ -1,5 +1,4 @@
-Pseudocercospora cylindrata (Chupp & Linder) N. Pons & B. Sutton SPECIES
-=======
+# Pseudocercospora cylindrata (Chupp & Linder) N. Pons & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

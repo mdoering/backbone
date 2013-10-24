@@ -1,5 +1,4 @@
-Halosarpheia aquadulcis S.Y. Hsieh, H.S. Chang & E.B.G. Jones SPECIES
-=======
+# Halosarpheia aquadulcis S.Y. Hsieh, H.S. Chang & E.B.G. Jones SPECIES
 
 #### Status
 ACCEPTED

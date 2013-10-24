@@ -1,5 +1,4 @@
-Calicium pictavicum O.J. Rich. SPECIES
-=======
+# Calicium pictavicum O.J. Rich. SPECIES
 
 #### Status
 ACCEPTED

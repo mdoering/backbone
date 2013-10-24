@@ -1,5 +1,4 @@
-Boletus rufoflavipes Corner SPECIES
-=======
+# Boletus rufoflavipes Corner SPECIES
 
 #### Status
 ACCEPTED

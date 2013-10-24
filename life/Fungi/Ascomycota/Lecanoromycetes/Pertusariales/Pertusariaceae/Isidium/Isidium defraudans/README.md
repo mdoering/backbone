@@ -1,5 +1,4 @@
-Isidium defraudans (Zeoga) Ach. SPECIES
-=======
+# Isidium defraudans (Zeoga) Ach. SPECIES
 
 #### Status
 ACCEPTED

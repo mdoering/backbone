@@ -1,5 +1,4 @@
-Cytosporium pittospori D.A. Reid, 1969 SPECIES
-=======
+# Cytosporium pittospori D.A. Reid, 1969 SPECIES
 
 #### Status
 ACCEPTED

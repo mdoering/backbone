@@ -1,5 +1,4 @@
-Barbatospora M.M. White, Siri & Lichtw. GENUS
-=======
+# Barbatospora M.M. White, Siri & Lichtw. GENUS
 
 #### Status
 ACCEPTED

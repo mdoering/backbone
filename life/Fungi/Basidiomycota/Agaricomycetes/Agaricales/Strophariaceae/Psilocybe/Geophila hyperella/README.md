@@ -1,5 +1,4 @@
-Geophila hyperella (Fr.) Kühner & Romagn. SPECIES
-=======
+# Geophila hyperella (Fr.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

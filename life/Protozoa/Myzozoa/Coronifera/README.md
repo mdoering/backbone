@@ -1,5 +1,4 @@
-Coronifera Cookson & Eisenack GENUS
-=======
+# Coronifera Cookson & Eisenack GENUS
 
 #### Status
 ACCEPTED

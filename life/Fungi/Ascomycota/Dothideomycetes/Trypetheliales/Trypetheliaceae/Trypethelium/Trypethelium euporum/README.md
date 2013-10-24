@@ -1,5 +1,4 @@
-Trypethelium euporum Kremp. SPECIES
-=======
+# Trypethelium euporum Kremp. SPECIES
 
 #### Status
 ACCEPTED

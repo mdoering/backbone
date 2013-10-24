@@ -1,5 +1,4 @@
-Cortinarius cucullatus Romagn. SPECIES
-=======
+# Cortinarius cucullatus Romagn. SPECIES
 
 #### Status
 ACCEPTED

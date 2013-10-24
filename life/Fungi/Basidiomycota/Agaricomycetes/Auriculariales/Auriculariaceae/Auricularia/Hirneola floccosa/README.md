@@ -1,5 +1,4 @@
-Hirneola floccosa Wakef. SPECIES
-=======
+# Hirneola floccosa Wakef. SPECIES
 
 #### Status
 ACCEPTED

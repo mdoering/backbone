@@ -1,5 +1,4 @@
-Encephalitozoon lacertae SPECIES
-=======
+# Encephalitozoon lacertae SPECIES
 
 #### Status
 ACCEPTED

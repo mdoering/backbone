@@ -1,5 +1,4 @@
-Cercospora acori J.M. Yen SPECIES
-=======
+# Cercospora acori J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

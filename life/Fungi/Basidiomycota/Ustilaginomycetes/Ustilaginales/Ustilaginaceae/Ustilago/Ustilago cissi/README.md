@@ -1,5 +1,4 @@
-Ustilago cissi Tul. & C. Tul. SPECIES
-=======
+# Ustilago cissi Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

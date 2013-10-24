@@ -1,5 +1,4 @@
-Naucoria dahliana Henn. SPECIES
-=======
+# Naucoria dahliana Henn. SPECIES
 
 #### Status
 ACCEPTED

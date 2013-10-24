@@ -1,5 +1,4 @@
-Xiphostylantha Haeckel, 1887 GENUS
-=======
+# Xiphostylantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

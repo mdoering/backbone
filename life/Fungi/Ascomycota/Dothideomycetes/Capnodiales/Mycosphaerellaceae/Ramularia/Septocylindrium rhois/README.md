@@ -1,5 +1,4 @@
-Septocylindrium rhois Sawada SPECIES
-=======
+# Septocylindrium rhois Sawada SPECIES
 
 #### Status
 ACCEPTED

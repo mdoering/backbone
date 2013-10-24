@@ -1,17 +1,16 @@
-Porina xanthoxyli Müll. Arg. SPECIES
-=======
+# Porina zanthoxyli Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 10: 182 (1888)
 
 #### Original name
-Porina xanthoxyli Müll. Arg.
+Porina zanthoxyli Müll. Arg.
 
 ### Remarks
 null

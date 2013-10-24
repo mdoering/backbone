@@ -1,5 +1,4 @@
-Amanita magnifica (Fr.) Gillet SPECIES
-=======
+# Amanita magnifica (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

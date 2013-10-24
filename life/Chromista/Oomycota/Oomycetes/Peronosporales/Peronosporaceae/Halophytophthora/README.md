@@ -1,5 +1,4 @@
-Halophytophthora H.H. Ho & S.C. Jong GENUS
-=======
+# Halophytophthora H.H. Ho & S.C. Jong GENUS
 
 #### Status
 ACCEPTED

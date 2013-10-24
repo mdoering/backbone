@@ -1,5 +1,4 @@
-Puccinia leontopodii Voglino SPECIES
-=======
+# Puccinia leontopodii Voglino SPECIES
 
 #### Status
 ACCEPTED

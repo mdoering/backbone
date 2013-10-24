@@ -1,5 +1,4 @@
-Crepidotus icterinus Singer SPECIES
-=======
+# Crepidotus icterinus Singer SPECIES
 
 #### Status
 ACCEPTED

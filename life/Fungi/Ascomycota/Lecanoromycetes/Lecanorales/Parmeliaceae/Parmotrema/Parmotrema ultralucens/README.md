@@ -1,14 +1,13 @@
-Canomaculina ultralucens (Krog) Elix & J.B. Chen SPECIES
-=======
+# Parmotrema ultralucens (Krog) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Chen, Wang & Elix, Mycotaxon 86: 21 (2003)
+Phytologia 28: 339 (1974)
 
 #### Original name
 Parmelia ultralucens Krog

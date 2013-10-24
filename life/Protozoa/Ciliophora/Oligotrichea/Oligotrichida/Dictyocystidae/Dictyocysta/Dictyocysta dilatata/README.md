@@ -1,5 +1,4 @@
-Dictyocysta dilatata Brandt, 1906 SPECIES
-=======
+# Dictyocysta dilatata Brandt, 1906 SPECIES
 
 #### Status
 ACCEPTED

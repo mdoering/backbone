@@ -1,5 +1,4 @@
-Buellia albida C.W. Dodge & G.E. Baker SPECIES
-=======
+# Buellia albida C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema acrocordiaeforme Anzi SPECIES
-=======
+# Thelotrema acrocordiaeforme Anzi SPECIES
 
 #### Status
 ACCEPTED

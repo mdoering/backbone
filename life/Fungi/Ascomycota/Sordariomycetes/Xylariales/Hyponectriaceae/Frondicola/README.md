@@ -1,5 +1,4 @@
-Frondicola K.D. Hyde, 1992 GENUS
-=======
+# Frondicola K.D. Hyde, 1992 GENUS
 
 #### Status
 ACCEPTED

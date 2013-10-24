@@ -1,14 +1,13 @@
-Epidermophyton gallinae Mégnin ex Guég. SPECIES
-=======
+# Microsporum gallinae (Mégnin ex Guég.) Grigoraki, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-C. R. Soc. Biol. , Paris 33: 404 (1881)
+null
 
 #### Original name
 Epidermophyton gallinae Mégnin ex Guég.

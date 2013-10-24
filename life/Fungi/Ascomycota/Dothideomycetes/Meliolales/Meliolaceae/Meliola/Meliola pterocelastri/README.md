@@ -1,5 +1,4 @@
-Meliola pterocelastri J.L. Crane & A.G. Jones SPECIES
-=======
+# Meliola pterocelastri J.L. Crane & A.G. Jones SPECIES
 
 #### Status
 ACCEPTED

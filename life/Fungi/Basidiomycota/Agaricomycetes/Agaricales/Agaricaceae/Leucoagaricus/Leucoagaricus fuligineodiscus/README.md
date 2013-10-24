@@ -1,5 +1,4 @@
-Leucoagaricus fuligineodiscus P. Mohr & E. Ludw. SPECIES
-=======
+# Leucoagaricus fuligineodiscus P. Mohr & E. Ludw. SPECIES
 
 #### Status
 ACCEPTED

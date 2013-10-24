@@ -1,5 +1,4 @@
-Lecanora atrocinerea Link SPECIES
-=======
+# Lecanora atrocinerea Link SPECIES
 
 #### Status
 ACCEPTED

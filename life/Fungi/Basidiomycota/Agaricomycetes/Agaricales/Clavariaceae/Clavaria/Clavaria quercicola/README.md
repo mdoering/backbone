@@ -1,5 +1,4 @@
-Clavaria quercicola S. Imai SPECIES
-=======
+# Clavaria quercicola S. Imai SPECIES
 
 #### Status
 ACCEPTED

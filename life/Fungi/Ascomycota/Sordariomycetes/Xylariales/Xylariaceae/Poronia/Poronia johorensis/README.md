@@ -1,5 +1,4 @@
-Poronia johorensis (Morgan-Jones & Lim) Morgan-Jones SPECIES
-=======
+# Poronia johorensis (Morgan-Jones & Lim) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

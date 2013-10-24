@@ -1,5 +1,4 @@
-Pachycladina parva Marvanová & Bärl. SPECIES
-=======
+# Pachycladina parva Marvanová & Bärl. SPECIES
 
 #### Status
 ACCEPTED

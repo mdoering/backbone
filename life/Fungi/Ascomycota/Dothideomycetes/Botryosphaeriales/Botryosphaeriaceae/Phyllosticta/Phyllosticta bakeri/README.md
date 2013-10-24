@@ -1,5 +1,4 @@
-Phyllosticta bakeri Syd. SPECIES
-=======
+# Phyllosticta bakeri Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea ochropolia SPECIES
-=======
+# Lecidea ochropolia SPECIES
 
 #### Status
 ACCEPTED

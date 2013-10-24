@@ -1,14 +1,13 @@
-Duportella fusispora G. Cunn., 1957 SPECIES
-=======
+# Veluticeps fusispora (G. Cunn.) Hjortstam & Ryvarden, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. New Zealand 85: 94 (1957)
+Syn. Fung. (Oslo) 4: 61 (1990)
 
 #### Original name
 Duportella fusispora G. Cunn., 1957

@@ -1,5 +1,4 @@
-Rhabdospora centranthi (Brunaud) Sacc. SPECIES
-=======
+# Rhabdospora centranthi (Brunaud) Sacc. SPECIES
 
 #### Status
 ACCEPTED

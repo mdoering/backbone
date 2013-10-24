@@ -1,5 +1,4 @@
-Tintinnus rectus Wailes, 1925 SPECIES
-=======
+# Tintinnus rectus Wailes, 1925 SPECIES
 
 #### Status
 ACCEPTED

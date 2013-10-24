@@ -1,5 +1,4 @@
-Stigmopeltella costaricana Syd. SPECIES
-=======
+# Stigmopeltella costaricana Syd. SPECIES
 
 #### Status
 ACCEPTED

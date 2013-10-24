@@ -1,5 +1,4 @@
-Bambuites erichsenii Sommer, 1971 SPECIES
-=======
+# Bambuites erichsenii Sommer, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria deficiens Nyl. SPECIES
-=======
+# Pannaria deficiens Nyl. SPECIES
 
 #### Status
 ACCEPTED

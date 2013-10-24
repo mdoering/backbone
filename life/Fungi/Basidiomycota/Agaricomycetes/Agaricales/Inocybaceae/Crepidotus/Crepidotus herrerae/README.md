@@ -1,5 +1,4 @@
-Crepidotus herrerae Bandala & Montoya SPECIES
-=======
+# Crepidotus herrerae Bandala & Montoya SPECIES
 
 #### Status
 ACCEPTED

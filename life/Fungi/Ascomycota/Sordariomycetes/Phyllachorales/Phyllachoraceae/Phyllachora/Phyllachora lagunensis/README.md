@@ -1,14 +1,13 @@
-Catacauma lagunense (Syd. & P. Syd.) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora lagunensis Syd. & P. Syd., 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Theissen & Sydow, Annls mycol. 13(3/4): 378 (1915)
+Philipp. J. Sci. , C, Bot. 8(4): 278 (1913)
 
 #### Original name
 Phyllachora lagunensis Syd. & P. Syd., 1913

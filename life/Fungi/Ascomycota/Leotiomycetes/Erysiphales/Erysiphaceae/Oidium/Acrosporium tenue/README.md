@@ -1,5 +1,4 @@
-Acrosporium tenue Bonord. SPECIES
-=======
+# Acrosporium tenue Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Neisseria polysaccharea Riou & Guibourdenche, 1987 SPECIES
-=======
+# Neisseria polysaccharea Riou & Guibourdenche, 1987 SPECIES
 
 #### Status
 ACCEPTED

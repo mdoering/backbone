@@ -1,5 +1,4 @@
-Mollisiaster serratus Kirschst. SPECIES
-=======
+# Mollisiaster serratus Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe parvula (Peck) Pegler SPECIES
-=======
+# Hygrocybe parvula (Peck) Pegler SPECIES
 
 #### Status
 ACCEPTED

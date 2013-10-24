@@ -1,5 +1,4 @@
-Thallochrysis Conrad, 1914 GENUS
-=======
+# Thallochrysis Conrad, 1914 GENUS
 
 #### Status
 ACCEPTED

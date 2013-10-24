@@ -1,14 +1,13 @@
-Graphis colliculosa (Mont.) Nyl. SPECIES
-=======
+# Graphina colliculosa (Mont.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lich. Amer. Exs. 156 (1976)
 
 #### Original name
 Sclerophyton colliculosum Mont.

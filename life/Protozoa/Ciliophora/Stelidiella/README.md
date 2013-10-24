@@ -1,5 +1,4 @@
-Stelidiella Kofoid & Campbell, 1929 GENUS
-=======
+# Stelidiella Kofoid & Campbell, 1929 GENUS
 
 #### Status
 ACCEPTED

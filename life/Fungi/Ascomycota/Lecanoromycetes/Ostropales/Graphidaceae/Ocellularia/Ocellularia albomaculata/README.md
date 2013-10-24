@@ -1,5 +1,4 @@
-Ocellularia albomaculata Hale SPECIES
-=======
+# Ocellularia albomaculata Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratium minutum E.G. Jørgensen SPECIES
-=======
+# Ceratium minutum E.G. Jørgensen SPECIES
 
 #### Status
 ACCEPTED

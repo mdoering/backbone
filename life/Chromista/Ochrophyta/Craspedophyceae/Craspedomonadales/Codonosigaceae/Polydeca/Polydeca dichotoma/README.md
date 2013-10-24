@@ -1,5 +1,4 @@
-Polydeca dichotoma SPECIES
-=======
+# Polydeca dichotoma SPECIES
 
 #### Status
 ACCEPTED

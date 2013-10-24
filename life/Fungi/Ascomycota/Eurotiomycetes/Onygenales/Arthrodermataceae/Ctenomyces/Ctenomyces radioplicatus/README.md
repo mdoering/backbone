@@ -1,5 +1,4 @@
-Ctenomyces radioplicatus (W. Fisch.) Nann. SPECIES
-=======
+# Ctenomyces radioplicatus (W. Fisch.) Nann. SPECIES
 
 #### Status
 ACCEPTED

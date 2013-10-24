@@ -1,5 +1,4 @@
-Hemiaulus vitreus A.M. Gombos SPECIES
-=======
+# Hemiaulus vitreus A.M. Gombos SPECIES
 
 #### Status
 ACCEPTED

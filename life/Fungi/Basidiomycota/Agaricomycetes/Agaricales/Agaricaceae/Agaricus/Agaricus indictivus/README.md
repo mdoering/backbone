@@ -1,5 +1,4 @@
-Agaricus indictivus Britzelm. SPECIES
-=======
+# Agaricus indictivus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

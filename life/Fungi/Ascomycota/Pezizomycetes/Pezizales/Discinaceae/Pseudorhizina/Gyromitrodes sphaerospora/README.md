@@ -1,5 +1,4 @@
-Gyromitrodes sphaerospora (Peck) Vassilkov SPECIES
-=======
+# Gyromitrodes sphaerospora (Peck) Vassilkov SPECIES
 
 #### Status
 ACCEPTED

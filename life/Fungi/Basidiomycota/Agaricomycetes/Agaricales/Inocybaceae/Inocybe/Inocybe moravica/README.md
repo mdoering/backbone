@@ -1,5 +1,4 @@
-Inocybe moravica Hruby SPECIES
-=======
+# Inocybe moravica Hruby SPECIES
 
 #### Status
 ACCEPTED

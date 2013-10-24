@@ -1,5 +1,4 @@
-Pholiota paradoxa Naveau SPECIES
-=======
+# Pholiota paradoxa Naveau SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sordaria erecta (Speg.) Sacc. SPECIES
-=======
+# Sordaria erecta (Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

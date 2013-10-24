@@ -1,5 +1,4 @@
-Galerina perangusta A.H. Sm. & Singer SPECIES
-=======
+# Galerina perangusta A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

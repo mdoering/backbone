@@ -1,17 +1,16 @@
-Polysaccum pisocarpium var. pisocarpium VARIETY
-=======
+# Pisolithus arhizus (Scop.) Rauschert, 1959 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(1): 54 (1829)
+Z. Pilzk. 25(2): 50 (1959)
 
 #### Original name
-Polysaccum pisocarpium var. pisocarpium
+Lycoperdon arrizon Scop., 1786
 
 ### Remarks
 null

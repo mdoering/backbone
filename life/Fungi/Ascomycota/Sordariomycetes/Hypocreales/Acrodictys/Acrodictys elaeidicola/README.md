@@ -1,5 +1,4 @@
-Acrodictys elaeidicola M.B. Ellis SPECIES
-=======
+# Acrodictys elaeidicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caeoma dorsteniae Schltdl. SPECIES
-=======
+# Caeoma dorsteniae Schltdl. SPECIES
 
 #### Status
 ACCEPTED

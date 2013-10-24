@@ -1,5 +1,4 @@
-Megalonectria caespitosa Speg. SPECIES
-=======
+# Megalonectria caespitosa Speg. SPECIES
 
 #### Status
 ACCEPTED

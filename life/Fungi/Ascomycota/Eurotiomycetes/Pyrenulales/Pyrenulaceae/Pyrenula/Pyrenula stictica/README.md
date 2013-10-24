@@ -1,5 +1,4 @@
-Pyrenula stictica (Ach.) Link SPECIES
-=======
+# Pyrenula stictica (Ach.) Link SPECIES
 
 #### Status
 ACCEPTED

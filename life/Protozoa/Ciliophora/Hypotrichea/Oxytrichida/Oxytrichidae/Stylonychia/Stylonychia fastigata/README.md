@@ -1,5 +1,4 @@
-Stylonychia fastigata Dumas SPECIES
-=======
+# Stylonychia fastigata Dumas SPECIES
 
 #### Status
 ACCEPTED

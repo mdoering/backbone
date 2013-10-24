@@ -1,5 +1,4 @@
-Trichocladium ismailiense Moustafa & Ezz-Eldin, 1990 SPECIES
-=======
+# Trichocladium ismailiense Moustafa & Ezz-Eldin, 1990 SPECIES
 
 #### Status
 ACCEPTED

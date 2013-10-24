@@ -1,5 +1,4 @@
-Locellina GENUS
-=======
+# Locellina GENUS
 
 #### Status
 ACCEPTED

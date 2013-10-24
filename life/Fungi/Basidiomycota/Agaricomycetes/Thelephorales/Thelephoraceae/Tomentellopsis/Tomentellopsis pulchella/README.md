@@ -1,5 +1,4 @@
-Tomentellopsis pulchella Kõljalg & Bernicchia SPECIES
-=======
+# Tomentellopsis pulchella Kõljalg & Bernicchia SPECIES
 
 #### Status
 ACCEPTED

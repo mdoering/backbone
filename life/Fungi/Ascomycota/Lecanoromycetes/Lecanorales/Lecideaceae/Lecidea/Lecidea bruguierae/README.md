@@ -1,5 +1,4 @@
-Lecidea bruguierae Vain. SPECIES
-=======
+# Lecidea bruguierae Vain. SPECIES
 
 #### Status
 ACCEPTED

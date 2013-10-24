@@ -1,5 +1,4 @@
-Peziza pseudoaurantia P. Crouan & H. Crouan SPECIES
-=======
+# Peziza pseudoaurantia P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

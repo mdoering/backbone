@@ -1,5 +1,4 @@
-Corethron inerme Karsten SPECIES
-=======
+# Corethron inerme Karsten SPECIES
 
 #### Status
 ACCEPTED

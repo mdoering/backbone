@@ -1,5 +1,4 @@
-Hendersonia agaves Maubl. SPECIES
-=======
+# Hendersonia agaves Maubl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peniophora radicata subsp. leprosa Bourdot & Galzin SUBSPECIES
-=======
+# Scopuloides leprosa (Bourdot & Galzin) Boidin, Lanq. & Gilles, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 394 (1913)
+Cryptog. Mycol. 14(3): 200 (1993)
 
 #### Original name
 Peniophora radicata subsp. leprosa Bourdot & Galzin

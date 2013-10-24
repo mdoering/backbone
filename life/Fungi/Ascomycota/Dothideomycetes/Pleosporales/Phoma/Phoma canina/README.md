@@ -1,5 +1,4 @@
-Phoma canina Brunaud SPECIES
-=======
+# Phoma canina Brunaud SPECIES
 
 #### Status
 ACCEPTED

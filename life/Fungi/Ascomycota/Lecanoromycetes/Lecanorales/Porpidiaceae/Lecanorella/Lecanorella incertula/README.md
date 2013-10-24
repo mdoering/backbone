@@ -1,5 +1,4 @@
-Lecanorella incertula Motyka SPECIES
-=======
+# Lecanorella incertula Motyka SPECIES
 
 #### Status
 ACCEPTED

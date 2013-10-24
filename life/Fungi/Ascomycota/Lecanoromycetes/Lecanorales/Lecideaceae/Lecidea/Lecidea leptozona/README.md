@@ -1,5 +1,4 @@
-Lecidea leptozona (Nyl.) Hue SPECIES
-=======
+# Lecidea leptozona (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

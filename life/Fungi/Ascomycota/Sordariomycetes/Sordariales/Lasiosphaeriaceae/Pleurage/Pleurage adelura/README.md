@@ -1,5 +1,4 @@
-Pleurage adelura Griffiths SPECIES
-=======
+# Pleurage adelura Griffiths SPECIES
 
 #### Status
 ACCEPTED

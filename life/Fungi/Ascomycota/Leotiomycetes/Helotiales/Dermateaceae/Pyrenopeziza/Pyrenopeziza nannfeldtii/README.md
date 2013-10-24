@@ -1,5 +1,4 @@
-Pyrenopeziza nannfeldtii Petr. SPECIES
-=======
+# Pyrenopeziza nannfeldtii Petr. SPECIES
 
 #### Status
 ACCEPTED

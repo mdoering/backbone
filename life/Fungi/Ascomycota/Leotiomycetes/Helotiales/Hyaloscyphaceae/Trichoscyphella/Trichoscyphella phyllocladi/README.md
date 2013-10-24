@@ -1,5 +1,4 @@
-Trichoscyphella phyllocladi Dennis SPECIES
-=======
+# Trichoscyphella phyllocladi Dennis SPECIES
 
 #### Status
 ACCEPTED

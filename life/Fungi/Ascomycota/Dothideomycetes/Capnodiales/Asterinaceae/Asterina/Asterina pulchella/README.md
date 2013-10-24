@@ -1,5 +1,4 @@
-Asterina pulchella Petr., 1929 SPECIES
-=======
+# Asterina pulchella Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

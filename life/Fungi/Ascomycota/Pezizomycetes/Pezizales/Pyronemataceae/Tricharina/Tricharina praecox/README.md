@@ -1,5 +1,4 @@
-Tricharina praecox var. praecox VARIETY
-=======
+# Tricharina praecox (P. Karst.) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Kew Bull. 25: 338 (1971)
 
 #### Original name
-Tricharina praecox var. praecox
+Peziza praecox P. Karst., 1869
 
 ### Remarks
 null

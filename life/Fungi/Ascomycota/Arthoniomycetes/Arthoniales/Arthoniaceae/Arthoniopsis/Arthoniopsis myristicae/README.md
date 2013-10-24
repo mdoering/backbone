@@ -1,5 +1,4 @@
-Arthoniopsis myristicae (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Arthoniopsis myristicae (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

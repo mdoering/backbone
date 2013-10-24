@@ -1,5 +1,4 @@
-Pluteus pluvialis Singer SPECIES
-=======
+# Pluteus pluvialis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo huallagensis Henn. SPECIES
-=======
+# Uredo huallagensis Henn. SPECIES
 
 #### Status
 ACCEPTED

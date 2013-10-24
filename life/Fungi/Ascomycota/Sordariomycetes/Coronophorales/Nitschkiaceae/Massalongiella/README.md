@@ -1,5 +1,4 @@
-Massalongiella GENUS
-=======
+# Massalongiella GENUS
 
 #### Status
 ACCEPTED

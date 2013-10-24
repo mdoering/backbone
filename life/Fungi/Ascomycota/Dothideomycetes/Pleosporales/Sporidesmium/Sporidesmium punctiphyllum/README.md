@@ -1,5 +1,4 @@
-Sporidesmium punctiphyllum Cooke SPECIES
-=======
+# Sporidesmium punctiphyllum Cooke SPECIES
 
 #### Status
 ACCEPTED

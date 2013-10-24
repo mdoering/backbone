@@ -1,5 +1,4 @@
-Ramalina evernioides Nyl. SPECIES
-=======
+# Ramalina evernioides Nyl. SPECIES
 
 #### Status
 ACCEPTED

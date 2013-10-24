@@ -1,5 +1,4 @@
-Tripospora venezuelensis E. Müll. SPECIES
-=======
+# Tripospora venezuelensis E. Müll. SPECIES
 
 #### Status
 ACCEPTED

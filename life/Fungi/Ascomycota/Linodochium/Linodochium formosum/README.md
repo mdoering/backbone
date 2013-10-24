@@ -1,5 +1,4 @@
-Linodochium formosum Minter & Hol.-Jech. SPECIES
-=======
+# Linodochium formosum Minter & Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

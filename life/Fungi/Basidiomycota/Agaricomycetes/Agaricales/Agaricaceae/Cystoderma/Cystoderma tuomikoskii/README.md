@@ -1,5 +1,4 @@
-Cystoderma tuomikoskii Harmaja, 1979 SPECIES
-=======
+# Cystoderma tuomikoskii Harmaja, 1979 SPECIES
 
 #### Status
 ACCEPTED

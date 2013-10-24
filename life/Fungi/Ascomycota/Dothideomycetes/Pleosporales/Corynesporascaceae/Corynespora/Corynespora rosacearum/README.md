@@ -1,5 +1,4 @@
-Corynespora rosacearum Meenu & Kamal SPECIES
-=======
+# Corynespora rosacearum Meenu & Kamal SPECIES
 
 #### Status
 ACCEPTED

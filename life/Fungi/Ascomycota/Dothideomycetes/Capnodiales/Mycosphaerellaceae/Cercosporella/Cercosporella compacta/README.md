@@ -1,5 +1,4 @@
-Cercosporella compacta Traverso SPECIES
-=======
+# Cercosporella compacta Traverso SPECIES
 
 #### Status
 ACCEPTED

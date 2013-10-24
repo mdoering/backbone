@@ -1,5 +1,4 @@
-Pyrenochaeta microsperma Syd. SPECIES
-=======
+# Pyrenochaeta microsperma Syd. SPECIES
 
 #### Status
 ACCEPTED

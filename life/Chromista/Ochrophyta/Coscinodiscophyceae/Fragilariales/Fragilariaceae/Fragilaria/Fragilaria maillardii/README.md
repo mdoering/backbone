@@ -1,5 +1,4 @@
-Fragilaria maillardii R. Le Cohu SPECIES
-=======
+# Fragilaria maillardii R. Le Cohu SPECIES
 
 #### Status
 ACCEPTED

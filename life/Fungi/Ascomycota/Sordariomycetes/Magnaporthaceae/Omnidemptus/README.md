@@ -1,5 +1,4 @@
-Omnidemptus P.F. Cannon & Alcorn GENUS
-=======
+# Omnidemptus P.F. Cannon & Alcorn GENUS
 
 #### Status
 ACCEPTED

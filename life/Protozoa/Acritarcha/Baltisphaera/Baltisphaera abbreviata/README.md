@@ -1,5 +1,4 @@
-Baltisphaera abbreviata Burmann, 1970 SPECIES
-=======
+# Baltisphaera abbreviata Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

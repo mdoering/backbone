@@ -1,5 +1,4 @@
-Multangularites P. Palik, 1966 GENUS
-=======
+# Multangularites P. Palik, 1966 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nassula georgiana Dragesco, 1972 SPECIES
-=======
+# Obertrumia georgiana (Dragesco, 1972) Foissner & Adam, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Euplotes polycarinatus Carter, 1972 SPECIES
-=======
+# Euplotes polycarinatus Carter, 1972 SPECIES
 
 #### Status
 ACCEPTED

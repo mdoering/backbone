@@ -1,5 +1,4 @@
-Lecidea terrestris Erichsen SPECIES
-=======
+# Lecidea terrestris Erichsen SPECIES
 
 #### Status
 ACCEPTED

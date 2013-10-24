@@ -1,5 +1,4 @@
-Meliola aristolochiae F. Stevens & Tehon SPECIES
-=======
+# Meliola aristolochiae F. Stevens & Tehon SPECIES
 
 #### Status
 ACCEPTED

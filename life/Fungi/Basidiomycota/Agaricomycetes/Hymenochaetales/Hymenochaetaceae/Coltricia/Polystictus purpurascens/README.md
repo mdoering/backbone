@@ -1,5 +1,4 @@
-Polystictus purpurascens (Hook.) Fr. SPECIES
-=======
+# Polystictus purpurascens (Hook.) Fr. SPECIES
 
 #### Status
 ACCEPTED

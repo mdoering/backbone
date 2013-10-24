@@ -1,5 +1,4 @@
-Agaricus caryophyllaeus Schaeff. SPECIES
-=======
+# Agaricus caryophyllaeus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

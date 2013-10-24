@@ -1,5 +1,4 @@
-Antiquophytolithus Vologdin GENUS
-=======
+# Antiquophytolithus Vologdin GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Canningia ringnesiorum Manum & Cookson SPECIES
-=======
+# Canningia ringnesiorum Manum & Cookson SPECIES
 
 #### Status
 ACCEPTED

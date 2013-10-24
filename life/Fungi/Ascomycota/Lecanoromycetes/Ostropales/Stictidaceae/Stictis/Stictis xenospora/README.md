@@ -1,5 +1,4 @@
-Stictis xenospora Sherwood SPECIES
-=======
+# Stictis xenospora Sherwood SPECIES
 
 #### Status
 ACCEPTED

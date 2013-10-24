@@ -1,5 +1,4 @@
-Gloeocalyx bakeri Massee SPECIES
-=======
+# Gloeocalyx bakeri Massee SPECIES
 
 #### Status
 ACCEPTED

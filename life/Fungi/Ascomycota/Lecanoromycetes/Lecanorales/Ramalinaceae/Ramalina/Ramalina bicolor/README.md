@@ -1,5 +1,4 @@
-Ramalina bicolor Müll. Arg. SPECIES
-=======
+# Ramalina bicolor Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cucurbitaria juglandina Ellis & Barthol. SPECIES
-=======
+# Cucurbitaria juglandina Ellis & Barthol. SPECIES
 
 #### Status
 ACCEPTED

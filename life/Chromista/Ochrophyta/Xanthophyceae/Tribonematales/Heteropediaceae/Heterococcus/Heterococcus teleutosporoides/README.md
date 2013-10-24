@@ -1,5 +1,4 @@
-Heterococcus teleutosporoides Pitschmann SPECIES
-=======
+# Heterococcus teleutosporoides Pitschmann SPECIES
 
 #### Status
 ACCEPTED

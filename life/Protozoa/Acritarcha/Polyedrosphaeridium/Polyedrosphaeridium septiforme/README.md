@@ -1,5 +1,4 @@
-Polyedrosphaeridium septiforme Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
-=======
+# Polyedrosphaeridium septiforme Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

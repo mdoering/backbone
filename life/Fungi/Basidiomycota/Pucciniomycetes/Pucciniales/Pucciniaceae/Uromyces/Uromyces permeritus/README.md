@@ -1,5 +1,4 @@
-Uromyces permeritus Cummins SPECIES
-=======
+# Uromyces permeritus Cummins SPECIES
 
 #### Status
 ACCEPTED

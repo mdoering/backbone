@@ -1,5 +1,4 @@
-Galera melleiceps (Murrill) Murrill SPECIES
-=======
+# Galera melleiceps (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

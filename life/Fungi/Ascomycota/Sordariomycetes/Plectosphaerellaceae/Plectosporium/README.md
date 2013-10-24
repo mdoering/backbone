@@ -1,5 +1,4 @@
-Plectosporium M.E. Palm, W. Gams & Nirenberg GENUS
-=======
+# Plectosporium M.E. Palm, W. Gams & Nirenberg GENUS
 
 #### Status
 ACCEPTED

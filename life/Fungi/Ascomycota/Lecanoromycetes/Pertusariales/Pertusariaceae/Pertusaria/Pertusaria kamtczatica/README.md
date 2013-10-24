@@ -1,5 +1,4 @@
-Pertusaria kamtczatica (Savicz) Zahlbr. SPECIES
-=======
+# Pertusaria kamtczatica (Savicz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

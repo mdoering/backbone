@@ -1,5 +1,4 @@
-Scytonema intertextum (Kützing) Rabenhorst SPECIES
-=======
+# Scytonema intertextum (Kützing) Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

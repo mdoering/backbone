@@ -1,5 +1,4 @@
-Entoloma occultopigmentatum Noordel. & Arnolds, 1979 SPECIES
-=======
+# Entoloma occultopigmentatum Noordel. & Arnolds, 1979 SPECIES
 
 #### Status
 ACCEPTED

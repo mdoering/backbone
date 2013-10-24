@@ -1,5 +1,4 @@
-Leciographa bicellulata Velen. SPECIES
-=======
+# Leciographa bicellulata Velen. SPECIES
 
 #### Status
 ACCEPTED

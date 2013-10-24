@@ -1,5 +1,4 @@
-Lichen eutypus Ach. SPECIES
-=======
+# Lichen eutypus Ach. SPECIES
 
 #### Status
 ACCEPTED

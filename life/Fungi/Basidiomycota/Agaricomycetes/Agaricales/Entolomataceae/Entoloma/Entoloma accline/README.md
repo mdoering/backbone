@@ -1,5 +1,4 @@
-Entoloma accline (Britzelm.) Sacc. SPECIES
-=======
+# Entoloma accline (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

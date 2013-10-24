@@ -1,5 +1,4 @@
-Lobaria saxicola (Pollich) Hoffm. SPECIES
-=======
+# Lobaria saxicola (Pollich) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

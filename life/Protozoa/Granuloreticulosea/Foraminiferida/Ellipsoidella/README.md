@@ -1,5 +1,4 @@
-Ellipsoidella Heron-Allen & Earland, 1910 GENUS
-=======
+# Ellipsoidella Heron-Allen & Earland, 1910 GENUS
 
 #### Status
 ACCEPTED

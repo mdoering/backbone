@@ -1,5 +1,4 @@
-Torula koishikawensis Okun. SPECIES
-=======
+# Torula koishikawensis Okun. SPECIES
 
 #### Status
 ACCEPTED

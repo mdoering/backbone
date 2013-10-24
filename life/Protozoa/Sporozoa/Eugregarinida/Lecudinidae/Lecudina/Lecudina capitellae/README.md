@@ -1,5 +1,4 @@
-Lecudina capitellae Hasselman, 1926 SPECIES
-=======
+# Lecudina capitellae Hasselman, 1926 SPECIES
 
 #### Status
 ACCEPTED

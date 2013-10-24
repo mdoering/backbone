@@ -1,5 +1,4 @@
-Aecidium asperulinum Juel SPECIES
-=======
+# Aecidium asperulinum Juel SPECIES
 
 #### Status
 ACCEPTED

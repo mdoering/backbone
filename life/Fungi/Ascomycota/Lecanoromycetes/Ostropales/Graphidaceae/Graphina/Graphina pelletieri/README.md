@@ -1,5 +1,4 @@
-Graphina pelletieri (Fée) Müll. Arg. SPECIES
-=======
+# Graphina pelletieri (Fée) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

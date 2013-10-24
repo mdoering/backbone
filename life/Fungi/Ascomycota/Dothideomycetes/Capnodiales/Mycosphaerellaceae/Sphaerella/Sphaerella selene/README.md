@@ -1,5 +1,4 @@
-Sphaerella selene Sacc. SPECIES
-=======
+# Sphaerella selene Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora riparia (Flot.) J. Steiner SPECIES
-=======
+# Lecanora riparia (Flot.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

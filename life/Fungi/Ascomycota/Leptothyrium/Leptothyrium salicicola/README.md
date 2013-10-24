@@ -1,5 +1,4 @@
-Leptothyrium salicicola H.C. Greene SPECIES
-=======
+# Leptothyrium salicicola H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

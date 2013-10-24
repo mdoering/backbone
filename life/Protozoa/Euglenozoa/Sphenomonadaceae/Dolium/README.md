@@ -1,5 +1,4 @@
-Dolium Larsen & Patterson, 1990 GENUS
-=======
+# Dolium Larsen & Patterson, 1990 GENUS
 
 #### Status
 ACCEPTED

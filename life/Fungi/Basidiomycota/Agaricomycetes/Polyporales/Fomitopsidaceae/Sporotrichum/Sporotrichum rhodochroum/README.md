@@ -1,5 +1,4 @@
-Sporotrichum rhodochroum Link SPECIES
-=======
+# Sporotrichum rhodochroum Link SPECIES
 
 #### Status
 ACCEPTED

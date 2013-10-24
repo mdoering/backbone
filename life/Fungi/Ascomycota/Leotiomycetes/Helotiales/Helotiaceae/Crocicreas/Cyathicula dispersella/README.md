@@ -1,5 +1,4 @@
-Cyathicula dispersella (P. Karst.) E. Müll. SPECIES
-=======
+# Cyathicula dispersella (P. Karst.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

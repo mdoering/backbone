@@ -1,5 +1,4 @@
-Fusicladium hariotianum Sacc. SPECIES
-=======
+# Fusicladium hariotianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

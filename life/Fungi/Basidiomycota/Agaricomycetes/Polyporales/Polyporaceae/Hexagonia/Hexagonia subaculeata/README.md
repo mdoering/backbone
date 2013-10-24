@@ -1,5 +1,4 @@
-Hexagonia subaculeata Ces. SPECIES
-=======
+# Hexagonia subaculeata Ces. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerulina muscicola Pat. SPECIES
-=======
+# Sphaerulina muscicola Pat. SPECIES
 
 #### Status
 ACCEPTED

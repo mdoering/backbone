@@ -1,5 +1,4 @@
-Didymobotryopsis GENUS
-=======
+# Didymobotryopsis GENUS
 
 #### Status
 ACCEPTED

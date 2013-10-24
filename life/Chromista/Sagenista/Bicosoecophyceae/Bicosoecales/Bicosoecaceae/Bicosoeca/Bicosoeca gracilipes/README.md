@@ -1,5 +1,4 @@
-Bicosoeca gracilipes H.J. Clark SPECIES
-=======
+# Bicosoeca gracilipes H.J. Clark SPECIES
 
 #### Status
 ACCEPTED

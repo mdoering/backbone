@@ -1,5 +1,4 @@
-Sargassum wakayamaense Yoshida SPECIES
-=======
+# Sargassum wakayamaense Yoshida SPECIES
 
 #### Status
 ACCEPTED

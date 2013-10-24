@@ -1,5 +1,4 @@
-Paramaecium inversum SPECIES
-=======
+# Paramaecium inversum SPECIES
 
 #### Status
 ACCEPTED

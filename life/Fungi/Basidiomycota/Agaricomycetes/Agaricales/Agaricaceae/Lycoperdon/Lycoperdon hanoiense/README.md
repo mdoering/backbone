@@ -1,5 +1,4 @@
-Lycoperdon hanoiense Pat. SPECIES
-=======
+# Lycoperdon hanoiense Pat. SPECIES
 
 #### Status
 ACCEPTED

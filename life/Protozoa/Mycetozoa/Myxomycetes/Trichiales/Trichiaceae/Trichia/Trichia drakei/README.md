@@ -1,8 +1,7 @@
-Trichia drakii Lodhi SPECIES
-=======
+# Trichia drakei Lodhi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichia drakii Lodhi
+Trichia drakei Lodhi
 
 ### Remarks
 null

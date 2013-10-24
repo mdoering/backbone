@@ -1,5 +1,4 @@
-Peltaster amazonensis Bat. & H. Maia SPECIES
-=======
+# Peltaster amazonensis Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

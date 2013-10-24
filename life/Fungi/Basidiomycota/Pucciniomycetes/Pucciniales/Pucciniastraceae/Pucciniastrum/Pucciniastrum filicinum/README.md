@@ -1,5 +1,4 @@
-Pucciniastrum filicinum Speg. SPECIES
-=======
+# Pucciniastrum filicinum Speg. SPECIES
 
 #### Status
 ACCEPTED

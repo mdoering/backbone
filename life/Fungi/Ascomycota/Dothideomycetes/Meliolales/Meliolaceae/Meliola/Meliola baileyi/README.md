@@ -1,5 +1,4 @@
-Meliola baileyi Hansf. SPECIES
-=======
+# Meliola baileyi Hansf. SPECIES
 
 #### Status
 ACCEPTED

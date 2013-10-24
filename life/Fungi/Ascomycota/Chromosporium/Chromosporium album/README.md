@@ -1,5 +1,4 @@
-Chromosporium album (Corda) Sacc. SPECIES
-=======
+# Chromosporium album (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

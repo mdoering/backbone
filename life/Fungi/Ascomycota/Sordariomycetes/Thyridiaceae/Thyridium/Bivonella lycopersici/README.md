@@ -1,5 +1,4 @@
-Bivonella lycopersici Pass. SPECIES
-=======
+# Bivonella lycopersici Pass. SPECIES
 
 #### Status
 ACCEPTED

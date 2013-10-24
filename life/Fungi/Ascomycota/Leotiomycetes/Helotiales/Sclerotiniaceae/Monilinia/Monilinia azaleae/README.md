@@ -1,5 +1,4 @@
-Monilinia azaleae Honey SPECIES
-=======
+# Monilinia azaleae Honey SPECIES
 
 #### Status
 ACCEPTED

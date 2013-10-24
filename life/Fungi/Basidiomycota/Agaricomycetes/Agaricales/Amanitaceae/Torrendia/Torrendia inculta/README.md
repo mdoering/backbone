@@ -1,17 +1,16 @@
-Amanita inculta (Bougher) Justo, 2010 SPECIES
-=======
+# Torrendia inculta Bougher, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aust. Syst. Bot. 12(1): 149 (1999)
 
 #### Original name
-null
+Torrendia inculta Bougher, 1999
 
 ### Remarks
 null

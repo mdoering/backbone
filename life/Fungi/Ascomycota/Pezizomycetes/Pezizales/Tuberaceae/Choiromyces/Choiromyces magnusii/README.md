@@ -1,5 +1,4 @@
-Choiromyces magnusii (Mattir.) Paol. SPECIES
-=======
+# Choiromyces magnusii (Mattir.) Paol. SPECIES
 
 #### Status
 ACCEPTED

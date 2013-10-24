@@ -1,5 +1,4 @@
-Nocardia elegans Yassin & Brenner, 2005 SPECIES
-=======
+# Nocardia elegans Yassin & Brenner, 2005 SPECIES
 
 #### Status
 ACCEPTED

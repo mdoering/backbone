@@ -1,5 +1,4 @@
-Trichia punicea Haller SPECIES
-=======
+# Trichia punicea Haller SPECIES
 
 #### Status
 ACCEPTED

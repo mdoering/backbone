@@ -1,5 +1,4 @@
-Dendryphion harknessii var. harknessii Ellis VARIETY
-=======
+# Dendryphion harknessii Ellis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Ellis & Harkn. , Bull. Torrey bot. Club 8: 27 (1881)
 
 #### Original name
-Dendryphion harknessii var. harknessii Ellis
+Dendryphion harknessii Ellis
 
 ### Remarks
 null

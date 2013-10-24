@@ -1,5 +1,4 @@
-Usnea pygmoidea (Asahina) Y. Ohmura SPECIES
-=======
+# Usnea pygmoidea (Asahina) Y. Ohmura SPECIES
 
 #### Status
 ACCEPTED

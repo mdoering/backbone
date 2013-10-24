@@ -1,5 +1,4 @@
-Plasmodiophora brassicae Woronin, 1877 SPECIES
-=======
+# Plasmodiophora brassicae Woronin, 1877 SPECIES
 
 #### Status
 ACCEPTED

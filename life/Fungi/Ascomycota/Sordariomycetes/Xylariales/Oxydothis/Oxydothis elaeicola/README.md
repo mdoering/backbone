@@ -1,5 +1,4 @@
-Oxydothis elaeicola Petr. SPECIES
-=======
+# Oxydothis elaeicola Petr. SPECIES
 
 #### Status
 ACCEPTED

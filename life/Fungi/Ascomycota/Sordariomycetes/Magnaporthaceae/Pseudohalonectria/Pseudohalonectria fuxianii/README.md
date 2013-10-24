@@ -1,5 +1,4 @@
-Pseudohalonectria fuxianii L. Cai, K.M. Tsui, K.Q. Zhang & K.D. Hyde, 2002 SPECIES
-=======
+# Pseudohalonectria fuxianii L. Cai, K.M. Tsui, K.Q. Zhang & K.D. Hyde, 2002 SPECIES
 
 #### Status
 ACCEPTED

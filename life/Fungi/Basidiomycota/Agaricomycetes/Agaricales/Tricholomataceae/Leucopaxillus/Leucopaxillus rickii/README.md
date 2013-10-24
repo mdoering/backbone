@@ -1,5 +1,4 @@
-Leucopaxillus rickii Singer SPECIES
-=======
+# Leucopaxillus rickii Singer SPECIES
 
 #### Status
 ACCEPTED

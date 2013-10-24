@@ -1,5 +1,4 @@
-Sclerococcum lecanorae Vouaux SPECIES
-=======
+# Sclerococcum lecanorae Vouaux SPECIES
 
 #### Status
 ACCEPTED

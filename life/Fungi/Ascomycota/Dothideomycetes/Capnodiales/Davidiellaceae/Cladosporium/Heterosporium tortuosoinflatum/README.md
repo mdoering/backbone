@@ -1,5 +1,4 @@
-Heterosporium tortuosoinflatum Bubák SPECIES
-=======
+# Heterosporium tortuosoinflatum Bubák SPECIES
 
 #### Status
 ACCEPTED

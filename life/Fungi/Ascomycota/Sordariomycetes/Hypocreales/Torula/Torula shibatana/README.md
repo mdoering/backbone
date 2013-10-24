@@ -1,5 +1,4 @@
-Torula shibatana Okun. SPECIES
-=======
+# Torula shibatana Okun. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria persicae Pass. SPECIES
-=======
+# Didymosphaeria persicae Pass. SPECIES
 
 #### Status
 ACCEPTED

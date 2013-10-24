@@ -1,5 +1,4 @@
-Cladomyces A. Engler, 1883 GENUS
-=======
+# Cladomyces A. Engler, 1883 GENUS
 
 #### Status
 ACCEPTED

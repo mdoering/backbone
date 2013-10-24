@@ -1,5 +1,4 @@
-Marasmius albipilata (Peck) Singer SPECIES
-=======
+# Marasmius albipilata (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Notorotalia zelandica Finlay, 1949 SPECIES
-=======
+# Notorotalia zelandica Finlay, 1949 SPECIES
 
 #### Status
 ACCEPTED

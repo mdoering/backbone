@@ -1,5 +1,4 @@
-Erinella guaranitica Speg. SPECIES
-=======
+# Erinella guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

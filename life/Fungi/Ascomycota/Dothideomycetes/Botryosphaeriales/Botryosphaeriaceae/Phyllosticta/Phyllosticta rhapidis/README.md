@@ -1,5 +1,4 @@
-Phyllosticta rhapidis Verpl. & van den Broecke SPECIES
-=======
+# Phyllosticta rhapidis Verpl. & van den Broecke SPECIES
 
 #### Status
 ACCEPTED

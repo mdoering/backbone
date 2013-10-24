@@ -1,5 +1,4 @@
-Penicillium liani Kamyschko SPECIES
-=======
+# Penicillium liani Kamyschko SPECIES
 
 #### Status
 ACCEPTED

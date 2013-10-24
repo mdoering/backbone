@@ -1,5 +1,4 @@
-Morenoina australis (Speg.) Theiss. SPECIES
-=======
+# Morenoina australis (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

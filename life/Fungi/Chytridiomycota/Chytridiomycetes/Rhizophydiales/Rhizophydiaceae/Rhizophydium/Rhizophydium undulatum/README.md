@@ -1,5 +1,4 @@
-Rhizophydium undulatum Sparrow & Lange SPECIES
-=======
+# Rhizophydium undulatum Sparrow & Lange SPECIES
 
 #### Status
 ACCEPTED

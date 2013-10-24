@@ -1,5 +1,4 @@
-Meliola cunoniae Hansf. SPECIES
-=======
+# Meliola cunoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

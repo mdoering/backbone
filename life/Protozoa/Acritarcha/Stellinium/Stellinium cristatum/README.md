@@ -1,5 +1,4 @@
-Stellinium cristatum Wicander, 1974 SPECIES
-=======
+# Stellinium cristatum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

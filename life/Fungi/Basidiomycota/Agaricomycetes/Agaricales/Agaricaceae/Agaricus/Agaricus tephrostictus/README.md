@@ -1,5 +1,4 @@
-Agaricus tephrostictus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus tephrostictus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

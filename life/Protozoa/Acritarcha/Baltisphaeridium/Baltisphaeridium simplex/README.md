@@ -1,5 +1,4 @@
-Baltisphaeridium simplex Stockmans & Willière, 1962 SPECIES
-=======
+# Baltisphaeridium simplex Stockmans & Willière, 1962 SPECIES
 
 #### Status
 ACCEPTED

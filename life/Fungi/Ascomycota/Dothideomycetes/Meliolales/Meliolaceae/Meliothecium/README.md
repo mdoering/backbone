@@ -1,5 +1,4 @@
-Meliothecium GENUS
-=======
+# Meliothecium GENUS
 
 #### Status
 ACCEPTED

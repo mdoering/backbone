@@ -1,5 +1,4 @@
-Stereum fusco-olivaceum G.H. Otth SPECIES
-=======
+# Stereum fusco-olivaceum G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

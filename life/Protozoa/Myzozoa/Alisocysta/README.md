@@ -1,14 +1,13 @@
-Agerasphaera R. Harland, 1979 GENUS
-=======
+# Alisocysta Stover & Evitt GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-Review Palaeobot. Palynol. 28 (1): 28.
+Stanford Univ. Publs Geol. Sci. 15: 15.
 
 #### Original name
 null

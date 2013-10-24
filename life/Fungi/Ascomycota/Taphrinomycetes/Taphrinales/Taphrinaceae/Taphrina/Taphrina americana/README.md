@@ -1,5 +1,4 @@
-Taphrina americana Mix, 1947 SPECIES
-=======
+# Taphrina americana Mix, 1947 SPECIES
 
 #### Status
 ACCEPTED

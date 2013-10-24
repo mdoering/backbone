@@ -1,5 +1,4 @@
-Pleospora nabelekii Picb. SPECIES
-=======
+# Pleospora nabelekii Picb. SPECIES
 
 #### Status
 ACCEPTED

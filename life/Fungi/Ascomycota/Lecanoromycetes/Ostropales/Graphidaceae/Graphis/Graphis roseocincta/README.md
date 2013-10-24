@@ -1,5 +1,4 @@
-Graphis roseocincta Vain. SPECIES
-=======
+# Graphis roseocincta Vain. SPECIES
 
 #### Status
 ACCEPTED

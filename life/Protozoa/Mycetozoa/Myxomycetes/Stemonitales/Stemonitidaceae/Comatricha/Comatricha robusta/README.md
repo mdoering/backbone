@@ -1,14 +1,13 @@
-Macbrideola robusta T.N. Lakh. & K.G. Mukerji, 1977 SPECIES
-=======
+# Comatricha robusta (T.N. Lakh. & K.G. Mukerji) Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Bot. Indica 5(1): 58 (1977)
+Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 86(2): 236 (1983)
 
 #### Original name
 Macbrideola robusta T.N. Lakh. & K.G. Mukerji, 1977

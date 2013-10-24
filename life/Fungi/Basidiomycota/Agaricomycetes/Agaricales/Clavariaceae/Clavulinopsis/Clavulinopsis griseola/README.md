@@ -1,14 +1,13 @@
-Clavaria griseola Rea, 1932 SPECIES
-=======
+# Clavulinopsis griseola (Rea) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 17(1-2): 47 (1932)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 370 (1950)
 
 #### Original name
 Clavaria griseola Rea, 1932

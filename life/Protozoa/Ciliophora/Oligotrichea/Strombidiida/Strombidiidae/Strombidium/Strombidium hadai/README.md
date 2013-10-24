@@ -1,5 +1,4 @@
-Strombidium hadai SPECIES
-=======
+# Strombidium hadai SPECIES
 
 #### Status
 ACCEPTED

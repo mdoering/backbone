@@ -1,5 +1,4 @@
-Acholeplasma multilocale Hill et al., 1992 SPECIES
-=======
+# Acholeplasma multilocale Hill et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

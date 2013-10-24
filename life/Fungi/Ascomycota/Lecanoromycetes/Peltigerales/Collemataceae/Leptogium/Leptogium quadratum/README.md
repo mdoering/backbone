@@ -1,5 +1,4 @@
-Leptogium quadratum (Körb.) J. Lahm SPECIES
-=======
+# Leptogium quadratum (Körb.) J. Lahm SPECIES
 
 #### Status
 ACCEPTED

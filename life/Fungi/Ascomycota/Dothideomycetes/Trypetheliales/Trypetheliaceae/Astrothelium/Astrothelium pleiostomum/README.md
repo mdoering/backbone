@@ -1,5 +1,4 @@
-Astrothelium pleiostomum Redinger SPECIES
-=======
+# Astrothelium pleiostomum Redinger SPECIES
 
 #### Status
 ACCEPTED

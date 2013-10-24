@@ -1,5 +1,4 @@
-Ovulariopsis farinosa Syd. SPECIES
-=======
+# Ovulariopsis farinosa Syd. SPECIES
 
 #### Status
 ACCEPTED

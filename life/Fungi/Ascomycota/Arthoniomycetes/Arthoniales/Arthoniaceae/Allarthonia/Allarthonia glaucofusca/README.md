@@ -1,5 +1,4 @@
-Allarthonia glaucofusca (Körb.) Lettau SPECIES
-=======
+# Allarthonia glaucofusca (Körb.) Lettau SPECIES
 
 #### Status
 ACCEPTED

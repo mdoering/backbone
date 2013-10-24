@@ -1,14 +1,13 @@
-Doassansia callitriches Linder, 1939 SPECIES
-=======
+# Heterodoassansia callitrichis (H.S. Jacks. & Linder) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 30(6): 669 (1938)
+Mycotaxon 69: 111 (1998)
 
 #### Original name
 Doassansia callitriches Linder, 1939

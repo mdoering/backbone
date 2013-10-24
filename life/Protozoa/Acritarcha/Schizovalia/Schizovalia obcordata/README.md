@@ -1,5 +1,4 @@
-Schizovalia obcordata Yan Yuzhong, 1985 SPECIES
-=======
+# Schizovalia obcordata Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

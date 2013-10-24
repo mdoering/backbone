@@ -1,5 +1,4 @@
-Puccinia urticae-austroalpinae Mayor SPECIES
-=======
+# Puccinia urticae-austroalpinae Mayor SPECIES
 
 #### Status
 ACCEPTED

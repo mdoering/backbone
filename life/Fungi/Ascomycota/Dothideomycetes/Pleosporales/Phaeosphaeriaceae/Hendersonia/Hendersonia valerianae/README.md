@@ -1,5 +1,4 @@
-Hendersonia valerianae Henn. SPECIES
-=======
+# Hendersonia valerianae Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erysiphe kenjiana (Homma) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe kenjiana (Homma) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

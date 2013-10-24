@@ -1,5 +1,4 @@
-Phacus anomalus var. pullus-gallinae Nygaard VARIETY
-=======
+# Phacus anomalus F.E. Fritsch & M.F. Rich SPECIES
 
 #### Status
 ACCEPTED

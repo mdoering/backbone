@@ -1,5 +1,4 @@
-Lecidea charcotii Hue SPECIES
-=======
+# Lecidea charcotii Hue SPECIES
 
 #### Status
 ACCEPTED

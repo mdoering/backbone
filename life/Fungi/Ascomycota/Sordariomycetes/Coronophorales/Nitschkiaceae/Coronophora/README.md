@@ -1,5 +1,4 @@
-Coronophora Fuckel, 1864 GENUS
-=======
+# Coronophora Fuckel, 1864 GENUS
 
 #### Status
 ACCEPTED

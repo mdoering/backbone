@@ -1,5 +1,4 @@
-Strickeria pezizoides (Sacc. & Speg.) Cooke SPECIES
-=======
+# Strickeria pezizoides (Sacc. & Speg.) Cooke SPECIES
 
 #### Status
 ACCEPTED

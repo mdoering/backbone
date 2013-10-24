@@ -1,17 +1,16 @@
-Oudemansiella radicata var. radicata VARIETY
-=======
+# Xerula radicata (Relhan) Dörfelt, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 34(4/5): 333 (1936)
+Veröff. Mus. Stadt Gera, Naturwissenschaftliche Reihe 2-3: 67 (1975)
 
 #### Original name
-Oudemansiella radicata var. radicata
+Agaricus radicatus Relhan, 1786
 
 ### Remarks
 null

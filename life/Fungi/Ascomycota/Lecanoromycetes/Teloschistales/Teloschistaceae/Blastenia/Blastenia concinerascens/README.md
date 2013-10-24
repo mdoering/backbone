@@ -1,5 +1,4 @@
-Blastenia concinerascens (Nyl.) Maheu & A. Gillet SPECIES
-=======
+# Blastenia concinerascens (Nyl.) Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kmetiopsis hymenaeae Bat. & Peres, 1960 SPECIES
-=======
+# Kmetiopsis hymenaeae Bat. & Peres, 1960 SPECIES
 
 #### Status
 ACCEPTED

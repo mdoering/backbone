@@ -1,5 +1,4 @@
-Marasmius hemibaphus Berk. & Broome SPECIES
-=======
+# Marasmius hemibaphus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

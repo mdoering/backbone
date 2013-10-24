@@ -1,5 +1,4 @@
-Placodium chrysoleucum var. chrysoleucum VARIETY
-=======
+# Placodium chrysoleucum ? chrysoleucum (Sm.) anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium chrysoleucum var. chrysoleucum
+Placodium chrysoleucum ? chrysoleucum (Sm.) anon.
 
 ### Remarks
 null

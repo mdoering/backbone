@@ -1,5 +1,4 @@
-Gordiacysta Miles, 1990 GENUS
-=======
+# Gordiacysta Miles, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aurosphaeraceae FAMILY
-=======
+# Aurosphaeraceae FAMILY
 
 #### Status
 ACCEPTED

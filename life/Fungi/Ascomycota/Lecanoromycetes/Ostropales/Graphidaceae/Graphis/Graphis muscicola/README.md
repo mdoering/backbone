@@ -1,5 +1,4 @@
-Graphis muscicola (Kalb) Staiger SPECIES
-=======
+# Graphis muscicola (Kalb) Staiger SPECIES
 
 #### Status
 ACCEPTED

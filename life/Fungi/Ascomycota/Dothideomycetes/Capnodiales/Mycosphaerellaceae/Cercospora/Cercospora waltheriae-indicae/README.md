@@ -1,5 +1,4 @@
-Cercospora waltheriae-indicae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora waltheriae-indicae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

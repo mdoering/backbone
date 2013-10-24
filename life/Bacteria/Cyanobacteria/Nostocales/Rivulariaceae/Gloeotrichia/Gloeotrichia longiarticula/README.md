@@ -1,5 +1,4 @@
-Gloeotrichia longiarticula G. S. West, 1907 SPECIES
-=======
+# Gloeotrichia longiarticula G. S. West, 1907 SPECIES
 
 #### Status
 ACCEPTED

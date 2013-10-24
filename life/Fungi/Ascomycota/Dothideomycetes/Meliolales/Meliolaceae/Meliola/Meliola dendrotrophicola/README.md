@@ -1,5 +1,4 @@
-Meliola dendrotrophicola H. Hu & J.C. Yang SPECIES
-=======
+# Meliola dendrotrophicola H. Hu & J.C. Yang SPECIES
 
 #### Status
 ACCEPTED

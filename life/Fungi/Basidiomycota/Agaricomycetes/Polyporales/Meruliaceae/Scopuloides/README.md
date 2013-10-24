@@ -1,5 +1,4 @@
-Scopuloides GENUS
-=======
+# Scopuloides GENUS
 
 #### Status
 ACCEPTED

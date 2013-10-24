@@ -1,5 +1,4 @@
-Urceolaria polygonia (Vill.) SPECIES
-=======
+# Urceolaria polygonia (Vill.) SPECIES
 
 #### Status
 ACCEPTED

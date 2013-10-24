@@ -1,5 +1,4 @@
-Phyllosticta acoricola (Cooke) Oudem. SPECIES
-=======
+# Phyllosticta acoricola (Cooke) Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria personata Kremp. SPECIES
-=======
+# Verrucaria personata Kremp. SPECIES
 
 #### Status
 ACCEPTED

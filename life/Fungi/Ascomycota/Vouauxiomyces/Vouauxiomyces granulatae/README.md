@@ -1,5 +1,4 @@
-Vouauxiomyces granulatae Wedin SPECIES
-=======
+# Vouauxiomyces granulatae Wedin SPECIES
 
 #### Status
 ACCEPTED

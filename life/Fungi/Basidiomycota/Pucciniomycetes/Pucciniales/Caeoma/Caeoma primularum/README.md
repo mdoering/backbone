@@ -1,5 +1,4 @@
-Caeoma primularum Link SPECIES
-=======
+# Caeoma primularum Link SPECIES
 
 #### Status
 ACCEPTED

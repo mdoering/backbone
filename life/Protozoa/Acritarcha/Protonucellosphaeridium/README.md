@@ -1,5 +1,4 @@
-Protonucellosphaeridium Timofeev, 1963 GENUS
-=======
+# Protonucellosphaeridium Timofeev, 1963 GENUS
 
 #### Status
 ACCEPTED

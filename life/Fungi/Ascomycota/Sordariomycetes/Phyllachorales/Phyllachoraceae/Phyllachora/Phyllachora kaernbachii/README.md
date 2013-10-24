@@ -1,14 +1,13 @@
-Catacauma karnbachii (Henn.) Theiss. & Syd. SPECIES
-=======
+# Phyllachora kaernbachii Henn., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Engler's Bot. Jahrb. 44(18 beib. ): 39 (1894)
 
 #### Original name
 Phyllachora kaernbachii Henn., 1894

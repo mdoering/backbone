@@ -1,5 +1,4 @@
-Albomyces sasicola Oguchi, 2001 SPECIES
-=======
+# Albomyces sasicola Oguchi, 2001 SPECIES
 
 #### Status
 ACCEPTED

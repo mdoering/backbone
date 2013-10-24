@@ -1,5 +1,4 @@
-Cibicidoides globulosus Chapman & Parr, 1937 SPECIES
-=======
+# Cibicidoides globulosus Chapman & Parr, 1937 SPECIES
 
 #### Status
 ACCEPTED

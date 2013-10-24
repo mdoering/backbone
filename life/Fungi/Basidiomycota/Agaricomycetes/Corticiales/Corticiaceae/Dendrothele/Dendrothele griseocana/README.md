@@ -1,14 +1,13 @@
-Corticium griseocanum Bres., 1898 SPECIES
-=======
+# Dendrothele griseocana (Bres.) Bourdot & Galzin, 1913 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fung. trident. 2(11-13): 58 (1898)
+Bull. Soc. mycol. Fr. 28(4): 354 (1913)
 
 #### Original name
 Corticium griseocanum Bres., 1898

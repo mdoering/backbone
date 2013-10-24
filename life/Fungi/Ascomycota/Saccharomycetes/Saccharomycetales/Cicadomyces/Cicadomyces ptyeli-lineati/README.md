@@ -1,5 +1,4 @@
-Cicadomyces ptyeli-lineati Šulc, 1911 SPECIES
-=======
+# Cicadomyces ptyeli-lineati Šulc, 1911 SPECIES
 
 #### Status
 ACCEPTED

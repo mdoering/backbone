@@ -1,5 +1,4 @@
-Peronospora cynoglossi Burrill SPECIES
-=======
+# Peronospora cynoglossi Burrill SPECIES
 
 #### Status
 ACCEPTED

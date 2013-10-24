@@ -1,17 +1,16 @@
-Cystoderma jasonis f. jasonis FORM
-=======
+# Cystoderma jasonis (Cooke & Massee) Harmaja, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Karstenia 18(1): 29 (1978)
 
 #### Original name
-null
+Agaricus jasonis Cooke & Massee, 1888
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Allantoporthe GENUS
-=======
+# Allantoporthe GENUS
 
 #### Status
 ACCEPTED

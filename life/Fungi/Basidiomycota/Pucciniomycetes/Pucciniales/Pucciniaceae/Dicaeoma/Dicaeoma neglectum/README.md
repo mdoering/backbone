@@ -1,5 +1,4 @@
-Dicaeoma neglectum (Magnus) Kuntze SPECIES
-=======
+# Dicaeoma neglectum (Magnus) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exoascus amentorum Sadeb. SPECIES
-=======
+# Exoascus amentorum Sadeb. SPECIES
 
 #### Status
 ACCEPTED

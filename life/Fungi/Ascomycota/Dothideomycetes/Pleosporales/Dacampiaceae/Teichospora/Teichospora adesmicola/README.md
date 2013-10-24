@@ -1,5 +1,4 @@
-Teichospora adesmicola Speg. SPECIES
-=======
+# Teichospora adesmicola Speg. SPECIES
 
 #### Status
 ACCEPTED

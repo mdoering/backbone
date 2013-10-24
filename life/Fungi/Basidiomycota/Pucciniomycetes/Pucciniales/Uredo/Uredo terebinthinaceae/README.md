@@ -1,5 +1,4 @@
-Uredo terebinthinaceae Schwein. SPECIES
-=======
+# Uredo terebinthinaceae Schwein. SPECIES
 
 #### Status
 ACCEPTED

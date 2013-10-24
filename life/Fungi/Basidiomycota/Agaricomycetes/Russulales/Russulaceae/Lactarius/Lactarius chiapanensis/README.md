@@ -1,5 +1,4 @@
-Lactarius chiapanensis Montoya, Bandala & Guzmán SPECIES
-=======
+# Lactarius chiapanensis Montoya, Bandala & Guzmán SPECIES
 
 #### Status
 ACCEPTED

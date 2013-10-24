@@ -1,5 +1,4 @@
-Cytosporina abietina Ferraris SPECIES
-=======
+# Cytosporina abietina Ferraris SPECIES
 
 #### Status
 ACCEPTED

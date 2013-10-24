@@ -1,5 +1,4 @@
-Pseudocercospora gomphrenae-pulchellae U. Braun, Delhey & Kiehr SPECIES
-=======
+# Pseudocercospora gomphrenae-pulchellae U. Braun, Delhey & Kiehr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloiocephala phormiorum E. Horak & Desjardin, 1994 SPECIES
-=======
+# Gloiocephala phormiorum E. Horak & Desjardin, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola justiciae Hansf. SPECIES
-=======
+# Meliola justiciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

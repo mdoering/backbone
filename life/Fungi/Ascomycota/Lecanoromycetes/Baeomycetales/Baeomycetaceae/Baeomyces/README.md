@@ -1,17 +1,16 @@
-Sphyridiomyces E.A. Thomas ex Cif. & Tomas. GENUS
-=======
+# Baeomyces Persoon, 1794 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 41, 67 (1953)
+null
 
 #### Original name
-Sphyridiomyces E.A. Thomas ex Cif. & Tomas.
+null
 
 ### Remarks
 null

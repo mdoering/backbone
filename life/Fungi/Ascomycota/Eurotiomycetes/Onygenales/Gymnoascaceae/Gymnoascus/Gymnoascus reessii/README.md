@@ -1,17 +1,16 @@
-Gymnoascus reesii Baran. SPECIES
-=======
+# Gymnoascus reessii Baran., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Ztg. 30: 158 (1872)
 
 #### Original name
-Gymnoascus reesii Baran.
+Gymnoascus reessii Baran., 1872
 
 ### Remarks
 null

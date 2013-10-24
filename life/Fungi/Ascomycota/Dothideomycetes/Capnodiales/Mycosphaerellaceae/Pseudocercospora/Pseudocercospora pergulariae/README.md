@@ -1,5 +1,4 @@
-Pseudocercospora pergulariae (J.M. Yen & Lim) J.M. Yen SPECIES
-=======
+# Pseudocercospora pergulariae (J.M. Yen & Lim) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

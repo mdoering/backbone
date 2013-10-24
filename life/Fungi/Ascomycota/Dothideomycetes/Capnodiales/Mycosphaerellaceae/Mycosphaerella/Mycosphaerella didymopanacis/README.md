@@ -1,5 +1,4 @@
-Mycosphaerella didymopanacis Miles SPECIES
-=======
+# Mycosphaerella didymopanacis Miles SPECIES
 
 #### Status
 ACCEPTED

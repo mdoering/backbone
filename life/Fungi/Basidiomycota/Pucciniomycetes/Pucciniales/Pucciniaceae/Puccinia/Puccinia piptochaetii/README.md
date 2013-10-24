@@ -1,5 +1,4 @@
-Puccinia piptochaetii Dietel & Neger SPECIES
-=======
+# Puccinia piptochaetii Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

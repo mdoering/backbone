@@ -1,5 +1,4 @@
-Leucophra posthuma Müller, 1786 SPECIES
-=======
+# Leucophra posthuma Müller, 1786 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caeomatiformis Lagerh. SPECIES
-=======
+# Puccinia caeomatiformis Lagerh. SPECIES
 
 #### Status
 ACCEPTED

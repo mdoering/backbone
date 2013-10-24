@@ -1,5 +1,4 @@
-Acetabularia cycnopotamia Berk. SPECIES
-=======
+# Acetabularia cycnopotamia Berk. SPECIES
 
 #### Status
 ACCEPTED

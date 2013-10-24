@@ -1,5 +1,4 @@
-Phloepeccania Henssen GENUS
-=======
+# Phloepeccania Henssen GENUS
 
 #### Status
 ACCEPTED

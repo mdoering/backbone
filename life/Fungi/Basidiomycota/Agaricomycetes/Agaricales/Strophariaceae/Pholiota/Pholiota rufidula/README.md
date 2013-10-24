@@ -1,5 +1,4 @@
-Pholiota rufidula (Kalchbr.) Sacc. SPECIES
-=======
+# Pholiota rufidula (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

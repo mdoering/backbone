@@ -1,5 +1,4 @@
-Exosporium pterocarpi M.B. Ellis SPECIES
-=======
+# Exosporium pterocarpi M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

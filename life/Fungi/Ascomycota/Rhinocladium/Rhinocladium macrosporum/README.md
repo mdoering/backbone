@@ -1,5 +1,4 @@
-Rhinocladium macrosporum P. Karst. SPECIES
-=======
+# Rhinocladium macrosporum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

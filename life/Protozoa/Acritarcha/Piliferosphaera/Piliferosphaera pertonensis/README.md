@@ -1,5 +1,4 @@
-Piliferosphaera pertonensis Dorning, 1981 SPECIES
-=======
+# Piliferosphaera pertonensis Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

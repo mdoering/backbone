@@ -1,5 +1,4 @@
-Graphis confluens (Fée) Fée SPECIES
-=======
+# Graphis confluens (Fée) Fée SPECIES
 
 #### Status
 ACCEPTED

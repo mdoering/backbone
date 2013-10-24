@@ -1,14 +1,13 @@
-Lachnea subatra Rehm, 1891 SPECIES
-=======
+# Anthracobia subatra (Rehm) M.M. Moser, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Gams, Kleine Kryptogamenflora (Stuttgart), Edn 3 2a: 109 (1963)
 
 #### Original name
 Lachnea subatra Rehm, 1891

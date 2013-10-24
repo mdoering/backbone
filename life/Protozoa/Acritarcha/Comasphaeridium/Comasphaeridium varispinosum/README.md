@@ -1,5 +1,4 @@
-Comasphaeridium varispinosum Uutela, 1989 SPECIES
-=======
+# Comasphaeridium varispinosum Uutela, 1989 SPECIES
 
 #### Status
 ACCEPTED

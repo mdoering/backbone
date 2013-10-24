@@ -1,5 +1,4 @@
-Verrucaria suberis Clemente SPECIES
-=======
+# Verrucaria suberis Clemente SPECIES
 
 #### Status
 ACCEPTED

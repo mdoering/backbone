@@ -1,5 +1,4 @@
-Meliola dissotidis var. dissotidis VARIETY
-=======
+# Meliola dissotidis Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycol. Pap. 23: 11 (1948)
 
 #### Original name
-Meliola dissotidis var. dissotidis
+Meliola dissotidis Hansf. & Deighton
 
 ### Remarks
 null

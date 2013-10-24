@@ -1,5 +1,4 @@
-Hymenoscyphus versatilis (Fr.) Kuntze SPECIES
-=======
+# Hymenoscyphus versatilis (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

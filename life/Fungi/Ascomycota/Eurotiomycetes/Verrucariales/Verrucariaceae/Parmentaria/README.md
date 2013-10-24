@@ -1,5 +1,4 @@
-Parmentaria GENUS
-=======
+# Parmentaria GENUS
 
 #### Status
 ACCEPTED

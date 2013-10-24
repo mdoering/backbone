@@ -1,5 +1,4 @@
-Verticillium africanum (Durieu & Mont.) Sacc. SPECIES
-=======
+# Verticillium africanum (Durieu & Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina fragilis (Arnold) Zahlbr. SPECIES
-=======
+# Porina fragilis (Arnold) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

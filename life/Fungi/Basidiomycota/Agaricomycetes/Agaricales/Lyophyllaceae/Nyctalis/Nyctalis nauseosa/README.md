@@ -1,5 +1,4 @@
-Nyctalis nauseosa (Weinm.) Fr. SPECIES
-=======
+# Nyctalis nauseosa (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

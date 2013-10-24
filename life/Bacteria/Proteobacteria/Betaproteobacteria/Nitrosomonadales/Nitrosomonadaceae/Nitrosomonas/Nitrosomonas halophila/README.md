@@ -1,5 +1,4 @@
-Nitrosomonas halophila Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas halophila Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

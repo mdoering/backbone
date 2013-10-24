@@ -1,5 +1,4 @@
-Leptostroma confluens Cooke SPECIES
-=======
+# Leptostroma confluens Cooke SPECIES
 
 #### Status
 ACCEPTED

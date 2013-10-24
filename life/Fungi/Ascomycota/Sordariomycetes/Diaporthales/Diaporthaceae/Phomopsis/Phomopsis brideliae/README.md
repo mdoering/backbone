@@ -1,5 +1,4 @@
-Phomopsis brideliae Chowdhry SPECIES
-=======
+# Phomopsis brideliae Chowdhry SPECIES
 
 #### Status
 ACCEPTED

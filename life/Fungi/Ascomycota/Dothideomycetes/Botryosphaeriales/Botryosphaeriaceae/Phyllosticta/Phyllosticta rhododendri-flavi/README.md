@@ -1,5 +1,4 @@
-Phyllosticta rhododendri-flavi Bubák & Kabát SPECIES
-=======
+# Phyllosticta rhododendri-flavi Bubák & Kabát SPECIES
 
 #### Status
 ACCEPTED

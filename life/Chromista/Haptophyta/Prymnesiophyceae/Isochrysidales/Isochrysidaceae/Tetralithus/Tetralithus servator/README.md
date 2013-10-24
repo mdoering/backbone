@@ -1,5 +1,4 @@
-Tetralithus servator J.B. Risatti SPECIES
-=======
+# Tetralithus servator J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

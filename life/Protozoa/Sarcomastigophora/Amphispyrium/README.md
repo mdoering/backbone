@@ -1,5 +1,4 @@
-Amphispyrium Haeckel, 1887 GENUS
-=======
+# Amphispyrium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

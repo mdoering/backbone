@@ -1,8 +1,7 @@
-Micrococcus kristinae Kloos et al., 1974 (Approved Lists, 1980) SPECIES
-=======
+# Kocuria kristinae (Kloos et al., 1974) Stackebrandt et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

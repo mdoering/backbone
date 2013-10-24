@@ -1,5 +1,4 @@
-Phylliscum macrosporum Henssen SPECIES
-=======
+# Phylliscum macrosporum Henssen SPECIES
 
 #### Status
 ACCEPTED

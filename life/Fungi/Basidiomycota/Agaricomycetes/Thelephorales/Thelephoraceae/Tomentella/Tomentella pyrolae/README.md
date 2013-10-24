@@ -1,5 +1,4 @@
-Tomentella pyrolae (Ellis & Halst.) M.J. Larsen, 1968 SPECIES
-=======
+# Tomentella pyrolae (Ellis & Halst.) M.J. Larsen, 1968 SPECIES
 
 #### Status
 ACCEPTED

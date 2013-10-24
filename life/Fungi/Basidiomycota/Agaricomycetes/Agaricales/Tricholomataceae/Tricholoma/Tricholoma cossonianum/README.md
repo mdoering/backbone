@@ -1,5 +1,4 @@
-Tricholoma cossonianum Maire SPECIES
-=======
+# Tricholoma cossonianum Maire SPECIES
 
 #### Status
 ACCEPTED

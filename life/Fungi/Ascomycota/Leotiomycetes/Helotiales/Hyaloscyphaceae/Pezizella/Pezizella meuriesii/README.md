@@ -1,5 +1,4 @@
-Pezizella meuriesii (Boud.) Sacc. SPECIES
-=======
+# Pezizella meuriesii (Boud.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

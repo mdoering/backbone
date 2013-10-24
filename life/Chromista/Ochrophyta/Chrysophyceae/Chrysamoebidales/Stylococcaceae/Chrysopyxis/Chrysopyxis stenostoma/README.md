@@ -1,5 +1,4 @@
-Chrysopyxis stenostoma Lauterborn SPECIES
-=======
+# Chrysopyxis stenostoma Lauterborn SPECIES
 
 #### Status
 ACCEPTED

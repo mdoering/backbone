@@ -1,14 +1,13 @@
-Rhabdogonium Reuss, 1860 GENUS
-=======
+# Triplasia Reuss, 1854 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species
 
 #### Published in
-null
+Denkschr. Akad. Wiss. Wien, 7 (1), 65.
 
 #### Original name
 null

@@ -1,17 +1,16 @@
-Sphaeria taleola var. taleola VARIETY
-=======
+# Amphiporthe leiphaemia (Fr.) Butin, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 33: 22 (1980)
 
 #### Original name
-null
+Sphaeria leiphaemia Fr., 1823
 
 ### Remarks
 null

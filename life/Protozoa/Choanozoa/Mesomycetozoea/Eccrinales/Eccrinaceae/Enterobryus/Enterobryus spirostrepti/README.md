@@ -1,5 +1,4 @@
-Enterobryus spirostrepti Tuzet & Manier SPECIES
-=======
+# Enterobryus spirostrepti Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

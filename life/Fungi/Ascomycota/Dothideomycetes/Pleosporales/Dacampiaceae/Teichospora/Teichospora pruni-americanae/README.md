@@ -1,5 +1,4 @@
-Teichospora pruni-americanae Rehm SPECIES
-=======
+# Teichospora pruni-americanae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Callopisma helygeoides (Vain.) Räsänen SPECIES
-=======
+# Callopisma helygeoides (Vain.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

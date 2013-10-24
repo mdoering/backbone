@@ -1,5 +1,4 @@
-Ophiobolus niesslii Bäumler, 1887 SPECIES
-=======
+# Ophiobolus niesslii Bäumler, 1887 SPECIES
 
 #### Status
 ACCEPTED

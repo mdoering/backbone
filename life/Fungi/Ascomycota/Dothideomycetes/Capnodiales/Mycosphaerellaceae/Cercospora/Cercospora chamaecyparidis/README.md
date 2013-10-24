@@ -1,5 +1,4 @@
-Cercospora chamaecyparidis Sawada SPECIES
-=======
+# Cercospora chamaecyparidis Sawada SPECIES
 
 #### Status
 ACCEPTED

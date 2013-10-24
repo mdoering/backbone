@@ -1,5 +1,4 @@
-Reichelina Erk, 1942 GENUS
-=======
+# Reichelina Erk, 1942 GENUS
 
 #### Status
 ACCEPTED

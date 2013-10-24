@@ -1,5 +1,4 @@
-Cercospora dodoniae R.K. Srivast., N. Srivast. & A.K. Srivast. SPECIES
-=======
+# Cercospora dodoniae R.K. Srivast., N. Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

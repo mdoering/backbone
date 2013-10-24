@@ -1,5 +1,4 @@
-Dinoroseobacter Biebl et al., 2005 GENUS
-=======
+# Dinoroseobacter Biebl et al., 2005 GENUS
 
 #### Status
 ACCEPTED

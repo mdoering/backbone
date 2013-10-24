@@ -1,5 +1,4 @@
-Staurolithites zoensis SPECIES
-=======
+# Staurolithites zoensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora punctiforme Mont. SPECIES
-=======
+# Melampsora punctiforme Mont. SPECIES
 
 #### Status
 ACCEPTED

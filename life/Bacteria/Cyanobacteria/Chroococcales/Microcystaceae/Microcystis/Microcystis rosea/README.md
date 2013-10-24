@@ -1,5 +1,4 @@
-Microcystis rosea Kufferath SPECIES
-=======
+# Microcystis rosea Kufferath SPECIES
 
 #### Status
 ACCEPTED

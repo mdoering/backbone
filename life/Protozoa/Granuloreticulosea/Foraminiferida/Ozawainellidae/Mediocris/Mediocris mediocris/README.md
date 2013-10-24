@@ -1,5 +1,4 @@
-Mediocris mediocris SPECIES
-=======
+# Mediocris mediocris SPECIES
 
 #### Status
 ACCEPTED

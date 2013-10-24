@@ -1,5 +1,4 @@
-Russula subusta Burl. SPECIES
-=======
+# Russula subusta Burl. SPECIES
 
 #### Status
 ACCEPTED

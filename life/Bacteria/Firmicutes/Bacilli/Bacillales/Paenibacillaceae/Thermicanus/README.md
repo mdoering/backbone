@@ -1,5 +1,4 @@
-Thermicanus Gössner et al., 2000 GENUS
-=======
+# Thermicanus Gössner et al., 2000 GENUS
 
 #### Status
 ACCEPTED

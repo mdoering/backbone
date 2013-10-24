@@ -1,5 +1,4 @@
-Ramularia dolomitica Kabát & Bubák SPECIES
-=======
+# Ramularia dolomitica Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

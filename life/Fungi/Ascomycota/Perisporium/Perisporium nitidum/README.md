@@ -1,5 +1,4 @@
-Perisporium nitidum Berk. SPECIES
-=======
+# Perisporium nitidum Berk. SPECIES
 
 #### Status
 ACCEPTED

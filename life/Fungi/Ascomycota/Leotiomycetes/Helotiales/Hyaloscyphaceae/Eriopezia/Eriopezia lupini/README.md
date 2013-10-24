@@ -1,5 +1,4 @@
-Eriopezia lupini Velen. SPECIES
-=======
+# Eriopezia lupini Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina morminae SPECIES
-=======
+# Irenina morminae SPECIES
 
 #### Status
 ACCEPTED

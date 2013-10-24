@@ -1,5 +1,4 @@
-Cercospora atropae Kwashn. SPECIES
-=======
+# Cercospora atropae Kwashn. SPECIES
 
 #### Status
 ACCEPTED

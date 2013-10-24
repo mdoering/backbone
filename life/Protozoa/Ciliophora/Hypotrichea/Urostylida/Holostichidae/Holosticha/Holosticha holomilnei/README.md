@@ -1,5 +1,4 @@
-Holosticha holomilnei SPECIES
-=======
+# Holosticha holomilnei SPECIES
 
 #### Status
 ACCEPTED

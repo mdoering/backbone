@@ -1,5 +1,4 @@
-Detonia albida Rick SPECIES
-=======
+# Detonia albida Rick SPECIES
 
 #### Status
 ACCEPTED

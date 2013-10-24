@@ -1,5 +1,4 @@
-Clypeolum quercinum (R. Schulz) Sacc. & Traverso SPECIES
-=======
+# Clypeolum quercinum (R. Schulz) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

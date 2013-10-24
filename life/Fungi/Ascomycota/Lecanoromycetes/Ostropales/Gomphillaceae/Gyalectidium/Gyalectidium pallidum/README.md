@@ -1,5 +1,4 @@
-Gyalectidium pallidum Herrera-Camp. & Lücking SPECIES
-=======
+# Gyalectidium pallidum Herrera-Camp. & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma henningsianum Dietel & P. Syd., 1900 SPECIES
-=======
+# Entyloma henningsianum Dietel & P. Syd., 1900 SPECIES
 
 #### Status
 ACCEPTED

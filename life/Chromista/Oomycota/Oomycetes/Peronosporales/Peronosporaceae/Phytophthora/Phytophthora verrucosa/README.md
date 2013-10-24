@@ -1,5 +1,4 @@
-Phytophthora verrucosa Alcock & Foister, 1940 SPECIES
-=======
+# Phytophthora verrucosa Alcock & Foister, 1940 SPECIES
 
 #### Status
 ACCEPTED

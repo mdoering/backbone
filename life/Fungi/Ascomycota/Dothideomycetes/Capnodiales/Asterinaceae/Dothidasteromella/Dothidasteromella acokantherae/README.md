@@ -1,5 +1,4 @@
-Dothidasteromella acokantherae (Henn.) Inácio & P.F. Cannon SPECIES
-=======
+# Dothidasteromella acokantherae (Henn.) Inácio & P.F. Cannon SPECIES
 
 #### Status
 ACCEPTED

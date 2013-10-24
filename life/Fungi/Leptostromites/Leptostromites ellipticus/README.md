@@ -1,5 +1,4 @@
-Leptostromites ellipticus Poinar SPECIES
-=======
+# Leptostromites ellipticus Poinar SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe tequendamae Singer SPECIES
-=======
+# Inocybe tequendamae Singer SPECIES
 
 #### Status
 ACCEPTED

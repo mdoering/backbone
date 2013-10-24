@@ -1,5 +1,4 @@
-Hendersonia dasiphorae Domashova SPECIES
-=======
+# Hendersonia dasiphorae Domashova SPECIES
 
 #### Status
 ACCEPTED

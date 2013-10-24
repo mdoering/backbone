@@ -1,5 +1,4 @@
-Pertusaria cypriaca Erichsen SPECIES
-=======
+# Pertusaria cypriaca Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmatomyces psilopae var. camargensis H.L. Dainat & J. Dainat VARIETY
-=======
+# Stigmatomyces psilopae Thaxt. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 89(3-4): 345 (1973)
+null
 
 #### Original name
-Stigmatomyces psilopae var. camargensis H.L. Dainat & J. Dainat
+Stigmatomyces psilopae Thaxt.
 
 ### Remarks
 null

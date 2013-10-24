@@ -1,5 +1,4 @@
-Nectria haematococcoides Rossman SPECIES
-=======
+# Nectria haematococcoides Rossman SPECIES
 
 #### Status
 ACCEPTED

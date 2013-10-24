@@ -1,5 +1,4 @@
-Leucocoprinus coccineobasalis (Locq.) Locq. SPECIES
-=======
+# Leucocoprinus coccineobasalis (Locq.) Locq. SPECIES
 
 #### Status
 ACCEPTED

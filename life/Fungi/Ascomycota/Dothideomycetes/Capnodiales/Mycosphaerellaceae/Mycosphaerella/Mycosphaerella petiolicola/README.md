@@ -1,5 +1,4 @@
-Mycosphaerella petiolicola (Desm.) Mig. SPECIES
-=======
+# Mycosphaerella petiolicola (Desm.) Mig. SPECIES
 
 #### Status
 ACCEPTED

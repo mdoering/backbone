@@ -1,5 +1,4 @@
-Berengeria fimbriata SPECIES
-=======
+# Berengeria fimbriata SPECIES
 
 #### Status
 ACCEPTED

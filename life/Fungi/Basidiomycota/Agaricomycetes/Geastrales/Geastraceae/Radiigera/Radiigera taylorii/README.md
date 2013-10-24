@@ -1,17 +1,16 @@
-Radiigera paulensis Singer, J.E. Wright & E. Horak, 1963 SPECIES
-=======
+# Radiigera taylorii (Lloyd) Zeller, 1944 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Darwiniana 12(4): 610 (1963)
+Mycologia 36(6): 636 (1944)
 
 #### Original name
-Radiigera paulensis Singer, J.E. Wright & E. Horak, 1963
+Mesophellia taylorii Lloyd, 1924
 
 ### Remarks
 null

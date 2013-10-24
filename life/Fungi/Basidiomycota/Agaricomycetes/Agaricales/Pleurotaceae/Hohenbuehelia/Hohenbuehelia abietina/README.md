@@ -1,5 +1,4 @@
-Hohenbuehelia abietina Singer & Kuthan, 1980 SPECIES
-=======
+# Hohenbuehelia abietina Singer & Kuthan, 1980 SPECIES
 
 #### Status
 ACCEPTED

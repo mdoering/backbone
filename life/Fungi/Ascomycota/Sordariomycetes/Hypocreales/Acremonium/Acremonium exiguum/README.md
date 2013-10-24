@@ -1,5 +1,4 @@
-Acremonium exiguum W. Gams, 1975 SPECIES
-=======
+# Acremonium exiguum W. Gams, 1975 SPECIES
 
 #### Status
 ACCEPTED

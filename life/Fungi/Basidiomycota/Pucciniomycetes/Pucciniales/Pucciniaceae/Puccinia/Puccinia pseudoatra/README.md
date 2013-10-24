@@ -1,5 +1,4 @@
-Puccinia pseudoatra Cummins SPECIES
-=======
+# Puccinia pseudoatra Cummins SPECIES
 
 #### Status
 ACCEPTED

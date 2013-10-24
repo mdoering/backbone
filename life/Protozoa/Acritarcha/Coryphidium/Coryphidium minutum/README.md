@@ -1,5 +1,4 @@
-Coryphidium minutum Cramer & Díez, 1976 SPECIES
-=======
+# Coryphidium minutum Cramer & Díez, 1976 SPECIES
 
 #### Status
 ACCEPTED

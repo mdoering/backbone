@@ -1,5 +1,4 @@
-Erysibe areolata Wallr. SPECIES
-=======
+# Erysibe areolata Wallr. SPECIES
 
 #### Status
 ACCEPTED

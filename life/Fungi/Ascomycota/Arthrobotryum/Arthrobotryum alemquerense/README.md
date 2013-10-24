@@ -1,5 +1,4 @@
-Arthrobotryum alemquerense Speg. SPECIES
-=======
+# Arthrobotryum alemquerense Speg. SPECIES
 
 #### Status
 ACCEPTED

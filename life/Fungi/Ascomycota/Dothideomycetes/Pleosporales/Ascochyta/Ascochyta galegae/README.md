@@ -1,5 +1,4 @@
-Ascochyta galegae Hollós SPECIES
-=======
+# Ascochyta galegae Hollós SPECIES
 
 #### Status
 ACCEPTED

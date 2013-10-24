@@ -1,5 +1,4 @@
-Coniothyrium cedri Rolland SPECIES
-=======
+# Coniothyrium cedri Rolland SPECIES
 
 #### Status
 ACCEPTED

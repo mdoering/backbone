@@ -1,5 +1,4 @@
-Microthelia inops Degel. SPECIES
-=======
+# Microthelia inops Degel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phellinus bambusarum (Rick) M.J. Larsen SPECIES
-=======
+# Phellinus bambusarum (Rick) M.J. Larsen SPECIES
 
 #### Status
 ACCEPTED

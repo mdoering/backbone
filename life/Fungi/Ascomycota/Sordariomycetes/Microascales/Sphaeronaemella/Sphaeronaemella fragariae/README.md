@@ -1,5 +1,4 @@
-Sphaeronaemella fragariae F. Stevens & Peterson, 1916 SPECIES
-=======
+# Sphaeronaemella fragariae F. Stevens & Peterson, 1916 SPECIES
 
 #### Status
 ACCEPTED

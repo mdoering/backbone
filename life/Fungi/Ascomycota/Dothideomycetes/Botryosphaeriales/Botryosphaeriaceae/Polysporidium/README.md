@@ -1,5 +1,4 @@
-Polysporidium GENUS
-=======
+# Polysporidium GENUS
 
 #### Status
 ACCEPTED

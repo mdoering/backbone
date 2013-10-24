@@ -1,5 +1,4 @@
-Phaeospora arctica Horáková & Alstrup SPECIES
-=======
+# Phaeospora arctica Horáková & Alstrup SPECIES
 
 #### Status
 ACCEPTED

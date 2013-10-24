@@ -1,5 +1,4 @@
-Gymnodinium acutissimum Okolodkov, 1997 SPECIES
-=======
+# Gymnodinium acutissimum Okolodkov, 1997 SPECIES
 
 #### Status
 ACCEPTED

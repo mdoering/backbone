@@ -1,17 +1,16 @@
-Psilocybe ericaea var. ericaea VARIETY
-=======
+# Hypholoma ericaeum (Pers.) Kühner, 1936 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 333 (1873)
+Bull. trimest. Soc. mycol. Fr. 52: 23 (1936)
 
 #### Original name
-Psilocybe ericaea var. ericaea
+Agaricus ericaeus Pers., 1801
 
 ### Remarks
 null

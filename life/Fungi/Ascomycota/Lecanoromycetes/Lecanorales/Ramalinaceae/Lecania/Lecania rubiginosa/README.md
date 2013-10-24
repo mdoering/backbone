@@ -1,5 +1,4 @@
-Lecania rubiginosa Müll. Arg. SPECIES
-=======
+# Lecania rubiginosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

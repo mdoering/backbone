@@ -1,5 +1,4 @@
-Squamaria riparia f. riparia FORM
-=======
+# Squamaria riparia (Flot.) Szatala SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Squamaria riparia f. riparia
+null
 
 ### Remarks
 null

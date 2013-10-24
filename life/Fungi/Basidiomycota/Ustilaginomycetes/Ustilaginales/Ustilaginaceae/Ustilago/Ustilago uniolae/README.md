@@ -1,5 +1,4 @@
-Ustilago uniolae Ellis & Everh. SPECIES
-=======
+# Ustilago uniolae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

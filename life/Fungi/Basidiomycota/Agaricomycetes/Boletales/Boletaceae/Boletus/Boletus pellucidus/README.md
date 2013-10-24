@@ -1,5 +1,4 @@
-Boletus pellucidus With. SPECIES
-=======
+# Boletus pellucidus With. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agglomerata lacrima (Pfeiffer) J.I.R. Larsson, D. Ebert & J. Vávra SPECIES
-=======
+# Agglomerata lacrima (Pfeiffer) J.I.R. Larsson, D. Ebert & J. Vávra SPECIES
 
 #### Status
 ACCEPTED

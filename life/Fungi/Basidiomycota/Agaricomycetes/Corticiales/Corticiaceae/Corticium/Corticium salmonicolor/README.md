@@ -1,8 +1,7 @@
-Corticium zimmermannii Sacc. & P. Syd., 1902 SPECIES
-=======
+# Corticium salmonicolor Berk. & Broome, 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

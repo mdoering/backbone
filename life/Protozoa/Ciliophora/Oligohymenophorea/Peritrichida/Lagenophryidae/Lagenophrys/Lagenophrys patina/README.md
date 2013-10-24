@@ -1,5 +1,4 @@
-Lagenophrys patina Stokes, 1887 SPECIES
-=======
+# Lagenophrys patina Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

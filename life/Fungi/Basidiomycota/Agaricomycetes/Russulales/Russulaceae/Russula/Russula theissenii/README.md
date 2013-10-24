@@ -1,5 +1,4 @@
-Russula theissenii Rick SPECIES
-=======
+# Russula theissenii Rick SPECIES
 
 #### Status
 ACCEPTED

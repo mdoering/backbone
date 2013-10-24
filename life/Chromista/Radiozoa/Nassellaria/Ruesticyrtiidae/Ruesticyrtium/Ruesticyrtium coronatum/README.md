@@ -1,5 +1,4 @@
-Ruesticyrtium coronatum SPECIES
-=======
+# Ruesticyrtium coronatum SPECIES
 
 #### Status
 ACCEPTED

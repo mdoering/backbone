@@ -1,5 +1,4 @@
-Phyllachora denigrans (Schwein.) Sacc., 1883 SPECIES
-=======
+# Phyllachora denigrans (Schwein.) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

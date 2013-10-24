@@ -1,17 +1,16 @@
-Phlegmacium traganum var. traganum VARIETY
-=======
+# Cortinarius traganus (Fr.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 281 (1838)
 
 #### Original name
-Phlegmacium traganum var. traganum
+Agaricus traganus Fr., 1818
 
 ### Remarks
 null

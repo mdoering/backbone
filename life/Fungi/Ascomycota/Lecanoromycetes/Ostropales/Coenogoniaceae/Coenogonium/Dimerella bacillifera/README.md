@@ -1,5 +1,4 @@
-Dimerella bacillifera Malme SPECIES
-=======
+# Dimerella bacillifera Malme SPECIES
 
 #### Status
 ACCEPTED

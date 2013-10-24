@@ -1,5 +1,4 @@
-Hygrocybe papillata (Dennis) S.A. Cantrell & Lodge SPECIES
-=======
+# Hygrocybe papillata (Dennis) S.A. Cantrell & Lodge SPECIES
 
 #### Status
 ACCEPTED

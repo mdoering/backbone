@@ -1,5 +1,4 @@
-Lobaria buiensis Räsänen SPECIES
-=======
+# Lobaria buiensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

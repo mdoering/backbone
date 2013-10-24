@@ -1,5 +1,4 @@
-Ditremis polycarpa (Müll. Arg.) Makhija & Patw. SPECIES
-=======
+# Ditremis polycarpa (Müll. Arg.) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

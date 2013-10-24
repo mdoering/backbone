@@ -1,5 +1,4 @@
-Sigmomorphina frondiculariformis (Galloway & Wissler, 1927) SPECIES
-=======
+# Sigmomorphina frondiculariformis (Galloway & Wissler, 1927) SPECIES
 
 #### Status
 ACCEPTED

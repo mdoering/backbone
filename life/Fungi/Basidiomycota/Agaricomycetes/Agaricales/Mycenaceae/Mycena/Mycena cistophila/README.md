@@ -1,5 +1,4 @@
-Mycena cistophila G. Moreno & Heykoop SPECIES
-=======
+# Mycena cistophila G. Moreno & Heykoop SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena susbstatua Corner SPECIES
-=======
+# Mycena susbstatua Corner SPECIES
 
 #### Status
 ACCEPTED

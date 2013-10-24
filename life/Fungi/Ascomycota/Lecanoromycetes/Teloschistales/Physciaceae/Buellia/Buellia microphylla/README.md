@@ -1,5 +1,4 @@
-Buellia microphylla Malme SPECIES
-=======
+# Buellia microphylla Malme SPECIES
 
 #### Status
 ACCEPTED

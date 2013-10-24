@@ -1,5 +1,4 @@
-Dacrymyces longisporus Bref. SPECIES
-=======
+# Dacrymyces longisporus Bref. SPECIES
 
 #### Status
 ACCEPTED

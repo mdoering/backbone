@@ -1,5 +1,4 @@
-Cortinarius psammophilus Ammirati & A.H. Sm. SPECIES
-=======
+# Cortinarius psammophilus Ammirati & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

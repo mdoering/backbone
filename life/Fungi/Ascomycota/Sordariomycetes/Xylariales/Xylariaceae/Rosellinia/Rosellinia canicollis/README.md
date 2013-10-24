@@ -1,5 +1,4 @@
-Rosellinia canicollis P. Karst. SPECIES
-=======
+# Rosellinia canicollis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

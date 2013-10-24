@@ -1,5 +1,4 @@
-Calocybe coniceps Singer SPECIES
-=======
+# Calocybe coniceps Singer SPECIES
 
 #### Status
 ACCEPTED

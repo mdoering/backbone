@@ -1,5 +1,4 @@
-Rhizophydium clinopus Scherff. SPECIES
-=======
+# Rhizophydium clinopus Scherff. SPECIES
 
 #### Status
 ACCEPTED

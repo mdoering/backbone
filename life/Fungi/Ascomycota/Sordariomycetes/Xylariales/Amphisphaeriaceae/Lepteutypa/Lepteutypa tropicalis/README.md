@@ -1,5 +1,4 @@
-Lepteutypa tropicalis Dulym., Sivan., P.F. Cannon & Peerally SPECIES
-=======
+# Lepteutypa tropicalis Dulym., Sivan., P.F. Cannon & Peerally SPECIES
 
 #### Status
 ACCEPTED

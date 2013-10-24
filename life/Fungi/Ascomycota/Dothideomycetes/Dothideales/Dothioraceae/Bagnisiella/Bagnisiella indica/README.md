@@ -1,5 +1,4 @@
-Bagnisiella indica Vaidya & C.D. Naik SPECIES
-=======
+# Bagnisiella indica Vaidya & C.D. Naik SPECIES
 
 #### Status
 ACCEPTED

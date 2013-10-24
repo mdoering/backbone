@@ -1,5 +1,4 @@
-Deflandria Haman, 1988 GENUS
-=======
+# Deflandria Haman, 1988 GENUS
 
 #### Status
 ACCEPTED

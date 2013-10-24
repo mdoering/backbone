@@ -1,5 +1,4 @@
-Rhizomorpha medullaris Sm. SPECIES
-=======
+# Rhizomorpha medullaris Sm. SPECIES
 
 #### Status
 ACCEPTED

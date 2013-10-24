@@ -1,5 +1,4 @@
-Coprinus amphibius Anastasiou, 1967 SPECIES
-=======
+# Coprinus amphibius Anastasiou, 1967 SPECIES
 
 #### Status
 ACCEPTED

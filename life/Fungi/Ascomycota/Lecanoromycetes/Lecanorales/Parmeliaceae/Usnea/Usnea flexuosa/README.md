@@ -1,5 +1,4 @@
-Usnea flexuosa Räsänen SPECIES
-=======
+# Usnea flexuosa Räsänen SPECIES
 
 #### Status
 ACCEPTED

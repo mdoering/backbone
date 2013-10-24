@@ -1,5 +1,4 @@
-Xylaria fibula Massee SPECIES
-=======
+# Xylaria fibula Massee SPECIES
 
 #### Status
 ACCEPTED

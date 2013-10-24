@@ -1,5 +1,4 @@
-Pocillaria verrucosa (J. Kickx f.) Kuntze SPECIES
-=======
+# Pocillaria verrucosa (J. Kickx f.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus fuligineoviolaceus Har. Takah. SPECIES
-=======
+# Tylopilus fuligineoviolaceus Har. Takah. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium asterinarum Speg. SPECIES
-=======
+# Dimerosporium asterinarum Speg. SPECIES
 
 #### Status
 ACCEPTED

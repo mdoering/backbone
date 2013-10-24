@@ -1,5 +1,4 @@
-Plicaria maximovici Velen. SPECIES
-=======
+# Plicaria maximovici Velen. SPECIES
 
 #### Status
 ACCEPTED

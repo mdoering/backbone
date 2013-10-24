@@ -1,5 +1,4 @@
-Tuber rutilum R. Hesse SPECIES
-=======
+# Tuber rutilum R. Hesse SPECIES
 
 #### Status
 ACCEPTED

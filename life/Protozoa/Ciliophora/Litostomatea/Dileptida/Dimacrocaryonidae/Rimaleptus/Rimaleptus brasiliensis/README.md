@@ -1,5 +1,4 @@
-Rimaleptus brasiliensis Vdacny & Foissner, 2011 SPECIES
-=======
+# Rimaleptus brasiliensis Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

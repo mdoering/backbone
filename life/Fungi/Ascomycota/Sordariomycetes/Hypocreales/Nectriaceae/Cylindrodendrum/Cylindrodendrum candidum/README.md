@@ -1,5 +1,4 @@
-Cylindrodendrum candidum (Link) M.B. Ellis SPECIES
-=======
+# Cylindrodendrum candidum (Link) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

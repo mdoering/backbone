@@ -1,5 +1,4 @@
-Fusarium commune K. Skovg., O'Donnell & Nirenberg, 2003 SPECIES
-=======
+# Fusarium commune K. Skovg., O'Donnell & Nirenberg, 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia pulchella Lév. SPECIES
-=======
+# Hexagonia pulchella Lév. SPECIES
 
 #### Status
 ACCEPTED

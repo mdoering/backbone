@@ -1,5 +1,4 @@
-Cladonia bahiana Ahti SPECIES
-=======
+# Cladonia bahiana Ahti SPECIES
 
 #### Status
 ACCEPTED

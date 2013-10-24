@@ -1,5 +1,4 @@
-Nematostoma garryae (Höhn.) M.E. Barr SPECIES
-=======
+# Nematostoma garryae (Höhn.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

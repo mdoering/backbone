@@ -1,5 +1,4 @@
-Leveillula papaveracearum Golovin SPECIES
-=======
+# Leveillula papaveracearum Golovin SPECIES
 
 #### Status
 ACCEPTED

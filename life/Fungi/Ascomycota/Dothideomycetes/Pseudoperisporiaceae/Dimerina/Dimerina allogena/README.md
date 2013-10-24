@@ -1,5 +1,4 @@
-Dimerina allogena Syd. SPECIES
-=======
+# Dimerina allogena Syd. SPECIES
 
 #### Status
 ACCEPTED

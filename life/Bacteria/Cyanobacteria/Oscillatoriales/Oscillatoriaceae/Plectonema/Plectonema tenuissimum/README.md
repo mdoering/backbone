@@ -1,5 +1,4 @@
-Plectonema tenuissimum Gardner SPECIES
-=======
+# Plectonema tenuissimum Gardner SPECIES
 
 #### Status
 ACCEPTED

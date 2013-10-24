@@ -1,5 +1,4 @@
-Physarum gracile Weinm. SPECIES
-=======
+# Physarum gracile Weinm. SPECIES
 
 #### Status
 ACCEPTED

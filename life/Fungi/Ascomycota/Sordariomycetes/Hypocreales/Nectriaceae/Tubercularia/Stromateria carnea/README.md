@@ -1,5 +1,4 @@
-Stromateria carnea Corda SPECIES
-=======
+# Stromateria carnea Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptoglena australis Playfair SPECIES
-=======
+# Cryptoglena australis Playfair SPECIES
 
 #### Status
 ACCEPTED

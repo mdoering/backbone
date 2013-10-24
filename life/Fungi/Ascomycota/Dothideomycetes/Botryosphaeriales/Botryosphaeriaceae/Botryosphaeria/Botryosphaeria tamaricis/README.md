@@ -1,5 +1,4 @@
-Botryosphaeria tamaricis (Cooke) Theiss. & Syd. SPECIES
-=======
+# Botryosphaeria tamaricis (Cooke) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerula lignicola Murrill SPECIES
-=======
+# Galerula lignicola Murrill SPECIES
 
 #### Status
 ACCEPTED

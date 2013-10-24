@@ -1,5 +1,4 @@
-Dimorphotricha Spooner GENUS
-=======
+# Dimorphotricha Spooner GENUS
 
 #### Status
 ACCEPTED

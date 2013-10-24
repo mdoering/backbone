@@ -1,5 +1,4 @@
-Godronia ladina Schläpf.-Bernh. SPECIES
-=======
+# Godronia ladina Schläpf.-Bernh. SPECIES
 
 #### Status
 ACCEPTED

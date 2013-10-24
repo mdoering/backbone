@@ -1,5 +1,4 @@
-Hendersonia oxytropidis Rtischcz. SPECIES
-=======
+# Hendersonia oxytropidis Rtischcz. SPECIES
 
 #### Status
 ACCEPTED

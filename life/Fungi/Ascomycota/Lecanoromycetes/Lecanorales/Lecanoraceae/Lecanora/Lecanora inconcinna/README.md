@@ -1,5 +1,4 @@
-Lecanora inconcinna Hue SPECIES
-=======
+# Lecanora inconcinna Hue SPECIES
 
 #### Status
 ACCEPTED

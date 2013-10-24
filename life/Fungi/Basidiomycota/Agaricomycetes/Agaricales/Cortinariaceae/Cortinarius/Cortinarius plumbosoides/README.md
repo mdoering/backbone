@@ -1,5 +1,4 @@
-Cortinarius plumbosoides Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius plumbosoides Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

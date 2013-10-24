@@ -1,5 +1,4 @@
-Lecanora pseudoviridescens Zahlbr. SPECIES
-=======
+# Lecanora pseudoviridescens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

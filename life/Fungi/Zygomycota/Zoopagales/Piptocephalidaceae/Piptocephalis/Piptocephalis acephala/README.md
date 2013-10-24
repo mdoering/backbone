@@ -1,5 +1,4 @@
-Piptocephalis acephala P.M. Kirk SPECIES
-=======
+# Piptocephalis acephala P.M. Kirk SPECIES
 
 #### Status
 ACCEPTED

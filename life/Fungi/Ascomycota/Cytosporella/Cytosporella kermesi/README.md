@@ -1,5 +1,4 @@
-Cytosporella kermesi Speg. SPECIES
-=======
+# Cytosporella kermesi Speg. SPECIES
 
 #### Status
 ACCEPTED

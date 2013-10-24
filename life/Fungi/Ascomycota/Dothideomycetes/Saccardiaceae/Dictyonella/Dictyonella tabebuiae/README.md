@@ -1,5 +1,4 @@
-Dictyonella tabebuiae Inácio & Dianese, 1998 SPECIES
-=======
+# Dictyonella tabebuiae Inácio & Dianese, 1998 SPECIES
 
 #### Status
 ACCEPTED

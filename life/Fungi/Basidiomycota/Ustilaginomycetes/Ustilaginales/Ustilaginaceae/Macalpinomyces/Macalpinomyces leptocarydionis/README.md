@@ -1,5 +1,4 @@
-Macalpinomyces leptocarydionis Vánky, 2002 SPECIES
-=======
+# Macalpinomyces leptocarydionis Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

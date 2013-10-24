@@ -1,5 +1,4 @@
-Rhizocarpon nitidum Lynge SPECIES
-=======
+# Rhizocarpon nitidum Lynge SPECIES
 
 #### Status
 ACCEPTED

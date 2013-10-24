@@ -1,5 +1,4 @@
-Psathyrella nigripunctipes W.F. Chiu SPECIES
-=======
+# Psathyrella nigripunctipes W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

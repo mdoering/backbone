@@ -1,5 +1,4 @@
-Conaticystis operosus (Deflandre, 1935) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Conaticystis operosus (Deflandre, 1935) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

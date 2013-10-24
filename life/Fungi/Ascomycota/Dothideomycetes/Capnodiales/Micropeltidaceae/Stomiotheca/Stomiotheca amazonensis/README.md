@@ -1,5 +1,4 @@
-Stomiotheca amazonensis Bat., 1959 SPECIES
-=======
+# Stomiotheca amazonensis Bat., 1959 SPECIES
 
 #### Status
 ACCEPTED

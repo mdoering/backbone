@@ -1,5 +1,4 @@
-Chaetosphaeria coffeae Saccas SPECIES
-=======
+# Chaetosphaeria coffeae Saccas SPECIES
 
 #### Status
 ACCEPTED

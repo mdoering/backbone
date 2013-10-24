@@ -1,5 +1,4 @@
-Gastrocirrhus intermedius Lepsi, 1928 SPECIES
-=======
+# Gastrocirrhus intermedius Lepsi, 1928 SPECIES
 
 #### Status
 ACCEPTED

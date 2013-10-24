@@ -1,5 +1,4 @@
-Puccinia finschiae Cummins SPECIES
-=======
+# Puccinia finschiae Cummins SPECIES
 
 #### Status
 ACCEPTED

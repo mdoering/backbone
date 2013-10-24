@@ -1,5 +1,4 @@
-Hypholoma peckianum Kauffman SPECIES
-=======
+# Hypholoma peckianum Kauffman SPECIES
 
 #### Status
 ACCEPTED

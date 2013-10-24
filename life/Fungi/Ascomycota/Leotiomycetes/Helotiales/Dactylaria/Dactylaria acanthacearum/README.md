@@ -1,14 +1,13 @@
-Dactylaria acanthearum (Cooke) de Hoog & Arx SPECIES
-=======
+# Dactylaria acanthacearum (Cooke) de Hoog & Arx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kavaka 1: 58 (1973)
 
 #### Original name
 Isariopsis acanthacearum Cooke

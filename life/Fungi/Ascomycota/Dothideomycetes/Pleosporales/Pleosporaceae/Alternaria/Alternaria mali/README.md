@@ -1,5 +1,4 @@
-Alternaria mali Roberts, 1914 SPECIES
-=======
+# Alternaria mali Roberts, 1914 SPECIES
 
 #### Status
 ACCEPTED

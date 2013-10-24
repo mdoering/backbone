@@ -1,5 +1,4 @@
-Agaricus scriblita Paulet SPECIES
-=======
+# Agaricus scriblita Paulet SPECIES
 
 #### Status
 ACCEPTED

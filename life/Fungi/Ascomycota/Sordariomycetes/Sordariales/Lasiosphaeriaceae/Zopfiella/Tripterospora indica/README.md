@@ -1,5 +1,4 @@
-Tripterospora indica Pavgi & Ramadevi {?} ined. SPECIES
-=======
+# Tripterospora indica Pavgi & Ramadevi {?} ined. SPECIES
 
 #### Status
 ACCEPTED

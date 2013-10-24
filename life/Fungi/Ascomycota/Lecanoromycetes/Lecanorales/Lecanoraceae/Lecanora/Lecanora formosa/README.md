@@ -1,17 +1,16 @@
-Biatora mesotropiza (Nyl.) Hellb. SPECIES
-=======
+# Lecanora formosa (Bagl. & Carestia) Knoph & Leuckert SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 20(no. 8): 131 (1884)
+Herzogia 14: 20 (2000)
 
 #### Original name
-Lecidea mesotropiza Nyl.
+Lecidea formosa Zahlbr.
 
 ### Remarks
 null

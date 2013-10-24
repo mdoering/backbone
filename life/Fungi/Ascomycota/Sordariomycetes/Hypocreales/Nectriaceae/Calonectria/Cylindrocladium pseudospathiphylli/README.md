@@ -1,5 +1,4 @@
-Cylindrocladium pseudospathiphylli J.C. Kang, Crous & C.L. Schoch SPECIES
-=======
+# Cylindrocladium pseudospathiphylli J.C. Kang, Crous & C.L. Schoch SPECIES
 
 #### Status
 ACCEPTED

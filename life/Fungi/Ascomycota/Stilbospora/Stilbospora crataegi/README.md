@@ -1,5 +1,4 @@
-Stilbospora crataegi Richon SPECIES
-=======
+# Stilbospora crataegi Richon SPECIES
 
 #### Status
 ACCEPTED

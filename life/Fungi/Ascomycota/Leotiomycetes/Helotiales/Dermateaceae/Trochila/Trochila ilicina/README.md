@@ -1,17 +1,16 @@
-Eustegia ilicis var. ilicis VARIETY
-=======
+# Trochila ilicina (Nees ex Fr.) Courtec., 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Courtecuisse, Priov & Boisselet, Docums Mycol. 16(no. 62): 5 (1986)
 
 #### Original name
-null
+Sphaeria hederae var. ilicis (Nees)
 
 ### Remarks
 null

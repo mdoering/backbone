@@ -1,5 +1,4 @@
-Protoleiosphaeridium minimum Ouyang Shu et al., 1974 SPECIES
-=======
+# Protoleiosphaeridium minimum Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Padina terricolor Ni-Ni-Win, M.Uchimura & H.Kawai, 2010 SPECIES
-=======
+# Padina terricolor Ni-Ni-Win, M.Uchimura & H.Kawai, 2010 SPECIES
 
 #### Status
 ACCEPTED

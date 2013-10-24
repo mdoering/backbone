@@ -1,5 +1,4 @@
-Pseudoramichloridium GENUS
-=======
+# Pseudoramichloridium GENUS
 
 #### Status
 ACCEPTED

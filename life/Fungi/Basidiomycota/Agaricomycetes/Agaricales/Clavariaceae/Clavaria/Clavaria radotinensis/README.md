@@ -1,5 +1,4 @@
-Clavaria radotinensis Velen. SPECIES
-=======
+# Clavaria radotinensis Velen. SPECIES
 
 #### Status
 ACCEPTED

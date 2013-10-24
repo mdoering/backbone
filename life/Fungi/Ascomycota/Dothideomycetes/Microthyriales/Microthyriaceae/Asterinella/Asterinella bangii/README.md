@@ -1,5 +1,4 @@
-Asterinella bangii Petr. SPECIES
-=======
+# Asterinella bangii Petr. SPECIES
 
 #### Status
 ACCEPTED

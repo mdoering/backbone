@@ -1,5 +1,4 @@
-Xylosphaera compressa (Pat. & Gaillard) P. Joly SPECIES
-=======
+# Xylosphaera compressa (Pat. & Gaillard) P. Joly SPECIES
 
 #### Status
 ACCEPTED

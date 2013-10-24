@@ -1,14 +1,13 @@
-Bauhinus stygius (Liro) Denchev, 1997 SPECIES
-=======
+# Microbotryum stygium (Liro) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 65: 424 (1997)
+Mycotaxon 67: 50 (1998)
 
 #### Original name
 Ustilago stygia Liro, 1924

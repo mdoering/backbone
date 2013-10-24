@@ -1,5 +1,4 @@
-Ophiobolus collapsus Ellis & Sacc. SPECIES
-=======
+# Ophiobolus collapsus Ellis & Sacc. SPECIES
 
 #### Status
 ACCEPTED

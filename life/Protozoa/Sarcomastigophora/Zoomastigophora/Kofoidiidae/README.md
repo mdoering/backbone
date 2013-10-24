@@ -1,5 +1,4 @@
-Kofoidiidae FAMILY
-=======
+# Kofoidiidae FAMILY
 
 #### Status
 ACCEPTED

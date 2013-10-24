@@ -1,17 +1,16 @@
-Macbrideola scintillans var. verrucosa (Nann.-Bremek. & Y. Yamam.) Y. Yamam. VARIETY
-=======
+# Macbrideola scintillans H.C. Gilbert, 1934 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 577 (1998)
+Univ. Iowa Stud. nat. Hist. 16: 156 (1934)
 
 #### Original name
-Macbrideola verrucosa Nann.-Bremek. & Y. Yamam., 1983
+Macbrideola scintillans H.C. Gilbert, 1934
 
 ### Remarks
 null

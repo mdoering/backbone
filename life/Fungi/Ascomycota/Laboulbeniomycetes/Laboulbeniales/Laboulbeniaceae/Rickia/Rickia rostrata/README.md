@@ -1,5 +1,4 @@
-Rickia rostrata Thaxt. SPECIES
-=======
+# Rickia rostrata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

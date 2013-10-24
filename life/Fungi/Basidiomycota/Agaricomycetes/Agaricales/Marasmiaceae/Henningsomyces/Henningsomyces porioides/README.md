@@ -1,14 +1,13 @@
-Henningsomyces poriodes (Alb. & Schwein.) Kuntze SPECIES
-=======
+# Henningsomyces porioides (Alb. & Schwein.) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 483 (1898)
 
 #### Original name
 Peziza porioides Alb. & Schwein.

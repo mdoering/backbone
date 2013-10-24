@@ -1,8 +1,7 @@
-Holosticha contractilis Dragesco, 1970 SPECIES
-=======
+# Uroleptus musculus (Kahl, 1932) Foissner, Blatterer, Berger & Kohmann, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

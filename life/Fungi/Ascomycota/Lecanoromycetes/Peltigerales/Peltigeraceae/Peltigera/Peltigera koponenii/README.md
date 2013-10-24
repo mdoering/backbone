@@ -1,5 +1,4 @@
-Peltigera koponenii Sérus., Goffinet, Miadl. & Vitik. SPECIES
-=======
+# Peltigera koponenii Sérus., Goffinet, Miadl. & Vitik. SPECIES
 
 #### Status
 ACCEPTED

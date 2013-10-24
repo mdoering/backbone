@@ -1,5 +1,4 @@
-Tuburcinia callianthemi Massenot SPECIES
-=======
+# Tuburcinia callianthemi Massenot SPECIES
 
 #### Status
 ACCEPTED

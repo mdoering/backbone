@@ -1,5 +1,4 @@
-Septoria podophyllina Peck SPECIES
-=======
+# Septoria podophyllina Peck SPECIES
 
 #### Status
 ACCEPTED

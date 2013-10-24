@@ -1,5 +1,4 @@
-Gochteodinia G.Norris, 1978 GENUS
-=======
+# Gochteodinia G.Norris, 1978 GENUS
 
 #### Status
 ACCEPTED

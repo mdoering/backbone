@@ -1,5 +1,4 @@
-Calocybe aromatica (Murrill) Harmaja SPECIES
-=======
+# Calocybe aromatica (Murrill) Harmaja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthonia phylloica Nyl. SPECIES
-=======
+# Arthonia phylloica Nyl. SPECIES
 
 #### Status
 ACCEPTED

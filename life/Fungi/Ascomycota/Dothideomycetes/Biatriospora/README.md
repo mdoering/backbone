@@ -1,5 +1,4 @@
-Biatriospora K.D. Hyde & Borse GENUS
-=======
+# Biatriospora K.D. Hyde & Borse GENUS
 
 #### Status
 ACCEPTED

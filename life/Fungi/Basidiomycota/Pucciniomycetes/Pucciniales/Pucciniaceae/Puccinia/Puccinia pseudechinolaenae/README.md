@@ -1,5 +1,4 @@
-Puccinia pseudechinolaenae Gjaerum SPECIES
-=======
+# Puccinia pseudechinolaenae Gjaerum SPECIES
 
 #### Status
 ACCEPTED

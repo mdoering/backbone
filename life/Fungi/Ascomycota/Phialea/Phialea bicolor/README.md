@@ -1,5 +1,4 @@
-Phialea bicolor var. bicolor VARIETY
-=======
+# Phialea bicolor Starbäck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phialea bicolor var. bicolor
+Phialea bicolor Starbäck
 
 ### Remarks
 null

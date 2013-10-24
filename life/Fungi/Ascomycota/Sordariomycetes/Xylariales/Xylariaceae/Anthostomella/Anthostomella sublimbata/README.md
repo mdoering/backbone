@@ -1,5 +1,4 @@
-Anthostomella sublimbata (Durieu & Mont.) Speg. SPECIES
-=======
+# Anthostomella sublimbata (Durieu & Mont.) Speg. SPECIES
 
 #### Status
 ACCEPTED

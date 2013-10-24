@@ -1,5 +1,4 @@
-Poria subpudorina Pilát SPECIES
-=======
+# Poria subpudorina Pilát SPECIES
 
 #### Status
 ACCEPTED

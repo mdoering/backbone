@@ -1,5 +1,4 @@
-Polystigma indicum (Chona, Munjal & J.N. Kapoor) Munjal & J.N. Kapoor, 1963 SPECIES
-=======
+# Polystigma indicum (Chona, Munjal & J.N. Kapoor) Munjal & J.N. Kapoor, 1963 SPECIES
 
 #### Status
 ACCEPTED

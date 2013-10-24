@@ -1,5 +1,4 @@
-Scirrhia bambusina Penz. & Sacc. SPECIES
-=======
+# Scirrhia bambusina Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

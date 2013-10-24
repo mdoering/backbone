@@ -1,5 +1,4 @@
-Cladonia perplexa Abbayes SPECIES
-=======
+# Cladonia perplexa Abbayes SPECIES
 
 #### Status
 ACCEPTED

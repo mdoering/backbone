@@ -1,5 +1,4 @@
-Lichenoides flammeum (L. f.) Hoffm. SPECIES
-=======
+# Lichenoides flammeum (L. f.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

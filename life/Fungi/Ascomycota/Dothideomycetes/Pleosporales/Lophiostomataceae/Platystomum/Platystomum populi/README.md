@@ -1,5 +1,4 @@
-Platystomum populi (Fabre) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum populi (Fabre) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

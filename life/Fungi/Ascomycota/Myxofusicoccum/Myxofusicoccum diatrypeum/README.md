@@ -1,5 +1,4 @@
-Myxofusicoccum diatrypeum (Cooke & Ellis) Petr. SPECIES
-=======
+# Myxofusicoccum diatrypeum (Cooke & Ellis) Petr. SPECIES
 
 #### Status
 ACCEPTED

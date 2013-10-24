@@ -1,5 +1,4 @@
-Ophiostoma subannulatum Livingston & R.W. Davidson SPECIES
-=======
+# Ophiostoma subannulatum Livingston & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

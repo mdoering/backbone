@@ -1,8 +1,7 @@
-Reophax cylindricus var. affinis Lacroix, 1930 VARIETY
-=======
+# Cuneata arctica (Brady, 1881) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

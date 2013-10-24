@@ -1,5 +1,4 @@
-Ornasporonites inaequalis Ramanujam & K.P. Rao SPECIES
-=======
+# Ornasporonites inaequalis Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

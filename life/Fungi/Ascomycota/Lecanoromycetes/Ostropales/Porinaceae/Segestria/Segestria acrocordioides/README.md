@@ -1,5 +1,4 @@
-Segestria acrocordioides Zahlbr. SPECIES
-=======
+# Segestria acrocordioides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma roseola Desm. SPECIES
-=======
+# Phoma roseola Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria rubicola f. rubicola FORM
-=======
+# Catillaria rubicola (P. Crouan & H. Crouan) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

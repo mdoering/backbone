@@ -1,5 +1,4 @@
-Sphaerella coneglanensis Speg. SPECIES
-=======
+# Sphaerella coneglanensis Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolypocladium extinguens Samson & Soares, 1984 SPECIES
-=======
+# Tolypocladium extinguens Samson & Soares, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geoglossum luteum Peck SPECIES
-=======
+# Geoglossum luteum Peck SPECIES
 
 #### Status
 ACCEPTED

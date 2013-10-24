@@ -1,5 +1,4 @@
-Halodinium minor J. P. Bujak SPECIES
-=======
+# Halodinium minor J. P. Bujak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Candelariella ossicola C.W. Dodge SPECIES
-=======
+# Candelariella ossicola C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza opalina Quél. SPECIES
-=======
+# Peziza opalina Quél. SPECIES
 
 #### Status
 ACCEPTED

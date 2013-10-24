@@ -1,17 +1,16 @@
-Polyporus stramineus var. africanus (Pat. & R. Heim) Hendr. VARIETY
-=======
+# Leucophellinus hobsonii (Berk. ex Cooke) Ryvarden, 1988 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publ. Inst. nat. agron. Congo Belge, Ser. sci. 35: 8 (1948)
+Mycotaxon 31(1): 51 (1988)
 
 #### Original name
-Spongipellis stramineus var. africanus Pat. & R. Heim
+Polyporus hobsonii Berk. ex Cooke, 1886
 
 ### Remarks
 null

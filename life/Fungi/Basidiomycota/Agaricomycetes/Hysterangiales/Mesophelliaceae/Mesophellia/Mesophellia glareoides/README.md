@@ -1,5 +1,4 @@
-Mesophellia glareoides Bougher & K. Syme, 1998 SPECIES
-=======
+# Mesophellia glareoides Bougher & K. Syme, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthomyces Dietel, 1899 GENUS
-=======
+# Anthomyces Dietel, 1899 GENUS
 
 #### Status
 ACCEPTED

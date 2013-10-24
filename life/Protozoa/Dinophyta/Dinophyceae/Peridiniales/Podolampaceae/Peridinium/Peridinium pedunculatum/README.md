@@ -1,5 +1,4 @@
-Peridinium pedunculatum Schott SPECIES
-=======
+# Peridinium pedunculatum Schott SPECIES
 
 #### Status
 ACCEPTED

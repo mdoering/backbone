@@ -1,5 +1,4 @@
-Scleroderma stellenbossiense Verwoerd SPECIES
-=======
+# Scleroderma stellenbossiense Verwoerd SPECIES
 
 #### Status
 ACCEPTED

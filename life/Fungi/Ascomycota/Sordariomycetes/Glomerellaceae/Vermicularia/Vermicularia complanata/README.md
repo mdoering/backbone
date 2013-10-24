@@ -1,5 +1,4 @@
-Vermicularia complanata P. Karst. SPECIES
-=======
+# Vermicularia complanata P. Karst. SPECIES
 
 #### Status
 ACCEPTED

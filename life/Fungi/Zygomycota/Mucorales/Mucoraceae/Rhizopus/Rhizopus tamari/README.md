@@ -1,5 +1,4 @@
-Rhizopus tamari Saito SPECIES
-=======
+# Rhizopus tamari Saito SPECIES
 
 #### Status
 ACCEPTED

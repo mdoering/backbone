@@ -1,5 +1,4 @@
-Dermocybe vinicolor E. Horak, 1988 SPECIES
-=======
+# Dermocybe vinicolor E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

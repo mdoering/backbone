@@ -1,5 +1,4 @@
-Septoria wistariae Brunaud SPECIES
-=======
+# Septoria wistariae Brunaud SPECIES
 
 #### Status
 ACCEPTED

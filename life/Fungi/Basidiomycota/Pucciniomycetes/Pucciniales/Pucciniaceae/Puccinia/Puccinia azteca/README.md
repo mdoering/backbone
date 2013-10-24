@@ -1,5 +1,4 @@
-Puccinia azteca Cummins & J.F. Hennen SPECIES
-=======
+# Puccinia azteca Cummins & J.F. Hennen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lactaria ocellata (Fr.) Murrill SPECIES
-=======
+# Lactarius ocellata (Fr.) Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 16(2): 97 (1924)
 
 #### Original name
 Agaricus ocellatus Fr.

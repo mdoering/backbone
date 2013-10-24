@@ -1,5 +1,4 @@
-Patellaria chloritis (Tuck.) Müll. Arg. SPECIES
-=======
+# Patellaria chloritis (Tuck.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

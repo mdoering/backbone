@@ -1,5 +1,4 @@
-Leptosphaeria polaris Sacc. ex Fr. SPECIES
-=======
+# Leptosphaeria polaris Sacc. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

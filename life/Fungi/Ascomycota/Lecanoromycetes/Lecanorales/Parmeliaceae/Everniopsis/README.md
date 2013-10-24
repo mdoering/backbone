@@ -1,17 +1,16 @@
-Hendrickxia P.A. Duvign. GENUS
-=======
+# Everniopsis Nyl. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Jard. Bot. État 16: 357 (1942)
+Syn. meth. lich. 1(2): 374 (1860)
 
 #### Original name
-Hendrickxia P.A. Duvign.
+Everniopsis Nyl.
 
 ### Remarks
 null

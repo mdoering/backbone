@@ -1,5 +1,4 @@
-Melanographa interalbicans (Nyl.) Müll. Arg. SPECIES
-=======
+# Melanographa interalbicans (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrophoma caricina (Thüm.) Berl. & Voglino SPECIES
-=======
+# Macrophoma caricina (Thüm.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

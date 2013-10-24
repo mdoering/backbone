@@ -1,5 +1,4 @@
-Collemopsidium Nyl. GENUS
-=======
+# Collemopsidium Nyl. GENUS
 
 #### Status
 ACCEPTED

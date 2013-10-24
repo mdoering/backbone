@@ -1,5 +1,4 @@
-Candida arabinofermentans Kurtzman & Dien SPECIES
-=======
+# Candida arabinofermentans Kurtzman & Dien SPECIES
 
 #### Status
 ACCEPTED

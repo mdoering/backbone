@@ -1,5 +1,4 @@
-Clypeosphaeria myrticola Speg. SPECIES
-=======
+# Clypeosphaeria myrticola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria stenactidis Vill, 1910 SPECIES
-=======
+# Septoria stenactidis Vill, 1910 SPECIES
 
 #### Status
 ACCEPTED

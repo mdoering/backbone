@@ -1,5 +1,4 @@
-Corticium hypophyllum Petch SPECIES
-=======
+# Corticium hypophyllum Petch SPECIES
 
 #### Status
 ACCEPTED

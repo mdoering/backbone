@@ -1,5 +1,4 @@
-Cercosporidium hymenocallidis (Pat.) Sacc. SPECIES
-=======
+# Cercosporidium hymenocallidis (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

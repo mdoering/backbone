@@ -1,5 +1,4 @@
-Agaricus rubromaculatus Raddi SPECIES
-=======
+# Agaricus rubromaculatus Raddi SPECIES
 
 #### Status
 ACCEPTED

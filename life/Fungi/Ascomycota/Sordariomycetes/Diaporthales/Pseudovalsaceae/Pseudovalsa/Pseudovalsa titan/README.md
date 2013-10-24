@@ -1,5 +1,4 @@
-Pseudovalsa titan (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Pseudovalsa titan (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

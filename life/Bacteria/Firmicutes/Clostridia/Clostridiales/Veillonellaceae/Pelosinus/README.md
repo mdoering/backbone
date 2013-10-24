@@ -1,5 +1,4 @@
-Pelosinus Shelobolina et al., 2007 GENUS
-=======
+# Pelosinus Shelobolina et al., 2007 GENUS
 
 #### Status
 ACCEPTED

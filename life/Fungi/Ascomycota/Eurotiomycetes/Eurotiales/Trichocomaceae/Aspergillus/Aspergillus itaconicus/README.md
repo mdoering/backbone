@@ -1,5 +1,4 @@
-Aspergillus itaconicus Kinosh., 1931 SPECIES
-=======
+# Aspergillus itaconicus Kinosh., 1931 SPECIES
 
 #### Status
 ACCEPTED

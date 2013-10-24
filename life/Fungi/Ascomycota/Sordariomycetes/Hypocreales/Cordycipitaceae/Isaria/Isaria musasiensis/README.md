@@ -1,5 +1,4 @@
-Isaria musasiensis Aoki SPECIES
-=======
+# Isaria musasiensis Aoki SPECIES
 
 #### Status
 ACCEPTED

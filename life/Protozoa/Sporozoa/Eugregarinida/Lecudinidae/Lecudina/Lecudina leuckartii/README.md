@@ -1,5 +1,4 @@
-Lecudina leuckartii Mingazzini, 1891 SPECIES
-=======
+# Lecudina leuckartii Mingazzini, 1891 SPECIES
 
 #### Status
 ACCEPTED

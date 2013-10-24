@@ -1,5 +1,4 @@
-Dentalina urnula d'Orbigny SPECIES
-=======
+# Dentalina urnula d'Orbigny SPECIES
 
 #### Status
 ACCEPTED

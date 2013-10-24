@@ -1,5 +1,4 @@
-Cercosporella arachnoidea F.A. Wolf SPECIES
-=======
+# Cercosporella arachnoidea F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED

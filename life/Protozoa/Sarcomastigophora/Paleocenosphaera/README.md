@@ -1,5 +1,4 @@
-Paleocenosphaera Nazarov, 1973 GENUS
-=======
+# Paleocenosphaera Nazarov, 1973 GENUS
 
 #### Status
 ACCEPTED

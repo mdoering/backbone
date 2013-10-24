@@ -1,5 +1,4 @@
-Fusicoccum amygdalinum (Sacc.) Höhn. SPECIES
-=======
+# Fusicoccum amygdalinum (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

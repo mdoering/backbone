@@ -1,5 +1,4 @@
-Cladonia substraminea var. substraminea VARIETY
-=======
+# Cladonia substraminea anon. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia substraminea var. substraminea
+Cladonia substraminea anon.
 
 ### Remarks
 null

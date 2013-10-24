@@ -1,5 +1,4 @@
-Polystictus hydnoporus Theiss. SPECIES
-=======
+# Polystictus hydnoporus Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tenua taugourdeaui Varma & A.K. Dangwal SPECIES
-=======
+# Tenua taugourdeaui Varma & A.K. Dangwal SPECIES
 
 #### Status
 ACCEPTED

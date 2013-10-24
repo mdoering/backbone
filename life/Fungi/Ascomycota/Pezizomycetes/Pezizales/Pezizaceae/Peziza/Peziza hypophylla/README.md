@@ -1,5 +1,4 @@
-Peziza hypophylla Berk. & M.A. Curtis SPECIES
-=======
+# Peziza hypophylla Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

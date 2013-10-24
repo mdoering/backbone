@@ -1,5 +1,4 @@
-Agaricus amblycephalus Lasch SPECIES
-=======
+# Agaricus amblycephalus Lasch SPECIES
 
 #### Status
 ACCEPTED

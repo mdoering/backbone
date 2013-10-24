@@ -1,17 +1,16 @@
-Phallus caninus var. caninus VARIETY
-=======
+# Mutinus caninus (Huds.) Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 434 (1849)
 
 #### Original name
-null
+Phallus caninus Huds., 1778
 
 ### Remarks
 null

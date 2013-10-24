@@ -1,5 +1,4 @@
-Aspicilia acharii (Ach.) Boistel SPECIES
-=======
+# Aspicilia acharii (Ach.) Boistel SPECIES
 
 #### Status
 ACCEPTED

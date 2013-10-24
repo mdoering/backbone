@@ -1,5 +1,4 @@
-Vuilleminia pseudocystidiata Boidin, Lanq. & Gilles, 1994 SPECIES
-=======
+# Vuilleminia pseudocystidiata Boidin, Lanq. & Gilles, 1994 SPECIES
 
 #### Status
 ACCEPTED

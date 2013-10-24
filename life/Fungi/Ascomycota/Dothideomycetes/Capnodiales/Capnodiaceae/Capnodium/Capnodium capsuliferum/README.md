@@ -1,5 +1,4 @@
-Capnodium capsuliferum Rehm SPECIES
-=======
+# Capnodium capsuliferum Rehm SPECIES
 
 #### Status
 ACCEPTED

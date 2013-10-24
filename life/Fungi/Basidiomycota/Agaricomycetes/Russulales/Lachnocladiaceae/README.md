@@ -1,5 +1,4 @@
-Lachnocladiaceae FAMILY
-=======
+# Lachnocladiaceae FAMILY
 
 #### Status
 ACCEPTED

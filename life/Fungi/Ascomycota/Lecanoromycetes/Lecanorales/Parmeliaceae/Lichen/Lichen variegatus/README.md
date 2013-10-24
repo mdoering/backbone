@@ -1,5 +1,4 @@
-Lichen variegatus SPECIES
-=======
+# Lichen variegatus SPECIES
 
 #### Status
 ACCEPTED

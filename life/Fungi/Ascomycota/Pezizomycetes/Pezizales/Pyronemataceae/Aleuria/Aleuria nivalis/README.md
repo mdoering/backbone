@@ -1,5 +1,4 @@
-Aleuria nivalis SPECIES
-=======
+# Aleuria nivalis SPECIES
 
 #### Status
 ACCEPTED

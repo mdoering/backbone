@@ -1,5 +1,4 @@
-Hainesia taphrinoides D. Sacc. & Cavara SPECIES
-=======
+# Hainesia taphrinoides D. Sacc. & Cavara SPECIES
 
 #### Status
 ACCEPTED

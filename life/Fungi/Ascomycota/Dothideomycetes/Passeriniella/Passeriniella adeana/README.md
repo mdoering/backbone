@@ -1,5 +1,4 @@
-Passeriniella adeana Petr. SPECIES
-=======
+# Passeriniella adeana Petr. SPECIES
 
 #### Status
 ACCEPTED

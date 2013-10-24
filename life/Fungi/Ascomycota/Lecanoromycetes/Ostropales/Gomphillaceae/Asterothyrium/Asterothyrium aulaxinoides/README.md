@@ -1,5 +1,4 @@
-Asterothyrium aulaxinoides Lücking SPECIES
-=======
+# Asterothyrium aulaxinoides Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora chamaesycis G.W. Wilson SPECIES
-=======
+# Peronospora chamaesycis G.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

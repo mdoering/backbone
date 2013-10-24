@@ -1,5 +1,4 @@
-Hyphomonas polymorpha (ex Pongratz, 1957) Moore et al., 1984 SPECIES
-=======
+# Hyphomonas polymorpha (ex Pongratz, 1957) Moore et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

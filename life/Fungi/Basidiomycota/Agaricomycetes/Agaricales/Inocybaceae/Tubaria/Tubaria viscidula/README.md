@@ -1,5 +1,4 @@
-Tubaria viscidula P. Karst. SPECIES
-=======
+# Tubaria viscidula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

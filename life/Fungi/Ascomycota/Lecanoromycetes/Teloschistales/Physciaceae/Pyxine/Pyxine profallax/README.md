@@ -1,5 +1,4 @@
-Pyxine profallax Kalb SPECIES
-=======
+# Pyxine profallax Kalb SPECIES
 
 #### Status
 ACCEPTED

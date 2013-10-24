@@ -1,5 +1,4 @@
-Pyrenula shirabeicola Kurok. & Nakan. SPECIES
-=======
+# Pyrenula shirabeicola Kurok. & Nakan. SPECIES
 
 #### Status
 ACCEPTED

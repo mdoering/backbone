@@ -1,5 +1,4 @@
-Phomopsis rhinanthi (Lib.) Arx SPECIES
-=======
+# Phomopsis rhinanthi (Lib.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina catalaunica Caball. SPECIES
-=======
+# Diplodina catalaunica Caball. SPECIES
 
 #### Status
 ACCEPTED

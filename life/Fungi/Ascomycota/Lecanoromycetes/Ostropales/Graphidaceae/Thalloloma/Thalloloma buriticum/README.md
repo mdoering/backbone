@@ -1,5 +1,4 @@
-Thalloloma buriticum (Redinger) Staiger SPECIES
-=======
+# Thalloloma buriticum (Redinger) Staiger SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desmomastix globosa Pascher SPECIES
-=======
+# Desmomastix globosa Pascher SPECIES
 
 #### Status
 ACCEPTED

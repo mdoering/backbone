@@ -1,5 +1,4 @@
-Dictyosporium giganticum Goh & K.D. Hyde SPECIES
-=======
+# Dictyosporium giganticum Goh & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

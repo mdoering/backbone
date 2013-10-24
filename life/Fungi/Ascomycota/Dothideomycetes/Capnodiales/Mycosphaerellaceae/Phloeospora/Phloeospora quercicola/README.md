@@ -1,5 +1,4 @@
-Phloeospora quercicola (Desm.) Sacc. SPECIES
-=======
+# Phloeospora quercicola (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

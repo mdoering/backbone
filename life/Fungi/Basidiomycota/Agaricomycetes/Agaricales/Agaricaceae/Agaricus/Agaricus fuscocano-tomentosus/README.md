@@ -1,5 +1,4 @@
-Agaricus fuscocano-tomentosus Raddi SPECIES
-=======
+# Agaricus fuscocano-tomentosus Raddi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxalobacter vibrioformis Dehning & Schink, 1990 SPECIES
-=======
+# Oxalobacter vibrioformis Dehning & Schink, 1990 SPECIES
 
 #### Status
 ACCEPTED

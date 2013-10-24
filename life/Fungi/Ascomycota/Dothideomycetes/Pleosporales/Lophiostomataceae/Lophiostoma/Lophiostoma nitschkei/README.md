@@ -1,5 +1,4 @@
-Lophiostoma nitschkei Lehman SPECIES
-=======
+# Lophiostoma nitschkei Lehman SPECIES
 
 #### Status
 ACCEPTED

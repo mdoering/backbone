@@ -1,5 +1,4 @@
-Dothiorella rhoina Ellis & Everh. SPECIES
-=======
+# Dothiorella rhoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

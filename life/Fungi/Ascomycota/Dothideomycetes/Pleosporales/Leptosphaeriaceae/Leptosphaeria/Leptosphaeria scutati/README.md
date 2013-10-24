@@ -1,17 +1,16 @@
-Leptosphaeria scutata Gucevic SPECIES
-=======
+# Leptosphaeria scutati Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 6: 129 (1970)
 
 #### Original name
-Leptosphaeria scutata Gucevic
+Leptosphaeria scutati Gucevic
 
 ### Remarks
 null

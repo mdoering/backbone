@@ -1,5 +1,4 @@
-Dothidea delilei Durieu & Mont. SPECIES
-=======
+# Dothidea delilei Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

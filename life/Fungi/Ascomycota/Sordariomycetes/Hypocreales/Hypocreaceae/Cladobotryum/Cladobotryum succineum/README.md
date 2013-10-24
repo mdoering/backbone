@@ -1,5 +1,4 @@
-Cladobotryum succineum Rogerson & Samuels SPECIES
-=======
+# Cladobotryum succineum Rogerson & Samuels SPECIES
 
 #### Status
 ACCEPTED

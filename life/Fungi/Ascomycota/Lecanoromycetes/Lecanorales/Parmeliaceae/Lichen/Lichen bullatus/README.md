@@ -1,5 +1,4 @@
-Lichen bullatus Menzies SPECIES
-=======
+# Lichen bullatus Menzies SPECIES
 
 #### Status
 ACCEPTED

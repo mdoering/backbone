@@ -1,5 +1,4 @@
-Cladotrichum undiquevorsum Preuss SPECIES
-=======
+# Cladotrichum undiquevorsum Preuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus perfuscus Copel. SPECIES
-=======
+# Agaricus perfuscus Copel. SPECIES
 
 #### Status
 ACCEPTED

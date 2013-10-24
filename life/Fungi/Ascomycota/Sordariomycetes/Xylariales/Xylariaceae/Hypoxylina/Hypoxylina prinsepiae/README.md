@@ -1,5 +1,4 @@
-Hypoxylina prinsepiae Tilak SPECIES
-=======
+# Hypoxylina prinsepiae Tilak SPECIES
 
 #### Status
 ACCEPTED

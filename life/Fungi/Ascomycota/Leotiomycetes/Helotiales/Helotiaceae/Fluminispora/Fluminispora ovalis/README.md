@@ -1,5 +1,4 @@
-Fluminispora ovalis Ingold, 1958 SPECIES
-=======
+# Fluminispora ovalis Ingold, 1958 SPECIES
 
 #### Status
 ACCEPTED

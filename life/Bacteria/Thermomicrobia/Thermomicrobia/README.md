@@ -1,5 +1,4 @@
-Thermomicrobia CLASS
-=======
+# Thermomicrobia CLASS
 
 #### Status
 ACCEPTED

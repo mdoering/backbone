@@ -1,5 +1,4 @@
-Sphaerella melonis Ferraris SPECIES
-=======
+# Sphaerella melonis Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelenella tasmanica H. Mayrhofer & P.M. McCarthy SPECIES
-=======
+# Thelenella tasmanica H. Mayrhofer & P.M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

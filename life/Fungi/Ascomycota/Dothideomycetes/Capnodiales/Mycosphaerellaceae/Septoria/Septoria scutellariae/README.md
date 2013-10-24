@@ -1,5 +1,4 @@
-Septoria scutellariae Thüm., 1880 SPECIES
-=======
+# Septoria scutellariae Thüm., 1880 SPECIES
 
 #### Status
 ACCEPTED

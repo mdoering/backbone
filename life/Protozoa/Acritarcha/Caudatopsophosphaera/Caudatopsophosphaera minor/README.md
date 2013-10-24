@@ -1,5 +1,4 @@
-Caudatopsophosphaera minor Pykhova, 1969 SPECIES
-=======
+# Caudatopsophosphaera minor Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

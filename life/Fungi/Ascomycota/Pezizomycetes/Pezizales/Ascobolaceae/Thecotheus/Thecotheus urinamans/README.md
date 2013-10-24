@@ -1,5 +1,4 @@
-Thecotheus urinamans Nagao, Udagawa & Bougher SPECIES
-=======
+# Thecotheus urinamans Nagao, Udagawa & Bougher SPECIES
 
 #### Status
 ACCEPTED

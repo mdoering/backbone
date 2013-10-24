@@ -1,5 +1,4 @@
-Mycosphaerella pseudosphaerioides Petr. SPECIES
-=======
+# Mycosphaerella pseudosphaerioides Petr. SPECIES
 
 #### Status
 ACCEPTED

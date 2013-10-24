@@ -1,5 +1,4 @@
-Fijiella Loeblich & Tappan, 1962 GENUS
-=======
+# Fijiella Loeblich & Tappan, 1962 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium flavorubrum E. Müll. SPECIES
-=======
+# Cenangium flavorubrum E. Müll. SPECIES
 
 #### Status
 ACCEPTED

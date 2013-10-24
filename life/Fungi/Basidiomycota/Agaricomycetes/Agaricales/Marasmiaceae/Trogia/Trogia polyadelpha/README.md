@@ -1,5 +1,4 @@
-Trogia polyadelpha Corner SPECIES
-=======
+# Trogia polyadelpha Corner SPECIES
 
 #### Status
 ACCEPTED

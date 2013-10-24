@@ -1,5 +1,4 @@
-Cylindrocarpon ukolayi Thaung SPECIES
-=======
+# Cylindrocarpon ukolayi Thaung SPECIES
 
 #### Status
 ACCEPTED

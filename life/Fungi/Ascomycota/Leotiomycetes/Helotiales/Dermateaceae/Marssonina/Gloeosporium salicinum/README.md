@@ -1,5 +1,4 @@
-Gloeosporium salicinum P. Karst. SPECIES
-=======
+# Gloeosporium salicinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

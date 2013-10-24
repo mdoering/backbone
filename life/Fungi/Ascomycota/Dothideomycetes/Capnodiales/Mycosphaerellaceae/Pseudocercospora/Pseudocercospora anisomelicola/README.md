@@ -1,5 +1,4 @@
-Pseudocercospora anisomelicola Sawada ex Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora anisomelicola Sawada ex Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

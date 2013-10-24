@@ -1,5 +1,4 @@
-Ramularia cercosporoides Ellis & Everh. SPECIES
-=======
+# Ramularia cercosporoides Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha irosina Vain. SPECIES
-=======
+# Opegrapha irosina Vain. SPECIES
 
 #### Status
 ACCEPTED

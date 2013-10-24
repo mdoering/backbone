@@ -1,5 +1,4 @@
-Calopadia lecanorella (Nyl.) Kalb & Vezda SPECIES
-=======
+# Calopadia lecanorella (Nyl.) Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

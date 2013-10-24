@@ -1,5 +1,4 @@
-Ascochytula syringae Jaap SPECIES
-=======
+# Ascochytula syringae Jaap SPECIES
 
 #### Status
 ACCEPTED

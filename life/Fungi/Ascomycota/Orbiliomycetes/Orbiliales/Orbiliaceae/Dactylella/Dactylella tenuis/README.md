@@ -1,5 +1,4 @@
-Dactylella tenuis Drechsler SPECIES
-=======
+# Dactylella tenuis Drechsler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphothyrium pallidum B. Sutton & Pascoe, 1989 SPECIES
-=======
+# Hyphothyrium pallidum B. Sutton & Pascoe, 1989 SPECIES
 
 #### Status
 ACCEPTED

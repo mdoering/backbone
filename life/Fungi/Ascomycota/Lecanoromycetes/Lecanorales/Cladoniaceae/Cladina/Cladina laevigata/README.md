@@ -1,5 +1,4 @@
-Cladina laevigata (Vain.) C.W. Dodge SPECIES
-=======
+# Cladina laevigata (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

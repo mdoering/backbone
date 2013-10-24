@@ -1,5 +1,4 @@
-Albuginaceae FAMILY
-=======
+# Albuginaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizophydium granulosporum Scherff., 1925 SPECIES
-=======
+# Rhizophydium granulosporum Scherff., 1925 SPECIES
 
 #### Status
 ACCEPTED

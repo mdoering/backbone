@@ -1,5 +1,4 @@
-Chaetomella andropogonis Cooke & Ellis SPECIES
-=======
+# Chaetomella andropogonis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

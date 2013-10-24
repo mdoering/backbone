@@ -1,5 +1,4 @@
-Omphalia cuspidatella (Murrill) Murrill SPECIES
-=======
+# Omphalia cuspidatella (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

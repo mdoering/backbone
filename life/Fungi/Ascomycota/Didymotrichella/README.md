@@ -1,5 +1,4 @@
-Didymotrichella G. Arnaud GENUS
-=======
+# Didymotrichella G. Arnaud GENUS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Poria cerussata Bres., 1926 SPECIES
-=======
+# Ceriporiopsis cerussata (Bres.) Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Stud. Trent. , ser. 2 7: 7 (1926)
+Mycotaxon 33: 305 (1988)
 
 #### Original name
 Poria cerussata Bres., 1926

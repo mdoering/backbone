@@ -1,14 +1,13 @@
-Asterina quercigena Berk. ex Cooke, 1885 SPECIES
-=======
+# Trichothyriella quercigena (Berk. ex Cooke) Theiss., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Botanisches Centralblatt, Beihefte (1914)
 
 #### Original name
 Trichothyrium quercigenum Berk.

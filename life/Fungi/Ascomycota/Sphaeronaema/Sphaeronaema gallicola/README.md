@@ -1,5 +1,4 @@
-Sphaeronaema gallicola Trotter SPECIES
-=======
+# Sphaeronaema gallicola Trotter SPECIES
 
 #### Status
 ACCEPTED

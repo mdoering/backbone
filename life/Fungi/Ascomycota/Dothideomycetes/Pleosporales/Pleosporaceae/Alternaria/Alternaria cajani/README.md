@@ -1,5 +1,4 @@
-Alternaria cajani Rak. Kumar, A.N. Rai & K.M. Vyas SPECIES
-=======
+# Alternaria cajani Rak. Kumar, A.N. Rai & K.M. Vyas SPECIES
 
 #### Status
 ACCEPTED

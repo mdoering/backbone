@@ -1,5 +1,4 @@
-Phyllachora grevilleae clelandii C.A. Pearce, Reddell & K.D. Hyde, 2001 INFRASPECIFIC_NAME
-=======
+# Phyllachora grevilleae SPECIES
 
 #### Status
 ACCEPTED

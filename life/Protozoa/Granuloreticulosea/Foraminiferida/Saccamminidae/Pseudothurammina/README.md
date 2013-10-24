@@ -1,5 +1,4 @@
-Pseudothurammina Scott, Medioli & Williamson, 1981 GENUS
-=======
+# Pseudothurammina Scott, Medioli & Williamson, 1981 GENUS
 
 #### Status
 ACCEPTED

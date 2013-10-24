@@ -1,5 +1,4 @@
-Aposphaeria mediella P. Karst. SPECIES
-=======
+# Aposphaeria mediella P. Karst. SPECIES
 
 #### Status
 ACCEPTED

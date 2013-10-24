@@ -1,14 +1,13 @@
-Paraparmelia roderickii Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia roderickii (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 32(1): 407 (1988)
+Mycotaxon 87: 401 (2003)
 
 #### Original name
 Paraparmelia roderickii Elix & J. Johnst.

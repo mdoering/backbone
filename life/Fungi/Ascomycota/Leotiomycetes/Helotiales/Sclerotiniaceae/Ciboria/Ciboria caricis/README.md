@@ -1,5 +1,4 @@
-Ciboria caricis Whetzel SPECIES
-=======
+# Ciboria caricis Whetzel SPECIES
 
 #### Status
 ACCEPTED

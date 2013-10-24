@@ -1,5 +1,4 @@
-Gliophorus citrinus (Rea) Kovalenko SPECIES
-=======
+# Gliophorus citrinus (Rea) Kovalenko SPECIES
 
 #### Status
 ACCEPTED

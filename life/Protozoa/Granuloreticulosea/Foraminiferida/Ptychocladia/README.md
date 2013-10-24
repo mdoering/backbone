@@ -1,5 +1,4 @@
-Ptychocladia Ulrich & Bassler, 1904 GENUS
-=======
+# Ptychocladia Ulrich & Bassler, 1904 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora kusanoi Dietel, 1905 SPECIES
-=======
+# Melampsora kusanoi Dietel, 1905 SPECIES
 
 #### Status
 ACCEPTED

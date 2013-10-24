@@ -1,5 +1,4 @@
-Peziza labellum var. alba Bull. VARIETY
-=======
+# Peziza labellum Bull. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Hist. Champ. France (Paris) 1: 262, tab. 204 (1791)
+null
 
 #### Original name
-Peziza labellum var. alba Bull.
+Peziza labellum Bull.
 
 ### Remarks
 null

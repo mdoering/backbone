@@ -1,5 +1,4 @@
-Fragilaria tenuicollis Heib. SPECIES
-=======
+# Fragilaria tenuicollis Heib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taphrophila argyllensis Scheuer, Spooner & Wilberf., 1991 SPECIES
-=======
+# Taphrophila argyllensis Scheuer, Spooner & Wilberf., 1991 SPECIES
 
 #### Status
 ACCEPTED

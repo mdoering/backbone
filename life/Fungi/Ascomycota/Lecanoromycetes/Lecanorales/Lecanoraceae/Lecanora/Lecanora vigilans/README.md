@@ -1,5 +1,4 @@
-Lecanora vigilans Taylor SPECIES
-=======
+# Lecanora vigilans Taylor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporocybe truncata (Cooke & Peck) Sacc. SPECIES
-=======
+# Sporocybe truncata (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

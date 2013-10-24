@@ -1,5 +1,4 @@
-Leptonia viridipes Rick SPECIES
-=======
+# Leptonia viridipes Rick SPECIES
 
 #### Status
 ACCEPTED

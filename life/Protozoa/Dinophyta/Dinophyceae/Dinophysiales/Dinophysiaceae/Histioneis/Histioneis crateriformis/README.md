@@ -1,8 +1,7 @@
-Parahistioneis crateriformis (Stein) Kofoid & Skogsberg, 1928 SPECIES
-=======
+# Histioneis crateriformis Stein, 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

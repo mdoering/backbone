@@ -1,5 +1,4 @@
-Rinodina fuscescens Zahlbr. ex H. Mayrhofer SPECIES
-=======
+# Rinodina fuscescens Zahlbr. ex H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

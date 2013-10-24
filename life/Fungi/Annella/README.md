@@ -1,5 +1,4 @@
-Annella S.K. Srivastava, 1976 GENUS
-=======
+# Annella S.K. Srivastava, 1976 GENUS
 
 #### Status
 ACCEPTED

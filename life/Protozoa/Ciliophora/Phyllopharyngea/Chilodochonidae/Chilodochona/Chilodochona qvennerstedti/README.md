@@ -1,8 +1,7 @@
-Chilodochona microchilus Wallengren, 1895 SPECIES
-=======
+# Chilodochona qvennerstedti Wallengren, 1895 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

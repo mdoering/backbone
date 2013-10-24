@@ -1,5 +1,4 @@
-Clitocybe subgilva (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe subgilva (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

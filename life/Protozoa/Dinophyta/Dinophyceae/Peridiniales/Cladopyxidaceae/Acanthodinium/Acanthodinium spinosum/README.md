@@ -1,5 +1,4 @@
-Acanthodinium spinosum Kofoid SPECIES
-=======
+# Acanthodinium spinosum Kofoid SPECIES
 
 #### Status
 ACCEPTED

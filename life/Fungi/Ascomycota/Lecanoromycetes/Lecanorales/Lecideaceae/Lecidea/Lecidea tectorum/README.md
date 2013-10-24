@@ -1,5 +1,4 @@
-Lecidea tectorum Beltr. SPECIES
-=======
+# Lecidea tectorum Beltr. SPECIES
 
 #### Status
 ACCEPTED

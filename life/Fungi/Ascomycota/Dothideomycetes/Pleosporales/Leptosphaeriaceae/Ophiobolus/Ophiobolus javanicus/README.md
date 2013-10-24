@@ -1,5 +1,4 @@
-Ophiobolus javanicus Penz. & Sacc. SPECIES
-=======
+# Ophiobolus javanicus Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

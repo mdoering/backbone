@@ -1,8 +1,7 @@
-Pulvinulinella bradyana Cushman, 1927 SPECIES
-=======
+# Pseudoparella bradyana (Cushman, 1927) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

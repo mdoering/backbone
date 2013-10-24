@@ -1,5 +1,4 @@
-Cantharellus violaceus (Fr.) Fr. SPECIES
-=======
+# Cantharellus violaceus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

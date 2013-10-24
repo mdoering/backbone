@@ -1,5 +1,4 @@
-Ramaria aureorhiza R.H. Petersen, 1988 SPECIES
-=======
+# Ramaria aureorhiza R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Circolagenophrys ornata SPECIES
-=======
+# Circolagenophrys ornata SPECIES
 
 #### Status
 ACCEPTED

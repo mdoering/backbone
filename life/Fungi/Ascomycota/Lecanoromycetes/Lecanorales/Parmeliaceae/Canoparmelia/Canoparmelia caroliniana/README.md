@@ -1,17 +1,16 @@
-Pseudoparmelia caroliniana (Nyl.) Hale SPECIES
-=======
+# Canoparmelia caroliniana (Nyl.) Elix & Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Elix, Johnston & Verdon, Mycotaxon 27: 278 (1986)
 
 #### Original name
-null
+Parmelia caroliniana Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pontosphaera latelliptica (Báldi-Beke & Baldi, 1974) Perch-Nielsen, 1984 SPECIES
-=======
+# Pontosphaera latelliptica (Báldi-Beke & Baldi, 1974) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

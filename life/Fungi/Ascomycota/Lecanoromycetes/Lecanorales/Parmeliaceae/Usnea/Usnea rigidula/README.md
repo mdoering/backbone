@@ -1,5 +1,4 @@
-Usnea rigidula (Stirt.) G. Awasthi SPECIES
-=======
+# Usnea rigidula (Stirt.) G. Awasthi SPECIES
 
 #### Status
 ACCEPTED

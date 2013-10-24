@@ -1,5 +1,4 @@
-Passalora heliotropii (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Passalora heliotropii (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pannaria craspedia var. craspedia VARIETY
-=======
+# Pannaria craspedia Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pannaria craspedia var. craspedia
+Pannaria craspedia Körb.
 
 ### Remarks
 null

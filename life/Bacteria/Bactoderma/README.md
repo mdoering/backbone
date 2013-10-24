@@ -1,5 +1,4 @@
-Bactoderma Tepper & Korshunova, 1973 (Approved Lists, 1980) GENUS
-=======
+# Bactoderma Tepper & Korshunova, 1973 (Approved Lists, 1980) GENUS
 
 #### Status
 ACCEPTED

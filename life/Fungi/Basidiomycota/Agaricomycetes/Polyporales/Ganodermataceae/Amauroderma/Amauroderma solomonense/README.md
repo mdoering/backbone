@@ -1,5 +1,4 @@
-Amauroderma solomonense Corner, 1983 SPECIES
-=======
+# Amauroderma solomonense Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

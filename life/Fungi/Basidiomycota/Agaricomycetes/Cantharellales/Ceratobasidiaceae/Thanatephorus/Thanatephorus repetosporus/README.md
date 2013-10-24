@@ -1,14 +1,13 @@
-Thanatephorus repetospora (G. Langer & Ryvarden) P. Roberts SPECIES
-=======
+# Thanatephorus repetosporus (G. Langer & Ryvarden) P. Roberts, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 69: 38 (1998)
 
 #### Original name
 Tofispora repetospora G. Langer & Ryvarden, 1994

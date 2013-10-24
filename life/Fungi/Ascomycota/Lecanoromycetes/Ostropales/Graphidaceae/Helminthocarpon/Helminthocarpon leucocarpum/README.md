@@ -1,5 +1,4 @@
-Helminthocarpon leucocarpum (Müll. Arg.) Müll. Arg. SPECIES
-=======
+# Helminthocarpon leucocarpum (Müll. Arg.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

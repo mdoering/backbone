@@ -1,5 +1,4 @@
-Hepatozoon Miller, 1908 GENUS
-=======
+# Hepatozoon Miller, 1908 GENUS
 
 #### Status
 ACCEPTED

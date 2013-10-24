@@ -1,5 +1,4 @@
-Micropeltis serica Rehm SPECIES
-=======
+# Micropeltis serica Rehm SPECIES
 
 #### Status
 ACCEPTED

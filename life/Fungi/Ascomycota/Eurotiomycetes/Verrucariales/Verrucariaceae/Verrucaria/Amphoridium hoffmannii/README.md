@@ -1,8 +1,7 @@
-Amphoridium hoffmanni (Körb.) M. Choisy SPECIES
-=======
+# Amphoridium hoffmannii (Körb.) M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

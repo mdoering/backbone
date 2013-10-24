@@ -1,5 +1,4 @@
-Polyblastiopsis alba (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Polyblastiopsis alba (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

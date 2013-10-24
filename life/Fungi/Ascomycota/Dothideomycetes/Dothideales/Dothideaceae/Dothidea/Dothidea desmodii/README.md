@@ -1,5 +1,4 @@
-Dothidea desmodii M.A. Curtis SPECIES
-=======
+# Dothidea desmodii M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

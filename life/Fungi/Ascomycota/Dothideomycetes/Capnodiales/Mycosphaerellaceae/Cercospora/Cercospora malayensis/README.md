@@ -1,5 +1,4 @@
-Cercospora malayensis F. Stevens & Solheim, 1931 SPECIES
-=======
+# Cercospora malayensis F. Stevens & Solheim, 1931 SPECIES
 
 #### Status
 ACCEPTED

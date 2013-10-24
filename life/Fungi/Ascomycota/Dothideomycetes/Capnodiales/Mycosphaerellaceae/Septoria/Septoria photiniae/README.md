@@ -1,5 +1,4 @@
-Septoria photiniae Berk. & M.A. Curtis SPECIES
-=======
+# Septoria photiniae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

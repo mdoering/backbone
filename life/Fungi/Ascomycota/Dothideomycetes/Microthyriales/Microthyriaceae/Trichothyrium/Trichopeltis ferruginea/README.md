@@ -1,5 +1,4 @@
-Trichopeltis ferruginea var. ferruginea VARIETY
-=======
+# Trichopeltis ferruginea Rehm SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Trichopeltis ferruginea var. ferruginea
+Trichopeltis ferruginea Rehm
 
 ### Remarks
 null

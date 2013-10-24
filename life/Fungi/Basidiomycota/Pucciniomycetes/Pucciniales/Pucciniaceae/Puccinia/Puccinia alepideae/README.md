@@ -1,5 +1,4 @@
-Puccinia alepideae Doidge SPECIES
-=======
+# Puccinia alepideae Doidge SPECIES
 
 #### Status
 ACCEPTED

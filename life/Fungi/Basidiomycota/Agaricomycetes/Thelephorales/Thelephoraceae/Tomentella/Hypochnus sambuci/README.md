@@ -1,5 +1,4 @@
-Hypochnus sambuci SPECIES
-=======
+# Hypochnus sambuci SPECIES
 
 #### Status
 ACCEPTED

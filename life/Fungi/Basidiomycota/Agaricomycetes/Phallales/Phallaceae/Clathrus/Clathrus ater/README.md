@@ -1,5 +1,4 @@
-Clathrus ater Huds. SPECIES
-=======
+# Clathrus ater Huds. SPECIES
 
 #### Status
 ACCEPTED

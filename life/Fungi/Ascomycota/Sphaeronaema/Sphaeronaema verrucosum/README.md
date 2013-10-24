@@ -1,5 +1,4 @@
-Sphaeronaema verrucosum Corda SPECIES
-=======
+# Sphaeronaema verrucosum Corda SPECIES
 
 #### Status
 ACCEPTED

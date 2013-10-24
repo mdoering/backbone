@@ -1,5 +1,4 @@
-Pertusaria nahaeoensis Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria nahaeoensis Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

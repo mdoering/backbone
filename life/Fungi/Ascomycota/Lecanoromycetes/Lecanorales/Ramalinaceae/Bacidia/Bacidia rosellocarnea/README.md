@@ -1,5 +1,4 @@
-Bacidia rosellocarnea C. Knight SPECIES
-=======
+# Bacidia rosellocarnea C. Knight SPECIES
 
 #### Status
 ACCEPTED

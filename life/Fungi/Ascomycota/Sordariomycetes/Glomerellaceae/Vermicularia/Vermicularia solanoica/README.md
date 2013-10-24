@@ -1,5 +1,4 @@
-Vermicularia solanoica Fairm. SPECIES
-=======
+# Vermicularia solanoica Fairm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidorina neoamylophora (Gyeln.) Motyka SPECIES
-=======
+# Lecidorina neoamylophora (Gyeln.) Motyka SPECIES
 
 #### Status
 ACCEPTED

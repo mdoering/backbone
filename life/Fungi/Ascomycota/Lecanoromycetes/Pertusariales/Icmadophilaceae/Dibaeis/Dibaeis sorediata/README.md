@@ -1,5 +1,4 @@
-Dibaeis sorediata Kalb & Gierl SPECIES
-=======
+# Dibaeis sorediata Kalb & Gierl SPECIES
 
 #### Status
 ACCEPTED

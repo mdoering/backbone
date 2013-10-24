@@ -1,5 +1,4 @@
-Astrocystis fimbriata Dulym., P.F. Cannon & Peerally, 1998 SPECIES
-=======
+# Astrocystis fimbriata Dulym., P.F. Cannon & Peerally, 1998 SPECIES
 
 #### Status
 ACCEPTED

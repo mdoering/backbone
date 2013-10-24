@@ -1,5 +1,4 @@
-Sticta copelandii Vain. SPECIES
-=======
+# Sticta copelandii Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyxine philippina Vain. SPECIES
-=======
+# Pyxine philippina Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon corsicus Demoulin & Moy. SPECIES
-=======
+# Rhizopogon corsicus Demoulin & Moy. SPECIES
 
 #### Status
 ACCEPTED

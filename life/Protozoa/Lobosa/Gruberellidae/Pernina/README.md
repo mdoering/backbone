@@ -1,5 +1,4 @@
-Pernina El Kadiri, Joyon & Pussard, 1992 GENUS
-=======
+# Pernina El Kadiri, Joyon & Pussard, 1992 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synura vaucheriae Kützing SPECIES
-=======
+# Synura vaucheriae Kützing SPECIES
 
 #### Status
 ACCEPTED

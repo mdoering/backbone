@@ -1,5 +1,4 @@
-Dipodomyces monstruosus Thaxt., 1931 SPECIES
-=======
+# Dipodomyces monstruosus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

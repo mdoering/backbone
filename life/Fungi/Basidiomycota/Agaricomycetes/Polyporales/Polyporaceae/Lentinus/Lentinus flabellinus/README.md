@@ -1,5 +1,4 @@
-Lentinus flabellinus Quél. SPECIES
-=======
+# Lentinus flabellinus Quél. SPECIES
 
 #### Status
 ACCEPTED

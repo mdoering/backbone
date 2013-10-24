@@ -1,5 +1,4 @@
-Anthostomella calami Rehm SPECIES
-=======
+# Anthostomella calami Rehm SPECIES
 
 #### Status
 ACCEPTED

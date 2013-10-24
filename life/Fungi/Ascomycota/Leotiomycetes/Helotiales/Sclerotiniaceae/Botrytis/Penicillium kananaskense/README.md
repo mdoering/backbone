@@ -1,5 +1,4 @@
-Penicillium kananaskense Seifert, Frisvad & McLean, 1994 SPECIES
-=======
+# Penicillium kananaskense Seifert, Frisvad & McLean, 1994 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Cenangium potentillae Hazsl. SPECIES
-=======
+# Cenangium potentillae Hazsl. SPECIES
 
 #### Status
 ACCEPTED

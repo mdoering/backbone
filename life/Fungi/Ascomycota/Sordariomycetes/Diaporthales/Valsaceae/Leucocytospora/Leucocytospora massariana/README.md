@@ -1,5 +1,4 @@
-Leucocytospora massariana (Sacc.) Z. Urb. SPECIES
-=======
+# Leucocytospora massariana (Sacc.) Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

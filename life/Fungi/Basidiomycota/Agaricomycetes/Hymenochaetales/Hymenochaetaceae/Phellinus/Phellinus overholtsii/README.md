@@ -1,5 +1,4 @@
-Phellinus overholtsii Ginns, 1984 SPECIES
-=======
+# Phellinus overholtsii Ginns, 1984 SPECIES
 
 #### Status
 ACCEPTED

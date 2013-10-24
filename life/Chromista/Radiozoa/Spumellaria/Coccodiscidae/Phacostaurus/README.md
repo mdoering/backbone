@@ -1,5 +1,4 @@
-Phacostaurus Haeckel, 1881 GENUS
-=======
+# Phacostaurus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe amoenolens Kühner SPECIES
-=======
+# Inocybe amoenolens Kühner SPECIES
 
 #### Status
 ACCEPTED

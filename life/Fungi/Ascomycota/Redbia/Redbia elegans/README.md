@@ -1,5 +1,4 @@
-Redbia elegans Piroz. & Hodges SPECIES
-=======
+# Redbia elegans Piroz. & Hodges SPECIES
 
 #### Status
 ACCEPTED

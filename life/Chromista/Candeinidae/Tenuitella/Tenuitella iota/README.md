@@ -1,8 +1,7 @@
-Globigerinita iota Parker, 1962 SPECIES
-=======
+# Tenuitella iota (Parker, 1962) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

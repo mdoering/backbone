@@ -1,5 +1,4 @@
-Candida santamariae var. santamariae VARIETY
-=======
+# Candida santamariae Montrocher SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Revue Mycol. , Paris 32: 77 (1967)
 
 #### Original name
-Candida santamariae var. santamariae
+Candida santamariae Montrocher
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Scleropleella juniperina K. Holm & L. Holm SPECIES
-=======
+# Scleropleella juniperina K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora dissidens (Nyl.) Cromb. SPECIES
-=======
+# Lecanora dissidens (Nyl.) Cromb. SPECIES
 
 #### Status
 ACCEPTED

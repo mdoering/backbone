@@ -1,5 +1,4 @@
-Phlyctochytrium hallii Couch SPECIES
-=======
+# Phlyctochytrium hallii Couch SPECIES
 
 #### Status
 ACCEPTED

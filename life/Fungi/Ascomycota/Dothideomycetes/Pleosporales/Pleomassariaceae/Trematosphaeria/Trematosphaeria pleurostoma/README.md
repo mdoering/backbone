@@ -1,5 +1,4 @@
-Trematosphaeria pleurostoma Rehm SPECIES
-=======
+# Trematosphaeria pleurostoma Rehm SPECIES
 
 #### Status
 ACCEPTED

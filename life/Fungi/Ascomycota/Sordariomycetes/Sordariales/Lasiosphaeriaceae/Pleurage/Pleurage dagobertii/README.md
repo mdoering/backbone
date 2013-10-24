@@ -1,5 +1,4 @@
-Pleurage dagobertii C. Moreau, 1954 SPECIES
-=======
+# Pleurage dagobertii C. Moreau, 1954 SPECIES
 
 #### Status
 ACCEPTED

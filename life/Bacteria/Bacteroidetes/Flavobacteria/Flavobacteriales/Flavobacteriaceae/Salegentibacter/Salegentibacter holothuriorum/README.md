@@ -1,5 +1,4 @@
-Salegentibacter holothuriorum Nedashkovskaya et al., 2004 SPECIES
-=======
+# Salegentibacter holothuriorum Nedashkovskaya et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

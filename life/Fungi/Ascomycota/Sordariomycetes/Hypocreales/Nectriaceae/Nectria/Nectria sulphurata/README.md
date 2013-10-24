@@ -1,5 +1,4 @@
-Nectria sulphurata Ellis & Everh. SPECIES
-=======
+# Nectria sulphurata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

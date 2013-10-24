@@ -1,5 +1,4 @@
-Hypocrea bromeliicola Bat., Nascim. & Cif. SPECIES
-=======
+# Hypocrea bromeliicola Bat., Nascim. & Cif. SPECIES
 
 #### Status
 ACCEPTED

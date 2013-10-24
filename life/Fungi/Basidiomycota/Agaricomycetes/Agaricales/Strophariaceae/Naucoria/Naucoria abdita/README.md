@@ -1,5 +1,4 @@
-Naucoria abdita Herp. SPECIES
-=======
+# Naucoria abdita Herp. SPECIES
 
 #### Status
 ACCEPTED

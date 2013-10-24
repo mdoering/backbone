@@ -1,5 +1,4 @@
-Phyllachora leeicola Ananthan., 1964 SPECIES
-=======
+# Phyllachora leeicola Ananthan., 1964 SPECIES
 
 #### Status
 DOUBTFUL

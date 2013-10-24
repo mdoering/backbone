@@ -1,5 +1,4 @@
-Ochrolechia peruensis Verseghy SPECIES
-=======
+# Ochrolechia peruensis Verseghy SPECIES
 
 #### Status
 ACCEPTED

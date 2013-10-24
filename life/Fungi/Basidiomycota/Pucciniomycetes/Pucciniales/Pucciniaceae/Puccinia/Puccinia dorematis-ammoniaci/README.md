@@ -1,5 +1,4 @@
-Puccinia dorematis-ammoniaci M. Abbasi, Hedjar. & Gjaerum SPECIES
-=======
+# Puccinia dorematis-ammoniaci M. Abbasi, Hedjar. & Gjaerum SPECIES
 
 #### Status
 ACCEPTED

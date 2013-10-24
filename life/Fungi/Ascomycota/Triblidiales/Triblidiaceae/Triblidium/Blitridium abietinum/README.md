@@ -1,5 +1,4 @@
-Blitridium abietinum (Wallr.) Sacc. SPECIES
-=======
+# Blitridium abietinum (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

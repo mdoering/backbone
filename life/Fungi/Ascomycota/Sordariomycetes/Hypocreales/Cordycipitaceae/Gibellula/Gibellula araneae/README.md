@@ -1,5 +1,4 @@
-Gibellula araneae Sawada SPECIES
-=======
+# Gibellula araneae Sawada SPECIES
 
 #### Status
 ACCEPTED

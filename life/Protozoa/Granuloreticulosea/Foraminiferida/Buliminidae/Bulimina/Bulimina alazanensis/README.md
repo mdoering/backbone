@@ -1,5 +1,4 @@
-Bulimina alazanensis SPECIES
-=======
+# Bulimina alazanensis SPECIES
 
 #### Status
 ACCEPTED

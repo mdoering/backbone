@@ -1,5 +1,4 @@
-Archecribraria Locq. GENUS
-=======
+# Archecribraria Locq. GENUS
 
 #### Status
 ACCEPTED

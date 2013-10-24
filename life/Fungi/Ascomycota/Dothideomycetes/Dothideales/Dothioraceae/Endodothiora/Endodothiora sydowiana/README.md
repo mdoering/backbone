@@ -1,5 +1,4 @@
-Endodothiora sydowiana Petr., 1929 SPECIES
-=======
+# Endodothiora sydowiana Petr., 1929 SPECIES
 
 #### Status
 ACCEPTED

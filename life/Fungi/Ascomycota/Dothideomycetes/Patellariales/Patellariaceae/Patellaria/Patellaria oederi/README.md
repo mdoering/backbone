@@ -1,5 +1,4 @@
-Patellaria oederi (Ach.) Trevis. SPECIES
-=======
+# Patellaria oederi (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

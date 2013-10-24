@@ -1,5 +1,4 @@
-Helotium strangulatum Velen. SPECIES
-=======
+# Helotium strangulatum Velen. SPECIES
 
 #### Status
 ACCEPTED

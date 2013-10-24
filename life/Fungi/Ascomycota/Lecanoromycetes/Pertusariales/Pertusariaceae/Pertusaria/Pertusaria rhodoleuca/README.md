@@ -1,5 +1,4 @@
-Pertusaria rhodoleuca Th. Fr. SPECIES
-=======
+# Pertusaria rhodoleuca Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

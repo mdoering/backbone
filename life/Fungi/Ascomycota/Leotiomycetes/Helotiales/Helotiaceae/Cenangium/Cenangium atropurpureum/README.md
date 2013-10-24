@@ -1,5 +1,4 @@
-Cenangium atropurpureum E.K. Cash & R.W. Davidson SPECIES
-=======
+# Cenangium atropurpureum E.K. Cash & R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

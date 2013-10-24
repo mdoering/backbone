@@ -1,5 +1,4 @@
-Stictis coccinea Fr. SPECIES
-=======
+# Stictis coccinea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma hyperici-perforati Henn. SPECIES
-=======
+# Phoma hyperici-perforati Henn. SPECIES
 
 #### Status
 ACCEPTED

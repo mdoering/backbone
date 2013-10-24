@@ -1,5 +1,4 @@
-Cestodella rhinocrici Tuzet & Manier SPECIES
-=======
+# Cestodella rhinocrici Tuzet & Manier SPECIES
 
 #### Status
 ACCEPTED

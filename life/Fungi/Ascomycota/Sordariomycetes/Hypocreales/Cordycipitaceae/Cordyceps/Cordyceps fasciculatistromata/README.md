@@ -1,17 +1,16 @@
-Cordyceps fasciculatostromata Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps fasciculatistromata Kobayasi & Shimizu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 8(3): 83 (1982)
 
 #### Original name
-Cordyceps fasciculatostromata Kobayasi & Shimizu
+Cordyceps fasciculatistromata Kobayasi & Shimizu
 
 ### Remarks
 null

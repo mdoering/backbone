@@ -1,5 +1,4 @@
-Phyllosticta bryophila Racov. SPECIES
-=======
+# Phyllosticta bryophila Racov. SPECIES
 
 #### Status
 ACCEPTED

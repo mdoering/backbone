@@ -1,5 +1,4 @@
-Cylindrocolla pini Laubert & Fautrey SPECIES
-=======
+# Cylindrocolla pini Laubert & Fautrey SPECIES
 
 #### Status
 ACCEPTED

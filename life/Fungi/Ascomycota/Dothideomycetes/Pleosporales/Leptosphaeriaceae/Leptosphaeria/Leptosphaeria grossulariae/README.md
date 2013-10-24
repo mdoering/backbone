@@ -1,5 +1,4 @@
-Leptosphaeria grossulariae Girz. SPECIES
-=======
+# Leptosphaeria grossulariae Girz. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacus plicatus Conrad SPECIES
-=======
+# Phacus plicatus Conrad SPECIES
 
 #### Status
 ACCEPTED

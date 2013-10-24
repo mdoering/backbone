@@ -1,5 +1,4 @@
-Graphis verminosa Müll. Arg. SPECIES
-=======
+# Graphis verminosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

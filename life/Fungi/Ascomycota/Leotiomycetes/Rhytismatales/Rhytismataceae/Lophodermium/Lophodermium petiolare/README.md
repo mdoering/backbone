@@ -1,5 +1,4 @@
-Lophodermium petiolare (Alb. & Schwein.) Chevall. SPECIES
-=======
+# Lophodermium petiolare (Alb. & Schwein.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

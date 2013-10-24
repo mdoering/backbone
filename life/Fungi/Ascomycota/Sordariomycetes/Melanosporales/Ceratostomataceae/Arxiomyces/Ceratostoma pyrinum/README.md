@@ -1,5 +1,4 @@
-Ceratostoma pyrinum Ade SPECIES
-=======
+# Ceratostoma pyrinum Ade SPECIES
 
 #### Status
 ACCEPTED

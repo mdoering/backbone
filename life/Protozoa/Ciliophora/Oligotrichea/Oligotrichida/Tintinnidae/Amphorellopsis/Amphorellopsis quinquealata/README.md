@@ -1,5 +1,4 @@
-Amphorellopsis quinquealata (Laackmann) Balech, 1971 SPECIES
-=======
+# Amphorellopsis quinquealata (Laackmann) Balech, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endamoeba lutea SPECIES
-=======
+# Endamoeba lutea SPECIES
 
 #### Status
 ACCEPTED

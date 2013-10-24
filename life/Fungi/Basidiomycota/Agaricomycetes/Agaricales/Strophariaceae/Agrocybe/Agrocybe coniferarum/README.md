@@ -1,5 +1,4 @@
-Agrocybe coniferarum Raithelh. SPECIES
-=======
+# Agrocybe coniferarum Raithelh. SPECIES
 
 #### Status
 ACCEPTED

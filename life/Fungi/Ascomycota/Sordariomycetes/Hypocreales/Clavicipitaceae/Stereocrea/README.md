@@ -1,5 +1,4 @@
-Stereocrea Syd. & P. Syd. GENUS
-=======
+# Stereocrea Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

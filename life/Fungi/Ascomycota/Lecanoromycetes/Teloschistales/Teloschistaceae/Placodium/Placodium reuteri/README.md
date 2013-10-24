@@ -1,5 +1,4 @@
-Placodium reuteri (Trevis.) A. Massal. SPECIES
-=======
+# Placodium reuteri (Trevis.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

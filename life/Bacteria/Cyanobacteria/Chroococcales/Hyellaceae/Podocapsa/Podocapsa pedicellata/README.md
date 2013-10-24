@@ -1,5 +1,4 @@
-Podocapsa pedicellata Ercegovic SPECIES
-=======
+# Podocapsa pedicellata Ercegovic SPECIES
 
 #### Status
 ACCEPTED

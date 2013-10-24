@@ -1,5 +1,4 @@
-Polyporus helopus Har. & Pat. SPECIES
-=======
+# Polyporus helopus Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psilocybe acutipilea (Speg.) Guzmán SPECIES
-=======
+# Psilocybe acutipilea (Speg.) Guzmán SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium pleiophorum (Nyl.) Räsänen SPECIES
-=======
+# Placodium pleiophorum (Nyl.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urophlyctis pluriannulata Magnus SPECIES
-=======
+# Urophlyctis pluriannulata Magnus SPECIES
 
 #### Status
 ACCEPTED

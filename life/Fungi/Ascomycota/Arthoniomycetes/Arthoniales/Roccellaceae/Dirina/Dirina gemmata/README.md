@@ -1,14 +1,13 @@
-Platygrapha gemmata Leight. SPECIES
-=======
+# Dirina gemmata (Leight.) Redinger SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Trans. Linn. Soc. London 27: 179 (1869)
+Annln naturh. Mus. Wien 47: 126 (1936)
 
 #### Original name
 Platygrapha gemmata Leight.

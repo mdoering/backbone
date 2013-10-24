@@ -1,14 +1,13 @@
-Pseudospelaeopogon A.A. Elenkin, 1949 GENUS
-=======
+# Spelaeopogon Borzì, 1907 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Alg. Cyanoph. URSS, pars Spec. 2: 1839.
+Nuova Notarisia 18: 38.
 
 #### Original name
 null

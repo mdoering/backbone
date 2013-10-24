@@ -1,5 +1,4 @@
-Santapauinda pulchra Subram., 1995 SPECIES
-=======
+# Santapauinda pulchra Subram., 1995 SPECIES
 
 #### Status
 ACCEPTED

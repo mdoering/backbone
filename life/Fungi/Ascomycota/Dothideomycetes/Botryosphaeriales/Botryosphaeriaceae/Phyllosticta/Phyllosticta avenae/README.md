@@ -1,5 +1,4 @@
-Phyllosticta avenae Lobik SPECIES
-=======
+# Phyllosticta avenae Lobik SPECIES
 
 #### Status
 ACCEPTED

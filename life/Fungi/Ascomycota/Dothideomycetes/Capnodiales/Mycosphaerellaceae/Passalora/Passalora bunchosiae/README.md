@@ -1,5 +1,4 @@
-Passalora bunchosiae N. Pons, U. Braun & Crous SPECIES
-=======
+# Passalora bunchosiae N. Pons, U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

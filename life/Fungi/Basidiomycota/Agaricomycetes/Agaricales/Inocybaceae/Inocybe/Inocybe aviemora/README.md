@@ -1,5 +1,4 @@
-Inocybe aviemora Tzabar {?} ined. SPECIES
-=======
+# Inocybe aviemora Tzabar {?} ined. SPECIES
 
 #### Status
 ACCEPTED

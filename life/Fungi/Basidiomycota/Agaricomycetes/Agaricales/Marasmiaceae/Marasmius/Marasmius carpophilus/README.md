@@ -1,5 +1,4 @@
-Marasmius carpophilus Singer SPECIES
-=======
+# Marasmius carpophilus Singer SPECIES
 
 #### Status
 ACCEPTED

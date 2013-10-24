@@ -1,5 +1,4 @@
-Calonectria bahiensis W. Hempel SPECIES
-=======
+# Calonectria bahiensis W. Hempel SPECIES
 
 #### Status
 ACCEPTED

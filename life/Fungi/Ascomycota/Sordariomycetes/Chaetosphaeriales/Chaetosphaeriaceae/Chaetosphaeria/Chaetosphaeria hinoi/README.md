@@ -1,5 +1,4 @@
-Chaetosphaeria hinoi Dôke SPECIES
-=======
+# Chaetosphaeria hinoi Dôke SPECIES
 
 #### Status
 ACCEPTED

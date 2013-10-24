@@ -1,17 +1,16 @@
-Phragmidium barnardii var. barnardii Plowr. & G. Winter VARIETY
-=======
+# Phragmotelium barnardii (Plowr. & G. Winter) Syd., 1921 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue mycol. , Toulouse 8: 208 (1886)
+Annls mycol. 19(1/2): 167 (1921)
 
 #### Original name
-Phragmidium barnardii var. barnardii Plowr. & G. Winter
+Phragmidium barnardii Plowr. & G. Winter, 1886
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Macrodiplodia nankinensis Teng SPECIES
-=======
+# Macrodiplodia nankinensis Teng SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chromosporium griseum (Corda) Sacc. SPECIES
-=======
+# Chromosporium griseum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

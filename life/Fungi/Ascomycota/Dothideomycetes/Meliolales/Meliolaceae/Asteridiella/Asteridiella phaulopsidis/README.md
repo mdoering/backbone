@@ -1,5 +1,4 @@
-Asteridiella phaulopsidis Hosag. SPECIES
-=======
+# Asteridiella phaulopsidis Hosag. SPECIES
 
 #### Status
 ACCEPTED

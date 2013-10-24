@@ -1,5 +1,4 @@
-Entonema Reinsch, 1875 GENUS
-=======
+# Entonema Reinsch, 1875 GENUS
 
 #### Status
 ACCEPTED

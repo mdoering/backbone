@@ -1,5 +1,4 @@
-Ustilago holubii Syd. SPECIES
-=======
+# Ustilago holubii Syd. SPECIES
 
 #### Status
 ACCEPTED

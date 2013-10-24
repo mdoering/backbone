@@ -1,17 +1,16 @@
-Mycena flavoalba var. microspora A.H. Sm. VARIETY
-=======
+# Mycena flavoalba (Fr.) Quél., 1872 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-North Amer. Species of Mycena 168 (1947)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 103 (1872)
 
 #### Original name
-Mycena flavoalba var. microspora A.H. Sm.
+Agaricus flavoalbus Fr., 1838
 
 ### Remarks
 null

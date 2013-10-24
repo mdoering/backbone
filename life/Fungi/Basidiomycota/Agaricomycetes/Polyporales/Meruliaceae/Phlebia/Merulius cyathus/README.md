@@ -1,5 +1,4 @@
-Merulius cyathus J.F. Gmel. SPECIES
-=======
+# Merulius cyathus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

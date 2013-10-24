@@ -1,17 +1,16 @@
-Vibrissea truncorum var. albipes Peck VARIETY
-=======
+# Vibrissea truncorum (Alb. & Schwein.) Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(1): 51 (1822)
 
 #### Original name
-Vibrissea truncorum var. albipes Peck
+Leotia truncorum Alb. & Schwein., 1805
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cortinarius rubricosus (Fr.) Fr. SPECIES
-=======
+# Cortinarius rubricosus (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

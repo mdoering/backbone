@@ -1,5 +1,4 @@
-Xylomites aceris Heer SPECIES
-=======
+# Xylomites aceris Heer SPECIES
 
 #### Status
 ACCEPTED

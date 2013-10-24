@@ -1,5 +1,4 @@
-Leptopharynx euglenivorus Kahl, 1926 SPECIES
-=======
+# Leptopharynx euglenivorus Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

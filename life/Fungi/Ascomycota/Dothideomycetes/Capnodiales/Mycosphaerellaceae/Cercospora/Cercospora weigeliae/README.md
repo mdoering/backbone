@@ -1,5 +1,4 @@
-Cercospora weigeliae Ellis & Everh. SPECIES
-=======
+# Cercospora weigeliae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

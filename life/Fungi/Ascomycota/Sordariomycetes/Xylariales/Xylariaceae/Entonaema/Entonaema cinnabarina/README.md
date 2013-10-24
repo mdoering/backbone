@@ -1,5 +1,4 @@
-Entonaema cinnabarina (Cooke & Massee) Lloyd SPECIES
-=======
+# Entonaema cinnabarina (Cooke & Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

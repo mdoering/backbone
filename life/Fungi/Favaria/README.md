@@ -1,5 +1,4 @@
-Favaria Raf. GENUS
-=======
+# Favaria Raf. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sticta cinereoglaucoides C.W. Dodge SPECIES
-=======
+# Sticta cinereoglaucoides C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

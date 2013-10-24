@@ -1,5 +1,4 @@
-Ophiobolus schwarzmanianus Kravtzev SPECIES
-=======
+# Ophiobolus schwarzmanianus Kravtzev SPECIES
 
 #### Status
 ACCEPTED

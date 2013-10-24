@@ -1,5 +1,4 @@
-Balladynella GENUS
-=======
+# Balladynella GENUS
 
 #### Status
 ACCEPTED

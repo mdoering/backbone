@@ -1,5 +1,4 @@
-Pistillaria boudieri Pat. SPECIES
-=======
+# Pistillaria boudieri Pat. SPECIES
 
 #### Status
 ACCEPTED

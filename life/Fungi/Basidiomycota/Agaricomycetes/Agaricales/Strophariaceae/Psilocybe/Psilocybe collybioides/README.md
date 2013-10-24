@@ -1,5 +1,4 @@
-Psilocybe collybioides Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe collybioides Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

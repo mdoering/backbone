@@ -1,5 +1,4 @@
-Asterina libertiae Syd. & P. Syd. SPECIES
-=======
+# Asterina libertiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

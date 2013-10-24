@@ -1,17 +1,16 @@
-Peyronellaea stemphyllioides Kusnezowa SPECIES
-=======
+# Peyronellaea stemphylioides Kusnezowa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 8: 199 (1971)
 
 #### Original name
-Peyronellaea stemphyllioides Kusnezowa
+Peyronellaea stemphylioides Kusnezowa
 
 ### Remarks
 null

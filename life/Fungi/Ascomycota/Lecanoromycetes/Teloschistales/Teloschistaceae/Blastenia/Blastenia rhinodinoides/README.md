@@ -1,5 +1,4 @@
-Blastenia rhinodinoides (J. Steiner) Szatala SPECIES
-=======
+# Blastenia rhinodinoides (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

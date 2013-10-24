@@ -1,5 +1,4 @@
-Cortinarius caesiocinctus Kühner SPECIES
-=======
+# Cortinarius caesiocinctus Kühner SPECIES
 
 #### Status
 ACCEPTED

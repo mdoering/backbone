@@ -1,5 +1,4 @@
-Xylaria terminaliae-bellericae A. Pande & Waing. SPECIES
-=======
+# Xylaria terminaliae-bellericae A. Pande & Waing. SPECIES
 
 #### Status
 ACCEPTED

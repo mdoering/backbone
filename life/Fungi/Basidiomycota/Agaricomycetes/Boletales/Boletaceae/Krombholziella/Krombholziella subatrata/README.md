@@ -1,5 +1,4 @@
-Krombholziella subatrata (A.H. Sm., Thiers & Watling) utara SPECIES
-=======
+# Krombholziella subatrata (A.H. Sm., Thiers & Watling) utara SPECIES
 
 #### Status
 ACCEPTED

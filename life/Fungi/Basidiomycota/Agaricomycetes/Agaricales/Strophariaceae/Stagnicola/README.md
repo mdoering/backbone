@@ -1,5 +1,4 @@
-Stagnicola Redhead & A.H. Smith, 1986 GENUS
-=======
+# Stagnicola Redhead & A.H. Smith, 1986 GENUS
 
 #### Status
 ACCEPTED

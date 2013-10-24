@@ -1,5 +1,4 @@
-Sphaeria granati M. {?} & Fr. SPECIES
-=======
+# Sphaeria granati M. {?} & Fr. SPECIES
 
 #### Status
 ACCEPTED

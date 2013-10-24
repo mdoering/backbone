@@ -1,5 +1,4 @@
-Amphoridium subdecussatum (Servít) Servít SPECIES
-=======
+# Amphoridium subdecussatum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ceratosporella bicorne (Morgan) Höhn. SPECIES
-=======
+# Ceratosporella bicornis (Morgan) Höhn., 1923 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 60: 6 (1923)
+Syll. fung. (Abellini) 25: 867 (1931)
 
 #### Original name
 Triposporium bicorne Morgan, 1895

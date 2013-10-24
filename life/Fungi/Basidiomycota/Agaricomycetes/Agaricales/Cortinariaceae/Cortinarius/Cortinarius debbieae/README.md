@@ -1,17 +1,16 @@
-Cortinarius debbiae Trappe & Claridge SPECIES
-=======
+# Cortinarius debbieae Trappe & Claridge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Australas. Mycol. 22(1): 29 (2003)
 
 #### Original name
-Cortinarius debbiae Trappe & Claridge
+Cortinarius debbieae Trappe & Claridge
 
 ### Remarks
 null

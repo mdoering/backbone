@@ -1,5 +1,4 @@
-Psathyrella aspenensis Mitchel & A.H. Sm. SPECIES
-=======
+# Psathyrella aspenensis Mitchel & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

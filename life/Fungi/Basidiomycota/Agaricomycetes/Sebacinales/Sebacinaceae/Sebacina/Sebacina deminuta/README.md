@@ -1,5 +1,4 @@
-Sebacina deminuta Bourdot SPECIES
-=======
+# Sebacina deminuta Bourdot SPECIES
 
 #### Status
 ACCEPTED

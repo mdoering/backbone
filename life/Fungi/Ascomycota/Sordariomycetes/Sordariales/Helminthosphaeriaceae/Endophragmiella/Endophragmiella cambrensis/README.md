@@ -1,5 +1,4 @@
-Endophragmiella cambrensis M.B. Ellis, 1976 SPECIES
-=======
+# Endophragmiella cambrensis M.B. Ellis, 1976 SPECIES
 
 #### Status
 ACCEPTED

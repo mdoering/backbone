@@ -1,5 +1,4 @@
-Sargassum megalocystum Tseng & Lu SPECIES
-=======
+# Sargassum megalocystum Tseng & Lu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicladium pyrorum f. pyrorum FORM
-=======
+# Fusicladium pyrorum (Lib.) Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

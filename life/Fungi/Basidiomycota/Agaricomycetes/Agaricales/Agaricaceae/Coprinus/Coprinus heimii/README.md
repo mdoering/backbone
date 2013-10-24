@@ -1,5 +1,4 @@
-Coprinus heimii Locq. SPECIES
-=======
+# Coprinus heimii Locq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cyphella kavinae Pilát, 1925 SPECIES
-=======
+# Flagelloscypha kavinae (Pilát) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 23(1/2): 157 (1925)
+Beih. Sydowia 4: 62 (1961)
 
 #### Original name
 Cyphella kavinae Pilát, 1925

@@ -1,5 +1,4 @@
-Arthonia ochrocincta Willey SPECIES
-=======
+# Arthonia ochrocincta Willey SPECIES
 
 #### Status
 ACCEPTED

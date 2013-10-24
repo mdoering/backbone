@@ -1,5 +1,4 @@
-Septoria thomasiana Sacc. SPECIES
-=======
+# Septoria thomasiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

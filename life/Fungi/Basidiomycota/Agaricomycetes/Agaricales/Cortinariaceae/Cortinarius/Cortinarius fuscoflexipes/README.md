@@ -1,5 +1,4 @@
-Cortinarius fuscoflexipes M.M. Moser & McKnight SPECIES
-=======
+# Cortinarius fuscoflexipes M.M. Moser & McKnight SPECIES
 
 #### Status
 ACCEPTED

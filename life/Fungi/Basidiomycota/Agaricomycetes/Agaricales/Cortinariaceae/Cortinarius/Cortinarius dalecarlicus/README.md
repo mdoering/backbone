@@ -1,5 +1,4 @@
-Cortinarius dalecarlicus Brandrud SPECIES
-=======
+# Cortinarius dalecarlicus Brandrud SPECIES
 
 #### Status
 ACCEPTED

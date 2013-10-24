@@ -1,5 +1,4 @@
-Balladyna subpilosa (G. Winter) M.L. Farr SPECIES
-=======
+# Balladyna subpilosa (G. Winter) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

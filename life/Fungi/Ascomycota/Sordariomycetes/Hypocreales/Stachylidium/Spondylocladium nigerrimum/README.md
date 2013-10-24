@@ -1,5 +1,4 @@
-Spondylocladium nigerrimum Viégas SPECIES
-=======
+# Spondylocladium nigerrimum Viégas SPECIES
 
 #### Status
 ACCEPTED

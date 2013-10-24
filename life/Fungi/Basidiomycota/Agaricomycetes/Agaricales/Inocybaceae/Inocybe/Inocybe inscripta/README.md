@@ -1,5 +1,4 @@
-Inocybe inscripta (Britzelm.) Lapl. SPECIES
-=======
+# Inocybe inscripta (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

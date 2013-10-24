@@ -1,5 +1,4 @@
-Marasmius parviconicus Pegler SPECIES
-=======
+# Marasmius parviconicus Pegler SPECIES
 
 #### Status
 ACCEPTED

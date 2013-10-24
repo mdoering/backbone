@@ -1,5 +1,4 @@
-Myxobilimbia Hafellner, 2001 GENUS
-=======
+# Myxobilimbia Hafellner, 2001 GENUS
 
 #### Status
 ACCEPTED

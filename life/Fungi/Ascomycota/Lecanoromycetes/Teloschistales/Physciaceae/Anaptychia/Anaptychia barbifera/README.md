@@ -1,5 +1,4 @@
-Anaptychia barbifera var. barbifera VARIETY
-=======
+# Anaptychia barbifera SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Flora, Jena 44: 52 (1861)
+null
 
 #### Original name
-Anaptychia barbifera var. barbifera
+null
 
 ### Remarks
 null

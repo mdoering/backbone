@@ -1,5 +1,4 @@
-Pseudoperonospora plantaginis (Underw.) M.P. Sharma & Pushpedra {?} SPECIES
-=======
+# Pseudoperonospora plantaginis (Underw.) M.P. Sharma & Pushpedra {?} SPECIES
 
 #### Status
 ACCEPTED

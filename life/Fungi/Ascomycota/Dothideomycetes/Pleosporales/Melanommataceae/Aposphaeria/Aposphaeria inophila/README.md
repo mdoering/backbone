@@ -1,5 +1,4 @@
-Aposphaeria inophila var. inophila VARIETY
-=======
+# Aposphaeria inophila (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syll. fung. (Abellini) 3: 175 (1884)
 
 #### Original name
-Aposphaeria inophila var. inophila
+Phoma inophila Berk.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleiochaeta ghindensis Bhat SPECIES
-=======
+# Pleiochaeta ghindensis Bhat SPECIES
 
 #### Status
 ACCEPTED

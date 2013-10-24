@@ -1,5 +1,4 @@
-Pleospora lapataiensis Speg. SPECIES
-=======
+# Pleospora lapataiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

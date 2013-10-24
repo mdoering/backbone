@@ -1,5 +1,4 @@
-Ramariopsis junquillea R.H. Petersen, 1988 SPECIES
-=======
+# Ramariopsis junquillea R.H. Petersen, 1988 SPECIES
 
 #### Status
 ACCEPTED

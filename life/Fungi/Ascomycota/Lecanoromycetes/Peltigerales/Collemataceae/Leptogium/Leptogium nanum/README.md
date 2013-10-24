@@ -1,5 +1,4 @@
-Leptogium nanum Herre SPECIES
-=======
+# Leptogium nanum Herre SPECIES
 
 #### Status
 ACCEPTED

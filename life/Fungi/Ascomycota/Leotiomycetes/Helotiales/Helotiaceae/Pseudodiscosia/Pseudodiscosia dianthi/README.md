@@ -1,5 +1,4 @@
-Pseudodiscosia dianthi Hösterm. & Laubert SPECIES
-=======
+# Pseudodiscosia dianthi Hösterm. & Laubert SPECIES
 
 #### Status
 ACCEPTED

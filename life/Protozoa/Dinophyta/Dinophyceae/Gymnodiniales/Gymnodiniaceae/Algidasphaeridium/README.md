@@ -1,5 +1,4 @@
-Algidasphaeridium Matsuoka & Bujak, 1988 GENUS
-=======
+# Algidasphaeridium Matsuoka & Bujak, 1988 GENUS
 
 #### Status
 ACCEPTED

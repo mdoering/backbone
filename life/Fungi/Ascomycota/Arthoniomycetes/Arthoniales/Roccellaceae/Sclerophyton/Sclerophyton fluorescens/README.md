@@ -1,5 +1,4 @@
-Sclerophyton fluorescens Sparrius SPECIES
-=======
+# Sclerophyton fluorescens Sparrius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago darjeelingensis Bag & D.K. Agarwal SPECIES
-=======
+# Ustilago darjeelingensis Bag & D.K. Agarwal SPECIES
 
 #### Status
 ACCEPTED

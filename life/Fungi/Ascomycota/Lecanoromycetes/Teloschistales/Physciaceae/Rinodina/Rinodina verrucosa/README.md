@@ -1,5 +1,4 @@
-Rinodina verrucosa G. Merr. ex Sheard SPECIES
-=======
+# Rinodina verrucosa G. Merr. ex Sheard SPECIES
 
 #### Status
 ACCEPTED

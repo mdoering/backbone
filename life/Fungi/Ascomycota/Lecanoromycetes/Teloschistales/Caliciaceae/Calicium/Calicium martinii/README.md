@@ -1,5 +1,4 @@
-Calicium martinii Js. Murray SPECIES
-=======
+# Calicium martinii Js. Murray SPECIES
 
 #### Status
 ACCEPTED

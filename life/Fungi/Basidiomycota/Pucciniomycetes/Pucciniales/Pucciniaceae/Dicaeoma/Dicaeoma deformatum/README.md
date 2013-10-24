@@ -1,5 +1,4 @@
-Dicaeoma deformatum (Berk.) Kuntze SPECIES
-=======
+# Dicaeoma deformatum (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterinella formosana W. Yamam. SPECIES
-=======
+# Asterinella formosana W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

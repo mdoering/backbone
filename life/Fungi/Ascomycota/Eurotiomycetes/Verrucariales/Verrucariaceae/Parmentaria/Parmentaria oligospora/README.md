@@ -1,5 +1,4 @@
-Parmentaria oligospora Makhija & Patw. SPECIES
-=======
+# Parmentaria oligospora Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

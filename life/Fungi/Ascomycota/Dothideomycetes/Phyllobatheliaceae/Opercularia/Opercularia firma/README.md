@@ -1,5 +1,4 @@
-Opercularia firma Stirt. SPECIES
-=======
+# Opercularia firma Stirt. SPECIES
 
 #### Status
 ACCEPTED

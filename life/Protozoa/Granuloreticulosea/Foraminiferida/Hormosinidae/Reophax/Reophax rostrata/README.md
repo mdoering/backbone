@@ -1,5 +1,4 @@
-Reophax rostrata Höglund, 1947 SPECIES
-=======
+# Reophax rostrata Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

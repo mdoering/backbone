@@ -1,5 +1,4 @@
-Tricharia subumbrosa Lücking & W.R. Buck SPECIES
-=======
+# Tricharia subumbrosa Lücking & W.R. Buck SPECIES
 
 #### Status
 ACCEPTED

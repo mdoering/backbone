@@ -1,5 +1,4 @@
-Trichotokara nothriae Rueckert & Leander, 2010 SPECIES
-=======
+# Trichotokara nothriae Rueckert & Leander, 2010 SPECIES
 
 #### Status
 ACCEPTED

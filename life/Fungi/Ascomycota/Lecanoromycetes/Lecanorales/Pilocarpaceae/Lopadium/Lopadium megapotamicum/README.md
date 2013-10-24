@@ -1,5 +1,4 @@
-Lopadium megapotamicum Malme SPECIES
-=======
+# Lopadium megapotamicum Malme SPECIES
 
 #### Status
 ACCEPTED

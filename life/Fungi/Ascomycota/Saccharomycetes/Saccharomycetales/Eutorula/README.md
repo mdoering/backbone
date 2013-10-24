@@ -1,5 +1,4 @@
-Eutorula GENUS
-=======
+# Eutorula GENUS
 
 #### Status
 ACCEPTED

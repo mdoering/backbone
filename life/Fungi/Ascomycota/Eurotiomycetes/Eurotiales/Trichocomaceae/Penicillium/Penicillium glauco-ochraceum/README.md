@@ -1,5 +1,4 @@
-Penicillium glauco-ochraceum Preuss SPECIES
-=======
+# Penicillium glauco-ochraceum Preuss SPECIES
 
 #### Status
 ACCEPTED

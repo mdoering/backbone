@@ -1,5 +1,4 @@
-Dicaeoma hazslinszkyi (De Toni) Kuntze SPECIES
-=======
+# Dicaeoma hazslinszkyi (De Toni) Kuntze SPECIES
 
 #### Status
 ACCEPTED

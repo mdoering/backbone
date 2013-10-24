@@ -1,5 +1,4 @@
-Lembosia wageri Doidge SPECIES
-=======
+# Lembosia wageri Doidge SPECIES
 
 #### Status
 ACCEPTED

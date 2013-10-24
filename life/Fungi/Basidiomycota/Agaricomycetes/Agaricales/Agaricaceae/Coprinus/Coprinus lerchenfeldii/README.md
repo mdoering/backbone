@@ -1,5 +1,4 @@
-Coprinus lerchenfeldii Schulzer SPECIES
-=======
+# Coprinus lerchenfeldii Schulzer SPECIES
 
 #### Status
 ACCEPTED

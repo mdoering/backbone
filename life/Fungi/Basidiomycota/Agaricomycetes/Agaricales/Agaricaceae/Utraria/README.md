@@ -1,5 +1,4 @@
-Utraria (Quélet) Jeppson & E. Larsson, 2007 GENUS
-=======
+# Utraria (Quélet) Jeppson & E. Larsson, 2007 GENUS
 
 #### Status
 ACCEPTED

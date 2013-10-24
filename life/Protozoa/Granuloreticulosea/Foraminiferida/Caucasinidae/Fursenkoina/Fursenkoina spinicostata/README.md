@@ -1,5 +1,4 @@
-Fursenkoina spinicostata SPECIES
-=======
+# Fursenkoina spinicostata SPECIES
 
 #### Status
 ACCEPTED

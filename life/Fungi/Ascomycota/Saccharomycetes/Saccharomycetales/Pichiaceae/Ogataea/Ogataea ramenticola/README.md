@@ -1,5 +1,4 @@
-Ogataea ramenticola (Kurtzman) Kurtzman & Robnett, 2010 SPECIES
-=======
+# Ogataea ramenticola (Kurtzman) Kurtzman & Robnett, 2010 SPECIES
 
 #### Status
 ACCEPTED

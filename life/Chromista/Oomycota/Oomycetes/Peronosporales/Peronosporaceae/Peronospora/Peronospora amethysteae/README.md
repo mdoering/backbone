@@ -1,5 +1,4 @@
-Peronospora amethysteae Lebedeva SPECIES
-=======
+# Peronospora amethysteae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

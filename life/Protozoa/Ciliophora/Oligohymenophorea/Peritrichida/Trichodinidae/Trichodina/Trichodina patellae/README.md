@@ -1,5 +1,4 @@
-Trichodina patellae Cuenot, 1891 SPECIES
-=======
+# Trichodina patellae Cuenot, 1891 SPECIES
 
 #### Status
 ACCEPTED

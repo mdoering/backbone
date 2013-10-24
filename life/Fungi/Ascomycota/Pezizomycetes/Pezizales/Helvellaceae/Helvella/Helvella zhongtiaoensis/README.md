@@ -1,5 +1,4 @@
-Helvella zhongtiaoensis J.Z. Cao & B. Liu SPECIES
-=======
+# Helvella zhongtiaoensis J.Z. Cao & B. Liu SPECIES
 
 #### Status
 ACCEPTED

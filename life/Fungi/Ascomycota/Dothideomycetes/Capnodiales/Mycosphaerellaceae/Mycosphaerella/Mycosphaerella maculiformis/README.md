@@ -1,17 +1,16 @@
-Sphaeria maculiformis f. maculiformis FORM
-=======
+# Mycosphaerella maculiformis (Pers.) J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tent. disp. meth. fung. (Lipsiae) 52 (1797)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 333 (1894)
 
 #### Original name
-Sphaeria maculiformis f. maculiformis
+Sphaeria maculiformis Pers., 1797
 
 ### Remarks
 null

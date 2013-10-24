@@ -1,5 +1,4 @@
-Passalora trifidae (Chupp) U. Braun & Crous SPECIES
-=======
+# Passalora trifidae (Chupp) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

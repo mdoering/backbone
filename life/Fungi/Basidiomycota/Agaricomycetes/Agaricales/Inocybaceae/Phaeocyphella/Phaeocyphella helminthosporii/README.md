@@ -1,5 +1,4 @@
-Phaeocyphella helminthosporii Pat. SPECIES
-=======
+# Phaeocyphella helminthosporii Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Guignardia sarcomphali Gonz. Frag. & Cif. SPECIES
-=======
+# Guignardia sarcomphali Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

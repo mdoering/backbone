@@ -1,5 +1,4 @@
-Psora placodiiformis (Hue) Darb. SPECIES
-=======
+# Psora placodiiformis (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

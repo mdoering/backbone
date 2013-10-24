@@ -1,5 +1,4 @@
-Cephalophysis leucospila var. leucospila VARIETY
-=======
+# Cephalophysis leucospila (Anzi) H. Kilias & Scheid. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Kilias, Herzogia 7(1-2): 183 (1985)
 
 #### Original name
-Cephalophysis leucospila var. leucospila
+Lecidea leucospila Anzi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microporus dimidiatus (Alb. & Schwein.) Kuntze SPECIES
-=======
+# Microporus dimidiatus (Alb. & Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

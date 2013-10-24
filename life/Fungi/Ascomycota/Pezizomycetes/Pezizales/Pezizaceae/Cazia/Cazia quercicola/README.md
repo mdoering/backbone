@@ -1,17 +1,16 @@
-Cazia quericola Fogel & States SPECIES
-=======
+# Cazia quercicola Fogel & States, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 81: 86 (2002)
 
 #### Original name
-Cazia quericola Fogel & States
+Cazia quercicola Fogel & States, 2002
 
 ### Remarks
 null

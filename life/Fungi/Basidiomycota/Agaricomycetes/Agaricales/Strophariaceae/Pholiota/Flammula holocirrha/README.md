@@ -1,5 +1,4 @@
-Flammula holocirrha Berk. & M.A. Curtis SPECIES
-=======
+# Flammula holocirrha Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

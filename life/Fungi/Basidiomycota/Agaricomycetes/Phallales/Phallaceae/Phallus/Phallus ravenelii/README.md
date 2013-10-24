@@ -1,5 +1,4 @@
-Phallus ravenelii Berk. & M.A. Curtis SPECIES
-=======
+# Phallus ravenelii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

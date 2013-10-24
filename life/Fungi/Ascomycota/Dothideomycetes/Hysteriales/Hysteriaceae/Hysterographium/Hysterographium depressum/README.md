@@ -1,5 +1,4 @@
-Hysterographium depressum (G. Winter) Hansf. SPECIES
-=======
+# Hysterographium depressum (G. Winter) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Holosticha mystacea (Stein, 1859) ? SPECIES
-=======
+# Holosticha mystacea (Stein, 1859) ? SPECIES
 
 #### Status
 ACCEPTED

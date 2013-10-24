@@ -1,5 +1,4 @@
-Lepocinclis turbiniformis Deflandre SPECIES
-=======
+# Lepocinclis turbiniformis Deflandre SPECIES
 
 #### Status
 ACCEPTED

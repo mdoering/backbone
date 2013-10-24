@@ -1,5 +1,4 @@
-Dothiorella caespitosa (Preuss) Sacc. SPECIES
-=======
+# Dothiorella caespitosa (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

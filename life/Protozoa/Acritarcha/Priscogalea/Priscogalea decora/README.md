@@ -1,5 +1,4 @@
-Priscogalea decora (N. Umnova in N. Umnova & Fanderflit, 1971 ex N. Umnova, 1975) Fensome et al., 1990 SPECIES
-=======
+# Priscogalea decora (N. Umnova in N. Umnova & Fanderflit, 1971 ex N. Umnova, 1975) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

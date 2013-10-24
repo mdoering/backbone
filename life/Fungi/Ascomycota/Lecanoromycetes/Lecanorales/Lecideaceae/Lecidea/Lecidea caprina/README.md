@@ -1,5 +1,4 @@
-Lecidea caprina Th. Fr. SPECIES
-=======
+# Lecidea caprina Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

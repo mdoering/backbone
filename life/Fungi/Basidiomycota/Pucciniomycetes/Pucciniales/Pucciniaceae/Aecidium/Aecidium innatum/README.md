@@ -1,5 +1,4 @@
-Aecidium innatum Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Aecidium innatum Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

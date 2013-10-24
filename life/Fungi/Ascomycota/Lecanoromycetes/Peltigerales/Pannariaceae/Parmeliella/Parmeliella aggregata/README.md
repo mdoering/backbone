@@ -1,5 +1,4 @@
-Parmeliella aggregata P.M. Jørg. & D.J. Galloway SPECIES
-=======
+# Parmeliella aggregata P.M. Jørg. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

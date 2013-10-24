@@ -1,5 +1,4 @@
-Moraxellaceae FAMILY
-=======
+# Moraxellaceae FAMILY
 
 #### Status
 ACCEPTED

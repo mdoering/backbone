@@ -1,5 +1,4 @@
-Amphidinium cyaneoturbo Conrad & Kufferath SPECIES
-=======
+# Amphidinium cyaneoturbo Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

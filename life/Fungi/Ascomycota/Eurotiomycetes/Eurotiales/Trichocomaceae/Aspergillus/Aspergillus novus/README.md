@@ -1,5 +1,4 @@
-Aspergillus novus Wehmer SPECIES
-=======
+# Aspergillus novus Wehmer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Reussella decorata (Earland & Heron-Allen) SPECIES
-=======
+# Reussella decorata (Earland & Heron-Allen) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hueella cheilea var. cheilea VARIETY
-=======
+# Hueella cheilea SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hueella cheilea var. cheilea
+null
 
 ### Remarks
 null

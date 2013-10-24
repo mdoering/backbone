@@ -1,5 +1,4 @@
-Mycosphaerella glycyrrhizae Lebedeva SPECIES
-=======
+# Mycosphaerella glycyrrhizae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

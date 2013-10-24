@@ -1,5 +1,4 @@
-Lecanora ferganensis Tomin SPECIES
-=======
+# Lecanora ferganensis Tomin SPECIES
 
 #### Status
 ACCEPTED

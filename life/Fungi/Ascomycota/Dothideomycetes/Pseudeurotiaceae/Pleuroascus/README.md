@@ -1,5 +1,4 @@
-Pleuroascus Massee & E.S. Salmon GENUS
-=======
+# Pleuroascus Massee & E.S. Salmon GENUS
 
 #### Status
 ACCEPTED

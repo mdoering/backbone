@@ -1,5 +1,4 @@
-Volvariopsis canalipes Murrill SPECIES
-=======
+# Volvariopsis canalipes Murrill SPECIES
 
 #### Status
 ACCEPTED

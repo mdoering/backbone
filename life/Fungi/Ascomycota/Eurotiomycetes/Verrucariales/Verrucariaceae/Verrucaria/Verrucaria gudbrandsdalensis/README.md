@@ -1,5 +1,4 @@
-Verrucaria gudbrandsdalensis H. Magn. SPECIES
-=======
+# Verrucaria gudbrandsdalensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

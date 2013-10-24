@@ -1,5 +1,4 @@
-Acidomyces B.J. Baker, M.A. Lutz, S.C. Dawson, P.L. Bond & Banfield ex Selbmann, de Hoog & De Leo GENUS
-=======
+# Acidomyces B.J. Baker, M.A. Lutz, S.C. Dawson, P.L. Bond & Banfield ex Selbmann, de Hoog & De Leo GENUS
 
 #### Status
 ACCEPTED

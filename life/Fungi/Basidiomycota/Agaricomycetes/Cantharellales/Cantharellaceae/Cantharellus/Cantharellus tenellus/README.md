@@ -1,5 +1,4 @@
-Cantharellus tenellus (Lam. & DC.) Fr. SPECIES
-=======
+# Cantharellus tenellus (Lam. & DC.) Fr. SPECIES
 
 #### Status
 ACCEPTED

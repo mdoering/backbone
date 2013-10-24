@@ -1,5 +1,4 @@
-Torula rubella Bonord. SPECIES
-=======
+# Torula rubella Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stachylina prolifica Lichtw., Kobayasi & Indoh, 1988 SPECIES
-=======
+# Stachylina prolifica Lichtw., Kobayasi & Indoh, 1988 SPECIES
 
 #### Status
 ACCEPTED

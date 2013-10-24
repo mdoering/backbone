@@ -1,5 +1,4 @@
-Solenopsora philippea (Mont.) M. Choisy SPECIES
-=======
+# Solenopsora philippea (Mont.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

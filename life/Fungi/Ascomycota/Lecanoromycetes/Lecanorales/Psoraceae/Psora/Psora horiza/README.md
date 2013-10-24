@@ -1,5 +1,4 @@
-Psora horiza (Müll. Arg.) Hepp SPECIES
-=======
+# Psora horiza (Müll. Arg.) Hepp SPECIES
 
 #### Status
 ACCEPTED

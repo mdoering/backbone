@@ -1,5 +1,4 @@
-Lichen leucoplacus (DC.) Lam. SPECIES
-=======
+# Lichen leucoplacus (DC.) Lam. SPECIES
 
 #### Status
 ACCEPTED

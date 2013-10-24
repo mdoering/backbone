@@ -1,5 +1,4 @@
-Didymosporium latum Syd. {?} SPECIES
-=======
+# Didymosporium latum Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

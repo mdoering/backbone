@@ -1,5 +1,4 @@
-Clitocybe columbiana Singer SPECIES
-=======
+# Clitocybe columbiana Singer SPECIES
 
 #### Status
 ACCEPTED

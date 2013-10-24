@@ -1,5 +1,4 @@
-Ciboria explanata Holmsk. SPECIES
-=======
+# Ciboria explanata Holmsk. SPECIES
 
 #### Status
 ACCEPTED

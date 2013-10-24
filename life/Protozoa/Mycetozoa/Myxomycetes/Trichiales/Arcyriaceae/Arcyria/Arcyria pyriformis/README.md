@@ -1,5 +1,4 @@
-Arcyria pyriformis F.H. Wigg. SPECIES
-=======
+# Arcyria pyriformis F.H. Wigg. SPECIES
 
 #### Status
 ACCEPTED

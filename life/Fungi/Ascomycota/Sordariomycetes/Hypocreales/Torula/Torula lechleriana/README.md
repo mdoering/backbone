@@ -1,5 +1,4 @@
-Torula lechleriana Thüm. SPECIES
-=======
+# Torula lechleriana Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrosporium sonchi Sawada SPECIES
-=======
+# Macrosporium sonchi Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vaginulina patens Brady SPECIES
-=======
+# Vaginulina patens Brady SPECIES
 
 #### Status
 ACCEPTED

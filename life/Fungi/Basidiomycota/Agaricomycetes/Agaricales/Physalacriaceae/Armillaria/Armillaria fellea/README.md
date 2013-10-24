@@ -1,5 +1,4 @@
-Armillaria fellea (Hongo) Kile & Watling SPECIES
-=======
+# Armillaria fellea (Hongo) Kile & Watling SPECIES
 
 #### Status
 ACCEPTED

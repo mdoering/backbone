@@ -1,5 +1,4 @@
-Diplodina antirrhinicola Sousa da Câmara SPECIES
-=======
+# Diplodina antirrhinicola Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

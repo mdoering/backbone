@@ -1,5 +1,4 @@
-Sphaerella septorioides (Desm.) Niessl SPECIES
-=======
+# Sphaerella septorioides (Desm.) Niessl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenarchaeaceae DeLong & Preston, 1996 FAMILY
-=======
+# Cenarchaeaceae DeLong & Preston, 1996 FAMILY
 
 #### Status
 ACCEPTED

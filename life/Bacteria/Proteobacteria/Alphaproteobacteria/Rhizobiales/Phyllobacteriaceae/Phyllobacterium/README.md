@@ -1,5 +1,4 @@
-Phyllobacterium (ex Knösel, 1962) Knösel, 1984 GENUS
-=======
+# Phyllobacterium (ex Knösel, 1962) Knösel, 1984 GENUS
 
 #### Status
 ACCEPTED

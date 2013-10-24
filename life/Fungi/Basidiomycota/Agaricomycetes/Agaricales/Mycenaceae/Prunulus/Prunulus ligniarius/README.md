@@ -1,5 +1,4 @@
-Prunulus ligniarius (Peck) Murrill SPECIES
-=======
+# Prunulus ligniarius (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

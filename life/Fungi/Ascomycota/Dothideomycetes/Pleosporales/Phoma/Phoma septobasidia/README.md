@@ -1,5 +1,4 @@
-Phoma septobasidia McAlpine SPECIES
-=======
+# Phoma septobasidia McAlpine SPECIES
 
 #### Status
 ACCEPTED

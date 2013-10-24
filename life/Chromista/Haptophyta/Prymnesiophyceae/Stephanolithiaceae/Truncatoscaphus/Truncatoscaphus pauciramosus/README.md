@@ -1,5 +1,4 @@
-Truncatoscaphus pauciramosus (Black, 1973) Perch-Nielsen, 1984 SPECIES
-=======
+# Truncatoscaphus pauciramosus (Black, 1973) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

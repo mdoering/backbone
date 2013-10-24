@@ -1,5 +1,4 @@
-Massaria pruni Wehm. SPECIES
-=======
+# Massaria pruni Wehm. SPECIES
 
 #### Status
 ACCEPTED

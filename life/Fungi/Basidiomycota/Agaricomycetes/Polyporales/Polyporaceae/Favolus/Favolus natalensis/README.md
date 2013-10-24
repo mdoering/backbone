@@ -1,5 +1,4 @@
-Favolus natalensis Fr. SPECIES
-=======
+# Favolus natalensis Fr. SPECIES
 
 #### Status
 ACCEPTED

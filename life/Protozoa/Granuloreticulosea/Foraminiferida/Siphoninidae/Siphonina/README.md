@@ -1,5 +1,4 @@
-Siphonina Reuss, 1850 GENUS
-=======
+# Siphonina Reuss, 1850 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syracolithus globula J. Lecal SPECIES
-=======
+# Syracolithus globula J. Lecal SPECIES
 
 #### Status
 ACCEPTED

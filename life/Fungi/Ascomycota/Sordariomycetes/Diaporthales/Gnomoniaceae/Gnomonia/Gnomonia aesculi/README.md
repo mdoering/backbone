@@ -1,5 +1,4 @@
-Gnomonia aesculi Oudem. SPECIES
-=======
+# Gnomonia aesculi Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Kordiimonas Kwon, Lee, Yang & Kim, 2005 GENUS
-=======
+# Kordiimonas Kwon, Lee, Yang & Kim, 2005 GENUS
 
 #### Status
 ACCEPTED

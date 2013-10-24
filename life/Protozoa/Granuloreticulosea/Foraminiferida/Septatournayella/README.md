@@ -1,5 +1,4 @@
-Septatournayella Lipina, 1955 GENUS
-=======
+# Septatournayella Lipina, 1955 GENUS
 
 #### Status
 ACCEPTED

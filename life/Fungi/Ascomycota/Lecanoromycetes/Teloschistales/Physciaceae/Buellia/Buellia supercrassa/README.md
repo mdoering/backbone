@@ -1,5 +1,4 @@
-Buellia supercrassa H. Olivier SPECIES
-=======
+# Buellia supercrassa H. Olivier SPECIES
 
 #### Status
 ACCEPTED

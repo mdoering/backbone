@@ -1,5 +1,4 @@
-Sclerocystis alba Petch SPECIES
-=======
+# Sclerocystis alba Petch SPECIES
 
 #### Status
 ACCEPTED

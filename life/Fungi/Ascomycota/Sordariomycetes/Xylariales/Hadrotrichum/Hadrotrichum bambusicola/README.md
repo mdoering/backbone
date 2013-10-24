@@ -1,5 +1,4 @@
-Hadrotrichum bambusicola Petrini, L.E. Petrini & Cand. SPECIES
-=======
+# Hadrotrichum bambusicola Petrini, L.E. Petrini & Cand. SPECIES
 
 #### Status
 ACCEPTED

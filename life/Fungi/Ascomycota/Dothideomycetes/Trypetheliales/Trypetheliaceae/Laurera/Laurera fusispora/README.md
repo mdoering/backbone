@@ -1,5 +1,4 @@
-Laurera fusispora Makhija & Patw. SPECIES
-=======
+# Laurera fusispora Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

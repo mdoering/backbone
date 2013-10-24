@@ -1,5 +1,4 @@
-Ascoronospora yakuensis Matsush., 2003 SPECIES
-=======
+# Ascoronospora yakuensis Matsush., 2003 SPECIES
 
 #### Status
 ACCEPTED

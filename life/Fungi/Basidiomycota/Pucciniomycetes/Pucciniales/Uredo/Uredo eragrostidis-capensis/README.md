@@ -1,5 +1,4 @@
-Uredo eragrostidis-capensis Gjaerum SPECIES
-=======
+# Uredo eragrostidis-capensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

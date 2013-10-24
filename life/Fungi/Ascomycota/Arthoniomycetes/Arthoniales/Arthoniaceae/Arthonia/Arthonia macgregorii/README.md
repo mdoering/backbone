@@ -1,5 +1,4 @@
-Arthonia macgregorii Vain. SPECIES
-=======
+# Arthonia macgregorii Vain. SPECIES
 
 #### Status
 ACCEPTED

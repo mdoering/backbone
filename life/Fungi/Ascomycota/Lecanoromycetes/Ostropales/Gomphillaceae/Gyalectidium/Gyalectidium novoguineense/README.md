@@ -1,5 +1,4 @@
-Gyalectidium novoguineense Sérus. SPECIES
-=======
+# Gyalectidium novoguineense Sérus. SPECIES
 
 #### Status
 ACCEPTED

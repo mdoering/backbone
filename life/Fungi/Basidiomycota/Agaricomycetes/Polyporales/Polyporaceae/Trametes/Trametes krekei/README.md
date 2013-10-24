@@ -1,5 +1,4 @@
-Trametes krekei Lloyd SPECIES
-=======
+# Trametes krekei Lloyd SPECIES
 
 #### Status
 ACCEPTED

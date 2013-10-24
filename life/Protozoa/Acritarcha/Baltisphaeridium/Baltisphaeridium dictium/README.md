@@ -1,5 +1,4 @@
-Baltisphaeridium dictium F.Wang & Q. Chen SPECIES
-=======
+# Baltisphaeridium dictium F.Wang & Q. Chen SPECIES
 
 #### Status
 ACCEPTED

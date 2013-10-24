@@ -1,5 +1,4 @@
-Polyporellus philippinensis (Berk.) P. Karst. SPECIES
-=======
+# Polyporellus philippinensis (Berk.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

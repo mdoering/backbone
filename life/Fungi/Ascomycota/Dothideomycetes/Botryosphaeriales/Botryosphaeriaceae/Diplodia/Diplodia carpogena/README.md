@@ -1,5 +1,4 @@
-Diplodia carpogena Pass. SPECIES
-=======
+# Diplodia carpogena Pass. SPECIES
 
 #### Status
 ACCEPTED

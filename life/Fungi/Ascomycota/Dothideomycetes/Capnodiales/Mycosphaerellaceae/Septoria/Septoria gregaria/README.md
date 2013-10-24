@@ -1,5 +1,4 @@
-Septoria gregaria Roiv. SPECIES
-=======
+# Septoria gregaria Roiv. SPECIES
 
 #### Status
 ACCEPTED

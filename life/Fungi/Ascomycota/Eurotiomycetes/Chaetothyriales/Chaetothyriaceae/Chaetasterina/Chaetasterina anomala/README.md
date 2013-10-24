@@ -1,5 +1,4 @@
-Chaetasterina anomala (Cooke & Harkn.) Bubák SPECIES
-=======
+# Chaetasterina anomala (Cooke & Harkn.) Bubák SPECIES
 
 #### Status
 ACCEPTED

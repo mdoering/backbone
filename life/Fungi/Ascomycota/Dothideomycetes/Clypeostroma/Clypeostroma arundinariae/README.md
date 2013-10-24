@@ -1,5 +1,4 @@
-Clypeostroma arundinariae Sawada SPECIES
-=======
+# Clypeostroma arundinariae Sawada SPECIES
 
 #### Status
 ACCEPTED

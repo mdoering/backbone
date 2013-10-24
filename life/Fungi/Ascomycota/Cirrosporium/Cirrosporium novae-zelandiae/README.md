@@ -1,5 +1,4 @@
-Cirrosporium novae-zelandiae S. Hughes, 1980 SPECIES
-=======
+# Cirrosporium novae-zelandiae S. Hughes, 1980 SPECIES
 
 #### Status
 ACCEPTED

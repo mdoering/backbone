@@ -1,5 +1,4 @@
-Heterodendron Steinecke, 1932 GENUS
-=======
+# Heterodendron Steinecke, 1932 GENUS
 
 #### Status
 ACCEPTED

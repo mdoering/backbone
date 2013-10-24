@@ -1,17 +1,16 @@
-Sorocybe indicus Gawas, K.D. Hyde & Bhat SPECIES
-=======
+# Sorocybe indica Gawas, K.D. Hyde & Bhat SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Cryptog. Mycol. 26(2): 100 (2005)
 
 #### Original name
-Sorocybe indicus Gawas, K.D. Hyde & Bhat
+Sorocybe indica Gawas, K.D. Hyde & Bhat
 
 ### Remarks
 null

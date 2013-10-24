@@ -1,5 +1,4 @@
-Mycena tuvara Grgur. SPECIES
-=======
+# Mycena tuvara Grgur. SPECIES
 
 #### Status
 ACCEPTED

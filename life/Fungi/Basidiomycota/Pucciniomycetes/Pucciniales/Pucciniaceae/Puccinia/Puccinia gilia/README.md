@@ -1,5 +1,4 @@
-Puccinia gilia Farl. SPECIES
-=======
+# Puccinia gilia Farl. SPECIES
 
 #### Status
 ACCEPTED

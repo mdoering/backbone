@@ -1,5 +1,4 @@
-Cortinarius coeruleopallescens Contu SPECIES
-=======
+# Cortinarius coeruleopallescens Contu SPECIES
 
 #### Status
 ACCEPTED

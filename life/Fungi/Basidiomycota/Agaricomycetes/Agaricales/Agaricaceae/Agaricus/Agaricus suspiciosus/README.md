@@ -1,5 +1,4 @@
-Agaricus suspiciosus Britzelm. SPECIES
-=======
+# Agaricus suspiciosus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

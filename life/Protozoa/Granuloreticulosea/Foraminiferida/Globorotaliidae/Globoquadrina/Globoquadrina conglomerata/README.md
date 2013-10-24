@@ -1,5 +1,4 @@
-Globoquadrina conglomerata (Schwager, 1866) SPECIES
-=======
+# Globoquadrina conglomerata (Schwager, 1866) SPECIES
 
 #### Status
 ACCEPTED

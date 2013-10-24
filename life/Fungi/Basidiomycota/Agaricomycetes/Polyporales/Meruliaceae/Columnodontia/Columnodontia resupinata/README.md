@@ -1,14 +1,13 @@
-Mycoacia resupinata (Jülich) Hjortstam, 1993 SPECIES
-=======
+# Columnodontia resupinata Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(3): 327 (1979)
 
 #### Original name
 Columnodontia resupinata Jülich, 1979

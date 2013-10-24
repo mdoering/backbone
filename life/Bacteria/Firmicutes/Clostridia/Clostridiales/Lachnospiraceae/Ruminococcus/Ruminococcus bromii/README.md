@@ -1,5 +1,4 @@
-Ruminococcus bromii Moore et al., 1972 (Approved Lists, 1980) SPECIES
-=======
+# Ruminococcus bromii Moore et al., 1972 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

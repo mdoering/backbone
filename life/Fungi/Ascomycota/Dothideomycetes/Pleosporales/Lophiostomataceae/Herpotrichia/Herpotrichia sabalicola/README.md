@@ -1,5 +1,4 @@
-Herpotrichia sabalicola Henn. SPECIES
-=======
+# Herpotrichia sabalicola Henn. SPECIES
 
 #### Status
 ACCEPTED

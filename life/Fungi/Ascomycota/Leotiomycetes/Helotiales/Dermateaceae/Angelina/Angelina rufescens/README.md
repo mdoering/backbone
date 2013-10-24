@@ -1,14 +1,13 @@
-Hysterium rufescens Schwein., 1822 SPECIES
-=======
+# Angelina rufescens (Schwein.) Duby, 1862 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 50 (1822)
+Mém. Soc. Phys. Hist. nat. Genève 16(1): 51 (1862)
 
 #### Original name
 Hysterium rufescens Schwein., 1822

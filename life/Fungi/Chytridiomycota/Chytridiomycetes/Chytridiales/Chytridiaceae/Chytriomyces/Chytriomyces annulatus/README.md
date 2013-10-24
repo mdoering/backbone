@@ -1,5 +1,4 @@
-Chytriomyces annulatus Dogma, 1969 SPECIES
-=======
+# Chytriomyces annulatus Dogma, 1969 SPECIES
 
 #### Status
 ACCEPTED

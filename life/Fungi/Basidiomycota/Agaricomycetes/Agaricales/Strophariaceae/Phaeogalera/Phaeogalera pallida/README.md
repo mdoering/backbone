@@ -1,5 +1,4 @@
-Phaeogalera pallida (J. Favre) Kühner SPECIES
-=======
+# Phaeogalera pallida (J. Favre) Kühner SPECIES
 
 #### Status
 ACCEPTED

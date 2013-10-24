@@ -1,5 +1,4 @@
-Coelomomyces notonectae (Bogoyavl.) Keilin SPECIES
-=======
+# Coelomomyces notonectae (Bogoyavl.) Keilin SPECIES
 
 #### Status
 ACCEPTED

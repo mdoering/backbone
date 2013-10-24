@@ -1,5 +1,4 @@
-Tricholosporum subgoniospermum Bohus, Vasas & Locsmándi SPECIES
-=======
+# Tricholosporum subgoniospermum Bohus, Vasas & Locsmándi SPECIES
 
 #### Status
 ACCEPTED

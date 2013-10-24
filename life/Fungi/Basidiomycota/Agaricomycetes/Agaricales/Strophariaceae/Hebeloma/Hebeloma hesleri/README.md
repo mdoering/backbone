@@ -1,5 +1,4 @@
-Hebeloma hesleri A.H. Sm., V.S. Evenson & Mitchel SPECIES
-=======
+# Hebeloma hesleri A.H. Sm., V.S. Evenson & Mitchel SPECIES
 
 #### Status
 ACCEPTED

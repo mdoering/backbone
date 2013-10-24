@@ -1,5 +1,4 @@
-Peziza plagopus Wormsk. ex Fr. SPECIES
-=======
+# Peziza plagopus Wormsk. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

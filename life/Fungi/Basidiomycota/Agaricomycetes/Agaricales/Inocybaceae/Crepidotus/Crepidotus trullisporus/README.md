@@ -1,5 +1,4 @@
-Crepidotus trullisporus Pegler SPECIES
-=======
+# Crepidotus trullisporus Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium argyreiae Berk. & Broome SPECIES
-=======
+# Aecidium argyreiae Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

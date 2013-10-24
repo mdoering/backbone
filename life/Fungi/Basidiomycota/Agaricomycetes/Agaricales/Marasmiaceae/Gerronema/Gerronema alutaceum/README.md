@@ -1,5 +1,4 @@
-Gerronema alutaceum Singer SPECIES
-=======
+# Gerronema alutaceum Singer SPECIES
 
 #### Status
 ACCEPTED

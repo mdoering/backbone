@@ -1,5 +1,4 @@
-Fusarium versiforme Kabát & Bubák SPECIES
-=======
+# Fusarium versiforme Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

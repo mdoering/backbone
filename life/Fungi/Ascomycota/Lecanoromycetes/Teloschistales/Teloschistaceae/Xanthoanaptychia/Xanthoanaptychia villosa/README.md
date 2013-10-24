@@ -1,5 +1,4 @@
-Xanthoanaptychia villosa (Ach.) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoanaptychia villosa (Ach.) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

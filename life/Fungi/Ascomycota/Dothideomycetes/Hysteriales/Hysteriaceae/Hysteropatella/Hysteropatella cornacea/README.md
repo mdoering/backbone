@@ -1,5 +1,4 @@
-Hysteropatella cornacea Velen. SPECIES
-=======
+# Hysteropatella cornacea Velen. SPECIES
 
 #### Status
 ACCEPTED

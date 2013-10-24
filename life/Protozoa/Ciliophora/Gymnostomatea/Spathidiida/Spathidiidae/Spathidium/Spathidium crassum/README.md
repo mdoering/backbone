@@ -1,5 +1,4 @@
-Spathidium crassum Kahl, 1926 SPECIES
-=======
+# Spathidium crassum Kahl, 1926 SPECIES
 
 #### Status
 ACCEPTED

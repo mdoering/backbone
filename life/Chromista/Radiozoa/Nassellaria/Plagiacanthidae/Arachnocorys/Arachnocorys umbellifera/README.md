@@ -1,5 +1,4 @@
-Arachnocorys umbellifera Haeckel, 1860 SPECIES
-=======
+# Arachnocorys umbellifera Haeckel, 1860 SPECIES
 
 #### Status
 ACCEPTED

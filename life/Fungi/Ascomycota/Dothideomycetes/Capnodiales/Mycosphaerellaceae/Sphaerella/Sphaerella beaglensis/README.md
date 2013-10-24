@@ -1,5 +1,4 @@
-Sphaerella beaglensis Speg. SPECIES
-=======
+# Sphaerella beaglensis Speg. SPECIES
 
 #### Status
 ACCEPTED

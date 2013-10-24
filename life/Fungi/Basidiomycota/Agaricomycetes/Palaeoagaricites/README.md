@@ -1,5 +1,4 @@
-Palaeoagaricites Poinar & R. Buckley GENUS
-=======
+# Palaeoagaricites Poinar & R. Buckley GENUS
 
 #### Status
 ACCEPTED

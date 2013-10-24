@@ -1,5 +1,4 @@
-Verrucaria guineti (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria guineti (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

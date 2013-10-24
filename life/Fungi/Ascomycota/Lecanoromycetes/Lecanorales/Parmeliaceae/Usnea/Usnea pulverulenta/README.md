@@ -1,5 +1,4 @@
-Usnea pulverulenta (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea pulverulenta (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

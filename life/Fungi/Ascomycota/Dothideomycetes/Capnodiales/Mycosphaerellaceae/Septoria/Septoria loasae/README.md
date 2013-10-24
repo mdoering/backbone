@@ -1,5 +1,4 @@
-Septoria loasae Tassi SPECIES
-=======
+# Septoria loasae Tassi SPECIES
 
 #### Status
 ACCEPTED

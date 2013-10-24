@@ -1,5 +1,4 @@
-Pseudomicula quadrata Perch-Nielsen in Perch-Nielsen et al., 1978 SPECIES
-=======
+# Pseudomicula quadrata Perch-Nielsen in Perch-Nielsen et al., 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothideaceae Chevall. FAMILY
-=======
+# Dothideaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED

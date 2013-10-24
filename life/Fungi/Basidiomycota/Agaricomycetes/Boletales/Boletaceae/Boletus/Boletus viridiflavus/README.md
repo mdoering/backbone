@@ -1,5 +1,4 @@
-Boletus viridiflavus var. viridiflavus VARIETY
-=======
+# Boletus viridiflavus Coker & Beers SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+The Boletaceae of North Carolina 53 (1943)
 
 #### Original name
-Boletus viridiflavus var. viridiflavus
+Boletus viridiflavus Coker & Beers
 
 ### Remarks
 null

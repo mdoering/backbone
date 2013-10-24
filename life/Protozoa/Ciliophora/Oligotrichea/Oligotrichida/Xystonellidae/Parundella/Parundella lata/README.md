@@ -1,5 +1,4 @@
-Parundella lata Ringdal Gaarder, 1946 SPECIES
-=======
+# Parundella lata Ringdal Gaarder, 1946 SPECIES
 
 #### Status
 ACCEPTED

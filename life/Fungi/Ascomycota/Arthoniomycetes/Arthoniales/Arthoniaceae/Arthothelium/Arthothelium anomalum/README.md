@@ -1,5 +1,4 @@
-Arthothelium anomalum Makhija & Patw. SPECIES
-=======
+# Arthothelium anomalum Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocryptosporella J. Reid & C. Booth GENUS
-=======
+# Pseudocryptosporella J. Reid & C. Booth GENUS
 
 #### Status
 ACCEPTED

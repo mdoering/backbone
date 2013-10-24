@@ -1,5 +1,4 @@
-Conicomyces transvaalensis R.C. Sinclair, Eicker & Morgan-Jones, 1983 SPECIES
-=======
+# Conicomyces transvaalensis R.C. Sinclair, Eicker & Morgan-Jones, 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria subulata Tode SPECIES
-=======
+# Sphaeria subulata Tode SPECIES
 
 #### Status
 ACCEPTED

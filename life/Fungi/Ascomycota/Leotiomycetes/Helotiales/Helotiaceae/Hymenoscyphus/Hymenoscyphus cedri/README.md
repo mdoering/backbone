@@ -1,5 +1,4 @@
-Hymenoscyphus cedri M.P. Sharma SPECIES
-=======
+# Hymenoscyphus cedri M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

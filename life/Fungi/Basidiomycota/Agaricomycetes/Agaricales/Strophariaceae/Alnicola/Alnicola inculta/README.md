@@ -1,5 +1,4 @@
-Alnicola inculta (Peck) Singer SPECIES
-=======
+# Alnicola inculta (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

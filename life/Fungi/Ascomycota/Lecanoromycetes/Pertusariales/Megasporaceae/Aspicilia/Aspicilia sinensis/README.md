@@ -1,5 +1,4 @@
-Aspicilia sinensis (Zahlbr.) J.C. Wei SPECIES
-=======
+# Aspicilia sinensis (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

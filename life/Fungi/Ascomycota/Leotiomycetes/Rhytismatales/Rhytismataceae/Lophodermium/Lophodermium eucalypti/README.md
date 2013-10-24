@@ -1,14 +1,13 @@
-Colpoma eucalypti Rodway, 1925 SPECIES
-=======
+# Lophodermium eucalypti (Rodway) P.R. Johnst., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Proc. R. Soc. Tasm. 92 (1925)
+Mycol. Pap. 176: 119 (2001)
 
 #### Original name
 Colpoma eucalypti Rodway, 1925

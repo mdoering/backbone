@@ -1,5 +1,4 @@
-Diaphorochroa ganglia Wicander, 1974 SPECIES
-=======
+# Diaphorochroa ganglia Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

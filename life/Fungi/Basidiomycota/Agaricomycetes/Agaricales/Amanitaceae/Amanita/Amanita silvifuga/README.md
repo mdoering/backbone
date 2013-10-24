@@ -1,5 +1,4 @@
-Amanita silvifuga Bas SPECIES
-=======
+# Amanita silvifuga Bas SPECIES
 
 #### Status
 ACCEPTED

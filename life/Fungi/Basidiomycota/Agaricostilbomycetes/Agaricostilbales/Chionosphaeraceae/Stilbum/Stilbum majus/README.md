@@ -1,5 +1,4 @@
-Stilbum majus Thüm. SPECIES
-=======
+# Stilbum majus Thüm. SPECIES
 
 #### Status
 ACCEPTED

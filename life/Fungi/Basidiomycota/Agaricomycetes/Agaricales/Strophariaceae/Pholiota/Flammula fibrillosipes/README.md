@@ -1,5 +1,4 @@
-Flammula fibrillosipes (Murrill) Sacc. & Trotter SPECIES
-=======
+# Flammula fibrillosipes (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dinoceras Schiller, 1931 GENUS
-=======
+# Dinoceras Schiller, 1931 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Maravalia guianensis Y. Ono, 1984 SPECIES
-=======
+# Maravalia guianensis Y. Ono, 1984 SPECIES
 
 #### Status
 ACCEPTED

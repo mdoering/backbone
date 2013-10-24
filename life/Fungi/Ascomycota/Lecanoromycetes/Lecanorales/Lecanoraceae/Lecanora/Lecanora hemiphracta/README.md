@@ -1,5 +1,4 @@
-Lecanora hemiphracta Hue SPECIES
-=======
+# Lecanora hemiphracta Hue SPECIES
 
 #### Status
 ACCEPTED

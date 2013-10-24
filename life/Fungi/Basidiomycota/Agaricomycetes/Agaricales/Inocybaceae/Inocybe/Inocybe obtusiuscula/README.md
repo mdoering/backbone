@@ -1,5 +1,4 @@
-Inocybe obtusiuscula Kühner SPECIES
-=======
+# Inocybe obtusiuscula Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps scottiana Olliff SPECIES
-=======
+# Cordyceps scottiana Olliff SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotium coffeicola Stahel, 1921 SPECIES
-=======
+# Sclerotium coffeicola Stahel, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Umbilicaria krascheninnikovii var. krascheninnikovii VARIETY
-=======
+# Umbilicaria krascheninnikovii (Savicz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Cat. Lich. Univers. 10: 405 (1939)
 
 #### Original name
-Umbilicaria krascheninnikovii var. krascheninnikovii
+Gyrophora krascheninnikovii Savicz
 
 ### Remarks
 null

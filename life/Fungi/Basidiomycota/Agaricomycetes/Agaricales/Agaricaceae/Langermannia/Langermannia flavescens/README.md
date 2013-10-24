@@ -1,5 +1,4 @@
-Langermannia flavescens Rostk. SPECIES
-=======
+# Langermannia flavescens Rostk. SPECIES
 
 #### Status
 ACCEPTED

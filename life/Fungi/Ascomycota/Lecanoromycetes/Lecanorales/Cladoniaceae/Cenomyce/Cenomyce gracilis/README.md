@@ -1,5 +1,4 @@
-Cenomyce gracilis var. gracilis VARIETY
-=======
+# Cenomyce gracilis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cenomyce gracilis var. gracilis
+null
 
 ### Remarks
 null

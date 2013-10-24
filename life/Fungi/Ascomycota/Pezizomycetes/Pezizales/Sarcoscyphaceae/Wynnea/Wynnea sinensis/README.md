@@ -1,5 +1,4 @@
-Wynnea sinensis B. Liu, M.H. Liu & J.Z. Cao SPECIES
-=======
+# Wynnea sinensis B. Liu, M.H. Liu & J.Z. Cao SPECIES
 
 #### Status
 ACCEPTED

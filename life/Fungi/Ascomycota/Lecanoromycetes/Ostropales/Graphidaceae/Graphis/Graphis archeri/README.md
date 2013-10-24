@@ -1,5 +1,4 @@
-Graphis archeri Dal-Forno & Eliasaro SPECIES
-=======
+# Graphis archeri Dal-Forno & Eliasaro SPECIES
 
 #### Status
 ACCEPTED

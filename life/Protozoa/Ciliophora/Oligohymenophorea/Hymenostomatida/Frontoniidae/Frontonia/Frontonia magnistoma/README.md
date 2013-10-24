@@ -1,5 +1,4 @@
-Frontonia magnistoma Foissner, 1987 SPECIES
-=======
+# Frontonia magnistoma Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

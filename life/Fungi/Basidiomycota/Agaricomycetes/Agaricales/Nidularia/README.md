@@ -1,5 +1,4 @@
-Nidularia Bulliard ex Jaume Saint-Hilaire, 1805 GENUS
-=======
+# Nidularia Bulliard ex Jaume Saint-Hilaire, 1805 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella carectorum (Berk. & M.A. Curtis) Cooke SPECIES
-=======
+# Sphaerella carectorum (Berk. & M.A. Curtis) Cooke SPECIES
 
 #### Status
 ACCEPTED

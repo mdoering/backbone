@@ -1,5 +1,4 @@
-Ceriomyces fici (Pat.) Sacc. SPECIES
-=======
+# Ceriomyces fici (Pat.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

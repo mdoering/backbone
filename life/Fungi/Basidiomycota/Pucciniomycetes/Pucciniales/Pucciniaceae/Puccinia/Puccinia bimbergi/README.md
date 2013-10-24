@@ -1,5 +1,4 @@
-Puccinia bimbergi Mayor SPECIES
-=======
+# Puccinia bimbergi Mayor SPECIES
 
 #### Status
 ACCEPTED

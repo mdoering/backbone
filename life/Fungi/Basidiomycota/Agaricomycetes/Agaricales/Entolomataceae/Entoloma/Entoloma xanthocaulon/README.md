@@ -1,5 +1,4 @@
-Entoloma xanthocaulon Arnolds & Noordel., 1979 SPECIES
-=======
+# Entoloma xanthocaulon Arnolds & Noordel., 1979 SPECIES
 
 #### Status
 ACCEPTED

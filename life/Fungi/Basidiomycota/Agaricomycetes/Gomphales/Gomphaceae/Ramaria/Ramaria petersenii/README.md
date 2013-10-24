@@ -1,5 +1,4 @@
-Ramaria petersenii K.S. Thind & Sharda, 1984 SPECIES
-=======
+# Ramaria petersenii K.S. Thind & Sharda, 1984 SPECIES
 
 #### Status
 ACCEPTED

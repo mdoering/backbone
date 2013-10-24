@@ -1,5 +1,4 @@
-Leptomeliola cymbisperma (Mont.) S. Hughes SPECIES
-=======
+# Leptomeliola cymbisperma (Mont.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina anguinaeformis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina anguinaeformis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

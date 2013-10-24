@@ -1,5 +1,4 @@
-Septoria coptidis Berk. & M.A. Curtis SPECIES
-=======
+# Septoria coptidis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

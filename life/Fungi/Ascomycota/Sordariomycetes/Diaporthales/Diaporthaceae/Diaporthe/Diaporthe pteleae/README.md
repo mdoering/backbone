@@ -1,5 +1,4 @@
-Diaporthe pteleae Rehm SPECIES
-=======
+# Diaporthe pteleae Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stygmosphaerostylus GENUS
-=======
+# Stygmosphaerostylus GENUS
 
 #### Status
 ACCEPTED

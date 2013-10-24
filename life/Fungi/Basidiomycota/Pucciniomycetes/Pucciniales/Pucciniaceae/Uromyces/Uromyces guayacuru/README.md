@@ -1,5 +1,4 @@
-Uromyces guayacuru Speg. SPECIES
-=======
+# Uromyces guayacuru Speg. SPECIES
 
 #### Status
 ACCEPTED

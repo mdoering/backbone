@@ -1,5 +1,4 @@
-Lepista ricekii Bon, 1983 SPECIES
-=======
+# Lepista ricekii Bon, 1983 SPECIES
 
 #### Status
 ACCEPTED

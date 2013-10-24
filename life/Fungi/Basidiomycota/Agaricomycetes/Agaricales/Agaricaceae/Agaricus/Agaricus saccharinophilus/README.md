@@ -1,5 +1,4 @@
-Agaricus saccharinophilus Peck SPECIES
-=======
+# Agaricus saccharinophilus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina spectabilis (Kremp.) Zahlbr. SPECIES
-=======
+# Porina spectabilis (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

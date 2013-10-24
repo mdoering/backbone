@@ -1,5 +1,4 @@
-Malajczukia fusispora Trappe & Castellano, 1992 SPECIES
-=======
+# Malajczukia fusispora Trappe & Castellano, 1992 SPECIES
 
 #### Status
 ACCEPTED

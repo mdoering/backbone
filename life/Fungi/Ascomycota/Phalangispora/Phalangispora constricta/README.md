@@ -1,5 +1,4 @@
-Phalangispora constricta Nawawi & J. Webster, 1982 SPECIES
-=======
+# Phalangispora constricta Nawawi & J. Webster, 1982 SPECIES
 
 #### Status
 ACCEPTED

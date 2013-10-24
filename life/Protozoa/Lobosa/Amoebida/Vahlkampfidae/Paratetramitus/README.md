@@ -1,5 +1,4 @@
-Paratetramitus Derbyshire, Page & Goodfellow, 1976 GENUS
-=======
+# Paratetramitus Derbyshire, Page & Goodfellow, 1976 GENUS
 
 #### Status
 ACCEPTED

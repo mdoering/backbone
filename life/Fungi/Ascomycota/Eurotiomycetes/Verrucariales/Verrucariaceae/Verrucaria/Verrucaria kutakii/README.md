@@ -1,5 +1,4 @@
-Verrucaria kutakii Servít SPECIES
-=======
+# Verrucaria kutakii Servít SPECIES
 
 #### Status
 ACCEPTED

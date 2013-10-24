@@ -1,5 +1,4 @@
-Botryomyces angioformans Greco, 1916 SPECIES
-=======
+# Botryomyces angioformans Greco, 1916 SPECIES
 
 #### Status
 ACCEPTED

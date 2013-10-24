@@ -1,5 +1,4 @@
-Cercospora platycerii Chupp SPECIES
-=======
+# Cercospora platycerii Chupp SPECIES
 
 #### Status
 ACCEPTED

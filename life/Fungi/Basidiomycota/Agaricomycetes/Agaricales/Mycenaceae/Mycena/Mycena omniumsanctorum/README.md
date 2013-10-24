@@ -1,5 +1,4 @@
-Mycena omniumsanctorum Singer SPECIES
-=======
+# Mycena omniumsanctorum Singer SPECIES
 
 #### Status
 ACCEPTED

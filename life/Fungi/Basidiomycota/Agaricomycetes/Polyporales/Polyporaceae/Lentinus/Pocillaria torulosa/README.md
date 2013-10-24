@@ -1,5 +1,4 @@
-Pocillaria torulosa (Pers.) Kuntze SPECIES
-=======
+# Pocillaria torulosa (Pers.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

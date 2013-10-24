@@ -1,5 +1,4 @@
-Phaeographis endocarpa Fée SPECIES
-=======
+# Phaeographis endocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

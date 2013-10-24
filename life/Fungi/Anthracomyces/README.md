@@ -1,5 +1,4 @@
-Anthracomyces Renault GENUS
-=======
+# Anthracomyces Renault GENUS
 
 #### Status
 ACCEPTED

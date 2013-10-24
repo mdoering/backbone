@@ -1,5 +1,4 @@
-Asterothyrium gigantosporum Lücking SPECIES
-=======
+# Asterothyrium gigantosporum Lücking SPECIES
 
 #### Status
 ACCEPTED

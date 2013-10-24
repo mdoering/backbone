@@ -1,5 +1,4 @@
-Hymenochaete paucisetosa J.C. Léger & Lanq., 1983 SPECIES
-=======
+# Hymenochaete paucisetosa J.C. Léger & Lanq., 1983 SPECIES
 
 #### Status
 ACCEPTED

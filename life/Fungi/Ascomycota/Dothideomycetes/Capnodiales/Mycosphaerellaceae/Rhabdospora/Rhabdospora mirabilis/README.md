@@ -1,5 +1,4 @@
-Rhabdospora mirabilis S. Ahmad SPECIES
-=======
+# Rhabdospora mirabilis S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

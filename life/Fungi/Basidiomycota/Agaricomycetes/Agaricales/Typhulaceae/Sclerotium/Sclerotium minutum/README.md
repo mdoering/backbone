@@ -1,5 +1,4 @@
-Sclerotium minutum Desm. SPECIES
-=======
+# Sclerotium minutum Desm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora pedicularia Nelen SPECIES
-=======
+# Cercospora pedicularia Nelen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globorotalia gracilis SPECIES
-=======
+# Globorotalia gracilis SPECIES
 
 #### Status
 ACCEPTED

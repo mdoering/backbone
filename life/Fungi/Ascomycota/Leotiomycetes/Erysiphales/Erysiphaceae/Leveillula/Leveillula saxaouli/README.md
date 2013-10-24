@@ -1,5 +1,4 @@
-Leveillula saxaouli f. saxaouli FORM
-=======
+# Leveillula saxaouli (Sorokin) Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula saxaouli f. saxaouli
+Erysiphe saxaouli Sorokin
 
 ### Remarks
 null

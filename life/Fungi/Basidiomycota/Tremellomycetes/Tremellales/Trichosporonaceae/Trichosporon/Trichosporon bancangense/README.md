@@ -1,5 +1,4 @@
-Trichosporon bancangense X.H. Lu & M.X. Li SPECIES
-=======
+# Trichosporon bancangense X.H. Lu & M.X. Li SPECIES
 
 #### Status
 ACCEPTED

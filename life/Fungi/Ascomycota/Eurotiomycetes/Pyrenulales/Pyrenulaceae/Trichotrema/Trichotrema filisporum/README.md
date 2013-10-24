@@ -1,5 +1,4 @@
-Trichotrema filisporum (Patw., Makhija & D. Rane) Makhija & Patw. SPECIES
-=======
+# Trichotrema filisporum (Patw., Makhija & D. Rane) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

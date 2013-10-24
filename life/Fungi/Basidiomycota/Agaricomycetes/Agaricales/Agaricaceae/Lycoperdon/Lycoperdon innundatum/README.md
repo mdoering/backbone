@@ -1,5 +1,4 @@
-Lycoperdon innundatum anon. SPECIES
-=======
+# Lycoperdon innundatum anon. SPECIES
 
 #### Status
 ACCEPTED

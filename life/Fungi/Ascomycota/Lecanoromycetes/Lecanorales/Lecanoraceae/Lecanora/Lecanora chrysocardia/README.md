@@ -1,5 +1,4 @@
-Lecanora chrysocardia Zahlbr. SPECIES
-=======
+# Lecanora chrysocardia Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

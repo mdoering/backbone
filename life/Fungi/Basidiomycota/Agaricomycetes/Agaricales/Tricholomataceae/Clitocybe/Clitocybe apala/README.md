@@ -1,5 +1,4 @@
-Clitocybe apala Comes SPECIES
-=======
+# Clitocybe apala Comes SPECIES
 
 #### Status
 ACCEPTED

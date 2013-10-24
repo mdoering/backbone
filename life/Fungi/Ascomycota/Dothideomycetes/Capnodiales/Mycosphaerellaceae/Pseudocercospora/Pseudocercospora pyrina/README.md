@@ -1,5 +1,4 @@
-Pseudocercospora pyrina Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora pyrina Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

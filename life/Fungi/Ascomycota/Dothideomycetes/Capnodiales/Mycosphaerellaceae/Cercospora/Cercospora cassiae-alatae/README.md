@@ -1,5 +1,4 @@
-Cercospora cassiae-alatae J.M. Yen & Lim SPECIES
-=======
+# Cercospora cassiae-alatae J.M. Yen & Lim SPECIES
 
 #### Status
 ACCEPTED

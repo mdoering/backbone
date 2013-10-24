@@ -1,5 +1,4 @@
-Lasiosphaeria xestothele (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lasiosphaeria xestothele (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

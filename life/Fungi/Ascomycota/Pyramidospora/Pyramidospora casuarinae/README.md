@@ -1,5 +1,4 @@
-Pyramidospora casuarinae Sv. Nilsson, 1962 SPECIES
-=======
+# Pyramidospora casuarinae Sv. Nilsson, 1962 SPECIES
 
 #### Status
 ACCEPTED

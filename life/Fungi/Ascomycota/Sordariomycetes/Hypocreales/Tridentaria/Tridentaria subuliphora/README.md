@@ -1,5 +1,4 @@
-Tridentaria subuliphora Matsush., 1989 SPECIES
-=======
+# Tridentaria subuliphora Matsush., 1989 SPECIES
 
 #### Status
 ACCEPTED

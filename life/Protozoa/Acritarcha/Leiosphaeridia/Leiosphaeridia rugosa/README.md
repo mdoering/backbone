@@ -1,5 +1,4 @@
-Leiosphaeridia rugosa Boneham & Tailleur, 1972 SPECIES
-=======
+# Leiosphaeridia rugosa Boneham & Tailleur, 1972 SPECIES
 
 #### Status
 ACCEPTED

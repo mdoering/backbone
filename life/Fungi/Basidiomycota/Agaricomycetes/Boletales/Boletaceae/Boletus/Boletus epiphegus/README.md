@@ -1,5 +1,4 @@
-Boletus epiphegus Schumach. SPECIES
-=======
+# Boletus epiphegus Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Samara potama Buch.-Ham. ex D.Don SPECIES
-=======
+# Samara potama Buch.-Ham. ex D.Don SPECIES
 
 #### Status
 ACCEPTED

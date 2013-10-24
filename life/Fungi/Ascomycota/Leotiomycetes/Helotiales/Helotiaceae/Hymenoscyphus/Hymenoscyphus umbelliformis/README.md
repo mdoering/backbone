@@ -1,8 +1,7 @@
-Hymenoscypha umbelliformis W. Phillips SPECIES
-=======
+# Hymenoscyphus umbelliformis W. Phillips SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha umbelliformis W. Phillips
+Hymenoscyphus umbelliformis W. Phillips
 
 ### Remarks
 null

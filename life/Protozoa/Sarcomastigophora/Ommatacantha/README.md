@@ -1,5 +1,4 @@
-Ommatacantha Haeckel, 1887 GENUS
-=======
+# Ommatacantha Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridiella ebuli (W. Yamam.) Hansf. SPECIES
-=======
+# Asteridiella ebuli (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

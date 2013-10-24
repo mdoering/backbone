@@ -1,14 +1,13 @@
-Peziza scabrosa Cooke, 1877 SPECIES
-=======
+# Scabropezia scabrosa (Cooke) Dissing & Pfister, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nordic Jl Bot. 1(1): 103 (1981)
 
 #### Original name
 Peziza scabrosa Cooke, 1877

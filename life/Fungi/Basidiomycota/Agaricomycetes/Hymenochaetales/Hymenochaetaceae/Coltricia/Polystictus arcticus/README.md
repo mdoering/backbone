@@ -1,5 +1,4 @@
-Polystictus arcticus (Fr.) Cooke SPECIES
-=======
+# Polystictus arcticus (Fr.) Cooke SPECIES
 
 #### Status
 ACCEPTED

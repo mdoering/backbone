@@ -1,5 +1,4 @@
-Agaricus rhytopilus Mont. SPECIES
-=======
+# Agaricus rhytopilus Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cephalosporium elegans Bonord. SPECIES
-=======
+# Cephalosporium elegans Bonord. SPECIES
 
 #### Status
 ACCEPTED

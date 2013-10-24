@@ -1,5 +1,4 @@
-Gyalorhethium spinuliferum Loeblich & Tappan, 1978 SPECIES
-=======
+# Gyalorhethium spinuliferum Loeblich & Tappan, 1978 SPECIES
 
 #### Status
 ACCEPTED

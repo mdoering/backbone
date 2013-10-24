@@ -1,5 +1,4 @@
-Buellia microspora H. Magn. SPECIES
-=======
+# Buellia microspora H. Magn. SPECIES
 
 #### Status
 ACCEPTED

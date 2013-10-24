@@ -1,5 +1,4 @@
-Diplodia cococarpa var. cococarpa VARIETY
-=======
+# Diplodia cococarpa Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Miscell. myc. F. Fah. no. 6
 
 #### Original name
-Diplodia cococarpa var. cococarpa
+Diplodia cococarpa Sacc.
 
 ### Remarks
 null

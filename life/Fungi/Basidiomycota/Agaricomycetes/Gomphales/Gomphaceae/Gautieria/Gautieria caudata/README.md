@@ -1,5 +1,4 @@
-Gautieria caudata (Harkn.) Zeller & C.W. Dodge SPECIES
-=======
+# Gautieria caudata (Harkn.) Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

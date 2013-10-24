@@ -1,14 +1,13 @@
-Lainsonia Landau, 1973 GENUS
-=======
+# Schellackia Reichenow, 1920 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mem. Mus. Natn. Hist. Nat. Paris (Zool. ) 77:15.
+S. B. Ges. Naturf. Freunde Berlin, 1919, 440.
 
 #### Original name
 null

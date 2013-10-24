@@ -1,5 +1,4 @@
-Tricharia vainioi R. Sant. SPECIES
-=======
+# Tricharia vainioi R. Sant. SPECIES
 
 #### Status
 ACCEPTED

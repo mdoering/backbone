@@ -1,8 +1,7 @@
-Cystopus capparidis de Bary SPECIES
-=======
+# Cystopus capparis de Bary SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cystopus capparidis de Bary
+Cystopus capparis de Bary
 
 ### Remarks
 null

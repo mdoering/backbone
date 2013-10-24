@@ -1,5 +1,4 @@
-Asterella myricae Miles SPECIES
-=======
+# Asterella myricae Miles SPECIES
 
 #### Status
 ACCEPTED

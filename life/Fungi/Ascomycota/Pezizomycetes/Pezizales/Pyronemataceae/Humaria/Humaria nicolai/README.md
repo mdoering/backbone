@@ -1,5 +1,4 @@
-Humaria nicolai Maire SPECIES
-=======
+# Humaria nicolai Maire SPECIES
 
 #### Status
 ACCEPTED

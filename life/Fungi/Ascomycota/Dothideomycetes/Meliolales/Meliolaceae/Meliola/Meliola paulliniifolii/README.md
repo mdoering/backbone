@@ -1,5 +1,4 @@
-Meliola paulliniifolii Bat. SPECIES
-=======
+# Meliola paulliniifolii Bat. SPECIES
 
 #### Status
 ACCEPTED

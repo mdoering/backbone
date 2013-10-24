@@ -1,14 +1,13 @@
-Dactylella eudermata (Drechsler) Seifert & W.B. Kendr., 1983 SPECIES
-=======
+# Monacrosporium eudermatum (Drechsler) Subram., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Seifert, Kendrick & Murase, Univ. Waterloo Biol. Ser. 27: 30 (1983)
+J. Indian bot. Soc. 42: 293 (1964)
 
 #### Original name
 Dactylaria eudermata Drechsler, 1950

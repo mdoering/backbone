@@ -1,5 +1,4 @@
-Entoloma uliginicola E. Horak, 1980 SPECIES
-=======
+# Entoloma uliginicola E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

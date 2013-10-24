@@ -1,5 +1,4 @@
-Seynesia cordiae R.W. Ryan SPECIES
-=======
+# Seynesia cordiae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

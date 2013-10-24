@@ -1,5 +1,4 @@
-Holosticha grisea Kahl, 1932 SPECIES
-=======
+# Holosticha grisea Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phallus fungoides Batsch SPECIES
-=======
+# Phallus fungoides Batsch SPECIES
 
 #### Status
 ACCEPTED

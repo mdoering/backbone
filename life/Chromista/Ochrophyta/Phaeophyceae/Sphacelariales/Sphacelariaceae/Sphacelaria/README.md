@@ -1,11 +1,10 @@
-Disphacella Sauvageau, 1903 GENUS
-=======
+# Sphacelaria Lyngbye, 1818 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

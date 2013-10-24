@@ -1,5 +1,4 @@
-Trichoderma protrudens Samuels & Chaverri SPECIES
-=======
+# Trichoderma protrudens Samuels & Chaverri SPECIES
 
 #### Status
 ACCEPTED

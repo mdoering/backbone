@@ -1,5 +1,4 @@
-Phyllachora juruensis Henn., 1904 SPECIES
-=======
+# Phyllachora juruensis Henn., 1904 SPECIES
 
 #### Status
 DOUBTFUL

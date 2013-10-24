@@ -1,8 +1,7 @@
-Cothurnia pyxidiformis D'Udekem, 1862 SPECIES
-=======
+# Pyxicola pyxidiformis (D'Udekem, 1862) Kent, 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Pyrenochaeta spinaciae Verona & Negru SPECIES
-=======
+# Pyrenochaeta spinaciae Verona & Negru SPECIES
 
 #### Status
 ACCEPTED

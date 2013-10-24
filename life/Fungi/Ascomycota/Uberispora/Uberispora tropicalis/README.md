@@ -1,5 +1,4 @@
-Uberispora tropicalis Bhat & W.B. Kendr., 1993 SPECIES
-=======
+# Uberispora tropicalis Bhat & W.B. Kendr., 1993 SPECIES
 
 #### Status
 ACCEPTED

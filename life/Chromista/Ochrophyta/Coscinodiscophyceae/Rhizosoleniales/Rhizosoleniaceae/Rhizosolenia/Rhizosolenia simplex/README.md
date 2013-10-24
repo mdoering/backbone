@@ -1,5 +1,4 @@
-Rhizosolenia simplex Karsten SPECIES
-=======
+# Rhizosolenia simplex Karsten SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomonas appendiculata R. W. Butcher SPECIES
-=======
+# Cryptomonas appendiculata R. W. Butcher SPECIES
 
 #### Status
 ACCEPTED

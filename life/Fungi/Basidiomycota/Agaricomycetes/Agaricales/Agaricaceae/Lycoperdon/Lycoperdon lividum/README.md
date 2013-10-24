@@ -1,17 +1,16 @@
-Lycoperdon cookei Massee, 1887 SPECIES
-=======
+# Lycoperdon lividum Pers., 1809 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Roy. Microscop. Soc. 14 (1887)
+J. Bot. (Desvaux) 2: 18 (1809)
 
 #### Original name
-Lycoperdon cookei Massee, 1887
+Lycoperdon lividum Pers., 1809
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycena subfusca A.H. Sm. SPECIES
-=======
+# Mycena subfusca A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

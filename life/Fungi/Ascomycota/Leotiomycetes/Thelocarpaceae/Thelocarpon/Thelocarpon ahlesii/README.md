@@ -1,5 +1,4 @@
-Thelocarpon ahlesii Rehm SPECIES
-=======
+# Thelocarpon ahlesii Rehm SPECIES
 
 #### Status
 ACCEPTED

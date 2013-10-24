@@ -1,5 +1,4 @@
-Neoclitocybe nivea (Rick) Singer SPECIES
-=======
+# Neoclitocybe nivea (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

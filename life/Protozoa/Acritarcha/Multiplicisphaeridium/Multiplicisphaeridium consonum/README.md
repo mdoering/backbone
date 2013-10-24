@@ -1,5 +1,4 @@
-Multiplicisphaeridium consonum (Sannemann, 1955) Eisenack et al., 1973 SPECIES
-=======
+# Multiplicisphaeridium consonum (Sannemann, 1955) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

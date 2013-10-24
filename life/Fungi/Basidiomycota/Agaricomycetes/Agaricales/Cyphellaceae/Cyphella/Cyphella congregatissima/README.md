@@ -1,5 +1,4 @@
-Cyphella congregatissima Rick SPECIES
-=======
+# Cyphella congregatissima Rick SPECIES
 
 #### Status
 ACCEPTED

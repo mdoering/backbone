@@ -1,5 +1,4 @@
-Meliola arisanensis (W. Yamam.) Cif. SPECIES
-=======
+# Meliola arisanensis (W. Yamam.) Cif. SPECIES
 
 #### Status
 ACCEPTED

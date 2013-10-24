@@ -1,5 +1,4 @@
-Mycoleptodonoides M.I. Nikol. GENUS
-=======
+# Mycoleptodonoides M.I. Nikol. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichosporum illyricum Jaap SPECIES
-=======
+# Trichosporum illyricum Jaap SPECIES
 
 #### Status
 ACCEPTED

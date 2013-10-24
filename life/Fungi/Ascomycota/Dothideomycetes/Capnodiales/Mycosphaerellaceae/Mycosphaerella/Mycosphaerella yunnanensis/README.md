@@ -1,5 +1,4 @@
-Mycosphaerella yunnanensis Barber, Dell & T.I. Burgess, 2007 SPECIES
-=======
+# Mycosphaerella yunnanensis Barber, Dell & T.I. Burgess, 2007 SPECIES
 
 #### Status
 ACCEPTED

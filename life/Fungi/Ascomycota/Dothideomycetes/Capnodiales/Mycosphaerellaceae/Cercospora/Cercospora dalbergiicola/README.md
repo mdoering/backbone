@@ -1,17 +1,16 @@
-Cercospora dalbergicola T.S. Ramakr. & K. Ramakr. SPECIES
-=======
+# Cercospora dalbergiicola T.S. Ramakr. & K. Ramakr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Proc. Indian natn Sci. Acad. , Part B. Biol. Sci. 32: 106 (1950)
 
 #### Original name
-Cercospora dalbergicola T.S. Ramakr. & K. Ramakr.
+Cercospora dalbergiicola T.S. Ramakr. & K. Ramakr.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Acanthocystis Carter, 1863 GENUS
-=======
+# Acanthocystis Carter, 1863 GENUS
 
 #### Status
 ACCEPTED

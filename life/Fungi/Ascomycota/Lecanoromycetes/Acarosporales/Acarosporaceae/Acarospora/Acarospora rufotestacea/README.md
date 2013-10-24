@@ -1,5 +1,4 @@
-Acarospora rufotestacea SPECIES
-=======
+# Acarospora rufotestacea SPECIES
 
 #### Status
 ACCEPTED

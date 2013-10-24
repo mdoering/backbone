@@ -1,5 +1,4 @@
-Endodothella leptosperma Syd. & P. Syd., 1916 SPECIES
-=======
+# Endodothella leptosperma Syd. & P. Syd., 1916 SPECIES
 
 #### Status
 ACCEPTED

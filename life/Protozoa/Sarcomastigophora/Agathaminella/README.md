@@ -1,5 +1,4 @@
-Agathaminella Benjamini, 1988 GENUS
-=======
+# Agathaminella Benjamini, 1988 GENUS
 
 #### Status
 ACCEPTED

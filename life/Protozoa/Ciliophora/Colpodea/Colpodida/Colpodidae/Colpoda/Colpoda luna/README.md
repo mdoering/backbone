@@ -1,5 +1,4 @@
-Colpoda luna SPECIES
-=======
+# Colpoda luna SPECIES
 
 #### Status
 ACCEPTED

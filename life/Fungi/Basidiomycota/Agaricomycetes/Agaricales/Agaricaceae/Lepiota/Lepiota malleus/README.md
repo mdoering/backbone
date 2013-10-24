@@ -1,5 +1,4 @@
-Lepiota malleus (Berk.) Sacc. SPECIES
-=======
+# Lepiota malleus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella dicrani (A.E. Jansen) Kits van Wav. SPECIES
-=======
+# Psathyrella dicrani (A.E. Jansen) Kits van Wav. SPECIES
 
 #### Status
 ACCEPTED

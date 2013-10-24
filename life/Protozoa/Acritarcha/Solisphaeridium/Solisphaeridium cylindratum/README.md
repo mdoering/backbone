@@ -1,5 +1,4 @@
-Solisphaeridium cylindratum Moczydlowska, 1998 SPECIES
-=======
+# Solisphaeridium cylindratum Moczydlowska, 1998 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota sphaleromorpha (Bull.) Quél. SPECIES
-=======
+# Pholiota sphaleromorpha (Bull.) Quél. SPECIES
 
 #### Status
 ACCEPTED

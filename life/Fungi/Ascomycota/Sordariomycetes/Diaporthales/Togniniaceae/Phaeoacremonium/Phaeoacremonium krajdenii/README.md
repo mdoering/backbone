@@ -1,17 +1,16 @@
-Togninia krajdenii L. Mostert, W. Gams & Crous, 2006 SPECIES
-=======
+# Phaeoacremonium krajdenii L. Mostert, Summerb. & Crous, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Mostert, Groenewald, Summerbell, Gams & Crous, Stud. Mycol. 54: 53 (2006)
+in Mostert, Groenewald, Summerbell, Robert, Sutton, Padhye & Crous, J. Clin. Microbiol. 43(4): 1761 (2005)
 
 #### Original name
-Togninia krajdenii L. Mostert, W. Gams & Crous, 2006
+Phaeoacremonium krajdenii L. Mostert, Summerb. & Crous, 2005
 
 ### Remarks
 null

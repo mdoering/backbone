@@ -1,5 +1,4 @@
-Dictyostelium radiculatum Cavender, Vadell, J.C. Landolt & S.L. Stephenson SPECIES
-=======
+# Dictyostelium radiculatum Cavender, Vadell, J.C. Landolt & S.L. Stephenson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharina gyrata (Kjellman) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
-=======
+# Saccharina gyrata (Kjellman) C.E.Lane, C.Mayes, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
 ACCEPTED

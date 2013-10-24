@@ -1,5 +1,4 @@
-Asterina urerae Hansf. SPECIES
-=======
+# Asterina urerae Hansf. SPECIES
 
 #### Status
 ACCEPTED

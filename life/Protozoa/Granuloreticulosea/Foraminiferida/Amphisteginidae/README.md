@@ -1,5 +1,4 @@
-Amphisteginidae Cushman, 1927 FAMILY
-=======
+# Amphisteginidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

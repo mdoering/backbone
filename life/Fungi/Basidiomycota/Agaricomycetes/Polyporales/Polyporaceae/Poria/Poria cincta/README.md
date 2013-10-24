@@ -1,5 +1,4 @@
-Poria cincta (Berk.) Sacc. SPECIES
-=======
+# Poria cincta (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium cryptostegiae S. Ahmad SPECIES
-=======
+# Camarosporium cryptostegiae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

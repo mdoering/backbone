@@ -1,5 +1,4 @@
-Dothiora sphaerioides Fr., 1849 SPECIES
-=======
+# Dothiora sphaerioides Fr., 1849 SPECIES
 
 #### Status
 ACCEPTED

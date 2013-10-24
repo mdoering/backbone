@@ -1,5 +1,4 @@
-Kretzschmaria kurziana (Curr.) Sacc. SPECIES
-=======
+# Kretzschmaria kurziana (Curr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

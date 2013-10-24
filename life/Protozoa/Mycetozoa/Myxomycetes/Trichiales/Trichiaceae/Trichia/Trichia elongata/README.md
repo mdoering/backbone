@@ -1,5 +1,4 @@
-Trichia elongata Schumach. SPECIES
-=======
+# Trichia elongata Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia dusenii Hue SPECIES
-=======
+# Aspicilia dusenii Hue SPECIES
 
 #### Status
 ACCEPTED

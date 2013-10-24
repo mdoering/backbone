@@ -1,5 +1,4 @@
-Ombrophila pellucida A.L. Sm. SPECIES
-=======
+# Ombrophila pellucida A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

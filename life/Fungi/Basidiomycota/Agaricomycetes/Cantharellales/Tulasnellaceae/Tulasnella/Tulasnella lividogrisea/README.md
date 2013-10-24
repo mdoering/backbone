@@ -1,5 +1,4 @@
-Tulasnella lividogrisea Rick SPECIES
-=======
+# Tulasnella lividogrisea Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pichia cecembensis Bhadra, R.Sreen. Rao & Shivaji, 2007 SPECIES
-=======
+# Pichia cecembensis Bhadra, R.Sreen. Rao & Shivaji, 2007 SPECIES
 
 #### Status
 ACCEPTED

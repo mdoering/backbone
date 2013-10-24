@@ -1,5 +1,4 @@
-Heitzeria Ozvoldova, 1975 GENUS
-=======
+# Heitzeria Ozvoldova, 1975 GENUS
 
 #### Status
 ACCEPTED

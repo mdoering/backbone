@@ -1,5 +1,4 @@
-Ceratophyllum GENUS
-=======
+# Ceratophyllum GENUS
 
 #### Status
 ACCEPTED

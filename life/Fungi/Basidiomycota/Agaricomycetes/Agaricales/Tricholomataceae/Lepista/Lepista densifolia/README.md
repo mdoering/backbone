@@ -1,5 +1,4 @@
-Lepista densifolia (J. Favre) Singer & Clémençon, 1973 SPECIES
-=======
+# Lepista densifolia (J. Favre) Singer & Clémençon, 1973 SPECIES
 
 #### Status
 ACCEPTED

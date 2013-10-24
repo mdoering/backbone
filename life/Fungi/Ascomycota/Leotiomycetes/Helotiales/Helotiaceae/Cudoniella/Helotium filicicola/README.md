@@ -1,5 +1,4 @@
-Helotium filicicola Hazsl. SPECIES
-=======
+# Helotium filicicola Hazsl. SPECIES
 
 #### Status
 ACCEPTED

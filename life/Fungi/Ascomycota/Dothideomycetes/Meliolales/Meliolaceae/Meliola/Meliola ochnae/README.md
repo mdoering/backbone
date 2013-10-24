@@ -1,5 +1,4 @@
-Meliola ochnae Doidge SPECIES
-=======
+# Meliola ochnae Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mazosia tomentifera Vezda & Lumbsch SPECIES
-=======
+# Mazosia tomentifera Vezda & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

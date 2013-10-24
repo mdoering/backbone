@@ -1,5 +1,4 @@
-Thamnostylum Arx & H.P. Upadhyay GENUS
-=======
+# Thamnostylum Arx & H.P. Upadhyay GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sulfurimonas autotrophica Inagaki et al., 2003 SPECIES
-=======
+# Sulfurimonas autotrophica Inagaki et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

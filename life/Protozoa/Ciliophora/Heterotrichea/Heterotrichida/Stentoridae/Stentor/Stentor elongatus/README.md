@@ -1,5 +1,4 @@
-Stentor elongatus Minkiewicz, 1898 SPECIES
-=======
+# Stentor elongatus Minkiewicz, 1898 SPECIES
 
 #### Status
 ACCEPTED

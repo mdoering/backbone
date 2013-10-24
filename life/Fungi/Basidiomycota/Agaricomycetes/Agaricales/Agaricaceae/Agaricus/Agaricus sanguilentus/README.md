@@ -1,5 +1,4 @@
-Agaricus sanguilentus Britzelm. SPECIES
-=======
+# Agaricus sanguilentus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

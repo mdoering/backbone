@@ -1,5 +1,4 @@
-Erysiphe pegani Sorokin SPECIES
-=======
+# Erysiphe pegani Sorokin SPECIES
 
 #### Status
 ACCEPTED

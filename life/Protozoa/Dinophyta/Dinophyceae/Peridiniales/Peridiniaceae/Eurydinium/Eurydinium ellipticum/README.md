@@ -1,5 +1,4 @@
-Eurydinium ellipticum S. Mao & B. A. R. Mohr SPECIES
-=======
+# Eurydinium ellipticum S. Mao & B. A. R. Mohr SPECIES
 
 #### Status
 ACCEPTED

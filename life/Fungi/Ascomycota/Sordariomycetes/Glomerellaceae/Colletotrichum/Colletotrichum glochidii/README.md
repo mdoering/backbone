@@ -1,5 +1,4 @@
-Colletotrichum glochidii C.C. Chen SPECIES
-=======
+# Colletotrichum glochidii C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

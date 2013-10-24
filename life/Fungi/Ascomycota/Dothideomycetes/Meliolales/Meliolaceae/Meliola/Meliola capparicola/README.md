@@ -1,17 +1,16 @@
-Meliola capparidicola Hosag. SPECIES
-=======
+# Meliola capparicola Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meliolales of India (Calcutta) 157 (1996)
 
 #### Original name
-Meliola capparidicola Hosag.
+Meliola capparicola Hosag.
 
 ### Remarks
 null

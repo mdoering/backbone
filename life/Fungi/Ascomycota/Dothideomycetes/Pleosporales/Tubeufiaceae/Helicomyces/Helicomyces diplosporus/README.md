@@ -1,5 +1,4 @@
-Helicomyces diplosporus (Ellis & Everh.) Pound & Clem. SPECIES
-=======
+# Helicomyces diplosporus (Ellis & Everh.) Pound & Clem. SPECIES
 
 #### Status
 ACCEPTED

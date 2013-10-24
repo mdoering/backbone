@@ -1,5 +1,4 @@
-Helminthosporium philodendri F. Stevens SPECIES
-=======
+# Helminthosporium philodendri F. Stevens SPECIES
 
 #### Status
 ACCEPTED

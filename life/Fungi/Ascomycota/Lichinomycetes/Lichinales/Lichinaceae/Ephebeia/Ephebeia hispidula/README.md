@@ -1,5 +1,4 @@
-Ephebeia hispidula subsp. hispidula SUBSPECIES
-=======
+# Ephebeia hispidula SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ephebeia hispidula subsp. hispidula
+null
 
 ### Remarks
 null

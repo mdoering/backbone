@@ -1,5 +1,4 @@
-Gymnoglossum olivaceum (Zeller) Zeller SPECIES
-=======
+# Gymnoglossum olivaceum (Zeller) Zeller SPECIES
 
 #### Status
 ACCEPTED

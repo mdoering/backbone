@@ -1,5 +1,4 @@
-Puccinia subindumentana Berndt SPECIES
-=======
+# Puccinia subindumentana Berndt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Dialonectria helminthicola (Berk. & Broome) Cooke, 1884 SPECIES
-=======
+# Letendraea helminthicola (Berk. & Broome) Weese, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 12(no. 64): 111 (1884)
+Trans. Br. mycol. Soc. 21: 277 (1938)
 
 #### Original name
 Nectria helminthicola Richon

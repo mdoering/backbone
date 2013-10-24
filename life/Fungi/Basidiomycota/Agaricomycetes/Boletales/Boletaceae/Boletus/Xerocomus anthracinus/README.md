@@ -1,5 +1,4 @@
-Xerocomus anthracinus M. Zang, M.R. Hu & W.P. Liu SPECIES
-=======
+# Xerocomus anthracinus M. Zang, M.R. Hu & W.P. Liu SPECIES
 
 #### Status
 ACCEPTED

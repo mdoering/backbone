@@ -1,5 +1,4 @@
-Phoma marleae Henn. SPECIES
-=======
+# Phoma marleae Henn. SPECIES
 
 #### Status
 ACCEPTED

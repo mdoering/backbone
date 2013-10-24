@@ -1,5 +1,4 @@
-Psathyrella crassulistipes A.H. Sm. SPECIES
-=======
+# Psathyrella crassulistipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

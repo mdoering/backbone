@@ -1,5 +1,4 @@
-Verrucaria porphyricola Servít SPECIES
-=======
+# Verrucaria porphyricola Servít SPECIES
 
 #### Status
 ACCEPTED

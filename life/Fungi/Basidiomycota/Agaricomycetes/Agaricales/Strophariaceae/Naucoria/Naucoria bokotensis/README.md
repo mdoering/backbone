@@ -1,5 +1,4 @@
-Naucoria bokotensis Beeli SPECIES
-=======
+# Naucoria bokotensis Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen melanostictos Dill. SPECIES
-=======
+# Lichen melanostictos Dill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ecthymapalla echinata Loeblich & Wicander, 1976 SPECIES
-=======
+# Ecthymapalla echinata Loeblich & Wicander, 1976 SPECIES
 
 #### Status
 ACCEPTED

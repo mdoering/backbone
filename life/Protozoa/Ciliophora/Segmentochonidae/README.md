@@ -1,5 +1,4 @@
-Segmentochonidae FAMILY
-=======
+# Segmentochonidae FAMILY
 
 #### Status
 ACCEPTED

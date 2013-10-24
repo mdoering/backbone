@@ -1,5 +1,4 @@
-Agaricus rhopalopodius Pat. SPECIES
-=======
+# Agaricus rhopalopodius Pat. SPECIES
 
 #### Status
 ACCEPTED

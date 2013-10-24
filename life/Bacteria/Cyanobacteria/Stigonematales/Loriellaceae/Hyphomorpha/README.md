@@ -1,5 +1,4 @@
-Hyphomorpha Borzì, 1916 GENUS
-=======
+# Hyphomorpha Borzì, 1916 GENUS
 
 #### Status
 ACCEPTED

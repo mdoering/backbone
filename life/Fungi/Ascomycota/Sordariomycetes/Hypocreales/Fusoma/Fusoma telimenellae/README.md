@@ -1,5 +1,4 @@
-Fusoma telimenellae Schwarzman SPECIES
-=======
+# Fusoma telimenellae Schwarzman SPECIES
 
 #### Status
 ACCEPTED

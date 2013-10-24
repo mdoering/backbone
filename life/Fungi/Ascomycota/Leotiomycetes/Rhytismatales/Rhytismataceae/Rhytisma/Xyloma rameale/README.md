@@ -1,5 +1,4 @@
-Xyloma rameale Fr. SPECIES
-=======
+# Xyloma rameale Fr. SPECIES
 
 #### Status
 ACCEPTED

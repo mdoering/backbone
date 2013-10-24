@@ -1,5 +1,4 @@
-Phyllosticta artemisiae-lactiflorae Sawada SPECIES
-=======
+# Phyllosticta artemisiae-lactiflorae Sawada SPECIES
 
 #### Status
 ACCEPTED

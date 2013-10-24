@@ -1,5 +1,4 @@
-Nidulariopsis Greis GENUS
-=======
+# Nidulariopsis Greis GENUS
 
 #### Status
 ACCEPTED

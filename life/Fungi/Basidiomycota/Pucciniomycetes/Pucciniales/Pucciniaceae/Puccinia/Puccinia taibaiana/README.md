@@ -1,5 +1,4 @@
-Puccinia taibaiana B. Li SPECIES
-=======
+# Puccinia taibaiana B. Li SPECIES
 
 #### Status
 ACCEPTED

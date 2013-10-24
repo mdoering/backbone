@@ -1,5 +1,4 @@
-Neisseria animalis Berger, 1960 (Approved Lists, 1980) SPECIES
-=======
+# Neisseria animalis Berger, 1960 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

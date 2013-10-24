@@ -1,5 +1,4 @@
-Dothiorella strobilomorphospora Dias & Sousa da Câmara SPECIES
-=======
+# Dothiorella strobilomorphospora Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

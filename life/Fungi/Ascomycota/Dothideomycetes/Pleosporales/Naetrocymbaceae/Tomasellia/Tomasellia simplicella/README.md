@@ -1,5 +1,4 @@
-Tomasellia simplicella (Nyl.) Zahlbr. SPECIES
-=======
+# Tomasellia simplicella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

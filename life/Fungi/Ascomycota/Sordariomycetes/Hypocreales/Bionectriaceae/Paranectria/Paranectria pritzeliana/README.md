@@ -1,5 +1,4 @@
-Paranectria pritzeliana Henn. SPECIES
-=======
+# Paranectria pritzeliana Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia ruthae SPECIES
-=======
+# Cothurnia ruthae SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Arthothelium ilicinum var. ilicinum (Taylor) P. James VARIETY
-=======
+# Arthonia ilicina Taylor SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 3: 97 (1965)
+in Mackey, Fl. Hibern. 2: 105 (1836)
 
 #### Original name
-Arthothelium ilicinum var. ilicinum (Taylor) P. James
+Arthonia ilicina Taylor
 
 ### Remarks
 null

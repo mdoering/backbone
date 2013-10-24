@@ -1,17 +1,16 @@
-Leptosphaeria derasa var. derasa VARIETY
-=======
+# Leptosphaeria derasa (Berk. & Broome) Thüm., 1868 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Öst. bot. Z. 18: 4 (1868)
 
 #### Original name
-Leptosphaeria derasa var. derasa
+Sphaeria derasa Berk. & Broome, 1852
 
 ### Remarks
 null

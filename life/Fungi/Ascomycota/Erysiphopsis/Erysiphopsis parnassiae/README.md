@@ -1,5 +1,4 @@
-Erysiphopsis parnassiae Halst., 1899 SPECIES
-=======
+# Erysiphopsis parnassiae Halst., 1899 SPECIES
 
 #### Status
 ACCEPTED

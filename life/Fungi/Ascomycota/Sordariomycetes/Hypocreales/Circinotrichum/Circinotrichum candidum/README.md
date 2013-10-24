@@ -1,5 +1,4 @@
-Circinotrichum candidum Schwein. SPECIES
-=======
+# Circinotrichum candidum Schwein. SPECIES
 
 #### Status
 ACCEPTED

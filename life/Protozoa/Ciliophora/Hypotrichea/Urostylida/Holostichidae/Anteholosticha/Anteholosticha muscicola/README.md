@@ -1,5 +1,4 @@
-Anteholosticha muscicola Gellert, 1956 SPECIES
-=======
+# Anteholosticha muscicola Gellert, 1956 SPECIES
 
 #### Status
 ACCEPTED

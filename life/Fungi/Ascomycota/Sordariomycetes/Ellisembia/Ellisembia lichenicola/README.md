@@ -1,5 +1,4 @@
-Ellisembia lichenicola Heuchert & U. Braun SPECIES
-=======
+# Ellisembia lichenicola Heuchert & U. Braun SPECIES
 
 #### Status
 ACCEPTED

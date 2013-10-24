@@ -1,5 +1,4 @@
-Astrabomyces Bat. GENUS
-=======
+# Astrabomyces Bat. GENUS
 
 #### Status
 ACCEPTED

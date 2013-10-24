@@ -1,5 +1,4 @@
-Cercospora maculicola Thirum. & Govindu SPECIES
-=======
+# Cercospora maculicola Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

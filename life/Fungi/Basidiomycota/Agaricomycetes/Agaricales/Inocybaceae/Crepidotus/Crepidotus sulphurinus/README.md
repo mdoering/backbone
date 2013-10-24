@@ -1,5 +1,4 @@
-Crepidotus sulphurinus Imazeki & Toki SPECIES
-=======
+# Crepidotus sulphurinus Imazeki & Toki SPECIES
 
 #### Status
 ACCEPTED

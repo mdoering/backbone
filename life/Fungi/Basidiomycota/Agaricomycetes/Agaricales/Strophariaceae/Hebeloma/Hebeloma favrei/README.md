@@ -1,5 +1,4 @@
-Hebeloma favrei Romagn. & Quadr. SPECIES
-=======
+# Hebeloma favrei Romagn. & Quadr. SPECIES
 
 #### Status
 ACCEPTED

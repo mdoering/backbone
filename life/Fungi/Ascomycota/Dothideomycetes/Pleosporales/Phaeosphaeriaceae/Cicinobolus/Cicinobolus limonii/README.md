@@ -1,8 +1,7 @@
-Cicinnobolus limonii Dejeva SPECIES
-=======
+# Cicinobolus limonii Dejeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus limonii Dejeva
+Cicinobolus limonii Dejeva
 
 ### Remarks
 null

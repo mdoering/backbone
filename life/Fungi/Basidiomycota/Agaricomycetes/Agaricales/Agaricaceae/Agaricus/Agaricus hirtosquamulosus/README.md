@@ -1,5 +1,4 @@
-Agaricus hirtosquamulosus Peck SPECIES
-=======
+# Agaricus hirtosquamulosus Peck SPECIES
 
 #### Status
 ACCEPTED

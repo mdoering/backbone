@@ -1,5 +1,4 @@
-Byssopeltis maranhensis Bat., J.L. Bezerra & T.T. Barros, 1970 SPECIES
-=======
+# Byssopeltis maranhensis Bat., J.L. Bezerra & T.T. Barros, 1970 SPECIES
 
 #### Status
 ACCEPTED

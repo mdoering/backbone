@@ -1,5 +1,4 @@
-Diplotomma vezdanum (P. Scholz & Knoph) Coppins SPECIES
-=======
+# Diplotomma vezdanum (P. Scholz & Knoph) Coppins SPECIES
 
 #### Status
 ACCEPTED

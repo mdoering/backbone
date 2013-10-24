@@ -1,5 +1,4 @@
-Hypocrea protocitrina Yoshim. Doi SPECIES
-=======
+# Hypocrea protocitrina Yoshim. Doi SPECIES
 
 #### Status
 ACCEPTED

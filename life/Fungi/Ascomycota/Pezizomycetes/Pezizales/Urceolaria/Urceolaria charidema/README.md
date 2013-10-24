@@ -1,5 +1,4 @@
-Urceolaria charidema Clemente SPECIES
-=======
+# Urceolaria charidema Clemente SPECIES
 
 #### Status
 ACCEPTED

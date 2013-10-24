@@ -1,14 +1,13 @@
-Arthrobotrys cystosporium (Dudd.) Mekht. SPECIES
-=======
+# Geniculifera cystosporia (Dudd.) Rifai, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 2(2): 215 (1975)
 
 #### Original name
 Trichothecium cystosporium Dudd., 1952

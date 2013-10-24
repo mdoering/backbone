@@ -1,5 +1,4 @@
-Lophiostoma psychotriae A.M.C. Tang, K.D. Hyde, K.M. Tsui & R.T. Corlett, 2003 SPECIES
-=======
+# Lophiostoma psychotriae A.M.C. Tang, K.D. Hyde, K.M. Tsui & R.T. Corlett, 2003 SPECIES
 
 #### Status
 ACCEPTED

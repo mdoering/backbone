@@ -1,5 +1,4 @@
-Ceriomyces habanensis anon. SPECIES
-=======
+# Ceriomyces habanensis anon. SPECIES
 
 #### Status
 ACCEPTED

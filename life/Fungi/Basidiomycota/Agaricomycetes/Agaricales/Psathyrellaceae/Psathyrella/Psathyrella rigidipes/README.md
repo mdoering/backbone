@@ -1,5 +1,4 @@
-Psathyrella rigidipes (Peck) A.H. Sm. SPECIES
-=======
+# Psathyrella rigidipes (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

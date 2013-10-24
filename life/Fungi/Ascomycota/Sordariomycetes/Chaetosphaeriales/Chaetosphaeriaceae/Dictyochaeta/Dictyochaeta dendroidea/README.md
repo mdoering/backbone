@@ -1,5 +1,4 @@
-Dictyochaeta dendroidea Kuthub., 1987 SPECIES
-=======
+# Dictyochaeta dendroidea Kuthub., 1987 SPECIES
 
 #### Status
 ACCEPTED

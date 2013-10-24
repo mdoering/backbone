@@ -1,5 +1,4 @@
-Graphis cabbalistica Nyl. SPECIES
-=======
+# Graphis cabbalistica Nyl. SPECIES
 
 #### Status
 ACCEPTED

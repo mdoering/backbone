@@ -1,5 +1,4 @@
-"Panaeolus castanefolius (Murr.) Ola'h" SPECIES
-=======
+# "Panaeolus castanefolius (Murr.) Ola'h" SPECIES
 
 #### Status
 ACCEPTED

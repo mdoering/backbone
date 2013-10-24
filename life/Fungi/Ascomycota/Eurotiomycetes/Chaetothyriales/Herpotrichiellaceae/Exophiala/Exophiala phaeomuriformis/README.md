@@ -1,14 +1,13 @@
-Sarcinomyces phaeomuriformis Tad. Matsumoto, A.A. Padhye, Ajello & McGinnis, 1986 SPECIES
-=======
+# Exophiala phaeomuriformis (T. Matsumoto, A.A. Padhye, Ajello & McGinnis) Matos, Haase & De Hoog, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Med. Vet. Mycol. 24(5): 396 (1986)
+in Matos, Haase, Gerrits van den Ende & de Hoog, Antonie van Leeuwenhoek 83(4): 298 (2003)
 
 #### Original name
 Sarcinomyces phaeomuriformis Tad. Matsumoto, A.A. Padhye, Ajello & McGinnis, 1986

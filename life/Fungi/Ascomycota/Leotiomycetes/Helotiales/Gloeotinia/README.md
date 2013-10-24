@@ -1,5 +1,4 @@
-Gloeotinia M. Wilson, Noble & E.G. Gray, 1954 GENUS
-=======
+# Gloeotinia M. Wilson, Noble & E.G. Gray, 1954 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia togashiana Syd. SPECIES
-=======
+# Diplodia togashiana Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Disporium versicolor (Link) Léman SPECIES
-=======
+# Disporium versicolor (Link) Léman SPECIES
 
 #### Status
 ACCEPTED

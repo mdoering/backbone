@@ -1,17 +1,16 @@
-Cercospora uranae S. Narayan, P.N. Singh & G.P. Rao SPECIES
-=======
+# Cercospora urenae S. Narayan, P.N. Singh & G.P. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Sugarcane Pathology (Enfield), <b>1</b>: Fungal Diseases 90 (1999)
 
 #### Original name
-Cercospora uranae S. Narayan, P.N. Singh & G.P. Rao
+Cercospora urenae S. Narayan, P.N. Singh & G.P. Rao
 
 ### Remarks
 null

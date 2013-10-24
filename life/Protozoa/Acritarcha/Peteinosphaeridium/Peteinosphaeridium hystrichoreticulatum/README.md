@@ -1,5 +1,4 @@
-Peteinosphaeridium hystrichoreticulatum (Eisenack, 1938) Eisenack et al., 1973 SPECIES
-=======
+# Peteinosphaeridium hystrichoreticulatum (Eisenack, 1938) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

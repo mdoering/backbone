@@ -1,5 +1,4 @@
-Lobaria sphyridioides (Vain.) Yoshim. SPECIES
-=======
+# Lobaria sphyridioides (Vain.) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

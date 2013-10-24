@@ -1,5 +1,4 @@
-Perisporiopsis lantanae (F. Stevens) R.W. Barreto, 1995 SPECIES
-=======
+# Perisporiopsis lantanae (F. Stevens) R.W. Barreto, 1995 SPECIES
 
 #### Status
 ACCEPTED

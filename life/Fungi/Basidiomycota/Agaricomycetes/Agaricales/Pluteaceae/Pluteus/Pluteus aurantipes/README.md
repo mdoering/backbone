@@ -1,5 +1,4 @@
-Pluteus aurantipes Minnis, Sundb. & Nelsen, 2006 SPECIES
-=======
+# Pluteus aurantipes Minnis, Sundb. & Nelsen, 2006 SPECIES
 
 #### Status
 ACCEPTED

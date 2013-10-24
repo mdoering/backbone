@@ -1,17 +1,16 @@
-Stemonaria fuscoides var. longipes Y. Yamam. & Nann.-Bremek. VARIETY
-=======
+# Stemonaria fuscoides Nann.-Bremek. & Y. Yamam., 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. 98(3): 325 (1995)
+in Nannenga-Bremekamp, Yamamoto & Sharma, Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 87(4): 460 (1984)
 
 #### Original name
-Stemonaria fuscoides var. longipes Y. Yamam. & Nann.-Bremek.
+Stemonaria fuscoides Nann.-Bremek. & Y. Yamam., 1984
 
 ### Remarks
 null

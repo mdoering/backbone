@@ -1,5 +1,4 @@
-Arthothelium burollettii B. de Lesd. SPECIES
-=======
+# Arthothelium burollettii B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

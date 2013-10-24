@@ -1,5 +1,4 @@
-Valsella myriotheca (Pass.) Sacc. SPECIES
-=======
+# Valsella myriotheca (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

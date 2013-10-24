@@ -1,5 +1,4 @@
-Blastenia hexaspora (Hue) Zahlbr. SPECIES
-=======
+# Blastenia hexaspora (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

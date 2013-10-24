@@ -1,5 +1,4 @@
-Curvularia pseudorobusta Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Curvularia pseudorobusta Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

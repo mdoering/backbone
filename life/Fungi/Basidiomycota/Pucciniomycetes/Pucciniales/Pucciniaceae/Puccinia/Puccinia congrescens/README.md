@@ -1,5 +1,4 @@
-Puccinia congrescens Ellis & Everh. SPECIES
-=======
+# Puccinia congrescens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

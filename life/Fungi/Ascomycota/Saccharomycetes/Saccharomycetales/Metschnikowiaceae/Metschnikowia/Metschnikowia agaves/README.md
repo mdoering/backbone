@@ -1,5 +1,4 @@
-Metschnikowia agaves Lachance, 1993 SPECIES
-=======
+# Metschnikowia agaves Lachance, 1993 SPECIES
 
 #### Status
 ACCEPTED

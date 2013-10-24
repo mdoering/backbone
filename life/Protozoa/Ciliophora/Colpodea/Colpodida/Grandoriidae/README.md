@@ -1,5 +1,4 @@
-Grandoriidae FAMILY
-=======
+# Grandoriidae FAMILY
 
 #### Status
 ACCEPTED

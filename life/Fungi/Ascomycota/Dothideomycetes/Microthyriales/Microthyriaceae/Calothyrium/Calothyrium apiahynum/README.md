@@ -1,5 +1,4 @@
-Calothyrium apiahynum (Speg.) F. Stevens SPECIES
-=======
+# Calothyrium apiahynum (Speg.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

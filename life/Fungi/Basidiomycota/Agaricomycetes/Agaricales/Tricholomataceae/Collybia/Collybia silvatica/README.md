@@ -1,5 +1,4 @@
-Collybia silvatica Raithelh. SPECIES
-=======
+# Collybia silvatica Raithelh. SPECIES
 
 #### Status
 ACCEPTED

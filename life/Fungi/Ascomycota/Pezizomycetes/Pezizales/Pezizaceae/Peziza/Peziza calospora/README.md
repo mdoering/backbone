@@ -1,5 +1,4 @@
-Peziza calospora J. Schröt. SPECIES
-=======
+# Peziza calospora J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

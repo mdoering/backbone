@@ -1,5 +1,4 @@
-Lepiota ochrophylla (Cooke & Massee) Sacc. SPECIES
-=======
+# Lepiota ochrophylla (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

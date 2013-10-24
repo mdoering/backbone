@@ -1,5 +1,4 @@
-Endococcus thalamita Nyl. ex Cromb., 1877 SPECIES
-=======
+# Endococcus thalamita Nyl. ex Cromb., 1877 SPECIES
 
 #### Status
 ACCEPTED

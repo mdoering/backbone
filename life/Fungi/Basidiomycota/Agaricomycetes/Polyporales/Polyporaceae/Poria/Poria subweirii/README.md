@@ -1,5 +1,4 @@
-Poria subweirii Cleland & Rodway SPECIES
-=======
+# Poria subweirii Cleland & Rodway SPECIES
 
 #### Status
 ACCEPTED

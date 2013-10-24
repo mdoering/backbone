@@ -1,5 +1,4 @@
-Reophax hoeglundi Brodniewicz, 1965 SPECIES
-=======
+# Reophax hoeglundi Brodniewicz, 1965 SPECIES
 
 #### Status
 ACCEPTED

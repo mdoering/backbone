@@ -1,5 +1,4 @@
-Parmelia isidiata var. isidiata VARIETY
-=======
+# Parmelia isidiata (Anzi) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia isidiata var. isidiata
+Imbricaria conspersa ** isidiata Anzi
 
 ### Remarks
 null

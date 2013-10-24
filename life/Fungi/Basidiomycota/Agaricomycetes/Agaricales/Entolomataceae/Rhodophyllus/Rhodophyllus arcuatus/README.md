@@ -1,5 +1,4 @@
-Rhodophyllus arcuatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus arcuatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lindtneria Pilát, 1938 GENUS
-=======
+# Lindtneria Pilát, 1938 GENUS
 
 #### Status
 ACCEPTED

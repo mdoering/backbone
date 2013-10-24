@@ -1,5 +1,4 @@
-Sphaeria dispersa Heer SPECIES
-=======
+# Sphaeria dispersa Heer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Brachydinium capitatum F.J.R. Taylor SPECIES
-=======
+# Brachydinium capitatum F.J.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

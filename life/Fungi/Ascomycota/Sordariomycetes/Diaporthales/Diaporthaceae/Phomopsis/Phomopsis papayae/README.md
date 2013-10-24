@@ -1,5 +1,4 @@
-Phomopsis papayae Gonz. Frag. & Cif. SPECIES
-=======
+# Phomopsis papayae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

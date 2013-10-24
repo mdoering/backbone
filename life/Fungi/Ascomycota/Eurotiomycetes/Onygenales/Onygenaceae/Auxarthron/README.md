@@ -1,5 +1,4 @@
-Auxarthron G.F. Orr & Kuehn GENUS
-=======
+# Auxarthron G.F. Orr & Kuehn GENUS
 
 #### Status
 ACCEPTED

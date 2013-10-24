@@ -1,5 +1,4 @@
-Dactylospora mangrovei E.B.G. Jones, Alias, Abdel-Wahab & S.Y. Hsieh SPECIES
-=======
+# Dactylospora mangrovei E.B.G. Jones, Alias, Abdel-Wahab & S.Y. Hsieh SPECIES
 
 #### Status
 ACCEPTED

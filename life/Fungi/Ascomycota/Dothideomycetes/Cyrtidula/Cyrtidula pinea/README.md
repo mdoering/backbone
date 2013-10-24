@@ -1,5 +1,4 @@
-Cyrtidula pinea (Nyl.) Minks SPECIES
-=======
+# Cyrtidula pinea (Nyl.) Minks SPECIES
 
 #### Status
 ACCEPTED

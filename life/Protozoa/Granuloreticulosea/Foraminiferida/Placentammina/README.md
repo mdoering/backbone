@@ -1,5 +1,4 @@
-Placentammina GENUS
-=======
+# Placentammina GENUS
 
 #### Status
 ACCEPTED

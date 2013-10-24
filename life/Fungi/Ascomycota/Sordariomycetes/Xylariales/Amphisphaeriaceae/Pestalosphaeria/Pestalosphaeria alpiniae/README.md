@@ -1,5 +1,4 @@
-Pestalosphaeria alpiniae P.K. Chi & S.Q. Chen SPECIES
-=======
+# Pestalosphaeria alpiniae P.K. Chi & S.Q. Chen SPECIES
 
 #### Status
 ACCEPTED

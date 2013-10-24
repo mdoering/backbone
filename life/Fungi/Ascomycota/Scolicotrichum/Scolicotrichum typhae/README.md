@@ -1,5 +1,4 @@
-Scolicotrichum typhae Ellis & Everh. SPECIES
-=======
+# Scolicotrichum typhae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

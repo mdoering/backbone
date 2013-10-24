@@ -1,5 +1,4 @@
-Mycena subaquosa A.H. Sm. SPECIES
-=======
+# Mycena subaquosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Isothea E.M. Fries, 1849 GENUS
-=======
+# Isothea E.M. Fries, 1849 GENUS
 
 #### Status
 ACCEPTED

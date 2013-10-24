@@ -1,5 +1,4 @@
-Penzigia seriata Theiss. SPECIES
-=======
+# Penzigia seriata Theiss. SPECIES
 
 #### Status
 ACCEPTED

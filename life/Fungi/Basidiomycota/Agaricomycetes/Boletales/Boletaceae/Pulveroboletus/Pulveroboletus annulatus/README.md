@@ -1,5 +1,4 @@
-Pulveroboletus annulatus Heinem. SPECIES
-=======
+# Pulveroboletus annulatus Heinem. SPECIES
 
 #### Status
 ACCEPTED

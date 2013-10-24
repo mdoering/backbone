@@ -1,5 +1,4 @@
-Scutellinia colensoi Massee ex Le Gal, 1967 SPECIES
-=======
+# Scutellinia colensoi Massee ex Le Gal, 1967 SPECIES
 
 #### Status
 ACCEPTED

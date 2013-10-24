@@ -1,8 +1,7 @@
-Urostyla cristata Jerka-Dziadosz, 1964 SPECIES
-=======
+# Pseudourostyla cristata (Jerka-Dziadosz, 1964) Borror, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

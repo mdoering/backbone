@@ -1,5 +1,4 @@
-Lecanora pseudosarcopidoides M. Brand & van den Boom SPECIES
-=======
+# Lecanora pseudosarcopidoides M. Brand & van den Boom SPECIES
 
 #### Status
 ACCEPTED

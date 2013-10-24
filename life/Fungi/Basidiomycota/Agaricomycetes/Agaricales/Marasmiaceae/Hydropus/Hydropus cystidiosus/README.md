@@ -1,5 +1,4 @@
-Hydropus cystidiosus Singer SPECIES
-=======
+# Hydropus cystidiosus Singer SPECIES
 
 #### Status
 ACCEPTED

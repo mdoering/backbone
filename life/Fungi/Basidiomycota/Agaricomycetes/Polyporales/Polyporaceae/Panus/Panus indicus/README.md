@@ -1,5 +1,4 @@
-Panus indicus Sathe & J.T. Daniel SPECIES
-=======
+# Panus indicus Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

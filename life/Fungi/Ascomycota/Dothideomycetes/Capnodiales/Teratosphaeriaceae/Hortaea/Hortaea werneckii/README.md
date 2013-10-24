@@ -1,14 +1,13 @@
-Pullularia werneckii (Horta) G.A. de Vries, 1952 SPECIES
-=======
+# Hortaea werneckii (Horta) Nishim. & Miyaji, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contrib. Knowledge of the Genus Cladosporium Link ex Fries 101 (1952)
+Jap. J. Med. Mycol. 26(2): 145 (1984)
 
 #### Original name
 Cladosporium werneckii Horta, 1921

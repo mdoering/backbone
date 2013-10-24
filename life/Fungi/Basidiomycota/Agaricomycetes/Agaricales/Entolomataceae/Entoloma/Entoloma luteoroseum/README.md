@@ -1,5 +1,4 @@
-Entoloma luteoroseum Hesler SPECIES
-=======
+# Entoloma luteoroseum Hesler SPECIES
 
 #### Status
 ACCEPTED

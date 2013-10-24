@@ -1,5 +1,4 @@
-Tulostoma niveum Kers, 1978 SPECIES
-=======
+# Tulostoma niveum Kers, 1978 SPECIES
 
 #### Status
 ACCEPTED

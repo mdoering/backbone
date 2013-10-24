@@ -1,5 +1,4 @@
-Solenopsora fumosula (Zahlbr.) Zahlbr. SPECIES
-=======
+# Solenopsora fumosula (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

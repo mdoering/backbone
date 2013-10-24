@@ -1,5 +1,4 @@
-Micropuccinia ranunculi (A. Blytt) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia ranunculi (A. Blytt) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

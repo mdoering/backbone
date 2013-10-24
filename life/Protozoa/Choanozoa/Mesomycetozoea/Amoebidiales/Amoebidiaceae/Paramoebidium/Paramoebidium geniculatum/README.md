@@ -1,5 +1,4 @@
-Paramoebidium geniculatum Duboscq, L. Léger & Tuzet SPECIES
-=======
+# Paramoebidium geniculatum Duboscq, L. Léger & Tuzet SPECIES
 
 #### Status
 ACCEPTED

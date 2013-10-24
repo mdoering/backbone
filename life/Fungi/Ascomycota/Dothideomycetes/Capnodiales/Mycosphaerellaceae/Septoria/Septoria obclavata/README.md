@@ -1,5 +1,4 @@
-Septoria obclavata Petr. SPECIES
-=======
+# Septoria obclavata Petr. SPECIES
 
 #### Status
 ACCEPTED

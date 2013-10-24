@@ -1,5 +1,4 @@
-Brestovia L.T. Paskeviciené, 1980 GENUS
-=======
+# Brestovia L.T. Paskeviciené, 1980 GENUS
 
 #### Status
 ACCEPTED

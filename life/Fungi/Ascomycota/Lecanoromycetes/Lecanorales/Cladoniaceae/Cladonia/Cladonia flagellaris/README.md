@@ -1,5 +1,4 @@
-Cladonia flagellaris Ahti & Marcelli SPECIES
-=======
+# Cladonia flagellaris Ahti & Marcelli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleuria granulosa SPECIES
-=======
+# Aleuria granulosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botrytis viridans Pat. SPECIES
-=======
+# Botrytis viridans Pat. SPECIES
 
 #### Status
 ACCEPTED

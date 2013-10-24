@@ -1,5 +1,4 @@
-Clavaria fuscata Oudem. SPECIES
-=======
+# Clavaria fuscata Oudem. SPECIES
 
 #### Status
 ACCEPTED

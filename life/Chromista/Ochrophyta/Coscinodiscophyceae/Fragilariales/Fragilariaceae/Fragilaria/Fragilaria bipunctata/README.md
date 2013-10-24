@@ -1,5 +1,4 @@
-Fragilaria bipunctata Ehrenberg SPECIES
-=======
+# Fragilaria bipunctata Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

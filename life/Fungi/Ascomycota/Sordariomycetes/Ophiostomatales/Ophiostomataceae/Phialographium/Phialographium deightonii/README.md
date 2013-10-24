@@ -1,5 +1,4 @@
-Phialographium deightonii V.G. Rao & B. Sutton SPECIES
-=======
+# Phialographium deightonii V.G. Rao & B. Sutton SPECIES
 
 #### Status
 ACCEPTED

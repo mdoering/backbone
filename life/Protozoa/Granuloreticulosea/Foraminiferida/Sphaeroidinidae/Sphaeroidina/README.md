@@ -1,14 +1,13 @@
-Spheroidina d'Orbigny in Sagra, 1839 GENUS
-=======
+# Sphaeroidina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-in Sagra, Hist. Phys. Cuba, [2] Foram. , 222.
+Ann. Sci. Nat. , 7 (27), 267 (also as Sphoeroidina).
 
 #### Original name
 null

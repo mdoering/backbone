@@ -1,5 +1,4 @@
-Mikrosyphar pachymeniae Lindauer SPECIES
-=======
+# Mikrosyphar pachymeniae Lindauer SPECIES
 
 #### Status
 ACCEPTED

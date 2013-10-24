@@ -1,5 +1,4 @@
-Septomyxa aesculi (Corda) Petr. SPECIES
-=======
+# Septomyxa aesculi (Corda) Petr. SPECIES
 
 #### Status
 ACCEPTED

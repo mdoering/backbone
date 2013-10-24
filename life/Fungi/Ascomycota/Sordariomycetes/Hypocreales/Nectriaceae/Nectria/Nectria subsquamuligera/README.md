@@ -1,5 +1,4 @@
-Nectria subsquamuligera Henn. & E. Nyman SPECIES
-=======
+# Nectria subsquamuligera Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

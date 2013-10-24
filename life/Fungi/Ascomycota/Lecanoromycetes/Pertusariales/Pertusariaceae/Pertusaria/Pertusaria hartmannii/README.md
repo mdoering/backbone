@@ -1,17 +1,16 @@
-Pertusaria albinea Müll. Arg. SPECIES
-=======
+# Pertusaria hartmannii Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Herb. Boissier 3: 639 (1895)
+Flora, Jena 65: 485 (1884)
 
 #### Original name
-Pertusaria albinea Müll. Arg.
+Pertusaria hartmannii Müll. Arg.
 
 ### Remarks
 null

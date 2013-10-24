@@ -1,17 +1,16 @@
-Aplanochytrium kerguelensis Bahnweg & Sparrow SPECIES
-=======
+# Aplanochytrium kerguelense Bahnweg & Sparrow, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Mikrobiol. 81(1): 46 (1972)
 
 #### Original name
-Aplanochytrium kerguelensis Bahnweg & Sparrow
+Aplanochytrium kerguelense Bahnweg & Sparrow, 1972
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Caloplaca buelliae Olech & Søchting SPECIES
-=======
+# Caloplaca buelliae Olech & Søchting SPECIES
 
 #### Status
 ACCEPTED

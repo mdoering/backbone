@@ -1,5 +1,4 @@
-Crepidotus austroandinus Singer SPECIES
-=======
+# Crepidotus austroandinus Singer SPECIES
 
 #### Status
 ACCEPTED

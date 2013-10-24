@@ -1,5 +1,4 @@
-Scleroderma chilense (Mont.) De Toni SPECIES
-=======
+# Scleroderma chilense (Mont.) De Toni SPECIES
 
 #### Status
 ACCEPTED

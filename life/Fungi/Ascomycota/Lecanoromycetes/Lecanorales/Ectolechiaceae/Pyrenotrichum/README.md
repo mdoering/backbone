@@ -1,5 +1,4 @@
-Pyrenotrichum Mont. GENUS
-=======
+# Pyrenotrichum Mont. GENUS
 
 #### Status
 ACCEPTED

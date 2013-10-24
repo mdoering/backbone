@@ -1,11 +1,10 @@
-Mycena debilis sensu J.E. Lange SPECIES
-=======
+# Mycena smithiana Kühner SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Belgian Species List
 
 #### Published in
 null

@@ -1,5 +1,4 @@
-Nodulisporium hepaticum (Wallr.) S. Hughes SPECIES
-=======
+# Nodulisporium hepaticum (Wallr.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

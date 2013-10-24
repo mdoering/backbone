@@ -1,5 +1,4 @@
-Clathrella Penard, 1903 GENUS
-=======
+# Clathrella Penard, 1903 GENUS
 
 #### Status
 ACCEPTED

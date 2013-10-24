@@ -1,5 +1,4 @@
-Mycena sericea Cejp SPECIES
-=======
+# Mycena sericea Cejp SPECIES
 
 #### Status
 ACCEPTED

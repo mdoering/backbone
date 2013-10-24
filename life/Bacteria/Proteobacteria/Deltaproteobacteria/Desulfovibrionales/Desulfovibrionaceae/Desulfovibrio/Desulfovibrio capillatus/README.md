@@ -1,5 +1,4 @@
-Desulfovibrio capillatus Miranda-Tello, Fardeau, Fernandez, Ramirez, Cayol, Thomas, Garcia & Ollivier, 2003 SPECIES
-=======
+# Desulfovibrio capillatus Miranda-Tello, Fardeau, Fernandez, Ramirez, Cayol, Thomas, Garcia & Ollivier, 2003 SPECIES
 
 #### Status
 ACCEPTED

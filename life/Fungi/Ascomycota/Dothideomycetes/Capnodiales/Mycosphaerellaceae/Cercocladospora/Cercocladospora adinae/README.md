@@ -1,5 +1,4 @@
-Cercocladospora adinae G.P. Agarwal & S.M. Singh SPECIES
-=======
+# Cercocladospora adinae G.P. Agarwal & S.M. Singh SPECIES
 
 #### Status
 ACCEPTED

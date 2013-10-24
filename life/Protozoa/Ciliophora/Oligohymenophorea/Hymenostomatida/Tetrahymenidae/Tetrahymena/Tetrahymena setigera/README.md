@@ -1,5 +1,4 @@
-Tetrahymena setigera Corliss SPECIES
-=======
+# Tetrahymena setigera Corliss SPECIES
 
 #### Status
 ACCEPTED

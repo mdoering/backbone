@@ -1,5 +1,4 @@
-Acroconidiellina loudetiae M.B. Ellis, 1971 SPECIES
-=======
+# Acroconidiellina loudetiae M.B. Ellis, 1971 SPECIES
 
 #### Status
 ACCEPTED

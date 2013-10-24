@@ -1,11 +1,10 @@
-Biscogniauxia philippinensis subsp. philippinensis SUBSPECIES
-=======
+# Biscogniauxia philippinensis (Ricker) Whalley & Laessøe, 1990 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null

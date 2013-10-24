@@ -1,5 +1,4 @@
-Omphalia anthidepas (Berk. & Broome) Sacc. SPECIES
-=======
+# Omphalia anthidepas (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizoxylon punctatum Sherwood SPECIES
-=======
+# Schizoxylon punctatum Sherwood SPECIES
 
 #### Status
 ACCEPTED

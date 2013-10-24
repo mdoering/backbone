@@ -1,5 +1,4 @@
-Naucoria radicata Murrill SPECIES
-=======
+# Naucoria radicata Murrill SPECIES
 
 #### Status
 ACCEPTED

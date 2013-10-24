@@ -1,5 +1,4 @@
-Epistylis mirandella Dumas, 1930 SPECIES
-=======
+# Epistylis mirandella Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

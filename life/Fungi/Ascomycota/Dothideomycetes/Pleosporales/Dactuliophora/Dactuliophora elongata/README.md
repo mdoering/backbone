@@ -1,5 +1,4 @@
-Dactuliophora elongata C.L. Leakey SPECIES
-=======
+# Dactuliophora elongata C.L. Leakey SPECIES
 
 #### Status
 ACCEPTED

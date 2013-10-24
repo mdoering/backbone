@@ -1,5 +1,4 @@
-Bosea vestrisii La Scola et al., 2003 SPECIES
-=======
+# Bosea vestrisii La Scola et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

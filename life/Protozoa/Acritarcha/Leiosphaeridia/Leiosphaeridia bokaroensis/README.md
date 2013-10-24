@@ -1,5 +1,4 @@
-Leiosphaeridia bokaroensis K. M. Lele SPECIES
-=======
+# Leiosphaeridia bokaroensis K. M. Lele SPECIES
 
 #### Status
 ACCEPTED

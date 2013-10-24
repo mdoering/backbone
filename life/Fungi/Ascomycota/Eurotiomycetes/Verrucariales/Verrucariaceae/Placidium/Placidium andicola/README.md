@@ -1,5 +1,4 @@
-Placidium andicola (Breuss) Breuss SPECIES
-=======
+# Placidium andicola (Breuss) Breuss SPECIES
 
 #### Status
 ACCEPTED

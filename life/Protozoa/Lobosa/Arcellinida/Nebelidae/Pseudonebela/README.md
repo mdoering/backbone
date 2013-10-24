@@ -1,5 +1,4 @@
-Pseudonebela Gauthier-Lièvre, 1954 GENUS
-=======
+# Pseudonebela Gauthier-Lièvre, 1954 GENUS
 
 #### Status
 ACCEPTED

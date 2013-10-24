@@ -1,14 +1,13 @@
-Phoma lupini Ellis & Everh., 1884 SPECIES
-=======
+# Asteromella lupini (Ellis & Everh.) Petr., 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 9: 495 (1955)
 
 #### Original name
 Phoma lupini Ellis & Everh., 1884

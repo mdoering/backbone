@@ -1,5 +1,4 @@
-Mycena discobasis Métrod SPECIES
-=======
+# Mycena discobasis Métrod SPECIES
 
 #### Status
 ACCEPTED

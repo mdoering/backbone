@@ -1,5 +1,4 @@
-Lactifluus insulsus (Fr.) Kuntze SPECIES
-=======
+# Lactifluus insulsus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

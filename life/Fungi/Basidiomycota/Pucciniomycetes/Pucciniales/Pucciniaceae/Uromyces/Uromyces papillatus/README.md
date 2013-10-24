@@ -1,5 +1,4 @@
-Uromyces papillatus Kalchbr. & Cooke SPECIES
-=======
+# Uromyces papillatus Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermoflavimicrobium Yoon, Kim, Shin & Park, 2005 GENUS
-=======
+# Thermoflavimicrobium Yoon, Kim, Shin & Park, 2005 GENUS
 
 #### Status
 ACCEPTED

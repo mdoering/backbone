@@ -1,5 +1,4 @@
-Clavatisporella musicola K.D. Hyde, 1995 SPECIES
-=======
+# Clavatisporella musicola K.D. Hyde, 1995 SPECIES
 
 #### Status
 ACCEPTED

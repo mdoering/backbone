@@ -1,5 +1,4 @@
-Amanita aurantiobrunnea C.M. Simmons, T.W. Henkel & Bas SPECIES
-=======
+# Amanita aurantiobrunnea C.M. Simmons, T.W. Henkel & Bas SPECIES
 
 #### Status
 ACCEPTED

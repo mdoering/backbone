@@ -1,5 +1,4 @@
-Gloeosporium convallariae Allesch. SPECIES
-=======
+# Gloeosporium convallariae Allesch. SPECIES
 
 #### Status
 ACCEPTED

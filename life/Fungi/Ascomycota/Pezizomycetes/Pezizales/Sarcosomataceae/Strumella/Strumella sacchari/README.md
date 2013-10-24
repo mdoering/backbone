@@ -1,5 +1,4 @@
-Strumella sacchari Cooke SPECIES
-=======
+# Strumella sacchari Cooke SPECIES
 
 #### Status
 ACCEPTED

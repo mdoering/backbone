@@ -1,5 +1,4 @@
-Parmelina melanochaeta (Kurok.) Hale SPECIES
-=======
+# Parmelina melanochaeta (Kurok.) Hale SPECIES
 
 #### Status
 ACCEPTED

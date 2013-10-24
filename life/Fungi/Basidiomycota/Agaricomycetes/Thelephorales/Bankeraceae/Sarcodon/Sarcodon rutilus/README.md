@@ -1,5 +1,4 @@
-Sarcodon rutilus Maas Geest., 1974 SPECIES
-=======
+# Sarcodon rutilus Maas Geest., 1974 SPECIES
 
 #### Status
 ACCEPTED

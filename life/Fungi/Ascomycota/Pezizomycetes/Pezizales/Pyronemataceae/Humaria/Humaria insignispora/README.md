@@ -1,5 +1,4 @@
-Humaria insignispora Boud. & Torrend SPECIES
-=======
+# Humaria insignispora Boud. & Torrend SPECIES
 
 #### Status
 ACCEPTED

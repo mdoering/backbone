@@ -1,5 +1,4 @@
-Coscinodiscus granulosus (Grunow) Grunow in Cleve & Grunow, 1880 SPECIES
-=======
+# Coscinodiscus granulosus (Grunow) Grunow in Cleve & Grunow, 1880 SPECIES
 
 #### Status
 ACCEPTED

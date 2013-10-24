@@ -1,5 +1,4 @@
-Dermoloma hybridum (Kühner) Bon SPECIES
-=======
+# Dermoloma hybridum (Kühner) Bon SPECIES
 
 #### Status
 ACCEPTED

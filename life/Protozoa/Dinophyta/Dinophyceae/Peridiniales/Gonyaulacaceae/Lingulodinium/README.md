@@ -1,11 +1,10 @@
-Trioperculodinium W.S. Drugg, 1970 GENUS
-=======
+# Lingulodinium D. Wall, 1967 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Integrated Taxonomic Information System
 
 #### Published in
 null

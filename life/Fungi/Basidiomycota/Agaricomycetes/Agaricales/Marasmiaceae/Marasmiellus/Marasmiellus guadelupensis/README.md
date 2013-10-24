@@ -1,14 +1,13 @@
-Marasmiellus guadalupensis (Pat.) Singer SPECIES
-=======
+# Marasmiellus guadelupensis (Pat.) Singer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lilloa 22: 219 (1973)
 
 #### Original name
 Xerotus guadelupensis Pat.

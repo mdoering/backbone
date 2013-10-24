@@ -1,5 +1,4 @@
-Caloplaca lacinulata (Hue) Zahlbr. SPECIES
-=======
+# Caloplaca lacinulata (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

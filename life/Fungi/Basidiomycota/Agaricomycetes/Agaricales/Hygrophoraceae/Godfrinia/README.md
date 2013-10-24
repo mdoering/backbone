@@ -1,5 +1,4 @@
-Godfrinia GENUS
-=======
+# Godfrinia GENUS
 
 #### Status
 ACCEPTED

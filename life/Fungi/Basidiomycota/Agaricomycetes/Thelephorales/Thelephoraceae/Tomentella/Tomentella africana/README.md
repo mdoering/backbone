@@ -1,5 +1,4 @@
-Tomentella africana Yorou & Agerer SPECIES
-=======
+# Tomentella africana Yorou & Agerer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia dilecta Syd. SPECIES
-=======
+# Puccinia dilecta Syd. SPECIES
 
 #### Status
 ACCEPTED

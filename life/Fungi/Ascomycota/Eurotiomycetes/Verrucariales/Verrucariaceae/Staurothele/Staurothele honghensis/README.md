@@ -1,5 +1,4 @@
-Staurothele honghensis H. Harada & Li S. Wang SPECIES
-=======
+# Staurothele honghensis H. Harada & Li S. Wang SPECIES
 
 #### Status
 ACCEPTED

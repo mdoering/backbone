@@ -1,17 +1,16 @@
-Boletus affinis var. affinis Peck VARIETY
-=======
+# Xanthoconium affine (Peck) Singer, 1944 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. Reg. Univ. St. N. Y. 25: 81 (1873)
+Mycologia 36(4): 362 (1944)
 
 #### Original name
-Boletus affinis var. affinis Peck
+Boletus affinis Peck, 1873
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Marasmius rotaliformis Singer SPECIES
-=======
+# Marasmius rotaliformis Singer SPECIES
 
 #### Status
 ACCEPTED

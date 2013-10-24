@@ -1,5 +1,4 @@
-Calopadia imshaugii Common & Lücking SPECIES
-=======
+# Calopadia imshaugii Common & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum expansum Kuntze SPECIES
-=======
+# Sargassum expansum Kuntze SPECIES
 
 #### Status
 ACCEPTED

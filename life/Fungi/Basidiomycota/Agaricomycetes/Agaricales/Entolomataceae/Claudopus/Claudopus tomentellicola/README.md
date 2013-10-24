@@ -1,5 +1,4 @@
-Claudopus tomentellicola Höhn. SPECIES
-=======
+# Claudopus tomentellicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

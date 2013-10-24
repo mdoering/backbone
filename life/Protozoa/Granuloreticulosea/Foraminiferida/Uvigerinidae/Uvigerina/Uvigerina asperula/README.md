@@ -1,5 +1,4 @@
-Uvigerina asperula Czjzek, 1848 SPECIES
-=======
+# Uvigerina asperula Czjzek, 1848 SPECIES
 
 #### Status
 ACCEPTED

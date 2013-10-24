@@ -1,5 +1,4 @@
-Acinetides gruberi SPECIES
-=======
+# Acinetides gruberi SPECIES
 
 #### Status
 ACCEPTED

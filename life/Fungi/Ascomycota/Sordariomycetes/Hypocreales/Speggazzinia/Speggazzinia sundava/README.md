@@ -1,5 +1,4 @@
-Speggazzinia sundava Subramanian SPECIES
-=======
+# Speggazzinia sundava Subramanian SPECIES
 
 #### Status
 ACCEPTED

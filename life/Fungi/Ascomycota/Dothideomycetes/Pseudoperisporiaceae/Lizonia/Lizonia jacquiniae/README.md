@@ -1,5 +1,4 @@
-Lizonia jacquiniae Briard & Har. SPECIES
-=======
+# Lizonia jacquiniae Briard & Har. SPECIES
 
 #### Status
 ACCEPTED

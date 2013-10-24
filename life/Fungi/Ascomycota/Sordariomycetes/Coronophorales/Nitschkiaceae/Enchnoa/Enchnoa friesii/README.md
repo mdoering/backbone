@@ -1,5 +1,4 @@
-Enchnoa friesii var. friesii VARIETY
-=======
+# Enchnoa friesii Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Enchnoa friesii var. friesii
+Enchnoa friesii Fuckel
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus atratoides Peck SPECIES
-=======
+# Agaricus atratoides Peck SPECIES
 
 #### Status
 ACCEPTED

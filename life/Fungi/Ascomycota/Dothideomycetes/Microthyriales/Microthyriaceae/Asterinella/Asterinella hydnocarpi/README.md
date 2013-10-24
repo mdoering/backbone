@@ -1,5 +1,4 @@
-Asterinella hydnocarpi H.S. Yates SPECIES
-=======
+# Asterinella hydnocarpi H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

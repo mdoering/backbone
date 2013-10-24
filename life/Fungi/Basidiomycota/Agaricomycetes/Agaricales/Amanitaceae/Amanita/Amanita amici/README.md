@@ -1,5 +1,4 @@
-Amanita amici f. amici Gillet FORM
-=======
+# Amanita amici Gillet SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita amici f. amici Gillet
+Amanita amici Gillet
 
 ### Remarks
 null

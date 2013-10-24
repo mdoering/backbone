@@ -1,5 +1,4 @@
-Hansenula miso SPECIES
-=======
+# Hansenula miso SPECIES
 
 #### Status
 ACCEPTED

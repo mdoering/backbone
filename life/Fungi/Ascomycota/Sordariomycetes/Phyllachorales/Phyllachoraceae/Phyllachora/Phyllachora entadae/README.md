@@ -1,5 +1,4 @@
-Phyllachora entadae Racib. ex Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora entadae Racib. ex Theiss. & Syd., 1915 SPECIES
 
 #### Status
 ACCEPTED

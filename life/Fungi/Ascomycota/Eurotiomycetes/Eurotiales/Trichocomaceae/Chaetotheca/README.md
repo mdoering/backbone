@@ -1,5 +1,4 @@
-Chaetotheca Zukal GENUS
-=======
+# Chaetotheca Zukal GENUS
 
 #### Status
 ACCEPTED

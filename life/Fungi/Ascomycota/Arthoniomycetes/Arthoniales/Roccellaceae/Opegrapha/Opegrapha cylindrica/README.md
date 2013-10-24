@@ -1,5 +1,4 @@
-Opegrapha cylindrica Raddi SPECIES
-=======
+# Opegrapha cylindrica Raddi SPECIES
 
 #### Status
 ACCEPTED

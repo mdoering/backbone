@@ -1,5 +1,4 @@
-Myxacium alpinum (Boud.) M.M. Moser SPECIES
-=======
+# Myxacium alpinum (Boud.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

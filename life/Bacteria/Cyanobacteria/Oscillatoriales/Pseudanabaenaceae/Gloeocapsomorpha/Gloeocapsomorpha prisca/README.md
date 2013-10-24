@@ -1,5 +1,4 @@
-Gloeocapsomorpha prisca Zalessky, 1917 emend. Foster, Reed & Wicander SPECIES
-=======
+# Gloeocapsomorpha prisca Zalessky, 1917 emend. Foster, Reed & Wicander SPECIES
 
 #### Status
 ACCEPTED

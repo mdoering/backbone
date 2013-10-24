@@ -1,14 +1,13 @@
-Cheiromyces montellica (Sacc.) R.T. Moore SPECIES
-=======
+# Cheiromyces montellicus (Sacc.) R.T. Moore SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 50(5): 682 (1959)
 
 #### Original name
 Stigmella montellica Sacc.

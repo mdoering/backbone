@@ -1,5 +1,4 @@
-Phyllachora melaspilea Syd., 1937 SPECIES
-=======
+# Phyllachora melaspilea Syd., 1937 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phonergates Buck, 1877 GENUS
-=======
+# Phonergates Buck, 1877 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Piricauda serendipita R.T. Moore SPECIES
-=======
+# Piricauda serendipita R.T. Moore SPECIES
 
 #### Status
 ACCEPTED

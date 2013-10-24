@@ -1,5 +1,4 @@
-Aspergillus clavatonanica Bat., Maia & Alecrim SPECIES
-=======
+# Aspergillus clavatonanica Bat., Maia & Alecrim SPECIES
 
 #### Status
 ACCEPTED

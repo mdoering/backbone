@@ -1,5 +1,4 @@
-Mycosphaerella cleyerae Ts. Kobay. SPECIES
-=======
+# Mycosphaerella cleyerae Ts. Kobay. SPECIES
 
 #### Status
 ACCEPTED

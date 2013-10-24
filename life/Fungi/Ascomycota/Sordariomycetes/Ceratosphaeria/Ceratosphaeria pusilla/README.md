@@ -1,5 +1,4 @@
-Ceratosphaeria pusilla (Fuckel) Sacc. SPECIES
-=======
+# Ceratosphaeria pusilla (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

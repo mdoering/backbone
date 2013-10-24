@@ -1,5 +1,4 @@
-Asterella bignoniae (Ellis & Everh.) Sacc. SPECIES
-=======
+# Asterella bignoniae (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

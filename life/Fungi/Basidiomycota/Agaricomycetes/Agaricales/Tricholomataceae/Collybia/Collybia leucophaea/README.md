@@ -1,5 +1,4 @@
-Collybia leucophaea Berk. & Broome SPECIES
-=======
+# Collybia leucophaea Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

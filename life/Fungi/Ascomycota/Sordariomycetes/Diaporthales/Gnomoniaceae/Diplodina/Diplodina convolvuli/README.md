@@ -1,5 +1,4 @@
-Diplodina convolvuli (Fautrey) Allesch. SPECIES
-=======
+# Diplodina convolvuli (Fautrey) Allesch. SPECIES
 
 #### Status
 ACCEPTED

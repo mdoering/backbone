@@ -1,5 +1,4 @@
-Lecanora eurycarpa Poelt, Leuckert & Cl. Roux SPECIES
-=======
+# Lecanora eurycarpa Poelt, Leuckert & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

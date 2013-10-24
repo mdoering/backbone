@@ -1,5 +1,4 @@
-Xylaria castarea Berk. SPECIES
-=======
+# Xylaria castarea Berk. SPECIES
 
 #### Status
 ACCEPTED

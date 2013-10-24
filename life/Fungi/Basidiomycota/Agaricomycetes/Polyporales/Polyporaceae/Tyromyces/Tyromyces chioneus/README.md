@@ -1,14 +1,13 @@
-Leptoporus albellus subsp. chioneus (Fr.) Bourdot & Galzin SUBSPECIES
-=======
+# Tyromyces chioneus (Fr.) P. Karst., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 41: 125 (1925)
+Revue mycol. , Toulouse 3(9): 17 (1881)
 
 #### Original name
 Polyporus chioneus Fr., 1815

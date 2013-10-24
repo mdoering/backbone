@@ -1,5 +1,4 @@
-Eumonadidae FAMILY
-=======
+# Eumonadidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena roseipallens Murrill SPECIES
-=======
+# Mycena roseipallens Murrill SPECIES
 
 #### Status
 ACCEPTED

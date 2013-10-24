@@ -1,5 +1,4 @@
-Pholiota violacea Beeli SPECIES
-=======
+# Pholiota violacea Beeli SPECIES
 
 #### Status
 ACCEPTED

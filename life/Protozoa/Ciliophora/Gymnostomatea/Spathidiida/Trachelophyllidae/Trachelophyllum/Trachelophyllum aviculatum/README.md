@@ -1,5 +1,4 @@
-Trachelophyllum aviculatum SPECIES
-=======
+# Trachelophyllum aviculatum SPECIES
 
 #### Status
 ACCEPTED

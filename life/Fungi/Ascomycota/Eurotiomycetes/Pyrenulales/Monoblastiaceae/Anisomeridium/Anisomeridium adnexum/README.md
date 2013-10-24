@@ -1,5 +1,4 @@
-Anisomeridium adnexum (Müll. Arg.) R.C. Harris SPECIES
-=======
+# Anisomeridium adnexum (Müll. Arg.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

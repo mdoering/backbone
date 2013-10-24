@@ -1,5 +1,4 @@
-Lachnum macroparaphysatum Raitv. SPECIES
-=======
+# Lachnum macroparaphysatum Raitv. SPECIES
 
 #### Status
 ACCEPTED

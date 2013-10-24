@@ -1,5 +1,4 @@
-Dicaeoma alyxiae (Cooke & Massee) Kuntze SPECIES
-=======
+# Dicaeoma alyxiae (Cooke & Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea percaena Ach. SPECIES
-=======
+# Lecidea percaena Ach. SPECIES
 
 #### Status
 ACCEPTED

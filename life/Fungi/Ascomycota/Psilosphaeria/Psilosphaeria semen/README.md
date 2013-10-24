@@ -1,5 +1,4 @@
-Psilosphaeria semen (Cooke & Peck) Cooke SPECIES
-=======
+# Psilosphaeria semen (Cooke & Peck) Cooke SPECIES
 
 #### Status
 ACCEPTED

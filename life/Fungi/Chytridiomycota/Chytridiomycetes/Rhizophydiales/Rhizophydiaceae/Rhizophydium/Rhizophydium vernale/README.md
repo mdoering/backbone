@@ -1,5 +1,4 @@
-Rhizophydium vernale (Zopf) Sparrow SPECIES
-=======
+# Rhizophydium vernale (Zopf) Sparrow SPECIES
 
 #### Status
 ACCEPTED

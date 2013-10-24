@@ -1,5 +1,4 @@
-Crepidotus neocystidiosus P.G. Liu SPECIES
-=======
+# Crepidotus neocystidiosus P.G. Liu SPECIES
 
 #### Status
 ACCEPTED

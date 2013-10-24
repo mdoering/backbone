@@ -1,5 +1,4 @@
-Exosporium macrurum Sacc. SPECIES
-=======
+# Exosporium macrurum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium verrucosum Schultz. {?} SPECIES
-=======
+# Aecidium verrucosum Schultz. {?} SPECIES
 
 #### Status
 ACCEPTED

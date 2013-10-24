@@ -1,5 +1,4 @@
-Verrucaria mundula var. mundula P. M. McCarthy VARIETY
-=======
+# Verrucaria mundula P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Lichenologist 27(2): 113 (1995)
 
 #### Original name
-Verrucaria mundula var. mundula P. M. McCarthy
+Verrucaria mundula P. M. McCarthy
 
 ### Remarks
 null

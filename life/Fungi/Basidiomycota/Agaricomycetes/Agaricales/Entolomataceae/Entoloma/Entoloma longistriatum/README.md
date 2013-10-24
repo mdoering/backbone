@@ -1,17 +1,16 @@
-Rhodophyllus sarcitulus var. sarcitulus VARIETY
-=======
+# Entoloma longistriatum (Peck) Noordel. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Rhodophyllus sarcitulus var. sarcitulus
+null
 
 ### Remarks
 null

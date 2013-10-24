@@ -1,17 +1,16 @@
-Gonohymenia cribellifera subsp. cribellifera SUBSPECIES
-=======
+# Lichinella cribellifera (Nyl.) P. P. Moreno & Egea SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. dt. bot. Ges. 92(2-3): 486 (1980)
+Cryptog. Bryol. -Lichénol. 13(3): 243 (1992)
 
 #### Original name
-Gonohymenia cribellifera subsp. cribellifera
+Omphalaria cribellifera Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phaeotrema palmense (Vain.) Zahlbr. SPECIES
-=======
+# Phaeotrema palmense (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

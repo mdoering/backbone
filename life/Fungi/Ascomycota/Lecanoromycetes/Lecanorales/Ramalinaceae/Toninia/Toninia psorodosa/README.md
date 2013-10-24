@@ -1,5 +1,4 @@
-Toninia psorodosa A. Massal. SPECIES
-=======
+# Toninia psorodosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia pseudorevoluta Gyeln. SPECIES
-=======
+# Parmelia pseudorevoluta Gyeln. SPECIES
 
 #### Status
 ACCEPTED

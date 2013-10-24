@@ -1,5 +1,4 @@
-Multiplicisphaeridium osgoodense (Cramer & Díez, 1972) Eisenack et al. SPECIES
-=======
+# Multiplicisphaeridium osgoodense (Cramer & Díez, 1972) Eisenack et al. SPECIES
 
 #### Status
 ACCEPTED

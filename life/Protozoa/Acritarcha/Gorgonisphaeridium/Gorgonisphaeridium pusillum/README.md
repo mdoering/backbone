@@ -1,5 +1,4 @@
-Gorgonisphaeridium pusillum Playford & Wicander, 1988 SPECIES
-=======
+# Gorgonisphaeridium pusillum Playford & Wicander, 1988 SPECIES
 
 #### Status
 ACCEPTED

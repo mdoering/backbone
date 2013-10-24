@@ -1,5 +1,4 @@
-Nectria chrysolepis Pat. SPECIES
-=======
+# Nectria chrysolepis Pat. SPECIES
 
 #### Status
 ACCEPTED

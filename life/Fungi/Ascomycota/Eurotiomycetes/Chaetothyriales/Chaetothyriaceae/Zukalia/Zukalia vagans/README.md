@@ -1,5 +1,4 @@
-Zukalia vagans var. vagans VARIETY
-=======
+# Zukalia vagans Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Revta Mus. La Plata 15(2): 14 (1908)
 
 #### Original name
-Zukalia vagans var. vagans
+Zukalia vagans Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Urostyloides GENUS
-=======
+# Urostyloides GENUS
 
 #### Status
 ACCEPTED

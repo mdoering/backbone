@@ -1,5 +1,4 @@
-Silicibacter lacuscaerulensis Petursdottir & Kristjansson, 1999 SPECIES
-=======
+# Silicibacter lacuscaerulensis Petursdottir & Kristjansson, 1999 SPECIES
 
 #### Status
 ACCEPTED

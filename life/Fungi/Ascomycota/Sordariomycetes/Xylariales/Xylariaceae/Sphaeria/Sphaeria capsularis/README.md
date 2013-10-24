@@ -1,5 +1,4 @@
-Sphaeria capsularis Pers. SPECIES
-=======
+# Sphaeria capsularis Pers. SPECIES
 
 #### Status
 ACCEPTED

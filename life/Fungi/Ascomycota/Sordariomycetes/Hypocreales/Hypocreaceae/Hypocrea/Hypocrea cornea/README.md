@@ -1,5 +1,4 @@
-Hypocrea cornea Pat., 1890 SPECIES
-=======
+# Hypocrea cornea Pat., 1890 SPECIES
 
 #### Status
 ACCEPTED

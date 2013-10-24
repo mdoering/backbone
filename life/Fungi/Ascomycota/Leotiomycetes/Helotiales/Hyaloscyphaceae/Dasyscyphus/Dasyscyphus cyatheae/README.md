@@ -1,8 +1,7 @@
-Dasyscypha cyatheae Rehm SPECIES
-=======
+# Dasyscyphus cyatheae Rehm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha cyatheae Rehm
+Dasyscyphus cyatheae Rehm
 
 ### Remarks
 null

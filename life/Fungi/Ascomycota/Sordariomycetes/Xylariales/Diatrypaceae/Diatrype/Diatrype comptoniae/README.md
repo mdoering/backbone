@@ -1,5 +1,4 @@
-Diatrype comptoniae Ellis & Everh. SPECIES
-=======
+# Diatrype comptoniae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

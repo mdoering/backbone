@@ -1,5 +1,4 @@
-Caloplaca herrei Hasse SPECIES
-=======
+# Caloplaca herrei Hasse SPECIES
 
 #### Status
 ACCEPTED

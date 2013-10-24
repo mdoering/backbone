@@ -1,5 +1,4 @@
-Rugosomyces obscuratus (P. Karst.) Kalamees SPECIES
-=======
+# Rugosomyces obscuratus (P. Karst.) Kalamees SPECIES
 
 #### Status
 ACCEPTED

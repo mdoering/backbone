@@ -1,5 +1,4 @@
-Stephanotheca sydowii Petr. SPECIES
-=======
+# Stephanotheca sydowii Petr. SPECIES
 
 #### Status
 ACCEPTED

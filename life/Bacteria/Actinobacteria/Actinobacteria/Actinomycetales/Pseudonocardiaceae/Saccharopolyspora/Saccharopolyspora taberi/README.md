@@ -1,8 +1,7 @@
-Saccharopolyspora hirsuta subsp. taberi Labeda, 1987 SUBSPECIES
-=======
+# Saccharopolyspora taberi (Labeda, 1987) Korn-Wendisch et al., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

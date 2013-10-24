@@ -1,5 +1,4 @@
-Lecanora kalmusii Opiz SPECIES
-=======
+# Lecanora kalmusii Opiz SPECIES
 
 #### Status
 ACCEPTED

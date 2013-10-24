@@ -1,5 +1,4 @@
-Hymenochaete proxima Rick, 1934 SPECIES
-=======
+# Hymenochaete proxima Rick, 1934 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favostroma B. Sutton & E.M. Davison GENUS
-=======
+# Favostroma B. Sutton & E.M. Davison GENUS
 
 #### Status
 ACCEPTED

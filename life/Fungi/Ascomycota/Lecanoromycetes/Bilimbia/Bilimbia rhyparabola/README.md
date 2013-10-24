@@ -1,5 +1,4 @@
-Bilimbia rhyparabola SPECIES
-=======
+# Bilimbia rhyparabola SPECIES
 
 #### Status
 ACCEPTED

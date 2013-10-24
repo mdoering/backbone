@@ -1,5 +1,4 @@
-Melosira catenata Brun SPECIES
-=======
+# Melosira catenata Brun SPECIES
 
 #### Status
 ACCEPTED

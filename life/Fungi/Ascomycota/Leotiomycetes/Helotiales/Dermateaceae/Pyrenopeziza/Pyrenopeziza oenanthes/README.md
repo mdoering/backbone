@@ -1,14 +1,13 @@
-Pyrenopeziza atrata var. oenanthes W. Phillips, 1887 VARIETY
-=======
+# Pyrenopeziza oenanthes (W. Phillips) Graddon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 182 (1887)
+null
 
 #### Original name
 Pyrenopeziza atrata var. oenanthes W. Phillips, 1887

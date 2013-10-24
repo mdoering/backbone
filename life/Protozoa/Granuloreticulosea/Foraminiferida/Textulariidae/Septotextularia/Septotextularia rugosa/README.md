@@ -1,5 +1,4 @@
-Septotextularia rugosa Zheng & Cheng, 1978 SPECIES
-=======
+# Septotextularia rugosa Zheng & Cheng, 1978 SPECIES
 
 #### Status
 ACCEPTED

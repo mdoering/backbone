@@ -1,5 +1,4 @@
-Leptodontidium orchidicola Sigler & Currah, 1987 SPECIES
-=======
+# Leptodontidium orchidicola Sigler & Currah, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microtetraspora salmonea (Preobrazhenskaya et al., 1975) Kroppenstedt et al., 1991 SPECIES
-=======
+# Microtetraspora salmonea (Preobrazhenskaya et al., 1975) Kroppenstedt et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

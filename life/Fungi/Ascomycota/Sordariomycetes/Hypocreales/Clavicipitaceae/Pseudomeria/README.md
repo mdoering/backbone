@@ -1,5 +1,4 @@
-Pseudomeria G.L. Barron, 1980 GENUS
-=======
+# Pseudomeria G.L. Barron, 1980 GENUS
 
 #### Status
 ACCEPTED

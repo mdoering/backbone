@@ -1,5 +1,4 @@
-Leptosphaeria conimbricensis Berl. & F. Sacc. SPECIES
-=======
+# Leptosphaeria conimbricensis Berl. & F. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deviata Eigner, 1995 GENUS
-=======
+# Deviata Eigner, 1995 GENUS
 
 #### Status
 ACCEPTED

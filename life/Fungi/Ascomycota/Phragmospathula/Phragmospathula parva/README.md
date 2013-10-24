@@ -1,5 +1,4 @@
-Phragmospathula parva J. Mena, Mercado & Figueras SPECIES
-=======
+# Phragmospathula parva J. Mena, Mercado & Figueras SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyothyriella dubia (Syd.) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella dubia (Syd.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

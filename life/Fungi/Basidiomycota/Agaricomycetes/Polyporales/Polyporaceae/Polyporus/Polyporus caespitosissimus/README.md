@@ -1,5 +1,4 @@
-Polyporus caespitosissimus Singer SPECIES
-=======
+# Polyporus caespitosissimus Singer SPECIES
 
 #### Status
 ACCEPTED

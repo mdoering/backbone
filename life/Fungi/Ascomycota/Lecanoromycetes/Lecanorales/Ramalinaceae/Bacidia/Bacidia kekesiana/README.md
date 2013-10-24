@@ -1,5 +1,4 @@
-Bacidia kekesiana R. C. Harris SPECIES
-=======
+# Bacidia kekesiana R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

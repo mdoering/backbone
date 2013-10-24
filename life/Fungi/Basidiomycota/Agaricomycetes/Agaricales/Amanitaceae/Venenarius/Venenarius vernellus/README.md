@@ -1,5 +1,4 @@
-Venenarius vernellus Murrill SPECIES
-=======
+# Venenarius vernellus Murrill SPECIES
 
 #### Status
 ACCEPTED

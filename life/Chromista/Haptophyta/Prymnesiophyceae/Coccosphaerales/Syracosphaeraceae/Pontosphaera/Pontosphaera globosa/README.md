@@ -1,5 +1,4 @@
-Pontosphaera globosa Magne SPECIES
-=======
+# Pontosphaera globosa Magne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella saccharoides Peck SPECIES
-=======
+# Sphaerella saccharoides Peck SPECIES
 
 #### Status
 ACCEPTED

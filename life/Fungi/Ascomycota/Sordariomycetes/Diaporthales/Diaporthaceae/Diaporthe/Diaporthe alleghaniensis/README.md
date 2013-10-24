@@ -1,5 +1,4 @@
-Diaporthe alleghaniensis R.H. Arnold, 1967 SPECIES
-=======
+# Diaporthe alleghaniensis R.H. Arnold, 1967 SPECIES
 
 #### Status
 ACCEPTED

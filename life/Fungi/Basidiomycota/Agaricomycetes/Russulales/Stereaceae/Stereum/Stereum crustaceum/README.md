@@ -1,5 +1,4 @@
-Stereum crustaceum P. Karst. SPECIES
-=======
+# Stereum crustaceum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia coniangioides Eitner SPECIES
-=======
+# Bacidia coniangioides Eitner SPECIES
 
 #### Status
 ACCEPTED

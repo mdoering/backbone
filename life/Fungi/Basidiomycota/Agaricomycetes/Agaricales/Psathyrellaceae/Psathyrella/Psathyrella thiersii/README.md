@@ -1,5 +1,4 @@
-Psathyrella thiersii A.H. Sm. SPECIES
-=======
+# Psathyrella thiersii A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

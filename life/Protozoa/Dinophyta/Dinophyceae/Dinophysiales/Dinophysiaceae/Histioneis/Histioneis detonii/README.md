@@ -1,5 +1,4 @@
-Histioneis detonii Rampi SPECIES
-=======
+# Histioneis detonii Rampi SPECIES
 
 #### Status
 ACCEPTED

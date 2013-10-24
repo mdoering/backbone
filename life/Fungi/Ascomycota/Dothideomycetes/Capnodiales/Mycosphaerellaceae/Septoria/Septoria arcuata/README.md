@@ -1,5 +1,4 @@
-Septoria arcuata Cooke SPECIES
-=======
+# Septoria arcuata Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helicoubisia coronata Lunghini & Rambelli, 1979 SPECIES
-=======
+# Helicoubisia coronata Lunghini & Rambelli, 1979 SPECIES
 
 #### Status
 ACCEPTED

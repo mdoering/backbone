@@ -1,5 +1,4 @@
-Jannaschia donghaensis Yoon, Kang, Park & Oh, 2007 SPECIES
-=======
+# Jannaschia donghaensis Yoon, Kang, Park & Oh, 2007 SPECIES
 
 #### Status
 ACCEPTED

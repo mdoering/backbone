@@ -1,5 +1,4 @@
-Hyphodontia subdetritica S.S. Rattan, 1977 SPECIES
-=======
+# Hyphodontia subdetritica S.S. Rattan, 1977 SPECIES
 
 #### Status
 ACCEPTED

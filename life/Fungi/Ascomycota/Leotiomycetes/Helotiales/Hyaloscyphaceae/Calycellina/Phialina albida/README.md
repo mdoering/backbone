@@ -1,5 +1,4 @@
-Phialina albida (Grelet & Croz.) Raitv. SPECIES
-=======
+# Phialina albida (Grelet & Croz.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

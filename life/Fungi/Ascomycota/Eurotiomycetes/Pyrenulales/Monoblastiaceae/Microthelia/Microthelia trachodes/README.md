@@ -1,5 +1,4 @@
-Microthelia trachodes (Mont.) Kuntze SPECIES
-=======
+# Microthelia trachodes (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

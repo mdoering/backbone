@@ -1,5 +1,4 @@
-Cercospora aponogetonicola Pavgi & L. Singh SPECIES
-=======
+# Cercospora aponogetonicola Pavgi & L. Singh SPECIES
 
 #### Status
 ACCEPTED

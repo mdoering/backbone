@@ -1,5 +1,4 @@
-Cortinarius minor (Velen.) Rob. Henry SPECIES
-=======
+# Cortinarius minor (Velen.) Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

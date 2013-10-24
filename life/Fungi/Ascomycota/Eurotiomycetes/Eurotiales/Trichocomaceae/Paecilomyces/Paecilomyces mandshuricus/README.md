@@ -1,17 +1,16 @@
-Paecilomyces mandshuricum var. mandshuricum VARIETY
-=======
+# Paecilomyces mandshuricus (Saito) Thom SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+The Penicillia 550 (1930)
 
 #### Original name
-null
+Penicillium mandshuricum Saito
 
 ### Remarks
 null

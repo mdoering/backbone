@@ -1,5 +1,4 @@
-Phaeodimeriella cetotricha (Pat. & Har.) Speg. SPECIES
-=======
+# Phaeodimeriella cetotricha (Pat. & Har.) Speg. SPECIES
 
 #### Status
 ACCEPTED

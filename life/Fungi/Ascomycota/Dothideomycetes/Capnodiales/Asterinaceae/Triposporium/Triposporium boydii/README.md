@@ -1,5 +1,4 @@
-Triposporium boydii A.L. Sm. & Ramsb. SPECIES
-=======
+# Triposporium boydii A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

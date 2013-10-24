@@ -1,5 +1,4 @@
-Tomentella juncicola Svrcek, 1958 SPECIES
-=======
+# Tomentella juncicola Svrcek, 1958 SPECIES
 
 #### Status
 ACCEPTED

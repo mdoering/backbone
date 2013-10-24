@@ -1,5 +1,4 @@
-Ramalina graeca Müll. Arg. SPECIES
-=======
+# Ramalina graeca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

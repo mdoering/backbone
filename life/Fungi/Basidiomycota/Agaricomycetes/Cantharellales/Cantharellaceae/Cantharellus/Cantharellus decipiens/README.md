@@ -1,5 +1,4 @@
-Cantharellus decipiens Wichanský SPECIES
-=======
+# Cantharellus decipiens Wichanský SPECIES
 
 #### Status
 ACCEPTED

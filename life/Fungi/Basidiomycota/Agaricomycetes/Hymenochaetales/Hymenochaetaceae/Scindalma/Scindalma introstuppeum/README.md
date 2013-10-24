@@ -1,5 +1,4 @@
-Scindalma introstuppeum (Berk. & Cooke) Kuntze SPECIES
-=======
+# Scindalma introstuppeum (Berk. & Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

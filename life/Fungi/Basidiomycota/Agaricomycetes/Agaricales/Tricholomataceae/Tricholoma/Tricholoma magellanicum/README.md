@@ -1,5 +1,4 @@
-Tricholoma magellanicum Speg. SPECIES
-=======
+# Tricholoma magellanicum Speg. SPECIES
 
 #### Status
 ACCEPTED

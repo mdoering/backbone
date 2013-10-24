@@ -1,5 +1,4 @@
-Clitocybe epia Berk. & Broome SPECIES
-=======
+# Clitocybe epia Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

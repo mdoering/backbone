@@ -1,14 +1,13 @@
-Hallingea carneoroseus (E. Horak) Castellano SPECIES
-=======
+# Hallingea carneorosea (E. Horak) Castellano, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Castellano & Muchovej, Mycotaxon 57: 340 (1996)
 
 #### Original name
 Hysterangium carneoroseum E. Horak, 1964

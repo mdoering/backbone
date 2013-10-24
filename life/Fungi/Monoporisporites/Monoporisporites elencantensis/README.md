@@ -1,5 +1,4 @@
-Monoporisporites elencantensis (Sepulveda) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites elencantensis (Sepulveda) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

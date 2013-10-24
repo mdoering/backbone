@@ -1,5 +1,4 @@
-Dermacoccus barathri Pathom-aree, Nogi, Ward, Horikoshi, Bull & Goodfellow, 2006 SPECIES
-=======
+# Dermacoccus barathri Pathom-aree, Nogi, Ward, Horikoshi, Bull & Goodfellow, 2006 SPECIES
 
 #### Status
 ACCEPTED

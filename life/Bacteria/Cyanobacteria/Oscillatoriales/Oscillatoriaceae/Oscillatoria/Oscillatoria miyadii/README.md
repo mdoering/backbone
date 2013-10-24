@@ -1,5 +1,4 @@
-Oscillatoria miyadii Negoro SPECIES
-=======
+# Oscillatoria miyadii Negoro SPECIES
 
 #### Status
 ACCEPTED

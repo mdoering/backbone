@@ -1,5 +1,4 @@
-Gloeosporium elaeocarpi C.C. Chen SPECIES
-=======
+# Gloeosporium elaeocarpi C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

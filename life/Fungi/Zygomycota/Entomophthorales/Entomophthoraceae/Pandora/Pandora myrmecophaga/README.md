@@ -1,5 +1,4 @@
-Pandora myrmecophaga (Turian & Wuest) S. Keller, 2005 SPECIES
-=======
+# Pandora myrmecophaga (Turian & Wuest) S. Keller, 2005 SPECIES
 
 #### Status
 ACCEPTED

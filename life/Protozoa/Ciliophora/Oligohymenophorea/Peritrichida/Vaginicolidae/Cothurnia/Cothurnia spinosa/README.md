@@ -1,5 +1,4 @@
-Cothurnia spinosa Labbe, 1895 SPECIES
-=======
+# Cothurnia spinosa Labbe, 1895 SPECIES
 
 #### Status
 ACCEPTED

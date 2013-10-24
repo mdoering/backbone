@@ -1,5 +1,4 @@
-Dimerina nantoensis (Sawada) W. Yamam. SPECIES
-=======
+# Dimerina nantoensis (Sawada) W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

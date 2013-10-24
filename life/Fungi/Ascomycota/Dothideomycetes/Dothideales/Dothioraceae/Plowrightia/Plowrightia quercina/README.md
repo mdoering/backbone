@@ -1,5 +1,4 @@
-Plowrightia quercina P. Karst. ex Petr. & Syd. SPECIES
-=======
+# Plowrightia quercina P. Karst. ex Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

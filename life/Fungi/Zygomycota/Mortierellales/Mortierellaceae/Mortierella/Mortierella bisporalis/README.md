@@ -1,14 +1,13 @@
-Haplosporangium bisporale Thaxt., 1914 SPECIES
-=======
+# Mortierella bisporalis (Thaxt.) Björl., 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 58: 363 (1914)
+Bot. Notiser 126 (1936)
 
 #### Original name
 Haplosporangium bisporale Thaxt., 1914

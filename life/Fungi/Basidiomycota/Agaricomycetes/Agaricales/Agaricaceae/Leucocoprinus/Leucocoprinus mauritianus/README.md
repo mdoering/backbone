@@ -1,5 +1,4 @@
-Leucocoprinus mauritianus (Henn.) P. Mohr SPECIES
-=======
+# Leucocoprinus mauritianus (Henn.) P. Mohr SPECIES
 
 #### Status
 ACCEPTED

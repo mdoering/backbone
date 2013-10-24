@@ -1,5 +1,4 @@
-Distephanus aculeatus f. binoculus (Ehrenberg) S. Locker & E. Martini FORM
-=======
+# Distephanus aculeatus SPECIES
 
 #### Status
 ACCEPTED

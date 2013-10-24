@@ -1,5 +1,4 @@
-Sticta glaberrima De Not. SPECIES
-=======
+# Sticta glaberrima De Not. SPECIES
 
 #### Status
 ACCEPTED

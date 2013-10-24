@@ -1,5 +1,4 @@
-Lecanora esculenta var. esculenta VARIETY
-=======
+# Lecanora esculenta (Pall.) Eversm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora esculenta var. esculenta
+Lichen esculentus Pall.
 
 ### Remarks
 null

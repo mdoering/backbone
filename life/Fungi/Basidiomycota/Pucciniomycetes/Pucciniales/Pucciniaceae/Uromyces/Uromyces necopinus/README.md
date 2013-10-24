@@ -1,5 +1,4 @@
-Uromyces necopinus Cummins SPECIES
-=======
+# Uromyces necopinus Cummins SPECIES
 
 #### Status
 ACCEPTED

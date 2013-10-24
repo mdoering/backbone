@@ -1,5 +1,4 @@
-Tolyposporium aristidae S. Ahmad SPECIES
-=======
+# Tolyposporium aristidae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

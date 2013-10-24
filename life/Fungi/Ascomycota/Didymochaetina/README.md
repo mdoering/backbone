@@ -1,5 +1,4 @@
-Didymochaetina Bat. & J.L. Bezerra GENUS
-=======
+# Didymochaetina Bat. & J.L. Bezerra GENUS
 
 #### Status
 ACCEPTED

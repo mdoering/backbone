@@ -1,5 +1,4 @@
-Uredo utahensis Syd. & P. Syd. SPECIES
-=======
+# Uredo utahensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

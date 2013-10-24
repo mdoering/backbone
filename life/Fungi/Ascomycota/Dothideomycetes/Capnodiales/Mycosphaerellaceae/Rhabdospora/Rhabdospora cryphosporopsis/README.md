@@ -1,5 +1,4 @@
-Rhabdospora cryphosporopsis Fairm. SPECIES
-=======
+# Rhabdospora cryphosporopsis Fairm. SPECIES
 
 #### Status
 ACCEPTED

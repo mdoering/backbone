@@ -1,17 +1,16 @@
-Paranectria oropensis subsp. parviseptata M.S. Cole & D. Hawksw. SUBSPECIES
-=======
+# Paranectria oropensis (Ces. ex Rabenh.) D. Hawksw. & Piroz., 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 77: 324 (2001)
+null
 
 #### Original name
-Paranectria oropensis subsp. parviseptata M.S. Cole & D. Hawksw.
+null
 
 ### Remarks
 null

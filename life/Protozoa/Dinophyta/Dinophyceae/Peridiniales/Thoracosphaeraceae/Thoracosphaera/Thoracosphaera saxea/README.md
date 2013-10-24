@@ -1,5 +1,4 @@
-Thoracosphaera saxea Stradner, 1961 SPECIES
-=======
+# Thoracosphaera saxea Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

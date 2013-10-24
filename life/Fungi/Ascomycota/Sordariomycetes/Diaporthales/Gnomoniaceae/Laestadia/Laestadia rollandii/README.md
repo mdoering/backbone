@@ -1,17 +1,16 @@
-Laestadia rollandi Sacc. & P. Syd. SPECIES
-=======
+# Laestadia rollandii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 16: 455 (1902)
 
 #### Original name
-Laestadia rollandi Sacc. & P. Syd.
+Laestadia rollandii Sacc. & P. Syd.
 
 ### Remarks
 null

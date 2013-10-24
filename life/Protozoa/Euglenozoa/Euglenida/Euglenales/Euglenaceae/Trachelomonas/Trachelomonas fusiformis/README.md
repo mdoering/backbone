@@ -1,8 +1,7 @@
-Trachelomonas caudata var. hexangulata Prijmaczenko VARIETY
-=======
+# Trachelomonas fusiformis Stokes SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

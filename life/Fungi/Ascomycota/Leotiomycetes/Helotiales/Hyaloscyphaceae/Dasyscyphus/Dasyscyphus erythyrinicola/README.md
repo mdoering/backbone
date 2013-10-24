@@ -1,5 +1,4 @@
-Dasyscyphus erythyrinicola V.G. Rao & Subhedar SPECIES
-=======
+# Dasyscyphus erythyrinicola V.G. Rao & Subhedar SPECIES
 
 #### Status
 ACCEPTED

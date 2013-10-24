@@ -1,5 +1,4 @@
-Rhytisma urticae (Wallr.) Fr. SPECIES
-=======
+# Rhytisma urticae (Wallr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

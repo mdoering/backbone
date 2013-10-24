@@ -1,5 +1,4 @@
-Septoria pamirica Golovin SPECIES
-=======
+# Septoria pamirica Golovin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rickia coleostomatis SPECIES
-=======
+# Rickia coleostomatis SPECIES
 
 #### Status
 ACCEPTED

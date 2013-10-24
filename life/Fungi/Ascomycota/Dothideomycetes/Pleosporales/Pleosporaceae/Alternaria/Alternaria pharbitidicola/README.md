@@ -1,5 +1,4 @@
-Alternaria pharbitidicola X. Sun, Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria pharbitidicola X. Sun, Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

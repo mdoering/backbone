@@ -1,5 +1,4 @@
-Diaporthe disputata E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Diaporthe disputata E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

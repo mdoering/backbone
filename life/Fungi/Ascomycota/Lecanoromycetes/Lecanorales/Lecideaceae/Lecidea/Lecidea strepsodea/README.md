@@ -1,5 +1,4 @@
-Lecidea strepsodea Nyl. SPECIES
-=======
+# Lecidea strepsodea Nyl. SPECIES
 
 #### Status
 ACCEPTED

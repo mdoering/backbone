@@ -1,14 +1,13 @@
-Dactylella megalospora Drechsler, 1954 SPECIES
-=======
+# Monacrosporium megalosporum (Drechsler) Subram., 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 46(6): 769 (1954)
+J. Indian bot. Soc. 42: 293 (1964)
 
 #### Original name
 Dactylella megalospora Drechsler, 1954

@@ -1,5 +1,4 @@
-Agaricus glabrus Zeller SPECIES
-=======
+# Agaricus glabrus Zeller SPECIES
 
 #### Status
 ACCEPTED

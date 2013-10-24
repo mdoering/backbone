@@ -1,5 +1,4 @@
-Thoracosphaera fossata Jafar, 1975 SPECIES
-=======
+# Thoracosphaera fossata Jafar, 1975 SPECIES
 
 #### Status
 ACCEPTED

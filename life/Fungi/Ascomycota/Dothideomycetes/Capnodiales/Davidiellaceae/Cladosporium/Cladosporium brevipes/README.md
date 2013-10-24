@@ -1,5 +1,4 @@
-Cladosporium brevipes Peck, 1887 SPECIES
-=======
+# Cladosporium brevipes Peck, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoplagiopyxis Bonnet, 1962 GENUS
-=======
+# Protoplagiopyxis Bonnet, 1962 GENUS
 
 #### Status
 ACCEPTED

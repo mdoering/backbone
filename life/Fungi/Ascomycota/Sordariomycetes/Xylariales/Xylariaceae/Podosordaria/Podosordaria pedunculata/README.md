@@ -1,17 +1,16 @@
-Xylaria pedunculata var. pedunculata VARIETY
-=======
+# Podosordaria pedunculata (Dicks.) Dennis, 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 382 (1849)
+Kew Bull. 306 (1978)
 
 #### Original name
-Xylaria pedunculata var. pedunculata
+Sphaeria pedunculata Dicks., 1785
 
 ### Remarks
 null

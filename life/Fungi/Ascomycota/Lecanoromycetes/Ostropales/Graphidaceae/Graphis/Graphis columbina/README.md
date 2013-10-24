@@ -1,5 +1,4 @@
-Graphis columbina Tuck. SPECIES
-=======
+# Graphis columbina Tuck. SPECIES
 
 #### Status
 ACCEPTED

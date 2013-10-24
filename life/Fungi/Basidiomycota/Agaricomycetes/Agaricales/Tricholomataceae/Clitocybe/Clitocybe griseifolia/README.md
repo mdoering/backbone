@@ -1,5 +1,4 @@
-Clitocybe griseifolia Murrill SPECIES
-=======
+# Clitocybe griseifolia Murrill SPECIES
 
 #### Status
 ACCEPTED

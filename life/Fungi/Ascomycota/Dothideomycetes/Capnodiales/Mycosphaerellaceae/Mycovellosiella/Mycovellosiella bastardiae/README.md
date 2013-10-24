@@ -1,5 +1,4 @@
-Mycovellosiella bastardiae (Petr. & Cif.) U. Braun SPECIES
-=======
+# Mycovellosiella bastardiae (Petr. & Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

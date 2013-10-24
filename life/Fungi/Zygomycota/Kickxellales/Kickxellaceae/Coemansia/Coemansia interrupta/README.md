@@ -1,5 +1,4 @@
-Coemansia interrupta Linder, 1943 SPECIES
-=======
+# Coemansia interrupta Linder, 1943 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protoparmeliopsis GENUS
-=======
+# Protoparmeliopsis GENUS
 
 #### Status
 ACCEPTED

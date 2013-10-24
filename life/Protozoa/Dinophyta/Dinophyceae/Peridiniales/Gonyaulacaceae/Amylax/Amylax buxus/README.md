@@ -1,5 +1,4 @@
-Amylax buxus (E. Balech) J. D. Dodge SPECIES
-=======
+# Amylax buxus (E. Balech) J. D. Dodge SPECIES
 
 #### Status
 ACCEPTED

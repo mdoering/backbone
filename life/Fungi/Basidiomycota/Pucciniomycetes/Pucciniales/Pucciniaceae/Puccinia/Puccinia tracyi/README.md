@@ -1,5 +1,4 @@
-Puccinia tracyi Sacc. & P. Syd. SPECIES
-=======
+# Puccinia tracyi Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

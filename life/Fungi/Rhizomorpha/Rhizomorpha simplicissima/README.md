@@ -1,5 +1,4 @@
-Rhizomorpha simplicissima Pers. SPECIES
-=======
+# Rhizomorpha simplicissima Pers. SPECIES
 
 #### Status
 ACCEPTED

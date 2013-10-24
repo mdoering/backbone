@@ -1,5 +1,4 @@
-Pestalotiopsis heterospora Bat., Poroca & J.L. Bezerra SPECIES
-=======
+# Pestalotiopsis heterospora Bat., Poroca & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

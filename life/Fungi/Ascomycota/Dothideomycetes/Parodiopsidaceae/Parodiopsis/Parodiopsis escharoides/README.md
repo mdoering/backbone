@@ -1,5 +1,4 @@
-Parodiopsis escharoides (Syd.) Hansf. SPECIES
-=======
+# Parodiopsis escharoides (Syd.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

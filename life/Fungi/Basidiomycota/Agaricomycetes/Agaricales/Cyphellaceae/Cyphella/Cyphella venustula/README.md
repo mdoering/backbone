@@ -1,5 +1,4 @@
-Cyphella venustula (Desm.) Cooke SPECIES
-=======
+# Cyphella venustula (Desm.) Cooke SPECIES
 
 #### Status
 ACCEPTED

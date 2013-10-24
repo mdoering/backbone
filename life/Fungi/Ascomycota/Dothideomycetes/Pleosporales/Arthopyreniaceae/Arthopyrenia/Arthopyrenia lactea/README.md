@@ -1,5 +1,4 @@
-Arthopyrenia lactea A. Massal. SPECIES
-=======
+# Arthopyrenia lactea A. Massal. SPECIES
 
 #### Status
 ACCEPTED

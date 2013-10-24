@@ -1,5 +1,4 @@
-Caldithrix abyssi Miroshnichenko et al., 2003 SPECIES
-=======
+# Caldithrix abyssi Miroshnichenko et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cristigera sulcata Kahl, 1933 SPECIES
-=======
+# Cristigera sulcata Kahl, 1933 SPECIES
 
 #### Status
 ACCEPTED

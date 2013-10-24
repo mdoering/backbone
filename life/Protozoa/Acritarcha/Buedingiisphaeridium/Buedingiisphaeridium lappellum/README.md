@@ -1,5 +1,4 @@
-Buedingiisphaeridium lappellum (Loeblich & Wicander, 1976) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Buedingiisphaeridium lappellum (Loeblich & Wicander, 1976) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

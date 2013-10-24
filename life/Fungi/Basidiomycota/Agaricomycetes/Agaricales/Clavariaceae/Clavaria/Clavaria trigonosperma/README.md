@@ -1,5 +1,4 @@
-Clavaria trigonosperma S. Imai SPECIES
-=======
+# Clavaria trigonosperma S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea capillepes Quél. SPECIES
-=======
+# Phialea capillepes Quél. SPECIES
 
 #### Status
 ACCEPTED

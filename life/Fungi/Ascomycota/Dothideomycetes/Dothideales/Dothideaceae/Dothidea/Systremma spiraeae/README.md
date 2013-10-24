@@ -1,5 +1,4 @@
-Systremma spiraeae Murashk. SPECIES
-=======
+# Systremma spiraeae Murashk. SPECIES
 
 #### Status
 ACCEPTED

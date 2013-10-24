@@ -1,5 +1,4 @@
-Mesniella trispiculata Kijenskij, 1925 SPECIES
-=======
+# Mesniella trispiculata Kijenskij, 1925 SPECIES
 
 #### Status
 ACCEPTED

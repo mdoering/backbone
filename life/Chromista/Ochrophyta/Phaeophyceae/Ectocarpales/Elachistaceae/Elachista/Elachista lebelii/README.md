@@ -1,5 +1,4 @@
-Elachista lebelii J. Areschoug SPECIES
-=======
+# Elachista lebelii J. Areschoug SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia windhoekensis Mennicken, W. Maier & Oberw. SPECIES
-=======
+# Puccinia windhoekensis Mennicken, W. Maier & Oberw. SPECIES
 
 #### Status
 ACCEPTED

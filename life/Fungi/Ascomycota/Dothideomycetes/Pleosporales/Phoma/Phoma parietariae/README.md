@@ -1,5 +1,4 @@
-Phoma parietariae Allesch. SPECIES
-=======
+# Phoma parietariae Allesch. SPECIES
 
 #### Status
 ACCEPTED

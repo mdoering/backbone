@@ -1,5 +1,4 @@
-Biatora pullula Tuck. SPECIES
-=======
+# Biatora pullula Tuck. SPECIES
 
 #### Status
 ACCEPTED

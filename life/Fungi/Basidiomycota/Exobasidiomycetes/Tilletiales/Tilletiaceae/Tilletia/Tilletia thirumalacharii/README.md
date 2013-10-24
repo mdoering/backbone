@@ -1,5 +1,4 @@
-Tilletia thirumalacharii Gandhe, 1999 SPECIES
-=======
+# Tilletia thirumalacharii Gandhe, 1999 SPECIES
 
 #### Status
 ACCEPTED

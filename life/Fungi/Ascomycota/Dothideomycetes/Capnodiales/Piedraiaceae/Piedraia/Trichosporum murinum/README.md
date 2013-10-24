@@ -1,14 +1,13 @@
-Alytosporium murinum (Link) Steud., 1824 SPECIES
-=======
+# Trichosporum murinum (Link) Sacc., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nomenclator Botanicus enumerans ordine alphabetico nomina atque synonyma tum generica tum specifica et a linnaeo et recentioribus de re Botanica Scriptoribus: Plantis cryptogamis imposita 55 (1824)
+Fungi italica 17-28: tab. 740 (1881)
 
 #### Original name
 Sporotrichum murinum Link, 1818

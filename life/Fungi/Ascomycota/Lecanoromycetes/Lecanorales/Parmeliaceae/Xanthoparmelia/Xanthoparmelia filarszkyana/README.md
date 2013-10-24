@@ -1,17 +1,16 @@
-Parmelia praetermissa Kurok. & Filson SPECIES
-=======
+# Xanthoparmelia filarszkyana (Gyeln.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. natn. Sci. Mus. , Tokyo, B 1: 41 (1975)
+Phytologia 28: 487 (1974)
 
 #### Original name
-Parmelia praetermissa Kurok. & Filson
+Parmelia filarszkyana Gyeln.
 
 ### Remarks
 null

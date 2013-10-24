@@ -1,5 +1,4 @@
-Thermovenabulum ferriorganovorum Zavarzina et al., 2002 SPECIES
-=======
+# Thermovenabulum ferriorganovorum Zavarzina et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

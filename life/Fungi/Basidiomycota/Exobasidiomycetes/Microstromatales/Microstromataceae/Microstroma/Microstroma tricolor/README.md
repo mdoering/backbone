@@ -1,5 +1,4 @@
-Microstroma tricolor (Lind) W.B. Cooke SPECIES
-=======
+# Microstroma tricolor (Lind) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

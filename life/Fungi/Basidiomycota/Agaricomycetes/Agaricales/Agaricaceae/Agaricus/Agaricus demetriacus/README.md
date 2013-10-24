@@ -1,5 +1,4 @@
-Agaricus demetriacus Mont. SPECIES
-=======
+# Agaricus demetriacus Mont. SPECIES
 
 #### Status
 ACCEPTED

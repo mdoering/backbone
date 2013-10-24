@@ -1,5 +1,4 @@
-Melomastia shastensis Earle SPECIES
-=======
+# Melomastia shastensis Earle SPECIES
 
 #### Status
 ACCEPTED

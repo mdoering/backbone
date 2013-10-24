@@ -1,5 +1,4 @@
-Lecanora pomensis Zahlbr. SPECIES
-=======
+# Lecanora pomensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

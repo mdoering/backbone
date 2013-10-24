@@ -1,5 +1,4 @@
-Hypocomidium granum Raabe, 1938 SPECIES
-=======
+# Hypocomidium granum Raabe, 1938 SPECIES
 
 #### Status
 ACCEPTED

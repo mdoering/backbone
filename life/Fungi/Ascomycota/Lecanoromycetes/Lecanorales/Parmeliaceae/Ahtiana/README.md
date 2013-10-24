@@ -1,5 +1,4 @@
-Ahtiana Goward GENUS
-=======
+# Ahtiana Goward GENUS
 
 #### Status
 ACCEPTED

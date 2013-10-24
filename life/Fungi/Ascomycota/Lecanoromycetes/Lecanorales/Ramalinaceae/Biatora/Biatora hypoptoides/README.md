@@ -1,5 +1,4 @@
-Biatora hypoptoides (Nyl.) SPECIES
-=======
+# Biatora hypoptoides (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

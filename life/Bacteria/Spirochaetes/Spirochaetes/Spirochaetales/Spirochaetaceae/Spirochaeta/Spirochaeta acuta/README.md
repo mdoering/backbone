@@ -1,5 +1,4 @@
-Spirochaeta acuta SPECIES
-=======
+# Spirochaeta acuta SPECIES
 
 #### Status
 ACCEPTED

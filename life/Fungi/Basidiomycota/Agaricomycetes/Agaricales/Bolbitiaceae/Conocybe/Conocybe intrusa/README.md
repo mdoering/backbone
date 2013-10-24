@@ -1,17 +1,16 @@
-Conocybe intrusa f. intrusa FORM
-=======
+# Conocybe intrusa (Peck) Singer, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Sydowia 4: 133 (1950)
 
 #### Original name
-Conocybe intrusa f. intrusa
+Cortinarius intrusus Peck, 1896
 
 ### Remarks
 null

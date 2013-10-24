@@ -1,5 +1,4 @@
-Mucor lutescens Link SPECIES
-=======
+# Mucor lutescens Link SPECIES
 
 #### Status
 ACCEPTED

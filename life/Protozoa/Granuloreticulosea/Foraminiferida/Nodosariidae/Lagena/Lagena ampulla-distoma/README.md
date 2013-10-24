@@ -1,5 +1,4 @@
-Lagena ampulla-distoma SPECIES
-=======
+# Lagena ampulla-distoma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopeziza cadaverina Huhtinen & Raitv. SPECIES
-=======
+# Hyalopeziza cadaverina Huhtinen & Raitv. SPECIES
 
 #### Status
 ACCEPTED

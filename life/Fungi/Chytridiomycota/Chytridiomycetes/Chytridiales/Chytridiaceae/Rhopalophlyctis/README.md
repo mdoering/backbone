@@ -1,5 +1,4 @@
-Rhopalophlyctis Karling GENUS
-=======
+# Rhopalophlyctis Karling GENUS
 
 #### Status
 ACCEPTED

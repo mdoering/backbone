@@ -1,5 +1,4 @@
-Septoria linariae H.C. Greene SPECIES
-=======
+# Septoria linariae H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

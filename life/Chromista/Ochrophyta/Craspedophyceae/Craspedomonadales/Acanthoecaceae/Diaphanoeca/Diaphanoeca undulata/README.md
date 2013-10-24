@@ -1,5 +1,4 @@
-Diaphanoeca undulata Thomsen, 1982 SPECIES
-=======
+# Diaphanoeca undulata Thomsen, 1982 SPECIES
 
 #### Status
 ACCEPTED

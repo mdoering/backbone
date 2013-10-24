@@ -1,5 +1,4 @@
-Aecidium rionegrense Henn. SPECIES
-=======
+# Aecidium rionegrense Henn. SPECIES
 
 #### Status
 ACCEPTED

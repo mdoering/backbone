@@ -1,5 +1,4 @@
-Citromyces bruntzii Sartory SPECIES
-=======
+# Citromyces bruntzii Sartory SPECIES
 
 #### Status
 ACCEPTED

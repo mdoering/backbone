@@ -1,5 +1,4 @@
-Verrucaria subfallax Nyl. SPECIES
-=======
+# Verrucaria subfallax Nyl. SPECIES
 
 #### Status
 ACCEPTED

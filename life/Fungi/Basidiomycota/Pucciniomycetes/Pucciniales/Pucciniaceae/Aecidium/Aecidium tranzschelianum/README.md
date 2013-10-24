@@ -1,5 +1,4 @@
-Aecidium tranzschelianum Lindr. SPECIES
-=======
+# Aecidium tranzschelianum Lindr. SPECIES
 
 #### Status
 ACCEPTED

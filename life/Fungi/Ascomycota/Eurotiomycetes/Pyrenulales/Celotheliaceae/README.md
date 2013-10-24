@@ -1,5 +1,4 @@
-Celotheliaceae Lücking, Aptroot & Sipman FAMILY
-=======
+# Celotheliaceae Lücking, Aptroot & Sipman FAMILY
 
 #### Status
 ACCEPTED

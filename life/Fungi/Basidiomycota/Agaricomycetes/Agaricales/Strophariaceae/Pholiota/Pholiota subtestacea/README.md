@@ -1,5 +1,4 @@
-Pholiota subtestacea (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota subtestacea (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanitopsis endochorda Petch SPECIES
-=======
+# Amanitopsis endochorda Petch SPECIES
 
 #### Status
 ACCEPTED

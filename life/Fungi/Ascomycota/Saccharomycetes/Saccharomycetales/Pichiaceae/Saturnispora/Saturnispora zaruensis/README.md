@@ -1,17 +1,16 @@
-Candida agrestis Goto & Oguri, 1983 SPECIES
-=======
+# Saturnispora zaruensis (Nakase & Komag.) Z.W. Liu & Kurtzman, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Antonie van Leeuwenhoek 60(1): 28 (1991)
 
 #### Original name
-null
+Pichia zaruensis Nakase & Komag., 1966
 
 ### Remarks
 null

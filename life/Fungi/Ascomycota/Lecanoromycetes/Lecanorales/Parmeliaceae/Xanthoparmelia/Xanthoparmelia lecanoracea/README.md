@@ -1,17 +1,16 @@
-Paraparmelia lecanoracea (Müll. Arg.) Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia lecanoracea (Müll. Arg.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 27: 577 (1986)
 
 #### Original name
-null
+Parmelia lecanoracea Müll. Arg.
 
 ### Remarks
 null

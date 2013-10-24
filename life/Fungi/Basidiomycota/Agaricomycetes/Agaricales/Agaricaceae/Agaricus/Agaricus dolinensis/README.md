@@ -1,5 +1,4 @@
-Agaricus dolinensis Schulzer SPECIES
-=======
+# Agaricus dolinensis Schulzer SPECIES
 
 #### Status
 ACCEPTED

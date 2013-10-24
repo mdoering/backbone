@@ -1,5 +1,4 @@
-Sistotremella paullicorticioides Boidin & Gilles, 1994 SPECIES
-=======
+# Sistotremella paullicorticioides Boidin & Gilles, 1994 SPECIES
 
 #### Status
 ACCEPTED

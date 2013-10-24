@@ -1,8 +1,7 @@
-Geaster comptus Syd. {?} SPECIES
-=======
+# Geastrum comptus Syd. {?} SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster comptus Syd. {?}
+Geastrum comptus Syd. {?}
 
 ### Remarks
 null

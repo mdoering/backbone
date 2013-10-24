@@ -1,5 +1,4 @@
-Sargassum granuliferum var. dubiosum Grunow VARIETY
-=======
+# Sargassum granuliferum C. Agardh SPECIES
 
 #### Status
 ACCEPTED

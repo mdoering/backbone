@@ -1,5 +1,4 @@
-Marasmius substenophyllus Murrill SPECIES
-=======
+# Marasmius substenophyllus Murrill SPECIES
 
 #### Status
 ACCEPTED

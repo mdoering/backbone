@@ -1,5 +1,4 @@
-Pleurochrysis carterae var. dentata J.R. Johansen & G.J. Doucette VARIETY
-=======
+# Pleurochrysis carterae (Braarud & Fagerland) Christensen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia ephebea Ach. SPECIES
-=======
+# Parmelia ephebea Ach. SPECIES
 
 #### Status
 ACCEPTED

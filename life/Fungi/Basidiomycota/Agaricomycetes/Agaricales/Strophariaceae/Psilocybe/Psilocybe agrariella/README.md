@@ -1,5 +1,4 @@
-Psilocybe agrariella G.F. Atk. SPECIES
-=======
+# Psilocybe agrariella G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

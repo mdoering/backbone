@@ -1,5 +1,4 @@
-Aerococcus urinaehominis Lawson et al., 2001 SPECIES
-=======
+# Aerococcus urinaehominis Lawson et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota dactyliota Berk. & Mont. SPECIES
-=======
+# Pholiota dactyliota Berk. & Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea xanthinula Müll. Arg. SPECIES
-=======
+# Lecidea xanthinula Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

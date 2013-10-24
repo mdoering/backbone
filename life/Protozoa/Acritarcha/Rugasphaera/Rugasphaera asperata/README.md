@@ -1,5 +1,4 @@
-Rugasphaera asperata Zhu Shenzhao, He Chengquan & Jin Guangzing in He Chengquan et al., 1989 SPECIES
-=======
+# Rugasphaera asperata Zhu Shenzhao, He Chengquan & Jin Guangzing in He Chengquan et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

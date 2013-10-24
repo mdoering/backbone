@@ -1,5 +1,4 @@
-Puccinia hibayamensis Morim. SPECIES
-=======
+# Puccinia hibayamensis Morim. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza aluticolor Berk. SPECIES
-=======
+# Peziza aluticolor Berk. SPECIES
 
 #### Status
 ACCEPTED

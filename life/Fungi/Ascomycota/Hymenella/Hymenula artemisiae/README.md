@@ -1,5 +1,4 @@
-Hymenula artemisiae Hollós SPECIES
-=======
+# Hymenula artemisiae Hollós SPECIES
 
 #### Status
 ACCEPTED

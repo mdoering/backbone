@@ -1,5 +1,4 @@
-Brockmanniella brockmannii (Hustedt) Hasle, von Stosch, & Syvertsen SPECIES
-=======
+# Brockmanniella brockmannii (Hustedt) Hasle, von Stosch, & Syvertsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena fasciculata Beeli SPECIES
-=======
+# Mycena fasciculata Beeli SPECIES
 
 #### Status
 ACCEPTED

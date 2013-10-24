@@ -1,5 +1,4 @@
-Aecidium aegiphilae Henn. SPECIES
-=======
+# Aecidium aegiphilae Henn. SPECIES
 
 #### Status
 ACCEPTED

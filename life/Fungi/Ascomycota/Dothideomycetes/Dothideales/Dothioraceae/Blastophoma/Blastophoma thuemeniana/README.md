@@ -1,5 +1,4 @@
-Blastophoma thuemeniana Kleb. SPECIES
-=======
+# Blastophoma thuemeniana Kleb. SPECIES
 
 #### Status
 ACCEPTED

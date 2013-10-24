@@ -1,5 +1,4 @@
-Lecidea bullosa Zahlbr. SPECIES
-=======
+# Lecidea bullosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

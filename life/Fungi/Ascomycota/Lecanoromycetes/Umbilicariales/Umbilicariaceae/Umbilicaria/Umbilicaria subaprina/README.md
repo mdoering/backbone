@@ -1,5 +1,4 @@
-Umbilicaria subaprina var. subaprina VARIETY
-=======
+# Umbilicaria subaprina Frey SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Umbilicaria subaprina var. subaprina
+Umbilicaria subaprina Frey
 
 ### Remarks
 null

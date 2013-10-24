@@ -1,5 +1,4 @@
-Buellia populorum (A. Massal.) Clauzade & Cl. Roux SPECIES
-=======
+# Buellia populorum (A. Massal.) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

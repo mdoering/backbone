@@ -1,5 +1,4 @@
-Paramecium laudatum SPECIES
-=======
+# Paramecium laudatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Paraparmelia subtropica Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia subtropica (Elix & J. Johnst.) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brunonia 9: 151 (1986)
+Mycotaxon 87: 402 (2003)
 
 #### Original name
 Paraparmelia subtropica Elix & J. Johnst.

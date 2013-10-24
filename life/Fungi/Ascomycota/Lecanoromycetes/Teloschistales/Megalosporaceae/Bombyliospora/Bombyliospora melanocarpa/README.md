@@ -1,5 +1,4 @@
-Bombyliospora melanocarpa (Nyl.) A. Massal. SPECIES
-=======
+# Bombyliospora melanocarpa (Nyl.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

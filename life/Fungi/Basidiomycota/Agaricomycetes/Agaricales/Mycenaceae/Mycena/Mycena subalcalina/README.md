@@ -1,5 +1,4 @@
-Mycena subalcalina G.F. Atk. SPECIES
-=======
+# Mycena subalcalina G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

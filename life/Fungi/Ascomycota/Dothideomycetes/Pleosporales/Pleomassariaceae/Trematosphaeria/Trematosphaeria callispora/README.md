@@ -1,5 +1,4 @@
-Trematosphaeria callispora (De Not.) Sacc. SPECIES
-=======
+# Trematosphaeria callispora (De Not.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

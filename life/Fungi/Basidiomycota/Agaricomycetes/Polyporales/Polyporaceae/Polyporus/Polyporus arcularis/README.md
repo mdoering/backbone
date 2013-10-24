@@ -1,5 +1,4 @@
-Polyporus arcularis (Batsch.) Fr. SPECIES
-=======
+# Polyporus arcularis (Batsch.) Fr. SPECIES
 
 #### Status
 ACCEPTED

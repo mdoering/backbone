@@ -1,5 +1,4 @@
-Asellaria dactylopus L.G. Valle & Cafaro, 2008 SPECIES
-=======
+# Asellaria dactylopus L.G. Valle & Cafaro, 2008 SPECIES
 
 #### Status
 ACCEPTED

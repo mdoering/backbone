@@ -1,5 +1,4 @@
-Discosia novae-zelandiae Nag Raj, 1993 SPECIES
-=======
+# Discosia novae-zelandiae Nag Raj, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus syndesmius Kalchbr. SPECIES
-=======
+# Agaricus syndesmius Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

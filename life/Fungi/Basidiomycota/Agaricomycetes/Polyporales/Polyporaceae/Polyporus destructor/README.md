@@ -1,17 +1,16 @@
-Polyporus destructor f. destructor FORM
-=======
+# Polyporus destructor (Schrad.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Observ. mycol. (Havniae) 1: 129 (1815)
 
 #### Original name
-null
+Boletus destructor Schrad.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Kastamonina Sirel, 1993 GENUS
-=======
+# Kastamonina Sirel, 1993 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerophragmium pulchrum M. Piepenbr., 2005 SPECIES
-=======
+# Sphaerophragmium pulchrum M. Piepenbr., 2005 SPECIES
 
 #### Status
 ACCEPTED

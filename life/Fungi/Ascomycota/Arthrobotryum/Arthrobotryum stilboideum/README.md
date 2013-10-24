@@ -1,5 +1,4 @@
-Arthrobotryum stilboideum Ces., 1854 SPECIES
-=======
+# Arthrobotryum stilboideum Ces., 1854 SPECIES
 
 #### Status
 ACCEPTED

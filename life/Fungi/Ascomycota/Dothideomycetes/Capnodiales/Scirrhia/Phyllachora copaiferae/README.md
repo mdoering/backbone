@@ -1,5 +1,4 @@
-Phyllachora copaiferae Speg., 1885 SPECIES
-=======
+# Phyllachora copaiferae Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

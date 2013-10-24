@@ -1,8 +1,7 @@
-Dermatocarpon laatokkaënsis Räsänen SPECIES
-=======
+# Dermatocarpon laatokkensis Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatocarpon laatokkaënsis Räsänen
+Dermatocarpon laatokkensis Räsänen
 
 ### Remarks
 null

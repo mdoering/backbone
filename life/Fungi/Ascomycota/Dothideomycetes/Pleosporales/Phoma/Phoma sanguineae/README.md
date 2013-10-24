@@ -1,5 +1,4 @@
-Phoma sanguineae Oudem. SPECIES
-=======
+# Phoma sanguineae Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Imbricaria conoplea (Pers.) DC. SPECIES
-=======
+# Pannaria conoplea (Pers.) Bory SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Dict. Class. Hist. Nat. 13: 20 (1828)
 
 #### Original name
 Lichen conopleus Pers.

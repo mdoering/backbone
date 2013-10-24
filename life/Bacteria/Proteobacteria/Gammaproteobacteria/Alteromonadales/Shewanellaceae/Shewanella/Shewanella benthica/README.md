@@ -1,5 +1,4 @@
-Shewanella benthica MacDonell & Colwell, 1986 SPECIES
-=======
+# Shewanella benthica MacDonell & Colwell, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vararia minispora Boidin & Lanq., 1977 SPECIES
-=======
+# Vararia minispora Boidin & Lanq., 1977 SPECIES
 
 #### Status
 ACCEPTED

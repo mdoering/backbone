@@ -1,5 +1,4 @@
-Humaria aurantiaca Bres. SPECIES
-=======
+# Humaria aurantiaca Bres. SPECIES
 
 #### Status
 ACCEPTED

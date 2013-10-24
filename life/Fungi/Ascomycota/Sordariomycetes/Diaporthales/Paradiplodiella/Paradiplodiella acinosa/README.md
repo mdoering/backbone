@@ -1,5 +1,4 @@
-Paradiplodiella acinosa (Fr.) Zambett. SPECIES
-=======
+# Paradiplodiella acinosa (Fr.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

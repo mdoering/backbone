@@ -1,5 +1,4 @@
-Amphinectria portoricensis Speg., 1924 SPECIES
-=======
+# Amphinectria portoricensis Speg., 1924 SPECIES
 
 #### Status
 ACCEPTED

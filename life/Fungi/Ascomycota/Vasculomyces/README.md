@@ -1,5 +1,4 @@
-Vasculomyces S.F. Ashby GENUS
-=======
+# Vasculomyces S.F. Ashby GENUS
 
 #### Status
 ACCEPTED

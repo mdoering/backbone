@@ -1,5 +1,4 @@
-Diploicia actinobola (Hue) C.W. Dodge SPECIES
-=======
+# Diploicia actinobola (Hue) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

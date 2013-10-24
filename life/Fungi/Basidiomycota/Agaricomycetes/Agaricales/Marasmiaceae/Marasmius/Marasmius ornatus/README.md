@@ -1,5 +1,4 @@
-Marasmius ornatus Henn. SPECIES
-=======
+# Marasmius ornatus Henn. SPECIES
 
 #### Status
 ACCEPTED

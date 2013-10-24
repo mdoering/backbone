@@ -1,5 +1,4 @@
-Agaricus triformis Fr. SPECIES
-=======
+# Agaricus triformis Fr. SPECIES
 
 #### Status
 ACCEPTED

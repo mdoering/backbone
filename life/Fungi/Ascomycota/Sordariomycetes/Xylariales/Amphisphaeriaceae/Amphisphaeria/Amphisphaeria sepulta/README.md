@@ -1,5 +1,4 @@
-Amphisphaeria sepulta (Mont.) Sacc. SPECIES
-=======
+# Amphisphaeria sepulta (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyphagus endogenus Nowak. SPECIES
-=======
+# Saccomyces endogenus (Nowak.) Sparrow, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Aquatic Phycomycetes exclusive of the Saprolegniaceae and Pythium 246 (1943)
 
 #### Original name
 Polyphagus endogenus Nowak.

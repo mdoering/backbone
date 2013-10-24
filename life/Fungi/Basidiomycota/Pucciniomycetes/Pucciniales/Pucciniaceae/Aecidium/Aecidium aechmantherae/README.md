@@ -1,5 +1,4 @@
-Aecidium aechmantherae Syd. & P. Syd., 1907 SPECIES
-=======
+# Aecidium aechmantherae Syd. & P. Syd., 1907 SPECIES
 
 #### Status
 ACCEPTED

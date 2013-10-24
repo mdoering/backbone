@@ -1,5 +1,4 @@
-Flammula radicata Cleland & Cheel SPECIES
-=======
+# Flammula radicata Cleland & Cheel SPECIES
 
 #### Status
 ACCEPTED

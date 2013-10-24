@@ -1,5 +1,4 @@
-Puccinia cypria Jørst. SPECIES
-=======
+# Puccinia cypria Jørst. SPECIES
 
 #### Status
 ACCEPTED

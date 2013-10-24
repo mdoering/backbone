@@ -1,5 +1,4 @@
-Lophiostoma rubicola Nitschke SPECIES
-=======
+# Lophiostoma rubicola Nitschke SPECIES
 
 #### Status
 ACCEPTED

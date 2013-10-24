@@ -1,5 +1,4 @@
-Scyphosphaera globulata Bukry & Percival, 1971 SPECIES
-=======
+# Scyphosphaera globulata Bukry & Percival, 1971 SPECIES
 
 #### Status
 ACCEPTED

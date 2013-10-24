@@ -1,5 +1,4 @@
-Arachniotus verruculosus G.F. Orr & Kuehn, 1972 SPECIES
-=======
+# Arachniotus verruculosus G.F. Orr & Kuehn, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hyella socialis Setchell & N.L. Gardner SPECIES
-=======
+# Myxohyella socialis (Setchell & Gardner) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

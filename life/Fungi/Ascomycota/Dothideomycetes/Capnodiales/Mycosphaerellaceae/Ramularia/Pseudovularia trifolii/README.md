@@ -1,5 +1,4 @@
-Pseudovularia trifolii Speg. SPECIES
-=======
+# Pseudovularia trifolii Speg. SPECIES
 
 #### Status
 ACCEPTED

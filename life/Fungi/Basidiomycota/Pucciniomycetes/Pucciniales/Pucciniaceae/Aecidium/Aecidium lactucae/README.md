@@ -1,5 +1,4 @@
-Aecidium lactucae Opiz SPECIES
-=======
+# Aecidium lactucae Opiz SPECIES
 
 #### Status
 ACCEPTED

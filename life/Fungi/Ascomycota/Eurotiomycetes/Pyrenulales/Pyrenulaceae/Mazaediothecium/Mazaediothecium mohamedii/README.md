@@ -1,5 +1,4 @@
-Mazaediothecium mohamedii H. Harada & Yoshik. Yamam. SPECIES
-=======
+# Mazaediothecium mohamedii H. Harada & Yoshik. Yamam. SPECIES
 
 #### Status
 ACCEPTED

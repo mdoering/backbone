@@ -1,5 +1,4 @@
-Ectocarpus yezoensis Yamada & Tanaka SPECIES
-=======
+# Ectocarpus yezoensis Yamada & Tanaka SPECIES
 
 #### Status
 ACCEPTED

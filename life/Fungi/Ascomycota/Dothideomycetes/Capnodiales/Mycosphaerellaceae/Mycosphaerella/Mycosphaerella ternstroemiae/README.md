@@ -1,5 +1,4 @@
-Mycosphaerella ternstroemiae Petr. & Cif. SPECIES
-=======
+# Mycosphaerella ternstroemiae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

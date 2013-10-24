@@ -1,5 +1,4 @@
-Opisteria patagonica var. patagonica VARIETY
-=======
+# Opisteria patagonica (Kremp.) Räsänen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opisteria patagonica var. patagonica
+Nephroma patagonicum Kremp.
 
 ### Remarks
 null

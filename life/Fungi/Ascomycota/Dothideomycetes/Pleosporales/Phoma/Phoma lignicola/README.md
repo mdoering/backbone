@@ -1,5 +1,4 @@
-Phoma lignicola Rennerf. SPECIES
-=======
+# Phoma lignicola Rennerf. SPECIES
 
 #### Status
 ACCEPTED

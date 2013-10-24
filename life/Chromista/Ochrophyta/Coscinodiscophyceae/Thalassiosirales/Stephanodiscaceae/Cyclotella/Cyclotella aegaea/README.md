@@ -1,5 +1,4 @@
-Cyclotella aegaea var. pythagorea A. Economou-Amilli VARIETY
-=======
+# Cyclotella aegaea SPECIES
 
 #### Status
 ACCEPTED

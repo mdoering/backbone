@@ -1,5 +1,4 @@
-Genea arenaria Harkn. SPECIES
-=======
+# Genea arenaria Harkn. SPECIES
 
 #### Status
 ACCEPTED

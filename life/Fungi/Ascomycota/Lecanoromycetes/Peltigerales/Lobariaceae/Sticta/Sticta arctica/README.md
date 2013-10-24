@@ -1,5 +1,4 @@
-Sticta arctica Degel. SPECIES
-=======
+# Sticta arctica Degel. SPECIES
 
 #### Status
 ACCEPTED

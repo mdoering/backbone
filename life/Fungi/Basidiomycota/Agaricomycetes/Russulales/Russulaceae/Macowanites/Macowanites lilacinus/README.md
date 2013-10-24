@@ -1,5 +1,4 @@
-Macowanites lilacinus A.H. Sm. SPECIES
-=======
+# Macowanites lilacinus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria dispersa (Arnold) Erichsen SPECIES
-=======
+# Catillaria dispersa (Arnold) Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta linneae Dobrozr. SPECIES
-=======
+# Phyllosticta linneae Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

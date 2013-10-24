@@ -1,5 +1,4 @@
-Septoria scolopendrii Sacc. SPECIES
-=======
+# Septoria scolopendrii Sacc. SPECIES
 
 #### Status
 ACCEPTED

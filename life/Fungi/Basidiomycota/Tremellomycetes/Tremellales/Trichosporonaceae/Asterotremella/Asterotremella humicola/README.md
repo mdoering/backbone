@@ -1,14 +1,13 @@
-Cryptococcus humicolus (Dasz.) Golubev SPECIES
-=======
+# Asterotremella humicola (Dasz.) Prillinger, Lopandic & Sugita, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. gen. appl. Microbiol. , Tokyo 53(3): 173 (2007)
 
 #### Original name
 null

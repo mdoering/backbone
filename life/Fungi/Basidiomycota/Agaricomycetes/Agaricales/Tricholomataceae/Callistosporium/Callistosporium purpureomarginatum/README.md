@@ -1,5 +1,4 @@
-Callistosporium purpureomarginatum Fatto & Bessette, 1996 SPECIES
-=======
+# Callistosporium purpureomarginatum Fatto & Bessette, 1996 SPECIES
 
 #### Status
 ACCEPTED

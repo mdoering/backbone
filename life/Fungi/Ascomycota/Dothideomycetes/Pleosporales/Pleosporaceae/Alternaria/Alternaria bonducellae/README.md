@@ -1,5 +1,4 @@
-Alternaria bonducellae R. Dubey, S.K. Singh & Kamal SPECIES
-=======
+# Alternaria bonducellae R. Dubey, S.K. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia annulata Ellis & Everh. SPECIES
-=======
+# Puccinia annulata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

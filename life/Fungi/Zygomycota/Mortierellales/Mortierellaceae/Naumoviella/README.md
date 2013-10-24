@@ -1,5 +1,4 @@
-Naumoviella GENUS
-=======
+# Naumoviella GENUS
 
 #### Status
 ACCEPTED

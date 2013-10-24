@@ -1,5 +1,4 @@
-Xylaria poitaeana (Lév.) Fr. SPECIES
-=======
+# Xylaria poitaeana (Lév.) Fr. SPECIES
 
 #### Status
 ACCEPTED

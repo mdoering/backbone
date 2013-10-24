@@ -1,5 +1,4 @@
-Prediscosphaera grandis Perch-Nielsen, 1979 SPECIES
-=======
+# Prediscosphaera grandis Perch-Nielsen, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina dichotoma Müll. Arg. SPECIES
-=======
+# Graphina dichotoma Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarocybe deightonii M.B. Ellis SPECIES
-=======
+# Acarocybe deightonii M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octaviania archeri Berk. SPECIES
-=======
+# Octaviania archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

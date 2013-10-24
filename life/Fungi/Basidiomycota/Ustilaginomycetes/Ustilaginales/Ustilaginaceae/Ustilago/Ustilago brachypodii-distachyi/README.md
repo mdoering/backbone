@@ -1,17 +1,16 @@
-Ustilago brachypodii-distachyii Maire SPECIES
-=======
+# Ustilago brachypodii-distachyi Maire SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. Hist. nat. Afr. N. 46 (1919)
 
 #### Original name
-Ustilago brachypodii-distachyii Maire
+Ustilago brachypodii-distachyi Maire
 
 ### Remarks
 null

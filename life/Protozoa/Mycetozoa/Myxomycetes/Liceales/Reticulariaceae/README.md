@@ -1,5 +1,4 @@
-Reticulariaceae Chevall. FAMILY
-=======
+# Reticulariaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED

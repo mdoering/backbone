@@ -1,5 +1,4 @@
-Sphaeromonas minima E. Liebet. SPECIES
-=======
+# Sphaeromonas minima E. Liebet. SPECIES
 
 #### Status
 ACCEPTED

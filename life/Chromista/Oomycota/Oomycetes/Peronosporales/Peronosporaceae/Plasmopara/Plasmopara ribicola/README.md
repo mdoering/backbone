@@ -1,5 +1,4 @@
-Plasmopara ribicola J. Schröt., 1888 SPECIES
-=======
+# Plasmopara ribicola J. Schröt., 1888 SPECIES
 
 #### Status
 ACCEPTED

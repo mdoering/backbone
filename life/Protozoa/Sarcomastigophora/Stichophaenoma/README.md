@@ -1,5 +1,4 @@
-Stichophaenoma Haeckel, 1887 GENUS
-=======
+# Stichophaenoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

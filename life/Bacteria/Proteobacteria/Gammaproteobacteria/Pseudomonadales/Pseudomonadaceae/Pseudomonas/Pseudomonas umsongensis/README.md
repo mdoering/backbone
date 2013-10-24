@@ -1,5 +1,4 @@
-Pseudomonas umsongensis Kwon et al., 2003 SPECIES
-=======
+# Pseudomonas umsongensis Kwon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

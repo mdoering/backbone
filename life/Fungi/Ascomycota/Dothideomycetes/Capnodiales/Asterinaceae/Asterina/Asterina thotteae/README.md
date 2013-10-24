@@ -1,5 +1,4 @@
-Asterina thotteae Hosag. & Hanlin SPECIES
-=======
+# Asterina thotteae Hosag. & Hanlin SPECIES
 
 #### Status
 ACCEPTED

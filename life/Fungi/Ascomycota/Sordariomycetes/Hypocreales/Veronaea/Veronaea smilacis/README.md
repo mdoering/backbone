@@ -1,5 +1,4 @@
-Veronaea smilacis R.P. Singh, Kamal & Abassi SPECIES
-=======
+# Veronaea smilacis R.P. Singh, Kamal & Abassi SPECIES
 
 #### Status
 ACCEPTED

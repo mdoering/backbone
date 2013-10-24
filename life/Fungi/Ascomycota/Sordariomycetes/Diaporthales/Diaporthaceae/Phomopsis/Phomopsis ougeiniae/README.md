@@ -1,5 +1,4 @@
-Phomopsis ougeiniae R.K. Verma, Soni & N. Sharma SPECIES
-=======
+# Phomopsis ougeiniae R.K. Verma, Soni & N. Sharma SPECIES
 
 #### Status
 ACCEPTED

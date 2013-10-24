@@ -1,5 +1,4 @@
-Filosporella fistucella Marvanová & P.J. Fisher, 1991 SPECIES
-=======
+# Filosporella fistucella Marvanová & P.J. Fisher, 1991 SPECIES
 
 #### Status
 ACCEPTED

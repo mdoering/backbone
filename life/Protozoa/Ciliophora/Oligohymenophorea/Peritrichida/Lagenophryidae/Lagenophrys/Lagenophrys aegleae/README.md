@@ -1,5 +1,4 @@
-Lagenophrys aegleae Mouchet-Bennati, 1932 SPECIES
-=======
+# Lagenophrys aegleae Mouchet-Bennati, 1932 SPECIES
 
 #### Status
 ACCEPTED

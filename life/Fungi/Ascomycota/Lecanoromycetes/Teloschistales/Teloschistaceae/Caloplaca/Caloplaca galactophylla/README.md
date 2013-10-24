@@ -1,5 +1,4 @@
-Caloplaca galactophylla (Tuck.) Riddle SPECIES
-=======
+# Caloplaca galactophylla (Tuck.) Riddle SPECIES
 
 #### Status
 ACCEPTED

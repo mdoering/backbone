@@ -1,5 +1,4 @@
-Trichothecium candidum Wallr. SPECIES
-=======
+# Trichothecium candidum Wallr. SPECIES
 
 #### Status
 ACCEPTED

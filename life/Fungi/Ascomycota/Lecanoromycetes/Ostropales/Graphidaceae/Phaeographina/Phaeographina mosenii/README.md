@@ -1,5 +1,4 @@
-Phaeographina mosenii Redinger SPECIES
-=======
+# Phaeographina mosenii Redinger SPECIES
 
 #### Status
 ACCEPTED

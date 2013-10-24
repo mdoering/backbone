@@ -1,5 +1,4 @@
-Lecidea ochrophaea Tuck. SPECIES
-=======
+# Lecidea ochrophaea Tuck. SPECIES
 
 #### Status
 ACCEPTED

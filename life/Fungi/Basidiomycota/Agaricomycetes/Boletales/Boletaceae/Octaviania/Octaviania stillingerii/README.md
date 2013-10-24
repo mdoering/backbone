@@ -1,5 +1,4 @@
-Octaviania stillingerii Lloyd SPECIES
-=======
+# Octaviania stillingerii Lloyd SPECIES
 
 #### Status
 ACCEPTED

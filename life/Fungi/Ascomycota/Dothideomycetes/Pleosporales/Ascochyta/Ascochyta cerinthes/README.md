@@ -1,5 +1,4 @@
-Ascochyta cerinthes Lobik SPECIES
-=======
+# Ascochyta cerinthes Lobik SPECIES
 
 #### Status
 ACCEPTED

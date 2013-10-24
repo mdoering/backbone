@@ -1,5 +1,4 @@
-Puccinia ghiesbreghtii Parmelee SPECIES
-=======
+# Puccinia ghiesbreghtii Parmelee SPECIES
 
 #### Status
 ACCEPTED

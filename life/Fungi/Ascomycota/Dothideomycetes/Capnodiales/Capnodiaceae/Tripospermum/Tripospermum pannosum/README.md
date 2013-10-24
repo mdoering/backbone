@@ -1,5 +1,4 @@
-Tripospermum pannosum (Berk.) Speg. SPECIES
-=======
+# Tripospermum pannosum (Berk.) Speg. SPECIES
 
 #### Status
 ACCEPTED

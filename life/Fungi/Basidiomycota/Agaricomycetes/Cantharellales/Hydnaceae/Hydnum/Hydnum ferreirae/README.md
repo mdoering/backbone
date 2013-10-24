@@ -1,5 +1,4 @@
-Hydnum ferreirae Bres. & Torrend SPECIES
-=======
+# Hydnum ferreirae Bres. & Torrend SPECIES
 
 #### Status
 ACCEPTED

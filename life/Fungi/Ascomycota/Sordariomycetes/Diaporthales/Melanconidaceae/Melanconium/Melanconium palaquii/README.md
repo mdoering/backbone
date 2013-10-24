@@ -1,5 +1,4 @@
-Melanconium palaquii Zimm. SPECIES
-=======
+# Melanconium palaquii Zimm. SPECIES
 
 #### Status
 ACCEPTED

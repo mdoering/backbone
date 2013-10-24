@@ -1,5 +1,4 @@
-Amanita queletii var. queletii Bon & Dennis VARIETY
-=======
+# Amanita queletii Bon & Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Bon, Docums Mycol. 14(no. 56): 22 (1985)
 
 #### Original name
-Amanita queletii var. queletii Bon & Dennis
+Amanita queletii Bon & Dennis
 
 ### Remarks
 null

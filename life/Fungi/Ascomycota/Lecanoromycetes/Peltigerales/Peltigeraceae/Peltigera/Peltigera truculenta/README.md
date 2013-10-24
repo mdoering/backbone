@@ -1,5 +1,4 @@
-Peltigera truculenta De Not. SPECIES
-=======
+# Peltigera truculenta De Not. SPECIES
 
 #### Status
 ACCEPTED

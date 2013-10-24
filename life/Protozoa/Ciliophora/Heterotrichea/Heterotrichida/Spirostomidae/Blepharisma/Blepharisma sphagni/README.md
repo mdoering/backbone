@@ -1,5 +1,4 @@
-Blepharisma sphagni Lepsi, 1926 SPECIES
-=======
+# Blepharisma sphagni Lepsi, 1926 SPECIES
 
 #### Status
 ACCEPTED

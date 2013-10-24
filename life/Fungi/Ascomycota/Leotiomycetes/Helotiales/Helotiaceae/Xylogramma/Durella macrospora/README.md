@@ -1,5 +1,4 @@
-Durella macrospora Fuckel, 1870 SPECIES
-=======
+# Durella macrospora Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

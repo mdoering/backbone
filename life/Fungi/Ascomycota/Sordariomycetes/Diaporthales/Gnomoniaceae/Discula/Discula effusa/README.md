@@ -1,5 +1,4 @@
-Discula effusa (Berk. & Broome) Sacc. SPECIES
-=======
+# Discula effusa (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

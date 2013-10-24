@@ -1,5 +1,4 @@
-Zygosaccharomyces casei Sacch. SPECIES
-=======
+# Zygosaccharomyces casei Sacch. SPECIES
 
 #### Status
 ACCEPTED

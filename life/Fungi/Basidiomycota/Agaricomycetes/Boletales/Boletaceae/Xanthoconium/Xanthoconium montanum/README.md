@@ -1,5 +1,4 @@
-Xanthoconium montanum Wolfe, 1987 SPECIES
-=======
+# Xanthoconium montanum Wolfe, 1987 SPECIES
 
 #### Status
 ACCEPTED

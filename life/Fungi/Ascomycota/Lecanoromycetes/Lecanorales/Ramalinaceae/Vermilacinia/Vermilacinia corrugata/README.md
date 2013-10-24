@@ -1,5 +1,4 @@
-Vermilacinia corrugata Spjut SPECIES
-=======
+# Vermilacinia corrugata Spjut SPECIES
 
 #### Status
 ACCEPTED

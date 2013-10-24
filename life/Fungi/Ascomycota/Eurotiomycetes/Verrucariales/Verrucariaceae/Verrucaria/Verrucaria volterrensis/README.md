@@ -1,5 +1,4 @@
-Verrucaria volterrensis Servít SPECIES
-=======
+# Verrucaria volterrensis Servít SPECIES
 
 #### Status
 ACCEPTED

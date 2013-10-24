@@ -1,5 +1,4 @@
-Fusicoccum album (Preuss) Sacc. SPECIES
-=======
+# Fusicoccum album (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

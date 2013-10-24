@@ -1,5 +1,4 @@
-Cercospora nigellae Hollós, 1910 SPECIES
-=======
+# Cercospora nigellae Hollós, 1910 SPECIES
 
 #### Status
 ACCEPTED

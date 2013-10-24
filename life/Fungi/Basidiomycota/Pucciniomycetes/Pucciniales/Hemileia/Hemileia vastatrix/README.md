@@ -1,17 +1,16 @@
-Wardia vastatrix J.F. Hennen & M.M. Hennen, 2003 SPECIES
-=======
+# Hemileia vastatrix Berk. & Broome, 1869 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cummins & Hiratsuka, Illustr. Gen. Rust Fungi (St Paul) 40 (2003)
+Gard. Chron. , London 6: 1157 (1869)
 
 #### Original name
-Wardia vastatrix J.F. Hennen & M.M. Hennen, 2003
+Hemileia vastatrix Berk. & Broome, 1869
 
 ### Remarks
 null

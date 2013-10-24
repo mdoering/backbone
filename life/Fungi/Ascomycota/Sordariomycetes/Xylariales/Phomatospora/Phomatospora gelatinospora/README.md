@@ -1,5 +1,4 @@
-Phomatospora gelatinospora M.E. Barr, 1970 SPECIES
-=======
+# Phomatospora gelatinospora M.E. Barr, 1970 SPECIES
 
 #### Status
 ACCEPTED

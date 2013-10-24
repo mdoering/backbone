@@ -1,5 +1,4 @@
-Hypocrea chrysostigma Kalchbr. & Cooke SPECIES
-=======
+# Hypocrea chrysostigma Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

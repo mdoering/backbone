@@ -1,5 +1,4 @@
-Gloeosporium scorzonerae T.M. Achundov SPECIES
-=======
+# Gloeosporium scorzonerae T.M. Achundov SPECIES
 
 #### Status
 ACCEPTED

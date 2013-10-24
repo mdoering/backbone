@@ -1,5 +1,4 @@
-Phyllosticta aquifolii Allesch. SPECIES
-=======
+# Phyllosticta aquifolii Allesch. SPECIES
 
 #### Status
 ACCEPTED

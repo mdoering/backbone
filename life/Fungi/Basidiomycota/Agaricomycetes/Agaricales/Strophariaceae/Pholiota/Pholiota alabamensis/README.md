@@ -1,5 +1,4 @@
-Pholiota alabamensis (Murrill) A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota alabamensis (Murrill) A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

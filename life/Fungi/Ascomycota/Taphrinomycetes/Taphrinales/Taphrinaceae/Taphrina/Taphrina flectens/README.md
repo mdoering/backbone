@@ -1,5 +1,4 @@
-Taphrina flectens Mix SPECIES
-=======
+# Taphrina flectens Mix SPECIES
 
 #### Status
 ACCEPTED

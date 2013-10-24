@@ -1,5 +1,4 @@
-Diatrype ruficarnis Berk. & M.A. Curtis SPECIES
-=======
+# Diatrype ruficarnis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

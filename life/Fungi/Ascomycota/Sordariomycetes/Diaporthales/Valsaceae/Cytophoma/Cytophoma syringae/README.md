@@ -1,5 +1,4 @@
-Cytophoma syringae (Sacc.) Gutner SPECIES
-=======
+# Cytophoma syringae (Sacc.) Gutner SPECIES
 
 #### Status
 ACCEPTED

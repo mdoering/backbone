@@ -1,5 +1,4 @@
-Ascobolus hansenii M.D. Paulsen & Dissing, 1980 SPECIES
-=======
+# Ascobolus hansenii M.D. Paulsen & Dissing, 1980 SPECIES
 
 #### Status
 ACCEPTED

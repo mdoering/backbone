@@ -1,5 +1,4 @@
-Syntrophobacter pfennigii Wallrabenstein et al., 1996 SPECIES
-=======
+# Syntrophobacter pfennigii Wallrabenstein et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

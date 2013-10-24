@@ -1,5 +1,4 @@
-Sordaria comata (Kirschst.) A. Bayer SPECIES
-=======
+# Sordaria comata (Kirschst.) A. Bayer SPECIES
 
 #### Status
 ACCEPTED

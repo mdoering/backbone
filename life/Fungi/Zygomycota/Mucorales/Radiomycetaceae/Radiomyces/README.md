@@ -1,17 +1,16 @@
-Radiomycopsis Pidopl. & Milko GENUS
-=======
+# Radiomyces Embree GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Atlas Mukor. Grib. (Kiev) 9 (1971)
+Am. J. Bot. 46: 25 (1959)
 
 #### Original name
-Radiomycopsis Pidopl. & Milko
+Radiomyces Embree
 
 ### Remarks
 null

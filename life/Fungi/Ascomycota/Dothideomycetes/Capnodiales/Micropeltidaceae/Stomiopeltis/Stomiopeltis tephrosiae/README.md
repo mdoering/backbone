@@ -1,5 +1,4 @@
-Stomiopeltis tephrosiae Viégas SPECIES
-=======
+# Stomiopeltis tephrosiae Viégas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pterula brunneola Corner, 1950 SPECIES
-=======
+# Pterula brunneola Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tricholoma subfuscum Velen. SPECIES
-=======
+# Tricholoma subfuscum Velen. SPECIES
 
 #### Status
 ACCEPTED

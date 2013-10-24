@@ -1,5 +1,4 @@
-Aecidium leporinum Arthur SPECIES
-=======
+# Aecidium leporinum Arthur SPECIES
 
 #### Status
 ACCEPTED

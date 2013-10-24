@@ -1,5 +1,4 @@
-Euplotes psammophilus Vacelet, 1961 SPECIES
-=======
+# Euplotes psammophilus Vacelet, 1961 SPECIES
 
 #### Status
 ACCEPTED

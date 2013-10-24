@@ -1,5 +1,4 @@
-Psilopezia tremellosa Hazsl. SPECIES
-=======
+# Psilopezia tremellosa Hazsl. SPECIES
 
 #### Status
 ACCEPTED

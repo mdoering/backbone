@@ -1,5 +1,4 @@
-Fomes ostricolor Lloyd SPECIES
-=======
+# Fomes ostricolor Lloyd SPECIES
 
 #### Status
 ACCEPTED

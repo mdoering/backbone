@@ -1,5 +1,4 @@
-Psilopezia hydrophila (Peck) Seaver SPECIES
-=======
+# Psilopezia hydrophila (Peck) Seaver SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium blepharidis Har. & Pat. SPECIES
-=======
+# Aecidium blepharidis Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

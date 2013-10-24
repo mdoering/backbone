@@ -1,5 +1,4 @@
-Amphisolenia schauinslandii Lemmermann, 1899 SPECIES
-=======
+# Amphisolenia schauinslandii Lemmermann, 1899 SPECIES
 
 #### Status
 ACCEPTED

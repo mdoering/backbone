@@ -1,5 +1,4 @@
-Echidnodes bromeliae R.W. Ryan SPECIES
-=======
+# Echidnodes bromeliae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

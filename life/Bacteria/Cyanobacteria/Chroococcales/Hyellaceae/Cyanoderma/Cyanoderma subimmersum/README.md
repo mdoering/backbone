@@ -1,8 +1,7 @@
-Radaisiella subimmersa (Setchell & Gardner) Geitler SPECIES
-=======
+# Cyanoderma subimmersum (Setchell & Gardner) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Tritaxis Schubert, 1920 GENUS
-=======
+# Tritaxis Schubert, 1920 GENUS
 
 #### Status
 ACCEPTED

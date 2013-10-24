@@ -1,5 +1,4 @@
-Cenangium rehmii Feltgen SPECIES
-=======
+# Cenangium rehmii Feltgen SPECIES
 
 #### Status
 ACCEPTED

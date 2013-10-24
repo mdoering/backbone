@@ -1,5 +1,4 @@
-Mycosphaerella fushinoki Miura SPECIES
-=======
+# Mycosphaerella fushinoki Miura SPECIES
 
 #### Status
 ACCEPTED

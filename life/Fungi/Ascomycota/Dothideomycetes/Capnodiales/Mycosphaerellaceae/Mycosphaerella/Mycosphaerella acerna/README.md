@@ -1,14 +1,13 @@
-Mycosphaerella acerina (Wallr.) Johanson SPECIES
-=======
+# Mycosphaerella acerna (Fautrey) Tomilin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 6: 118 (1970)
 
 #### Original name
 Sphaerella acerna Fautrey

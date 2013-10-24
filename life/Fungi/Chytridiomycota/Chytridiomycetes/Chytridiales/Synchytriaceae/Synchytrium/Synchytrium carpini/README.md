@@ -1,5 +1,4 @@
-Synchytrium carpini M.T. Cook SPECIES
-=======
+# Synchytrium carpini M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

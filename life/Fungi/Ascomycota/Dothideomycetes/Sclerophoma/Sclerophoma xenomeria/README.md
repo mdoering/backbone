@@ -1,5 +1,4 @@
-Sclerophoma xenomeria A. Funk SPECIES
-=======
+# Sclerophoma xenomeria A. Funk SPECIES
 
 #### Status
 ACCEPTED

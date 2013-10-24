@@ -1,14 +1,13 @@
-Phomatospora sideroxylonis Gonz. Frag. & Cif., 1927 SPECIES
-=======
+# Phyllachora sideroxylonis (Gonz. Frag. & Cif.) Petr., 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Real Sociedad Española de Historia Natural, Biologica 27: 473 (1927)
+Annls mycol. 29: 365 (1931)
 
 #### Original name
 Phomatospora sideroxylonis Gonz. Frag. & Cif., 1927

@@ -1,5 +1,4 @@
-Trogia carminea Corner SPECIES
-=======
+# Trogia carminea Corner SPECIES
 
 #### Status
 ACCEPTED

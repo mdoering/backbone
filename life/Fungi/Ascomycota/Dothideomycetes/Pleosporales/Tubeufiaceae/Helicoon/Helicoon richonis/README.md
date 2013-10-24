@@ -1,5 +1,4 @@
-Helicoon richonis (Boud.) D. Linder, 1910 SPECIES
-=======
+# Helicoon richonis (Boud.) D. Linder, 1910 SPECIES
 
 #### Status
 ACCEPTED

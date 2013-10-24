@@ -1,5 +1,4 @@
-Mycovellosiella vitis Y.L. Guo & X.J. Liu SPECIES
-=======
+# Mycovellosiella vitis Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

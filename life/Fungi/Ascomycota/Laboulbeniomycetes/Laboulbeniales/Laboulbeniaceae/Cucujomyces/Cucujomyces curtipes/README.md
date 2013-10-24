@@ -1,5 +1,4 @@
-Cucujomyces curtipes Thaxt., 1917 SPECIES
-=======
+# Cucujomyces curtipes Thaxt., 1917 SPECIES
 
 #### Status
 ACCEPTED

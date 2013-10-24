@@ -1,5 +1,4 @@
-Puccinia brevicornis S. Ito SPECIES
-=======
+# Puccinia brevicornis S. Ito SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia complanata (Sw.) Ach. SPECIES
-=======
+# Parmelia complanata (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Secotium himalaicum M. Zang & Yoshim. Doi, 1995 SPECIES
-=======
+# Secotium himalaicum M. Zang & Yoshim. Doi, 1995 SPECIES
 
 #### Status
 ACCEPTED

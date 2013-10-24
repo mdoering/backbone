@@ -1,5 +1,4 @@
-Leocarpus granulatus Fr. SPECIES
-=======
+# Leocarpus granulatus Fr. SPECIES
 
 #### Status
 ACCEPTED

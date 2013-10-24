@@ -1,14 +1,13 @@
-Leptosphaeria marram (Cooke) Sacc., 1877 SPECIES
-=======
+# Phaeosphaeria marram (Cooke) O.E. Erikss., 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 5(no. 35): 120 (1877)
+Ark. Bot. , Ser. 2 6: 425 (1967)
 
 #### Original name
 Sphaeria marram Cooke, 1877

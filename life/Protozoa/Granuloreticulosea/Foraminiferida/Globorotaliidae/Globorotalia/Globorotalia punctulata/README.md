@@ -1,8 +1,7 @@
-Pulvinulina punctulata var. scabra Chapman, 1902 VARIETY
-=======
+# Globorotalia punctulata (Deshayes, 1832) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

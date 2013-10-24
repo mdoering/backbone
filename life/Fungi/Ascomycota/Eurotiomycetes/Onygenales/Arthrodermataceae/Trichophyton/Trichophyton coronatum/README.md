@@ -1,5 +1,4 @@
-Trichophyton coronatum Cazalbou SPECIES
-=======
+# Trichophyton coronatum Cazalbou SPECIES
 
 #### Status
 ACCEPTED

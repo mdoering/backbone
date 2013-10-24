@@ -1,14 +1,13 @@
-Terana effuscata (Cooke & Ellis) Kuntze, 1891 SPECIES
-=======
+# Dichostereum effuscatum (Cooke & Ellis) Boidin & Lanq., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 872 (1891)
+Mycotaxon 6(2): 284 (1977)
 
 #### Original name
 null

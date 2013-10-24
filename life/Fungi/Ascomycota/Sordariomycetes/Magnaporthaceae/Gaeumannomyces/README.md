@@ -1,5 +1,4 @@
-Gaeumannomyces Arx & D.L. Olivier GENUS
-=======
+# Gaeumannomyces Arx & D.L. Olivier GENUS
 
 #### Status
 ACCEPTED

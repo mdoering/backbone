@@ -1,5 +1,4 @@
-Cortinarius clarobaltoides var. clarobaltoides VARIETY
-=======
+# Cortinarius clarobaltoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. trimest. Soc. mycol. Fr. 105(1): 97 (1989)
 
 #### Original name
-Cortinarius clarobaltoides var. clarobaltoides
+Cortinarius clarobaltoides Rob. Henry
 
 ### Remarks
 null

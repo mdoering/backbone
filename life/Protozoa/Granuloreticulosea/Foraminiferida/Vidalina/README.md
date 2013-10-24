@@ -1,5 +1,4 @@
-Vidalina Schlumberger, 1900 GENUS
-=======
+# Vidalina Schlumberger, 1900 GENUS
 
 #### Status
 ACCEPTED

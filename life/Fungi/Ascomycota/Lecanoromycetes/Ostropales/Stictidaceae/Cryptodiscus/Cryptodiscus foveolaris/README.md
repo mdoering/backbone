@@ -1,5 +1,4 @@
-Cryptodiscus foveolaris Rehm SPECIES
-=======
+# Cryptodiscus foveolaris Rehm SPECIES
 
 #### Status
 ACCEPTED

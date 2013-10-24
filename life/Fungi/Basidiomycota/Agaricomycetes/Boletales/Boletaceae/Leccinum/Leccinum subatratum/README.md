@@ -1,5 +1,4 @@
-Leccinum subatratum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum subatratum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyothyrium ocoteae (Bat.) Bat. SPECIES
-=======
+# Dictyothyrium ocoteae (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

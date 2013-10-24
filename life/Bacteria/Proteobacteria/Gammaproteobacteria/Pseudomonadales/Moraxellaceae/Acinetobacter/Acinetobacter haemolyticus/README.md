@@ -1,11 +1,10 @@
-Achromobacter haemolyticus Stenzel & Mannheim, 1963 SPECIES
-=======
+# Acinetobacter haemolyticus (ex Stenzel & Mannheim, 1963) Bouvet & Grimont, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

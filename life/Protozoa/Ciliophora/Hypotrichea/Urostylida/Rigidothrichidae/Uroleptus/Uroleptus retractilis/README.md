@@ -1,5 +1,4 @@
-Uroleptus retractilis (Claparède & Lachmann, 1858) Song & Warren, 1996 SPECIES
-=======
+# Uroleptus retractilis (Claparède & Lachmann, 1858) Song & Warren, 1996 SPECIES
 
 #### Status
 ACCEPTED

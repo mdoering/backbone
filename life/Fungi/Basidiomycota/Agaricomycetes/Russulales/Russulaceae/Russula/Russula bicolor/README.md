@@ -1,5 +1,4 @@
-Russula bicolor Burl. SPECIES
-=======
+# Russula bicolor Burl. SPECIES
 
 #### Status
 ACCEPTED

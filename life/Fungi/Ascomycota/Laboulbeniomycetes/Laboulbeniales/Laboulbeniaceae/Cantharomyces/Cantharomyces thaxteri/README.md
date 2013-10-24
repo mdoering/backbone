@@ -1,5 +1,4 @@
-Cantharomyces thaxteri Maire SPECIES
-=======
+# Cantharomyces thaxteri Maire SPECIES
 
 #### Status
 ACCEPTED

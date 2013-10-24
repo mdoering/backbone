@@ -1,5 +1,4 @@
-Cryptococcus eguttulatus Pollacci & Nann. SPECIES
-=======
+# Cryptococcus eguttulatus Pollacci & Nann. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Psilocybe marginata (J. Schröt.) Noordel., 1995 SPECIES
-=======
+# Hypholoma marginatum J. Schröt., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 16(1): 129 (1995)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(3340): 571 (1889)
 
 #### Original name
-Hypholoma marginatum J. Schröt., 1889
+Agaricus marginatus Schumach., 1803
 
 ### Remarks
 null

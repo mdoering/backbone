@@ -1,5 +1,4 @@
-Shewanella sediminis Zhao et al., 2005 SPECIES
-=======
+# Shewanella sediminis Zhao et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

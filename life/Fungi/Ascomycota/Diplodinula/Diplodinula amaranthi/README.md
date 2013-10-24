@@ -1,5 +1,4 @@
-Diplodinula amaranthi (Fautrey) Tassi SPECIES
-=======
+# Diplodinula amaranthi (Fautrey) Tassi SPECIES
 
 #### Status
 ACCEPTED

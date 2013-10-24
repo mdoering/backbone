@@ -1,5 +1,4 @@
-Dendrotrichoscypha tetraspora Arendh. & R. Sharma SPECIES
-=======
+# Dendrotrichoscypha tetraspora Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

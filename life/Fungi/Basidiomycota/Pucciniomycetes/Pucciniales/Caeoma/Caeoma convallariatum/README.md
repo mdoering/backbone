@@ -1,5 +1,4 @@
-Caeoma convallariatum Link SPECIES
-=======
+# Caeoma convallariatum Link SPECIES
 
 #### Status
 ACCEPTED

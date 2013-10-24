@@ -1,5 +1,4 @@
-Agaricus uliginicola Speg. SPECIES
-=======
+# Agaricus uliginicola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gibbera ficina Cooke & Harkn. SPECIES
-=======
+# Gibbera ficina Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

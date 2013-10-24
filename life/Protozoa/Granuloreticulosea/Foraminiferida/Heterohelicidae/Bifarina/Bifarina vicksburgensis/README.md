@@ -1,5 +1,4 @@
-Bifarina vicksburgensis (Cushman) SPECIES
-=======
+# Bifarina vicksburgensis (Cushman) SPECIES
 
 #### Status
 ACCEPTED

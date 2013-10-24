@@ -1,5 +1,4 @@
-Rhachomyces sciakyi W. Rossi SPECIES
-=======
+# Rhachomyces sciakyi W. Rossi SPECIES
 
 #### Status
 ACCEPTED

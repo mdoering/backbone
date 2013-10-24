@@ -1,5 +1,4 @@
-Peziza viala Vahl SPECIES
-=======
+# Peziza viala Vahl SPECIES
 
 #### Status
 ACCEPTED

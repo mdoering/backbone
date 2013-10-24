@@ -1,5 +1,4 @@
-Batioladinium radiculatum R. J. Davey SPECIES
-=======
+# Batioladinium radiculatum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

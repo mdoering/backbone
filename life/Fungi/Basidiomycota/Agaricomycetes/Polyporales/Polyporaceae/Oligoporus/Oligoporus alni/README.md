@@ -1,5 +1,4 @@
-Oligoporus alni (Niemelä & Vampola) Piatek SPECIES
-=======
+# Oligoporus alni (Niemelä & Vampola) Piatek SPECIES
 
 #### Status
 ACCEPTED

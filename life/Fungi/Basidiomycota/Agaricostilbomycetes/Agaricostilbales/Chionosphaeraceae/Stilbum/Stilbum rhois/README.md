@@ -1,5 +1,4 @@
-Stilbum rhois Berk. & M.A. Curtis SPECIES
-=======
+# Stilbum rhois Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

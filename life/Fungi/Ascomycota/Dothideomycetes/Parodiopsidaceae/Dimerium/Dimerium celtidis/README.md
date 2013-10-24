@@ -1,5 +1,4 @@
-Dimerium celtidis Henn. SPECIES
-=======
+# Dimerium celtidis Henn. SPECIES
 
 #### Status
 ACCEPTED

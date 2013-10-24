@@ -1,14 +1,13 @@
-Plochmopeltidella lauracearum Bat. & T. Herrera, 1963 SPECIES
-=======
+# Orthobellus lauracearum (Bat. & T. Herrera) Cavalc. & A.A. Silva, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Publicações. Instituto de Micologia da Universidade do Recife & Instituto Nacional de Pesquis 392: 13 (1963)
+in Silva, Cavalcante & Leal, Publções Inst. Micol. Recife 691: 7 (1973)
 
 #### Original name
 Plochmopeltidella lauracearum Bat. & T. Herrera, 1963

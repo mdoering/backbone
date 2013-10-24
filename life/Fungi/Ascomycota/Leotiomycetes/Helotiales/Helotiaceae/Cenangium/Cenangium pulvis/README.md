@@ -1,5 +1,4 @@
-Cenangium pulvis Rebent. SPECIES
-=======
+# Cenangium pulvis Rebent. SPECIES
 
 #### Status
 ACCEPTED

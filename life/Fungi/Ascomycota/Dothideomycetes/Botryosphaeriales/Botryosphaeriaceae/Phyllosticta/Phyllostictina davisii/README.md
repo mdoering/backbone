@@ -1,5 +1,4 @@
-Phyllostictina davisii (Ellis & Everh.) Arx SPECIES
-=======
+# Phyllostictina davisii (Ellis & Everh.) Arx SPECIES
 
 #### Status
 ACCEPTED

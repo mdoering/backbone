@@ -1,5 +1,4 @@
-Ustilago secalis Rabenh. SPECIES
-=======
+# Ustilago secalis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staphylococcus arlettae Schleifer et al., 1985 SPECIES
-=======
+# Staphylococcus arlettae Schleifer et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

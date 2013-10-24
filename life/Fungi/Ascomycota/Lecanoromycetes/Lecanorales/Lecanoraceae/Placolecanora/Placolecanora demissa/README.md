@@ -1,5 +1,4 @@
-Placolecanora demissa f. demissa FORM
-=======
+# Placolecanora demissa (Flot.) Kopach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 9: 292 (1972)
 
 #### Original name
 Imbricaria demissa Flot.

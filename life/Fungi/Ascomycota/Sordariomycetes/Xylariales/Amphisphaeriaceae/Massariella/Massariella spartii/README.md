@@ -1,5 +1,4 @@
-Massariella spartii Casali SPECIES
-=======
+# Massariella spartii Casali SPECIES
 
 #### Status
 ACCEPTED

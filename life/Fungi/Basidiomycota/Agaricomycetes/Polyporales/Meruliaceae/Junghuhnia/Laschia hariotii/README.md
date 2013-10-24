@@ -1,5 +1,4 @@
-Laschia hariotii (Speg.) Speg. SPECIES
-=======
+# Laschia hariotii (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

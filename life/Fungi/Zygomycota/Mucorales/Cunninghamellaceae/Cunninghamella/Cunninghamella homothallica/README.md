@@ -1,5 +1,4 @@
-Cunninghamella homothallica Komin. & Tubaki, 1952 SPECIES
-=======
+# Cunninghamella homothallica Komin. & Tubaki, 1952 SPECIES
 
 #### Status
 ACCEPTED

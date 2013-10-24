@@ -1,5 +1,4 @@
-Sphaeria mucida var. mucida VARIETY
-=======
+# Sphaeria mucida ß mucida Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaeria mucida var. mucida
+Sphaeria mucida ß mucida Fr.
 
 ### Remarks
 null

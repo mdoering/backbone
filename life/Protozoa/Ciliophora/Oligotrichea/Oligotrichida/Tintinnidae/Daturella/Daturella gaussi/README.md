@@ -1,5 +1,4 @@
-Daturella gaussi Kofoid & Campbell, 1929 SPECIES
-=======
+# Daturella gaussi Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

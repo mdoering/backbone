@@ -1,5 +1,4 @@
-Smittium paludis Lichtw. & M.C. Williams, 1990 SPECIES
-=======
+# Smittium paludis Lichtw. & M.C. Williams, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium rubiae Tassi SPECIES
-=======
+# Gloeosporium rubiae Tassi SPECIES
 
 #### Status
 ACCEPTED

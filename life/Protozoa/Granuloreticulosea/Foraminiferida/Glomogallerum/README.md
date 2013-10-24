@@ -1,5 +1,4 @@
-Glomogallerum Urosevic, 1995 GENUS
-=======
+# Glomogallerum Urosevic, 1995 GENUS
 
 #### Status
 ACCEPTED

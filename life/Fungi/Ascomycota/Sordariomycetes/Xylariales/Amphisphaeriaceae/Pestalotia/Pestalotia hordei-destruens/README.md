@@ -1,5 +1,4 @@
-Pestalotia hordei-destruens Dennhardt SPECIES
-=======
+# Pestalotia hordei-destruens Dennhardt SPECIES
 
 #### Status
 ACCEPTED

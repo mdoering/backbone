@@ -1,5 +1,4 @@
-Peziza roumeguerei SPECIES
-=======
+# Peziza roumeguerei SPECIES
 
 #### Status
 ACCEPTED

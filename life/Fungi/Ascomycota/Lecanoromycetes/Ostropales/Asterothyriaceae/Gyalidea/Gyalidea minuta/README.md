@@ -1,5 +1,4 @@
-Gyalidea minuta Van den Boom & Vezda SPECIES
-=======
+# Gyalidea minuta Van den Boom & Vezda SPECIES
 
 #### Status
 ACCEPTED

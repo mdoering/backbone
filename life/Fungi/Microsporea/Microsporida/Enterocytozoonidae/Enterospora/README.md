@@ -1,5 +1,4 @@
-Enterospora Stentiford, Bateman, Longshaw & Feist, 2007 GENUS
-=======
+# Enterospora Stentiford, Bateman, Longshaw & Feist, 2007 GENUS
 
 #### Status
 ACCEPTED

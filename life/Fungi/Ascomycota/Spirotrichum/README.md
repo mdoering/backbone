@@ -1,5 +1,4 @@
-Spirotrichum GENUS
-=======
+# Spirotrichum GENUS
 
 #### Status
 ACCEPTED

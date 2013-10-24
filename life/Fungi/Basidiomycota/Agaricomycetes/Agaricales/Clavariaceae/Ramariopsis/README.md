@@ -1,5 +1,4 @@
-Ramariopsis (Donk) Corner, 1950 GENUS
-=======
+# Ramariopsis (Donk) Corner, 1950 GENUS
 
 #### Status
 ACCEPTED

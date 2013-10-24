@@ -1,17 +1,16 @@
-Dasyscypha brassicae Velen. SPECIES
-=======
+# Dasyscyphus brassicae Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Novitates Mycologicae 190 (1939)
 
 #### Original name
-Dasyscypha brassicae Velen.
+Dasyscyphus brassicae Velen.
 
 ### Remarks
 null

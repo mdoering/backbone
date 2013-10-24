@@ -1,5 +1,4 @@
-Chaetoceros septentrionalis SPECIES
-=======
+# Chaetoceros septentrionalis SPECIES
 
 #### Status
 ACCEPTED

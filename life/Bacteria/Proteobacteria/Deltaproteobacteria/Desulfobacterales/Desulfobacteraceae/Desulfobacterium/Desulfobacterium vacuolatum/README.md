@@ -1,5 +1,4 @@
-Desulfobacterium vacuolatum Kuever et al., 2006 SPECIES
-=======
+# Desulfobacterium vacuolatum Kuever et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

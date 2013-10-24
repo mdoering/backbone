@@ -1,5 +1,4 @@
-Nosema rivulogammari J.I.R. Larsson SPECIES
-=======
+# Nosema rivulogammari J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

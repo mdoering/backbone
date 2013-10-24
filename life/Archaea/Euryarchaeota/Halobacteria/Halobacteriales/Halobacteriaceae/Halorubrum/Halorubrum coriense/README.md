@@ -1,11 +1,10 @@
-Halorubrobacterium coriense Kamekura & Dyall-Smith, 1996 SPECIES
-=======
+# Halorubrum coriense (Kamekura & Dyall-Smith, 1996) Oren & Ventosa, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

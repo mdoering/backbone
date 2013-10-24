@@ -1,5 +1,4 @@
-Pertusaria trispora (Ohlert) B. de Lesd. SPECIES
-=======
+# Pertusaria trispora (Ohlert) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

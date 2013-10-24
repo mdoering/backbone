@@ -1,5 +1,4 @@
-Puccinia pottsii Doidge SPECIES
-=======
+# Puccinia pottsii Doidge SPECIES
 
 #### Status
 ACCEPTED

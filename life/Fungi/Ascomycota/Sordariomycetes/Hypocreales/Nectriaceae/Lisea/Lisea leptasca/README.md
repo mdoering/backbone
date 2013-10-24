@@ -1,5 +1,4 @@
-Lisea leptasca Sacc. SPECIES
-=======
+# Lisea leptasca Sacc. SPECIES
 
 #### Status
 ACCEPTED

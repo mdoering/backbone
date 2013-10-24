@@ -1,5 +1,4 @@
-Torula sporendonema Berk. & Broome, 1850 SPECIES
-=======
+# Torula sporendonema Berk. & Broome, 1850 SPECIES
 
 #### Status
 ACCEPTED

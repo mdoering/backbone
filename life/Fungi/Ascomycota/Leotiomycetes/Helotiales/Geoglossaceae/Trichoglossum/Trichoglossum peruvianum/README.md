@@ -1,5 +1,4 @@
-Trichoglossum peruvianum E.K. Cash SPECIES
-=======
+# Trichoglossum peruvianum E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

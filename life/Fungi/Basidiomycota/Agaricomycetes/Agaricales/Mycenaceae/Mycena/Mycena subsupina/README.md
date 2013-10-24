@@ -1,5 +1,4 @@
-Mycena subsupina A.H. Sm. SPECIES
-=======
+# Mycena subsupina A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

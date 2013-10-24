@@ -1,14 +1,13 @@
-Mucor faisalabadensis J.H. Mirza, S.M. Khan, S. Begum & Shagufta, 1979 SPECIES
-=======
+# Protomycocladus faisalabadensis (J.H. Mirza, S.M. Khan, S. Begum & Shagufta) Schipper & Samson, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mucor. Pakistan (Faisalabad), (Univ. Agric. Faisalabad) 69 (1979)
+Mycotaxon 50: 487 (1994)
 
 #### Original name
 Mucor faisalabadensis J.H. Mirza, S.M. Khan, S. Begum & Shagufta, 1979

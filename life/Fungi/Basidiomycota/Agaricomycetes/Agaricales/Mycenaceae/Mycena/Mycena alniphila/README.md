@@ -1,5 +1,4 @@
-Mycena alniphila Robich SPECIES
-=======
+# Mycena alniphila Robich SPECIES
 
 #### Status
 ACCEPTED

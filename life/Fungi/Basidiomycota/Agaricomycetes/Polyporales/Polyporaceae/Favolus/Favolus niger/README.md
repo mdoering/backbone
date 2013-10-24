@@ -1,5 +1,4 @@
-Favolus niger Lloyd SPECIES
-=======
+# Favolus niger Lloyd SPECIES
 
 #### Status
 ACCEPTED

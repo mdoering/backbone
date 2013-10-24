@@ -1,5 +1,4 @@
-Stagonospora collivagum Petr. SPECIES
-=======
+# Stagonospora collivagum Petr. SPECIES
 
 #### Status
 ACCEPTED

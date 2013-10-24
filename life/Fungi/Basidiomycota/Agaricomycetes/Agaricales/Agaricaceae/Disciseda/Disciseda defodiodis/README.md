@@ -1,5 +1,4 @@
-Disciseda defodiodis (Lloyd) Zeller SPECIES
-=======
+# Disciseda defodiodis (Lloyd) Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix aeruginosa Woronichin SPECIES
-=======
+# Calothrix aeruginosa Woronichin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe nuoljae Lamoure SPECIES
-=======
+# Clitocybe nuoljae Lamoure SPECIES
 
 #### Status
 ACCEPTED

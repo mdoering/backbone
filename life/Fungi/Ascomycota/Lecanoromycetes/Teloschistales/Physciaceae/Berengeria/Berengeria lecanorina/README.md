@@ -1,5 +1,4 @@
-Berengeria lecanorina (A. Massal.) Trevis. SPECIES
-=======
+# Berengeria lecanorina (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria santamonicae K. Knudsen & Elix SPECIES
-=======
+# Lepraria santamonicae K. Knudsen & Elix SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius palmarum (F. Brig.) Fr. SPECIES
-=======
+# Marasmius palmarum (F. Brig.) Fr. SPECIES
 
 #### Status
 ACCEPTED

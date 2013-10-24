@@ -1,5 +1,4 @@
-Chaenothecopsis sanguinea Tibell SPECIES
-=======
+# Chaenothecopsis sanguinea Tibell SPECIES
 
 #### Status
 ACCEPTED

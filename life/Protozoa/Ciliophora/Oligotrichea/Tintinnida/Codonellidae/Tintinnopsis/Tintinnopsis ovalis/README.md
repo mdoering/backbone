@@ -1,5 +1,4 @@
-Tintinnopsis ovalis Daday, 1892 SPECIES
-=======
+# Tintinnopsis ovalis Daday, 1892 SPECIES
 
 #### Status
 ACCEPTED

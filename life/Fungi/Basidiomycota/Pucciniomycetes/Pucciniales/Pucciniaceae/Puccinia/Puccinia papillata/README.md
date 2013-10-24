@@ -1,5 +1,4 @@
-Puccinia papillata Bonord. SPECIES
-=======
+# Puccinia papillata Bonord. SPECIES
 
 #### Status
 ACCEPTED

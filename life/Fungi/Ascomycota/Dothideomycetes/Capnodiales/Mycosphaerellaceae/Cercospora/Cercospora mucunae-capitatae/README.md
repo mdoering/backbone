@@ -1,5 +1,4 @@
-Cercospora mucunae-capitatae Sawada SPECIES
-=======
+# Cercospora mucunae-capitatae Sawada SPECIES
 
 #### Status
 ACCEPTED

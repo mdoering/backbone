@@ -1,5 +1,4 @@
-Umbilicaria cinerascens (Ach.) Nyl. SPECIES
-=======
+# Umbilicaria cinerascens (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clavulina griseopurpurascens Corner SPECIES
-=======
+# Clavulina griseopurpurascens Corner SPECIES
 
 #### Status
 ACCEPTED

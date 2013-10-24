@@ -1,5 +1,4 @@
-Bryoria tenerrima (Motyka) Bystrek & Fabisz. SPECIES
-=======
+# Bryoria tenerrima (Motyka) Bystrek & Fabisz. SPECIES
 
 #### Status
 ACCEPTED

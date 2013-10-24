@@ -1,14 +1,13 @@
-Mycophycophila polyporolithi Bonar, 1965 SPECIES
-=======
+# Chadefaudia polyporolithi (Bonar) Kohlm., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 57(3): 379 (1965)
+Bot. Mar. 16(4): 205. (1973)
 
 #### Original name
 Mycophycophila polyporolithi Bonar, 1965

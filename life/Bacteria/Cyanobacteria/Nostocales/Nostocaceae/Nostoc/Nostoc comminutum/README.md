@@ -1,5 +1,4 @@
-Nostoc comminutum Kuetzing SPECIES
-=======
+# Nostoc comminutum Kuetzing SPECIES
 
 #### Status
 ACCEPTED

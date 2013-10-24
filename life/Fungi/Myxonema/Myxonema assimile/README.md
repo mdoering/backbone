@@ -1,5 +1,4 @@
-Myxonema assimile Corda SPECIES
-=======
+# Myxonema assimile Corda SPECIES
 
 #### Status
 ACCEPTED

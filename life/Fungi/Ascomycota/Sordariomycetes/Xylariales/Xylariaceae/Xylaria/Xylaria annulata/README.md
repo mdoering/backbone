@@ -1,5 +1,4 @@
-Xylaria annulata (Ehrenb.) Sacc. SPECIES
-=======
+# Xylaria annulata (Ehrenb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

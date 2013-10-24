@@ -1,5 +1,4 @@
-Strigulomyces elegantis Cif. & Tomas. SPECIES
-=======
+# Strigulomyces elegantis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

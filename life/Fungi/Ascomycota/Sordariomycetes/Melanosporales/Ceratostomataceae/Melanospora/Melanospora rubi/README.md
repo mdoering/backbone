@@ -1,5 +1,4 @@
-Melanospora rubi Rehm SPECIES
-=======
+# Melanospora rubi Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alisphaera gaudii Kleijne, Jordan, Heimdal, Samtleben, Chamberlain & Cros, 2002 SPECIES
-=======
+# Alisphaera gaudii Kleijne, Jordan, Heimdal, Samtleben, Chamberlain & Cros, 2002 SPECIES
 
 #### Status
 ACCEPTED

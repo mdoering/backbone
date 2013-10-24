@@ -1,5 +1,4 @@
-Mycorhynchidium Malloch & Cain GENUS
-=======
+# Mycorhynchidium Malloch & Cain GENUS
 
 #### Status
 ACCEPTED

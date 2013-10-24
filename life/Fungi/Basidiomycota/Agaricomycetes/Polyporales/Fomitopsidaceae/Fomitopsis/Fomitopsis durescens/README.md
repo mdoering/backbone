@@ -1,14 +1,13 @@
-Polyporus durescens Overh. ex J. Lowe, 1975 SPECIES
-=======
+# Fomitopsis durescens (Overh.) Gilb. & Ryvarden, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 2(1): 65 (1975)
+N. Amer. Polyp. (Oslo), Vol. <b>1</b> <i>Abortiporus</i> - <i>Lindtneri</i> 1: 271 (1986)
 
 #### Original name
 Polyporus durescens Overh. ex J. Lowe, 1975

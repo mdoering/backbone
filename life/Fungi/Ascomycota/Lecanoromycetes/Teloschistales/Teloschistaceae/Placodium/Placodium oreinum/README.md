@@ -1,5 +1,4 @@
-Placodium oreinum SPECIES
-=======
+# Placodium oreinum SPECIES
 
 #### Status
 ACCEPTED

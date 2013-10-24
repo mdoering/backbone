@@ -1,5 +1,4 @@
-Agaricus ambiguus Pers. SPECIES
-=======
+# Agaricus ambiguus Pers. SPECIES
 
 #### Status
 ACCEPTED

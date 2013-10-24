@@ -1,5 +1,4 @@
-Tapesia subiculata (Schwein.) Sacc. SPECIES
-=======
+# Tapesia subiculata (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

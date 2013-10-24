@@ -1,5 +1,4 @@
-Coelomycidium ephemerae Weiser SPECIES
-=======
+# Coelomycidium ephemerae Weiser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ramalina inanis Mont. SPECIES
-=======
+# Ramalina inanis Mont. SPECIES
 
 #### Status
 ACCEPTED

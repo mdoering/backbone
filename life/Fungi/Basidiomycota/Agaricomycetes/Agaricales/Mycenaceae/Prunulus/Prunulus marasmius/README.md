@@ -1,5 +1,4 @@
-Prunulus marasmius Murrill SPECIES
-=======
+# Prunulus marasmius Murrill SPECIES
 
 #### Status
 ACCEPTED

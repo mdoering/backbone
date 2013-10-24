@@ -1,14 +1,13 @@
-Boletus bruchii Speg., 1926 SPECIES
-=======
+# Phlebopus bruchii (Speg.) Heinem. & Rammeloo, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Soc. Ciencias de Córdoba 28: 351 (1926)
+Mycotaxon 15: 391 (1982)
 
 #### Original name
 Boletus bruchii Speg., 1926

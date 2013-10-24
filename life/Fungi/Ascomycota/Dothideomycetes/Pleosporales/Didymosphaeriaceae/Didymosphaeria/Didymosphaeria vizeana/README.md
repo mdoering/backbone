@@ -1,5 +1,4 @@
-Didymosphaeria vizeana (Cooke) Sacc. SPECIES
-=======
+# Didymosphaeria vizeana (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

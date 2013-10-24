@@ -1,5 +1,4 @@
-Collema albociliatum (Desm.) Nyl. SPECIES
-=======
+# Collema albociliatum (Desm.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Buellia modesta var. modesta VARIETY
-=======
+# Buellia americana (Fée) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 334 (1931)
 
 #### Original name
-null
+Lecidea parasema var. americana Fée
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sclerophyton maculatum A.W. Archer SPECIES
-=======
+# Sclerophyton maculatum A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

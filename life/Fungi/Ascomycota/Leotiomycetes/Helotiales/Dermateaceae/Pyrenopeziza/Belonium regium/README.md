@@ -1,5 +1,4 @@
-Belonium regium Rehm SPECIES
-=======
+# Belonium regium Rehm SPECIES
 
 #### Status
 ACCEPTED

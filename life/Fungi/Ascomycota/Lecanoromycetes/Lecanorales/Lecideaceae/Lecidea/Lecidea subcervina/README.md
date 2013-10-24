@@ -1,5 +1,4 @@
-Lecidea subcervina Nyl. SPECIES
-=======
+# Lecidea subcervina Nyl. SPECIES
 
 #### Status
 ACCEPTED

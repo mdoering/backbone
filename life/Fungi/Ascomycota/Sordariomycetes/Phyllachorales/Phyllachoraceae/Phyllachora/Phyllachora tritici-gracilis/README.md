@@ -1,14 +1,13 @@
-Sphaeria tritici-gracilis Castagne, 1845 SPECIES
-=======
+# Phyllachora tritici-gracilis (Castagne) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Pl. Mars. 170 (1845)
+Syll. fung. (Abellini) 2: 604 (1883)
 
 #### Original name
 Sphaeria tritici-gracilis Castagne, 1845

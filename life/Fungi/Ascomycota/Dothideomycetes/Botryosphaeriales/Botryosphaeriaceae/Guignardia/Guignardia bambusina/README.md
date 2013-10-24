@@ -1,5 +1,4 @@
-Guignardia bambusina Rehm SPECIES
-=======
+# Guignardia bambusina Rehm SPECIES
 
 #### Status
 ACCEPTED

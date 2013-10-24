@@ -1,17 +1,16 @@
-Dendrosporium candelabroide R.F. Castañeda SPECIES
-=======
+# Dendrosporium candelabroides R.F. Castañeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungi Cubenses (La Habana) 7 (1986)
 
 #### Original name
-Dendrosporium candelabroide R.F. Castañeda
+Dendrosporium candelabroides R.F. Castañeda
 
 ### Remarks
 null

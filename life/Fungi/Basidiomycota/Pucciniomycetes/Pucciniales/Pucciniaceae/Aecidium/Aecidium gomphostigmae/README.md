@@ -1,5 +1,4 @@
-Aecidium gomphostigmae Doidge SPECIES
-=======
+# Aecidium gomphostigmae Doidge SPECIES
 
 #### Status
 ACCEPTED

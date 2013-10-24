@@ -1,5 +1,4 @@
-Patellaria punctata Wallr. SPECIES
-=======
+# Patellaria punctata Wallr. SPECIES
 
 #### Status
 ACCEPTED

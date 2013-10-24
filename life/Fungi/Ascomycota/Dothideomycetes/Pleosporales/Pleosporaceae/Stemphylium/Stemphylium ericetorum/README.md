@@ -1,5 +1,4 @@
-Stemphylium ericetorum A. Braun & de Bary SPECIES
-=======
+# Stemphylium ericetorum A. Braun & de Bary SPECIES
 
 #### Status
 ACCEPTED

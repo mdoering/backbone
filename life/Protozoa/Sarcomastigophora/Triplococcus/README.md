@@ -1,5 +1,4 @@
-Triplococcus Danelian & Popov, 2003 GENUS
-=======
+# Triplococcus Danelian & Popov, 2003 GENUS
 
 #### Status
 ACCEPTED

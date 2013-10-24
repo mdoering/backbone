@@ -1,14 +1,13 @@
-Karschia fulvodisca Pat., 1895 SPECIES
-=======
+# Heterosphaeriopsis fulvodisca (Pat.) Hafellner, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 11(4): 218 (1895)
+Beih. Nova Hedwigia 62: 176 (1979)
 
 #### Original name
 Karschia fulvodisca Pat., 1895

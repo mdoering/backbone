@@ -1,5 +1,4 @@
-Omphalodina daltoniana (Hook. f. & Taylor) Follmann & Redón SPECIES
-=======
+# Omphalodina daltoniana (Hook. f. & Taylor) Follmann & Redón SPECIES
 
 #### Status
 ACCEPTED

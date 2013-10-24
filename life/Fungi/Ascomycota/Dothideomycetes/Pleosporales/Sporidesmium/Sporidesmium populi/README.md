@@ -1,5 +1,4 @@
-Sporidesmium populi P. Crouan & H. Crouan SPECIES
-=======
+# Sporidesmium populi P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

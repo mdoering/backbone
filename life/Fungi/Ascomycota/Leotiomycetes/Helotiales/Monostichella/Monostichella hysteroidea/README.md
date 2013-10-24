@@ -1,5 +1,4 @@
-Monostichella hysteroidea (Dearn. & Barthol.) Arx SPECIES
-=======
+# Monostichella hysteroidea (Dearn. & Barthol.) Arx SPECIES
 
 #### Status
 ACCEPTED

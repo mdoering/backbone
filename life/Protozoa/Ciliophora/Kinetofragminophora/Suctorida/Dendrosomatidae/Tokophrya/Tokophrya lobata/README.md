@@ -1,5 +1,4 @@
-Tokophrya lobata SPECIES
-=======
+# Tokophrya lobata SPECIES
 
 #### Status
 ACCEPTED

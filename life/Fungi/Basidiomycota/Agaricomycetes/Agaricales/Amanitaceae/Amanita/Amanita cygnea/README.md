@@ -1,5 +1,4 @@
-Amanita cygnea Schulzer SPECIES
-=======
+# Amanita cygnea Schulzer SPECIES
 
 #### Status
 ACCEPTED

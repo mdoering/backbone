@@ -1,5 +1,4 @@
-Uvigerina semicostata Cushman, 1923 SPECIES
-=======
+# Uvigerina semicostata Cushman, 1923 SPECIES
 
 #### Status
 ACCEPTED

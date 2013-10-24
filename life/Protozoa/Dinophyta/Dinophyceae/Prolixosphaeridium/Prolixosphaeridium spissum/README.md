@@ -1,5 +1,4 @@
-Prolixosphaeridium spissum (Mcintyre & Brideaux, 1980) Lentin & Williams, 1981 SPECIES
-=======
+# Prolixosphaeridium spissum (Mcintyre & Brideaux, 1980) Lentin & Williams, 1981 SPECIES
 
 #### Status
 ACCEPTED

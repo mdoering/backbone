@@ -1,5 +1,4 @@
-Sphaeria lumbricoides Pers. SPECIES
-=======
+# Sphaeria lumbricoides Pers. SPECIES
 
 #### Status
 ACCEPTED

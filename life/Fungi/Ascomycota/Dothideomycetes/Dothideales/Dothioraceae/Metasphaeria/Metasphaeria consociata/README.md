@@ -1,5 +1,4 @@
-Metasphaeria consociata Rehm SPECIES
-=======
+# Metasphaeria consociata Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eutypella angulosa var. angulosa VARIETY
-=======
+# Eutypella angulosa (Nitschke) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Eutypella angulosa var. angulosa
+Valsa angulosa Nitschke
 
 ### Remarks
 null

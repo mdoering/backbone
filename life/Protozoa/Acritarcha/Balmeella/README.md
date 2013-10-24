@@ -1,5 +1,4 @@
-Balmeella D.D.Pant & B.Mehra GENUS
-=======
+# Balmeella D.D.Pant & B.Mehra GENUS
 
 #### Status
 ACCEPTED

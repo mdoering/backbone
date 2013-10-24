@@ -1,5 +1,4 @@
-Lenticulina orbicularis SPECIES
-=======
+# Lenticulina orbicularis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria echitis Syd. SPECIES
-=======
+# Septoria echitis Syd. SPECIES
 
 #### Status
 ACCEPTED

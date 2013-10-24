@@ -1,14 +1,13 @@
-Neofuscelia parasitica Elix SPECIES
-=======
+# Xanthoparmelia parasitica (Elix) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 47: 111 (1993)
+Taxon 53(4): 969 (2004)
 
 #### Original name
 Neofuscelia parasitica Elix

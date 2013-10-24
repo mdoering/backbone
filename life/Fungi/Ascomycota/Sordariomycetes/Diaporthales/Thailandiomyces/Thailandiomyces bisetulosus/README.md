@@ -1,5 +1,4 @@
-Thailandiomyces bisetulosus Pinruan, Sakay., Hyde & E.B.G. Jones, 2008 SPECIES
-=======
+# Thailandiomyces bisetulosus Pinruan, Sakay., Hyde & E.B.G. Jones, 2008 SPECIES
 
 #### Status
 ACCEPTED

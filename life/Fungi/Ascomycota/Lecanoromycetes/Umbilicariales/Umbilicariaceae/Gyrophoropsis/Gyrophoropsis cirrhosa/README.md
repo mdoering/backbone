@@ -1,5 +1,4 @@
-Gyrophoropsis cirrhosa (Hoffm.) M. Choisy SPECIES
-=======
+# Gyrophoropsis cirrhosa (Hoffm.) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

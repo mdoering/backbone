@@ -1,5 +1,4 @@
-Spirulina spirulinoides (Ghose) Geitler SPECIES
-=======
+# Spirulina spirulinoides (Ghose) Geitler SPECIES
 
 #### Status
 ACCEPTED

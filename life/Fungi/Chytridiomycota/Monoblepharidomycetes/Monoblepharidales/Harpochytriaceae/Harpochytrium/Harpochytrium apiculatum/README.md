@@ -1,5 +1,4 @@
-Harpochytrium apiculatum Pascher SPECIES
-=======
+# Harpochytrium apiculatum Pascher SPECIES
 
 #### Status
 ACCEPTED

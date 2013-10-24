@@ -1,5 +1,4 @@
-Porina augustana (Britzelm.) Lettau SPECIES
-=======
+# Porina augustana (Britzelm.) Lettau SPECIES
 
 #### Status
 ACCEPTED

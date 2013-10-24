@@ -1,5 +1,4 @@
-Acladium halysium Bonord. SPECIES
-=======
+# Acladium halysium Bonord. SPECIES
 
 #### Status
 ACCEPTED

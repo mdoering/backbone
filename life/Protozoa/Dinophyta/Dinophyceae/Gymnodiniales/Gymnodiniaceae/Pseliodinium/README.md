@@ -1,5 +1,4 @@
-Pseliodinium Sournia, 1972 GENUS
-=======
+# Pseliodinium Sournia, 1972 GENUS
 
 #### Status
 ACCEPTED

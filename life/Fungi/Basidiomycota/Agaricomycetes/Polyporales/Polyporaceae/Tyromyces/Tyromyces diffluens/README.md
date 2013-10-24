@@ -1,5 +1,4 @@
-Tyromyces diffluens Corner SPECIES
-=======
+# Tyromyces diffluens Corner SPECIES
 
 #### Status
 ACCEPTED

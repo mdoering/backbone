@@ -1,5 +1,4 @@
-Serratia Bizio, 1823 GENUS
-=======
+# Serratia Bizio, 1823 GENUS
 
 #### Status
 ACCEPTED

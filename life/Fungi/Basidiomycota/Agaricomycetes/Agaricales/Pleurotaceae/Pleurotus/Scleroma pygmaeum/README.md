@@ -1,5 +1,4 @@
-Scleroma pygmaeum Berk. SPECIES
-=======
+# Scleroma pygmaeum Berk. SPECIES
 
 #### Status
 ACCEPTED

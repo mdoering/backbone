@@ -1,5 +1,4 @@
-Capnodium trichostomum Speg. SPECIES
-=======
+# Capnodium trichostomum Speg. SPECIES
 
 #### Status
 ACCEPTED

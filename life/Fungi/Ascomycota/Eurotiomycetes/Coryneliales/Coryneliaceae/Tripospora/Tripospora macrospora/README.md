@@ -1,5 +1,4 @@
-Tripospora macrospora Fitzp., 1942 SPECIES
-=======
+# Tripospora macrospora Fitzp., 1942 SPECIES
 
 #### Status
 ACCEPTED

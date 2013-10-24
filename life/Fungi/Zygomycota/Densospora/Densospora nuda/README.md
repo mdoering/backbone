@@ -1,5 +1,4 @@
-Densospora nuda McGee, 1996 SPECIES
-=======
+# Densospora nuda McGee, 1996 SPECIES
 
 #### Status
 ACCEPTED

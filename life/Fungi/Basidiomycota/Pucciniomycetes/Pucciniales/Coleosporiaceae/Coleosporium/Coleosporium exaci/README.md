@@ -1,5 +1,4 @@
-Coleosporium exaci Syd. & P. Syd. SPECIES
-=======
+# Coleosporium exaci Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

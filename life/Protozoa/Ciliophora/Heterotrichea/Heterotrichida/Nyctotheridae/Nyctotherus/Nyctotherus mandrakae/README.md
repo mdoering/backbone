@@ -1,5 +1,4 @@
-Nyctotherus mandrakae Tuzet & Manier, 1954 SPECIES
-=======
+# Nyctotherus mandrakae Tuzet & Manier, 1954 SPECIES
 
 #### Status
 ACCEPTED

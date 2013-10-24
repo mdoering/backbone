@@ -1,14 +1,13 @@
-Mycoacia furfuracea (Bres.) Spirin & Zmitr., 2004 SPECIES
-=======
+# Resinicium furfuraceum (Bres.) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 37: 183 (2004)
+Consp. System. Corticiac. (Tartu) 98 (1968)
 
 #### Original name
 null

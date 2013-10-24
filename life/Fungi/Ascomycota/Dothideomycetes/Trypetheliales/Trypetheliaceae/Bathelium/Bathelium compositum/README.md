@@ -1,5 +1,4 @@
-Bathelium compositum (Vain.) C.W. Dodge SPECIES
-=======
+# Bathelium compositum (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

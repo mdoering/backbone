@@ -1,5 +1,4 @@
-Absconditella sphagnorum Vezda & Poelt SPECIES
-=======
+# Absconditella sphagnorum Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

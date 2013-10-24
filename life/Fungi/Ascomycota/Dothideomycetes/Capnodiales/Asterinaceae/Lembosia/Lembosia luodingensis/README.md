@@ -1,5 +1,4 @@
-Lembosia luodingensis B. Song SPECIES
-=======
+# Lembosia luodingensis B. Song SPECIES
 
 #### Status
 ACCEPTED

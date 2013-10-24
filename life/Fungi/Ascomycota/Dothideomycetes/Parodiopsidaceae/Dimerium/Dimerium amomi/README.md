@@ -1,5 +1,4 @@
-Dimerium amomi Berk. & M.A. Curtis SPECIES
-=======
+# Dimerium amomi Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

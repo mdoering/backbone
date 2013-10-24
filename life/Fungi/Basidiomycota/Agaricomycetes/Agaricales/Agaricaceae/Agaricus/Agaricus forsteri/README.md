@@ -1,5 +1,4 @@
-Agaricus forsteri Speg. SPECIES
-=======
+# Agaricus forsteri Speg. SPECIES
 
 #### Status
 ACCEPTED

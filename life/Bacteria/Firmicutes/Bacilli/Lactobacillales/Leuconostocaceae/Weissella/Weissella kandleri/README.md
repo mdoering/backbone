@@ -1,5 +1,4 @@
-Weissella kandleri (Holzapfel & van Wyk, 1983) Collins et al., 1994 SPECIES
-=======
+# Weissella kandleri (Holzapfel & van Wyk, 1983) Collins et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

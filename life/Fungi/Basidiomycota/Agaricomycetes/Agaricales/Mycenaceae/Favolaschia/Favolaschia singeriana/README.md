@@ -1,14 +1,13 @@
-Favolaschia intermedia subsp. singeriana (Dennis) Singer SUBSPECIES
-=======
+# Favolaschia singeriana Dennis, 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 50: 91 (1974)
+Kew Bull. 7: 331 (1952)
 
 #### Original name
 Favolaschia singeriana Dennis, 1952

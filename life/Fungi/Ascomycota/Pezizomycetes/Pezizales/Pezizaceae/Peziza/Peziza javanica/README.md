@@ -1,5 +1,4 @@
-Peziza javanica Nees & Lév. SPECIES
-=======
+# Peziza javanica Nees & Lév. SPECIES
 
 #### Status
 ACCEPTED

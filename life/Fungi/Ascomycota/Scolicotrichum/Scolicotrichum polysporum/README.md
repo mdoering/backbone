@@ -1,5 +1,4 @@
-Scolicotrichum polysporum Bonord. SPECIES
-=======
+# Scolicotrichum polysporum Bonord. SPECIES
 
 #### Status
 ACCEPTED

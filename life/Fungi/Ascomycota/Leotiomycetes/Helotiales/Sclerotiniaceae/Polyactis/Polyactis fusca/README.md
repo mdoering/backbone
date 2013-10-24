@@ -1,5 +1,4 @@
-Polyactis fusca Cooke & Harkn. SPECIES
-=======
+# Polyactis fusca Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

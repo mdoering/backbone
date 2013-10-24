@@ -1,5 +1,4 @@
-Polyporus fugax (Pers.) Pers. SPECIES
-=======
+# Polyporus fugax (Pers.) Pers. SPECIES
 
 #### Status
 ACCEPTED

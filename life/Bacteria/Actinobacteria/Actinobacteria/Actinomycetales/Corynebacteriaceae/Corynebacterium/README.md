@@ -1,5 +1,4 @@
-Corynebacterium GENUS
-=======
+# Corynebacterium GENUS
 
 #### Status
 ACCEPTED

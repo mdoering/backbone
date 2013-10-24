@@ -1,5 +1,4 @@
-Coniella eucalypti (Bat. & Peres) B. Sutton SPECIES
-=======
+# Coniella eucalypti (Bat. & Peres) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

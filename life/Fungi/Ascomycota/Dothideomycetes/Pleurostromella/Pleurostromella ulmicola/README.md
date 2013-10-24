@@ -1,5 +1,4 @@
-Pleurostromella ulmicola Petr., 1922 SPECIES
-=======
+# Pleurostromella ulmicola Petr., 1922 SPECIES
 
 #### Status
 ACCEPTED

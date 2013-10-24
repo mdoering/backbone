@@ -1,5 +1,4 @@
-Hypoxiphothecaella inflata SPECIES
-=======
+# Hypoxiphothecaella inflata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calothrix rosea Taylor, 1928 SPECIES
-=======
+# Calothrix rosea Taylor, 1928 SPECIES
 
 #### Status
 ACCEPTED

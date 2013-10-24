@@ -1,5 +1,4 @@
-Sphenophrya sphaeri SPECIES
-=======
+# Sphenophrya sphaeri SPECIES
 
 #### Status
 ACCEPTED

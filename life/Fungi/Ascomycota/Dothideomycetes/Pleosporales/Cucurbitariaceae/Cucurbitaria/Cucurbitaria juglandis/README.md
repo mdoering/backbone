@@ -1,5 +1,4 @@
-Cucurbitaria juglandis Fuckel SPECIES
-=======
+# Cucurbitaria juglandis Fuckel SPECIES
 
 #### Status
 ACCEPTED

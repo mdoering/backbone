@@ -1,5 +1,4 @@
-Coccoidella Höhn. GENUS
-=======
+# Coccoidella Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula wallrothii Lév. SPECIES
-=======
+# Uncinula wallrothii Lév. SPECIES
 
 #### Status
 ACCEPTED

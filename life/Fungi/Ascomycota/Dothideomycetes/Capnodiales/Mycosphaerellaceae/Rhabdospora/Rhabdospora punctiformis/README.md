@@ -1,5 +1,4 @@
-Rhabdospora punctiformis P. Karst. SPECIES
-=======
+# Rhabdospora punctiformis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

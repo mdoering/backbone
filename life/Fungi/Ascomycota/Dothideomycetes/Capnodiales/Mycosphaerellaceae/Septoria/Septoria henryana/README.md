@@ -1,5 +1,4 @@
-Septoria henryana Traverso SPECIES
-=======
+# Septoria henryana Traverso SPECIES
 
 #### Status
 ACCEPTED

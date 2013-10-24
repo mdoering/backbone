@@ -1,5 +1,4 @@
-Psychrobacter urativorans Bowman et al., 1996 SPECIES
-=======
+# Psychrobacter urativorans Bowman et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

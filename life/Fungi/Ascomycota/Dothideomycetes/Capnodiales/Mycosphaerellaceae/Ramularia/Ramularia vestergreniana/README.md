@@ -1,5 +1,4 @@
-Ramularia vestergreniana Allesch. SPECIES
-=======
+# Ramularia vestergreniana Allesch. SPECIES
 
 #### Status
 ACCEPTED

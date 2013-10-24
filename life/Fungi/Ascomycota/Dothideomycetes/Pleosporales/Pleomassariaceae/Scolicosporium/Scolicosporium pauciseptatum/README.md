@@ -1,5 +1,4 @@
-Scolicosporium pauciseptatum Constant. SPECIES
-=======
+# Scolicosporium pauciseptatum Constant. SPECIES
 
 #### Status
 ACCEPTED

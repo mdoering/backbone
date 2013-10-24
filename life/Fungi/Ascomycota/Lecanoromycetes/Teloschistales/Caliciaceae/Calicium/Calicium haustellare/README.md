@@ -1,5 +1,4 @@
-Calicium haustellare Ach. SPECIES
-=======
+# Calicium haustellare Ach. SPECIES
 
 #### Status
 ACCEPTED

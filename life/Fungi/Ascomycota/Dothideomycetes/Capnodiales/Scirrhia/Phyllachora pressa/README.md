@@ -1,5 +1,4 @@
-Phyllachora pressa Syd., 1939 SPECIES
-=======
+# Phyllachora pressa Syd., 1939 SPECIES
 
 #### Status
 DOUBTFUL

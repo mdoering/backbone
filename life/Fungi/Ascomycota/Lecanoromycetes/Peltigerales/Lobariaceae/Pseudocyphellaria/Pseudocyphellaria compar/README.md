@@ -1,17 +1,16 @@
-Pseudocyphellaria compar var. compar VARIETY
-=======
+# Pseudocyphellaria compar (Nyl.) H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Acta horti gotoburg. 14: 8 (1940)
 
 #### Original name
-Pseudocyphellaria compar var. compar
+Sticta compar (Nyl.) Zahlbr.
 
 ### Remarks
 null

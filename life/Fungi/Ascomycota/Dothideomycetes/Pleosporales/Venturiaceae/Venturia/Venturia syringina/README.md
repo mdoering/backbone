@@ -1,5 +1,4 @@
-Venturia syringina Kirschst. SPECIES
-=======
+# Venturia syringina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

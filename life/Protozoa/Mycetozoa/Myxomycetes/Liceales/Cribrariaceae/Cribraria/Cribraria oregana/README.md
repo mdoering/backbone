@@ -1,17 +1,16 @@
-Cribraria vulgaris oregana (H.C. Gilbert) Nann.-Bremek. & Lado, 1985 INFRASPECIFIC_NAME
-=======
+# Cribraria oregana H.C. Gilbert, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Peck & Gilbert, Am. J. Bot. 19: 142 (1932)
 
 #### Original name
-null
+Cribraria oregana H.C. Gilbert, 1932
 
 ### Remarks
 null

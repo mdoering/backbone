@@ -1,5 +1,4 @@
-Ustilago underwoodii Zundel SPECIES
-=======
+# Ustilago underwoodii Zundel SPECIES
 
 #### Status
 ACCEPTED

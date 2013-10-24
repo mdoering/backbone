@@ -1,5 +1,4 @@
-Uredo kilimanjarensis Ritschel SPECIES
-=======
+# Uredo kilimanjarensis Ritschel SPECIES
 
 #### Status
 ACCEPTED

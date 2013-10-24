@@ -1,5 +1,4 @@
-Spiroplasma platyhelix Williamson et al., 1997 SPECIES
-=======
+# Spiroplasma platyhelix Williamson et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

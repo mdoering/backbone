@@ -1,5 +1,4 @@
-Platygrapha aurata Fée SPECIES
-=======
+# Platygrapha aurata Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meiourogonyaulax caytonensis (Sarjeant, 1959) Sarjeant, 1969 SPECIES
-=======
+# Meiourogonyaulax caytonensis (Sarjeant, 1959) Sarjeant, 1969 SPECIES
 
 #### Status
 ACCEPTED

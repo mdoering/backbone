@@ -1,5 +1,4 @@
-Lecidea asukensis Lynge SPECIES
-=======
+# Lecidea asukensis Lynge SPECIES
 
 #### Status
 ACCEPTED

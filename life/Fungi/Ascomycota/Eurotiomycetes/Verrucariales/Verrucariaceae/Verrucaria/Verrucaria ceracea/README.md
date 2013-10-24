@@ -1,5 +1,4 @@
-Verrucaria ceracea J. Steiner SPECIES
-=======
+# Verrucaria ceracea J. Steiner SPECIES
 
 #### Status
 ACCEPTED

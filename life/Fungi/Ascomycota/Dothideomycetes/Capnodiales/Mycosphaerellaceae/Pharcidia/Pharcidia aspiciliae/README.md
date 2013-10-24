@@ -1,5 +1,4 @@
-Pharcidia aspiciliae (J. Lahm) G. Winter SPECIES
-=======
+# Pharcidia aspiciliae (J. Lahm) G. Winter SPECIES
 
 #### Status
 ACCEPTED

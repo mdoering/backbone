@@ -1,5 +1,4 @@
-Neurospora discreta D.D. Perkins & N.B. Raju, 1986 SPECIES
-=======
+# Neurospora discreta D.D. Perkins & N.B. Raju, 1986 SPECIES
 
 #### Status
 ACCEPTED

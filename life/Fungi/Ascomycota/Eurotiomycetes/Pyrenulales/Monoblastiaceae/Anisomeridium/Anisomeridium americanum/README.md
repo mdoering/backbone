@@ -1,14 +1,13 @@
-Leiophloea americana (A. Massal.) Trevis. SPECIES
-=======
+# Anisomeridium americanum (A. Massal.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+More Florida Lichens (New York), Incl. 10 Cent Tour Pyrenol. 144 (1995)
 
 #### Original name
 Arthopyrenia americana A. Massal.

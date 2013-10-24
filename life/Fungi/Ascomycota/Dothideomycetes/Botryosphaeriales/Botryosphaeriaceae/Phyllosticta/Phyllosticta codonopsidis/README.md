@@ -1,8 +1,7 @@
-Phyllosticta codonopsis Kalymb. SPECIES
-=======
+# Phyllosticta codonopsidis Kalymb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phyllosticta codonopsis Kalymb.
+Phyllosticta codonopsidis Kalymb.
 
 ### Remarks
 null

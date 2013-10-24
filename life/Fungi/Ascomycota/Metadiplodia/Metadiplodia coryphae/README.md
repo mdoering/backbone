@@ -1,5 +1,4 @@
-Metadiplodia coryphae (Cooke) Zambett. SPECIES
-=======
+# Metadiplodia coryphae (Cooke) Zambett. SPECIES
 
 #### Status
 ACCEPTED

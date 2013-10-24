@@ -1,11 +1,10 @@
-Biscogniauxia formosana subsp. formosana SUBSPECIES
-=======
+# Biscogniauxia formosana Y.M. Ju & J.D. Rogers, 2001 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

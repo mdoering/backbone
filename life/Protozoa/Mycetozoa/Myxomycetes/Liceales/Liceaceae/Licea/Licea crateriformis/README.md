@@ -1,5 +1,4 @@
-Licea crateriformis Ing, 1999 SPECIES
-=======
+# Licea crateriformis Ing, 1999 SPECIES
 
 #### Status
 ACCEPTED

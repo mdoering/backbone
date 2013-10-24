@@ -1,5 +1,4 @@
-Coccidioides Rixford & Gilchrist, 1896 GENUS
-=======
+# Coccidioides Rixford & Gilchrist, 1896 GENUS
 
 #### Status
 ACCEPTED

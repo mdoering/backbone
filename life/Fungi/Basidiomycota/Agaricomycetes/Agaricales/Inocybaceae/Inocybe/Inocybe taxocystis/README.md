@@ -1,14 +1,13 @@
-Astrosporina taxocystis J. Favre & E. Horak, 1987 SPECIES
-=======
+# Inocybe taxocystis (J. Favre & E. Horak) Senn-Irlet, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Horak, Arctic Alpine Mycology (New York), II 230 (1987)
+Bot. Helv. 102(1): 55 (1992)
 
 #### Original name
 Astrosporina taxocystis J. Favre & E. Horak, 1987

@@ -1,5 +1,4 @@
-Lepiota decorata Zeller SPECIES
-=======
+# Lepiota decorata Zeller SPECIES
 
 #### Status
 ACCEPTED

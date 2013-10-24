@@ -1,5 +1,4 @@
-Puccinia kurosawae Sawada SPECIES
-=======
+# Puccinia kurosawae Sawada SPECIES
 
 #### Status
 ACCEPTED

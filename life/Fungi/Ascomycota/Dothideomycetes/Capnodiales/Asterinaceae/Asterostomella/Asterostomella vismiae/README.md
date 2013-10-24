@@ -1,5 +1,4 @@
-Asterostomella vismiae Bat., J.L. Bezerra & Peres SPECIES
-=======
+# Asterostomella vismiae Bat., J.L. Bezerra & Peres SPECIES
 
 #### Status
 ACCEPTED

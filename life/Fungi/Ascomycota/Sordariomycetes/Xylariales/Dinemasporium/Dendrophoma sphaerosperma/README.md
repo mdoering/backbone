@@ -1,5 +1,4 @@
-Dendrophoma sphaerosperma Bres. SPECIES
-=======
+# Dendrophoma sphaerosperma Bres. SPECIES
 
 #### Status
 ACCEPTED

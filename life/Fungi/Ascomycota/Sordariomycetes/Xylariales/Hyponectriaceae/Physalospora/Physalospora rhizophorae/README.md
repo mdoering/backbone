@@ -1,5 +1,4 @@
-Physalospora rhizophorae Bat. & H. Maia SPECIES
-=======
+# Physalospora rhizophorae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

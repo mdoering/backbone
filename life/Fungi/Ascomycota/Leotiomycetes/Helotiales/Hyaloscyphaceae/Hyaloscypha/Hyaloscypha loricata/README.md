@@ -1,5 +1,4 @@
-Hyaloscypha loricata Velen. SPECIES
-=======
+# Hyaloscypha loricata Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campanella alnetorum Singer SPECIES
-=======
+# Campanella alnetorum Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perezia fumiferanae Thomson SPECIES
-=======
+# Perezia fumiferanae Thomson SPECIES
 
 #### Status
 ACCEPTED

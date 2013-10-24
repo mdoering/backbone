@@ -1,5 +1,4 @@
-Leccinum pellstonianum A.H. Sm. & Thiers SPECIES
-=======
+# Leccinum pellstonianum A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

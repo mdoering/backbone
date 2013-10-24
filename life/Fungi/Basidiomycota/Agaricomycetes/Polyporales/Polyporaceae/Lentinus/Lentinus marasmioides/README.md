@@ -1,5 +1,4 @@
-Lentinus marasmioides Henn. SPECIES
-=======
+# Lentinus marasmioides Henn. SPECIES
 
 #### Status
 ACCEPTED

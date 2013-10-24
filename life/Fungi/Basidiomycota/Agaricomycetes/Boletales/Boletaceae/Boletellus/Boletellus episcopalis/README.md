@@ -1,5 +1,4 @@
-Boletellus episcopalis R. Heim & Perr.-Bertr. SPECIES
-=======
+# Boletellus episcopalis R. Heim & Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

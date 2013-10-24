@@ -1,5 +1,4 @@
-Puccinia caricis-polystachyae Dietel SPECIES
-=======
+# Puccinia caricis-polystachyae Dietel SPECIES
 
 #### Status
 ACCEPTED

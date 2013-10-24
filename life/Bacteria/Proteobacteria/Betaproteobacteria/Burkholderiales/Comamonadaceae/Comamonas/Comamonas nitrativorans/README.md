@@ -1,5 +1,4 @@
-Comamonas nitrativorans Etchebehere et al., 2001 SPECIES
-=======
+# Comamonas nitrativorans Etchebehere et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

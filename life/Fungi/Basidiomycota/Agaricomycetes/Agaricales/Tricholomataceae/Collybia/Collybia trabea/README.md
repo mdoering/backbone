@@ -1,5 +1,4 @@
-Collybia trabea Britzelm. SPECIES
-=======
+# Collybia trabea Britzelm. SPECIES
 
 #### Status
 ACCEPTED

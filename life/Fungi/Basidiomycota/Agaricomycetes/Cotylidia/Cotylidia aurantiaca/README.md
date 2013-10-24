@@ -1,8 +1,7 @@
-Cotylidia aurantiaca var. aurantiaca (Pers.) A.L. Welden, 1958 VARIETY
-=======
+# Cotylidia aurantiaca (Pers.) A.L. Welden, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Lloydia 21: 40 (1958)
 
 #### Original name
-Cotylidia aurantiaca var. aurantiaca (Pers.) A.L. Welden, 1958
+Thelephora aurantiaca Pers., 1827
 
 ### Remarks
 null

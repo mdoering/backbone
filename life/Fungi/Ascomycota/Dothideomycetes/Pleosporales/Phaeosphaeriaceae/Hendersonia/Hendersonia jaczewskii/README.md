@@ -1,5 +1,4 @@
-Hendersonia jaczewskii Woron. SPECIES
-=======
+# Hendersonia jaczewskii Woron. SPECIES
 
 #### Status
 ACCEPTED

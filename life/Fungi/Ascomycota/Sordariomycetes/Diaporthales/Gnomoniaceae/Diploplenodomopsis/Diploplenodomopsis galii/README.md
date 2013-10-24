@@ -1,5 +1,4 @@
-Diploplenodomopsis galii Moesz SPECIES
-=======
+# Diploplenodomopsis galii Moesz SPECIES
 
 #### Status
 ACCEPTED

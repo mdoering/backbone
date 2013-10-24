@@ -1,5 +1,4 @@
-Phialea minutula Sacc. SPECIES
-=======
+# Phialea minutula Sacc. SPECIES
 
 #### Status
 ACCEPTED

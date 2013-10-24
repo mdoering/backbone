@@ -1,5 +1,4 @@
-Poria cinerea (Schwein.) Sacc. SPECIES
-=======
+# Poria cinerea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

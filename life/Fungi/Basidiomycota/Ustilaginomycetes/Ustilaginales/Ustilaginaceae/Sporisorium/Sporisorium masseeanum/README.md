@@ -1,5 +1,4 @@
-Sporisorium masseeanum Vánky SPECIES
-=======
+# Sporisorium masseeanum Vánky SPECIES
 
 #### Status
 ACCEPTED

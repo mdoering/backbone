@@ -1,5 +1,4 @@
-Gyrodinium aciculatum G. Hansen & J. Larsen, 1992 SPECIES
-=======
+# Gyrodinium aciculatum G. Hansen & J. Larsen, 1992 SPECIES
 
 #### Status
 ACCEPTED

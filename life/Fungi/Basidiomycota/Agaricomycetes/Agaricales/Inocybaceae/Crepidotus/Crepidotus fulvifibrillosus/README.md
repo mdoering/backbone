@@ -1,17 +1,16 @@
-Crepidotus fulvifibrillosus var. fulvifibrillosus VARIETY
-=======
+# Crepidotus fulvifibrillosus Murrill, 1917 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 10(3): 153 (1917)
 
 #### Original name
-null
+Crepidotus fulvifibrillosus Murrill, 1917
 
 ### Remarks
 null

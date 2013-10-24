@@ -1,5 +1,4 @@
-Leightonia porosa (Ach.) Trevis. SPECIES
-=======
+# Leightonia porosa (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus verminosus (Mont.) Sacc. SPECIES
-=======
+# Ophiobolus verminosus (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

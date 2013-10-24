@@ -1,5 +1,4 @@
-Dictyoconoides cooki (Carter) SPECIES
-=======
+# Dictyoconoides cooki (Carter) SPECIES
 
 #### Status
 ACCEPTED

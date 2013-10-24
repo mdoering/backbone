@@ -1,5 +1,4 @@
-Puccinia caricis-daisensis Y. Morimoto SPECIES
-=======
+# Puccinia caricis-daisensis Y. Morimoto SPECIES
 
 #### Status
 ACCEPTED

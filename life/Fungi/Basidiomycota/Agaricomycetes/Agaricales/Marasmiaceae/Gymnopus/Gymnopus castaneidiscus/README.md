@@ -1,5 +1,4 @@
-Gymnopus castaneidiscus Murrill SPECIES
-=======
+# Gymnopus castaneidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

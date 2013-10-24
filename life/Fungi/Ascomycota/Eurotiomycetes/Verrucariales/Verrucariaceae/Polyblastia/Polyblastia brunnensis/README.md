@@ -1,5 +1,4 @@
-Polyblastia brunnensis Vezda SPECIES
-=======
+# Polyblastia brunnensis Vezda SPECIES
 
 #### Status
 ACCEPTED

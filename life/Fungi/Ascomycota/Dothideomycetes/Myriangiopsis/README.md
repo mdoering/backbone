@@ -1,5 +1,4 @@
-Myriangiopsis Henn. GENUS
-=======
+# Myriangiopsis Henn. GENUS
 
 #### Status
 ACCEPTED

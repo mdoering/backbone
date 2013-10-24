@@ -1,5 +1,4 @@
-Gymnodinium voukii Schiller SPECIES
-=======
+# Gymnodinium voukii Schiller SPECIES
 
 #### Status
 ACCEPTED

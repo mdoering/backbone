@@ -1,5 +1,4 @@
-Semichitinoidella Nowak, 1978 GENUS
-=======
+# Semichitinoidella Nowak, 1978 GENUS
 
 #### Status
 ACCEPTED

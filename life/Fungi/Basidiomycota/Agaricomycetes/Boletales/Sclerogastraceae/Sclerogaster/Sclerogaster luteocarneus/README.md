@@ -1,5 +1,4 @@
-Sclerogaster luteocarneus (Bres.) Zeller & C.W. Dodge, 1935 SPECIES
-=======
+# Sclerogaster luteocarneus (Bres.) Zeller & C.W. Dodge, 1935 SPECIES
 
 #### Status
 ACCEPTED

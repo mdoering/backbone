@@ -1,8 +1,7 @@
-Uncinula lynckii Speg., 1880 SPECIES
-=======
+# Pleochaeta lynckii (Speg.) Speg., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Uncinula lynckii Speg., 1880
+null
 
 ### Remarks
 null

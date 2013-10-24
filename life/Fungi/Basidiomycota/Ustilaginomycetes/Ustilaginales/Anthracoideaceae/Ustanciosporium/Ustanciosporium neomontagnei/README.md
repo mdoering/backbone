@@ -1,5 +1,4 @@
-Ustanciosporium neomontagnei M. Piepenbr. & Begerow, 2000 SPECIES
-=======
+# Ustanciosporium neomontagnei M. Piepenbr. & Begerow, 2000 SPECIES
 
 #### Status
 ACCEPTED

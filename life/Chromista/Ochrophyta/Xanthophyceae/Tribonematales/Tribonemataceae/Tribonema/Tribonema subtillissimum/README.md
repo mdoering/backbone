@@ -1,5 +1,4 @@
-Tribonema subtillissimum Pascher SPECIES
-=======
+# Tribonema subtillissimum Pascher SPECIES
 
 #### Status
 ACCEPTED

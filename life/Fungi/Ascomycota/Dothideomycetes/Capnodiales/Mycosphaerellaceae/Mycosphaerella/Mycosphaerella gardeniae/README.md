@@ -1,5 +1,4 @@
-Mycosphaerella gardeniae (Cooke) Henn. SPECIES
-=======
+# Mycosphaerella gardeniae (Cooke) Henn. SPECIES
 
 #### Status
 ACCEPTED

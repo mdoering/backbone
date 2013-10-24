@@ -1,5 +1,4 @@
-Opegrapha microscopica Sm. SPECIES
-=======
+# Opegrapha microscopica Sm. SPECIES
 
 #### Status
 ACCEPTED

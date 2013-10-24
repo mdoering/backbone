@@ -1,5 +1,4 @@
-Rhabdospora cardui Losa SPECIES
-=======
+# Rhabdospora cardui Losa SPECIES
 
 #### Status
 ACCEPTED

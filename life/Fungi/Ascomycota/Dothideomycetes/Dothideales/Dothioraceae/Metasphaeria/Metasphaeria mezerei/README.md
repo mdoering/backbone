@@ -1,5 +1,4 @@
-Metasphaeria mezerei Feltgen SPECIES
-=======
+# Metasphaeria mezerei Feltgen SPECIES
 
 #### Status
 ACCEPTED

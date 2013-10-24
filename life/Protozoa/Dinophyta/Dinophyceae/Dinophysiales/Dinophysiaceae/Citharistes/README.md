@@ -1,14 +1,13 @@
-Citharistis Lemmermann, 1903 GENUS
-=======
+# Citharistes Stein, 1883 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Abh. Ver. Bremen, 17, 377.
+Org. Infus. , 3 (2), 24.
 
 #### Original name
 null

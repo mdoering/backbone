@@ -1,5 +1,4 @@
-Collybia crystallifera Velen. SPECIES
-=======
+# Collybia crystallifera Velen. SPECIES
 
 #### Status
 ACCEPTED

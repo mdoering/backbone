@@ -1,5 +1,4 @@
-Didymopsora Dietel GENUS
-=======
+# Didymopsora Dietel GENUS
 
 #### Status
 ACCEPTED

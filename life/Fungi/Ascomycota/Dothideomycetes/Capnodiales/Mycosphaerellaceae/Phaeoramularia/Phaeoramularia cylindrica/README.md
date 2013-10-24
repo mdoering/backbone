@@ -1,5 +1,4 @@
-Phaeoramularia cylindrica R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
-=======
+# Phaeoramularia cylindrica R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

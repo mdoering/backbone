@@ -1,5 +1,4 @@
-Moellerodiscus griseliniae P.R. Johnst., 2002 SPECIES
-=======
+# Moellerodiscus griseliniae P.R. Johnst., 2002 SPECIES
 
 #### Status
 ACCEPTED

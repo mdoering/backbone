@@ -1,5 +1,4 @@
-Sphaerella oryzae (Catt.) Sacc. SPECIES
-=======
+# Sphaerella oryzae (Catt.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

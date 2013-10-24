@@ -1,5 +1,4 @@
-Cytosporella sambuci D. Sacc. SPECIES
-=======
+# Cytosporella sambuci D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

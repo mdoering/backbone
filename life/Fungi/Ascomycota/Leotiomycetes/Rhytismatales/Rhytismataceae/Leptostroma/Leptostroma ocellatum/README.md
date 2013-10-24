@@ -1,5 +1,4 @@
-Leptostroma ocellatum P. Westendorp SPECIES
-=======
+# Leptostroma ocellatum P. Westendorp SPECIES
 
 #### Status
 ACCEPTED

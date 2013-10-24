@@ -1,5 +1,4 @@
-Agaricus psichiophorus Berk. & Broome SPECIES
-=======
+# Agaricus psichiophorus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

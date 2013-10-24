@@ -1,5 +1,4 @@
-Graphis crassilabra Müll. Arg. SPECIES
-=======
+# Graphis crassilabra Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

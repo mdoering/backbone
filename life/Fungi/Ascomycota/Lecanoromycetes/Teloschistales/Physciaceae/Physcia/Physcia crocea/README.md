@@ -1,5 +1,4 @@
-Physcia crocea (Ach.) Nyl. SPECIES
-=======
+# Physcia crocea (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

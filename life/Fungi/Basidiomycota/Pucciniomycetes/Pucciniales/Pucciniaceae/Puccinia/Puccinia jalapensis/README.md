@@ -1,5 +1,4 @@
-Puccinia jalapensis (Holw.) Barthol. ex Cummins SPECIES
-=======
+# Puccinia jalapensis (Holw.) Barthol. ex Cummins SPECIES
 
 #### Status
 ACCEPTED

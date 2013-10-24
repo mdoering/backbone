@@ -1,5 +1,4 @@
-Pterula complanata Corner, 1952 SPECIES
-=======
+# Pterula complanata Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

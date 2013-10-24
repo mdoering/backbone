@@ -1,8 +1,7 @@
-Protoperidinium rhombiformis Abé SPECIES
-=======
+# Protoperidinium rhombiforme (Abé, 1981) Balech, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

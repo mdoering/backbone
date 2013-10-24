@@ -1,5 +1,4 @@
-Caloplaca sonorae Wetmore SPECIES
-=======
+# Caloplaca sonorae Wetmore SPECIES
 
 #### Status
 ACCEPTED

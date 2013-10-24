@@ -1,5 +1,4 @@
-Dothidea tetrasperma Berk. & Broome SPECIES
-=======
+# Dothidea tetrasperma Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Octotetraspora paradoxa I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova SPECIES
-=======
+# Octotetraspora paradoxa I.V. Issi, Kadyrova, Pushkar, Khodzhaeva & S.V. Krylova SPECIES
 
 #### Status
 ACCEPTED

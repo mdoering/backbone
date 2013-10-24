@@ -1,5 +1,4 @@
-Trichophaea arctica Dissing SPECIES
-=======
+# Trichophaea arctica Dissing SPECIES
 
 #### Status
 ACCEPTED

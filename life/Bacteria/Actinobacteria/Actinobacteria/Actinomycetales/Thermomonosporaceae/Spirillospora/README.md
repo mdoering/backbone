@@ -1,5 +1,4 @@
-Spirillospora GENUS
-=======
+# Spirillospora GENUS
 
 #### Status
 ACCEPTED

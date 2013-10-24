@@ -1,5 +1,4 @@
-Puccinia remireae J.M. Yen SPECIES
-=======
+# Puccinia remireae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

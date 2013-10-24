@@ -1,5 +1,4 @@
-Sagedia rhododendri Bagl. SPECIES
-=======
+# Sagedia rhododendri Bagl. SPECIES
 
 #### Status
 ACCEPTED

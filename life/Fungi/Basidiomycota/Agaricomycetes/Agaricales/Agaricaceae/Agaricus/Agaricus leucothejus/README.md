@@ -1,5 +1,4 @@
-Agaricus leucothejus Fr. SPECIES
-=======
+# Agaricus leucothejus Fr. SPECIES
 
 #### Status
 ACCEPTED

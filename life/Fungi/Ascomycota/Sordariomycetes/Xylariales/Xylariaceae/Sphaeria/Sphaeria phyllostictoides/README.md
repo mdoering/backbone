@@ -1,5 +1,4 @@
-Sphaeria phyllostictoides Saporta SPECIES
-=======
+# Sphaeria phyllostictoides Saporta SPECIES
 
 #### Status
 ACCEPTED

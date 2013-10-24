@@ -1,5 +1,4 @@
-Nectria cytosporina Ellis & Everh. SPECIES
-=======
+# Nectria cytosporina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

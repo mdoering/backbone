@@ -1,5 +1,4 @@
-Microthelia intermedia Müll. Arg. SPECIES
-=======
+# Microthelia intermedia Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

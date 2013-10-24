@@ -1,5 +1,4 @@
-Asteridiella gaylussaciae var. gaylussaciae VARIETY
-=======
+# Asteridiella gaylussaciae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 489 (1961)
 
 #### Original name
-Asteridiella gaylussaciae var. gaylussaciae
+Irene gaylussaciae Hansf.
 
 ### Remarks
 null

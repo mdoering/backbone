@@ -1,5 +1,4 @@
-Pyrenopeziza rimicola (P. Karst.) Sacc. SPECIES
-=======
+# Pyrenopeziza rimicola (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

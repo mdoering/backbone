@@ -1,17 +1,16 @@
-Naganishia globosus Goto SPECIES
-=======
+# Naganishia globosa Goto SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Ferment. Technol. , Osaka 41(9): 461 (1963)
 
 #### Original name
-Naganishia globosus Goto
+Naganishia globosa Goto
 
 ### Remarks
 null

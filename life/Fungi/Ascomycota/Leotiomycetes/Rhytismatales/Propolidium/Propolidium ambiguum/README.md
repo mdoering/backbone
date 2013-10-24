@@ -1,5 +1,4 @@
-Propolidium ambiguum Starbäck SPECIES
-=======
+# Propolidium ambiguum Starbäck SPECIES
 
 #### Status
 ACCEPTED

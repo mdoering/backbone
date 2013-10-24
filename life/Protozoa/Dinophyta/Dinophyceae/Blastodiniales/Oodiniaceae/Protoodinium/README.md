@@ -1,5 +1,4 @@
-Protoodinium Hovasse, 1935 GENUS
-=======
+# Protoodinium Hovasse, 1935 GENUS
 
 #### Status
 ACCEPTED

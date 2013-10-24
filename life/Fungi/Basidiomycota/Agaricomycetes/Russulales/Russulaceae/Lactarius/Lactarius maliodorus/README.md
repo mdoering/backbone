@@ -1,5 +1,4 @@
-Lactarius maliodorus Boud. SPECIES
-=======
+# Lactarius maliodorus Boud. SPECIES
 
 #### Status
 ACCEPTED

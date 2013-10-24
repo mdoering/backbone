@@ -1,5 +1,4 @@
-Cryptosporium prunicola Ellis & Everh. SPECIES
-=======
+# Cryptosporium prunicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trapeliopsis Hertel & Gotth. Schneid. GENUS
-=======
+# Trapeliopsis Hertel & Gotth. Schneid. GENUS
 
 #### Status
 ACCEPTED

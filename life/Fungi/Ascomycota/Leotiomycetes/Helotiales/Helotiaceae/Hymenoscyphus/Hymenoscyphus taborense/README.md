@@ -1,5 +1,4 @@
-Hymenoscyphus taborense Svrcek SPECIES
-=======
+# Hymenoscyphus taborense Svrcek SPECIES
 
 #### Status
 ACCEPTED

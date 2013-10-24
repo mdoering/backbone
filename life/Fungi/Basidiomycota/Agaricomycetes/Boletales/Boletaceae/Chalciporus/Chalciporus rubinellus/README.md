@@ -1,14 +1,13 @@
-Suillus rubinellus (Peck) Singer, 1945 SPECIES
-=======
+# Chalciporus rubinellus (Peck) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 2: 47 (1945)
+Persoonia 7(2): 319 (1973)
 
 #### Original name
 Boletus rubinellus Peck, 1887

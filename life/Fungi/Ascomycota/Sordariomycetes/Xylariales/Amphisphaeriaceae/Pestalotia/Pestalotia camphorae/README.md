@@ -1,17 +1,16 @@
-Pestalozzia camphori G. Kuros. SPECIES
-=======
+# Pestalotia camphorae G. Kuros. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bot. Mag. , Tokyo 22: 55 (Jap. sect. ) (1908)
 
 #### Original name
-Pestalozzia camphori G. Kuros.
+Pestalotia camphorae G. Kuros.
 
 ### Remarks
 null

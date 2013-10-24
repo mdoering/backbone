@@ -1,5 +1,4 @@
-Phyllachora leptotheca Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora leptotheca Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

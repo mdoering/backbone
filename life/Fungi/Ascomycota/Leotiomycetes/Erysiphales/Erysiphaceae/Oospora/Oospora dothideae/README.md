@@ -1,5 +1,4 @@
-Oospora dothideae Henn. SPECIES
-=======
+# Oospora dothideae Henn. SPECIES
 
 #### Status
 ACCEPTED

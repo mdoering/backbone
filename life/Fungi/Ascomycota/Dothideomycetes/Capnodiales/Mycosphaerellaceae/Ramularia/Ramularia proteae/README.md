@@ -1,5 +1,4 @@
-Ramularia proteae Crous & Summerell SPECIES
-=======
+# Ramularia proteae Crous & Summerell SPECIES
 
 #### Status
 ACCEPTED

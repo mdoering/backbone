@@ -1,5 +1,4 @@
-Lecidea haemophaea var. haemophaea VARIETY
-=======
+# Lecidea haemophaea Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea haemophaea var. haemophaea
+Lecidea haemophaea Nyl.
 
 ### Remarks
 null

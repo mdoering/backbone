@@ -1,17 +1,16 @@
-Gloeosporium anonae Bat. SPECIES
-=======
+# Gloeosporium annonae Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anais IV Congr. Soc. bot. Brasil 142 (1953)
 
 #### Original name
-Gloeosporium anonae Bat.
+Gloeosporium annonae Bat.
 
 ### Remarks
 null

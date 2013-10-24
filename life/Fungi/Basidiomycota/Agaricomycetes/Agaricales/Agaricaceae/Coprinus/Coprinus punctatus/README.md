@@ -1,5 +1,4 @@
-Coprinus punctatus Kalchbr. SPECIES
-=======
+# Coprinus punctatus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

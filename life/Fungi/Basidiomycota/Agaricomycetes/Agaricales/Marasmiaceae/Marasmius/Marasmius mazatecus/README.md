@@ -1,5 +1,4 @@
-Marasmius mazatecus Singer SPECIES
-=======
+# Marasmius mazatecus Singer SPECIES
 
 #### Status
 ACCEPTED

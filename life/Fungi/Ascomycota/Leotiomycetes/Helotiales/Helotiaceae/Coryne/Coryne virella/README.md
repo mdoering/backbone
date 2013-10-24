@@ -1,5 +1,4 @@
-Coryne virella (P. Karst.) P. Karst. SPECIES
-=======
+# Coryne virella (P. Karst.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

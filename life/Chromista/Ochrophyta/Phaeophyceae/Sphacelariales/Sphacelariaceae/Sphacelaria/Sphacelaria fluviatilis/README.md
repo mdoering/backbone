@@ -1,5 +1,4 @@
-Sphacelaria fluviatilis C.C.Jao, 1943 SPECIES
-=======
+# Sphacelaria fluviatilis C.C.Jao, 1943 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ariadnaesporites R. Potonié, 1956 GENUS
-=======
+# Ariadnaesporites R. Potonié, 1956 GENUS
 
 #### Status
 ACCEPTED

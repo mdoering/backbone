@@ -1,5 +1,4 @@
-Dimeriella maesae Hansf. SPECIES
-=======
+# Dimeriella maesae Hansf. SPECIES
 
 #### Status
 ACCEPTED

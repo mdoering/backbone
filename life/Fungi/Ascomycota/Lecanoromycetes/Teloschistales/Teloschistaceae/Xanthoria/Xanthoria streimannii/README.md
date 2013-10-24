@@ -1,5 +1,4 @@
-Xanthoria streimannii S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Xanthoria streimannii S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

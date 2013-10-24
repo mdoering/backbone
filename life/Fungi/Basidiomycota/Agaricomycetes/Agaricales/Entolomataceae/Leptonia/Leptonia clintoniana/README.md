@@ -1,5 +1,4 @@
-Leptonia clintoniana (Peck) Largent SPECIES
-=======
+# Leptonia clintoniana (Peck) Largent SPECIES
 
 #### Status
 ACCEPTED

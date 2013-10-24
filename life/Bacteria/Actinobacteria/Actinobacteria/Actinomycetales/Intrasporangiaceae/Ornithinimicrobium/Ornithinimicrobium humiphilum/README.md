@@ -1,5 +1,4 @@
-Ornithinimicrobium humiphilum Groth et al., 2001 SPECIES
-=======
+# Ornithinimicrobium humiphilum Groth et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

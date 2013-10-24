@@ -1,5 +1,4 @@
-Ceratomyces cladophorus Thaxt. SPECIES
-=======
+# Ceratomyces cladophorus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

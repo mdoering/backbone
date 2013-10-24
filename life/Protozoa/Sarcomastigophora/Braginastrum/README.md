@@ -1,5 +1,4 @@
-Braginastrum Tekin, 1999 GENUS
-=======
+# Braginastrum Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

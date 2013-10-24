@@ -1,17 +1,16 @@
-Psorotichia pelodes Körb. ex B. Stein SPECIES
-=======
+# Lemmopsis pelodes (Körb. ex Stein) T. L. Ellis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 13(2): 132 (1981)
 
 #### Original name
-null
+Psorotichia pelodes Körb. ex B. Stein
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polyporus kerensis Pass. SPECIES
-=======
+# Polyporus kerensis Pass. SPECIES
 
 #### Status
 ACCEPTED

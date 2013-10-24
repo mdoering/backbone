@@ -1,5 +1,4 @@
-Treponemataceae FAMILY
-=======
+# Treponemataceae FAMILY
 
 #### Status
 ACCEPTED

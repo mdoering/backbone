@@ -1,5 +1,4 @@
-Asterinella caaguazensis (Speg.) Theiss. SPECIES
-=======
+# Asterinella caaguazensis (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

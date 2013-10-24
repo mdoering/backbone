@@ -1,5 +1,4 @@
-Uromyces wartoensis Petr. SPECIES
-=======
+# Uromyces wartoensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium baldisiae Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Micrhystridium baldisiae Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

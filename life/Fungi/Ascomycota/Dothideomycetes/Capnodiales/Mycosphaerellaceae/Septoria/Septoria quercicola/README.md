@@ -1,17 +1,16 @@
-Septoria quercicola var. cinerea Ellis & Everh. VARIETY
-=======
+# Septoria quercicola Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 2): 174 (1878)
 
 #### Original name
-Septoria quercicola var. cinerea Ellis & Everh.
+Septoria quercicola Sacc., 1878
 
 ### Remarks
 null

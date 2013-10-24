@@ -1,14 +1,13 @@
-Entophlyctis confervae-glomeratae f. marina Kobayasi & M. Ôkubo, 1954 FORM
-=======
+# Catenochytridium marinum (Kobayasi & M. Ôkubo) Karling, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Chytridiomycet. Iconogr. (New York) 166 (1977)
 
 #### Original name
 Entophlyctis confervae-glomeratae f. marina Kobayasi & M. Ôkubo, 1954

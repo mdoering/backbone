@@ -1,5 +1,4 @@
-Harpographium quaternarium Cooke & Massee SPECIES
-=======
+# Harpographium quaternarium Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

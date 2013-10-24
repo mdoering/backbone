@@ -1,5 +1,4 @@
-Physcia algeriensis (J. Steiner) Choisy SPECIES
-=======
+# Physcia algeriensis (J. Steiner) Choisy SPECIES
 
 #### Status
 ACCEPTED

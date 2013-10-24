@@ -1,5 +1,4 @@
-Triadelphia heterospora Shearer & J.L. Crane, 1971 SPECIES
-=======
+# Triadelphia heterospora Shearer & J.L. Crane, 1971 SPECIES
 
 #### Status
 ACCEPTED

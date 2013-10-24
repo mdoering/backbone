@@ -1,5 +1,4 @@
-Archaeodictyomitridae Pessagno, 1976 FAMILY
-=======
+# Archaeodictyomitridae Pessagno, 1976 FAMILY
 
 #### Status
 ACCEPTED

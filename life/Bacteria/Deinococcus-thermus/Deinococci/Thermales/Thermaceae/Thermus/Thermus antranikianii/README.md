@@ -1,5 +1,4 @@
-Thermus antranikianii Chung et al., 2000 SPECIES
-=======
+# Thermus antranikianii Chung et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

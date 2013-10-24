@@ -1,14 +1,13 @@
-Berlesiella mansonii (Schol-Schwarz) Lar.N. Vassiljeva, 1998 SPECIES
-=======
+# Capronia mansonii (Schol-Schwarz) E. Müll., Petrini, P.J. Fisher, Samuels & Rossman, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nizshie Rasteniya, Griby i Mokhoobraznye Dalnego Vostoka Rossii (Sankt-Peterburg), Griby. Tom <b>4</b>. Pirenomitsety i Lokuloaskomitsety 329 (1998)
+Trans. Br. mycol. Soc. 88(1): 73 (1987)
 
 #### Original name
 Dictyotrichiella mansonii Schol-Schwarz, 1968

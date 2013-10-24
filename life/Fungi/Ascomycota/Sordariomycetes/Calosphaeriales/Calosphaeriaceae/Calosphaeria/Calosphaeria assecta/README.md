@@ -1,14 +1,13 @@
-Calosphaeria assecla (Schwein.) Ellis SPECIES
-=======
+# Calosphaeria assecta (Schwein.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 96 (1882)
 
 #### Original name
 Sphaeria assecta Schwein.

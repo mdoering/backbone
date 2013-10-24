@@ -1,5 +1,4 @@
-Tharoopama naimnagarensis S.S. Reddy & S.M. Reddy & Manohar. SPECIES
-=======
+# Tharoopama naimnagarensis S.S. Reddy & S.M. Reddy & Manohar. SPECIES
 
 #### Status
 ACCEPTED

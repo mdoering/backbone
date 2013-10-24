@@ -1,5 +1,4 @@
-Dendrodochium ricini Sacc. SPECIES
-=======
+# Dendrodochium ricini Sacc. SPECIES
 
 #### Status
 ACCEPTED

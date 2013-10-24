@@ -1,5 +1,4 @@
-Lachnum noppeneyanum Feltgen SPECIES
-=======
+# Lachnum noppeneyanum Feltgen SPECIES
 
 #### Status
 ACCEPTED

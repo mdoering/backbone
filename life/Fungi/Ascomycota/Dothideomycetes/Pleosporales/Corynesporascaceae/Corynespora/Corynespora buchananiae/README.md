@@ -1,5 +1,4 @@
-Corynespora buchananiae N. Sharma & S. Srivast. SPECIES
-=======
+# Corynespora buchananiae N. Sharma & S. Srivast. SPECIES
 
 #### Status
 ACCEPTED

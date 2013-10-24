@@ -1,5 +1,4 @@
-Colpomenia peregrina Sauvageau SPECIES
-=======
+# Colpomenia peregrina Sauvageau SPECIES
 
 #### Status
 ACCEPTED

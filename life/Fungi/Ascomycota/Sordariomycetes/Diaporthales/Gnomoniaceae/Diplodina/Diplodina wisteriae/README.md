@@ -1,5 +1,4 @@
-Diplodina wisteriae Hollós SPECIES
-=======
+# Diplodina wisteriae Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaeria acus A. Bloxam ex Curr., 1859 SPECIES
-=======
+# Diaporthe acus (A. Bloxam ex Curr.) Cooke, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 7(no. 43): 81 (1879)
 
 #### Original name
 Sphaeria acus A. Bloxam ex Curr., 1859

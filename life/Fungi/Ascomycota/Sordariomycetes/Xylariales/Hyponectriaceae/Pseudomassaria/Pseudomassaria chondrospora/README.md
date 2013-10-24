@@ -1,14 +1,13 @@
-Sphaeria chondrospora Ces., 1855 SPECIES
-=======
+# Pseudomassaria chondrospora (Ces.) Jacz., 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia tab. 11, fig. 2 (1855)
+Bull. Herb. Boissier 2: 663 (1894)
 
 #### Original name
 Sphaeria chondrospora Ces., 1855

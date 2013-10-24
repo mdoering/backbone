@@ -1,5 +1,4 @@
-Hymenoscyphus infundibuliformis Gray SPECIES
-=======
+# Hymenoscyphus infundibuliformis Gray SPECIES
 
 #### Status
 ACCEPTED

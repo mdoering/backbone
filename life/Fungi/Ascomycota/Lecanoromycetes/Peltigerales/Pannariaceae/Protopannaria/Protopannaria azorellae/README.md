@@ -1,5 +1,4 @@
-Protopannaria azorellae P.M. Jørg. & R.S. Poulsen SPECIES
-=======
+# Protopannaria azorellae P.M. Jørg. & R.S. Poulsen SPECIES
 
 #### Status
 ACCEPTED

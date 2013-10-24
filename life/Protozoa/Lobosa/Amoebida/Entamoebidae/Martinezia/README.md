@@ -1,11 +1,10 @@
-Marnezia Hegner & Hewitt, 1940 GENUS
-=======
+# Martinezia Hegner & Hewitt, 1940 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 J. Parasit. , 26, 319.

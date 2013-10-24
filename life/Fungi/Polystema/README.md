@@ -1,5 +1,4 @@
-Polystema Raf. GENUS
-=======
+# Polystema Raf. GENUS
 
 #### Status
 ACCEPTED

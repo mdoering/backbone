@@ -1,8 +1,7 @@
-Cladonia erythromelana Müll. Arg. SPECIES
-=======
+# Cladonia secundana Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Cladonia secundana Nyl.
 
 ### Remarks
 null

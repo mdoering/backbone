@@ -1,5 +1,4 @@
-Lepiota holmbergi Speg. SPECIES
-=======
+# Lepiota holmbergi Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Russula clitocyboides (Henn.) Verbeken & Buyck SPECIES
-=======
+# Russula clitocyboides (Henn.) Verbeken & Buyck SPECIES
 
 #### Status
 ACCEPTED

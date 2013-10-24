@@ -1,5 +1,4 @@
-Marasmius eyssartieri Antonín & Buyck SPECIES
-=======
+# Marasmius eyssartieri Antonín & Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella viridarii (Sacc.) Petr. & Syd. SPECIES
-=======
+# Dothiorella viridarii (Sacc.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

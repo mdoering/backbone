@@ -1,5 +1,4 @@
-Lepocinclis taurica P. Christjuk SPECIES
-=======
+# Lepocinclis taurica P. Christjuk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha subeffigurans Nyl. SPECIES
-=======
+# Opegrapha subeffigurans Nyl. SPECIES
 
 #### Status
 ACCEPTED

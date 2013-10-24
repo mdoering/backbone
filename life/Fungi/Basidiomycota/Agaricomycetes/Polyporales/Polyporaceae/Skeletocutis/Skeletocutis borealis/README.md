@@ -1,5 +1,4 @@
-Skeletocutis borealis Niemelä SPECIES
-=======
+# Skeletocutis borealis Niemelä SPECIES
 
 #### Status
 ACCEPTED

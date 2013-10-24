@@ -1,5 +1,4 @@
-Boletus holoxanthus Both, Bessette & R. Chapm. SPECIES
-=======
+# Boletus holoxanthus Both, Bessette & R. Chapm. SPECIES
 
 #### Status
 ACCEPTED

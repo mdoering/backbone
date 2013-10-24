@@ -1,14 +1,13 @@
-Vararia albocincta (Berk. & Broome) Berthet & Boidin, 1966 SPECIES
-=======
+# Scytinostroma albocinctum (Berk. & Broome) Boidin & Lanq., 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cahiers de La Maboké 4(1): 45 (1966)
+Kew Bull. 31(3): 621 (1976)
 
 #### Original name
 Stereum albocinctum Berk. & Broome, 1875

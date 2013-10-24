@@ -1,5 +1,4 @@
-Microthelia typhae (Peck) Kuntze SPECIES
-=======
+# Microthelia typhae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia floridana (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia floridana (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

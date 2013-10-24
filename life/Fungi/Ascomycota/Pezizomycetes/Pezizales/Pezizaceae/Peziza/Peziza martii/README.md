@@ -1,5 +1,4 @@
-Peziza martii F. Strauss SPECIES
-=======
+# Peziza martii F. Strauss SPECIES
 
 #### Status
 ACCEPTED

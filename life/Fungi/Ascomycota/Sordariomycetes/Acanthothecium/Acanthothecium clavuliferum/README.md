@@ -1,5 +1,4 @@
-Acanthothecium clavuliferum Vain. SPECIES
-=======
+# Acanthothecium clavuliferum Vain. SPECIES
 
 #### Status
 ACCEPTED

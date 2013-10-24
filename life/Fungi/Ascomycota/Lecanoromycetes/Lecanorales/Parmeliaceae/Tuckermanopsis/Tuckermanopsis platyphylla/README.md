@@ -1,5 +1,4 @@
-Tuckermanopsis platyphylla (Tuck.) Hale SPECIES
-=======
+# Tuckermanopsis platyphylla (Tuck.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trypethelium subalbens Nyl. SPECIES
-=======
+# Trypethelium subalbens Nyl. SPECIES
 
 #### Status
 ACCEPTED

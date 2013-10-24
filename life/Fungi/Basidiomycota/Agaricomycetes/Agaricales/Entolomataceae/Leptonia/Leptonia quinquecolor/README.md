@@ -1,5 +1,4 @@
-Leptonia quinquecolor (Cooke & Massee) Sacc. SPECIES
-=======
+# Leptonia quinquecolor (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthomonas citri (ex Hasse, 1915) Gabriel et al., 1989 SPECIES
-=======
+# Xanthomonas citri (ex Hasse, 1915) Gabriel et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

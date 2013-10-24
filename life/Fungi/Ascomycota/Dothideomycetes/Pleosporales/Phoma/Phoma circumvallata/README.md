@@ -1,5 +1,4 @@
-Phoma circumvallata (Sowerby) Kuntze SPECIES
-=======
+# Phoma circumvallata (Sowerby) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora autochroa Pers. SPECIES
-=======
+# Thelephora autochroa Pers. SPECIES
 
 #### Status
 ACCEPTED

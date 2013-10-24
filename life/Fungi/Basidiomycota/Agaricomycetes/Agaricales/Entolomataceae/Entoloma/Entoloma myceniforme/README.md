@@ -1,5 +1,4 @@
-Entoloma myceniforme (Murrill) Hesler SPECIES
-=======
+# Entoloma myceniforme (Murrill) Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schizocystia rugosa Cookson & Eisenack, 1962 SPECIES
-=======
+# Schizocystia rugosa Cookson & Eisenack, 1962 SPECIES
 
 #### Status
 ACCEPTED

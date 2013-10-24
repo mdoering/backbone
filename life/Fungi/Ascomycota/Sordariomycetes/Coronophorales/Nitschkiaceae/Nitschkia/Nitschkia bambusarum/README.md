@@ -1,5 +1,4 @@
-Nitschkia bambusarum Rehm SPECIES
-=======
+# Nitschkia bambusarum Rehm SPECIES
 
 #### Status
 ACCEPTED

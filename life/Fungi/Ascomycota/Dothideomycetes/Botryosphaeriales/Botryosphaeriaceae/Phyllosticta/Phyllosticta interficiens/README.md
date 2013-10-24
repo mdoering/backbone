@@ -1,5 +1,4 @@
-Phyllosticta interficiens Volkart SPECIES
-=======
+# Phyllosticta interficiens Volkart SPECIES
 
 #### Status
 ACCEPTED

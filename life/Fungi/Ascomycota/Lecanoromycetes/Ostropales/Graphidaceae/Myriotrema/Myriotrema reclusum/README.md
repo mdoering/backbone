@@ -1,14 +1,13 @@
-Leptotrema reclusum (Kremp.) Zahlbr. SPECIES
-=======
+# Myriotrema reclusum (Kremp.) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 639 (1923)
+Mycotaxon 11(1): 135 (1980)
 
 #### Original name
 Thelotrema reclusum Kremp.

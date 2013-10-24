@@ -1,5 +1,4 @@
-Chloroherpeton thalassium Gibson et al., 1985 SPECIES
-=======
+# Chloroherpeton thalassium Gibson et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerospora vernicea (Körb.) SPECIES
-=======
+# Dimerospora vernicea (Körb.) SPECIES
 
 #### Status
 ACCEPTED

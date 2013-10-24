@@ -1,5 +1,4 @@
-Dendrophoma fenestellae Höhn. SPECIES
-=======
+# Dendrophoma fenestellae Höhn. SPECIES
 
 #### Status
 ACCEPTED

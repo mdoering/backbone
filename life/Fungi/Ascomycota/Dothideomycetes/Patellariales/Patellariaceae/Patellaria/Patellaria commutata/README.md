@@ -1,5 +1,4 @@
-Patellaria commutata (Ach.) Duby SPECIES
-=======
+# Patellaria commutata (Ach.) Duby SPECIES
 
 #### Status
 ACCEPTED

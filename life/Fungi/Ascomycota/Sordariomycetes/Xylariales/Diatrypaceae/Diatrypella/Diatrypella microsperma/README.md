@@ -1,5 +1,4 @@
-Diatrypella microsperma Sacc. SPECIES
-=======
+# Diatrypella microsperma Sacc. SPECIES
 
 #### Status
 ACCEPTED

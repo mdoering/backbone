@@ -1,5 +1,4 @@
-Synchytrium macrosporum Karling SPECIES
-=======
+# Synchytrium macrosporum Karling SPECIES
 
 #### Status
 ACCEPTED

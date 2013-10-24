@@ -1,5 +1,4 @@
-Clitocybe polycephala Velen. SPECIES
-=======
+# Clitocybe polycephala Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tolypothrix flaccida Kützing SPECIES
-=======
+# Tolypothrix flaccida Kützing SPECIES
 
 #### Status
 ACCEPTED

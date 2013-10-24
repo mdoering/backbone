@@ -1,5 +1,4 @@
-Ascotricha Berkeley, 1838 GENUS
-=======
+# Ascotricha Berkeley, 1838 GENUS
 
 #### Status
 ACCEPTED

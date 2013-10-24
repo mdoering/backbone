@@ -1,5 +1,4 @@
-Vaucheria debaryana Woronin SPECIES
-=======
+# Vaucheria debaryana Woronin SPECIES
 
 #### Status
 ACCEPTED

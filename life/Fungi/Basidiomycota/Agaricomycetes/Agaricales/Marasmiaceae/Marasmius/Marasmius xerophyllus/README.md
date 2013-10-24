@@ -1,5 +1,4 @@
-Marasmius xerophyllus Berk. SPECIES
-=======
+# Marasmius xerophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

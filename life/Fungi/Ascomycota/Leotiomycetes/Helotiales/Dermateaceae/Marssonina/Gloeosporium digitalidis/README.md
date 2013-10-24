@@ -1,5 +1,4 @@
-Gloeosporium digitalidis Rostr. SPECIES
-=======
+# Gloeosporium digitalidis Rostr. SPECIES
 
 #### Status
 ACCEPTED

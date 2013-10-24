@@ -1,5 +1,4 @@
-Planularia cassis SPECIES
-=======
+# Planularia cassis SPECIES
 
 #### Status
 ACCEPTED

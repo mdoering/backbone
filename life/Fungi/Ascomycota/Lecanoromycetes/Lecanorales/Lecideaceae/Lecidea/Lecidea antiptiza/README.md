@@ -1,5 +1,4 @@
-Lecidea antiptiza Stirt. SPECIES
-=======
+# Lecidea antiptiza Stirt. SPECIES
 
 #### Status
 ACCEPTED

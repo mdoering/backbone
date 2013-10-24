@@ -1,5 +1,4 @@
-Thelidium spadanum B. de Lesd. SPECIES
-=======
+# Thelidium spadanum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea amblyoclada (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Usnea amblyoclada (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

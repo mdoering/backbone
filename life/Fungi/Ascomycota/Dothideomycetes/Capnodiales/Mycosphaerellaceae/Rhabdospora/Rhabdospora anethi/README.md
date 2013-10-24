@@ -1,5 +1,4 @@
-Rhabdospora anethi Sacc. SPECIES
-=======
+# Rhabdospora anethi Sacc. SPECIES
 
 #### Status
 ACCEPTED

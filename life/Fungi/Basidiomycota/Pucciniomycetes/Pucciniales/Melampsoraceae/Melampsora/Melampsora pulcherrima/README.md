@@ -1,5 +1,4 @@
-Melampsora pulcherrima Maire SPECIES
-=======
+# Melampsora pulcherrima Maire SPECIES
 
 #### Status
 ACCEPTED

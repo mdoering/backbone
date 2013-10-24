@@ -1,5 +1,4 @@
-Flavobacteria CLASS
-=======
+# Flavobacteria CLASS
 
 #### Status
 ACCEPTED

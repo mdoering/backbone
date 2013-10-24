@@ -1,5 +1,4 @@
-Agaricus dentatus Secr. SPECIES
-=======
+# Agaricus dentatus Secr. SPECIES
 
 #### Status
 ACCEPTED

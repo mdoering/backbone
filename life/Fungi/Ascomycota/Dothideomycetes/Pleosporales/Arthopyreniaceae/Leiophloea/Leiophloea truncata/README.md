@@ -1,5 +1,4 @@
-Leiophloea truncata (Müll. Arg.) Riedl SPECIES
-=======
+# Leiophloea truncata (Müll. Arg.) Riedl SPECIES
 
 #### Status
 ACCEPTED

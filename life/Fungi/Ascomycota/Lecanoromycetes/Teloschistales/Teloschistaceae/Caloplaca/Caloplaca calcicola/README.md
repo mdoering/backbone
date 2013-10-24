@@ -1,5 +1,4 @@
-Caloplaca calcicola f. calcicola FORM
-=======
+# Caloplaca calcicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Cat. Lich. Univers. 7: 83 (1930)
 
 #### Original name
-Caloplaca calcicola f. calcicola
+Caloplaca calcicola Zahlbr.
 
 ### Remarks
 null

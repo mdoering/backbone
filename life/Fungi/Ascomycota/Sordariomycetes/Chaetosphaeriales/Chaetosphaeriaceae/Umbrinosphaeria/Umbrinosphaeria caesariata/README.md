@@ -1,14 +1,13 @@
-Chaetosphaeria caesariata (Clinton & Peck) F.A. Fernández & Huhndorf, 2005 SPECIES
-=======
+# Umbrinosphaeria caesariata (Clinton & Peck) Réblová, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fungal Diversity 18: 49 (2005)
+Mycotaxon 71: 18 (1999)
 
 #### Original name
 Sphaeria caesariata Clinton & Peck, 1878

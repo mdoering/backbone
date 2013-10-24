@@ -1,5 +1,4 @@
-Hohenbuehelia heterosporica Donoso, 1981 SPECIES
-=======
+# Hohenbuehelia heterosporica Donoso, 1981 SPECIES
 
 #### Status
 ACCEPTED

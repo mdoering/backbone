@@ -1,5 +1,4 @@
-Gigaspora ramisporophora Spain, Sieverd. & N.C. Schenck, 1989 SPECIES
-=======
+# Gigaspora ramisporophora Spain, Sieverd. & N.C. Schenck, 1989 SPECIES
 
 #### Status
 ACCEPTED

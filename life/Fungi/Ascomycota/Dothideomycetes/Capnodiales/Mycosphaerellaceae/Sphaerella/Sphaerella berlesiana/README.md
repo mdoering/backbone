@@ -1,5 +1,4 @@
-Sphaerella berlesiana Traverso SPECIES
-=======
+# Sphaerella berlesiana Traverso SPECIES
 
 #### Status
 ACCEPTED

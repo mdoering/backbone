@@ -1,5 +1,4 @@
-Arthonia platygraphella Nyl. SPECIES
-=======
+# Arthonia platygraphella Nyl. SPECIES
 
 #### Status
 ACCEPTED

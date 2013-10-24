@@ -1,5 +1,4 @@
-Porina laptalea (Durieu & Mont.) A.L. Sm. SPECIES
-=======
+# Porina laptalea (Durieu & Mont.) A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

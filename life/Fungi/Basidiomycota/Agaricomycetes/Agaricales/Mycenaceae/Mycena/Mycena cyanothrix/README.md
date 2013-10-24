@@ -1,5 +1,4 @@
-Mycena cyanothrix G.F. Atk. SPECIES
-=======
+# Mycena cyanothrix G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

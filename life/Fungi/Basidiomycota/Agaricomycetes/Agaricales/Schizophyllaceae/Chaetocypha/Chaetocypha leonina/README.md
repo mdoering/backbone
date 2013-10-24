@@ -1,5 +1,4 @@
-Chaetocypha leonina (Speg.) Kuntze SPECIES
-=======
+# Chaetocypha leonina (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoplacia microscopica (Mont.) A. Massal. SPECIES
-=======
+# Trichoplacia microscopica (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta ebuli (Fuckel) Sacc. SPECIES
-=======
+# Phyllosticta ebuli (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

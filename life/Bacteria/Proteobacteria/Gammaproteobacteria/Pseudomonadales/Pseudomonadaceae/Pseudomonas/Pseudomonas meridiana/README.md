@@ -1,5 +1,4 @@
-Pseudomonas meridiana Reddy et al., 2004 SPECIES
-=======
+# Pseudomonas meridiana Reddy et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

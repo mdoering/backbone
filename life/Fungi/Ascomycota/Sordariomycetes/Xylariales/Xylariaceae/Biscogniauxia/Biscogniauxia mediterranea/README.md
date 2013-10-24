@@ -1,17 +1,16 @@
-Nummularia repandoides var. repandoides VARIETY
-=======
+# Biscogniauxia mediterranea (De Not.) Kuntze SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. nassau. Ver. Naturk. 23-24: 236 (1870)
+null
 
 #### Original name
-Nummularia repandoides var. repandoides
+null
 
 ### Remarks
 null

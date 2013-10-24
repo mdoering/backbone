@@ -1,5 +1,4 @@
-Cladosporium gallicola B. Sutton, 1973 SPECIES
-=======
+# Cladosporium gallicola B. Sutton, 1973 SPECIES
 
 #### Status
 ACCEPTED

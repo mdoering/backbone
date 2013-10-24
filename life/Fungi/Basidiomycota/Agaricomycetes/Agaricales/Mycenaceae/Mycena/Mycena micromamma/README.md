@@ -1,5 +1,4 @@
-Mycena micromamma Speg. SPECIES
-=======
+# Mycena micromamma Speg. SPECIES
 
 #### Status
 ACCEPTED

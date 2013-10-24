@@ -1,5 +1,4 @@
-Meliola thomasiana Sacc. SPECIES
-=======
+# Meliola thomasiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

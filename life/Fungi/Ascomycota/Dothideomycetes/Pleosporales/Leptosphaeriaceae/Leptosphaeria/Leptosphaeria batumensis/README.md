@@ -1,5 +1,4 @@
-Leptosphaeria batumensis Siemaszko SPECIES
-=======
+# Leptosphaeria batumensis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

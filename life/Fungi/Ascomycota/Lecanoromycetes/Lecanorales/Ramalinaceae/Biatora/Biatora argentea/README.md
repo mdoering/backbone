@@ -1,5 +1,4 @@
-Biatora argentea Mont. SPECIES
-=======
+# Biatora argentea Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Multiplicisphaeridium clavatum Tynni, 1978 SPECIES
-=======
+# Multiplicisphaeridium clavatum Tynni, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Polyporus campylus Berk., 1859 SPECIES
-=======
+# Ryvardenia campyla (Berk.) Rajchenb., 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hooker, Flora Tasman. , Fungi 2: 252 (1859)
+Nordic Jl Bot. 14(4): 445 (1994)
 
 #### Original name
 Polyporus campylus Berk., 1859

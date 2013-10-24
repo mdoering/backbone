@@ -1,5 +1,4 @@
-Peristomialis dictyospora (Rossman) Samuels SPECIES
-=======
+# Peristomialis dictyospora (Rossman) Samuels SPECIES
 
 #### Status
 ACCEPTED

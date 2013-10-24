@@ -1,5 +1,4 @@
-Monoporisporites arcuatus (Doub. & D. Pons) Kalgutkar & Janson. SPECIES
-=======
+# Monoporisporites arcuatus (Doub. & D. Pons) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

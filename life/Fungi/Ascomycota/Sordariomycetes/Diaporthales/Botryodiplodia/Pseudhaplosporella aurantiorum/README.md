@@ -1,5 +1,4 @@
-Pseudhaplosporella aurantiorum Speg. SPECIES
-=======
+# Pseudhaplosporella aurantiorum Speg. SPECIES
 
 #### Status
 ACCEPTED

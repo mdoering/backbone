@@ -1,5 +1,4 @@
-Lecidea reducens Vain. SPECIES
-=======
+# Lecidea reducens Vain. SPECIES
 
 #### Status
 ACCEPTED

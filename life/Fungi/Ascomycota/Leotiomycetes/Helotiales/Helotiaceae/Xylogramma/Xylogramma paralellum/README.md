@@ -1,5 +1,4 @@
-Xylogramma paralellum (Ach.) Wallr. SPECIES
-=======
+# Xylogramma paralellum (Ach.) Wallr. SPECIES
 
 #### Status
 ACCEPTED

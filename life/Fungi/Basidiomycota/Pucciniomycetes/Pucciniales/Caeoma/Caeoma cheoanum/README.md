@@ -1,5 +1,4 @@
-Caeoma cheoanum Cummins SPECIES
-=======
+# Caeoma cheoanum Cummins SPECIES
 
 #### Status
 ACCEPTED

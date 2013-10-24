@@ -1,5 +1,4 @@
-Cubonia Sacc. GENUS
-=======
+# Cubonia Sacc. GENUS
 
 #### Status
 ACCEPTED

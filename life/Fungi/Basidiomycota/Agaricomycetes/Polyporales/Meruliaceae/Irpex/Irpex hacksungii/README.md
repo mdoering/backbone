@@ -1,5 +1,4 @@
-Irpex hacksungii J.S. Lee & Y.W. Lim SPECIES
-=======
+# Irpex hacksungii J.S. Lee & Y.W. Lim SPECIES
 
 #### Status
 ACCEPTED

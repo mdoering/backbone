@@ -1,5 +1,4 @@
-Dothiopsis eunomia P. Karst. SPECIES
-=======
+# Dothiopsis eunomia P. Karst. SPECIES
 
 #### Status
 ACCEPTED

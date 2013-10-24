@@ -1,5 +1,4 @@
-Glabridinium apatelum (Cookson & Eisenack, 1960) Brideaux, 1977 SPECIES
-=======
+# Glabridinium apatelum (Cookson & Eisenack, 1960) Brideaux, 1977 SPECIES
 
 #### Status
 DOUBTFUL

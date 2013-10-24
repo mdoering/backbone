@@ -1,5 +1,4 @@
-Dermatocarpon mexicanum SPECIES
-=======
+# Dermatocarpon mexicanum SPECIES
 
 #### Status
 ACCEPTED

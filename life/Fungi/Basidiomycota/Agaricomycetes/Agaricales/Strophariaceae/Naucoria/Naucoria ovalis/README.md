@@ -1,5 +1,4 @@
-Naucoria ovalis Singer SPECIES
-=======
+# Naucoria ovalis Singer SPECIES
 
 #### Status
 ACCEPTED

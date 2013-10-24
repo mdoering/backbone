@@ -1,5 +1,4 @@
-Aecidium elbursense Petr. SPECIES
-=======
+# Aecidium elbursense Petr. SPECIES
 
 #### Status
 ACCEPTED

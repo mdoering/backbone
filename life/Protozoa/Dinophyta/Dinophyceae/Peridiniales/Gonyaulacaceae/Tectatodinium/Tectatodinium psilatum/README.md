@@ -1,5 +1,4 @@
-Tectatodinium psilatum Wall & Dale in Wall et al., 1973 SPECIES
-=======
+# Tectatodinium psilatum Wall & Dale in Wall et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

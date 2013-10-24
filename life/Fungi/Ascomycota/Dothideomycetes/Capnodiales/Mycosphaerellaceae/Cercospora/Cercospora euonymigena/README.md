@@ -1,5 +1,4 @@
-Cercospora euonymigena Y.L. Guo & Y. Jiang SPECIES
-=======
+# Cercospora euonymigena Y.L. Guo & Y. Jiang SPECIES
 
 #### Status
 ACCEPTED

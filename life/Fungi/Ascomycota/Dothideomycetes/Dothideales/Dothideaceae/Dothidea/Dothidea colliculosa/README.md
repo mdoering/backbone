@@ -1,5 +1,4 @@
-Dothidea colliculosa Berk., 1836 SPECIES
-=======
+# Dothidea colliculosa Berk., 1836 SPECIES
 
 #### Status
 ACCEPTED

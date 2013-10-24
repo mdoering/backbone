@@ -1,5 +1,4 @@
-Puccinia mera Cummins SPECIES
-=======
+# Puccinia mera Cummins SPECIES
 
 #### Status
 ACCEPTED

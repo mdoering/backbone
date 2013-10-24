@@ -1,5 +1,4 @@
-Cercospora tacazzeae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora tacazzeae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

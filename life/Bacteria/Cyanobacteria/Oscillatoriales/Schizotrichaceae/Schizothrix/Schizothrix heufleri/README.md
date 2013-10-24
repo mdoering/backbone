@@ -1,5 +1,4 @@
-Schizothrix heufleri var. incrustans Ercegovic, 1925 VARIETY
-=======
+# Schizothrix heufleri Grunow, 1865 SPECIES
 
 #### Status
 ACCEPTED

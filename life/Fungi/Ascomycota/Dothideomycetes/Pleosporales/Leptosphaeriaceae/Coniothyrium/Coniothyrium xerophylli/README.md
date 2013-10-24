@@ -1,5 +1,4 @@
-Coniothyrium xerophylli Ellis SPECIES
-=======
+# Coniothyrium xerophylli Ellis SPECIES
 
 #### Status
 ACCEPTED

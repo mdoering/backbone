@@ -1,5 +1,4 @@
-Porina subpilosa Vezda SPECIES
-=======
+# Porina subpilosa Vezda SPECIES
 
 #### Status
 ACCEPTED

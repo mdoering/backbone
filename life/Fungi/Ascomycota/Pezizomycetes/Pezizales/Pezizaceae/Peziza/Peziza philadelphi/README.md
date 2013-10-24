@@ -1,5 +1,4 @@
-Peziza philadelphi Schwein. SPECIES
-=======
+# Peziza philadelphi Schwein. SPECIES
 
 #### Status
 ACCEPTED

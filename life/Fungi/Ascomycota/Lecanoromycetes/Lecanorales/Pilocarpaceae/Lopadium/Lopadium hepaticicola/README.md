@@ -1,17 +1,16 @@
-Lopadium hepaticola Döbbeler, Poelt & Vezda SPECIES
-=======
+# Lopadium hepaticicola Döbbeler, Poelt & Vezda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Herzogia 7(1-2): 82 (1985)
 
 #### Original name
-Lopadium hepaticola Döbbeler, Poelt & Vezda
+Lopadium hepaticicola Döbbeler, Poelt & Vezda
 
 ### Remarks
 null

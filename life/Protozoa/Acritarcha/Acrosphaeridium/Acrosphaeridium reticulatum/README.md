@@ -1,5 +1,4 @@
-Acrosphaeridium reticulatum Uutela & Tynni, 1991 SPECIES
-=======
+# Acrosphaeridium reticulatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

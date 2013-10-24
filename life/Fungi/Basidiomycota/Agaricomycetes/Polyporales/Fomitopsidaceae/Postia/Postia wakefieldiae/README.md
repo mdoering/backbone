@@ -1,5 +1,4 @@
-Postia wakefieldiae (Kotl. & Pouzar) Pegler & E.M. Saunders, 1994 SPECIES
-=======
+# Postia wakefieldiae (Kotl. & Pouzar) Pegler & E.M. Saunders, 1994 SPECIES
 
 #### Status
 ACCEPTED

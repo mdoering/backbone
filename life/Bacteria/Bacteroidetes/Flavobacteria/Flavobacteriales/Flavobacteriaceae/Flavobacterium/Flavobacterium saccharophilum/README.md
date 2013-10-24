@@ -1,8 +1,7 @@
-Cytophaga saccharophila (ex Agbo & Moss, 1979) Reichenbach, 1989 SPECIES
-=======
+# Flavobacterium saccharophilum (Reichenbach, 1989) Bernardet et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

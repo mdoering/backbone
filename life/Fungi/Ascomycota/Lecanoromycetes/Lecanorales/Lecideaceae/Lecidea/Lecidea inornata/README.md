@@ -1,5 +1,4 @@
-Lecidea inornata Stirt. SPECIES
-=======
+# Lecidea inornata Stirt. SPECIES
 
 #### Status
 ACCEPTED

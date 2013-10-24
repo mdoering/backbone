@@ -1,5 +1,4 @@
-Chrysothrix tchupalensis Elix & Kantvilas SPECIES
-=======
+# Chrysothrix tchupalensis Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

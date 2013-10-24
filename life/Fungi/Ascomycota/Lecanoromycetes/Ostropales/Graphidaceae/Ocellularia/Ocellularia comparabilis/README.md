@@ -1,5 +1,4 @@
-Ocellularia comparabilis var. comparabilis VARIETY
-=======
+# Ocellularia comparabilis (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jahrb. Königl. Bot. Gart. Berlin 2: 318 (1883)
 
 #### Original name
-Ocellularia comparabilis var. comparabilis
+Thelotrema comparabile Kremp.
 
 ### Remarks
 null

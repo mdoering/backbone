@@ -1,5 +1,4 @@
-Globigerina calida Parker SPECIES
-=======
+# Globigerina calida Parker SPECIES
 
 #### Status
 ACCEPTED

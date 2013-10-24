@@ -1,5 +1,4 @@
-Boletus subcinnamomeus Hongo SPECIES
-=======
+# Boletus subcinnamomeus Hongo SPECIES
 
 #### Status
 ACCEPTED

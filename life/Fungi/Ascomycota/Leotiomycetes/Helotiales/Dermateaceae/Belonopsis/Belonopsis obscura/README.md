@@ -1,17 +1,16 @@
-Mollisia obscura (Rehm) Baral & Gminder, 2008 SPECIES
-=======
+# Belonopsis obscura (Rehm) Aebi, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nova Hedwigia 23(1): 104 (1972)
 
 #### Original name
-null
+Gorgoniceps obscura Rehm
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Inocephalus rigidipus Largent SPECIES
-=======
+# Inocephalus rigidipus Largent SPECIES
 
 #### Status
 ACCEPTED

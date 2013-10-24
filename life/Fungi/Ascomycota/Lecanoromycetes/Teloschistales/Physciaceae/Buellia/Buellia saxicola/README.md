@@ -1,5 +1,4 @@
-Buellia saxicola B. de Lesd. SPECIES
-=======
+# Buellia saxicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

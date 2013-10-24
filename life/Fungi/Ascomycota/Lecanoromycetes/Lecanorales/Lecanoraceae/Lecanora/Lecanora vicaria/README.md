@@ -1,5 +1,4 @@
-Lecanora vicaria Th. Fr. SPECIES
-=======
+# Lecanora vicaria Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

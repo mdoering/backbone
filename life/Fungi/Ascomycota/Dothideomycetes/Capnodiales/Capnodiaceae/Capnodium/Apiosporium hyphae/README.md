@@ -1,5 +1,4 @@
-Apiosporium hyphae Fuckel SPECIES
-=======
+# Apiosporium hyphae Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichosporella rostrata Sacc. SPECIES
-=======
+# Teichosporella rostrata Sacc. SPECIES
 
 #### Status
 ACCEPTED

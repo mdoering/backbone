@@ -1,5 +1,4 @@
-Agaricus hahashimensis S. Ito & S. Imai SPECIES
-=======
+# Agaricus hahashimensis S. Ito & S. Imai SPECIES
 
 #### Status
 ACCEPTED

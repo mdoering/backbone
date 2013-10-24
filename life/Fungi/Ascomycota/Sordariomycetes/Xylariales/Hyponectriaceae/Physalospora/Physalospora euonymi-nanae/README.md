@@ -1,8 +1,7 @@
-Physalospora evonimi-natiae Sandu & Mítítíuc SPECIES
-=======
+# Physalospora euonymi-nanae Sandu & Mítítíuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physalospora evonimi-natiae Sandu & Mítítíuc
+Physalospora euonymi-nanae Sandu & Mítítíuc
 
 ### Remarks
 null

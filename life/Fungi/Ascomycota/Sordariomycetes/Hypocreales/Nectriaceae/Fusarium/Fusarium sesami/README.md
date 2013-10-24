@@ -1,5 +1,4 @@
-Fusarium sesami anon. SPECIES
-=======
+# Fusarium sesami anon. SPECIES
 
 #### Status
 ACCEPTED

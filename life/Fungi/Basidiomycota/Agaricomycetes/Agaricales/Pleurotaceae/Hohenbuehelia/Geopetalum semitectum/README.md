@@ -1,5 +1,4 @@
-Geopetalum semitectum (Berk. & M.A. Curtis) Murrill SPECIES
-=======
+# Geopetalum semitectum (Berk. & M.A. Curtis) Murrill SPECIES
 
 #### Status
 ACCEPTED

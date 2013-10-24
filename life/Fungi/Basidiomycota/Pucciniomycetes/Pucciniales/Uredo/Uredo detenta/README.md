@@ -1,5 +1,4 @@
-Uredo detenta Mains SPECIES
-=======
+# Uredo detenta Mains SPECIES
 
 #### Status
 ACCEPTED

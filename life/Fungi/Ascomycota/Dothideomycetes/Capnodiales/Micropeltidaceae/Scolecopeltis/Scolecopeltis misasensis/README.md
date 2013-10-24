@@ -1,5 +1,4 @@
-Scolecopeltis misasensis I. Hino & Katum. SPECIES
-=======
+# Scolecopeltis misasensis I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

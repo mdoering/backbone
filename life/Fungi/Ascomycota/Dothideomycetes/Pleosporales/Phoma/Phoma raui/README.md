@@ -1,5 +1,4 @@
-Phoma raui (Peck) Sacc. SPECIES
-=======
+# Phoma raui (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

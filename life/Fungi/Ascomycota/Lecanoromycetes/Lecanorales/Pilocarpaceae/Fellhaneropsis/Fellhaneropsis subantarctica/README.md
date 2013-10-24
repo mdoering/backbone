@@ -1,5 +1,4 @@
-Fellhaneropsis subantarctica Øvstedal SPECIES
-=======
+# Fellhaneropsis subantarctica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

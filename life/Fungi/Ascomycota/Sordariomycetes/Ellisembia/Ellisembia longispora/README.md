@@ -1,5 +1,4 @@
-Ellisembia longispora W.P. Wu SPECIES
-=======
+# Ellisembia longispora W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

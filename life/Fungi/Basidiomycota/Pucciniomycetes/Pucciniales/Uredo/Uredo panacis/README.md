@@ -1,5 +1,4 @@
-Uredo panacis Syd. & P. Syd. SPECIES
-=======
+# Uredo panacis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

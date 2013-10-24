@@ -1,14 +1,13 @@
-Cephalosporium nodulosum Petch, 1939 SPECIES
-=======
+# Lecanicillium nodulosum (Petch) Zare & W. Gams, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 23: 144 (1939)
+Nova Hedwigia 73(1-2): 18 (2001)
 
 #### Original name
 Cephalosporium nodulosum Petch, 1939

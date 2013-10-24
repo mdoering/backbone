@@ -1,14 +1,13 @@
-Calicium pallescens var. interruptum Nyl. VARIETY
-=======
+# Phaeocalicium interruptum (Nyl.) Tibell SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. bot. fenn. 28(2): 119 (1991)
 
 #### Original name
 Calicium pallescens var. interruptum Nyl.

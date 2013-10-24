@@ -1,5 +1,4 @@
-Nodularia tenuis G.S. West SPECIES
-=======
+# Nodularia tenuis G.S. West SPECIES
 
 #### Status
 ACCEPTED

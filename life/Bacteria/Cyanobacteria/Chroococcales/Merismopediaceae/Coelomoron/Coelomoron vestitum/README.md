@@ -1,5 +1,4 @@
-Coelomoron vestitum Komárek SPECIES
-=======
+# Coelomoron vestitum Komárek SPECIES
 
 #### Status
 ACCEPTED

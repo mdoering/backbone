@@ -1,5 +1,4 @@
-Valsella furva Berl. & Bres. SPECIES
-=======
+# Valsella furva Berl. & Bres. SPECIES
 
 #### Status
 ACCEPTED

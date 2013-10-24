@@ -1,5 +1,4 @@
-Phyllachora uppalii K. Ramakr. & Subram., 1956 SPECIES
-=======
+# Phyllachora uppalii K. Ramakr. & Subram., 1956 SPECIES
 
 #### Status
 ACCEPTED

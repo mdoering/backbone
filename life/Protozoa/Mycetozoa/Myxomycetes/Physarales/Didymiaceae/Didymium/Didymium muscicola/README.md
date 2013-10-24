@@ -1,5 +1,4 @@
-Didymium muscicola Link SPECIES
-=======
+# Didymium muscicola Link SPECIES
 
 #### Status
 ACCEPTED

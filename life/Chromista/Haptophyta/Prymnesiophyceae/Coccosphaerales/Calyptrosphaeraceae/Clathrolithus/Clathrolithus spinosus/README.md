@@ -1,5 +1,4 @@
-Clathrolithus spinosus Martini, 1961 SPECIES
-=======
+# Clathrolithus spinosus Martini, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina yalae (Singer) Raithelh. SPECIES
-=======
+# Omphalina yalae (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

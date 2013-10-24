@@ -1,5 +1,4 @@
-Sorosporium apparaoi G.K. Rao SPECIES
-=======
+# Sorosporium apparaoi G.K. Rao SPECIES
 
 #### Status
 ACCEPTED

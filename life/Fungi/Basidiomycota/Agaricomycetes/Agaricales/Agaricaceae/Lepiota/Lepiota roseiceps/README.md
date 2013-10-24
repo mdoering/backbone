@@ -1,5 +1,4 @@
-Lepiota roseiceps Murrill SPECIES
-=======
+# Lepiota roseiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudobulminella GENUS
-=======
+# Pseudobulminella GENUS
 
 #### Status
 ACCEPTED

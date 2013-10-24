@@ -1,5 +1,4 @@
-Frontonia solea Foissner, 1987 SPECIES
-=======
+# Frontonia solea Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

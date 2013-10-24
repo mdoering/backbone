@@ -1,5 +1,4 @@
-Camarosporium mali Ellis & Everh. SPECIES
-=======
+# Camarosporium mali Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

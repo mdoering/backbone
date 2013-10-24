@@ -1,5 +1,4 @@
-Graphina macgregorii (Vain.) Zahlbr. SPECIES
-=======
+# Graphina macgregorii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

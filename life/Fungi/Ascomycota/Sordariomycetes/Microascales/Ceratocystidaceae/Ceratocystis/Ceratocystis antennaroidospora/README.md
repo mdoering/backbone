@@ -1,5 +1,4 @@
-Ceratocystis antennaroidospora Roldan SPECIES
-=======
+# Ceratocystis antennaroidospora Roldan SPECIES
 
 #### Status
 ACCEPTED

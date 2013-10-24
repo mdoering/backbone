@@ -1,5 +1,4 @@
-Pseudomycena cejpi Velen. SPECIES
-=======
+# Pseudomycena cejpi Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Leucoagaricus sublittoralis var. sublittoralis (Kühner ex Hora) Singer VARIETY
-=======
+# Leucoagaricus sublittoralis (Kühner ex Hora) Singer, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 29(1-2): 163 (1978)
+Nova Hedwigia 29: 163 (1969)
 
 #### Original name
-Leucoagaricus sublittoralis var. sublittoralis (Kühner ex Hora) Singer
+Lepiota sublittoralis Kühner ex Hora, 1960
 
 ### Remarks
 null

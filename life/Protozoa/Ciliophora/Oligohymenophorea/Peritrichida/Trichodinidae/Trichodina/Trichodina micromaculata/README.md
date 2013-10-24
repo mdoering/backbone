@@ -1,5 +1,4 @@
-Trichodina micromaculata Stein, 1975 SPECIES
-=======
+# Trichodina micromaculata Stein, 1975 SPECIES
 
 #### Status
 ACCEPTED

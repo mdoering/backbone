@@ -1,5 +1,4 @@
-Cystolepiota cystophora (Malençon) Bon SPECIES
-=======
+# Cystolepiota cystophora (Malençon) Bon SPECIES
 
 #### Status
 ACCEPTED

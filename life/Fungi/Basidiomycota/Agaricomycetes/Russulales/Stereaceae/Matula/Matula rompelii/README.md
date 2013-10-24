@@ -1,14 +1,13 @@
-Michenera rompelii Rick, 1904 SPECIES
-=======
+# Matula rompelii (Rick) Lloyd, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 2(3): 243 (1904)
+Mycol. Writ. 2: 391 (1917)
 
 #### Original name
 Michenera rompelii Rick, 1904

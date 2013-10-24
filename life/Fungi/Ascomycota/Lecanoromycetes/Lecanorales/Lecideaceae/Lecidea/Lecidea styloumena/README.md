@@ -1,5 +1,4 @@
-Lecidea styloumena Stirt. SPECIES
-=======
+# Lecidea styloumena Stirt. SPECIES
 
 #### Status
 ACCEPTED

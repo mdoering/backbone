@@ -1,5 +1,4 @@
-Polyporus longiporus Audet, Boulet & Sirard SPECIES
-=======
+# Polyporus longiporus Audet, Boulet & Sirard SPECIES
 
 #### Status
 ACCEPTED

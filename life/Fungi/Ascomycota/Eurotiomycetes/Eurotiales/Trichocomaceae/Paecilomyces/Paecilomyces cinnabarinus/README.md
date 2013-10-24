@@ -1,5 +1,4 @@
-Paecilomyces cinnabarinus S.C. Jong & E.E. Davis SPECIES
-=======
+# Paecilomyces cinnabarinus S.C. Jong & E.E. Davis SPECIES
 
 #### Status
 ACCEPTED

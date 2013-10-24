@@ -1,5 +1,4 @@
-Uredo trichomoides Cummins SPECIES
-=======
+# Uredo trichomoides Cummins SPECIES
 
 #### Status
 ACCEPTED

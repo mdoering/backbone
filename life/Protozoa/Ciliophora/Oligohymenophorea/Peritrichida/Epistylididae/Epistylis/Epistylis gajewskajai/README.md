@@ -1,8 +1,7 @@
-Epistylis nutans sensu Gajewskaja, 1933 SPECIES
-=======
+# Epistylis gajewskajai Foissner, Berger & Kohmann, 1992 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Collybia reticulata Velen. SPECIES
-=======
+# Collybia reticulata Velen. SPECIES
 
 #### Status
 ACCEPTED

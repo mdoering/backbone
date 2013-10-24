@@ -1,5 +1,4 @@
-Cothurnia aplatita SPECIES
-=======
+# Cothurnia aplatita SPECIES
 
 #### Status
 ACCEPTED

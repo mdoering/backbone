@@ -1,5 +1,4 @@
-Dicaeoma plicatum (Kom.) Kuntze SPECIES
-=======
+# Dicaeoma plicatum (Kom.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius xylochroma E. Horak SPECIES
-=======
+# Cortinarius xylochroma E. Horak SPECIES
 
 #### Status
 ACCEPTED

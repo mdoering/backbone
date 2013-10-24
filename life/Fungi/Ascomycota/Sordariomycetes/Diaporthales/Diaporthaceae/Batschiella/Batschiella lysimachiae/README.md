@@ -1,5 +1,4 @@
-Batschiella lysimachiae Kirschst. SPECIES
-=======
+# Batschiella lysimachiae Kirschst. SPECIES
 
 #### Status
 ACCEPTED

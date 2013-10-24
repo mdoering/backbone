@@ -1,5 +1,4 @@
-Graphium basitruncatum (Matsush.) Seifert & G. Okada SPECIES
-=======
+# Graphium basitruncatum (Matsush.) Seifert & G. Okada SPECIES
 
 #### Status
 ACCEPTED

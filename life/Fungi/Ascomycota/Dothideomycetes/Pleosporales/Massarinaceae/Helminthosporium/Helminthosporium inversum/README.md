@@ -1,17 +1,16 @@
-Helmisporium inversum Sacc. SPECIES
-=======
+# Helminthosporium inversum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 11(6): 557 (1913)
 
 #### Original name
-Helmisporium inversum Sacc.
+Helminthosporium inversum Sacc.
 
 ### Remarks
 null

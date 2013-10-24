@@ -1,5 +1,4 @@
-Bolbitius grandiusculus Cooke & Massee SPECIES
-=======
+# Bolbitius grandiusculus Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropuccinia chelonis (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia chelonis (Dietel & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

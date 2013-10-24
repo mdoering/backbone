@@ -1,5 +1,4 @@
-Nocardia cruoris Macfie & A. Ingram SPECIES
-=======
+# Nocardia cruoris Macfie & A. Ingram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium montanense M. Chr. & Backus, 1963 SPECIES
-=======
+# Penicillium montanense M. Chr. & Backus, 1963 SPECIES
 
 #### Status
 DOUBTFUL

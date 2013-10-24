@@ -1,5 +1,4 @@
-Cladosporium lactucae Sawada SPECIES
-=======
+# Cladosporium lactucae Sawada SPECIES
 
 #### Status
 ACCEPTED

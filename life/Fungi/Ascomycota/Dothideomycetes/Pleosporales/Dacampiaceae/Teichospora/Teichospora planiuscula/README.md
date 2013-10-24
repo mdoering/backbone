@@ -1,5 +1,4 @@
-Teichospora planiuscula P. Karst. SPECIES
-=======
+# Teichospora planiuscula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

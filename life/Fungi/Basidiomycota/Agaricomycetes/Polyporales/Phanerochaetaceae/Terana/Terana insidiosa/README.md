@@ -1,5 +1,4 @@
-Terana insidiosa (Pass.) Kuntze SPECIES
-=======
+# Terana insidiosa (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

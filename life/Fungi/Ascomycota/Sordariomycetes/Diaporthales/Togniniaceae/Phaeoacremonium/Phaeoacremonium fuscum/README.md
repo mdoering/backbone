@@ -1,5 +1,4 @@
-Phaeoacremonium fuscum L. Mostert, Damm & Crous SPECIES
-=======
+# Phaeoacremonium fuscum L. Mostert, Damm & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium paraphysatum Burt SPECIES
-=======
+# Corticium paraphysatum Burt SPECIES
 
 #### Status
 ACCEPTED

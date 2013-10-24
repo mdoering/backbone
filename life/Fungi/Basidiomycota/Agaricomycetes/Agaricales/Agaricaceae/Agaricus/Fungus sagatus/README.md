@@ -1,5 +1,4 @@
-Fungus sagatus (Fr.) Kuntze SPECIES
-=======
+# Fungus sagatus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

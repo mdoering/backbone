@@ -1,5 +1,4 @@
-Sphaeria lanuginosa Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeria lanuginosa Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

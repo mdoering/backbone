@@ -1,11 +1,10 @@
-Ramalina polymorpha var. polymorpha VARIETY
-=======
+# Ramalina polymorpha (Lilj.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Lich. univ. 600 (1810)

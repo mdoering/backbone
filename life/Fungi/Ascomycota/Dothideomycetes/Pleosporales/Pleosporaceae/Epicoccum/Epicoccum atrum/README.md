@@ -1,5 +1,4 @@
-Epicoccum atrum Fr. SPECIES
-=======
+# Epicoccum atrum Fr. SPECIES
 
 #### Status
 ACCEPTED

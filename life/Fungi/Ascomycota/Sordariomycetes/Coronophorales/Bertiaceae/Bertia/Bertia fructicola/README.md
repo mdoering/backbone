@@ -1,5 +1,4 @@
-Bertia fructicola Henn. SPECIES
-=======
+# Bertia fructicola Henn. SPECIES
 
 #### Status
 ACCEPTED

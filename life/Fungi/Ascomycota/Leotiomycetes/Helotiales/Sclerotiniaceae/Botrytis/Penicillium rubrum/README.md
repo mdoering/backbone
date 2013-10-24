@@ -1,8 +1,7 @@
-Penicillium crateriforme J.C. Gilman & E.V. Abbott, 1927 SPECIES
-=======
+# Penicillium rubrum Grassberger, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

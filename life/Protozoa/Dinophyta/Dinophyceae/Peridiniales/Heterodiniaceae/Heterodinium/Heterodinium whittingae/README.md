@@ -1,5 +1,4 @@
-Heterodinium whittingae Kofoid SPECIES
-=======
+# Heterodinium whittingae Kofoid SPECIES
 
 #### Status
 ACCEPTED

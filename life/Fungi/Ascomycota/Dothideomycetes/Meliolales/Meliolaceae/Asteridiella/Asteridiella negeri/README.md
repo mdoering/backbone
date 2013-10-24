@@ -1,5 +1,4 @@
-Asteridiella negeri (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella negeri (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

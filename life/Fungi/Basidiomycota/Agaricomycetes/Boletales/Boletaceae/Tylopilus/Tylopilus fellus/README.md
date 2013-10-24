@@ -1,5 +1,4 @@
-Tylopilus fellus (Fr.) Karsten SPECIES
-=======
+# Tylopilus fellus (Fr.) Karsten SPECIES
 
 #### Status
 ACCEPTED

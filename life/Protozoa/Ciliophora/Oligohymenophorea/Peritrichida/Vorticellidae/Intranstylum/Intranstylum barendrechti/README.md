@@ -1,5 +1,4 @@
-Intranstylum barendrechti SPECIES
-=======
+# Intranstylum barendrechti SPECIES
 
 #### Status
 ACCEPTED

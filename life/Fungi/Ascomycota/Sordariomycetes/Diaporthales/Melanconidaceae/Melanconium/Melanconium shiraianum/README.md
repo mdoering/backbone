@@ -1,5 +1,4 @@
-Melanconium shiraianum P. Syd. SPECIES
-=======
+# Melanconium shiraianum P. Syd. SPECIES
 
 #### Status
 ACCEPTED

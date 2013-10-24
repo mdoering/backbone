@@ -1,5 +1,4 @@
-Gliomastix guttuliformis J.C. Br. & W.B. Kendr., 1958 SPECIES
-=======
+# Gliomastix guttuliformis J.C. Br. & W.B. Kendr., 1958 SPECIES
 
 #### Status
 ACCEPTED

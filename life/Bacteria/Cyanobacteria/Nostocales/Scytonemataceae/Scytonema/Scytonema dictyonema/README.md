@@ -1,5 +1,4 @@
-Scytonema dictyonema SPECIES
-=======
+# Scytonema dictyonema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe mitis H.E. Bigelow SPECIES
-=======
+# Clitocybe mitis H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

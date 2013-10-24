@@ -1,5 +1,4 @@
-Endocoleroa concinna Petr. SPECIES
-=======
+# Endocoleroa concinna Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymium crassicolle Ing, 1982 SPECIES
-=======
+# Didymium crassicolle Ing, 1982 SPECIES
 
 #### Status
 ACCEPTED

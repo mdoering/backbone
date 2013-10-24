@@ -1,5 +1,4 @@
-Macroptycha nucleolata Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
-=======
+# Macroptycha nucleolata Yin Chongyu in Xing Yusheng et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Godronia tabacina (Cooke) Seaver, 1945 SPECIES
-=======
+# Dermateopsis tabacina (Cooke) Nannf., 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 37: 350 (1945)
+Nova Acta R. Soc. Scient. upsal. 8(2): 89 (1932)
 
 #### Original name
 Dermatea tabacina Cooke

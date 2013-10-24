@@ -1,5 +1,4 @@
-Palaeancistrus martinii R.L. Dennis SPECIES
-=======
+# Palaeancistrus martinii R.L. Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astractinium Haeckel, 1887 GENUS
-=======
+# Astractinium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

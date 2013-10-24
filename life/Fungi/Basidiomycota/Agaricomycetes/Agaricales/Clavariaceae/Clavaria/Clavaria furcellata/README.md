@@ -1,5 +1,4 @@
-Clavaria furcellata Fr. SPECIES
-=======
+# Clavaria furcellata Fr. SPECIES
 
 #### Status
 ACCEPTED

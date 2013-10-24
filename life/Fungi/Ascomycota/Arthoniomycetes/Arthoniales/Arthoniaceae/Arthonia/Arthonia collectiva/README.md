@@ -1,5 +1,4 @@
-Arthonia collectiva Stirt. SPECIES
-=======
+# Arthonia collectiva Stirt. SPECIES
 
 #### Status
 ACCEPTED

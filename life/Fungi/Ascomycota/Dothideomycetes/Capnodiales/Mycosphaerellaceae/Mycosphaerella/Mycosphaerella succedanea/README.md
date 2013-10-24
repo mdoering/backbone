@@ -1,5 +1,4 @@
-Mycosphaerella succedanea (Pass.) Tomilin SPECIES
-=======
+# Mycosphaerella succedanea (Pass.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

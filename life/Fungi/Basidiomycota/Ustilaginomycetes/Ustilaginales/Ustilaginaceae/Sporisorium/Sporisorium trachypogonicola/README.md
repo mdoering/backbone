@@ -1,5 +1,4 @@
-Sporisorium trachypogonicola Vánky & C. Vánky SPECIES
-=======
+# Sporisorium trachypogonicola Vánky & C. Vánky SPECIES
 
 #### Status
 ACCEPTED

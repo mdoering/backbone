@@ -1,5 +1,4 @@
-Dothiorella urae Tassi SPECIES
-=======
+# Dothiorella urae Tassi SPECIES
 
 #### Status
 ACCEPTED

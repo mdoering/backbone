@@ -1,5 +1,4 @@
-Uredo cryptotaeniae Syd. & P. Syd. SPECIES
-=======
+# Uredo cryptotaeniae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

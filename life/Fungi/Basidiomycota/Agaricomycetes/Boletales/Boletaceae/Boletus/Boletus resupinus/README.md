@@ -1,5 +1,4 @@
-Boletus resupinus O.F. Müll. SPECIES
-=======
+# Boletus resupinus O.F. Müll. SPECIES
 
 #### Status
 ACCEPTED

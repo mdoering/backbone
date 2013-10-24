@@ -1,5 +1,4 @@
-Lecidora rufidula Motyka SPECIES
-=======
+# Lecidora rufidula Motyka SPECIES
 
 #### Status
 ACCEPTED

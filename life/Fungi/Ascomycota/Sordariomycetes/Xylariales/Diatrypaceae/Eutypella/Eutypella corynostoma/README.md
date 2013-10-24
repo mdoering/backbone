@@ -1,5 +1,4 @@
-Eutypella corynostoma (Berk. & Ravenel) Sacc. SPECIES
-=======
+# Eutypella corynostoma (Berk. & Ravenel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

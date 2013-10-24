@@ -1,5 +1,4 @@
-Inocybe armeniaca Huijsman SPECIES
-=======
+# Inocybe armeniaca Huijsman SPECIES
 
 #### Status
 ACCEPTED

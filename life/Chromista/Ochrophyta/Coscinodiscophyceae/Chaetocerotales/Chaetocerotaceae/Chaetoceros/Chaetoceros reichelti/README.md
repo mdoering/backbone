@@ -1,5 +1,4 @@
-Chaetoceros reichelti Hustedt, 1912 SPECIES
-=======
+# Chaetoceros reichelti Hustedt, 1912 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota cervicolor Cleland SPECIES
-=======
+# Lepiota cervicolor Cleland SPECIES
 
 #### Status
 ACCEPTED

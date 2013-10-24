@@ -1,5 +1,4 @@
-Sarcoscypha macaronesica Baral & Korf, 1984 SPECIES
-=======
+# Sarcoscypha macaronesica Baral & Korf, 1984 SPECIES
 
 #### Status
 ACCEPTED

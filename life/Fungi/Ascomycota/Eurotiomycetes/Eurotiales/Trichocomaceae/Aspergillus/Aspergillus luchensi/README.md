@@ -1,5 +1,4 @@
-Aspergillus luchensi Inui SPECIES
-=======
+# Aspergillus luchensi Inui SPECIES
 
 #### Status
 ACCEPTED

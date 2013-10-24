@@ -1,5 +1,4 @@
-Dictyocysta templum Haeckel, 1873 SPECIES
-=======
+# Dictyocysta templum Haeckel, 1873 SPECIES
 
 #### Status
 ACCEPTED

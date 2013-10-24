@@ -1,5 +1,4 @@
-Torula dichroa Sacc. SPECIES
-=======
+# Torula dichroa Sacc. SPECIES
 
 #### Status
 ACCEPTED

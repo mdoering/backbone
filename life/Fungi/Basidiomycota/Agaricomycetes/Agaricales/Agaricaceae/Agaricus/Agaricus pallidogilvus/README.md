@@ -1,5 +1,4 @@
-Agaricus pallidogilvus Berk. & Broome SPECIES
-=======
+# Agaricus pallidogilvus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces taubertii Henn. SPECIES
-=======
+# Uromyces taubertii Henn. SPECIES
 
 #### Status
 ACCEPTED

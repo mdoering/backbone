@@ -1,5 +1,4 @@
-Ceratoneis amphioxys Rabenhorst SPECIES
-=======
+# Ceratoneis amphioxys Rabenhorst SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora linariae Chidd. SPECIES
-=======
+# Cercospora linariae Chidd. SPECIES
 
 #### Status
 ACCEPTED

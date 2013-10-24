@@ -1,5 +1,4 @@
-Melittangium boletus Jahn, 1924 (Approved Lists, 1980) SPECIES
-=======
+# Melittangium boletus Jahn, 1924 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

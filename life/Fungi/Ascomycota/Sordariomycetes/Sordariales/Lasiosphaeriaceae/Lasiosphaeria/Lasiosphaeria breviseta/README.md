@@ -1,5 +1,4 @@
-Lasiosphaeria breviseta P. Karst. SPECIES
-=======
+# Lasiosphaeria breviseta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

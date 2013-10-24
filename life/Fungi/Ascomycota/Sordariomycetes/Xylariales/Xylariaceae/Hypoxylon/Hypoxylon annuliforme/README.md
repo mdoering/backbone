@@ -1,5 +1,4 @@
-Hypoxylon annuliforme Rehm SPECIES
-=======
+# Hypoxylon annuliforme Rehm SPECIES
 
 #### Status
 ACCEPTED

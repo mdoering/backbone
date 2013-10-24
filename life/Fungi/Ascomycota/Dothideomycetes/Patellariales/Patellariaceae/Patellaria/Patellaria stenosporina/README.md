@@ -1,5 +1,4 @@
-Patellaria stenosporina Müll. Arg. SPECIES
-=======
+# Patellaria stenosporina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

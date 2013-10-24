@@ -1,5 +1,4 @@
-Pseudomonilicaryon marinum subsp. marinum SUBSPECIES
-=======
+# Pseudomonilicaryon marinum (Kahl, 1933) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
 ACCEPTED

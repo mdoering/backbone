@@ -1,5 +1,4 @@
-Bryophagus similis (Vezda) Kalb SPECIES
-=======
+# Bryophagus similis (Vezda) Kalb SPECIES
 
 #### Status
 ACCEPTED

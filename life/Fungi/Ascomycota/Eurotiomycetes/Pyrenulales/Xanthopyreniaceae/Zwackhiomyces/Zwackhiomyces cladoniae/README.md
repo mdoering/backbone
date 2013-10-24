@@ -1,5 +1,4 @@
-Zwackhiomyces cladoniae (C.W. Dodge) Diederich SPECIES
-=======
+# Zwackhiomyces cladoniae (C.W. Dodge) Diederich SPECIES
 
 #### Status
 ACCEPTED

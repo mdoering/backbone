@@ -1,5 +1,4 @@
-Sphaeria cingulata Mont. SPECIES
-=======
+# Sphaeria cingulata Mont. SPECIES
 
 #### Status
 ACCEPTED

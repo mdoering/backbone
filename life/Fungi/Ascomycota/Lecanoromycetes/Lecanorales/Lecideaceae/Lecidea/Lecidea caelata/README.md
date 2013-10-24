@@ -1,5 +1,4 @@
-Lecidea caelata (Hoffm.) Ach. SPECIES
-=======
+# Lecidea caelata (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

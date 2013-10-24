@@ -1,5 +1,4 @@
-Glomerobolus Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Glomerobolus Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

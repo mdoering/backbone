@@ -1,5 +1,4 @@
-Porpidiaceae Hertel & Hafellner FAMILY
-=======
+# Porpidiaceae Hertel & Hafellner FAMILY
 
 #### Status
 ACCEPTED

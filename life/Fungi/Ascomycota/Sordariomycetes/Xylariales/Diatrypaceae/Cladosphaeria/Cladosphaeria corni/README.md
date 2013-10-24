@@ -1,5 +1,4 @@
-Cladosphaeria corni G.H. Otth SPECIES
-=======
+# Cladosphaeria corni G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

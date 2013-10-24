@@ -1,5 +1,4 @@
-Chrysococcus biporus Skuja SPECIES
-=======
+# Chrysococcus biporus Skuja SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus heimii Bon SPECIES
-=======
+# Agaricus heimii Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterolepa palpatio Saidova, 1975 SPECIES
-=======
+# Heterolepa palpatio Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelephora coriacea Fr. SPECIES
-=======
+# Thelephora coriacea Fr. SPECIES
 
 #### Status
 ACCEPTED

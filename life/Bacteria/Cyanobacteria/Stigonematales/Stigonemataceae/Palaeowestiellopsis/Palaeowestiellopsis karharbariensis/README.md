@@ -1,5 +1,4 @@
-Palaeowestiellopsis karharbariensis P. K. Maithy & P. K. Misra SPECIES
-=======
+# Palaeowestiellopsis karharbariensis P. K. Maithy & P. K. Misra SPECIES
 
 #### Status
 ACCEPTED

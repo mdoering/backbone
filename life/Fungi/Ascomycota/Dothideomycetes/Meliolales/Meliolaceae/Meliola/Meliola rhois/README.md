@@ -1,5 +1,4 @@
-Meliola rhois var. rhois VARIETY
-=======
+# Meliola rhois Henn. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Engler's Bot. Jahrb. 17: 523 (1893)
 
 #### Original name
-Meliola rhois var. rhois
+Meliola rhois Henn.
 
 ### Remarks
 null

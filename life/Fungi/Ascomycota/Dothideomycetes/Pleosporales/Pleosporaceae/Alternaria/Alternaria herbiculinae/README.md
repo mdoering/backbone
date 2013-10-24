@@ -1,5 +1,4 @@
-Alternaria herbiculinae E.G. Simmons, 2007 SPECIES
-=======
+# Alternaria herbiculinae E.G. Simmons, 2007 SPECIES
 
 #### Status
 ACCEPTED

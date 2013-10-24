@@ -1,14 +1,13 @@
-Dendrostilbella aurifila (W.R. Gerard) Seifert & J.A. Mackinnon, 1983 SPECIES
-=======
+# Gliocladium aurifilum (W.R. Gerard) Seifert, Samuels & W. Gams, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 75(2): 324 (1983)
+in Seifert, Stud. Mycol. 27: 148 (1985)
 
 #### Original name
 null

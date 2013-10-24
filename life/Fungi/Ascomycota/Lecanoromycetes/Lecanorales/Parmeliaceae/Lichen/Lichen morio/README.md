@@ -1,5 +1,4 @@
-Lichen morio Duby SPECIES
-=======
+# Lichen morio Duby SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidora pseudotrevisanii Motyka SPECIES
-=======
+# Lecidora pseudotrevisanii Motyka SPECIES
 
 #### Status
 ACCEPTED

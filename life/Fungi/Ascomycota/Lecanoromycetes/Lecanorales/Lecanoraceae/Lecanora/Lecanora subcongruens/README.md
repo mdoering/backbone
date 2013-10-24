@@ -1,5 +1,4 @@
-Lecanora subcongruens Müll. Arg. SPECIES
-=======
+# Lecanora subcongruens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

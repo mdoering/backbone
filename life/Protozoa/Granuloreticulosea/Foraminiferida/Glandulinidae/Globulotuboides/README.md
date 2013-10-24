@@ -1,5 +1,4 @@
-Globulotuboides McCulloch, 1977 GENUS
-=======
+# Globulotuboides McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

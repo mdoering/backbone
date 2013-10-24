@@ -1,5 +1,4 @@
-Erysiphe jaborosae (Seaver) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe jaborosae (Seaver) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

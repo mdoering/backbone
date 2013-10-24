@@ -1,5 +1,4 @@
-Ochrolechia deceptionis (Hue) Darb. SPECIES
-=======
+# Ochrolechia deceptionis (Hue) Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sagenidiopsis aspiciliae (Vain.) Nik. Hoffm. & Hafellner SPECIES
-=======
+# Sagenidiopsis aspiciliae (Vain.) Nik. Hoffm. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allomonas enterica Kalina et al., 1984 SPECIES
-=======
+# Allomonas enterica Kalina et al., 1984 SPECIES
 
 #### Status
 ACCEPTED

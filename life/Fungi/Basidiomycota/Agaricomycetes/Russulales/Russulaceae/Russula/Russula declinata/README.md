@@ -1,5 +1,4 @@
-Russula declinata Buyck SPECIES
-=======
+# Russula declinata Buyck SPECIES
 
 #### Status
 ACCEPTED

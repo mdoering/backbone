@@ -1,5 +1,4 @@
-Peziza vogesiaca Moug. & Nestl. SPECIES
-=======
+# Peziza vogesiaca Moug. & Nestl. SPECIES
 
 #### Status
 ACCEPTED

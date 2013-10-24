@@ -1,5 +1,4 @@
-Euplotes crenosus Tuffrau, 1960 SPECIES
-=======
+# Euplotes crenosus Tuffrau, 1960 SPECIES
 
 #### Status
 ACCEPTED

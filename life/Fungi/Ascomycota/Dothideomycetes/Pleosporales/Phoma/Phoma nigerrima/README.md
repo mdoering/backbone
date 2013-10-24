@@ -1,5 +1,4 @@
-Phoma nigerrima Syd., 1911 SPECIES
-=======
+# Phoma nigerrima Syd., 1911 SPECIES
 
 #### Status
 ACCEPTED

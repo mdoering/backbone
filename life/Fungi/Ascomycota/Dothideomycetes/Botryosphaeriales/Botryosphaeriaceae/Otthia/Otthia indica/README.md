@@ -1,5 +1,4 @@
-Otthia indica S.K. Bose & E. Müll. SPECIES
-=======
+# Otthia indica S.K. Bose & E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita friabilis (P. Karst.) Bas, 1974 SPECIES
-=======
+# Amanita friabilis (P. Karst.) Bas, 1974 SPECIES
 
 #### Status
 ACCEPTED

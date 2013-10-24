@@ -1,5 +1,4 @@
-Calycina sommierana (Magnus) Kuntze SPECIES
-=======
+# Calycina sommierana (Magnus) Kuntze SPECIES
 
 #### Status
 ACCEPTED

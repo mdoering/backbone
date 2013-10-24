@@ -1,5 +1,4 @@
-Helvella albidula Quél. SPECIES
-=======
+# Helvella albidula Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sistotrema luteosubulatum Secr. SPECIES
-=======
+# Sistotrema luteosubulatum Secr. SPECIES
 
 #### Status
 ACCEPTED

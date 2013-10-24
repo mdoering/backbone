@@ -1,5 +1,4 @@
-Scleroderma albidum Pat. & Trab., 1899 SPECIES
-=======
+# Scleroderma albidum Pat. & Trab., 1899 SPECIES
 
 #### Status
 ACCEPTED

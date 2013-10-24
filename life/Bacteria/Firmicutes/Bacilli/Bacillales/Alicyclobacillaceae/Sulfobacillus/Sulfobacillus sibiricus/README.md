@@ -1,5 +1,4 @@
-Sulfobacillus sibiricus Melamud et al., 2006 SPECIES
-=======
+# Sulfobacillus sibiricus Melamud et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

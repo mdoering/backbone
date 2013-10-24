@@ -1,5 +1,4 @@
-Cintractia andina Kukkonen SPECIES
-=======
+# Cintractia andina Kukkonen SPECIES
 
 #### Status
 ACCEPTED

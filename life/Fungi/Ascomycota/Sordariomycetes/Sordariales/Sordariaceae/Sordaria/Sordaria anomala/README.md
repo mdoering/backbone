@@ -1,5 +1,4 @@
-Sordaria anomala (Griffiths) Sacc. & D. Sacc. SPECIES
-=======
+# Sordaria anomala (Griffiths) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

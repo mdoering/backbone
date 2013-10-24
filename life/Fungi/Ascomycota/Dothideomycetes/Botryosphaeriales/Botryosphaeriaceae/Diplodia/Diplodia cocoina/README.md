@@ -1,5 +1,4 @@
-Diplodia cocoina Syd. SPECIES
-=======
+# Diplodia cocoina Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora aloëtica (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
-=======
+# Phyllachora aloëtica (Berk. & M.A. Curtis) Sacc., 1883 SPECIES
 
 #### Status
 DOUBTFUL

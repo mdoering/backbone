@@ -1,5 +1,4 @@
-Pleospora gracilariae E.G. Simmons & S. Schatz, 1989 SPECIES
-=======
+# Pleospora gracilariae E.G. Simmons & S. Schatz, 1989 SPECIES
 
 #### Status
 ACCEPTED

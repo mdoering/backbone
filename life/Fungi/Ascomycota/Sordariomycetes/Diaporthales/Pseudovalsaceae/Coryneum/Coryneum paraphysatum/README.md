@@ -1,5 +1,4 @@
-Coryneum paraphysatum Rostr. SPECIES
-=======
+# Coryneum paraphysatum Rostr. SPECIES
 
 #### Status
 ACCEPTED

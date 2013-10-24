@@ -1,5 +1,4 @@
-Lepiota kerandi Speg. SPECIES
-=======
+# Lepiota kerandi Speg. SPECIES
 
 #### Status
 ACCEPTED

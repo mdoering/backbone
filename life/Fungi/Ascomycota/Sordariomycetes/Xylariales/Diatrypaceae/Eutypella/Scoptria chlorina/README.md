@@ -1,5 +1,4 @@
-Scoptria chlorina (Pat.) Petr. SPECIES
-=======
+# Scoptria chlorina (Pat.) Petr. SPECIES
 
 #### Status
 ACCEPTED

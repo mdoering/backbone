@@ -1,5 +1,4 @@
-Chadefaudia schizymeniae Stegenga & Kemperman, 1984 SPECIES
-=======
+# Chadefaudia schizymeniae Stegenga & Kemperman, 1984 SPECIES
 
 #### Status
 ACCEPTED

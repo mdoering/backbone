@@ -1,5 +1,4 @@
-Melampsora laricis-nigricantis W.G. Schneid. SPECIES
-=======
+# Melampsora laricis-nigricantis W.G. Schneid. SPECIES
 
 #### Status
 ACCEPTED

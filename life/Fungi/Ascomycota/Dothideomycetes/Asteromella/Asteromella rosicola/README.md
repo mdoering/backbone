@@ -1,5 +1,4 @@
-Asteromella rosicola (C. Massal.) H. Ruppr. SPECIES
-=======
+# Asteromella rosicola (C. Massal.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

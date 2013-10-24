@@ -1,5 +1,4 @@
-Trenomyces helveticus Eichler {?} SPECIES
-=======
+# Trenomyces helveticus Eichler {?} SPECIES
 
 #### Status
 ACCEPTED

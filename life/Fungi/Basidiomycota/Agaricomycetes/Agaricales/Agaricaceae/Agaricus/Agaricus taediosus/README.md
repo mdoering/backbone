@@ -1,5 +1,4 @@
-Agaricus taediosus Kalchbr. SPECIES
-=======
+# Agaricus taediosus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chytridium characii Scherff. SPECIES
-=======
+# Chytridium characii Scherff. SPECIES
 
 #### Status
 ACCEPTED

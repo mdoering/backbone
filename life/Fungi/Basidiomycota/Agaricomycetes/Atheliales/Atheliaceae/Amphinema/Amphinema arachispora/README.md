@@ -1,5 +1,4 @@
-Amphinema arachispora Burds. & Nakasone, 1981 SPECIES
-=======
+# Amphinema arachispora Burds. & Nakasone, 1981 SPECIES
 
 #### Status
 ACCEPTED

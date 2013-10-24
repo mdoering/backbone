@@ -1,5 +1,4 @@
-Trochila phacidioides P. Karst. SPECIES
-=======
+# Trochila phacidioides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

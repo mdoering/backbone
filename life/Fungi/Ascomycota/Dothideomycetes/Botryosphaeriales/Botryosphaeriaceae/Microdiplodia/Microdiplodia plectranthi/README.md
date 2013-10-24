@@ -1,5 +1,4 @@
-Microdiplodia plectranthi S. Ahmad SPECIES
-=======
+# Microdiplodia plectranthi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

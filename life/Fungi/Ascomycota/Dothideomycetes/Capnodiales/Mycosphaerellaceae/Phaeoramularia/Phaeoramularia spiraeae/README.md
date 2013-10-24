@@ -1,5 +1,4 @@
-Phaeoramularia spiraeae R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
-=======
+# Phaeoramularia spiraeae R.K. Chaudhary, Tripathi, P.N. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

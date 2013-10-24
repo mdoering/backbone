@@ -1,5 +1,4 @@
-Arthopyrenia straminea (Eschw.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia straminea (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

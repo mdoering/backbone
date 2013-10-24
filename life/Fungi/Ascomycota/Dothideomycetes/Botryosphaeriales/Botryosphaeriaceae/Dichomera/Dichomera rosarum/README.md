@@ -1,5 +1,4 @@
-Dichomera rosarum S. Ahmad SPECIES
-=======
+# Dichomera rosarum S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltis GENUS
-=======
+# Scolecopeltis GENUS
 
 #### Status
 ACCEPTED

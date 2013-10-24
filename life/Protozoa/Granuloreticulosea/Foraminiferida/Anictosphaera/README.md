@@ -1,5 +1,4 @@
-Anictosphaera McClellan, 1973 GENUS
-=======
+# Anictosphaera McClellan, 1973 GENUS
 
 #### Status
 ACCEPTED

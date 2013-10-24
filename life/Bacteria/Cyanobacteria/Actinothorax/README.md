@@ -1,5 +1,4 @@
-Actinothorax J.E.Gray GENUS
-=======
+# Actinothorax J.E.Gray GENUS
 
 #### Status
 ACCEPTED

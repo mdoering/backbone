@@ -1,5 +1,4 @@
-Mystrosporium consors Thüm. SPECIES
-=======
+# Mystrosporium consors Thüm. SPECIES
 
 #### Status
 ACCEPTED

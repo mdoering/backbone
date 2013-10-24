@@ -1,5 +1,4 @@
-Peronospora centranthi Massenot SPECIES
-=======
+# Peronospora centranthi Massenot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staplinium Jansonius, 1962 GENUS
-=======
+# Staplinium Jansonius, 1962 GENUS
 
 #### Status
 ACCEPTED

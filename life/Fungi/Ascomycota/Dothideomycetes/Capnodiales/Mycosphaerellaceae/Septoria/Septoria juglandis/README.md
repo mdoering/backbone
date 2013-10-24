@@ -1,5 +1,4 @@
-Septoria juglandis (Schwein.) Berk. & M.A. Curtis SPECIES
-=======
+# Septoria juglandis (Schwein.) Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidothermus cellulolyticus Mohagheghi et al., 1986 SPECIES
-=======
+# Acidothermus cellulolyticus Mohagheghi et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

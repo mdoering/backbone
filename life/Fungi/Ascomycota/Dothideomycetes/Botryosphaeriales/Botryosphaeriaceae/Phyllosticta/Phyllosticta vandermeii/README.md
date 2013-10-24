@@ -1,5 +1,4 @@
-Phyllosticta vandermeii Vanev & Aa SPECIES
-=======
+# Phyllosticta vandermeii Vanev & Aa SPECIES
 
 #### Status
 ACCEPTED

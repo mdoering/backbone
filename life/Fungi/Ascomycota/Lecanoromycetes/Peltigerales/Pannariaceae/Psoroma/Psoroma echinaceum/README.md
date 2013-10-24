@@ -1,5 +1,4 @@
-Psoroma echinaceum P.M. Jørg. & Wedin SPECIES
-=======
+# Psoroma echinaceum P.M. Jørg. & Wedin SPECIES
 
 #### Status
 ACCEPTED

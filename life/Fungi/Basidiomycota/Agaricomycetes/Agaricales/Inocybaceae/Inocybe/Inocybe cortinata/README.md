@@ -1,5 +1,4 @@
-Inocybe cortinata Rolland SPECIES
-=======
+# Inocybe cortinata Rolland SPECIES
 
 #### Status
 ACCEPTED

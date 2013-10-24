@@ -1,5 +1,4 @@
-Rhabdospora veronicae Hollós SPECIES
-=======
+# Rhabdospora veronicae Hollós SPECIES
 
 #### Status
 ACCEPTED

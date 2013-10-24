@@ -1,5 +1,4 @@
-Sarcoscypha fusispora Sawada SPECIES
-=======
+# Sarcoscypha fusispora Sawada SPECIES
 
 #### Status
 ACCEPTED

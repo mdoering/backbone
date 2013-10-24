@@ -1,5 +1,4 @@
-Karstenula adenocarpi Urries SPECIES
-=======
+# Karstenula adenocarpi Urries SPECIES
 
 #### Status
 ACCEPTED

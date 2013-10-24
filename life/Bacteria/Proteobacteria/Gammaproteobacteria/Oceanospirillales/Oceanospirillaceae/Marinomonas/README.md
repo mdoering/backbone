@@ -1,5 +1,4 @@
-Marinomonas van Landschoot & De Ley, 1984 GENUS
-=======
+# Marinomonas van Landschoot & De Ley, 1984 GENUS
 
 #### Status
 ACCEPTED

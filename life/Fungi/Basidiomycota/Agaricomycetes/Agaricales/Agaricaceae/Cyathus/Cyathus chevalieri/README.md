@@ -1,5 +1,4 @@
-Cyathus chevalieri Har. & Pat. SPECIES
-=======
+# Cyathus chevalieri Har. & Pat. SPECIES
 
 #### Status
 ACCEPTED

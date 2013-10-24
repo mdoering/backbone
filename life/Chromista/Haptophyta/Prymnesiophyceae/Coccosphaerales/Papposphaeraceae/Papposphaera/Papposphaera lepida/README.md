@@ -1,5 +1,4 @@
-Papposphaera lepida Tangen SPECIES
-=======
+# Papposphaera lepida Tangen SPECIES
 
 #### Status
 ACCEPTED

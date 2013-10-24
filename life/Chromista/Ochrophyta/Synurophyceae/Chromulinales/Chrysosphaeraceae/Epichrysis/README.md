@@ -1,5 +1,4 @@
-Epichrysis Pascher, 1925 GENUS
-=======
+# Epichrysis Pascher, 1925 GENUS
 
 #### Status
 ACCEPTED

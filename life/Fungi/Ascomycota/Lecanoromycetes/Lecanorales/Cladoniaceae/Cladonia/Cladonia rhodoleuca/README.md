@@ -1,5 +1,4 @@
-Cladonia rhodoleuca Vain. SPECIES
-=======
+# Cladonia rhodoleuca Vain. SPECIES
 
 #### Status
 ACCEPTED

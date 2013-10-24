@@ -1,5 +1,4 @@
-Euglena archaeoviridis B. Zakrys & P. L. Walne SPECIES
-=======
+# Euglena archaeoviridis B. Zakrys & P. L. Walne SPECIES
 
 #### Status
 ACCEPTED

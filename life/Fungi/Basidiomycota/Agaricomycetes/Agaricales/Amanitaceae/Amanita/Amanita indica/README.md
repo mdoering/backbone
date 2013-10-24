@@ -1,5 +1,4 @@
-Amanita indica R.P. Bhatt, Locq. & T.N. Lakh. SPECIES
-=======
+# Amanita indica R.P. Bhatt, Locq. & T.N. Lakh. SPECIES
 
 #### Status
 ACCEPTED

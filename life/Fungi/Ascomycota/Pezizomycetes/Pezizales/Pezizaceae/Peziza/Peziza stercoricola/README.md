@@ -1,5 +1,4 @@
-Peziza stercoricola (Henn.) Sacc. & P. Syd. SPECIES
-=======
+# Peziza stercoricola (Henn.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

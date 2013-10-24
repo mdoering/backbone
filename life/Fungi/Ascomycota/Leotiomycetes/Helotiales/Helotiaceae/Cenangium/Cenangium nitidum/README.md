@@ -1,5 +1,4 @@
-Cenangium nitidum (Saut.) Sacc. SPECIES
-=======
+# Cenangium nitidum (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

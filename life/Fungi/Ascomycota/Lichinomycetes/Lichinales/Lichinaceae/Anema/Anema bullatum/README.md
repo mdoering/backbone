@@ -1,5 +1,4 @@
-Anema bullatum Riddle SPECIES
-=======
+# Anema bullatum Riddle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harplaria GENUS
-=======
+# Harplaria GENUS
 
 #### Status
 ACCEPTED

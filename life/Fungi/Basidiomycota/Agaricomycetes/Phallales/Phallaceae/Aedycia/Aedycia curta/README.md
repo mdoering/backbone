@@ -1,5 +1,4 @@
-Aedycia curta (Berk.) Kuntze SPECIES
-=======
+# Aedycia curta (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

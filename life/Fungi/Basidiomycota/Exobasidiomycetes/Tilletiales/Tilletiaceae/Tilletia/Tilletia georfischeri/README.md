@@ -1,5 +1,4 @@
-Tilletia georfischeri Hirschh. SPECIES
-=======
+# Tilletia georfischeri Hirschh. SPECIES
 
 #### Status
 ACCEPTED

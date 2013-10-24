@@ -1,5 +1,4 @@
-Porina ginzbergeri Zahlbr., 1903 SPECIES
-=======
+# Porina ginzbergeri Zahlbr., 1903 SPECIES
 
 #### Status
 DOUBTFUL

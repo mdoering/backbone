@@ -1,5 +1,4 @@
-Thecaphora tunicae Auersw. SPECIES
-=======
+# Thecaphora tunicae Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trematosphaeria dzungarica Kravtzev SPECIES
-=======
+# Trematosphaeria dzungarica Kravtzev SPECIES
 
 #### Status
 ACCEPTED

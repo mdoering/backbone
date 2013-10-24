@@ -1,5 +1,4 @@
-Gloeosporium palmigenum Sacc. SPECIES
-=======
+# Gloeosporium palmigenum Sacc. SPECIES
 
 #### Status
 ACCEPTED

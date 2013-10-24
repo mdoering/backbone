@@ -1,5 +1,4 @@
-Lecanactis cretacea (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanactis cretacea (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

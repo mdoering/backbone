@@ -1,5 +1,4 @@
-Lamproderma muscorum (Lév.) Hagelst., 1935 SPECIES
-=======
+# Lamproderma muscorum (Lév.) Hagelst., 1935 SPECIES
 
 #### Status
 ACCEPTED

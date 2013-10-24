@@ -1,5 +1,4 @@
-Herpotrichia xestotheli (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Herpotrichia xestotheli (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

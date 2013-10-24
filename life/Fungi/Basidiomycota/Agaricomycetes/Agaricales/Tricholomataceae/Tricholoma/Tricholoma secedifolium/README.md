@@ -1,5 +1,4 @@
-Tricholoma secedifolium Murrill SPECIES
-=======
+# Tricholoma secedifolium Murrill SPECIES
 
 #### Status
 ACCEPTED

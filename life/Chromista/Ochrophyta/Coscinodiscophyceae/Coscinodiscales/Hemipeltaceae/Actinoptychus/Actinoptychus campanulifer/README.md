@@ -1,5 +1,4 @@
-Actinoptychus campanulifer A.W.F.Schmidt, 1875 SPECIES
-=======
+# Actinoptychus campanulifer A.W.F.Schmidt, 1875 SPECIES
 
 #### Status
 ACCEPTED

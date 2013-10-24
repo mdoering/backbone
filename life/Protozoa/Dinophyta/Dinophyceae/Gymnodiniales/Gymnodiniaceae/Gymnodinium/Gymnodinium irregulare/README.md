@@ -1,5 +1,4 @@
-Gymnodinium irregulare Hope SPECIES
-=======
+# Gymnodinium irregulare Hope SPECIES
 
 #### Status
 ACCEPTED

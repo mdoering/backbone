@@ -1,5 +1,4 @@
-Hysterium janusiae Rehm SPECIES
-=======
+# Hysterium janusiae Rehm SPECIES
 
 #### Status
 ACCEPTED

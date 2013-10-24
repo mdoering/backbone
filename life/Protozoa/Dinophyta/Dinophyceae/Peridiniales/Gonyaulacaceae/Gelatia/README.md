@@ -1,5 +1,4 @@
-Gelatia J.P.Bujak, 1984 GENUS
-=======
+# Gelatia J.P.Bujak, 1984 GENUS
 
 #### Status
 ACCEPTED

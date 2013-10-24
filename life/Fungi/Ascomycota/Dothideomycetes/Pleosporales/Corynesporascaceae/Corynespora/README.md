@@ -1,5 +1,4 @@
-Corynespora Güssow, 1906 GENUS
-=======
+# Corynespora Güssow, 1906 GENUS
 
 #### Status
 ACCEPTED

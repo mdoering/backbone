@@ -1,8 +1,7 @@
-Oxitricha pullaster (Müller, 1773) Bory, 1824 SPECIES
-=======
+# Holosticha pullaster (Müller, 1773) Foissner, Blatterer, Berger & Kohmann, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

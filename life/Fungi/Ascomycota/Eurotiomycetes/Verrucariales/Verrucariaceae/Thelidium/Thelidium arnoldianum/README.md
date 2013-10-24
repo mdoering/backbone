@@ -1,5 +1,4 @@
-Thelidium arnoldianum Servít SPECIES
-=======
+# Thelidium arnoldianum Servít SPECIES
 
 #### Status
 ACCEPTED

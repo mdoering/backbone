@@ -1,5 +1,4 @@
-Nigredo silenes (Schltdl.) Arthur SPECIES
-=======
+# Nigredo silenes (Schltdl.) Arthur SPECIES
 
 #### Status
 ACCEPTED

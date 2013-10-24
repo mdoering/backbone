@@ -1,5 +1,4 @@
-Entoloma fuligodiscum Hesler SPECIES
-=======
+# Entoloma fuligodiscum Hesler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paragranatisporites vermiculus (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Paragranatisporites vermiculus (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium strasseri Keissl. SPECIES
-=======
+# Pseudohelotium strasseri Keissl. SPECIES
 
 #### Status
 ACCEPTED

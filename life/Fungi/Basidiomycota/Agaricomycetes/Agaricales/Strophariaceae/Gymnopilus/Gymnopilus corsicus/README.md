@@ -1,5 +1,4 @@
-Gymnopilus corsicus Romagn. SPECIES
-=======
+# Gymnopilus corsicus Romagn. SPECIES
 
 #### Status
 ACCEPTED

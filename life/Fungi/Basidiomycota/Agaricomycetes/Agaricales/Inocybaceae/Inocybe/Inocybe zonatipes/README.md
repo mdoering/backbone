@@ -1,5 +1,4 @@
-Inocybe zonatipes E. Horak SPECIES
-=======
+# Inocybe zonatipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

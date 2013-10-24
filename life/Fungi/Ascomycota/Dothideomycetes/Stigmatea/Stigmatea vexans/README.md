@@ -1,5 +1,4 @@
-Stigmatea vexans G. Winter SPECIES
-=======
+# Stigmatea vexans G. Winter SPECIES
 
 #### Status
 ACCEPTED

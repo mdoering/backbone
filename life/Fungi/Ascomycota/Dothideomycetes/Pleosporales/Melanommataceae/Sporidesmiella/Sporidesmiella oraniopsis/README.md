@@ -1,5 +1,4 @@
-Sporidesmiella oraniopsis Yanna, W.H. Ho, McKenzie & K.D. Hyde SPECIES
-=======
+# Sporidesmiella oraniopsis Yanna, W.H. Ho, McKenzie & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balantidium xenopi Puytorac & Grain, 1965 SPECIES
-=======
+# Balantidium xenopi Puytorac & Grain, 1965 SPECIES
 
 #### Status
 ACCEPTED

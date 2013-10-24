@@ -1,5 +1,4 @@
-Lentinus novopommeranus Henn. SPECIES
-=======
+# Lentinus novopommeranus Henn. SPECIES
 
 #### Status
 ACCEPTED

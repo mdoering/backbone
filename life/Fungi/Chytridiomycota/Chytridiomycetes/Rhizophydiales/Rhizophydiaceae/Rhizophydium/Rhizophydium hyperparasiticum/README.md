@@ -1,5 +1,4 @@
-Rhizophydium hyperparasiticum Karling, 1946 SPECIES
-=======
+# Rhizophydium hyperparasiticum Karling, 1946 SPECIES
 
 #### Status
 ACCEPTED

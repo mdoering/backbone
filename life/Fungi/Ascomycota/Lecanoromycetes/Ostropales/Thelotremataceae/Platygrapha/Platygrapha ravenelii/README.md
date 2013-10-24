@@ -1,5 +1,4 @@
-Platygrapha ravenelii Tuck. SPECIES
-=======
+# Platygrapha ravenelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

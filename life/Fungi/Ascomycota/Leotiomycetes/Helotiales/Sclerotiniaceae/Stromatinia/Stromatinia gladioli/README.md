@@ -1,17 +1,16 @@
-Sclerotium gladioli Massey, 1928 SPECIES
-=======
+# Stromatinia gladioli (Drayton) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phytopathology 18(6): 521 (1928)
+Mycologia 37(6): 672 (1945)
 
 #### Original name
-Sclerotium gladioli Massey, 1928
+Sclerotinia gladioli Drayton, 1934
 
 ### Remarks
 null

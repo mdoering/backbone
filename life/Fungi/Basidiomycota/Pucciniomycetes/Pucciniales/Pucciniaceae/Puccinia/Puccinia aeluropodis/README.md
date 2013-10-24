@@ -1,17 +1,16 @@
-Puccinia aeluropi H. Richt. SPECIES
-=======
+# Puccinia aeluropodis H. Richt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Mycol. 11: 114 (1905)
 
 #### Original name
-Puccinia aeluropi H. Richt.
+Puccinia aeluropodis H. Richt.
 
 ### Remarks
 null

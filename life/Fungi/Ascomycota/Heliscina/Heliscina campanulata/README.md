@@ -1,5 +1,4 @@
-Heliscina campanulata Marvanová, 1980 SPECIES
-=======
+# Heliscina campanulata Marvanová, 1980 SPECIES
 
 #### Status
 ACCEPTED

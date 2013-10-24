@@ -1,5 +1,4 @@
-Cercospora minutipes J.M. Yen SPECIES
-=======
+# Cercospora minutipes J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lobaria marginata (Müll. Arg.) Vain. SPECIES
-=======
+# Lobaria marginata (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

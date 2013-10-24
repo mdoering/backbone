@@ -1,5 +1,4 @@
-Fleischhakia GENUS
-=======
+# Fleischhakia GENUS
 
 #### Status
 ACCEPTED

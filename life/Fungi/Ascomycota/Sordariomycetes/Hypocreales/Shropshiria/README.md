@@ -1,5 +1,4 @@
-Shropshiria GENUS
-=======
+# Shropshiria GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Retrostium Nakagiri & Tad. Ito GENUS
-=======
+# Retrostium Nakagiri & Tad. Ito GENUS
 
 #### Status
 ACCEPTED

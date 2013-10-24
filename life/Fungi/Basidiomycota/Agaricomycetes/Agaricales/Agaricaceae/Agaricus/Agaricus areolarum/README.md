@@ -1,5 +1,4 @@
-Agaricus areolarum Pers. SPECIES
-=======
+# Agaricus areolarum Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merulius cladopus Pers. SPECIES
-=======
+# Merulius cladopus Pers. SPECIES
 
 #### Status
 ACCEPTED

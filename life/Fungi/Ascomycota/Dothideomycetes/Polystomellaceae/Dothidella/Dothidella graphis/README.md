@@ -1,5 +1,4 @@
-Dothidella graphis A.L. Sm. SPECIES
-=======
+# Dothidella graphis A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

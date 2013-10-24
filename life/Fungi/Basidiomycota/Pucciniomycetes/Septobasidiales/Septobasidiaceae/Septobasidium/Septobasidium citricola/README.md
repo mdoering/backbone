@@ -1,17 +1,16 @@
-Septobasidium citricolum Sawada SPECIES
-=======
+# Septobasidium citricola Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Report of the Department of Agriculture, Government Research Institute of Formosa 61: 54 (1933)
 
 #### Original name
-Septobasidium citricolum Sawada
+Septobasidium citricola Sawada
 
 ### Remarks
 null

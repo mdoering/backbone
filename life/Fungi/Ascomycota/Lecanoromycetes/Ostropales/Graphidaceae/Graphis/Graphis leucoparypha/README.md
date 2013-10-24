@@ -1,5 +1,4 @@
-Graphis leucoparypha Kremp. SPECIES
-=======
+# Graphis leucoparypha Kremp. SPECIES
 
 #### Status
 ACCEPTED

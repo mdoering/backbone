@@ -1,5 +1,4 @@
-Triloculina parallela Zheng, 1979 SPECIES
-=======
+# Triloculina parallela Zheng, 1979 SPECIES
 
 #### Status
 ACCEPTED

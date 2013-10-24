@@ -1,5 +1,4 @@
-Lactarius sakamotoi S. Imai SPECIES
-=======
+# Lactarius sakamotoi S. Imai SPECIES
 
 #### Status
 ACCEPTED

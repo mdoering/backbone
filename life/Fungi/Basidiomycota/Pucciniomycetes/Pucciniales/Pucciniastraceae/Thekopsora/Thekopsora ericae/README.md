@@ -1,5 +1,4 @@
-Thekopsora ericae (A. Naumann) Tranzschel SPECIES
-=======
+# Thekopsora ericae (A. Naumann) Tranzschel SPECIES
 
 #### Status
 ACCEPTED

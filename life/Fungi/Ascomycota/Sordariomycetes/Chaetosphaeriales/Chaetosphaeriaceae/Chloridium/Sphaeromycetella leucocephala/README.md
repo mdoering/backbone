@@ -1,5 +1,4 @@
-Sphaeromycetella leucocephala G. Arnaud SPECIES
-=======
+# Sphaeromycetella leucocephala G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

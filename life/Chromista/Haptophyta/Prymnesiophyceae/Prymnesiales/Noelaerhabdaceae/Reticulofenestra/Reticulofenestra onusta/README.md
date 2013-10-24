@@ -1,5 +1,4 @@
-Reticulofenestra onusta (K. Perch-Nielsen) S.W. Wise SPECIES
-=======
+# Reticulofenestra onusta (K. Perch-Nielsen) S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia schidlovica Kiryanov, 1978 SPECIES
-=======
+# Leiosphaeridia schidlovica Kiryanov, 1978 SPECIES
 
 #### Status
 ACCEPTED

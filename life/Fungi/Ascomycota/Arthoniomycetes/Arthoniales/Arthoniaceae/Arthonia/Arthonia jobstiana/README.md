@@ -1,5 +1,4 @@
-Arthonia jobstiana Fée SPECIES
-=======
+# Arthonia jobstiana Fée SPECIES
 
 #### Status
 ACCEPTED

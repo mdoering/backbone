@@ -1,5 +1,4 @@
-Mycenastrum olivaceum Cooke & Massee SPECIES
-=======
+# Mycenastrum olivaceum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

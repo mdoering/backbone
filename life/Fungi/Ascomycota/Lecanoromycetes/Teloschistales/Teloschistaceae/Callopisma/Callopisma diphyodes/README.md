@@ -1,5 +1,4 @@
-Callopisma diphyodes (Nyl.) Bagl. & Carestia SPECIES
-=======
+# Callopisma diphyodes (Nyl.) Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

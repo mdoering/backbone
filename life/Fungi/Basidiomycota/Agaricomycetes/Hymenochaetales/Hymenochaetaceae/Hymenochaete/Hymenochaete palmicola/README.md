@@ -1,5 +1,4 @@
-Hymenochaete palmicola S. Ito & S. Imai, 1940 SPECIES
-=======
+# Hymenochaete palmicola S. Ito & S. Imai, 1940 SPECIES
 
 #### Status
 ACCEPTED

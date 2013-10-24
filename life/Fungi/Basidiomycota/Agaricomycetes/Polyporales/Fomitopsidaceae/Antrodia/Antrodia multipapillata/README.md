@@ -1,14 +1,13 @@
-Tyromyces multipapillatus Corner, 1989 SPECIES
-=======
+# Antrodia multipapillata (Corner) T. Hatt., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 96: 180 (1989)
+Mycoscience 44(4): 268 (2003)
 
 #### Original name
 Tyromyces multipapillatus Corner, 1989

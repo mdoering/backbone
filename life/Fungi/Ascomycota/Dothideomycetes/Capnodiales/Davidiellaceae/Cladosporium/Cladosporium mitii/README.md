@@ -1,5 +1,4 @@
-Cladosporium mitii Syd. SPECIES
-=======
+# Cladosporium mitii Syd. SPECIES
 
 #### Status
 ACCEPTED

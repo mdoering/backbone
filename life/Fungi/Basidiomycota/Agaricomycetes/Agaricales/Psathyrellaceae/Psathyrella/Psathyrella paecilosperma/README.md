@@ -1,5 +1,4 @@
-Psathyrella paecilosperma Pacioni SPECIES
-=======
+# Psathyrella paecilosperma Pacioni SPECIES
 
 #### Status
 ACCEPTED

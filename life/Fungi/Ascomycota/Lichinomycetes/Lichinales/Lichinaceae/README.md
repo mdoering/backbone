@@ -1,5 +1,4 @@
-Lichinaceae Nyl. FAMILY
-=======
+# Lichinaceae Nyl. FAMILY
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Achlya benekei J.S. Furtado, 1965 SPECIES
-=======
+# Protoachlya benekei (J.S. Furtado) T.W. Johnson & R.L. Seym., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rickia 2: 122 (1965)
+Mycotaxon 92: 23 (2005)
 
 #### Original name
 Achlya benekei J.S. Furtado, 1965

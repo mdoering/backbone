@@ -1,5 +1,4 @@
-Coprinus uspallatae Singer SPECIES
-=======
+# Coprinus uspallatae Singer SPECIES
 
 #### Status
 ACCEPTED

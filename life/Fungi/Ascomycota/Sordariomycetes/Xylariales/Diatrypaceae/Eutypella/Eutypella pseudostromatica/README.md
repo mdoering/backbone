@@ -1,5 +1,4 @@
-Eutypella pseudostromatica Ananthap. SPECIES
-=======
+# Eutypella pseudostromatica Ananthap. SPECIES
 
 #### Status
 ACCEPTED

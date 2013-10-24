@@ -1,17 +1,16 @@
-Polyporus expansus var. expansus VARIETY
-=======
+# Polyporus expansus Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 475 (1838)
 
 #### Original name
-null
+Polyporus expansus Fr., 1838
 
 ### Remarks
 null

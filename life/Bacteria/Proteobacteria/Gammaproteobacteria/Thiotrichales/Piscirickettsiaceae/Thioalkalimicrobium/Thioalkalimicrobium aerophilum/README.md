@@ -1,5 +1,4 @@
-Thioalkalimicrobium aerophilum Sorokin et al., 2001 SPECIES
-=======
+# Thioalkalimicrobium aerophilum Sorokin et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

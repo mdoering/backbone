@@ -1,5 +1,4 @@
-Schiffnerula psychotriae (Doidge) S. Hughes SPECIES
-=======
+# Schiffnerula psychotriae (Doidge) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

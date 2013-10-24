@@ -1,5 +1,4 @@
-Sphaeronaema herbarum Hollós SPECIES
-=======
+# Sphaeronaema herbarum Hollós SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharibacter floricola Jojima et al., 2004 SPECIES
-=======
+# Saccharibacter floricola Jojima et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

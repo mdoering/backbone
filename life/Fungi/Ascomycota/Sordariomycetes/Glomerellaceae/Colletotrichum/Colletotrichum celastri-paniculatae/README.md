@@ -1,17 +1,16 @@
-Colletotrichum celastrus-paniculatae Thite & M.S. Patil SPECIES
-=======
+# Colletotrichum celastri-paniculatae Thite & M.S. Patil SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 6(2-3): 114 (1975)
 
 #### Original name
-Colletotrichum celastrus-paniculatae Thite & M.S. Patil
+Colletotrichum celastri-paniculatae Thite & M.S. Patil
 
 ### Remarks
 null

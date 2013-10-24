@@ -1,5 +1,4 @@
-Mollisia faginea Velen. SPECIES
-=======
+# Mollisia faginea Velen. SPECIES
 
 #### Status
 ACCEPTED

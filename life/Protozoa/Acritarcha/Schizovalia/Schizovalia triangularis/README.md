@@ -1,5 +1,4 @@
-Schizovalia triangularis Yan Yuzhong, 1985 SPECIES
-=======
+# Schizovalia triangularis Yan Yuzhong, 1985 SPECIES
 
 #### Status
 ACCEPTED

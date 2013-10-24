@@ -1,8 +1,7 @@
-Sigmohauerina bradyi (Cushman, 1917) SPECIES
-=======
+# Sigmoihauerina bradyi (Cushman, 1917) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

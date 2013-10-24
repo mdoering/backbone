@@ -1,5 +1,4 @@
-Lycoperdon corniculatum Ehrenb. SPECIES
-=======
+# Lycoperdon corniculatum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

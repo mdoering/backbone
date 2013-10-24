@@ -1,5 +1,4 @@
-Dermatocarpon rufescens SPECIES
-=======
+# Dermatocarpon rufescens SPECIES
 
 #### Status
 ACCEPTED

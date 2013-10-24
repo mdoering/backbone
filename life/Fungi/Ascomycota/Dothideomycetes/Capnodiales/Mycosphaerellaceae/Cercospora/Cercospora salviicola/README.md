@@ -1,5 +1,4 @@
-Cercospora salviicola Tharp SPECIES
-=======
+# Cercospora salviicola Tharp SPECIES
 
 #### Status
 ACCEPTED

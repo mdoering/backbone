@@ -1,8 +1,7 @@
-Nonionina laevigata d’Orbigny, 1843 SPECIES
-=======
+# Nonion laevigatum (d'Orbigny in Guerin-Meneville, 1843) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

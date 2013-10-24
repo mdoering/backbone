@@ -1,5 +1,4 @@
-Calicium bryophilum SPECIES
-=======
+# Calicium bryophilum SPECIES
 
 #### Status
 ACCEPTED

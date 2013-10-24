@@ -1,17 +1,16 @@
-Oidium uredinis Link, 1824 SPECIES
-=======
+# Kuehneola uredinis (Link) Arthur, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Willdenow, Willd. , Sp. pl. , Edn 4 6(1): 123 (1824)
+Résult. Sci. Congr. Bot. Vienne 342 (1906)
 
 #### Original name
-Oidium uredinis Link, 1824
+Uredo uredinis Link, 1824
 
 ### Remarks
 null

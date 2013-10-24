@@ -1,5 +1,4 @@
-Arcangeliella mitsueae S. Imai SPECIES
-=======
+# Arcangeliella mitsueae S. Imai SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drosophila floridana Murrill SPECIES
-=======
+# Drosophila floridana Murrill SPECIES
 
 #### Status
 ACCEPTED

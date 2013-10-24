@@ -1,5 +1,4 @@
-Torula rosea Sacc. SPECIES
-=======
+# Torula rosea Sacc. SPECIES
 
 #### Status
 ACCEPTED

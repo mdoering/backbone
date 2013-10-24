@@ -1,14 +1,13 @@
-Pestalotiopsis pauciseta (Sacc.) Y.X. Chen, 1993 SPECIES
-=======
+# Pestalotia pauciseta Sacc., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Chen & Wei, Journal of Guangxi Agricultural University 12(1): 24 (1993)
+Annls mycol. 12(3): 311 (1914)
 
 #### Original name
 Pestalotia pauciseta Sacc., 1914

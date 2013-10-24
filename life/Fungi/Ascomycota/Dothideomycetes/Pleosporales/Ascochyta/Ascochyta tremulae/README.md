@@ -1,5 +1,4 @@
-Ascochyta tremulae Thüm. SPECIES
-=======
+# Ascochyta tremulae Thüm. SPECIES
 
 #### Status
 ACCEPTED

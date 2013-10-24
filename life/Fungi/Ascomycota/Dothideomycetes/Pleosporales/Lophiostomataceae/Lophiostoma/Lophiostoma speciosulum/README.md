@@ -1,5 +1,4 @@
-Lophiostoma speciosulum Speg. SPECIES
-=======
+# Lophiostoma speciosulum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrinula carpatica Petr. SPECIES
-=======
+# Coniothyrinula carpatica Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella hibiscicola (Tassi) Petr. & Syd. SPECIES
-=======
+# Dothiorella hibiscicola (Tassi) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

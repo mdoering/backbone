@@ -1,5 +1,4 @@
-Macbridella amazonensis Bat., J.L. Bezerra & C.R. Almeida SPECIES
-=======
+# Macbridella amazonensis Bat., J.L. Bezerra & C.R. Almeida SPECIES
 
 #### Status
 ACCEPTED

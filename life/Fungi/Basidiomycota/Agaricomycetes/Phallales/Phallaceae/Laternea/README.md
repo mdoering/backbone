@@ -1,5 +1,4 @@
-Laternea Turpin GENUS
-=======
+# Laternea Turpin GENUS
 
 #### Status
 ACCEPTED

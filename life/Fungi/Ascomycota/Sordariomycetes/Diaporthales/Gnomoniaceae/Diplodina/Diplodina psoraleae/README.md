@@ -1,5 +1,4 @@
-Diplodina psoraleae Unamuno SPECIES
-=======
+# Diplodina psoraleae Unamuno SPECIES
 
 #### Status
 ACCEPTED

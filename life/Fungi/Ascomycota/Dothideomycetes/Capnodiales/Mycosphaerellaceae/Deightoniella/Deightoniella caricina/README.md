@@ -1,5 +1,4 @@
-Deightoniella caricina (Bres.) Ondrej SPECIES
-=======
+# Deightoniella caricina (Bres.) Ondrej SPECIES
 
 #### Status
 ACCEPTED

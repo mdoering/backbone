@@ -1,5 +1,4 @@
-Sphaeria rubefaciens Peck SPECIES
-=======
+# Sphaeria rubefaciens Peck SPECIES
 
 #### Status
 ACCEPTED

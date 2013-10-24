@@ -1,5 +1,4 @@
-Cladosporium smilacis (Schwein.) Fr. SPECIES
-=======
+# Cladosporium smilacis (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

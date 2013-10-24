@@ -1,5 +1,4 @@
-Naucoria pampicola Speg. SPECIES
-=======
+# Naucoria pampicola Speg. SPECIES
 
 #### Status
 ACCEPTED

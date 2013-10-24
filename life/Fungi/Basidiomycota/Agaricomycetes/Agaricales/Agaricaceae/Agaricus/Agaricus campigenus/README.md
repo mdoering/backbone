@@ -1,14 +1,13 @@
-Fungus campigenus (Berk.) Kuntze, 1898 SPECIES
-=======
+# Agaricus campigenus Berk., 1855 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 479 (1898)
+Fl. nov. -zel. 174 (1855)
 
 #### Original name
 Agaricus campigenus Berk., 1855

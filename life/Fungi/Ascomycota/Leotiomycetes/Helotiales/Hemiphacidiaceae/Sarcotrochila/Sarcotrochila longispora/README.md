@@ -1,14 +1,13 @@
-Hemiphacidium longisporum Ziller & A. Funk, 1973 SPECIES
-=======
+# Sarcotrochila longispora (Ziller & A. Funk) J.K. Stone & Gernandt, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 51: 1960 (1973)
+Mycotaxon 91: 120 (2005)
 
 #### Original name
 Hemiphacidium longisporum Ziller & A. Funk, 1973

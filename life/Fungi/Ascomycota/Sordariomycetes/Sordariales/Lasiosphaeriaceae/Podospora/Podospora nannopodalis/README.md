@@ -1,5 +1,4 @@
-Podospora nannopodalis Cain, 1962 SPECIES
-=======
+# Podospora nannopodalis Cain, 1962 SPECIES
 
 #### Status
 ACCEPTED

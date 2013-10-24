@@ -1,5 +1,4 @@
-Physcia atrostriata Moberg SPECIES
-=======
+# Physcia atrostriata Moberg SPECIES
 
 #### Status
 ACCEPTED

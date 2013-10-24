@@ -1,5 +1,4 @@
-Hyphoderma lunasporum Gilb. & Hemmes, 2004 SPECIES
-=======
+# Hyphoderma lunasporum Gilb. & Hemmes, 2004 SPECIES
 
 #### Status
 ACCEPTED

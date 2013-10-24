@@ -1,5 +1,4 @@
-Flagellimonas eckloniae Bae, Kwon, Yang, Lee, Kim & Lee, 2007 SPECIES
-=======
+# Flagellimonas eckloniae Bae, Kwon, Yang, Lee, Kim & Lee, 2007 SPECIES
 
 #### Status
 ACCEPTED

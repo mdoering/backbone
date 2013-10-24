@@ -1,5 +1,4 @@
-Mycena intertexta Berk. & M.A. Curtis SPECIES
-=======
+# Mycena intertexta Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

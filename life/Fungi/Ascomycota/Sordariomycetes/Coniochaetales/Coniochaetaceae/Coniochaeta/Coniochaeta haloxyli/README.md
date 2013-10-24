@@ -1,5 +1,4 @@
-Coniochaeta haloxyli (Kravtzev) Z.Q. Yuan & Z.Y. Zhao SPECIES
-=======
+# Coniochaeta haloxyli (Kravtzev) Z.Q. Yuan & Z.Y. Zhao SPECIES
 
 #### Status
 ACCEPTED

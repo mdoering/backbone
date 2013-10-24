@@ -1,5 +1,4 @@
-Dictyophora GENUS
-=======
+# Dictyophora GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bresadolia mangifera Pat. SPECIES
-=======
+# Bresadolia mangifera Pat. SPECIES
 
 #### Status
 ACCEPTED

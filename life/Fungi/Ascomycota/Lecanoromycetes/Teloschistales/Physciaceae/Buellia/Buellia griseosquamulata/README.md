@@ -1,5 +1,4 @@
-Buellia griseosquamulata Scheid. SPECIES
-=======
+# Buellia griseosquamulata Scheid. SPECIES
 
 #### Status
 ACCEPTED

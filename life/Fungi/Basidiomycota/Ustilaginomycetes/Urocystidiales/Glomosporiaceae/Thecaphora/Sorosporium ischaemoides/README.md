@@ -1,5 +1,4 @@
-Sorosporium ischaemoides (Henn.) Zundel SPECIES
-=======
+# Sorosporium ischaemoides (Henn.) Zundel SPECIES
 
 #### Status
 ACCEPTED

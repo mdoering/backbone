@@ -1,5 +1,4 @@
-Boletus decorus Frost SPECIES
-=======
+# Boletus decorus Frost SPECIES
 
 #### Status
 ACCEPTED

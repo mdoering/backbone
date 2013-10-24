@@ -1,5 +1,4 @@
-Pocillaria fuliginea (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Pocillaria fuliginea (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

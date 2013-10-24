@@ -1,5 +1,4 @@
-Vararia athabascensis Gilb., 1970 SPECIES
-=======
+# Vararia athabascensis Gilb., 1970 SPECIES
 
 #### Status
 ACCEPTED

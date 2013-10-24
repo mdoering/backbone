@@ -1,5 +1,4 @@
-Fusarium sorghi Henn. SPECIES
-=======
+# Fusarium sorghi Henn. SPECIES
 
 #### Status
 ACCEPTED

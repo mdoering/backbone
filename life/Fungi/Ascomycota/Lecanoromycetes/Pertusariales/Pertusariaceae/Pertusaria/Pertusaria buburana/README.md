@@ -1,5 +1,4 @@
-Pertusaria buburana Elix & A.W. Archer SPECIES
-=======
+# Pertusaria buburana Elix & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

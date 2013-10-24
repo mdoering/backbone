@@ -1,5 +1,4 @@
-Filaspora tomipara (Pass.) Kuntze SPECIES
-=======
+# Filaspora tomipara (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

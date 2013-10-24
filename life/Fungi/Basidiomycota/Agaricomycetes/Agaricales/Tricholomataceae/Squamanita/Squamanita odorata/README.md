@@ -1,17 +1,16 @@
-Coolia odorata f. odorata FORM
-=======
+# Squamanita odorata (Cool) Imbach, 1946 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Medded. Nedl. Mycol. Ver. 28: 60 (1943)
+Mitt. naturf. Ges. Luzern 15: 83 (1946)
 
 #### Original name
-Coolia odorata f. odorata
+Lepiota odorata Cool, 1918
 
 ### Remarks
 null

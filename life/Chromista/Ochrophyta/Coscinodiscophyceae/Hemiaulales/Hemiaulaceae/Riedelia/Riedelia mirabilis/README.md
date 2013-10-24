@@ -1,5 +1,4 @@
-Riedelia mirabilis Jousé SPECIES
-=======
+# Riedelia mirabilis Jousé SPECIES
 
 #### Status
 ACCEPTED

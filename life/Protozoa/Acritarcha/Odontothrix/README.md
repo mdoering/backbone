@@ -1,5 +1,4 @@
-Odontothrix Habib & Knapp, 1982 GENUS
-=======
+# Odontothrix Habib & Knapp, 1982 GENUS
 
 #### Status
 ACCEPTED

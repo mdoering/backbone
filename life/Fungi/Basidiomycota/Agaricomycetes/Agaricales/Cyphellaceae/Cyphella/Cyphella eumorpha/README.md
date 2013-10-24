@@ -1,5 +1,4 @@
-Cyphella eumorpha P. Karst. SPECIES
-=======
+# Cyphella eumorpha P. Karst. SPECIES
 
 #### Status
 ACCEPTED

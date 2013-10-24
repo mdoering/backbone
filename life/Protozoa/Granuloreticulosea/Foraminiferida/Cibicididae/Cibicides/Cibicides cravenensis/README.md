@@ -1,5 +1,4 @@
-Cibicides cravenensis SPECIES
-=======
+# Cibicides cravenensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma ochromicaceum Noordel. & Liiv, 1992 SPECIES
-=======
+# Entoloma ochromicaceum Noordel. & Liiv, 1992 SPECIES
 
 #### Status
 ACCEPTED

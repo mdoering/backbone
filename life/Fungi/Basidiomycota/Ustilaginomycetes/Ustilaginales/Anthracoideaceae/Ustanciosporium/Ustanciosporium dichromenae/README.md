@@ -1,17 +1,16 @@
-Ustilago dichronemae Henn. SPECIES
-=======
+# Ustanciosporium dichromenae (Henn.) M. Piepenbr., 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. Neotrop. , Monogr. 86: 143 (2003)
 
 #### Original name
-Ustilago dichronemae Henn.
+Ustilago dichromenae Henn., 1904
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polystictus ridleyi Massee, 1906 SPECIES
-=======
+# Polystictus ridleyi Massee, 1906 SPECIES
 
 #### Status
 ACCEPTED

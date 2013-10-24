@@ -1,5 +1,4 @@
-Aecidium piceae Barclay SPECIES
-=======
+# Aecidium piceae Barclay SPECIES
 
 #### Status
 ACCEPTED

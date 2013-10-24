@@ -1,5 +1,4 @@
-Mycosphaerella platylobii Sivan. & R.G. Shivas SPECIES
-=======
+# Mycosphaerella platylobii Sivan. & R.G. Shivas SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tephromela parasitica Øvstedal & Søchting SPECIES
-=======
+# Tephromela parasitica Øvstedal & Søchting SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Drepanomonas dentata Fresenius, 1858 SPECIES
-=======
+# Drepanomonas dentata Fresenius, 1858 SPECIES
 
 #### Status
 ACCEPTED

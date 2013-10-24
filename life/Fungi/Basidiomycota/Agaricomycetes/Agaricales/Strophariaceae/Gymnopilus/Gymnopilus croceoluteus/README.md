@@ -1,5 +1,4 @@
-Gymnopilus croceoluteus Hesler SPECIES
-=======
+# Gymnopilus croceoluteus Hesler SPECIES
 
 #### Status
 ACCEPTED

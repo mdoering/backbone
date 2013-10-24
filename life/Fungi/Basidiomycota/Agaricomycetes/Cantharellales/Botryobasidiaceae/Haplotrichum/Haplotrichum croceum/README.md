@@ -1,5 +1,4 @@
-Haplotrichum croceum (Mont.) Partr. & Morgan-Jones SPECIES
-=======
+# Haplotrichum croceum (Mont.) Partr. & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

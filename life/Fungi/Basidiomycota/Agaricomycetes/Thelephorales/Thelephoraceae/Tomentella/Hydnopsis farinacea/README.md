@@ -1,5 +1,4 @@
-Hydnopsis farinacea Rea SPECIES
-=======
+# Hydnopsis farinacea Rea SPECIES
 
 #### Status
 ACCEPTED

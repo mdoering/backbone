@@ -1,5 +1,4 @@
-Monodictys namatanaiensis Matsush. SPECIES
-=======
+# Monodictys namatanaiensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Recurvoides Earland, 1934 GENUS
-=======
+# Recurvoides Earland, 1934 GENUS
 
 #### Status
 ACCEPTED

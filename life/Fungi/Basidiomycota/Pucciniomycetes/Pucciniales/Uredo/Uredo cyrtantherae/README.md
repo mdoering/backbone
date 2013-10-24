@@ -1,5 +1,4 @@
-Uredo cyrtantherae H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo cyrtantherae H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

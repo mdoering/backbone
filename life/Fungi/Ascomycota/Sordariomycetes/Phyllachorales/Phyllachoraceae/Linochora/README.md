@@ -1,17 +1,16 @@
-Xanthopsora Speg. GENUS
-=======
+# Linochora von Höhnel, 1910 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Anal. Mus. nac. Hist. nat. B. Aires 31: 430 (1922)
+null
 
 #### Original name
-Xanthopsora Speg.
+null
 
 ### Remarks
 null

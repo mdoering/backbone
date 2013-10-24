@@ -1,5 +1,4 @@
-Tricholomopsis totilivida (Murrill) Singer SPECIES
-=======
+# Tricholomopsis totilivida (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

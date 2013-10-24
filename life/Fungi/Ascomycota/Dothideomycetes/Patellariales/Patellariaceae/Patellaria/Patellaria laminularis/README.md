@@ -1,5 +1,4 @@
-Patellaria laminularis Müll. Arg. SPECIES
-=======
+# Patellaria laminularis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

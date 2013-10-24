@@ -1,5 +1,4 @@
-Fusobacterium nucleatum subsp. nucleatum SUBSPECIES
-=======
+# Fusobacterium nucleatum Knorr, 1922 SPECIES
 
 #### Status
 ACCEPTED

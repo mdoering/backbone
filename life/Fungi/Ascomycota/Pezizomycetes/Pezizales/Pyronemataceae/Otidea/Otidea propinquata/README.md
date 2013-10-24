@@ -1,5 +1,4 @@
-Otidea propinquata (P. Karst.) Harmaja SPECIES
-=======
+# Otidea propinquata (P. Karst.) Harmaja SPECIES
 
 #### Status
 ACCEPTED

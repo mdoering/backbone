@@ -1,5 +1,4 @@
-Calicium fucipes Tuck. SPECIES
-=======
+# Calicium fucipes Tuck. SPECIES
 
 #### Status
 ACCEPTED

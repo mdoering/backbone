@@ -1,5 +1,4 @@
-Dacrymyces concavus Lloyd SPECIES
-=======
+# Dacrymyces concavus Lloyd SPECIES
 
 #### Status
 ACCEPTED

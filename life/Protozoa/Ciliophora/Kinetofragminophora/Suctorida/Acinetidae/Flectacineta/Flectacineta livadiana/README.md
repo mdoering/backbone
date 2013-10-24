@@ -1,5 +1,4 @@
-Flectacineta livadiana (Mereschkowsky, 1881) Jankowski, 1978 SPECIES
-=======
+# Flectacineta livadiana (Mereschkowsky, 1881) Jankowski, 1978 SPECIES
 
 #### Status
 ACCEPTED

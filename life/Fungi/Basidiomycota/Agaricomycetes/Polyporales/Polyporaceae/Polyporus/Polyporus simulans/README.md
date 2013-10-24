@@ -1,5 +1,4 @@
-Polyporus simulans Berk. & M.A. Curtis ex Sacc. SPECIES
-=======
+# Polyporus simulans Berk. & M.A. Curtis ex Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus haematopus Lév. SPECIES
-=======
+# Boletus haematopus Lév. SPECIES
 
 #### Status
 ACCEPTED

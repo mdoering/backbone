@@ -1,5 +1,4 @@
-Marnaviridae FAMILY
-=======
+# Marnaviridae FAMILY
 
 #### Status
 ACCEPTED

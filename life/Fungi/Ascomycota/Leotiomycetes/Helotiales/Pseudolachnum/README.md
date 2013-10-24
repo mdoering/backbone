@@ -1,5 +1,4 @@
-Pseudolachnum Velen. GENUS
-=======
+# Pseudolachnum Velen. GENUS
 
 #### Status
 ACCEPTED

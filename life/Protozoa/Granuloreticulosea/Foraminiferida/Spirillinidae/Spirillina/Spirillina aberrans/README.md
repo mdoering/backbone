@@ -1,5 +1,4 @@
-Spirillina aberrans McCulloch, 1977 SPECIES
-=======
+# Spirillina aberrans McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

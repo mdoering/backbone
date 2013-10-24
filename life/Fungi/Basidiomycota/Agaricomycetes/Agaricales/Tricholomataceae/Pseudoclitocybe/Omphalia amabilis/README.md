@@ -1,5 +1,4 @@
-Omphalia amabilis (Berk.) Sacc. SPECIES
-=======
+# Omphalia amabilis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

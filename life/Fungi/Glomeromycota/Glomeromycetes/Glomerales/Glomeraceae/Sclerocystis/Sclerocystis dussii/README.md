@@ -1,14 +1,13 @@
-Ackermannia dussii Pat. SPECIES
-=======
+# Sclerocystis dussii (Pat.) Höhn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bull. Soc. mycol. Fr. 18(2): 181 (1902)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 399 (1910)
 
 #### Original name
 Ackermannia dussii Pat.

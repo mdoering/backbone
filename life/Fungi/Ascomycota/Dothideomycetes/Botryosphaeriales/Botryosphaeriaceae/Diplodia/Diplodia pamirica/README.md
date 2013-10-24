@@ -1,5 +1,4 @@
-Diplodia pamirica Golovin SPECIES
-=======
+# Diplodia pamirica Golovin SPECIES
 
 #### Status
 ACCEPTED

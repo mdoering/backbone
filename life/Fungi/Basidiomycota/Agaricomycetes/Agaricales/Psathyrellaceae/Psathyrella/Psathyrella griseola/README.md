@@ -1,5 +1,4 @@
-Psathyrella griseola A. Pearson SPECIES
-=======
+# Psathyrella griseola A. Pearson SPECIES
 
 #### Status
 ACCEPTED

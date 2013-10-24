@@ -1,5 +1,4 @@
-Calathinus aratus Pat. & Demange SPECIES
-=======
+# Calathinus aratus Pat. & Demange SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psalliota argentina (Speg.) Herter SPECIES
-=======
+# Psalliota argentina (Speg.) Herter SPECIES
 
 #### Status
 ACCEPTED

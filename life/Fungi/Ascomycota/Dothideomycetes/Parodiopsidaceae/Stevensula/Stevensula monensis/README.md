@@ -1,5 +1,4 @@
-Stevensula monensis Speg. SPECIES
-=======
+# Stevensula monensis Speg. SPECIES
 
 #### Status
 ACCEPTED

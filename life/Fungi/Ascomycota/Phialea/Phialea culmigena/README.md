@@ -1,5 +1,4 @@
-Phialea culmigena var. culmigena VARIETY
-=======
+# Phialea culmigena (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phialea culmigena var. culmigena
+Peziza culmigena Fr.
 
 ### Remarks
 null

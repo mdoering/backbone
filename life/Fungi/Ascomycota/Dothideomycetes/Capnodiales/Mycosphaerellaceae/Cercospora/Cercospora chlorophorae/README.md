@@ -1,5 +1,4 @@
-Cercospora chlorophorae J.M. Yen & Gilles SPECIES
-=======
+# Cercospora chlorophorae J.M. Yen & Gilles SPECIES
 
 #### Status
 ACCEPTED

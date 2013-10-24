@@ -1,5 +1,4 @@
-Cothurnia perlepida SPECIES
-=======
+# Cothurnia perlepida SPECIES
 
 #### Status
 ACCEPTED

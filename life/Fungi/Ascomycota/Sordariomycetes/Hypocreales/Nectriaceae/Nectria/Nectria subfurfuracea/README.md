@@ -1,5 +1,4 @@
-Nectria subfurfuracea Henn. & E. Nyman SPECIES
-=======
+# Nectria subfurfuracea Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

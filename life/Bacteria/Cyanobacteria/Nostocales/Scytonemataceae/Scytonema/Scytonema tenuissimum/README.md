@@ -1,5 +1,4 @@
-Scytonema tenuissimum Schmidle SPECIES
-=======
+# Scytonema tenuissimum Schmidle SPECIES
 
 #### Status
 ACCEPTED

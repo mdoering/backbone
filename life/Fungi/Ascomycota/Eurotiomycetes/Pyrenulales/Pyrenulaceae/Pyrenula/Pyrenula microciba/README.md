@@ -1,5 +1,4 @@
-Pyrenula microciba Ach. SPECIES
-=======
+# Pyrenula microciba Ach. SPECIES
 
 #### Status
 ACCEPTED

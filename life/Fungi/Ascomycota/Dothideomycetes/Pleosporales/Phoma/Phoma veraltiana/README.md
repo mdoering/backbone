@@ -1,5 +1,4 @@
-Phoma veraltiana (C. Massal. ex Sacc.) Aa SPECIES
-=======
+# Phoma veraltiana (C. Massal. ex Sacc.) Aa SPECIES
 
 #### Status
 ACCEPTED

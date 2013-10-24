@@ -1,5 +1,4 @@
-Synedra arcuata (Ostenfeld) A. Cleve SPECIES
-=======
+# Synedra arcuata (Ostenfeld) A. Cleve SPECIES
 
 #### Status
 ACCEPTED

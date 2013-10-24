@@ -1,5 +1,4 @@
-Phomopsis tragopogonis Sandu & Mítítíuc SPECIES
-=======
+# Phomopsis tragopogonis Sandu & Mítítíuc SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterothecium triste (Mont.) A. Massal. SPECIES
-=======
+# Heterothecium triste (Mont.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

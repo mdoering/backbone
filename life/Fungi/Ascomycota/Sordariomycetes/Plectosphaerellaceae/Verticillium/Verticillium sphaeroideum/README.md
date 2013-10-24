@@ -1,5 +1,4 @@
-Verticillium sphaeroideum Sacc. SPECIES
-=======
+# Verticillium sphaeroideum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium benguellense Lagerh. SPECIES
-=======
+# Aecidium benguellense Lagerh. SPECIES
 
 #### Status
 ACCEPTED

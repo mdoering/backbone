@@ -1,5 +1,4 @@
-Pyrenothrix nigra Riddle SPECIES
-=======
+# Pyrenothrix nigra Riddle SPECIES
 
 #### Status
 ACCEPTED

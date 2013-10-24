@@ -1,17 +1,16 @@
-Arcyria ferruginea var. helvetica Torrend VARIETY
-=======
+# Arcyria ferruginea Saut., 1841 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 24: 316 (1841)
 
 #### Original name
-Arcyria ferruginea var. helvetica Torrend
+Arcyria ferruginea Saut., 1841
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Valsa convergens Fuckel SPECIES
-=======
+# Valsa convergens Fuckel SPECIES
 
 #### Status
 ACCEPTED

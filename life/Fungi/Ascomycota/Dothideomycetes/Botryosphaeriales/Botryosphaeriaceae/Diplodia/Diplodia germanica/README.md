@@ -1,5 +1,4 @@
-Diplodia germanica (Oudem. & Fautrey) Keissl. SPECIES
-=======
+# Diplodia germanica (Oudem. & Fautrey) Keissl. SPECIES
 
 #### Status
 ACCEPTED

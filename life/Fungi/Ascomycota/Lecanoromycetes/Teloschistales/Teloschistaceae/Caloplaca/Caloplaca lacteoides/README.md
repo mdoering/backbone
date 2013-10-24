@@ -1,5 +1,4 @@
-Caloplaca lacteoides Nav.-Ros. & Hladún SPECIES
-=======
+# Caloplaca lacteoides Nav.-Ros. & Hladún SPECIES
 
 #### Status
 ACCEPTED

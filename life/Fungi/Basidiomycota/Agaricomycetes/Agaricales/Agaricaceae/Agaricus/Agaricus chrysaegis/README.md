@@ -1,5 +1,4 @@
-Agaricus chrysaegis Berk. & Broome SPECIES
-=======
+# Agaricus chrysaegis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

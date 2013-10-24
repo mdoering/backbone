@@ -1,5 +1,4 @@
-Ascochyta santali Thirum. & Naras. SPECIES
-=======
+# Ascochyta santali Thirum. & Naras. SPECIES
 
 #### Status
 ACCEPTED

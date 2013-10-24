@@ -1,5 +1,4 @@
-Sphaeronaema macrosporum Berk. & M.A. Curtis SPECIES
-=======
+# Sphaeronaema macrosporum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacidia caloosensis (Tuck.) Zahlbr. SPECIES
-=======
+# Bacidia caloosensis (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

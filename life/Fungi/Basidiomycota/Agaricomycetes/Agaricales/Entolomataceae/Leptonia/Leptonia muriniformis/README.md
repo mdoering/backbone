@@ -1,14 +1,13 @@
-Leptonia muriiiiforme (Murrill) Largent SPECIES
-=======
+# Leptonia muriniformis (Murrill) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 156 (1977)
 
 #### Original name
 Entoloma muriniforme Murrill

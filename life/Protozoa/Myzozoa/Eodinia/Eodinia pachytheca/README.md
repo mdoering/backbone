@@ -1,5 +1,4 @@
-Eodinia pachytheca Eisenack, 1936 SPECIES
-=======
+# Eodinia pachytheca Eisenack, 1936 SPECIES
 
 #### Status
 ACCEPTED

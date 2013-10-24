@@ -1,5 +1,4 @@
-Rachisia GENUS
-=======
+# Rachisia GENUS
 
 #### Status
 ACCEPTED

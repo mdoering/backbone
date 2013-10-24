@@ -1,17 +1,16 @@
-Agrocybe firma var. tucumana Singer VARIETY
-=======
+# Agrocybe firma (Peck) Singer, 1940 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 51(3): 398 (1959)
+Revue Mycol. , Paris 5: 11 (1940)
 
 #### Original name
-Agrocybe firma var. tucumana Singer
+Naucoria firma Peck, 1900
 
 ### Remarks
 null

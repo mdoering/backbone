@@ -1,5 +1,4 @@
-Ludovicia imbricata (Hook.) Trevis. SPECIES
-=======
+# Ludovicia imbricata (Hook.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

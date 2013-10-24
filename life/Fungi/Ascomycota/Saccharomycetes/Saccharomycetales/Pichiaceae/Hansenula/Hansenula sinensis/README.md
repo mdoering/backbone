@@ -1,5 +1,4 @@
-Hansenula sinensis D.F. Jiang SPECIES
-=======
+# Hansenula sinensis D.F. Jiang SPECIES
 
 #### Status
 ACCEPTED

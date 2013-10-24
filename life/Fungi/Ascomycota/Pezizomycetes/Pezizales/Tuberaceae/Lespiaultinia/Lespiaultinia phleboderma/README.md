@@ -1,5 +1,4 @@
-Lespiaultinia phleboderma (Gilkey) Gilkey SPECIES
-=======
+# Lespiaultinia phleboderma (Gilkey) Gilkey SPECIES
 
 #### Status
 ACCEPTED

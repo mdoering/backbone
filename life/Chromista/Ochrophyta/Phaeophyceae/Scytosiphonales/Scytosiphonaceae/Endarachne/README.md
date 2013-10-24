@@ -1,5 +1,4 @@
-Endarachne J.Agardh, 1896 GENUS
-=======
+# Endarachne J.Agardh, 1896 GENUS
 
 #### Status
 ACCEPTED

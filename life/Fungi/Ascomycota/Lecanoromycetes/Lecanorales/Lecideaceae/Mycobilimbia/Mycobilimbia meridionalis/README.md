@@ -1,5 +1,4 @@
-Mycobilimbia meridionalis Kantvilas SPECIES
-=======
+# Mycobilimbia meridionalis Kantvilas SPECIES
 
 #### Status
 ACCEPTED

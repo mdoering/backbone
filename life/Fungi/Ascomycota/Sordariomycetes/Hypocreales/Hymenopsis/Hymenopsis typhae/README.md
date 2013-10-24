@@ -1,14 +1,13 @@
-Myxormia typhae (Peck) Höhn., 1915 SPECIES
-=======
+# Hymenopsis typhae (Fuckel) Sacc., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 333 (1886)
 
 #### Original name
 Melanconium typhae Fuckel, 1870

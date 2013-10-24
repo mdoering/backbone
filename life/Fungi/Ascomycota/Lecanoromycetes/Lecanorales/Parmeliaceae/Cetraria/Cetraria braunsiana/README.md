@@ -1,5 +1,4 @@
-Cetraria braunsiana (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Cetraria braunsiana (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

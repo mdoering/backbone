@@ -1,5 +1,4 @@
-Russula cartaginis Buyck & Halling SPECIES
-=======
+# Russula cartaginis Buyck & Halling SPECIES
 
 #### Status
 ACCEPTED

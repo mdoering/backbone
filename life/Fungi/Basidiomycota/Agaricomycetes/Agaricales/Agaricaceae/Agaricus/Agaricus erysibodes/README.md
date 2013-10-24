@@ -1,5 +1,4 @@
-Agaricus erysibodes Mont. SPECIES
-=======
+# Agaricus erysibodes Mont. SPECIES
 
 #### Status
 ACCEPTED

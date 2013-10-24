@@ -1,5 +1,4 @@
-Homotryblium R.J. Davey & G.L. Williams, 1966 GENUS
-=======
+# Homotryblium R.J. Davey & G.L. Williams, 1966 GENUS
 
 #### Status
 ACCEPTED

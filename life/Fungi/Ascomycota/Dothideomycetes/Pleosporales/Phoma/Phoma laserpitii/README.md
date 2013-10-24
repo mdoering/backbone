@@ -1,5 +1,4 @@
-Phoma laserpitii Fautrey SPECIES
-=======
+# Phoma laserpitii Fautrey SPECIES
 
 #### Status
 ACCEPTED

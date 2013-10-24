@@ -1,5 +1,4 @@
-Pseudocercospora sabbatiae (Ellis & Everh.) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora sabbatiae (Ellis & Everh.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

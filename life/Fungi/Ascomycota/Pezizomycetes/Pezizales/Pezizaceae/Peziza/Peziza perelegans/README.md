@@ -1,5 +1,4 @@
-Peziza perelegans Saut. SPECIES
-=======
+# Peziza perelegans Saut. SPECIES
 
 #### Status
 ACCEPTED

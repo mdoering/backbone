@@ -1,5 +1,4 @@
-Dendrodochium subeffusum Ellis & Galloway SPECIES
-=======
+# Dendrodochium subeffusum Ellis & Galloway SPECIES
 
 #### Status
 ACCEPTED

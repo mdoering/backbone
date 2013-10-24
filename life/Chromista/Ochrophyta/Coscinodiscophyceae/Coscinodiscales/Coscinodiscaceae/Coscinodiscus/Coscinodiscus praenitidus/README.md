@@ -1,5 +1,4 @@
-Coscinodiscus praenitidus J. Fenner SPECIES
-=======
+# Coscinodiscus praenitidus J. Fenner SPECIES
 
 #### Status
 ACCEPTED

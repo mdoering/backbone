@@ -1,5 +1,4 @@
-Thalassoascus Ollivier GENUS
-=======
+# Thalassoascus Ollivier GENUS
 
 #### Status
 ACCEPTED

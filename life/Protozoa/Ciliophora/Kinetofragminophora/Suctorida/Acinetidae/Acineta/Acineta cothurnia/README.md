@@ -1,5 +1,4 @@
-Acineta cothurnia Claparède & Lachmann, 1859 SPECIES
-=======
+# Acineta cothurnia Claparède & Lachmann, 1859 SPECIES
 
 #### Status
 ACCEPTED

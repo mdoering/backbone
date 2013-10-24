@@ -1,17 +1,16 @@
-Dinemasporium hispidulum var. hispidulum VARIETY
-=======
+# Pseudolachnea hispidula (Schrad.) B. Sutton, 1977 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 3: 685 (1884)
+Mycol. Pap. 141: 167 (1977)
 
 #### Original name
-Dinemasporium hispidulum var. hispidulum
+Peziza hispidula Schrad.
 
 ### Remarks
 null

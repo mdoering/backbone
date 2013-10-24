@@ -1,5 +1,4 @@
-Leuconostoc amelibiosum Schillinger et al., 1989 SPECIES
-=======
+# Leuconostoc amelibiosum Schillinger et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

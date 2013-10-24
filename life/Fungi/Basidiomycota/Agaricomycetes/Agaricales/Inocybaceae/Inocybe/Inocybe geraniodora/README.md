@@ -1,5 +1,4 @@
-Inocybe geraniodora var. geraniodora VARIETY
-=======
+# Inocybe geraniodora J. Favre SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Ergebn. wiss. Unters. schweiz. NatnParks 5: 200 (1955)
 
 #### Original name
-Inocybe geraniodora var. geraniodora
+Inocybe geraniodora J. Favre
 
 ### Remarks
 null

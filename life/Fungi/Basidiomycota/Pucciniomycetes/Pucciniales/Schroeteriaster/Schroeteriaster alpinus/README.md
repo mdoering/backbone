@@ -1,5 +1,4 @@
-Schroeteriaster alpinus Magnus, 1896 SPECIES
-=======
+# Schroeteriaster alpinus Magnus, 1896 SPECIES
 
 #### Status
 ACCEPTED

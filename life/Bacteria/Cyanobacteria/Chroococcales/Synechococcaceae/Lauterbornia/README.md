@@ -1,5 +1,4 @@
-Lauterbornia Pringsheim, 1968 GENUS
-=======
+# Lauterbornia Pringsheim, 1968 GENUS
 
 #### Status
 SYNONYM

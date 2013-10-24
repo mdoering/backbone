@@ -1,5 +1,4 @@
-Pseudocercospora hibiscigena P.N. Singh, S.K. Singh & S.C. Tripathi SPECIES
-=======
+# Pseudocercospora hibiscigena P.N. Singh, S.K. Singh & S.C. Tripathi SPECIES
 
 #### Status
 ACCEPTED

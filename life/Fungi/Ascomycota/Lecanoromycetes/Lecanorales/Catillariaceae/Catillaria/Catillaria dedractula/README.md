@@ -1,5 +1,4 @@
-Catillaria dedractula (Nyl.) H. Olivier SPECIES
-=======
+# Catillaria dedractula (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

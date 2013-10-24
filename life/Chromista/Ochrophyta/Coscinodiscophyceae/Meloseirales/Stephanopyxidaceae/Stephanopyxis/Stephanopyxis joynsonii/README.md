@@ -1,5 +1,4 @@
-Stephanopyxis joynsonii A. Schmidt SPECIES
-=======
+# Stephanopyxis joynsonii A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

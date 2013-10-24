@@ -1,5 +1,4 @@
-Bicaudaviridae FAMILY
-=======
+# Bicaudaviridae FAMILY
 
 #### Status
 ACCEPTED

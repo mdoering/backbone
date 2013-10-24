@@ -1,5 +1,4 @@
-Cercospora gaurae Kellerm. & Swingle SPECIES
-=======
+# Cercospora gaurae Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED

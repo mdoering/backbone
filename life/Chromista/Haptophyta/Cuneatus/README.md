@@ -1,5 +1,4 @@
-Cuneatus Shamrai GENUS
-=======
+# Cuneatus Shamrai GENUS
 
 #### Status
 ACCEPTED

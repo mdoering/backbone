@@ -1,5 +1,4 @@
-Secotium scabrosum Cooke & Massee SPECIES
-=======
+# Secotium scabrosum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium maydiperdum Bubák SPECIES
-=======
+# Fusarium maydiperdum Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteroma parmelioides Desm. SPECIES
-=======
+# Asteroma parmelioides Desm. SPECIES
 
 #### Status
 ACCEPTED

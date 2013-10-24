@@ -1,5 +1,4 @@
-Botrytis lanea (Bonord.) Sacc. SPECIES
-=======
+# Botrytis lanea (Bonord.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudonodosaria tenuistriata SPECIES
-=======
+# Pseudonodosaria tenuistriata SPECIES
 
 #### Status
 ACCEPTED

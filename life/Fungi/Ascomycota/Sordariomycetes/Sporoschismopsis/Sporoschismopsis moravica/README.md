@@ -1,5 +1,4 @@
-Sporoschismopsis moravica Hol.-Jech. & Hennebert, 1972 SPECIES
-=======
+# Sporoschismopsis moravica Hol.-Jech. & Hennebert, 1972 SPECIES
 
 #### Status
 ACCEPTED

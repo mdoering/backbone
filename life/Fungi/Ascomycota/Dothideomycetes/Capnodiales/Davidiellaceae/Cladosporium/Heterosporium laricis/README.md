@@ -1,5 +1,4 @@
-Heterosporium laricis Cooke & Massee SPECIES
-=======
+# Heterosporium laricis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea nigrolurida Müll. Arg. SPECIES
-=======
+# Lecidea nigrolurida Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

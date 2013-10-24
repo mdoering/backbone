@@ -1,5 +1,4 @@
-Lactarius venezuelanus Dennis SPECIES
-=======
+# Lactarius venezuelanus Dennis SPECIES
 
 #### Status
 ACCEPTED

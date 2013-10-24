@@ -1,5 +1,4 @@
-Hypocreopsis consimilis (Ellis) Seaver SPECIES
-=======
+# Hypocreopsis consimilis (Ellis) Seaver SPECIES
 
 #### Status
 ACCEPTED

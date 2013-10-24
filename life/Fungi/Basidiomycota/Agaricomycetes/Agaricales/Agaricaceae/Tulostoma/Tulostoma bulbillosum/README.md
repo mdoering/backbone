@@ -1,5 +1,4 @@
-Tulostoma bulbillosum Bres. SPECIES
-=======
+# Tulostoma bulbillosum Bres. SPECIES
 
 #### Status
 ACCEPTED

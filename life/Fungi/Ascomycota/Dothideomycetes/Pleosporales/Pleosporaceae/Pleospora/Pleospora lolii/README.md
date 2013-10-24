@@ -1,5 +1,4 @@
-Pleospora lolii P. Karst. & Har. SPECIES
-=======
+# Pleospora lolii P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED

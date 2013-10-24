@@ -1,5 +1,4 @@
-Sargassum arnaudianum var. assarkaense Grunow, 1915 VARIETY
-=======
+# Sargassum arnaudianum Montagne, 1850 SPECIES
 
 #### Status
 ACCEPTED

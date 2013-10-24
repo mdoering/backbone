@@ -1,5 +1,4 @@
-Agaricus verticillaris Bull. SPECIES
-=======
+# Agaricus verticillaris Bull. SPECIES
 
 #### Status
 ACCEPTED

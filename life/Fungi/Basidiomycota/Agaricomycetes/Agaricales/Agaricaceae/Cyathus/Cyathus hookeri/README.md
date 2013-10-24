@@ -1,5 +1,4 @@
-Cyathus hookeri Berk., 1854 SPECIES
-=======
+# Cyathus hookeri Berk., 1854 SPECIES
 
 #### Status
 ACCEPTED

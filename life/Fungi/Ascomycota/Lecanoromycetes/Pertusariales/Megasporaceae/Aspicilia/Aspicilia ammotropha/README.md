@@ -1,5 +1,4 @@
-Aspicilia ammotropha Hue SPECIES
-=======
+# Aspicilia ammotropha Hue SPECIES
 
 #### Status
 ACCEPTED

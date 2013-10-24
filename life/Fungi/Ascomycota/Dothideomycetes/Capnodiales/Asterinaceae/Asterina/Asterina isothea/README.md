@@ -1,5 +1,4 @@
-Asterina isothea Syd. SPECIES
-=======
+# Asterina isothea Syd. SPECIES
 
 #### Status
 ACCEPTED

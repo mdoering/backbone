@@ -1,5 +1,4 @@
-Andohaheloa pauliani Manier SPECIES
-=======
+# Andohaheloa pauliani Manier SPECIES
 
 #### Status
 ACCEPTED

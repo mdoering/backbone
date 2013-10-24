@@ -1,5 +1,4 @@
-Eutypella scoparioides Pat. SPECIES
-=======
+# Eutypella scoparioides Pat. SPECIES
 
 #### Status
 ACCEPTED

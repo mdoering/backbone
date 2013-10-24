@@ -1,5 +1,4 @@
-Godronia rosae Schläpf.-Bernh. SPECIES
-=======
+# Godronia rosae Schläpf.-Bernh. SPECIES
 
 #### Status
 ACCEPTED

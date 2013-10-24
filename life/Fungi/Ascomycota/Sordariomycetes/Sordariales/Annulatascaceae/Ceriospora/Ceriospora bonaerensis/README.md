@@ -1,5 +1,4 @@
-Ceriospora bonaerensis Speg. SPECIES
-=======
+# Ceriospora bonaerensis Speg. SPECIES
 
 #### Status
 ACCEPTED

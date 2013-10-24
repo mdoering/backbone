@@ -1,5 +1,4 @@
-Diaporthe peckiana (Sacc.) Dearn. & House SPECIES
-=======
+# Diaporthe peckiana (Sacc.) Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

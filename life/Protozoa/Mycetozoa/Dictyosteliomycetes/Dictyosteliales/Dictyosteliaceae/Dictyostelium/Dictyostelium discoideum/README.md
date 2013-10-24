@@ -1,5 +1,4 @@
-Dictyostelium discoideum Raper, 1935 SPECIES
-=======
+# Dictyostelium discoideum Raper, 1935 SPECIES
 
 #### Status
 ACCEPTED

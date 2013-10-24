@@ -1,5 +1,4 @@
-Vermicularia zingiberae Sundar. SPECIES
-=======
+# Vermicularia zingiberae Sundar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosporium falcatum Cooke & Harkn. SPECIES
-=======
+# Cryptosporium falcatum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

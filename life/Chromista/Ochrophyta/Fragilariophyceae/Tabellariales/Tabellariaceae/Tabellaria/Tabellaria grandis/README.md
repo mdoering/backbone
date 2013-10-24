@@ -1,5 +1,4 @@
-Tabellaria grandis Kützing SPECIES
-=======
+# Tabellaria grandis Kützing SPECIES
 
 #### Status
 ACCEPTED

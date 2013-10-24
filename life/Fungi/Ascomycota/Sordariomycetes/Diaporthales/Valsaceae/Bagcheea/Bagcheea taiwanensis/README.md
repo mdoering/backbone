@@ -1,5 +1,4 @@
-Bagcheea taiwanensis W.H. Hsieh & L.T. Li SPECIES
-=======
+# Bagcheea taiwanensis W.H. Hsieh & L.T. Li SPECIES
 
 #### Status
 ACCEPTED

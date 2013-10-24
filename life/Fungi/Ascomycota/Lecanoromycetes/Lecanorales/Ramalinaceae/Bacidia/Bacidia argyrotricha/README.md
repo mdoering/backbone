@@ -1,5 +1,4 @@
-Bacidia argyrotricha (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Bacidia argyrotricha (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

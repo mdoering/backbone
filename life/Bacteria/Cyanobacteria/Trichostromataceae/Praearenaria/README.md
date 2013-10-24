@@ -1,5 +1,4 @@
-Praearenaria A.G. Vologdin, 1962 GENUS
-=======
+# Praearenaria A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

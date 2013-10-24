@@ -1,5 +1,4 @@
-Coprinus dictyocalyptratus Bogart SPECIES
-=======
+# Coprinus dictyocalyptratus Bogart SPECIES
 
 #### Status
 ACCEPTED

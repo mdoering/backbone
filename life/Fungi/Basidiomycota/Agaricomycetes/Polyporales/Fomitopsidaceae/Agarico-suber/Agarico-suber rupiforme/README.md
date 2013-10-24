@@ -1,5 +1,4 @@
-Agarico-suber rupiforme Paulet SPECIES
-=======
+# Agarico-suber rupiforme Paulet SPECIES
 
 #### Status
 ACCEPTED

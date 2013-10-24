@@ -1,5 +1,4 @@
-Ischnoderma fuscum (Pers.) Rauschert SPECIES
-=======
+# Ischnoderma fuscum (Pers.) Rauschert SPECIES
 
 #### Status
 ACCEPTED

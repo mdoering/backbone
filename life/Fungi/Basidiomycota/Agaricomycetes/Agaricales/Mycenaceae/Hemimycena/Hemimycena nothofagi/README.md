@@ -1,5 +1,4 @@
-Hemimycena nothofagi Singer SPECIES
-=======
+# Hemimycena nothofagi Singer SPECIES
 
 #### Status
 ACCEPTED

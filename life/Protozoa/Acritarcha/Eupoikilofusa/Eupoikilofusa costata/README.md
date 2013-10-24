@@ -1,5 +1,4 @@
-Eupoikilofusa costata (Burmann, 1970) Eisenack et al., 1976 SPECIES
-=======
+# Eupoikilofusa costata (Burmann, 1970) Eisenack et al., 1976 SPECIES
 
 #### Status
 ACCEPTED

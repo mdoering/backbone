@@ -1,14 +1,13 @@
-Dicaeoma congestum (Berk. & Broome) Kuntze, 1898 SPECIES
-=======
+# Puccinia congesta Berk. & Broome, 1871 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 468 (1898)
+J. Linn. Soc. , Bot. 11(no. 56): 91 (1871)
 
 #### Original name
 Puccinia congesta Berk. & Broome, 1871

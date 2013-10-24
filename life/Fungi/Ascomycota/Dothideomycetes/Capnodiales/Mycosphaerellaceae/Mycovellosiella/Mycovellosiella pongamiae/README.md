@@ -1,5 +1,4 @@
-Mycovellosiella pongamiae (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Mycovellosiella pongamiae (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

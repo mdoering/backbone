@@ -1,5 +1,4 @@
-Sphaceloma yoshiianum Togashi & Katsuki SPECIES
-=======
+# Sphaceloma yoshiianum Togashi & Katsuki SPECIES
 
 #### Status
 ACCEPTED

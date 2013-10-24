@@ -1,5 +1,4 @@
-Russula schaefferiana Niolle SPECIES
-=======
+# Russula schaefferiana Niolle SPECIES
 
 #### Status
 ACCEPTED

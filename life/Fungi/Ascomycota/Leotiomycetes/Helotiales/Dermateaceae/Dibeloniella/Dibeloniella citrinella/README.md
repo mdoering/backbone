@@ -1,14 +1,13 @@
-Niptera citrinella Rehm, 1881 SPECIES
-=======
+# Dibeloniella citrinella (Rehm) E. Müll. & Défago, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascom. Alp. no. 8 (1882)
+Sydowia 20: 166 (1968)
 
 #### Original name
 Niptera citrinella Rehm, 1881

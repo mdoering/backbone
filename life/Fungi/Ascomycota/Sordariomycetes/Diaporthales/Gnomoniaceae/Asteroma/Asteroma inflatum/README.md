@@ -1,5 +1,4 @@
-Asteroma inflatum Roberge ex Desm. SPECIES
-=======
+# Asteroma inflatum Roberge ex Desm. SPECIES
 
 #### Status
 ACCEPTED

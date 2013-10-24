@@ -1,5 +1,4 @@
-Coryne virescens Tul. SPECIES
-=======
+# Coryne virescens Tul. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epaphroconidia hawksworthii Calat. & V. Atienza, 1995 SPECIES
-=======
+# Epaphroconidia hawksworthii Calat. & V. Atienza, 1995 SPECIES
 
 #### Status
 ACCEPTED

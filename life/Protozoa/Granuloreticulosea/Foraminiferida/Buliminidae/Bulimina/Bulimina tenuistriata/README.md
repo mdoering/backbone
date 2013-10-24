@@ -1,5 +1,4 @@
-Bulimina tenuistriata Terquem SPECIES
-=======
+# Bulimina tenuistriata Terquem SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corythionella acolla Golemansky, 1970 SPECIES
-=======
+# Corythionella acolla Golemansky, 1970 SPECIES
 
 #### Status
 ACCEPTED

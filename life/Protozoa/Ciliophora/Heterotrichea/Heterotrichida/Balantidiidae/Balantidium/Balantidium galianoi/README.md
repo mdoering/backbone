@@ -1,5 +1,4 @@
-Balantidium galianoi Fernandez-Galiano SPECIES
-=======
+# Balantidium galianoi Fernandez-Galiano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mycena heteracantha (Singer) Desjardin, 1995 SPECIES
-=======
+# Amparoina heteracantha Singer, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Mycol. 159: 18 (1995)
+Revue Mycol. , Paris 40(1): 58 (1976)
 
 #### Original name
 Amparoina heteracantha Singer, 1976

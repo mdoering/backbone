@@ -1,5 +1,4 @@
-Iodophanus Korf GENUS
-=======
+# Iodophanus Korf GENUS
 
 #### Status
 ACCEPTED

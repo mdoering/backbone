@@ -1,5 +1,4 @@
-Coniothyrium fuscoatrum Penz. & Sacc. SPECIES
-=======
+# Coniothyrium fuscoatrum Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

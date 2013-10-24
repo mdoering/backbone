@@ -1,5 +1,4 @@
-Clitocybe atrostriata Métrod SPECIES
-=======
+# Clitocybe atrostriata Métrod SPECIES
 
 #### Status
 ACCEPTED

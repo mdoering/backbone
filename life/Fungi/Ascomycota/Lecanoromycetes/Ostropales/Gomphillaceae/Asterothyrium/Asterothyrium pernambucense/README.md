@@ -1,5 +1,4 @@
-Asterothyrium pernambucense (Cavalc.) Lücking & Sérus. SPECIES
-=======
+# Asterothyrium pernambucense (Cavalc.) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

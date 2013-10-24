@@ -1,17 +1,16 @@
-Gnomonia petiolicola var. petiolicola VARIETY
-=======
+# Apiognomonia petiolicola (Fuckel) M. Monod, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Sydowia 9: 64 (1983)
 
 #### Original name
-Gnomonia petiolicola var. petiolicola
+Plagiostoma petiolicola Fuckel, 1870
 
 ### Remarks
 null

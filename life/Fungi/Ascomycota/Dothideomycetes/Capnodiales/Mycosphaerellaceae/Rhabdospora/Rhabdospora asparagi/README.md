@@ -1,5 +1,4 @@
-Rhabdospora asparagi Syd. & P. Syd. SPECIES
-=======
+# Rhabdospora asparagi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

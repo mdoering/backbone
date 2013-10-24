@@ -1,5 +1,4 @@
-Erysiphe carpini-laxiflorae U. Braun, V.P. Heluta & S. Takam. SPECIES
-=======
+# Erysiphe carpini-laxiflorae U. Braun, V.P. Heluta & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

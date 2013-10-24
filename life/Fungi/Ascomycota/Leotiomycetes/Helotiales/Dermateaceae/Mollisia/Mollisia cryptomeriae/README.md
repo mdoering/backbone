@@ -1,5 +1,4 @@
-Mollisia cryptomeriae Sawada SPECIES
-=======
+# Mollisia cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

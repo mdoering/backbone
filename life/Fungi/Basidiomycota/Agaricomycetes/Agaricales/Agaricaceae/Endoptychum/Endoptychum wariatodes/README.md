@@ -1,5 +1,4 @@
-Endoptychum wariatodes Grgur., 1997 SPECIES
-=======
+# Endoptychum wariatodes Grgur., 1997 SPECIES
 
 #### Status
 ACCEPTED

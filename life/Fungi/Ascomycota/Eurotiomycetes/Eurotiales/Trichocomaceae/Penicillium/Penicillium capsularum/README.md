@@ -1,5 +1,4 @@
-Penicillium capsularum SPECIES
-=======
+# Penicillium capsularum SPECIES
 
 #### Status
 ACCEPTED

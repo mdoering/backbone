@@ -1,5 +1,4 @@
-Hyaloscypha mirabilis Velen., 1934 SPECIES
-=======
+# Hyaloscypha mirabilis Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

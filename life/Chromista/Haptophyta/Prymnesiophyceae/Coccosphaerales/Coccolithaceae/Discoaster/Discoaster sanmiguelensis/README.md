@@ -1,5 +1,4 @@
-Discoaster sanmiguelensis D. Bukry SPECIES
-=======
+# Discoaster sanmiguelensis D. Bukry SPECIES
 
 #### Status
 ACCEPTED

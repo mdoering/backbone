@@ -1,8 +1,7 @@
-Gymnodinium cestocoetes Thompson SPECIES
-=======
+# Woloszynskia cestocoedes (Thompson) Thompson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Stilbum ochraceum Corda SPECIES
-=======
+# Stilbum ochraceum Corda SPECIES
 
 #### Status
 ACCEPTED

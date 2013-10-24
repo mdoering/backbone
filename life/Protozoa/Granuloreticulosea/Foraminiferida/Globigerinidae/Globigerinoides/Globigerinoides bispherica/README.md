@@ -1,5 +1,4 @@
-Globigerinoides bispherica Todd, 1954 SPECIES
-=======
+# Globigerinoides bispherica Todd, 1954 SPECIES
 
 #### Status
 ACCEPTED

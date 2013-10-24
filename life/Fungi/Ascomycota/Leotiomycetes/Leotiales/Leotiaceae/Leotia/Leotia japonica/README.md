@@ -1,5 +1,4 @@
-Leotia japonica Yasuda SPECIES
-=======
+# Leotia japonica Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melampsora lisianthi Pat. SPECIES
-=======
+# Melampsora lisianthi Pat. SPECIES
 
 #### Status
 ACCEPTED

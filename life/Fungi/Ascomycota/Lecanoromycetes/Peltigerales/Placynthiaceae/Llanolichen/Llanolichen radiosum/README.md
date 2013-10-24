@@ -1,5 +1,4 @@
-Llanolichen radiosum (Körb.) Tomas. & Cif. SPECIES
-=======
+# Llanolichen radiosum (Körb.) Tomas. & Cif. SPECIES
 
 #### Status
 ACCEPTED

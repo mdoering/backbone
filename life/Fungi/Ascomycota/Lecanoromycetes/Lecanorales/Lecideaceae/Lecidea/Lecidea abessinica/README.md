@@ -1,5 +1,4 @@
-Lecidea abessinica (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea abessinica (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

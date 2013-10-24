@@ -1,5 +1,4 @@
-Teichospora sarmenticia var. sarmenticia VARIETY
-=======
+# Teichospora sarmenticia Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teichospora sarmenticia var. sarmenticia
+Teichospora sarmenticia Sacc. & Speg.
 
 ### Remarks
 null

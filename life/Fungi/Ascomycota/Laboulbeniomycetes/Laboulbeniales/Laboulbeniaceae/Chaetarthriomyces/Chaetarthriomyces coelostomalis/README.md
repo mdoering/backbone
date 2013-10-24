@@ -1,5 +1,4 @@
-Chaetarthriomyces coelostomalis (Thaxt.) I.I. Tav. SPECIES
-=======
+# Chaetarthriomyces coelostomalis (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

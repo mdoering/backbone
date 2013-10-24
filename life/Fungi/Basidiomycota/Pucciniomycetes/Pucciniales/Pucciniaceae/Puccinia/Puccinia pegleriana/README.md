@@ -1,5 +1,4 @@
-Puccinia pegleriana Doidge SPECIES
-=======
+# Puccinia pegleriana Doidge SPECIES
 
 #### Status
 ACCEPTED

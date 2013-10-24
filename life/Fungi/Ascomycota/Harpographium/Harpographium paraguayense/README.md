@@ -1,5 +1,4 @@
-Harpographium paraguayense Speg. SPECIES
-=======
+# Harpographium paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

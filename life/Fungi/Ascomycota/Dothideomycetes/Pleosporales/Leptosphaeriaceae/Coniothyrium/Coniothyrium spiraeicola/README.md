@@ -1,5 +1,4 @@
-Coniothyrium spiraeicola Gonz. Frag. SPECIES
-=======
+# Coniothyrium spiraeicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

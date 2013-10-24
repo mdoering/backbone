@@ -1,5 +1,4 @@
-Cladosporium bosciae (Sacc.) K. Schub. SPECIES
-=======
+# Cladosporium bosciae (Sacc.) K. Schub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Persiciospora P.F. Cannon & D. Hawksw. GENUS
-=======
+# Persiciospora P.F. Cannon & D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomycena geranii Velen. SPECIES
-=======
+# Pseudomycena geranii Velen. SPECIES
 
 #### Status
 ACCEPTED

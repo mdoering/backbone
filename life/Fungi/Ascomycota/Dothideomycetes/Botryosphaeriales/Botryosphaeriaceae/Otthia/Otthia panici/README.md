@@ -1,5 +1,4 @@
-Otthia panici F. Stevens SPECIES
-=======
+# Otthia panici F. Stevens SPECIES
 
 #### Status
 ACCEPTED

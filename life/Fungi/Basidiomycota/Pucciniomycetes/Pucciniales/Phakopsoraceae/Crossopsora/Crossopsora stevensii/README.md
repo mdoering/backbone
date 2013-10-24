@@ -1,5 +1,4 @@
-Crossopsora stevensii Syd. SPECIES
-=======
+# Crossopsora stevensii Syd. SPECIES
 
 #### Status
 ACCEPTED

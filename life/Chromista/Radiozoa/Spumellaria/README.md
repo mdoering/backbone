@@ -1,5 +1,4 @@
-Spumellaria Ehrenberg, 1875 ORDER
-=======
+# Spumellaria Ehrenberg, 1875 ORDER
 
 #### Status
 ACCEPTED

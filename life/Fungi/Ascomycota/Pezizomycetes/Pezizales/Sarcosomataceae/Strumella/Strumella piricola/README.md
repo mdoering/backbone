@@ -1,5 +1,4 @@
-Strumella piricola Oudem. SPECIES
-=======
+# Strumella piricola Oudem. SPECIES
 
 #### Status
 ACCEPTED

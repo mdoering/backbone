@@ -1,5 +1,4 @@
-Leptosphaeria auerswaldii Sacc. & Traverso SPECIES
-=======
+# Leptosphaeria auerswaldii Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

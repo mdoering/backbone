@@ -1,5 +1,4 @@
-Oospora tuberum (Corda) Sacc. & Voglino SPECIES
-=======
+# Oospora tuberum (Corda) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

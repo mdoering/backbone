@@ -1,5 +1,4 @@
-Peziza littorea Fr. SPECIES
-=======
+# Peziza littorea Fr. SPECIES
 
 #### Status
 ACCEPTED

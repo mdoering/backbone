@@ -1,5 +1,4 @@
-Leptosphaeria davisiana Petr. SPECIES
-=======
+# Leptosphaeria davisiana Petr. SPECIES
 
 #### Status
 ACCEPTED

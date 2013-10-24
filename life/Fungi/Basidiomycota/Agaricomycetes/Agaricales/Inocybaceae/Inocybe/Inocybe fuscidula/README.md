@@ -1,5 +1,4 @@
-Inocybe fuscidula var. fuscidula VARIETY
-=======
+# Inocybe fuscidula Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ceské Houby 2: 378 (1920)
+Iconogr. Mycol. 15: tab. 735 (1927)
 
 #### Original name
-Inocybe fuscidula var. fuscidula
+Inocybe fuscidula Bres.
 
 ### Remarks
 null

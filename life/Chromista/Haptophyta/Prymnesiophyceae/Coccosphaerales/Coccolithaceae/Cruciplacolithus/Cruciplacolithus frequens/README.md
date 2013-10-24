@@ -1,5 +1,4 @@
-Cruciplacolithus frequens (Perch-Nielsen, 1977) Romein, 1979 SPECIES
-=======
+# Cruciplacolithus frequens (Perch-Nielsen, 1977) Romein, 1979 SPECIES
 
 #### Status
 ACCEPTED

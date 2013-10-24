@@ -1,5 +1,4 @@
-Coscinommonium Haeckel, 1887 GENUS
-=======
+# Coscinommonium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

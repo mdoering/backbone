@@ -1,5 +1,4 @@
-Lactobacillus equi Morotomi et al., 2002 SPECIES
-=======
+# Lactobacillus equi Morotomi et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

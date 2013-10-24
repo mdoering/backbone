@@ -1,5 +1,4 @@
-Uromyces carpathicus Namysl. SPECIES
-=======
+# Uromyces carpathicus Namysl. SPECIES
 
 #### Status
 ACCEPTED

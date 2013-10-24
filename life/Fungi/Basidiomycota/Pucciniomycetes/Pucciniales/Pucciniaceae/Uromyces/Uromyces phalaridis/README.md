@@ -1,5 +1,4 @@
-Uromyces phalaridis Jacz. SPECIES
-=======
+# Uromyces phalaridis Jacz. SPECIES
 
 #### Status
 ACCEPTED

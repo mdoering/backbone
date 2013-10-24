@@ -1,5 +1,4 @@
-Chaetomidium antarcticum ined. SPECIES
-=======
+# Chaetomidium antarcticum ined. SPECIES
 
 #### Status
 ACCEPTED

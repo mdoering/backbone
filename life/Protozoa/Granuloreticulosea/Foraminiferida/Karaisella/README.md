@@ -1,5 +1,4 @@
-Karaisella GENUS
-=======
+# Karaisella GENUS
 
 #### Status
 ACCEPTED

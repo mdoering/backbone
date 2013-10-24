@@ -1,5 +1,4 @@
-Triloculina sommeri Tinoco, 1955 SPECIES
-=======
+# Triloculina sommeri Tinoco, 1955 SPECIES
 
 #### Status
 ACCEPTED

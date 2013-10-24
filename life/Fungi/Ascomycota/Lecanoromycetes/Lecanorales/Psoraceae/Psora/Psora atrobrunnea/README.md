@@ -1,5 +1,4 @@
-Psora atrobrunnea SPECIES
-=======
+# Psora atrobrunnea SPECIES
 
 #### Status
 ACCEPTED

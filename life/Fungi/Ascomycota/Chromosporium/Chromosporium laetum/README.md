@@ -1,5 +1,4 @@
-Chromosporium laetum Massee SPECIES
-=======
+# Chromosporium laetum Massee SPECIES
 
 #### Status
 ACCEPTED

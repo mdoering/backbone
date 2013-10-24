@@ -1,5 +1,4 @@
-Thelenella elaeophthalma Vain. SPECIES
-=======
+# Thelenella elaeophthalma Vain. SPECIES
 
 #### Status
 ACCEPTED

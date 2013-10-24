@@ -1,5 +1,4 @@
-Pluteus velutinornatus G. Stev., 1962 SPECIES
-=======
+# Pluteus velutinornatus G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

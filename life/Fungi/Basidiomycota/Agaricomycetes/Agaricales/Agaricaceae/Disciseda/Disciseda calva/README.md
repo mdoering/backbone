@@ -1,5 +1,4 @@
-Disciseda calva (Z. Moravec) Z. Moravec SPECIES
-=======
+# Disciseda calva (Z. Moravec) Z. Moravec SPECIES
 
 #### Status
 ACCEPTED

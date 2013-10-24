@@ -1,17 +1,16 @@
-Phyllachora linnii C.A. Pearce & K.D. Hyde SPECIES
-=======
+# Phyllachora liniae C.A. Pearce & K.D. Hyde, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungal Diversity Res. Ser. (Hong Kong) 17: 85 (2006)
 
 #### Original name
-Phyllachora linnii C.A. Pearce & K.D. Hyde
+Phyllachora liniae C.A. Pearce & K.D. Hyde, 2006
 
 ### Remarks
 null

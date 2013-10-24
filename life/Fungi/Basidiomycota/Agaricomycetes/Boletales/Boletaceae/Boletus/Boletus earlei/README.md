@@ -1,5 +1,4 @@
-Boletus earlei (Murrill) Overh. SPECIES
-=======
+# Boletus earlei (Murrill) Overh. SPECIES
 
 #### Status
 ACCEPTED

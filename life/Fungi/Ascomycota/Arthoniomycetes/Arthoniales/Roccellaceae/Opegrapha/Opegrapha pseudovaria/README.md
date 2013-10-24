@@ -1,5 +1,4 @@
-Opegrapha pseudovaria Coppins SPECIES
-=======
+# Opegrapha pseudovaria Coppins SPECIES
 
 #### Status
 ACCEPTED

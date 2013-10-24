@@ -1,5 +1,4 @@
-Ustilago foliorum S. Ito SPECIES
-=======
+# Ustilago foliorum S. Ito SPECIES
 
 #### Status
 ACCEPTED

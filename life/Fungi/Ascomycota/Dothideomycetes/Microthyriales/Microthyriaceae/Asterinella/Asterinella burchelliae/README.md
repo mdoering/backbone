@@ -1,5 +1,4 @@
-Asterinella burchelliae Doidge SPECIES
-=======
+# Asterinella burchelliae Doidge SPECIES
 
 #### Status
 ACCEPTED

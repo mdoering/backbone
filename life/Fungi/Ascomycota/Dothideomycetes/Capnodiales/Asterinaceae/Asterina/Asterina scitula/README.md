@@ -1,5 +1,4 @@
-Asterina scitula Syd. SPECIES
-=======
+# Asterina scitula Syd. SPECIES
 
 #### Status
 ACCEPTED

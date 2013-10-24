@@ -1,5 +1,4 @@
-Dimerosporium vestitum Earle SPECIES
-=======
+# Dimerosporium vestitum Earle SPECIES
 
 #### Status
 ACCEPTED

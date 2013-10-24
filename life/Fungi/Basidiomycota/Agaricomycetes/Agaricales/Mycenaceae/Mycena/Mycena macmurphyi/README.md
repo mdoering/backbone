@@ -1,5 +1,4 @@
-Mycena macmurphyi (Murrill) A.H. Sm. SPECIES
-=======
+# Mycena macmurphyi (Murrill) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oblea Balech ex Loeblich, Jr. & Loeblich, Iii, 1966 GENUS
-=======
+# Oblea Balech ex Loeblich, Jr. & Loeblich, Iii, 1966 GENUS
 
 #### Status
 ACCEPTED

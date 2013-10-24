@@ -1,5 +1,4 @@
-Eutorulopsis vulgaris (H. Will) Cif. & Redaelli SPECIES
-=======
+# Eutorulopsis vulgaris (H. Will) Cif. & Redaelli SPECIES
 
 #### Status
 ACCEPTED

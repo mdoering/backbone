@@ -1,5 +1,4 @@
-Condylostoma stagnale Wrzesniowski, 1870 SPECIES
-=======
+# Condylostoma stagnale Wrzesniowski, 1870 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Moelleriella disjuncta (Seaver) P. Chaverri & K.T. Hodge SPECIES
-=======
+# Moelleriella disjuncta (Seaver) P. Chaverri & K.T. Hodge SPECIES
 
 #### Status
 ACCEPTED

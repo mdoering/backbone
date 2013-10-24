@@ -1,5 +1,4 @@
-Crepidotus avellaneus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus avellaneus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

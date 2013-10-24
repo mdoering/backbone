@@ -1,5 +1,4 @@
-Lecanora ditmarii (Savicz) Zahlbr. SPECIES
-=======
+# Lecanora ditmarii (Savicz) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

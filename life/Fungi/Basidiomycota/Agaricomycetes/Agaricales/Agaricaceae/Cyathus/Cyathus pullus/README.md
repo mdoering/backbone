@@ -1,5 +1,4 @@
-Cyathus pullus Tai {?} & Hung {?} SPECIES
-=======
+# Cyathus pullus Tai {?} & Hung {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria hyperici G. Winter SPECIES
-=======
+# Leptosphaeria hyperici G. Winter SPECIES
 
 #### Status
 ACCEPTED

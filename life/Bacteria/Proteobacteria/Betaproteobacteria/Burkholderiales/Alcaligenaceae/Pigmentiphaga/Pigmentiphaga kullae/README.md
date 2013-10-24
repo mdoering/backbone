@@ -1,5 +1,4 @@
-Pigmentiphaga kullae Blümel et al., 2001 SPECIES
-=======
+# Pigmentiphaga kullae Blümel et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

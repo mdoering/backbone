@@ -1,5 +1,4 @@
-Ramularia galii Chevassut SPECIES
-=======
+# Ramularia galii Chevassut SPECIES
 
 #### Status
 ACCEPTED

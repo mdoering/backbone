@@ -1,5 +1,4 @@
-Hydrocybe striata Velen. SPECIES
-=======
+# Hydrocybe striata Velen. SPECIES
 
 #### Status
 ACCEPTED

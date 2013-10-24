@@ -1,5 +1,4 @@
-Valsaria kriegeriana Rehm SPECIES
-=======
+# Valsaria kriegeriana Rehm SPECIES
 
 #### Status
 ACCEPTED

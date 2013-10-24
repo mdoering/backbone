@@ -1,5 +1,4 @@
-Paecilomyces aspergilloides Pidopl., 1950 SPECIES
-=======
+# Paecilomyces aspergilloides Pidopl., 1950 SPECIES
 
 #### Status
 ACCEPTED

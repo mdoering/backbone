@@ -1,5 +1,4 @@
-Parasterina miconiae (Theiss.) Toro SPECIES
-=======
+# Parasterina miconiae (Theiss.) Toro SPECIES
 
 #### Status
 ACCEPTED

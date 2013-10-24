@@ -1,5 +1,4 @@
-Rhynchostoma rubefaciens (Peck) M.E. Barr SPECIES
-=======
+# Rhynchostoma rubefaciens (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

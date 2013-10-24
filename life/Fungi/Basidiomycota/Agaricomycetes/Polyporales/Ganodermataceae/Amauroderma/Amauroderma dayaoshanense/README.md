@@ -1,5 +1,4 @@
-Amauroderma dayaoshanense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
-=======
+# Amauroderma dayaoshanense J.D. Zhao & X.Q. Zhang, 1987 SPECIES
 
 #### Status
 ACCEPTED

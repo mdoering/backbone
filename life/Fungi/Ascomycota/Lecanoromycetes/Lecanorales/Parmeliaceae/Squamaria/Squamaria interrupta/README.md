@@ -1,5 +1,4 @@
-Squamaria interrupta (Stizenb.) Gyeln. SPECIES
-=======
+# Squamaria interrupta (Stizenb.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

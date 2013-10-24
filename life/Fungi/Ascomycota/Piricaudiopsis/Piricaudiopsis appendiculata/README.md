@@ -1,5 +1,4 @@
-Piricaudiopsis appendiculata Bhat & W.B. Kendr. SPECIES
-=======
+# Piricaudiopsis appendiculata Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

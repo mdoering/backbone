@@ -1,5 +1,4 @@
-Cercospora acaciae-mangii Crous, Pongpan. & M.J. Wingf. SPECIES
-=======
+# Cercospora acaciae-mangii Crous, Pongpan. & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

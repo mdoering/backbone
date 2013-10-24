@@ -1,5 +1,4 @@
-Phacus aenigmaticus Drezepolski SPECIES
-=======
+# Phacus aenigmaticus Drezepolski SPECIES
 
 #### Status
 ACCEPTED

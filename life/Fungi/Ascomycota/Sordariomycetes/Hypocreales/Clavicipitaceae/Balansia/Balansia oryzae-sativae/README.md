@@ -1,17 +1,16 @@
-Ephelis oryzae Syd., 1914 SPECIES
-=======
+# Balansia oryzae-sativae Hashioka, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 12: 489 (1914)
+Riso 20(3): 236 (1971)
 
 #### Original name
-Ephelis oryzae Syd., 1914
+Balansia oryzae-sativae Hashioka, 1971
 
 ### Remarks
 null

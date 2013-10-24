@@ -1,5 +1,4 @@
-Cercidospora fagopyri (F. Lamb. & Fautr.) Kuntze SPECIES
-=======
+# Cercidospora fagopyri (F. Lamb. & Fautr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

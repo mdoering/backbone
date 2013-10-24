@@ -1,8 +1,7 @@
-Spirochona crystallina Canu, 1886 SPECIES
-=======
+# Lobochona prorates Mohr, Le Veque & Matsudo, 1963 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

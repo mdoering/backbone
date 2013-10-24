@@ -1,5 +1,4 @@
-Cercosporina petuniae Saito SPECIES
-=======
+# Cercosporina petuniae Saito SPECIES
 
 #### Status
 ACCEPTED

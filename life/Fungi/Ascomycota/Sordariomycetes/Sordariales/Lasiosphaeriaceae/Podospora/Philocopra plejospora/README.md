@@ -1,5 +1,4 @@
-Philocopra plejospora (G. Winter) Sacc. SPECIES
-=======
+# Philocopra plejospora (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

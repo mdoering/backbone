@@ -1,5 +1,4 @@
-Cryptococcus Kützing, 1833 GENUS
-=======
+# Cryptococcus Kützing, 1833 GENUS
 
 #### Status
 ACCEPTED

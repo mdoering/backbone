@@ -1,5 +1,4 @@
-Guignardia alnea (Fr.) J. Schröt. SPECIES
-=======
+# Guignardia alnea (Fr.) J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

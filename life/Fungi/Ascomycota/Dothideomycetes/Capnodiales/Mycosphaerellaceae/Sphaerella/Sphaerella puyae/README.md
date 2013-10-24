@@ -1,5 +1,4 @@
-Sphaerella puyae Speg. SPECIES
-=======
+# Sphaerella puyae Speg. SPECIES
 
 #### Status
 ACCEPTED

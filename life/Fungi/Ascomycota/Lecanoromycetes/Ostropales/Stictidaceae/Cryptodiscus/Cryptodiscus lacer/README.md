@@ -1,5 +1,4 @@
-Cryptodiscus lacer (Mont.) Sacc. SPECIES
-=======
+# Cryptodiscus lacer (Mont.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

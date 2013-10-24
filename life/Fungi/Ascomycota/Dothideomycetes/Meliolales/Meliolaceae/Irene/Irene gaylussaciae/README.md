@@ -1,5 +1,4 @@
-Irene gaylussaciae Hansf. SPECIES
-=======
+# Irene gaylussaciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

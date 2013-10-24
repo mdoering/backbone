@@ -1,5 +1,4 @@
-Pleospora spetsbergiensis K. Holm & L. Holm SPECIES
-=======
+# Pleospora spetsbergiensis K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

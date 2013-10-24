@@ -1,5 +1,4 @@
-Anisochora GENUS
-=======
+# Anisochora GENUS
 
 #### Status
 ACCEPTED

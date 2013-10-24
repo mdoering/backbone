@@ -1,5 +1,4 @@
-Flammula velata Peck SPECIES
-=======
+# Flammula velata Peck SPECIES
 
 #### Status
 ACCEPTED

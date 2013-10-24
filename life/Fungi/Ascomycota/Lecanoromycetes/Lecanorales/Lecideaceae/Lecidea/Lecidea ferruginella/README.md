@@ -1,5 +1,4 @@
-Lecidea ferruginella (Nyl.) Nyl. SPECIES
-=======
+# Lecidea ferruginella (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

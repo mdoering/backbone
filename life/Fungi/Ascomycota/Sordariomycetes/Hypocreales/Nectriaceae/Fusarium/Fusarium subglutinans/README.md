@@ -1,17 +1,16 @@
-Fusarium subglutinans f. sp FORM
-=======
+# Fusarium subglutinans (Wollenw. & Reinking) P.E. Nelson, Toussoun & Marasas, 1983 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pl. Dis. 75(7): 680 (1991)
+Fusarium species. An illustrated manual for identification (University Park) 135 (1983)
 
 #### Original name
-Fusarium subglutinans f. sp
+Fusarium moniliforme var. subglutinans Wollenw. & Reinking, 1925
 
 ### Remarks
 null

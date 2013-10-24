@@ -1,17 +1,16 @@
-Massarina oleaicola A. Pande & V.G. Rao SPECIES
-=======
+# Massarina oleicola A. Pande & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Econ. Taxon. Bot. 14(1): 160 (1990)
 
 #### Original name
-Massarina oleaicola A. Pande & V.G. Rao
+Massarina oleicola A. Pande & V.G. Rao
 
 ### Remarks
 null

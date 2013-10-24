@@ -1,5 +1,4 @@
-Rhizocarpon biatorinum Eitner SPECIES
-=======
+# Rhizocarpon biatorinum Eitner SPECIES
 
 #### Status
 ACCEPTED

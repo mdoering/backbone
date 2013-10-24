@@ -1,5 +1,4 @@
-Phyllosticta ragatensis Ivory SPECIES
-=======
+# Phyllosticta ragatensis Ivory SPECIES
 
 #### Status
 ACCEPTED

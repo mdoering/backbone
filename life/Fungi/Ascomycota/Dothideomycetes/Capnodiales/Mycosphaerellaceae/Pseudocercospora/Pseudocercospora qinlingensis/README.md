@@ -1,5 +1,4 @@
-Pseudocercospora qinlingensis Y.L. Guo SPECIES
-=======
+# Pseudocercospora qinlingensis Y.L. Guo SPECIES
 
 #### Status
 ACCEPTED

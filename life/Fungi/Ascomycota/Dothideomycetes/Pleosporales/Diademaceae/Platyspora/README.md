@@ -1,5 +1,4 @@
-Platyspora GENUS
-=======
+# Platyspora GENUS
 
 #### Status
 ACCEPTED

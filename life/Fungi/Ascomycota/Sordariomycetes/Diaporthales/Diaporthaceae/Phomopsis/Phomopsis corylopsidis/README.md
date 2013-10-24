@@ -1,5 +1,4 @@
-Phomopsis corylopsidis (Henn.) Died. SPECIES
-=======
+# Phomopsis corylopsidis (Henn.) Died. SPECIES
 
 #### Status
 ACCEPTED

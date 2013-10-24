@@ -1,5 +1,4 @@
-Dictyothyrium acoricola Katum. SPECIES
-=======
+# Dictyothyrium acoricola Katum. SPECIES
 
 #### Status
 ACCEPTED

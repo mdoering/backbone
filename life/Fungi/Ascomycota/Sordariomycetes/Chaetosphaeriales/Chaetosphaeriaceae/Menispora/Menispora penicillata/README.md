@@ -1,5 +1,4 @@
-Menispora penicillata Harz SPECIES
-=======
+# Menispora penicillata Harz SPECIES
 
 #### Status
 ACCEPTED

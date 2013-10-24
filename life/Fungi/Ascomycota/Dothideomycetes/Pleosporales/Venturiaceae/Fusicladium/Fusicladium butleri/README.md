@@ -1,5 +1,4 @@
-Fusicladium butleri Syd. SPECIES
-=======
+# Fusicladium butleri Syd. SPECIES
 
 #### Status
 ACCEPTED

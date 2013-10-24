@@ -1,14 +1,13 @@
-Tapesia escharodes (Berk. & Broome) Rehm SPECIES
-=======
+# Mollisia escharodes (Berk. & Broome) Gremmen, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fungus, Wageningen 24: 5 (1954)
 
 #### Original name
 null

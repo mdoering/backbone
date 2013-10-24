@@ -1,5 +1,4 @@
-Macrosporium disruptum McAlpine SPECIES
-=======
+# Macrosporium disruptum McAlpine SPECIES
 
 #### Status
 ACCEPTED

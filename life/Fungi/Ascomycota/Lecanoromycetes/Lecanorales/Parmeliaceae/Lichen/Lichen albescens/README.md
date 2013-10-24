@@ -1,5 +1,4 @@
-Lichen albescens (Hoffm.) Ach. SPECIES
-=======
+# Lichen albescens (Hoffm.) Ach. SPECIES
 
 #### Status
 ACCEPTED

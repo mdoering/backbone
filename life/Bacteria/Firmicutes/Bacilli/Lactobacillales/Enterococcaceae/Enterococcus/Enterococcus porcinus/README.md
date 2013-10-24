@@ -1,5 +1,4 @@
-Enterococcus porcinus Teixeira et al., 2001 SPECIES
-=======
+# Enterococcus porcinus Teixeira et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

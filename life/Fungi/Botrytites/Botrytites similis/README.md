@@ -1,5 +1,4 @@
-Botrytites similis (J.A. Menge & Göpp.) Sacc. SPECIES
-=======
+# Botrytites similis (J.A. Menge & Göpp.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

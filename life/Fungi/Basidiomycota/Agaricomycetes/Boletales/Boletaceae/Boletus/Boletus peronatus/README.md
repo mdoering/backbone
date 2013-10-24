@@ -1,5 +1,4 @@
-Boletus peronatus Corner SPECIES
-=======
+# Boletus peronatus Corner SPECIES
 
 #### Status
 ACCEPTED

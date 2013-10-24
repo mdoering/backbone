@@ -1,8 +1,7 @@
-Lecidea poucheti M. Choisy SPECIES
-=======
+# Lecidea pouchetii M. Choisy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea poucheti M. Choisy
+Lecidea pouchetii M. Choisy
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hyphobasidiofera K. Matsush. & Matsush. GENUS
-=======
+# Hyphobasidiofera K. Matsush. & Matsush. GENUS
 
 #### Status
 ACCEPTED

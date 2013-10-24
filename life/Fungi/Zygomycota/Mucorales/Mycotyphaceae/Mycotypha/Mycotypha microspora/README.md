@@ -1,14 +1,13 @@
-Microtypha microspora (Fenner) Monte, Oddo & Tonolo, 1967 SPECIES
-=======
+# Mycotypha microspora Fenner, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annali Istituto Superior Sanita 3: 737 (1967)
+Mycologia 24: 196 (1932)
 
 #### Original name
 Mycotypha microspora Fenner, 1932

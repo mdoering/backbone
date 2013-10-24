@@ -1,8 +1,7 @@
-Miliola sublineata (Brady, 1884) SPECIES
-=======
+# Triloculinella sublineata (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

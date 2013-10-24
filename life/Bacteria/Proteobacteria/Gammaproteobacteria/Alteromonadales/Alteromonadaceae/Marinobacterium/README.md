@@ -1,5 +1,4 @@
-Marinobacterium Gonzalez, Mayer, Moran, Hodson & Whitman, 1997 GENUS
-=======
+# Marinobacterium Gonzalez, Mayer, Moran, Hodson & Whitman, 1997 GENUS
 
 #### Status
 ACCEPTED

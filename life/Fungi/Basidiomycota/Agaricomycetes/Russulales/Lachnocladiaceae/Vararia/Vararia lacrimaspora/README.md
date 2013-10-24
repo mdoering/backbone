@@ -1,5 +1,4 @@
-Vararia lacrimaspora Boidin & Gilles SPECIES
-=======
+# Vararia lacrimaspora Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

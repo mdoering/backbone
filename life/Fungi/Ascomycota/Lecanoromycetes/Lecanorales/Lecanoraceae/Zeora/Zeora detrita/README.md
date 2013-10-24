@@ -1,5 +1,4 @@
-Zeora detrita A. Massal. SPECIES
-=======
+# Zeora detrita A. Massal. SPECIES
 
 #### Status
 ACCEPTED

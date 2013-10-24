@@ -1,5 +1,4 @@
-Ceratium bigelowi Kofoid, 1907 SPECIES
-=======
+# Ceratium bigelowi Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

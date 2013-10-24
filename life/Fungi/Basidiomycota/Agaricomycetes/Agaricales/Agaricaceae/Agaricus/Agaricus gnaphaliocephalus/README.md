@@ -1,5 +1,4 @@
-Agaricus gnaphaliocephalus Bull. SPECIES
-=======
+# Agaricus gnaphaliocephalus Bull. SPECIES
 
 #### Status
 ACCEPTED

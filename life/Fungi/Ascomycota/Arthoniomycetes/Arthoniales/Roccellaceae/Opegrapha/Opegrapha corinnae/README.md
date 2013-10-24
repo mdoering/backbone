@@ -1,5 +1,4 @@
-Opegrapha corinnae Egea & Ertz SPECIES
-=======
+# Opegrapha corinnae Egea & Ertz SPECIES
 
 #### Status
 ACCEPTED

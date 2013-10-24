@@ -1,5 +1,4 @@
-Gyalideopsis macarthurii Lücking, Umaña & Aptroot SPECIES
-=======
+# Gyalideopsis macarthurii Lücking, Umaña & Aptroot SPECIES
 
 #### Status
 ACCEPTED

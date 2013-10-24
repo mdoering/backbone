@@ -1,5 +1,4 @@
-Trenomyces aquaticus Eichler {?} SPECIES
-=======
+# Trenomyces aquaticus Eichler {?} SPECIES
 
 #### Status
 ACCEPTED

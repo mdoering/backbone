@@ -1,5 +1,4 @@
-Spirosymplokos Guerrero, Ashen, Solé & Margulis, 1993 GENUS
-=======
+# Spirosymplokos Guerrero, Ashen, Solé & Margulis, 1993 GENUS
 
 #### Status
 ACCEPTED

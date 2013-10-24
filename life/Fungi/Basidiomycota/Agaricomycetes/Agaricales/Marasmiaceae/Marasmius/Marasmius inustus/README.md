@@ -1,5 +1,4 @@
-Marasmius inustus Berk. & Broome SPECIES
-=======
+# Marasmius inustus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asperatopsophosphaera umishanensis Xing Yusheng & Liu Kuizhih, 1973 SPECIES
-=======
+# Asperatopsophosphaera umishanensis Xing Yusheng & Liu Kuizhih, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenotheca melanophaea f. melanophaea FORM
-=======
+# Chaenotheca ferruginea (Turner ex Sm.) Mig. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Krypt. -Fl. Deutschl. , Flecht. 2: 479 (1930)
 
 #### Original name
-Chaenotheca melanophaea f. melanophaea
+Calicium ferrugineum Turner
 
 ### Remarks
 null

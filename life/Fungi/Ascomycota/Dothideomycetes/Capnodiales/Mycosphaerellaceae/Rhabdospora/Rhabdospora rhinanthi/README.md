@@ -1,5 +1,4 @@
-Rhabdospora rhinanthi (Fr.) Oudem. SPECIES
-=======
+# Rhabdospora rhinanthi (Fr.) Oudem. SPECIES
 
 #### Status
 ACCEPTED

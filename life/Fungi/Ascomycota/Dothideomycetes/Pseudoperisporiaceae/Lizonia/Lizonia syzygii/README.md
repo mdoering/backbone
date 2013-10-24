@@ -1,5 +1,4 @@
-Lizonia syzygii Racib. SPECIES
-=======
+# Lizonia syzygii Racib. SPECIES
 
 #### Status
 ACCEPTED

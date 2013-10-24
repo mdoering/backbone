@@ -1,5 +1,4 @@
-Pseudocyphellaria boryana (Delise) D.J. Galloway SPECIES
-=======
+# Pseudocyphellaria boryana (Delise) D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

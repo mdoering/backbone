@@ -1,5 +1,4 @@
-Usnea sibirica Räsänen SPECIES
-=======
+# Usnea sibirica Räsänen SPECIES
 
 #### Status
 ACCEPTED

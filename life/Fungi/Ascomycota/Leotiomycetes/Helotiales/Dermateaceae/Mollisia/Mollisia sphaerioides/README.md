@@ -1,5 +1,4 @@
-Mollisia sphaerioides (Pers.) SPECIES
-=======
+# Mollisia sphaerioides (Pers.) SPECIES
 
 #### Status
 ACCEPTED

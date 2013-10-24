@@ -1,5 +1,4 @@
-Leptothyrium thalictri Thüm. SPECIES
-=======
+# Leptothyrium thalictri Thüm. SPECIES
 
 #### Status
 ACCEPTED

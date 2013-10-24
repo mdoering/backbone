@@ -1,5 +1,4 @@
-Dichotomyxa globosa W.B. Kendr. et al. SPECIES
-=======
+# Dichotomyxa globosa W.B. Kendr. et al. SPECIES
 
 #### Status
 ACCEPTED

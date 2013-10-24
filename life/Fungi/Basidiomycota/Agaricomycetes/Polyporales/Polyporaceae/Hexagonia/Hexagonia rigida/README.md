@@ -1,5 +1,4 @@
-Hexagonia rigida Berk. SPECIES
-=======
+# Hexagonia rigida Berk. SPECIES
 
 #### Status
 ACCEPTED

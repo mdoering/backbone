@@ -1,5 +1,4 @@
-Spicaria smithii Oudem. SPECIES
-=======
+# Spicaria smithii Oudem. SPECIES
 
 #### Status
 ACCEPTED

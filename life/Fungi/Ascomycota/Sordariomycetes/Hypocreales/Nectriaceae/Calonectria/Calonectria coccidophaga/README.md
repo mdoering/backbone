@@ -1,5 +1,4 @@
-Calonectria coccidophaga Petch SPECIES
-=======
+# Calonectria coccidophaga Petch SPECIES
 
 #### Status
 ACCEPTED

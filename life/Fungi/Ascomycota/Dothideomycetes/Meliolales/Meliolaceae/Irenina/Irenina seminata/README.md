@@ -1,5 +1,4 @@
-Irenina seminata (Berk. & M.A. Curtis) F. Stevens SPECIES
-=======
+# Irenina seminata (Berk. & M.A. Curtis) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

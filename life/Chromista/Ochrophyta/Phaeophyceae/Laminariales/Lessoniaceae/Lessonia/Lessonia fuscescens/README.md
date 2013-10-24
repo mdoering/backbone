@@ -1,8 +1,7 @@
-Lessonia flavicans Bory de Saint-Vincent SPECIES
-=======
+# Lessonia fuscescens Bory de Saint-Vincent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

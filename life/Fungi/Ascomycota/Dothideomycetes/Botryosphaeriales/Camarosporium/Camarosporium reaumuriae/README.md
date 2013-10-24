@@ -1,5 +1,4 @@
-Camarosporium reaumuriae Kalymb. SPECIES
-=======
+# Camarosporium reaumuriae Kalymb. SPECIES
 
 #### Status
 ACCEPTED

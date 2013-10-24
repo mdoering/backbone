@@ -1,5 +1,4 @@
-Lecanora picta Motyka SPECIES
-=======
+# Lecanora picta Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria corallensis P. M. McCarthy SPECIES
-=======
+# Verrucaria corallensis P. M. McCarthy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ochnae K.N. Rao SPECIES
-=======
+# Uredo ochnae K.N. Rao SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crossopsora mateleae W.T. Dale SPECIES
-=======
+# Crossopsora mateleae W.T. Dale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma duracinoides Bidaud & Fillion SPECIES
-=======
+# Hebeloma duracinoides Bidaud & Fillion SPECIES
 
 #### Status
 ACCEPTED

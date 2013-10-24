@@ -1,8 +1,7 @@
-Pycnocarpon leptospilum (Berk. & M.A. Curtis) Speg., 1923 SPECIES
-=======
+# Hysterostomella leptospila (Berk. & M.A. Curtis) Höhn., 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Rhytisma leptospilum Berk. & M.A. Curtis
 
 ### Remarks
 null

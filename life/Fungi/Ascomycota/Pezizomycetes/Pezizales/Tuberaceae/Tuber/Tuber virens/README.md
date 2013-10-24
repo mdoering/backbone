@@ -1,5 +1,4 @@
-Tuber virens Alb. & Schwein. SPECIES
-=======
+# Tuber virens Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

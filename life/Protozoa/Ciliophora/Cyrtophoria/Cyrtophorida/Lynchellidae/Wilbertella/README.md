@@ -1,5 +1,4 @@
-Wilbertella Gong & Song, 2006 GENUS
-=======
+# Wilbertella Gong & Song, 2006 GENUS
 
 #### Status
 ACCEPTED

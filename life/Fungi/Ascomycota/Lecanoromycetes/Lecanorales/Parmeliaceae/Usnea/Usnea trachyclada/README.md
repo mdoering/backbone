@@ -1,5 +1,4 @@
-Usnea trachyclada (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Usnea trachyclada (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

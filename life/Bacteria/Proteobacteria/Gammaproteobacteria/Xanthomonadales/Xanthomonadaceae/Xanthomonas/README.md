@@ -1,5 +1,4 @@
-Xanthomonas Dowson, 1939 GENUS
-=======
+# Xanthomonas Dowson, 1939 GENUS
 
 #### Status
 ACCEPTED

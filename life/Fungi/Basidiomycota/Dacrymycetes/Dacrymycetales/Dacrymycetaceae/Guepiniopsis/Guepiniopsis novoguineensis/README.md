@@ -1,5 +1,4 @@
-Guepiniopsis novoguineensis Kobayasi SPECIES
-=======
+# Guepiniopsis novoguineensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

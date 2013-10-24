@@ -1,5 +1,4 @@
-Gelatinosporium griseolanatum A. Funk SPECIES
-=======
+# Gelatinosporium griseolanatum A. Funk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenula darjeelingensis Jagadeesh & G. P. Sinha SPECIES
-=======
+# Pyrenula darjeelingensis Jagadeesh & G. P. Sinha SPECIES
 
 #### Status
 ACCEPTED

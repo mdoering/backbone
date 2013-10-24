@@ -1,14 +1,13 @@
-Phytophthora imperfecta var. citrophthora (R.E. Sm. & E.H. Sm.) Sarej., 1936 VARIETY
-=======
+# Phytophthora citrophthora (R.E. Sm. & E.H. Sm.) Leonian, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals Inst. Phytopath. Benaki 2(1): 46 (1936)
+Bot. Gaz. 42: 215 & 221 (1906)
 
 #### Original name
 Pythiacystis citrophthora R.E. Sm. & E.H. Sm., 1906

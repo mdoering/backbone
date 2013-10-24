@@ -1,5 +1,4 @@
-Gonosphaera primordialis Joergensen, 1905 SPECIES
-=======
+# Gonosphaera primordialis Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

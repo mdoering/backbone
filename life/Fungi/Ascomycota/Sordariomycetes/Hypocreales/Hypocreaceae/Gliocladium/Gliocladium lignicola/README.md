@@ -1,5 +1,4 @@
-Gliocladium lignicola Grove SPECIES
-=======
+# Gliocladium lignicola Grove SPECIES
 
 #### Status
 ACCEPTED

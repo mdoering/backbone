@@ -1,5 +1,4 @@
-Hartmannula sinica Shao, Song & Gong, 2008 SPECIES
-=======
+# Hartmannula sinica Shao, Song & Gong, 2008 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strickeria denudata Feltgen SPECIES
-=======
+# Strickeria denudata Feltgen SPECIES
 
 #### Status
 ACCEPTED

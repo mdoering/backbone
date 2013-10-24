@@ -1,5 +1,4 @@
-Lophiotrema scrophulariae (Peck) Sacc. SPECIES
-=======
+# Lophiotrema scrophulariae (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

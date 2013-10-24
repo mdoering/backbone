@@ -1,5 +1,4 @@
-Pyrenula gigas Zahlbr. SPECIES
-=======
+# Pyrenula gigas Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

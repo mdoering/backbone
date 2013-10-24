@@ -1,5 +1,4 @@
-Ceratocystiopsis parva (Olchow. & J. Reid) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
-=======
+# Ceratocystiopsis parva (Olchow. & J. Reid) Zipfel, Z.W. Beer & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

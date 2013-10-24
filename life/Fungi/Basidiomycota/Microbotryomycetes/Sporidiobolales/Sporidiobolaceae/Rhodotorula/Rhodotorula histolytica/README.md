@@ -1,5 +1,4 @@
-Rhodotorula histolytica (J.L. Stoddart & Cutler) Krassiln. SPECIES
-=======
+# Rhodotorula histolytica (J.L. Stoddart & Cutler) Krassiln. SPECIES
 
 #### Status
 ACCEPTED

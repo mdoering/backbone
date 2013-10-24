@@ -1,5 +1,4 @@
-Laboulbenia harpalicola Speg. SPECIES
-=======
+# Laboulbenia harpalicola Speg. SPECIES
 
 #### Status
 ACCEPTED

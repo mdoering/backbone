@@ -1,5 +1,4 @@
-Xanthoparmelia namaënsis (J. Steiner & Zahlbr.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
-=======
+# Xanthoparmelia namaënsis (J. Steiner & Zahlbr.) O. Blanco, A. Crespo, Elix, D. Hawksw. & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

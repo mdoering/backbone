@@ -1,5 +1,4 @@
-Amphileptus claperedei Stein SPECIES
-=======
+# Amphileptus claperedei Stein SPECIES
 
 #### Status
 ACCEPTED

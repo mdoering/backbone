@@ -1,5 +1,4 @@
-Thielavia ovalispora Lodha SPECIES
-=======
+# Thielavia ovalispora Lodha SPECIES
 
 #### Status
 ACCEPTED

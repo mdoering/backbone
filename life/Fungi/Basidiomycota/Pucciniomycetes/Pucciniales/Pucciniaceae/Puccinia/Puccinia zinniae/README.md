@@ -1,5 +1,4 @@
-Puccinia zinniae Syd. SPECIES
-=======
+# Puccinia zinniae Syd. SPECIES
 
 #### Status
 ACCEPTED

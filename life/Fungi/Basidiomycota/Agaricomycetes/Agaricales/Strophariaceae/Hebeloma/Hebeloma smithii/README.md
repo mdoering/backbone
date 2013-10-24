@@ -1,5 +1,4 @@
-Hebeloma smithii Quadr. SPECIES
-=======
+# Hebeloma smithii Quadr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus sclerogenus Dadal. SPECIES
-=======
+# Aspergillus sclerogenus Dadal. SPECIES
 
 #### Status
 ACCEPTED

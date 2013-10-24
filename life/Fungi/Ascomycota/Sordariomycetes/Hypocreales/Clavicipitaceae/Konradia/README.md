@@ -1,17 +1,16 @@
-Xylariopsis F.L. Tai GENUS
-=======
+# Konradia Racib. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sinensia, Shanghai 4: 211 (1934)
+Parasit. Alg. Pilze Java's (Jakarta) 2: 15 (1900)
 
 #### Original name
-Xylariopsis F.L. Tai
+Konradia Racib.
 
 ### Remarks
 null

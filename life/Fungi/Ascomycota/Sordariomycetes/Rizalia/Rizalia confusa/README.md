@@ -1,5 +1,4 @@
-Rizalia confusa Doidge SPECIES
-=======
+# Rizalia confusa Doidge SPECIES
 
 #### Status
 ACCEPTED

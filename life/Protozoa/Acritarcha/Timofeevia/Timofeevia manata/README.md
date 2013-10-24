@@ -1,5 +1,4 @@
-Timofeevia manata Albani, Massa & Tongiorgi, 1991 SPECIES
-=======
+# Timofeevia manata Albani, Massa & Tongiorgi, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia subsessilis Speg. SPECIES
-=======
+# Pestalotia subsessilis Speg. SPECIES
 
 #### Status
 ACCEPTED

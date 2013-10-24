@@ -1,5 +1,4 @@
-Aecidium osyridicarpi Massee SPECIES
-=======
+# Aecidium osyridicarpi Massee SPECIES
 
 #### Status
 ACCEPTED

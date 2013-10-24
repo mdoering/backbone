@@ -1,5 +1,4 @@
-Phyllosticta livida Ellis & Everh. SPECIES
-=======
+# Phyllosticta livida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

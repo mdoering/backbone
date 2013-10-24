@@ -1,5 +1,4 @@
-Ramularia banksiana (Pass.) Sacc. SPECIES
-=======
+# Ramularia banksiana (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

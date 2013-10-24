@@ -1,14 +1,13 @@
-Trabutia saurauiae Chardón, 1939 SPECIES
-=======
+# Phyllachora saurauiae Chardón ex Petr., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. Venez. Cienc. Nat. 5(40): 348 (1939)
+Sydowia 4: 529 (1950)
 
 #### Original name
 Trabutia saurauiae Chardón, 1939

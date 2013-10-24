@@ -1,5 +1,4 @@
-Lichen leprosus SPECIES
-=======
+# Lichen leprosus SPECIES
 
 #### Status
 ACCEPTED

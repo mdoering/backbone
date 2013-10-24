@@ -1,17 +1,16 @@
-Dacryomyces harperi Bres. SPECIES
-=======
+# Dacrymyces harperi Bres. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 18(1-3): 53 (1920)
 
 #### Original name
-Dacryomyces harperi Bres.
+Dacrymyces harperi Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria dalslandensis Servít SPECIES
-=======
+# Verrucaria dalslandensis Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pocosphaeria eriophora (Cooke) Berl. SPECIES
-=======
+# Pocosphaeria eriophora (Cooke) Berl. SPECIES
 
 #### Status
 ACCEPTED

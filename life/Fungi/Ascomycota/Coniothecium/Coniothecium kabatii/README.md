@@ -1,5 +1,4 @@
-Coniothecium kabatii Bres. SPECIES
-=======
+# Coniothecium kabatii Bres. SPECIES
 
 #### Status
 ACCEPTED

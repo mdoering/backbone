@@ -1,14 +1,13 @@
-Scenidium leprosum (Fr.) Kuntze, 1898 SPECIES
-=======
+# Hexagonia leprosa Fr., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 516 (1898)
+Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 101 (1851)
 
 #### Original name
 Hexagonia leprosa Fr., 1851

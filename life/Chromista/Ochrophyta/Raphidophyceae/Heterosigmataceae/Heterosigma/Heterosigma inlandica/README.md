@@ -1,5 +1,4 @@
-Heterosigma inlandica Hada SPECIES
-=======
+# Heterosigma inlandica Hada SPECIES
 
 #### Status
 ACCEPTED

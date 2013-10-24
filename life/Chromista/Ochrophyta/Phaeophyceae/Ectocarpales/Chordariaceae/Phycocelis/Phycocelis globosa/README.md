@@ -1,5 +1,4 @@
-Phycocelis globosa (Reinke) De Toni SPECIES
-=======
+# Phycocelis globosa (Reinke) De Toni SPECIES
 
 #### Status
 ACCEPTED

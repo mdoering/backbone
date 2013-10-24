@@ -1,5 +1,4 @@
-Mycoporopsis roseola Müll. Arg. SPECIES
-=======
+# Mycoporopsis roseola Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

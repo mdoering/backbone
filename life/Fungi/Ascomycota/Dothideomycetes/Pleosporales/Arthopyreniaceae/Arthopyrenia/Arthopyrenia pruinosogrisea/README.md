@@ -1,5 +1,4 @@
-Arthopyrenia pruinosogrisea (C. Knight) Müll. Arg. SPECIES
-=======
+# Arthopyrenia pruinosogrisea (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

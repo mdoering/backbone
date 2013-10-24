@@ -1,5 +1,4 @@
-Lysobacteraceae FAMILY
-=======
+# Lysobacteraceae FAMILY
 
 #### Status
 ACCEPTED

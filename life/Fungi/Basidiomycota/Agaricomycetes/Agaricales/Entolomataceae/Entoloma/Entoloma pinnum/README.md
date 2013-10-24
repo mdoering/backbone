@@ -1,5 +1,4 @@
-Entoloma pinnum (Romagn.) Dennis SPECIES
-=======
+# Entoloma pinnum (Romagn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia lindquistii Singer SPECIES
-=======
+# Collybia lindquistii Singer SPECIES
 
 #### Status
 ACCEPTED

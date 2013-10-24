@@ -1,5 +1,4 @@
-Micrhystridium mastigophorum Valensi, 1949 SPECIES
-=======
+# Micrhystridium mastigophorum Valensi, 1949 SPECIES
 
 #### Status
 ACCEPTED

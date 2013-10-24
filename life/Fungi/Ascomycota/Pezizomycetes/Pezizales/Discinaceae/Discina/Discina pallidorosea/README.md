@@ -1,8 +1,7 @@
-Discina pallide-rosea Henn. SPECIES
-=======
+# Discina pallidorosea Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Discina pallide-rosea Henn.
+Discina pallidorosea Henn.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cellularia kuntzei Jacobashch SPECIES
-=======
+# Cellularia kuntzei Jacobashch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptomonas nordstedtii (Hansgirg) Senn SPECIES
-=======
+# Cryptomonas nordstedtii (Hansgirg) Senn SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopsis palmana J. Steiner SPECIES
-=======
+# Pyrenopsis palmana J. Steiner SPECIES
 
 #### Status
 ACCEPTED

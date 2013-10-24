@@ -1,8 +1,7 @@
-Petasospora rhodanensis (C. Ramírez & Boidin) Boidin & Abadie, 1955 SPECIES
-=======
+# Cyberlindnera rhodanensis (C. Ramírez & Boidin) Minter, 2009 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Saccharomyces rhodanensis C. Ramírez & Boidin, 1953
 
 ### Remarks
 null

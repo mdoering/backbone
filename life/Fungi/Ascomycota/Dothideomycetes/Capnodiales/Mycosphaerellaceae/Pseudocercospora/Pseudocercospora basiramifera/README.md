@@ -1,5 +1,4 @@
-Pseudocercospora basiramifera Crous SPECIES
-=======
+# Pseudocercospora basiramifera Crous SPECIES
 
 #### Status
 ACCEPTED

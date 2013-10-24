@@ -1,5 +1,4 @@
-Botryobasidium digitatum (D.P. Rogers) G. Langer SPECIES
-=======
+# Botryobasidium digitatum (D.P. Rogers) G. Langer SPECIES
 
 #### Status
 ACCEPTED

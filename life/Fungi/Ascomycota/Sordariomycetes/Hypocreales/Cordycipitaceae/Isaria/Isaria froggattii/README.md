@@ -1,5 +1,4 @@
-Isaria froggattii Lloyd SPECIES
-=======
+# Isaria froggattii Lloyd SPECIES
 
 #### Status
 ACCEPTED

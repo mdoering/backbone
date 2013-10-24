@@ -1,5 +1,4 @@
-Hypha membranacea (Humb.) Pers. SPECIES
-=======
+# Hypha membranacea (Humb.) Pers. SPECIES
 
 #### Status
 ACCEPTED

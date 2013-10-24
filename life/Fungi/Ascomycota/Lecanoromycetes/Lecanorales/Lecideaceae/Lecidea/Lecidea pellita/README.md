@@ -1,5 +1,4 @@
-Lecidea pellita (Ach.) Spreng. SPECIES
-=======
+# Lecidea pellita (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

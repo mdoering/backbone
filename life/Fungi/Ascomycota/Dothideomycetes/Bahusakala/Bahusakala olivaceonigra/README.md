@@ -1,14 +1,13 @@
-Bahusakala olivaceo-nigra (Berk. & Broome) Subram. SPECIES
-=======
+# Bahusakala olivaceonigra (Berk. & Broome) Subram., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Indian bot. Soc. 37: 63 (1958)
 
 #### Original name
 Septonema olivaceonigrum Berk. & Broome, 1875

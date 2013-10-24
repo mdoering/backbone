@@ -1,5 +1,4 @@
-Phomopsis thalictri H.C. Greene SPECIES
-=======
+# Phomopsis thalictri H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

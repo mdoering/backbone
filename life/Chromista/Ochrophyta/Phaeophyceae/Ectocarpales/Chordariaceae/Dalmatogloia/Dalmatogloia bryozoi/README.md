@@ -1,5 +1,4 @@
-Dalmatogloia bryozoi Ercegovic SPECIES
-=======
+# Dalmatogloia bryozoi Ercegovic SPECIES
 
 #### Status
 ACCEPTED

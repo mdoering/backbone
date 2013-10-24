@@ -1,5 +1,4 @@
-Manzonia GENUS
-=======
+# Manzonia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta candicans Pass. SPECIES
-=======
+# Phyllosticta candicans Pass. SPECIES
 
 #### Status
 ACCEPTED

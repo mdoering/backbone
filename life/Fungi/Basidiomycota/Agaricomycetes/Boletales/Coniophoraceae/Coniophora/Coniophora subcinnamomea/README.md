@@ -1,5 +1,4 @@
-Coniophora subcinnamomea P. Karst. SPECIES
-=======
+# Coniophora subcinnamomea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

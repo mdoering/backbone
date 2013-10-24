@@ -1,5 +1,4 @@
-Ascochyta jahniana Petr. SPECIES
-=======
+# Ascochyta jahniana Petr. SPECIES
 
 #### Status
 ACCEPTED

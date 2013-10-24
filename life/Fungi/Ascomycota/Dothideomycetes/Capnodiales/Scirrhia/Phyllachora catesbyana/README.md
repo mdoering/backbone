@@ -1,5 +1,4 @@
-Phyllachora catesbyana Chardón, 1932 SPECIES
-=======
+# Phyllachora catesbyana Chardón, 1932 SPECIES
 
 #### Status
 DOUBTFUL

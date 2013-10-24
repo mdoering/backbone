@@ -1,5 +1,4 @@
-Dermocybe californica (A.H. Sm.) Ammirati SPECIES
-=======
+# Dermocybe californica (A.H. Sm.) Ammirati SPECIES
 
 #### Status
 ACCEPTED

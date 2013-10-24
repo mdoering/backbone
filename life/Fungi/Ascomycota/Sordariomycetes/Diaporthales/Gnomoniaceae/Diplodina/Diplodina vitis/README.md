@@ -1,5 +1,4 @@
-Diplodina vitis Brunaud SPECIES
-=======
+# Diplodina vitis Brunaud SPECIES
 
 #### Status
 ACCEPTED

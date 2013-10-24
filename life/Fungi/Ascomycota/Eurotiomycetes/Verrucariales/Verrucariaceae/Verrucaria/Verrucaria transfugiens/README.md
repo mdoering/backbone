@@ -1,5 +1,4 @@
-Verrucaria transfugiens Zschacke SPECIES
-=======
+# Verrucaria transfugiens Zschacke SPECIES
 
 #### Status
 ACCEPTED

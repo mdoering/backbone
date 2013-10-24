@@ -1,5 +1,4 @@
-Lecanora lepidora (Ach.) Ach. SPECIES
-=======
+# Lecanora lepidora (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

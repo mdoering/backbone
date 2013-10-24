@@ -1,5 +1,4 @@
-Guignardia stromatica (Fuckel) Petr. SPECIES
-=======
+# Guignardia stromatica (Fuckel) Petr. SPECIES
 
 #### Status
 ACCEPTED

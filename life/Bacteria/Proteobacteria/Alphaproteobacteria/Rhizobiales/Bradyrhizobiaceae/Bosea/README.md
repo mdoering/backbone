@@ -1,5 +1,4 @@
-Bosea Das et al., 1996 GENUS
-=======
+# Bosea Das et al., 1996 GENUS
 
 #### Status
 ACCEPTED

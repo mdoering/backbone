@@ -1,5 +1,4 @@
-Cymathaere triplicata (Postels & Ruprecht) J.Agardh, 1868 SPECIES
-=======
+# Cymathaere triplicata (Postels & Ruprecht) J.Agardh, 1868 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Monilia microspora Speg. SPECIES
-=======
+# Monilia microspora Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entyloma ambiens (P. Karst.) Johans. {?} SPECIES
-=======
+# Entyloma ambiens (P. Karst.) Johans. {?} SPECIES
 
 #### Status
 ACCEPTED

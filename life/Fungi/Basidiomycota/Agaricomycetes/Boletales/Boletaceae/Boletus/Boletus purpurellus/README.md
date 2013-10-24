@@ -1,5 +1,4 @@
-Boletus purpurellus Murrill SPECIES
-=======
+# Boletus purpurellus Murrill SPECIES
 
 #### Status
 ACCEPTED

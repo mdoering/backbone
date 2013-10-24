@@ -1,5 +1,4 @@
-Meliola aufracta SPECIES
-=======
+# Meliola aufracta SPECIES
 
 #### Status
 ACCEPTED

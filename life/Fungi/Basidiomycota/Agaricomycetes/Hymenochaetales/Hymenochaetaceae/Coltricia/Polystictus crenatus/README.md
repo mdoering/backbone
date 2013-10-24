@@ -1,5 +1,4 @@
-Polystictus crenatus Berk. SPECIES
-=======
+# Polystictus crenatus Berk. SPECIES
 
 #### Status
 ACCEPTED

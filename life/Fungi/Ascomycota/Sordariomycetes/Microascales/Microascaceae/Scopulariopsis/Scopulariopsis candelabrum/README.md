@@ -1,5 +1,4 @@
-Scopulariopsis candelabrum Loubière SPECIES
-=======
+# Scopulariopsis candelabrum Loubière SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parapeltella maitlandii (Hansf.) Bat. SPECIES
-=======
+# Parapeltella maitlandii (Hansf.) Bat. SPECIES
 
 #### Status
 ACCEPTED

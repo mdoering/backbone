@@ -1,5 +1,4 @@
-Cercospora ditissima Ellis & Everh. SPECIES
-=======
+# Cercospora ditissima Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

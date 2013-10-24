@@ -1,5 +1,4 @@
-Lecanora acerina Motyka SPECIES
-=======
+# Lecanora acerina Motyka SPECIES
 
 #### Status
 ACCEPTED

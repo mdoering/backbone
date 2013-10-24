@@ -1,5 +1,4 @@
-Ustilago heleochloae Vánky & M. Gönczöl SPECIES
-=======
+# Ustilago heleochloae Vánky & M. Gönczöl SPECIES
 
 #### Status
 ACCEPTED

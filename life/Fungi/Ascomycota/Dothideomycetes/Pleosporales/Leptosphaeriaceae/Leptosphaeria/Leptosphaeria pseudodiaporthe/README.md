@@ -1,5 +1,4 @@
-Leptosphaeria pseudodiaporthe Oudem., 1892 SPECIES
-=======
+# Leptosphaeria pseudodiaporthe Oudem., 1892 SPECIES
 
 #### Status
 ACCEPTED

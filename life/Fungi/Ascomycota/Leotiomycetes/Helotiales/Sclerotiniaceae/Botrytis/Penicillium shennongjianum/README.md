@@ -1,5 +1,4 @@
-Penicillium shennongjianum H.Z. Kong & Z.T. Qi, 1988 SPECIES
-=======
+# Penicillium shennongjianum H.Z. Kong & Z.T. Qi, 1988 SPECIES
 
 #### Status
 DOUBTFUL

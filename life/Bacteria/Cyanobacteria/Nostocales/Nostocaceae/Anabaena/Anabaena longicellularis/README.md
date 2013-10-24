@@ -1,5 +1,4 @@
-Anabaena longicellularis (H. Pankow) J. Komárková-Legnerová & P. Eloranta SPECIES
-=======
+# Anabaena longicellularis (H. Pankow) J. Komárková-Legnerová & P. Eloranta SPECIES
 
 #### Status
 ACCEPTED

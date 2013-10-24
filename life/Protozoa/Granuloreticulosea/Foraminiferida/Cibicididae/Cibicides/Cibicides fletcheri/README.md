@@ -1,5 +1,4 @@
-Cibicides fletcheri Galloway & Wissler, 1927 SPECIES
-=======
+# Cibicides fletcheri Galloway & Wissler, 1927 SPECIES
 
 #### Status
 ACCEPTED

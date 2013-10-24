@@ -1,5 +1,4 @@
-Polyblastia viridescens Zschacke SPECIES
-=======
+# Polyblastia viridescens Zschacke SPECIES
 
 #### Status
 ACCEPTED

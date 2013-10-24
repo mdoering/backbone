@@ -1,5 +1,4 @@
-Planococcus antarcticus Reddy et al., 2002 SPECIES
-=======
+# Planococcus antarcticus Reddy et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Imbricaria convexiuscula Michx. SPECIES
-=======
+# Imbricaria convexiuscula Michx. SPECIES
 
 #### Status
 ACCEPTED

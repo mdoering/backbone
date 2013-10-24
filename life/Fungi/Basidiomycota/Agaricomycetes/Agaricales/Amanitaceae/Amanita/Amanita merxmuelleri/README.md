@@ -1,5 +1,4 @@
-Amanita merxmuelleri Bresinsky & Garrido SPECIES
-=======
+# Amanita merxmuelleri Bresinsky & Garrido SPECIES
 
 #### Status
 ACCEPTED

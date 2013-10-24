@@ -1,5 +1,4 @@
-Lobomorpha Yan Yuzhong, 1985 GENUS
-=======
+# Lobomorpha Yan Yuzhong, 1985 GENUS
 
 #### Status
 ACCEPTED

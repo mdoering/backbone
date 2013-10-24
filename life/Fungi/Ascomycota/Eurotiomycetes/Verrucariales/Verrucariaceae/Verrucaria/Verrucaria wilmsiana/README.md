@@ -1,5 +1,4 @@
-Verrucaria wilmsiana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Verrucaria wilmsiana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

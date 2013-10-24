@@ -1,5 +1,4 @@
-Nochascypha stricta Agerer, 1983 SPECIES
-=======
+# Nochascypha stricta Agerer, 1983 SPECIES
 
 #### Status
 ACCEPTED

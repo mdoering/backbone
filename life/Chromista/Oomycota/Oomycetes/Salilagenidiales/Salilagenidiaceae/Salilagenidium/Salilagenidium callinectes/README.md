@@ -1,14 +1,13 @@
-Lagenidium callinectes Couch, 1942 SPECIES
-=======
+# Salilagenidium callinectes (Couch) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Elisha Mitchell scient. Soc. 58: 158 (1942)
+Straminipilous Fungi (Dordrecht) 314 (2001)
 
 #### Original name
 Lagenidium callinectes Couch, 1942

@@ -1,17 +1,16 @@
-Rhytidhysterium javanicum Penz. & Sacc. SPECIES
-=======
+# Rhytidhysteron javanicum Penz. & Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Malpighia 11: 528 (1897)
 
 #### Original name
-Rhytidhysterium javanicum Penz. & Sacc.
+Rhytidhysteron javanicum Penz. & Sacc.
 
 ### Remarks
 null

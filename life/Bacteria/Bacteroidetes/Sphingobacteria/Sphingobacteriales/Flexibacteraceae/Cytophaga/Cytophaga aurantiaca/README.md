@@ -1,5 +1,4 @@
-Cytophaga aurantiaca (ex Winogradsky, 1929) Reichenbach, 1989 SPECIES
-=======
+# Cytophaga aurantiaca (ex Winogradsky, 1929) Reichenbach, 1989 SPECIES
 
 #### Status
 ACCEPTED

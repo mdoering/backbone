@@ -1,5 +1,4 @@
-Lichen albozonaria (DC.) Lam. SPECIES
-=======
+# Lichen albozonaria (DC.) Lam. SPECIES
 
 #### Status
 ACCEPTED

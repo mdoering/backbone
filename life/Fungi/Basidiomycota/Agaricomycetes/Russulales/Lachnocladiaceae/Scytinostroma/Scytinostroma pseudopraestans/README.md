@@ -1,5 +1,4 @@
-Scytinostroma pseudopraestans Boidin & Gilles, 1988 SPECIES
-=======
+# Scytinostroma pseudopraestans Boidin & Gilles, 1988 SPECIES
 
 #### Status
 ACCEPTED

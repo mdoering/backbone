@@ -1,5 +1,4 @@
-Thermanaeromonas Mori, Hanada, Maruyama & Marumo, 2002 GENUS
-=======
+# Thermanaeromonas Mori, Hanada, Maruyama & Marumo, 2002 GENUS
 
 #### Status
 ACCEPTED

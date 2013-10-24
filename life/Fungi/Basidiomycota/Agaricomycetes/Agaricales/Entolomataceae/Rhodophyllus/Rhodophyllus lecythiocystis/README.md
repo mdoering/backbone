@@ -1,5 +1,4 @@
-Rhodophyllus lecythiocystis Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus lecythiocystis Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

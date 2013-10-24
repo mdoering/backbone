@@ -1,5 +1,4 @@
-Cyphella rufobrunnea Henn. SPECIES
-=======
+# Cyphella rufobrunnea Henn. SPECIES
 
 #### Status
 ACCEPTED

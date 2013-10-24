@@ -1,5 +1,4 @@
-Tulasnia Lesp. GENUS
-=======
+# Tulasnia Lesp. GENUS
 
 #### Status
 ACCEPTED

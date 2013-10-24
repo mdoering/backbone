@@ -1,14 +1,13 @@
-Phaeangium lefebvrei Pat., 1894 SPECIES
-=======
+# Picoa lefebvrei (Pat.) Maire, 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. Morot 8: 155-156 (1894)
+Annls mycol. 4(4): 332 (1906)
 
 #### Original name
 Phaeangium lefebvrei Pat., 1894

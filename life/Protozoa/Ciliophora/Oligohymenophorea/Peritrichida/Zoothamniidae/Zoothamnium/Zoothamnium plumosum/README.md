@@ -1,5 +1,4 @@
-Zoothamnium plumosum Wrigth, 1860 SPECIES
-=======
+# Zoothamnium plumosum Wrigth, 1860 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Discoaster adamanteus Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Discoaster adamanteus Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

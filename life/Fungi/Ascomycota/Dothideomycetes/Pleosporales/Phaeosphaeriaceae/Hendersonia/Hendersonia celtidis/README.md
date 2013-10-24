@@ -1,5 +1,4 @@
-Hendersonia celtidis Ellis & Everh. SPECIES
-=======
+# Hendersonia celtidis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

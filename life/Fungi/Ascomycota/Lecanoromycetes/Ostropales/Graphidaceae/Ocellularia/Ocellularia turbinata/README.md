@@ -1,5 +1,4 @@
-Ocellularia turbinata Mangold SPECIES
-=======
+# Ocellularia turbinata Mangold SPECIES
 
 #### Status
 ACCEPTED

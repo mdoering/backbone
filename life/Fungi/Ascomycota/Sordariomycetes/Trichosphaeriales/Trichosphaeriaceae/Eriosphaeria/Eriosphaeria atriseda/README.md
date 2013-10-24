@@ -1,5 +1,4 @@
-Eriosphaeria atriseda (Feltgen) Sacc. & D. Sacc. SPECIES
-=======
+# Eriosphaeria atriseda (Feltgen) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

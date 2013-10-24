@@ -1,5 +1,4 @@
-Cheiromyceopsis echinulata Mercado & J. Mena, 1988 SPECIES
-=======
+# Cheiromyceopsis echinulata Mercado & J. Mena, 1988 SPECIES
 
 #### Status
 ACCEPTED

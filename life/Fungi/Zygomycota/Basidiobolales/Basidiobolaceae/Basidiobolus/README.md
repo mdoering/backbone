@@ -1,5 +1,4 @@
-Basidiobolus Eidam GENUS
-=======
+# Basidiobolus Eidam GENUS
 
 #### Status
 ACCEPTED

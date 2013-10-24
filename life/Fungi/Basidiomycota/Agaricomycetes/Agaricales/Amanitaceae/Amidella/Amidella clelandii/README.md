@@ -1,5 +1,4 @@
-Amidella clelandii (E.-J. Gilbert) E.-J. Gilbert SPECIES
-=======
+# Amidella clelandii (E.-J. Gilbert) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

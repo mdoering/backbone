@@ -1,5 +1,4 @@
-Mycena termiticola Corner SPECIES
-=======
+# Mycena termiticola Corner SPECIES
 
 #### Status
 ACCEPTED

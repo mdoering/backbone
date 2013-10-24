@@ -1,5 +1,4 @@
-Aeromonas caviae (ex Eddy, 1962) Popoff, 1984 SPECIES
-=======
+# Aeromonas caviae (ex Eddy, 1962) Popoff, 1984 SPECIES
 
 #### Status
 ACCEPTED

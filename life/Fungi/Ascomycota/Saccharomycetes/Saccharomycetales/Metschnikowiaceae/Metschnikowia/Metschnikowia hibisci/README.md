@@ -1,5 +1,4 @@
-Metschnikowia hibisci Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles, 1998 SPECIES
-=======
+# Metschnikowia hibisci Lachance, C.A. Rosa, Starmer, Schlag-Edl., J.S.F. Barker & J.M. Bowles, 1998 SPECIES
 
 #### Status
 ACCEPTED

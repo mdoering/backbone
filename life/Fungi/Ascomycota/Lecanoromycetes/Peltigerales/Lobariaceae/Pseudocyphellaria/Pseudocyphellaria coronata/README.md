@@ -1,17 +1,16 @@
-Pseudocyphellaria orygmaea var. orygmaea VARIETY
-=======
+# Pseudocyphellaria coronata (Müll. Arg.) Malme SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 6): 28 (1899)
+Bihangtill K. Svenska Vetensk. -Akad. Handl. , Afd. 3 25(no. 6): 29 (1899)
 
 #### Original name
-Pseudocyphellaria orygmaea var. orygmaea
+Sticta coronata Müll. Arg.
 
 ### Remarks
 null

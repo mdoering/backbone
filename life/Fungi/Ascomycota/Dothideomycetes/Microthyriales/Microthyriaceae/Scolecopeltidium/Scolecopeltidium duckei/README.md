@@ -1,5 +1,4 @@
-Scolecopeltidium duckei Bat. & S.K. Shome SPECIES
-=======
+# Scolecopeltidium duckei Bat. & S.K. Shome SPECIES
 
 #### Status
 ACCEPTED

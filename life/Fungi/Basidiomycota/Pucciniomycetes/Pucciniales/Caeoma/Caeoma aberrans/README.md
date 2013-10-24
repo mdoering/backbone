@@ -1,5 +1,4 @@
-Caeoma aberrans Peck SPECIES
-=======
+# Caeoma aberrans Peck SPECIES
 
 #### Status
 ACCEPTED

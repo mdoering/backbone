@@ -1,5 +1,4 @@
-Apodospora gotlandica N. Lundq. SPECIES
-=======
+# Apodospora gotlandica N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Notocladonia S. Hammer GENUS
-=======
+# Notocladonia S. Hammer GENUS
 
 #### Status
 ACCEPTED

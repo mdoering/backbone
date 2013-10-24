@@ -1,14 +1,13 @@
-Dimerella subdentata Vezda & G. Thor SPECIES
-=======
+# Coenogonium subdentatum (Vezda & G. Thor) Rivas Plata, Lücking, Umaña & Chaves SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Vezda, Lichenes Selecti Exsiccati (Pruhonice), Fascicle <b>94</b> (nos 2326-2350) 3, no. 2333 (1989)
+in Rivas Plata, Lücking, Aptroot, Sipman, Chaves, Umaña & Lizano, Fungal Diversity 23: 298 (2006)
 
 #### Original name
 Dimerella subdentata Vezda & G. Thor

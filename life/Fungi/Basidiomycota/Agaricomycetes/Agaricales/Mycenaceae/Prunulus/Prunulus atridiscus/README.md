@@ -1,5 +1,4 @@
-Prunulus atridiscus Murrill SPECIES
-=======
+# Prunulus atridiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

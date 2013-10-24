@@ -1,5 +1,4 @@
-Sporopodium violaceum (Rehm) Zahlbr. SPECIES
-=======
+# Sporopodium violaceum (Rehm) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

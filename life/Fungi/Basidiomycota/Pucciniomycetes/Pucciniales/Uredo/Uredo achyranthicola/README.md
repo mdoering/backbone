@@ -1,5 +1,4 @@
-Uredo achyranthicola Cummins SPECIES
-=======
+# Uredo achyranthicola Cummins SPECIES
 
 #### Status
 ACCEPTED

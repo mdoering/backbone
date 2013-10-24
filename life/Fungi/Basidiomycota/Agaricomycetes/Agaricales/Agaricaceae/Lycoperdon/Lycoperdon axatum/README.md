@@ -1,5 +1,4 @@
-Lycoperdon axatum Bosc SPECIES
-=======
+# Lycoperdon axatum Bosc SPECIES
 
 #### Status
 ACCEPTED

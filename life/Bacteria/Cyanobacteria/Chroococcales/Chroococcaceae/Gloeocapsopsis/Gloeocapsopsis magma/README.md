@@ -1,8 +1,7 @@
-Gloeocapsa magma var. simmeri (Schmidle) Novácek ex Geitler VARIETY
-=======
+# Gloeocapsopsis magma (Brébisson) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Strongylopsis stichococci Vain. SPECIES
-=======
+# Strongylopsis stichococci Vain. SPECIES
 
 #### Status
 ACCEPTED

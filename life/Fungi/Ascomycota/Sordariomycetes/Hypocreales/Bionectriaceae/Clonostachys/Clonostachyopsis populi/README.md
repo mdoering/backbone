@@ -1,5 +1,4 @@
-Clonostachyopsis populi (Harz) Höhn. SPECIES
-=======
+# Clonostachyopsis populi (Harz) Höhn. SPECIES
 
 #### Status
 ACCEPTED

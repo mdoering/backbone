@@ -1,5 +1,4 @@
-Actinomyces canis Hoyles et al., 2000 SPECIES
-=======
+# Actinomyces canis Hoyles et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

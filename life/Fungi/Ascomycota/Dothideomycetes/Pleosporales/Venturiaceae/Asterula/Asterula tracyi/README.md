@@ -1,5 +1,4 @@
-Asterula tracyi Peck SPECIES
-=======
+# Asterula tracyi Peck SPECIES
 
 #### Status
 ACCEPTED

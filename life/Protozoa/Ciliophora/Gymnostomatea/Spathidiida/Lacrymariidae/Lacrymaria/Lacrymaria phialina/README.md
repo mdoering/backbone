@@ -1,5 +1,4 @@
-Lacrymaria phialina Svec, 1907 SPECIES
-=======
+# Lacrymaria phialina Svec, 1907 SPECIES
 
 #### Status
 ACCEPTED

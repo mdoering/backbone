@@ -1,5 +1,4 @@
-Cenangium ulicis Grelet SPECIES
-=======
+# Cenangium ulicis Grelet SPECIES
 
 #### Status
 ACCEPTED

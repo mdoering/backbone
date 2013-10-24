@@ -1,5 +1,4 @@
-Aspicilia modesta (H. Magn.) SPECIES
-=======
+# Aspicilia modesta (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

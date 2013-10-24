@@ -1,5 +1,4 @@
-Lecanora drapkini B. de Lesd. SPECIES
-=======
+# Lecanora drapkini B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

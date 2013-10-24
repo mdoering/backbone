@@ -1,5 +1,4 @@
-Leccinum colubrinum A.H. Sm., Thiers & Watling SPECIES
-=======
+# Leccinum colubrinum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED

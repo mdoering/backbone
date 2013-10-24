@@ -1,5 +1,4 @@
-Polysphondylium acuminatum Vadell & Cavender, 1998 SPECIES
-=======
+# Polysphondylium acuminatum Vadell & Cavender, 1998 SPECIES
 
 #### Status
 ACCEPTED

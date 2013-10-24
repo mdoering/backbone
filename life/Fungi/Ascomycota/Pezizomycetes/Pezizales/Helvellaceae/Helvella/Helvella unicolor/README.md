@@ -1,5 +1,4 @@
-Helvella unicolor (Boud.) Dissing SPECIES
-=======
+# Helvella unicolor (Boud.) Dissing SPECIES
 
 #### Status
 ACCEPTED

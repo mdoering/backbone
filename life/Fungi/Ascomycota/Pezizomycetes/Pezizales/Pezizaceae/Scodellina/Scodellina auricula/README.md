@@ -1,5 +1,4 @@
-Scodellina auricula (Schaeff.) Seaver SPECIES
-=======
+# Scodellina auricula (Schaeff.) Seaver SPECIES
 
 #### Status
 ACCEPTED

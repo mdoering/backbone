@@ -1,5 +1,4 @@
-Peziza ciliata Hoffm. SPECIES
-=======
+# Peziza ciliata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

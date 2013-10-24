@@ -1,5 +1,4 @@
-Valsa tumidula Cooke & Peck SPECIES
-=======
+# Valsa tumidula Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

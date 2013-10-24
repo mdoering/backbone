@@ -1,17 +1,16 @@
-Lecidea fossarum Dufour SPECIES
-=======
+# Biatorella hemisphaerica Anzi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Fries, Lich. eur. reform. (Lund) 264 (1831)
+Catal. Lich. Sondr. 78 (1860)
 
 #### Original name
-Lecidea fossarum Dufour
+Biatorella hemisphaerica Anzi
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Polyporus neaniscus Berk. SPECIES
-=======
+# Polyporus neaniscus Berk. SPECIES
 
 #### Status
 ACCEPTED

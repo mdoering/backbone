@@ -1,5 +1,4 @@
-Bremia leibnitziae J.F. Tao & Y. Qin SPECIES
-=======
+# Bremia leibnitziae J.F. Tao & Y. Qin SPECIES
 
 #### Status
 ACCEPTED

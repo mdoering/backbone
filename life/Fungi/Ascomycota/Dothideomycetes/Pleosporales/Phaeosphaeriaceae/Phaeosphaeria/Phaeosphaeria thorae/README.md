@@ -1,5 +1,4 @@
-Phaeosphaeria thorae (Jaap) Ahn & Shearer SPECIES
-=======
+# Phaeosphaeria thorae (Jaap) Ahn & Shearer SPECIES
 
 #### Status
 ACCEPTED

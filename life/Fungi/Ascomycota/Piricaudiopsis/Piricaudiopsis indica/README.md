@@ -1,5 +1,4 @@
-Piricaudiopsis indica Sureshk., Sharath, Kunwar & Manohar. SPECIES
-=======
+# Piricaudiopsis indica Sureshk., Sharath, Kunwar & Manohar. SPECIES
 
 #### Status
 ACCEPTED

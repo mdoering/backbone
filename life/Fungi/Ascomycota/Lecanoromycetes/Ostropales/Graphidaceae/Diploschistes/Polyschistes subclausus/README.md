@@ -1,5 +1,4 @@
-Polyschistes subclausus J. Steiner SPECIES
-=======
+# Polyschistes subclausus J. Steiner SPECIES
 
 #### Status
 ACCEPTED

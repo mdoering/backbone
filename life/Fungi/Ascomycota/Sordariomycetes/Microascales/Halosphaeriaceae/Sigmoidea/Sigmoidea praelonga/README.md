@@ -1,5 +1,4 @@
-Sigmoidea praelonga Marvanová SPECIES
-=======
+# Sigmoidea praelonga Marvanová SPECIES
 
 #### Status
 ACCEPTED

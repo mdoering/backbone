@@ -1,5 +1,4 @@
-Hendersonia sphaerosperma Berk. & M.A. Curtis SPECIES
-=======
+# Hendersonia sphaerosperma Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

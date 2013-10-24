@@ -1,5 +1,4 @@
-Globigerina inflata (d'Orbigny) SPECIES
-=======
+# Globigerina inflata (d'Orbigny) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sabouraudites rivalieri Vanbreus. SPECIES
-=======
+# Sabouraudites rivalieri Vanbreus. SPECIES
 
 #### Status
 ACCEPTED

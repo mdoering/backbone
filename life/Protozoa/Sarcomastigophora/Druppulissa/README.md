@@ -1,5 +1,4 @@
-Druppulissa Haeckel, 1887 GENUS
-=======
+# Druppulissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

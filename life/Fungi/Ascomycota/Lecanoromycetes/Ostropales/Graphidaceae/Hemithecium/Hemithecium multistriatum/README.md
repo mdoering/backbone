@@ -1,5 +1,4 @@
-Hemithecium multistriatum (Müll. Arg.) Chitale & Makhija SPECIES
-=======
+# Hemithecium multistriatum (Müll. Arg.) Chitale & Makhija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladobotryum terrigenum P. Karst. SPECIES
-=======
+# Cladobotryum terrigenum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

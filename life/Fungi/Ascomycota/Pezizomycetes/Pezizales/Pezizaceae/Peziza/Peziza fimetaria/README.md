@@ -1,5 +1,4 @@
-Peziza fimetaria Fr. SPECIES
-=======
+# Peziza fimetaria Fr. SPECIES
 
 #### Status
 ACCEPTED

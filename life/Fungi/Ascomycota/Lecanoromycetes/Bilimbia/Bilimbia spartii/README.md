@@ -1,5 +1,4 @@
-Bilimbia spartii Jatta SPECIES
-=======
+# Bilimbia spartii Jatta SPECIES
 
 #### Status
 ACCEPTED

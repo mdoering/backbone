@@ -1,17 +1,16 @@
-Agaricus mutilus var. mutilus VARIETY
-=======
+# Omphalina mutila (Fr.) P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 43: 180 (1960)
 
 #### Original name
-null
+Agaricus mutilus Fr., 1821
 
 ### Remarks
 null

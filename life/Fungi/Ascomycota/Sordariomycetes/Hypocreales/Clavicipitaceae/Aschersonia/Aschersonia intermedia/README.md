@@ -1,5 +1,4 @@
-Aschersonia intermedia Petch SPECIES
-=======
+# Aschersonia intermedia Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta actinidiae Ablak. & Koval SPECIES
-=======
+# Phyllosticta actinidiae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

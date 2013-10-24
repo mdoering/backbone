@@ -1,5 +1,4 @@
-Pluteus umbonatus Lloyd SPECIES
-=======
+# Pluteus umbonatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

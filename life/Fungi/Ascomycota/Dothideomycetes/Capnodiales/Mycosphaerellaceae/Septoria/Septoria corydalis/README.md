@@ -1,5 +1,4 @@
-Septoria corydalis Ellis & Davis SPECIES
-=======
+# Septoria corydalis Ellis & Davis SPECIES
 
 #### Status
 ACCEPTED

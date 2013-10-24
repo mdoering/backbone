@@ -1,5 +1,4 @@
-Hebeloma aberrans Singer SPECIES
-=======
+# Hebeloma aberrans Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Conocybe subcrispa (Murrill) Singer SPECIES
-=======
+# Conocybe subcrispa (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

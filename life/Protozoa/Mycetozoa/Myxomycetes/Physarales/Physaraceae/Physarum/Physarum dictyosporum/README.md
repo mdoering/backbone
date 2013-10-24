@@ -1,5 +1,4 @@
-Physarum dictyosporum G.W. Martin, 1962 SPECIES
-=======
+# Physarum dictyosporum G.W. Martin, 1962 SPECIES
 
 #### Status
 ACCEPTED

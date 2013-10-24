@@ -1,5 +1,4 @@
-Anoplophrya tchadovi Puytorac, 1958 SPECIES
-=======
+# Anoplophrya tchadovi Puytorac, 1958 SPECIES
 
 #### Status
 ACCEPTED

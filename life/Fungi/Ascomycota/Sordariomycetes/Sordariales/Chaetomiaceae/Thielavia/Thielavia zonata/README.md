@@ -1,5 +1,4 @@
-Thielavia zonata C. Booth SPECIES
-=======
+# Thielavia zonata C. Booth SPECIES
 
 #### Status
 ACCEPTED

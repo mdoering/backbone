@@ -1,5 +1,4 @@
-Leptothyrium alni Zeller SPECIES
-=======
+# Leptothyrium alni Zeller SPECIES
 
 #### Status
 ACCEPTED

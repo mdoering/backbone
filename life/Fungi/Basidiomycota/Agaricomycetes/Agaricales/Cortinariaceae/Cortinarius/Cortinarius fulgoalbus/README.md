@@ -1,5 +1,4 @@
-Cortinarius fulgoalbus Rob. Henry SPECIES
-=======
+# Cortinarius fulgoalbus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

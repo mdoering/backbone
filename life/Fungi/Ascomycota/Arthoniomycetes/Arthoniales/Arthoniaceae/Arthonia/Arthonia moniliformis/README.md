@@ -1,5 +1,4 @@
-Arthonia moniliformis Nyl. SPECIES
-=======
+# Arthonia moniliformis Nyl. SPECIES
 
 #### Status
 ACCEPTED

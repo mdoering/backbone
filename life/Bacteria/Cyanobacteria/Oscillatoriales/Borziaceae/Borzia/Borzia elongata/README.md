@@ -1,5 +1,4 @@
-Borzia elongata K.K. Baker, G.M.L. Patterson & M. Ikagawa SPECIES
-=======
+# Borzia elongata K.K. Baker, G.M.L. Patterson & M. Ikagawa SPECIES
 
 #### Status
 ACCEPTED

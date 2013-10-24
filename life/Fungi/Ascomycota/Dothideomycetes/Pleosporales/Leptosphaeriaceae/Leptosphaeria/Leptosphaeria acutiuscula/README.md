@@ -1,5 +1,4 @@
-Leptosphaeria acutiuscula Berl., 1892 SPECIES
-=======
+# Leptosphaeria acutiuscula Berl., 1892 SPECIES
 
 #### Status
 ACCEPTED

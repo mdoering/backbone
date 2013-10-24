@@ -1,5 +1,4 @@
-Verrucaria kondaensis SPECIES
-=======
+# Verrucaria kondaensis SPECIES
 
 #### Status
 ACCEPTED

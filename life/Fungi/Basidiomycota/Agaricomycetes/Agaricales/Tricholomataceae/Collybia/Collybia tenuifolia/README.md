@@ -1,5 +1,4 @@
-Collybia tenuifolia (Murrill) Murrill SPECIES
-=======
+# Collybia tenuifolia (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

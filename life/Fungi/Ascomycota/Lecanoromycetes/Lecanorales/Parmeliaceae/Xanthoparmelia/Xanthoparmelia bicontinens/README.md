@@ -1,5 +1,4 @@
-Xanthoparmelia bicontinens Elix & T. H. Nash SPECIES
-=======
+# Xanthoparmelia bicontinens Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

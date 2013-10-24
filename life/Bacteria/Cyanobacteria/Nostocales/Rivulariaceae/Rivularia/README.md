@@ -1,14 +1,13 @@
-Ainactis Kützing, 1843 GENUS
-=======
+# Rivularia C.A. Agardh ex É. Bornet & C. Flahault, 1886 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Phycol. Gener. , p. 237.
+Ann. Sci. Nat. Bot. , ser. 7, 4: 345.
 
 #### Original name
 null

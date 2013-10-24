@@ -1,5 +1,4 @@
-Rosellinia macrosperma Speg. SPECIES
-=======
+# Rosellinia macrosperma Speg. SPECIES
 
 #### Status
 ACCEPTED

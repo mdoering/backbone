@@ -1,17 +1,16 @@
-Sphaeridium cubensis R.F. Castañeda SPECIES
-=======
+# Yuccamyces cubensis (R.F. Castañeda) R.F. Castañeda, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Waterloo Biol. Ser. 35: 122 (1991)
 
 #### Original name
-Sphaeridium cubensis R.F. Castañeda
+Sphaeridium cubense R.F. Castañeda, 1985
 
 ### Remarks
 null

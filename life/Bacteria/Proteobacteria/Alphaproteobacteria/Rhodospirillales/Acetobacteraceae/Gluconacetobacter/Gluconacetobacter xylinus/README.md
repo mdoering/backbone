@@ -1,5 +1,4 @@
-Gluconacetobacter xylinus (Brown, 1886) Yamada et al., 1998 SPECIES
-=======
+# Gluconacetobacter xylinus (Brown, 1886) Yamada et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

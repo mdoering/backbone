@@ -1,5 +1,4 @@
-Lecidea testaceolivens Vain. SPECIES
-=======
+# Lecidea testaceolivens Vain. SPECIES
 
 #### Status
 ACCEPTED

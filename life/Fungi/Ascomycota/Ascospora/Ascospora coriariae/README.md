@@ -1,5 +1,4 @@
-Ascospora coriariae (Mont.) Kuntze SPECIES
-=======
+# Ascospora coriariae (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

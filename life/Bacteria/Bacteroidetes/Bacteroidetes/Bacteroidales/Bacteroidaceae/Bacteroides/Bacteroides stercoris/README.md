@@ -1,5 +1,4 @@
-Bacteroides stercoris Johnson et al., 1986 SPECIES
-=======
+# Bacteroides stercoris Johnson et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

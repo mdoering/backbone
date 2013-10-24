@@ -1,11 +1,10 @@
-Peziza crinita subsp. crinita SUBSPECIES
-=======
+# Peziza crinita SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+NUB Generator [implicit canonical]
 
 #### Published in
 null

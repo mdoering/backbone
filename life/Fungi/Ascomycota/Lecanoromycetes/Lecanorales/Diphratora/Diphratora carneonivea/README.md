@@ -1,5 +1,4 @@
-Diphratora carneonivea (Anzi) SPECIES
-=======
+# Diphratora carneonivea (Anzi) SPECIES
 
 #### Status
 ACCEPTED

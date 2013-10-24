@@ -1,17 +1,16 @@
-Parmelia minuscula var. applanata VARIETY
-=======
+# Pseudephebe minuscula (Nyl. ex Arnold) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 42: 140 (1977)
 
 #### Original name
-Parmelia minuscula var. applanata
+Imbricaria lanata var. minuscula Arnold
 
 ### Remarks
 null

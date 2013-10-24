@@ -1,5 +1,4 @@
-Sepedonium curvisetum Harz SPECIES
-=======
+# Sepedonium curvisetum Harz SPECIES
 
 #### Status
 ACCEPTED

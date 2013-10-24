@@ -1,5 +1,4 @@
-Paraendothyra Tchernysheva, 1940 GENUS
-=======
+# Paraendothyra Tchernysheva, 1940 GENUS
 
 #### Status
 ACCEPTED

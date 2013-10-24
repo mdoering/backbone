@@ -1,5 +1,4 @@
-Irenopsis nesogordoniae Deighton SPECIES
-=======
+# Irenopsis nesogordoniae Deighton SPECIES
 
 #### Status
 ACCEPTED

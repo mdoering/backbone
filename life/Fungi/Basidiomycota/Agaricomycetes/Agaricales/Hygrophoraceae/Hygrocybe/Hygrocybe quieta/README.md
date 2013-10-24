@@ -1,17 +1,16 @@
-Godfrinia obrussea (Fr.) Herink, 1958 SPECIES
-=======
+# Hygrocybe quieta (Kühner) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sborník severoceského Musea, Historia Naturalis 1: 65 (1958)
+Lilloa 22: 152 (1951)
 
 #### Original name
-Agaricus obrusseus Fr.
+Hygrophorus quietus Kühner, 1947
 
 ### Remarks
 null

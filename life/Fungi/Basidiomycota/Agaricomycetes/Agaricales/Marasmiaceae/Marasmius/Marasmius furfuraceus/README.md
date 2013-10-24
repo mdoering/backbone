@@ -1,5 +1,4 @@
-Marasmius furfuraceus Killerm. SPECIES
-=======
+# Marasmius furfuraceus Killerm. SPECIES
 
 #### Status
 ACCEPTED

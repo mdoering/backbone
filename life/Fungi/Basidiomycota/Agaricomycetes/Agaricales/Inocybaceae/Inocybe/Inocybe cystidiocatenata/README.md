@@ -1,5 +1,4 @@
-Inocybe cystidiocatenata Grgur. SPECIES
-=======
+# Inocybe cystidiocatenata Grgur. SPECIES
 
 #### Status
 ACCEPTED

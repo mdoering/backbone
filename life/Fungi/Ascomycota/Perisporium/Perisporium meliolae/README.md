@@ -1,5 +1,4 @@
-Perisporium meliolae F. Stevens SPECIES
-=======
+# Perisporium meliolae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

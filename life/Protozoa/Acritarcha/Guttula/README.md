@@ -1,5 +1,4 @@
-Guttula Dodekova, 1983 GENUS
-=======
+# Guttula Dodekova, 1983 GENUS
 
 #### Status
 ACCEPTED

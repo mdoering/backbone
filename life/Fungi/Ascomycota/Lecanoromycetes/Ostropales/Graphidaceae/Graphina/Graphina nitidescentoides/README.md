@@ -1,5 +1,4 @@
-Graphina nitidescentoides Fink SPECIES
-=======
+# Graphina nitidescentoides Fink SPECIES
 
 #### Status
 ACCEPTED

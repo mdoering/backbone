@@ -1,5 +1,4 @@
-Ceriomyces tabacinus (Peck) Murrill SPECIES
-=======
+# Ceriomyces tabacinus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

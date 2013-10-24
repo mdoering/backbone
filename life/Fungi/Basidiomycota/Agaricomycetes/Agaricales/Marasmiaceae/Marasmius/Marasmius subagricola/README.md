@@ -1,5 +1,4 @@
-Marasmius subagricola (Murrill) Singer SPECIES
-=======
+# Marasmius subagricola (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

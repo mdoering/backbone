@@ -1,5 +1,4 @@
-Methanohalophilus mahii Paterek & Smith, 1988 SPECIES
-=======
+# Methanohalophilus mahii Paterek & Smith, 1988 SPECIES
 
 #### Status
 ACCEPTED

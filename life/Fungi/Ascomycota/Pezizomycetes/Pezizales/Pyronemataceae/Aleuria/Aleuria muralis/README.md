@@ -1,5 +1,4 @@
-Aleuria muralis Losa SPECIES
-=======
+# Aleuria muralis Losa SPECIES
 
 #### Status
 ACCEPTED

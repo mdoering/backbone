@@ -1,5 +1,4 @@
-Ophiobolus maritimus (Sacc.) Sacc. SPECIES
-=======
+# Ophiobolus maritimus (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

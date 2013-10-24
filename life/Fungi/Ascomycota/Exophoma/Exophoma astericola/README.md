@@ -1,5 +1,4 @@
-Exophoma astericola Tehon & G.L. Stout SPECIES
-=======
+# Exophoma astericola Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

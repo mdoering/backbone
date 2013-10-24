@@ -1,5 +1,4 @@
-Lichen fraudulentus G.F. Gmel. SPECIES
-=======
+# Lichen fraudulentus G.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

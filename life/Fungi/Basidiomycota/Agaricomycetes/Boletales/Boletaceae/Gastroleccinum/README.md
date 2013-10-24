@@ -1,5 +1,4 @@
-Gastroleccinum Thiers GENUS
-=======
+# Gastroleccinum Thiers GENUS
 
 #### Status
 ACCEPTED

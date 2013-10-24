@@ -1,5 +1,4 @@
-Panaeolus lerchenfeldii (Schulzer) Sacc. SPECIES
-=======
+# Panaeolus lerchenfeldii (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

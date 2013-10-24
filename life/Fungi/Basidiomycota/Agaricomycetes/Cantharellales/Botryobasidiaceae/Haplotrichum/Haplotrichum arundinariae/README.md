@@ -1,5 +1,4 @@
-Haplotrichum arundinariae Sawada SPECIES
-=======
+# Haplotrichum arundinariae Sawada SPECIES
 
 #### Status
 ACCEPTED

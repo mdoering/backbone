@@ -1,5 +1,4 @@
-Aecidium iridis W.R. Gerard SPECIES
-=======
+# Aecidium iridis W.R. Gerard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaceloma oleanderi Thirum. SPECIES
-=======
+# Sphaceloma oleanderi Thirum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus hibiscus Corner SPECIES
-=======
+# Boletus hibiscus Corner SPECIES
 
 #### Status
 ACCEPTED

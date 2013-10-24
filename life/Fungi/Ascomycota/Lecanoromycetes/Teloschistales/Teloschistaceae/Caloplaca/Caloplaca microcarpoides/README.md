@@ -1,5 +1,4 @@
-Caloplaca microcarpoides Zahlbr. SPECIES
-=======
+# Caloplaca microcarpoides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

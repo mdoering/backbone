@@ -1,5 +1,4 @@
-Stigmidium beringicum Zhurb. & Triebel, 2008 SPECIES
-=======
+# Stigmidium beringicum Zhurb. & Triebel, 2008 SPECIES
 
 #### Status
 ACCEPTED

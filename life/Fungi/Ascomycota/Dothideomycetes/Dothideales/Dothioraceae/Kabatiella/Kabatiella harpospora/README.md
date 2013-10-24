@@ -1,5 +1,4 @@
-Kabatiella harpospora (Bres. & Sacc.) Arx SPECIES
-=======
+# Kabatiella harpospora (Bres. & Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

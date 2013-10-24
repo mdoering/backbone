@@ -1,5 +1,4 @@
-Rinodina deminutula (Stizenb.) Zahlbr. SPECIES
-=======
+# Rinodina deminutula (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

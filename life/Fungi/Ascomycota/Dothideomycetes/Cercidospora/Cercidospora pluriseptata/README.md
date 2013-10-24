@@ -1,5 +1,4 @@
-Cercidospora pluriseptata (Nyl.) Arnold SPECIES
-=======
+# Cercidospora pluriseptata (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scyphidia amoebea Grenfell, 1884 SPECIES
-=======
+# Scyphidia amoebea Grenfell, 1884 SPECIES
 
 #### Status
 ACCEPTED

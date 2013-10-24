@@ -1,5 +1,4 @@
-Phaeosphaeria stipae (Lobik) Tomilin SPECIES
-=======
+# Phaeosphaeria stipae (Lobik) Tomilin SPECIES
 
 #### Status
 ACCEPTED

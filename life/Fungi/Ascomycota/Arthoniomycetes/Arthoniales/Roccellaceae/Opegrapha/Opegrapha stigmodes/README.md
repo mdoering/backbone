@@ -1,5 +1,4 @@
-Opegrapha stigmodes Nyl. SPECIES
-=======
+# Opegrapha stigmodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

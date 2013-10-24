@@ -1,5 +1,4 @@
-Koerberiella infuscata Motyka SPECIES
-=======
+# Koerberiella infuscata Motyka SPECIES
 
 #### Status
 ACCEPTED

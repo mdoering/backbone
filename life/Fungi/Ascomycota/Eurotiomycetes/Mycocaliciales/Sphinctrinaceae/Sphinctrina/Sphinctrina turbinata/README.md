@@ -1,17 +1,16 @@
-Sphinctrina gelasinata var. gelasinata VARIETY
-=======
+# Sphinctrina turbinata (Pers.) De Not. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 1: 654 (1922)
+G. bot. ital. 1(1): 314 (1846)
 
 #### Original name
-Sphinctrina gelasinata var. gelasinata
+Sphaeria turbinata Pers.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phakopsora oplismeni Cummins SPECIES
-=======
+# Phakopsora oplismeni Cummins SPECIES
 
 #### Status
 ACCEPTED

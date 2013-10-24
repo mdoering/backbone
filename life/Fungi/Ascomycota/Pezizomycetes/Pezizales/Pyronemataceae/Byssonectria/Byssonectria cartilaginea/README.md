@@ -1,5 +1,4 @@
-Byssonectria cartilaginea (Kanouse & A.H. Sm.) Pfister SPECIES
-=======
+# Byssonectria cartilaginea (Kanouse & A.H. Sm.) Pfister SPECIES
 
 #### Status
 ACCEPTED

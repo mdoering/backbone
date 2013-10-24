@@ -1,5 +1,4 @@
-Entyloma debeauxii Bubák SPECIES
-=======
+# Entyloma debeauxii Bubák SPECIES
 
 #### Status
 ACCEPTED

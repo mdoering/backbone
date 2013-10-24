@@ -1,5 +1,4 @@
-Syncarpella missionum (Speg.) Theiss. & Syd. SPECIES
-=======
+# Syncarpella missionum (Speg.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

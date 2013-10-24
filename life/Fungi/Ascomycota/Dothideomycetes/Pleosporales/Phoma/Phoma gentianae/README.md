@@ -1,5 +1,4 @@
-Phoma gentianae J.G. Kühn, 1883 SPECIES
-=======
+# Phoma gentianae J.G. Kühn, 1883 SPECIES
 
 #### Status
 ACCEPTED

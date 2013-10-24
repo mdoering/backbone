@@ -1,5 +1,4 @@
-Sphaerella virgaureae Krieg. SPECIES
-=======
+# Sphaerella virgaureae Krieg. SPECIES
 
 #### Status
 ACCEPTED

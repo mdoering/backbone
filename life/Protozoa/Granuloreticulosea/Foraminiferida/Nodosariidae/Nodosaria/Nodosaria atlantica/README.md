@@ -1,5 +1,4 @@
-Nodosaria atlantica SPECIES
-=======
+# Nodosaria atlantica SPECIES
 
 #### Status
 ACCEPTED

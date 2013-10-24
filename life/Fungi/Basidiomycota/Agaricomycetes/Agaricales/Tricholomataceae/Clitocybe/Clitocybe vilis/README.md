@@ -1,5 +1,4 @@
-Clitocybe vilis P. Karst. SPECIES
-=======
+# Clitocybe vilis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

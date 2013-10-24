@@ -1,5 +1,4 @@
-Trichobacidia robinsonii Vain. SPECIES
-=======
+# Trichobacidia robinsonii Vain. SPECIES
 
 #### Status
 ACCEPTED

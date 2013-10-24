@@ -1,5 +1,4 @@
-Tremella verrucosa L. SPECIES
-=======
+# Tremella verrucosa L. SPECIES
 
 #### Status
 ACCEPTED

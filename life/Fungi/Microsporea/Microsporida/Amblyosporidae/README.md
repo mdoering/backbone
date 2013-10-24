@@ -1,5 +1,4 @@
-Amblyosporidae FAMILY
-=======
+# Amblyosporidae FAMILY
 
 #### Status
 ACCEPTED

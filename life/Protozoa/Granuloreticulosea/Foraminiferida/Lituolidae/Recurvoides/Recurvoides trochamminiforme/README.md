@@ -1,8 +1,7 @@
-Cribrostomoides trochamminiforme (Höglund, 1947) SPECIES
-=======
+# Recurvoides trochamminiforme Höglund, 1947 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

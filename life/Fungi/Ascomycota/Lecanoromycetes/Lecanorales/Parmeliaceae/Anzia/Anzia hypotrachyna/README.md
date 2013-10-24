@@ -1,5 +1,4 @@
-Anzia hypotrachyna (Nyl.) Zahlbr. SPECIES
-=======
+# Anzia hypotrachyna (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

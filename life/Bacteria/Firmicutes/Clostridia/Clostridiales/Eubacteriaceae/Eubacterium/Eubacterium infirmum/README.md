@@ -1,5 +1,4 @@
-Eubacterium infirmum Cheeseman et al., 1996 SPECIES
-=======
+# Eubacterium infirmum Cheeseman et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

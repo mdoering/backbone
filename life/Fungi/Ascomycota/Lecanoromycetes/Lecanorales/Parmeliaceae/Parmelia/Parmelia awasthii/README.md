@@ -1,5 +1,4 @@
-Parmelia awasthii (Hale & Patw.) D.D. Awasthi SPECIES
-=======
+# Parmelia awasthii (Hale & Patw.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

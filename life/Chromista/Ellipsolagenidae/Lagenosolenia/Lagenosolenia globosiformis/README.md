@@ -1,5 +1,4 @@
-Lagenosolenia globosiformis McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia globosiformis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

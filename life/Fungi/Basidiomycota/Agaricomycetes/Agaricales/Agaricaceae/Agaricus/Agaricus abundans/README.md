@@ -1,5 +1,4 @@
-Agaricus abundans Peck SPECIES
-=======
+# Agaricus abundans Peck SPECIES
 
 #### Status
 ACCEPTED

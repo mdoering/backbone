@@ -1,5 +1,4 @@
-Patellaria aurantiacofusca SPECIES
-=======
+# Patellaria aurantiacofusca SPECIES
 
 #### Status
 ACCEPTED

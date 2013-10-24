@@ -1,5 +1,4 @@
-Caliptrosphaerites Maslov, 1956 GENUS
-=======
+# Caliptrosphaerites Maslov, 1956 GENUS
 
 #### Status
 ACCEPTED

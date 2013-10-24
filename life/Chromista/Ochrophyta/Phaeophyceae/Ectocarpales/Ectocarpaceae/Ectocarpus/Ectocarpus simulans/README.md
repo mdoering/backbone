@@ -1,5 +1,4 @@
-Ectocarpus simulans Setchell & N.L. Gardner SPECIES
-=======
+# Ectocarpus simulans Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

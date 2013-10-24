@@ -1,5 +1,4 @@
-Xylaria gigantochloae Rehm SPECIES
-=======
+# Xylaria gigantochloae Rehm SPECIES
 
 #### Status
 ACCEPTED

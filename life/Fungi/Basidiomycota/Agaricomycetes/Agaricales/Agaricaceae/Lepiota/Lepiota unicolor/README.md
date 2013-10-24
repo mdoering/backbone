@@ -1,5 +1,4 @@
-Lepiota unicolor Rick SPECIES
-=======
+# Lepiota unicolor Rick SPECIES
 
 #### Status
 ACCEPTED

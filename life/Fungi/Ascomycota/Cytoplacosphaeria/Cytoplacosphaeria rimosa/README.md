@@ -1,5 +1,4 @@
-Cytoplacosphaeria rimosa Petr., 1920 SPECIES
-=======
+# Cytoplacosphaeria rimosa Petr., 1920 SPECIES
 
 #### Status
 ACCEPTED

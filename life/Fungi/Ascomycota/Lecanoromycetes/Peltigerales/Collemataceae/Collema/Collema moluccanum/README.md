@@ -1,5 +1,4 @@
-Collema moluccanum Pers. SPECIES
-=======
+# Collema moluccanum Pers. SPECIES
 
 #### Status
 ACCEPTED

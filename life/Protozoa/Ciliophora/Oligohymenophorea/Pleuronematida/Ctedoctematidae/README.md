@@ -1,5 +1,4 @@
-Ctedoctematidae Small & Lynn, 1985 FAMILY
-=======
+# Ctedoctematidae Small & Lynn, 1985 FAMILY
 
 #### Status
 ACCEPTED

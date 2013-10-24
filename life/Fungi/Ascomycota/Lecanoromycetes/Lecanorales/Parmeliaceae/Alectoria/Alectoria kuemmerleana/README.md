@@ -1,5 +1,4 @@
-Alectoria kuemmerleana Gyeln. SPECIES
-=======
+# Alectoria kuemmerleana Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Escharisphaeridia rudis Davies, 1983 SPECIES
-=======
+# Escharisphaeridia rudis Davies, 1983 SPECIES
 
 #### Status
 ACCEPTED

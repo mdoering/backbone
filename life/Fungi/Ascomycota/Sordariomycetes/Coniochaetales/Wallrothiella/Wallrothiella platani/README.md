@@ -1,5 +1,4 @@
-Wallrothiella platani (Rehm) Kirschst. SPECIES
-=======
+# Wallrothiella platani (Rehm) Kirschst. SPECIES
 
 #### Status
 ACCEPTED

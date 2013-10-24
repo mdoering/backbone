@@ -1,5 +1,4 @@
-Graphium phaeoisaria anon. SPECIES
-=======
+# Graphium phaeoisaria anon. SPECIES
 
 #### Status
 ACCEPTED

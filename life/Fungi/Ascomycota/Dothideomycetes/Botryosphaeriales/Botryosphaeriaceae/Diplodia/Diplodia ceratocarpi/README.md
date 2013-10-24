@@ -1,5 +1,4 @@
-Diplodia ceratocarpi Golovin SPECIES
-=======
+# Diplodia ceratocarpi Golovin SPECIES
 
 #### Status
 ACCEPTED

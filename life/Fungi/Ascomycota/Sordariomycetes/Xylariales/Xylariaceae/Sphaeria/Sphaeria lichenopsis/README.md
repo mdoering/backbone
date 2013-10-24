@@ -1,5 +1,4 @@
-Sphaeria lichenopsis A. Massal. SPECIES
-=======
+# Sphaeria lichenopsis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

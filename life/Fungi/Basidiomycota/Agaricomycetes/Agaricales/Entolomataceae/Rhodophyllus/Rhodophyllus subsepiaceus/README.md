@@ -1,5 +1,4 @@
-Rhodophyllus subsepiaceus Kühner SPECIES
-=======
+# Rhodophyllus subsepiaceus Kühner SPECIES
 
 #### Status
 ACCEPTED

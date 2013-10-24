@@ -1,5 +1,4 @@
-Macrophoma hyalina (Berk. & Broome) Berl. & Voglino SPECIES
-=======
+# Macrophoma hyalina (Berk. & Broome) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

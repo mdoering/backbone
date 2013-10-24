@@ -1,17 +1,16 @@
-Aspicilia subimmersa subsp. subimmersa SUBSPECIES
-=======
+# Lecanora subimmersa (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 32: 124 (1893)
 
 #### Original name
-null
+Lecanora subimmersa (Fée) Vain.
 
 ### Remarks
 null

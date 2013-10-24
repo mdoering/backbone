@@ -1,5 +1,4 @@
-Platystomum obtectum (Peck) Lindau SPECIES
-=======
+# Platystomum obtectum (Peck) Lindau SPECIES
 
 #### Status
 ACCEPTED

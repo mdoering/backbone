@@ -1,5 +1,4 @@
-Asterina suttoniae F. Stevens & R.W. Ryan SPECIES
-=======
+# Asterina suttoniae F. Stevens & R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

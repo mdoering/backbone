@@ -1,5 +1,4 @@
-Meliola malangasensis Hansf. SPECIES
-=======
+# Meliola malangasensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

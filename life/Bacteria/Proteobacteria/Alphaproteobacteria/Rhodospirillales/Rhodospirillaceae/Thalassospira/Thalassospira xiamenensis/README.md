@@ -1,5 +1,4 @@
-Thalassospira xiamenensis Liu, Wu, Li, Ma & Shao, 2007 SPECIES
-=======
+# Thalassospira xiamenensis Liu, Wu, Li, Ma & Shao, 2007 SPECIES
 
 #### Status
 ACCEPTED

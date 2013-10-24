@@ -1,5 +1,4 @@
-Metasphaeria papulosa f. papulosa FORM
-=======
+# Oletheriostrigula papulosa (Durieu & Mont.) Huhndorf & R.C. Harris SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Syll. fung. (Abellini) 2: 168 (1883)
+Brittonia 48(4): 551 (1996)
 
 #### Original name
-Metasphaeria papulosa f. papulosa
+Sphaeria papulosa Durieu & Mont.
 
 ### Remarks
 null

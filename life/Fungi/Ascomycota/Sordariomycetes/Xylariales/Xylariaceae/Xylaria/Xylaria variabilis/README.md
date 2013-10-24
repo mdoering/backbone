@@ -1,5 +1,4 @@
-Xylaria variabilis Welw. & Curr. SPECIES
-=======
+# Xylaria variabilis Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

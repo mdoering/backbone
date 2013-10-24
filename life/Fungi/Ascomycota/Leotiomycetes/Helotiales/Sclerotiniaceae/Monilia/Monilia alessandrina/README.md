@@ -1,5 +1,4 @@
-Monilia alessandrina Panay. SPECIES
-=======
+# Monilia alessandrina Panay. SPECIES
 
 #### Status
 ACCEPTED

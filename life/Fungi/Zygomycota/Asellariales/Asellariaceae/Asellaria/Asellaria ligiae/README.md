@@ -1,5 +1,4 @@
-Asellaria ligiae Tuzet & Manier ex Manier, 1968 SPECIES
-=======
+# Asellaria ligiae Tuzet & Manier ex Manier, 1968 SPECIES
 
 #### Status
 ACCEPTED

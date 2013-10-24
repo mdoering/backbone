@@ -1,5 +1,4 @@
-Polyporus pediformis Fr. SPECIES
-=======
+# Polyporus pediformis Fr. SPECIES
 
 #### Status
 ACCEPTED

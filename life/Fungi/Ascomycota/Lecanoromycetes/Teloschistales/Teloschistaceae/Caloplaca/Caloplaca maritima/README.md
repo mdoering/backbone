@@ -1,5 +1,4 @@
-Caloplaca maritima (B. de Lesd.) B. de Lesd. SPECIES
-=======
+# Caloplaca maritima (B. de Lesd.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

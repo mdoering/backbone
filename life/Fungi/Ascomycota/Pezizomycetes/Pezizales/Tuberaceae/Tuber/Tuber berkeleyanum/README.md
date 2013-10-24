@@ -1,5 +1,4 @@
-Tuber berkeleyanum (Corda) Tul. SPECIES
-=======
+# Tuber berkeleyanum (Corda) Tul. SPECIES
 
 #### Status
 ACCEPTED

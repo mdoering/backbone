@@ -1,5 +1,4 @@
-Lecidea dendroclinis Nyl. SPECIES
-=======
+# Lecidea dendroclinis Nyl. SPECIES
 
 #### Status
 ACCEPTED

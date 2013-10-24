@@ -1,5 +1,4 @@
-Thelidium corticola H. Magn. SPECIES
-=======
+# Thelidium corticola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

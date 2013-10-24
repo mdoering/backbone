@@ -1,5 +1,4 @@
-Oospora circinans (Bonord.) Sacc. & Voglino SPECIES
-=======
+# Oospora circinans (Bonord.) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

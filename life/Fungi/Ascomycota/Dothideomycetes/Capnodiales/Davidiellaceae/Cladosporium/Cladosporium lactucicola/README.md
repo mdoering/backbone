@@ -1,5 +1,4 @@
-Cladosporium lactucicola Y. Cui & Z.Y. Zhang SPECIES
-=======
+# Cladosporium lactucicola Y. Cui & Z.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

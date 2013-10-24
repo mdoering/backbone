@@ -1,5 +1,4 @@
-Biscutum depravatus SPECIES
-=======
+# Biscutum depravatus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum pulchrum (Schwein.) Cooke SPECIES
-=======
+# Stereum pulchrum (Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

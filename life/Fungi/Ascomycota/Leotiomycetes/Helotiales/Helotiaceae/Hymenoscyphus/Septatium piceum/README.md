@@ -1,5 +1,4 @@
-Septatium piceum Velen. SPECIES
-=======
+# Septatium piceum Velen. SPECIES
 
 #### Status
 ACCEPTED

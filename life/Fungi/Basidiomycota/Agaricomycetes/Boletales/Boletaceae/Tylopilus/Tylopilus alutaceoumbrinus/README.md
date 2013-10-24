@@ -1,17 +1,16 @@
-Tylopilus alutaceo-umbrinus Hongo SPECIES
-=======
+# Tylopilus alutaceoumbrinus Hongo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Memoirs of Shiga University 21: 66 (1971)
 
 #### Original name
-Tylopilus alutaceo-umbrinus Hongo
+Tylopilus alutaceoumbrinus Hongo
 
 ### Remarks
 null

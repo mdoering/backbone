@@ -1,5 +1,4 @@
-Leiopoda cyathea Velen. SPECIES
-=======
+# Leiopoda cyathea Velen. SPECIES
 
 #### Status
 ACCEPTED

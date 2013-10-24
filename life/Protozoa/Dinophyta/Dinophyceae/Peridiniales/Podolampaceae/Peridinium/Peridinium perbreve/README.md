@@ -1,5 +1,4 @@
-Peridinium perbreve SPECIES
-=======
+# Peridinium perbreve SPECIES
 
 #### Status
 ACCEPTED

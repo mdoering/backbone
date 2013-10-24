@@ -1,5 +1,4 @@
-Puccinia paullula f. sp FORM
-=======
+# Puccinia paullula Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Mycol. Res. 95: 676 (1991)
+Philipp. J. Sci. , C, Bot. 8(3): 195 (1913)
 
 #### Original name
-Puccinia paullula f. sp
+Puccinia paullula Syd. & P. Syd.
 
 ### Remarks
 null

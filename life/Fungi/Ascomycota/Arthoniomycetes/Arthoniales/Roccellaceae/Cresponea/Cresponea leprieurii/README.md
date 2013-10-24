@@ -1,5 +1,4 @@
-Lecanactis leprieurii f. leprieurii FORM
-=======
+# Cresponea leprieurii (Mont.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 48: 317 (1993)
 
 #### Original name
-Lecanactis leprieurii f. leprieurii
+Lecidea leprieurii Mont.
 
 ### Remarks
 null

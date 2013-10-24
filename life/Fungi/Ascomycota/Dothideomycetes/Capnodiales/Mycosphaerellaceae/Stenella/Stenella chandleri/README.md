@@ -1,5 +1,4 @@
-Stenella chandleri (Hansf.) Suj. Singh & Kamal SPECIES
-=======
+# Stenella chandleri (Hansf.) Suj. Singh & Kamal SPECIES
 
 #### Status
 ACCEPTED

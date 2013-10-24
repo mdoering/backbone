@@ -1,5 +1,4 @@
-Metasphaeria agminalis (Lév.) Sacc. SPECIES
-=======
+# Metasphaeria agminalis (Lév.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

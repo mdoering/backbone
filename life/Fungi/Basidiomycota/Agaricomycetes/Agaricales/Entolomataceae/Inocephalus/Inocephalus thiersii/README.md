@@ -1,5 +1,4 @@
-Inocephalus thiersii (Largent) Largent SPECIES
-=======
+# Inocephalus thiersii (Largent) Largent SPECIES
 
 #### Status
 ACCEPTED

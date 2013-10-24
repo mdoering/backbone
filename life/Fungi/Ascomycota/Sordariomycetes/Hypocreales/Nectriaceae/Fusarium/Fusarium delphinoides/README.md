@@ -1,5 +1,4 @@
-Fusarium delphinoides Schroers, Summerb., O'Donnell & Lampr. SPECIES
-=======
+# Fusarium delphinoides Schroers, Summerb., O'Donnell & Lampr. SPECIES
 
 #### Status
 ACCEPTED

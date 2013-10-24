@@ -1,5 +1,4 @@
-Diplodina allii-flavi Bubák SPECIES
-=======
+# Diplodina allii-flavi Bubák SPECIES
 
 #### Status
 ACCEPTED

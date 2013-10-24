@@ -1,5 +1,4 @@
-Rhinocladium lignicola (Sacc.) S. Hughes SPECIES
-=======
+# Rhinocladium lignicola (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria nonensis Stirt. SPECIES
-=======
+# Verrucaria nonensis Stirt. SPECIES
 
 #### Status
 ACCEPTED

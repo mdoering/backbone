@@ -1,5 +1,4 @@
-Sticta homalosticta (Vain.) Zahlbr. SPECIES
-=======
+# Sticta homalosticta (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

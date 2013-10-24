@@ -1,8 +1,7 @@
-Phyllachora innumerella Syd., 1939 SPECIES
-=======
+# Phyllachora brachystegiae Doidge, 1924 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

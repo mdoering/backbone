@@ -1,5 +1,4 @@
-Coprinopsis neolagopus (Hongo & Sagara) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis neolagopus (Hongo & Sagara) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

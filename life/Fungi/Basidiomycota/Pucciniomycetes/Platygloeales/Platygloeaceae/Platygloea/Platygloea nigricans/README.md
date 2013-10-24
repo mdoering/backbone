@@ -1,14 +1,13 @@
-Tremella nigricans (Fr.) Sacc., 1888 SPECIES
-=======
+# Platygloea nigricans (Fr.) J. Schröt., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(1724): 384 (1887)
 
 #### Original name
 Tremella nigricans (Fr.) Sacc., 1888

@@ -1,5 +1,4 @@
-Cercospora lythracearum var. lythracearum Heald & F.A. Wolf VARIETY
-=======
+# Cercospora lythracearum Heald & F.A. Wolf SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 3(1): 28 (1911)
 
 #### Original name
-Cercospora lythracearum var. lythracearum Heald & F.A. Wolf
+Cercospora lythracearum Heald & F.A. Wolf
 
 ### Remarks
 null

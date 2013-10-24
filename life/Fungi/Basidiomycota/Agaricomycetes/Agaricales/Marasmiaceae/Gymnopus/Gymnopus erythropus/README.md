@@ -1,17 +1,16 @@
-Agaricus erythropus var. erythropus VARIETY
-=======
+# Gymnopus erythropus (Pers.) Antonín, Halling & Noordel., 1997 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 63: 364 (1997)
 
 #### Original name
-null
+Agaricus erythropus Pers., 1801
 
 ### Remarks
 null

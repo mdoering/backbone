@@ -1,5 +1,4 @@
-Irenina sepulta (Pat.) F. Stevens SPECIES
-=======
+# Irenina sepulta (Pat.) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

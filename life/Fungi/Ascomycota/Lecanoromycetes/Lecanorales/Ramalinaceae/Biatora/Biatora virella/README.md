@@ -1,5 +1,4 @@
-Biatora virella Tuck. SPECIES
-=======
+# Biatora virella Tuck. SPECIES
 
 #### Status
 ACCEPTED

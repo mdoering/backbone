@@ -1,5 +1,4 @@
-Ganoderma lignosum Pat. SPECIES
-=======
+# Ganoderma lignosum Pat. SPECIES
 
 #### Status
 ACCEPTED

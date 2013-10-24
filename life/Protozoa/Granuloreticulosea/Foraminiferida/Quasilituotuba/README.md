@@ -1,5 +1,4 @@
-Quasilituotuba Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
-=======
+# Quasilituotuba Brazhnikova in Aisenverg & Sergeeva, 1983 GENUS
 
 #### Status
 ACCEPTED

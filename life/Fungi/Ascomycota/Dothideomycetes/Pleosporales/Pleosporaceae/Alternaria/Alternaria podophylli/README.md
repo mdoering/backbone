@@ -1,5 +1,4 @@
-Alternaria podophylli (Ellis & Everh.) P. Joly SPECIES
-=======
+# Alternaria podophylli (Ellis & Everh.) P. Joly SPECIES
 
 #### Status
 ACCEPTED

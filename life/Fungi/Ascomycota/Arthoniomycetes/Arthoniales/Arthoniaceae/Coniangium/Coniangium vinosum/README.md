@@ -1,5 +1,4 @@
-Coniangium vinosum A. Massal. SPECIES
-=======
+# Coniangium vinosum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudocercospora odinae Sarbajna SPECIES
-=======
+# Pseudocercospora odinae Sarbajna SPECIES
 
 #### Status
 ACCEPTED

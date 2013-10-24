@@ -1,5 +1,4 @@
-Verrucaria subalbicans Leight. SPECIES
-=======
+# Verrucaria subalbicans Leight. SPECIES
 
 #### Status
 ACCEPTED

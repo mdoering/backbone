@@ -1,5 +1,4 @@
-Caripia sprucei (Massee) Kuntze SPECIES
-=======
+# Caripia sprucei (Massee) Kuntze SPECIES
 
 #### Status
 ACCEPTED

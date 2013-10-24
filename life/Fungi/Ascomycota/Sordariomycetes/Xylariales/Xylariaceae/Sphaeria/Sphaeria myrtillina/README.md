@@ -1,5 +1,4 @@
-Sphaeria myrtillina Ficinus & C. Schub. SPECIES
-=======
+# Sphaeria myrtillina Ficinus & C. Schub. SPECIES
 
 #### Status
 ACCEPTED

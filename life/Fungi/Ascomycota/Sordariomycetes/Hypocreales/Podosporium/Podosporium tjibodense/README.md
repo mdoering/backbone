@@ -1,5 +1,4 @@
-Podosporium tjibodense Penz. & Sacc. SPECIES
-=======
+# Podosporium tjibodense Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

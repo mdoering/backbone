@@ -1,5 +1,4 @@
-Vorticella rubristigma Kellicott, 1888 SPECIES
-=======
+# Vorticella rubristigma Kellicott, 1888 SPECIES
 
 #### Status
 ACCEPTED

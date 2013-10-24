@@ -1,5 +1,4 @@
-Dothiorella ornella (Sacc.) Höhn. SPECIES
-=======
+# Dothiorella ornella (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

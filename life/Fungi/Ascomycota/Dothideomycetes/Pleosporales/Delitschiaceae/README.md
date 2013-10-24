@@ -1,5 +1,4 @@
-Delitschiaceae M.E. Barr FAMILY
-=======
+# Delitschiaceae M.E. Barr FAMILY
 
 #### Status
 ACCEPTED

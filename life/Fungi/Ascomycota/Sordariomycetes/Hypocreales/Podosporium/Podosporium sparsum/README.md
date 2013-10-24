@@ -1,5 +1,4 @@
-Podosporium sparsum (Berk. & Broome) Petch SPECIES
-=======
+# Podosporium sparsum (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

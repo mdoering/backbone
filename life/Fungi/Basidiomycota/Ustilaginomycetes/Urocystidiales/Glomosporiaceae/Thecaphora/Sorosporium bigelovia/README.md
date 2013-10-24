@@ -1,5 +1,4 @@
-Sorosporium bigelovia Griffiths SPECIES
-=======
+# Sorosporium bigelovia Griffiths SPECIES
 
 #### Status
 ACCEPTED

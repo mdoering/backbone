@@ -1,5 +1,4 @@
-Aeromonas bestiarum Ali et al., 1996 SPECIES
-=======
+# Aeromonas bestiarum Ali et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

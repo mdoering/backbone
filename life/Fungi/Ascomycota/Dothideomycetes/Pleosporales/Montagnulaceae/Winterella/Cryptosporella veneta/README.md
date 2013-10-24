@@ -1,5 +1,4 @@
-Cryptosporella veneta (Fuckel) Sacc. SPECIES
-=======
+# Cryptosporella veneta (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

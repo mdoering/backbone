@@ -1,5 +1,4 @@
-Phaeosphaeria humerata Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria humerata Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

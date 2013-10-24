@@ -1,5 +1,4 @@
-Xanthoparmelia ovealmbornii A. Thell, Feuerer, Elix & Kärnefelt SPECIES
-=======
+# Xanthoparmelia ovealmbornii A. Thell, Feuerer, Elix & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

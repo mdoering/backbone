@@ -1,5 +1,4 @@
-Agaricus pseudopsathyra Berk. SPECIES
-=======
+# Agaricus pseudopsathyra Berk. SPECIES
 
 #### Status
 ACCEPTED

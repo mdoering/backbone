@@ -1,5 +1,4 @@
-Desulfobacterium Bak & Widdel, 1988 GENUS
-=======
+# Desulfobacterium Bak & Widdel, 1988 GENUS
 
 #### Status
 ACCEPTED

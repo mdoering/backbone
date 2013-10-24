@@ -1,5 +1,4 @@
-Eualectoria GENUS
-=======
+# Eualectoria GENUS
 
 #### Status
 ACCEPTED

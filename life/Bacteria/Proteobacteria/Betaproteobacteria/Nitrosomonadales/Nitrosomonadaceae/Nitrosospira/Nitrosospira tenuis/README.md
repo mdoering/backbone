@@ -1,11 +1,10 @@
-Nitrosovibrio tenius Harms et al., 1976 SPECIES
-=======
+# Nitrosospira tenuis (ex Harms et al., 1976) Head et al., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

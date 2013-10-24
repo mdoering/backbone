@@ -1,5 +1,4 @@
-Chytridiopsis pachyiuli Granata SPECIES
-=======
+# Chytridiopsis pachyiuli Granata SPECIES
 
 #### Status
 ACCEPTED

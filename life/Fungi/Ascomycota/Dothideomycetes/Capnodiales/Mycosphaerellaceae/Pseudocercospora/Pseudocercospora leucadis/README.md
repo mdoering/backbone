@@ -1,5 +1,4 @@
-Pseudocercospora leucadis (Uppal, Patel & V.P. Bhide) U. Braun SPECIES
-=======
+# Pseudocercospora leucadis (Uppal, Patel & V.P. Bhide) U. Braun SPECIES
 
 #### Status
 ACCEPTED

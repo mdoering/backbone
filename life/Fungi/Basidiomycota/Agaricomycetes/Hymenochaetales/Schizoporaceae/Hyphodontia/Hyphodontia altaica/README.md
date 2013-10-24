@@ -1,17 +1,16 @@
-Kneiffiella altaica (Parmasto) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Hyphodontia altaica Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Consp. System. Corticiac. (Tartu) 211 (1968)
 
 #### Original name
-null
+Hyphodontia altaica Parmasto, 1968
 
 ### Remarks
 null

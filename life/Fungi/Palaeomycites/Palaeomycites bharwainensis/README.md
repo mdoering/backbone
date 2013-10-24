@@ -1,5 +1,4 @@
-Palaeomycites bharwainensis (H.P. Singh & R.K. Saxena) Kalgutkar & Janson. SPECIES
-=======
+# Palaeomycites bharwainensis (H.P. Singh & R.K. Saxena) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

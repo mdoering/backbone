@@ -1,5 +1,4 @@
-Trichopeziza opulifoliae (Schwein.) Sacc. SPECIES
-=======
+# Trichopeziza opulifoliae (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

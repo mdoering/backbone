@@ -1,5 +1,4 @@
-Opegrapha rouxiana Nav.-Ros. & Hladún SPECIES
-=======
+# Opegrapha rouxiana Nav.-Ros. & Hladún SPECIES
 
 #### Status
 ACCEPTED

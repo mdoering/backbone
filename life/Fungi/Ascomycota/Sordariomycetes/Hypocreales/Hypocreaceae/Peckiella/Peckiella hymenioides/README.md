@@ -1,5 +1,4 @@
-Peckiella hymenioides SPECIES
-=======
+# Peckiella hymenioides SPECIES
 
 #### Status
 ACCEPTED

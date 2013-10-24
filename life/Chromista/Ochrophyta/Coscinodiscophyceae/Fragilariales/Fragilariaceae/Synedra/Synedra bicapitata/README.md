@@ -1,5 +1,4 @@
-Synedra bicapitata SPECIES
-=======
+# Synedra bicapitata SPECIES
 
 #### Status
 ACCEPTED

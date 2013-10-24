@@ -1,5 +1,4 @@
-Sambomyces Ciferri & Tomaselli, 1953 GENUS
-=======
+# Sambomyces Ciferri & Tomaselli, 1953 GENUS
 
 #### Status
 ACCEPTED

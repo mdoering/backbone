@@ -1,5 +1,4 @@
-Asterina machili Katum. SPECIES
-=======
+# Asterina machili Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Streblomyces Thaxt. GENUS
-=======
+# Nycteromyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Amer. Acad. Arts & Sci. 55: 211 (1920)
+Proc. Amer. Acad. Arts & Sci. 52: 653 (1917)
 
 #### Original name
-Streblomyces Thaxt.
+Nycteromyces Thaxt.
 
 ### Remarks
 null

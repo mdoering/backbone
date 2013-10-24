@@ -1,11 +1,10 @@
-Agrobacterium sanguineum Ahrens & Rheinheimer, 1968 SPECIES
-=======
+# Porphyrobacter sanguineus (ex Ahrens & Rheinheimer, 1968) Hiraishi et al., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

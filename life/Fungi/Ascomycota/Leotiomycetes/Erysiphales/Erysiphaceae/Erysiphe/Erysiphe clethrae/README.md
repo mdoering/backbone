@@ -1,5 +1,4 @@
-Erysiphe clethrae (U. Braun) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe clethrae (U. Braun) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

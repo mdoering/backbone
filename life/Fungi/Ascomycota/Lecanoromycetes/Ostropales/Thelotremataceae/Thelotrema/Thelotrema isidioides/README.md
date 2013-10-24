@@ -1,14 +1,13 @@
-Dermatocarpon isidioides (Borrer) Mudd SPECIES
-=======
+# Thelotrema isidioides (Borrer) R. Sant. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Lich. 270 (1861)
+in Hawksworth, James & Coppins, Lichenologist 12(1): 108 (1980)
 
 #### Original name
 null

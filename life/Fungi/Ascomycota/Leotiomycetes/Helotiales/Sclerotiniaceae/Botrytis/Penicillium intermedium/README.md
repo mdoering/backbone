@@ -1,5 +1,4 @@
-Penicillium intermedium Stolk & Samson, 1972 SPECIES
-=======
+# Penicillium intermedium Stolk & Samson, 1972 SPECIES
 
 #### Status
 DOUBTFUL

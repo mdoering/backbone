@@ -1,5 +1,4 @@
-Agaricus heterospora Bres. SPECIES
-=======
+# Agaricus heterospora Bres. SPECIES
 
 #### Status
 ACCEPTED

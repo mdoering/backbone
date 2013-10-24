@@ -1,5 +1,4 @@
-Phlegmacium aurantiofulvum (M.M. Moser) M.M. Moser SPECIES
-=======
+# Phlegmacium aurantiofulvum (M.M. Moser) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

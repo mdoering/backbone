@@ -1,5 +1,4 @@
-Biatora porphyroplaca Hinter. & Poelt SPECIES
-=======
+# Biatora porphyroplaca Hinter. & Poelt SPECIES
 
 #### Status
 ACCEPTED

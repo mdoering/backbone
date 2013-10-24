@@ -1,5 +1,4 @@
-Collema venustum Hue SPECIES
-=======
+# Collema venustum Hue SPECIES
 
 #### Status
 ACCEPTED

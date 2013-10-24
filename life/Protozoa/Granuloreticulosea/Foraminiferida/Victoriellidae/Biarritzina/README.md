@@ -1,5 +1,4 @@
-Biarritzina Loeblich & Tappan, 1964 GENUS
-=======
+# Biarritzina Loeblich & Tappan, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora longispora (H. Wegelin) Sacc. SPECIES
-=======
+# Teichospora longispora (H. Wegelin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

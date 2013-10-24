@@ -1,5 +1,4 @@
-Synchytrium pluriannulatum (M.A. Curtis) Farl. SPECIES
-=======
+# Synchytrium pluriannulatum (M.A. Curtis) Farl. SPECIES
 
 #### Status
 ACCEPTED

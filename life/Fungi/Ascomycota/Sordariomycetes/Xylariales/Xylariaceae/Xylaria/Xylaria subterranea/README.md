@@ -1,5 +1,4 @@
-Xylaria subterranea (Schwein.) Sacc. SPECIES
-=======
+# Xylaria subterranea (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium fulgens Hazsl. SPECIES
-=======
+# Aecidium fulgens Hazsl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uncinula oleosa var. oleosa VARIETY
-=======
+# Uncinula oleosa R.Y. Zheng & G.Q. Chen SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Acta microbiol. sin. 17(4): 290 (1977)
 
 #### Original name
-Uncinula oleosa var. oleosa
+Uncinula oleosa R.Y. Zheng & G.Q. Chen
 
 ### Remarks
 null

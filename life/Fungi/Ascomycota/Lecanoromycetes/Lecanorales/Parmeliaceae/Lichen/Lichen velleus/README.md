@@ -1,5 +1,4 @@
-Lichen velleus SPECIES
-=======
+# Lichen velleus SPECIES
 
 #### Status
 ACCEPTED

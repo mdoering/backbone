@@ -1,5 +1,4 @@
-Trachelomonas staszicii Drezepolski SPECIES
-=======
+# Trachelomonas staszicii Drezepolski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum fructigenum Link SPECIES
-=======
+# Sporotrichum fructigenum Link SPECIES
 
 #### Status
 ACCEPTED

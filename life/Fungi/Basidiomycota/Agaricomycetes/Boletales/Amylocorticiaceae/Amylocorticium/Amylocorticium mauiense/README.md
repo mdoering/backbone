@@ -1,5 +1,4 @@
-Amylocorticium mauiense Gilb. & Hemmes, 2004 SPECIES
-=======
+# Amylocorticium mauiense Gilb. & Hemmes, 2004 SPECIES
 
 #### Status
 ACCEPTED

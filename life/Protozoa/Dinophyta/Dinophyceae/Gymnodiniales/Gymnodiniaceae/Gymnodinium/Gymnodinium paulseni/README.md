@@ -1,5 +1,4 @@
-Gymnodinium paulseni Schiller, 1928 SPECIES
-=======
+# Gymnodinium paulseni Schiller, 1928 SPECIES
 
 #### Status
 ACCEPTED

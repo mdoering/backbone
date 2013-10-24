@@ -1,5 +1,4 @@
-Pestalotiopsis antiaris Y.X. Chen & G. Wei SPECIES
-=======
+# Pestalotiopsis antiaris Y.X. Chen & G. Wei SPECIES
 
 #### Status
 ACCEPTED

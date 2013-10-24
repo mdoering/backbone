@@ -1,5 +1,4 @@
-Alectoria spinosa Taylor SPECIES
-=======
+# Alectoria spinosa Taylor SPECIES
 
 #### Status
 ACCEPTED

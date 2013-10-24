@@ -1,5 +1,4 @@
-Puccinia echinophorae Brandenb. & M. Steiner SPECIES
-=======
+# Puccinia echinophorae Brandenb. & M. Steiner SPECIES
 
 #### Status
 ACCEPTED

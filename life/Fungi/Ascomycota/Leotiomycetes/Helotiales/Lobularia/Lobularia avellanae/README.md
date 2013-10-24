@@ -1,5 +1,4 @@
-Lobularia avellanae Velen., 1934 SPECIES
-=======
+# Lobularia avellanae Velen., 1934 SPECIES
 
 #### Status
 ACCEPTED

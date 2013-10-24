@@ -1,5 +1,4 @@
-Scoliciosporum pezizoideum (Naegeli) Arnold SPECIES
-=======
+# Scoliciosporum pezizoideum (Naegeli) Arnold SPECIES
 
 #### Status
 ACCEPTED

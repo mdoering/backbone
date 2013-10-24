@@ -1,17 +1,16 @@
-Sticta dissimulata var. inaequalis Zahlbr. VARIETY
-=======
+# Pseudocyphellaria multifida (Nyl.) D. J. Galloway & P. James SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 12(3): 301 (1980)
 
 #### Original name
-Sticta dissimulata var. inaequalis Zahlbr.
+Sticta multifida (Nyl.) Laurer
 
 ### Remarks
 null

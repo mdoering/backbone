@@ -1,5 +1,4 @@
-Enterographa italica B. de Lesd. SPECIES
-=======
+# Enterographa italica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

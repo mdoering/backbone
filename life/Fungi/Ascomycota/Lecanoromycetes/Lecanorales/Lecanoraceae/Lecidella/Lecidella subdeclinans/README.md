@@ -1,5 +1,4 @@
-Lecidella subdeclinans (Müll. Arg.) Hertel SPECIES
-=======
+# Lecidella subdeclinans (Müll. Arg.) Hertel SPECIES
 
 #### Status
 ACCEPTED

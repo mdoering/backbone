@@ -1,5 +1,4 @@
-Micropeltis aeruginascens Rehm SPECIES
-=======
+# Micropeltis aeruginascens Rehm SPECIES
 
 #### Status
 ACCEPTED

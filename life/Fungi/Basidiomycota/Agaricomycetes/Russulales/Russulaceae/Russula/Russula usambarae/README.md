@@ -1,5 +1,4 @@
-Russula usambarae Buyck SPECIES
-=======
+# Russula usambarae Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella gallae Ellis & Everh. SPECIES
-=======
+# Sphaerella gallae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sinophysis verruculosa Chomérat & Nézan, 2009 SPECIES
-=======
+# Sinophysis verruculosa Chomérat & Nézan, 2009 SPECIES
 
 #### Status
 ACCEPTED

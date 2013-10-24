@@ -1,5 +1,4 @@
-Lentinus berkeleyi (Sacc. & Cub.) Henn. SPECIES
-=======
+# Lentinus berkeleyi (Sacc. & Cub.) Henn. SPECIES
 
 #### Status
 ACCEPTED

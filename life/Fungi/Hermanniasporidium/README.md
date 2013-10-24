@@ -1,5 +1,4 @@
-Hermanniasporidium Thor GENUS
-=======
+# Hermanniasporidium Thor GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthamoeba comandoni Pussard, 1964 SPECIES
-=======
+# Acanthamoeba comandoni Pussard, 1964 SPECIES
 
 #### Status
 ACCEPTED

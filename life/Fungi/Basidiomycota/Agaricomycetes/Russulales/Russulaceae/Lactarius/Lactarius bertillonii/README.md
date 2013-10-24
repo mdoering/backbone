@@ -1,17 +1,16 @@
-Lactarius bertillonii var. boudieri J. Blum VARIETY
-=======
+# Lactarius bertillonii (Neuhoff ex Z. Schaef.) Bon, 1980 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revue Mycol. , Paris 31: 92 (1966)
+Docums Mycol. 10(nos 37-38): 92 (1980)
 
 #### Original name
-Lactarius bertillonii var. boudieri J. Blum
+Lactarius vellereus var. bertillonii Neuhoff ex Z. Schaef., 1979
 
 ### Remarks
 null

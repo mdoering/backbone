@@ -1,5 +1,4 @@
-Wetzeliella symmetrica var. lobiscia G.L. Williams & C. Downie VARIETY
-=======
+# Wetzeliella symmetrica Weiler, 1956 SPECIES
 
 #### Status
 ACCEPTED

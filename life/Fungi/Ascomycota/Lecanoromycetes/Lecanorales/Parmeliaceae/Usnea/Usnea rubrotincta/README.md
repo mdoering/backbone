@@ -1,17 +1,16 @@
-Usnea arida Motyka SPECIES
-=======
+# Usnea rubrotincta Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Usnea 1: 492 (1937)
+Scott. Natural. 6: 103 (1881)
 
 #### Original name
-Usnea arida Motyka
+Usnea rubrotincta Stirt.
 
 ### Remarks
 null

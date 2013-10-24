@@ -1,5 +1,4 @@
-Lactarius rufulus Peck SPECIES
-=======
+# Lactarius rufulus Peck SPECIES
 
 #### Status
 ACCEPTED

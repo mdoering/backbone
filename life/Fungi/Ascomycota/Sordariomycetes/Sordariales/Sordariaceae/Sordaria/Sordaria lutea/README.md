@@ -1,5 +1,4 @@
-Sordaria lutea Ellis & Everh. SPECIES
-=======
+# Sordaria lutea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

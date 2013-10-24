@@ -1,5 +1,4 @@
-Phacidium elegantissimum Berk. & M.A. Curtis SPECIES
-=======
+# Phacidium elegantissimum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

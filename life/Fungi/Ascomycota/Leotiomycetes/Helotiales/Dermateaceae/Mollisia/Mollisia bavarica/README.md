@@ -1,5 +1,4 @@
-Mollisia bavarica Petr. SPECIES
-=======
+# Mollisia bavarica Petr. SPECIES
 
 #### Status
 ACCEPTED

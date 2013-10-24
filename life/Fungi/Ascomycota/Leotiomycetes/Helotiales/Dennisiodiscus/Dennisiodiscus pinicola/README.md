@@ -1,5 +1,4 @@
-Dennisiodiscus pinicola (Graddon) SPECIES
-=======
+# Dennisiodiscus pinicola (Graddon) SPECIES
 
 #### Status
 ACCEPTED

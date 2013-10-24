@@ -1,5 +1,4 @@
-Impagidinium L.E.Stover & W.R.Evitt, 1978 GENUS
-=======
+# Impagidinium L.E.Stover & W.R.Evitt, 1978 GENUS
 
 #### Status
 ACCEPTED

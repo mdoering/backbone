@@ -1,5 +1,4 @@
-Leptorhaphis cinchonarum (Müll. Arg.) Vain. SPECIES
-=======
+# Leptorhaphis cinchonarum (Müll. Arg.) Vain. SPECIES
 
 #### Status
 ACCEPTED

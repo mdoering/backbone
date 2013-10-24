@@ -1,5 +1,4 @@
-Galerina beinrothii Bresinsky SPECIES
-=======
+# Galerina beinrothii Bresinsky SPECIES
 
 #### Status
 ACCEPTED

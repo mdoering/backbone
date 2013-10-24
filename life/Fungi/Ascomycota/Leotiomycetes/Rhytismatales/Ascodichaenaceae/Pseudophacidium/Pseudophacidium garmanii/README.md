@@ -1,5 +1,4 @@
-Pseudophacidium garmanii A. Funk SPECIES
-=======
+# Pseudophacidium garmanii A. Funk SPECIES
 
 #### Status
 ACCEPTED

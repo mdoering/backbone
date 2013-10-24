@@ -1,5 +1,4 @@
-Yoshinagella phyllostachydis I. Hino & Katum., 1954 SPECIES
-=======
+# Yoshinagella phyllostachydis I. Hino & Katum., 1954 SPECIES
 
 #### Status
 ACCEPTED

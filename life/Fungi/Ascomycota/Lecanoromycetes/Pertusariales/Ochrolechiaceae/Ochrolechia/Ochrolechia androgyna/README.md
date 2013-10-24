@@ -1,17 +1,16 @@
-Ochrolechia androgyna f. androgyna FORM
-=======
+# Ochrolechia androgyna (Hoffm.) Arnold SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 68: 236 (1885)
 
 #### Original name
-Ochrolechia androgyna f. androgyna
+Lichen androgynus Hoffm.
 
 ### Remarks
 null

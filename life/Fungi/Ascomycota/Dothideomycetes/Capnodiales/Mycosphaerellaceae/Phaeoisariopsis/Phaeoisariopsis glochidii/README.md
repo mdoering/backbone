@@ -1,5 +1,4 @@
-Phaeoisariopsis glochidii (Petch) M.B. Ellis SPECIES
-=======
+# Phaeoisariopsis glochidii (Petch) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

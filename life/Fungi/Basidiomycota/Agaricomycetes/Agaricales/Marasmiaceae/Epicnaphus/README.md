@@ -1,5 +1,4 @@
-Epicnaphus Singer GENUS
-=======
+# Epicnaphus Singer GENUS
 
 #### Status
 ACCEPTED

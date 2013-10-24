@@ -1,5 +1,4 @@
-Botrytis condensata Sacc. SPECIES
-=======
+# Botrytis condensata Sacc. SPECIES
 
 #### Status
 ACCEPTED

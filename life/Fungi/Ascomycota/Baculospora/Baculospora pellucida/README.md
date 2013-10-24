@@ -1,5 +1,4 @@
-Baculospora pellucida Zukal, 1887 SPECIES
-=======
+# Baculospora pellucida Zukal, 1887 SPECIES
 
 #### Status
 ACCEPTED

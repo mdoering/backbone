@@ -1,8 +1,7 @@
-Litosiphon hibernicus (Johnson) Batters SPECIES
-=======
+# Litosiphon laminariae (Lyngbye) Harvey SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

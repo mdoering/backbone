@@ -1,14 +1,13 @@
-Belonidium ochraceum Grelet & Croz., 1928 SPECIES
-=======
+# Calycellina ochracea (Grelet & Croz.) Dennis, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 44: 366 (1928)
+Persoonia 2(2): 187 (1962)
 
 #### Original name
 Belonidium ochraceum Grelet & Croz., 1928

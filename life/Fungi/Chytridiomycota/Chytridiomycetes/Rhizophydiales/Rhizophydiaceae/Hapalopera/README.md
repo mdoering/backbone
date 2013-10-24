@@ -1,5 +1,4 @@
-Hapalopera GENUS
-=======
+# Hapalopera GENUS
 
 #### Status
 ACCEPTED

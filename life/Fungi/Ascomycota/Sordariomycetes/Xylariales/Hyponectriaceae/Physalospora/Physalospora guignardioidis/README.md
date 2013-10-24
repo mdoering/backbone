@@ -1,5 +1,4 @@
-Physalospora guignardioidis Sacc. SPECIES
-=======
+# Physalospora guignardioidis Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea congdonii Krog SPECIES
-=======
+# Usnea congdonii Krog SPECIES
 
 #### Status
 ACCEPTED

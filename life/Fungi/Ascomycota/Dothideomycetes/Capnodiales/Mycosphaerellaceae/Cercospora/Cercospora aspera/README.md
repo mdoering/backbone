@@ -1,5 +1,4 @@
-Cercospora aspera Pavgi & U.P. Singh SPECIES
-=======
+# Cercospora aspera Pavgi & U.P. Singh SPECIES
 
 #### Status
 ACCEPTED

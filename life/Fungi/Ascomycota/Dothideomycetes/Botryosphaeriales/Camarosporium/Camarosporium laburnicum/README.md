@@ -1,5 +1,4 @@
-Camarosporium laburnicum Sacc. SPECIES
-=======
+# Camarosporium laburnicum Sacc. SPECIES
 
 #### Status
 ACCEPTED

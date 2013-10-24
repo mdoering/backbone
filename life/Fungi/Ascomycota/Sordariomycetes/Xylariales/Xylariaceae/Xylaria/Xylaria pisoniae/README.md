@@ -1,5 +1,4 @@
-Xylaria pisoniae D. Scott, J.D. Rogers & Y.M. Ju, 2001 SPECIES
-=======
+# Xylaria pisoniae D. Scott, J.D. Rogers & Y.M. Ju, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Macrocystis C.A. Agardh, 1820 GENUS
-=======
+# Macrocystis C.A. Agardh, 1820 GENUS
 
 #### Status
 ACCEPTED

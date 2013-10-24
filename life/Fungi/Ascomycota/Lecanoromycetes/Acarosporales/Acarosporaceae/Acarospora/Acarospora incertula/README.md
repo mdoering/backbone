@@ -1,5 +1,4 @@
-Acarospora incertula H. Magn. SPECIES
-=======
+# Acarospora incertula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

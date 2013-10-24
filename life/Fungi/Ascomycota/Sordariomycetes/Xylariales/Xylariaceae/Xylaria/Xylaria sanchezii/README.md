@@ -1,5 +1,4 @@
-Xylaria sanchezii Lloyd SPECIES
-=======
+# Xylaria sanchezii Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Strumella dryophila (Pass.) Sacc. SPECIES
-=======
+# Strumella dryophila (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

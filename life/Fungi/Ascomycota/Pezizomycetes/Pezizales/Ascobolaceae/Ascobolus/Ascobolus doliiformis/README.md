@@ -1,5 +1,4 @@
-Ascobolus doliiformis Kobayasi SPECIES
-=======
+# Ascobolus doliiformis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

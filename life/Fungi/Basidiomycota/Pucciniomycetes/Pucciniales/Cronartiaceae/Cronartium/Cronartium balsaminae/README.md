@@ -1,5 +1,4 @@
-Cronartium balsaminae Niessl SPECIES
-=======
+# Cronartium balsaminae Niessl SPECIES
 
 #### Status
 ACCEPTED

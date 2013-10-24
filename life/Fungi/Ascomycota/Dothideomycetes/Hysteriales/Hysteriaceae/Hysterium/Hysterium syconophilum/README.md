@@ -1,5 +1,4 @@
-Hysterium syconophilum Cooke SPECIES
-=======
+# Hysterium syconophilum Cooke SPECIES
 
 #### Status
 ACCEPTED

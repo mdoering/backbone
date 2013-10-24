@@ -1,14 +1,13 @@
-Poteriochromonas GENUS
-=======
+# Poterioochromonas Scherffel, 1901 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
-null
+Bot. Ztg. , 59, 147.
 
 #### Original name
 null

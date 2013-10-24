@@ -1,5 +1,4 @@
-Puccinia echinopsis DC. SPECIES
-=======
+# Puccinia echinopsis DC. SPECIES
 
 #### Status
 ACCEPTED

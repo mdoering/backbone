@@ -1,5 +1,4 @@
-Canepaia Boltovskoy, 1961 GENUS
-=======
+# Canepaia Boltovskoy, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria dimera Sacc., 1880 SPECIES
-=======
+# Septoria dimera Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

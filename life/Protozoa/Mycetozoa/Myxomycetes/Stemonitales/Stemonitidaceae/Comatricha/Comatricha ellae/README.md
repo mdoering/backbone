@@ -1,17 +1,16 @@
-Comatricha nannengae var. nannengae T.N. Lakh. & Mukerji VARIETY
-=======
+# Comatricha ellae Härk., 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 18(2): 127 (1977)
+Karstenia 18: 23 (1978)
 
 #### Original name
-Comatricha nannengae var. nannengae T.N. Lakh. & Mukerji
+Comatricha ellae Härk., 1978
 
 ### Remarks
 null

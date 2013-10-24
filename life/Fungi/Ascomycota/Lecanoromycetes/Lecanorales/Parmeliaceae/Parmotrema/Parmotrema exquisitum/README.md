@@ -1,5 +1,4 @@
-Parmotrema exquisitum (Kurok.) DePriest & B. W. Hale SPECIES
-=======
+# Parmotrema exquisitum (Kurok.) DePriest & B. W. Hale SPECIES
 
 #### Status
 ACCEPTED

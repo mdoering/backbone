@@ -1,5 +1,4 @@
-Hemithecium fulvescens Adaw. & Makhija SPECIES
-=======
+# Hemithecium fulvescens Adaw. & Makhija SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo mbatobiensis Speg. SPECIES
-=======
+# Uredo mbatobiensis Speg. SPECIES
 
 #### Status
 ACCEPTED

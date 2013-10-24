@@ -1,5 +1,4 @@
-Cortinarius insignis Britzelm. SPECIES
-=======
+# Cortinarius insignis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

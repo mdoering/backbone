@@ -1,17 +1,16 @@
-Dendrogaster fulvus (Rodway) Zeller & C.W. Dodge, 1934 SPECIES
-=======
+# Gymnoglossum fulvum (Rodway) G. Cunn., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+New Zealand J. Sci. Technol. 22: 300 (1941)
 
 #### Original name
-null
+Hymenogaster fulvus Rodway, 1918
 
 ### Remarks
 null

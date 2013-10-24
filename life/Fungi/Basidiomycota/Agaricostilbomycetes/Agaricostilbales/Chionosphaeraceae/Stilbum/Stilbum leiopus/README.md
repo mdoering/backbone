@@ -1,5 +1,4 @@
-Stilbum leiopus Ehrenb. SPECIES
-=======
+# Stilbum leiopus Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

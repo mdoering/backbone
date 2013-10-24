@@ -1,14 +1,13 @@
-Graphis fenicis Vain. SPECIES
-=======
+# Sarcographa fenicis (Vain.) Zahlbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Acad. Sci. fenn. 15(6): 228 (1921)
+Cat. Lich. Univers. 2: 460 (1923)
 
 #### Original name
 Graphis fenicis Vain.

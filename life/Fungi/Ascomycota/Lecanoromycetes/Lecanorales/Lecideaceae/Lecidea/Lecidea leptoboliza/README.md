@@ -1,5 +1,4 @@
-Lecidea leptoboliza Nyl. SPECIES
-=======
+# Lecidea leptoboliza Nyl. SPECIES
 
 #### Status
 ACCEPTED

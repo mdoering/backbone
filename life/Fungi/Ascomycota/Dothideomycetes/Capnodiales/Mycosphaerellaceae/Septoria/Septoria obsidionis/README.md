@@ -1,5 +1,4 @@
-Septoria obsidionis Speg. SPECIES
-=======
+# Septoria obsidionis Speg. SPECIES
 
 #### Status
 ACCEPTED

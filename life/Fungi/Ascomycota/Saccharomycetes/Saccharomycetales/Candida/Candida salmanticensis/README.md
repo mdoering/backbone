@@ -1,14 +1,13 @@
-Torulopsis salmanticensis Santa María, 1963 SPECIES
-=======
+# Candida salmanticensis (Santa María) Uden & H.R. Buckley, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lodder, Mycotaxon 17: 298 (1983)
 
 #### Original name
 null

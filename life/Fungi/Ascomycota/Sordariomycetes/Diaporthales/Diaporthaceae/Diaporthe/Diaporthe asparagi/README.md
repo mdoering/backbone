@@ -1,5 +1,4 @@
-Diaporthe asparagi (Fuckel) Nitschke SPECIES
-=======
+# Diaporthe asparagi (Fuckel) Nitschke SPECIES
 
 #### Status
 ACCEPTED

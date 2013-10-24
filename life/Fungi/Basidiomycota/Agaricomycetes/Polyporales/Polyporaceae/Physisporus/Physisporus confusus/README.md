@@ -1,5 +1,4 @@
-Physisporus confusus P. Karst. SPECIES
-=======
+# Physisporus confusus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

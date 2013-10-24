@@ -1,5 +1,4 @@
-Auricularia leveillei Cooke & Quél. SPECIES
-=======
+# Auricularia leveillei Cooke & Quél. SPECIES
 
 #### Status
 ACCEPTED

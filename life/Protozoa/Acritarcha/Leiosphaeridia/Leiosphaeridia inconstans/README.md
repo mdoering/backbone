@@ -1,5 +1,4 @@
-Leiosphaeridia inconstans Takahashi & Jux, 1982 SPECIES
-=======
+# Leiosphaeridia inconstans Takahashi & Jux, 1982 SPECIES
 
 #### Status
 ACCEPTED

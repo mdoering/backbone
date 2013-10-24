@@ -1,5 +1,4 @@
-Coemansia pectinata. (Coem.) Bainier, 1906 SPECIES
-=======
+# Coemansia pectinata. (Coem.) Bainier, 1906 SPECIES
 
 #### Status
 ACCEPTED

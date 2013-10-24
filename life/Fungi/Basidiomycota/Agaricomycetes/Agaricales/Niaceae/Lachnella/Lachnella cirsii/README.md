@@ -1,5 +1,4 @@
-Lachnella cirsii Velen. SPECIES
-=======
+# Lachnella cirsii Velen. SPECIES
 
 #### Status
 ACCEPTED

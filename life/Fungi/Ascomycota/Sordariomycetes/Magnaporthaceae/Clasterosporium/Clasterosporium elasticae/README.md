@@ -1,5 +1,4 @@
-Clasterosporium elasticae Koord. SPECIES
-=======
+# Clasterosporium elasticae Koord. SPECIES
 
 #### Status
 ACCEPTED

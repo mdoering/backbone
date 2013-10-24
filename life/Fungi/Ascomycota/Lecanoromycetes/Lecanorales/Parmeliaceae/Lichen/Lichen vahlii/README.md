@@ -1,5 +1,4 @@
-Lichen vahlii Retz. SPECIES
-=======
+# Lichen vahlii Retz. SPECIES
 
 #### Status
 ACCEPTED

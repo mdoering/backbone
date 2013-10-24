@@ -1,5 +1,4 @@
-Coleps africanus SPECIES
-=======
+# Coleps africanus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophiotrema pallidum (Ellis) Berl. & Voglino SPECIES
-=======
+# Lophiotrema pallidum (Ellis) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psora trevisanii Hepp SPECIES
-=======
+# Psora trevisanii Hepp SPECIES
 
 #### Status
 ACCEPTED

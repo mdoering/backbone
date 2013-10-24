@@ -1,5 +1,4 @@
-Clavulina banahaoensis Dogma SPECIES
-=======
+# Clavulina banahaoensis Dogma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialocephala mexicana Onofri & Zucconi SPECIES
-=======
+# Phialocephala mexicana Onofri & Zucconi SPECIES
 
 #### Status
 ACCEPTED

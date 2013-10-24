@@ -1,5 +1,4 @@
-Cystopus euphorbiae-prunifoliae SPECIES
-=======
+# Cystopus euphorbiae-prunifoliae SPECIES
 
 #### Status
 ACCEPTED

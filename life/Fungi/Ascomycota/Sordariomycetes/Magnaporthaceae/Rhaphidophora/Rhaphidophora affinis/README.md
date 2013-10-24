@@ -1,5 +1,4 @@
-Rhaphidophora affinis Sacc. SPECIES
-=======
+# Rhaphidophora affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

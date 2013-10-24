@@ -1,5 +1,4 @@
-Hamaspora taiwaniana Hirats. f. & Hashioka, 1935 SPECIES
-=======
+# Hamaspora taiwaniana Hirats. f. & Hashioka, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collinsella Kageyama et al., 1999 GENUS
-=======
+# Collinsella Kageyama et al., 1999 GENUS
 
 #### Status
 ACCEPTED

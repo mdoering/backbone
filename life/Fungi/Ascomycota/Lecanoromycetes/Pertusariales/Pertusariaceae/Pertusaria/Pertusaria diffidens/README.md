@@ -1,5 +1,4 @@
-Pertusaria diffidens Nyl. SPECIES
-=======
+# Pertusaria diffidens Nyl. SPECIES
 
 #### Status
 ACCEPTED

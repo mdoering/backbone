@@ -1,5 +1,4 @@
-Melanoleuca centralis (Peck) Murrill SPECIES
-=======
+# Melanoleuca centralis (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

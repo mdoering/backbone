@@ -1,5 +1,4 @@
-Stigmatomyces pentandrus Thaxt. SPECIES
-=======
+# Stigmatomyces pentandrus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

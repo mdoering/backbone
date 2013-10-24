@@ -1,5 +1,4 @@
-Inonotus navisporus Ryvarden, 2005 SPECIES
-=======
+# Inonotus navisporus Ryvarden, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactobacillus paraplantarum Curk et al., 1996 SPECIES
-=======
+# Lactobacillus paraplantarum Curk et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

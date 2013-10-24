@@ -1,5 +1,4 @@
-Dendrospyris Haeckel, 1881 GENUS
-=======
+# Dendrospyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

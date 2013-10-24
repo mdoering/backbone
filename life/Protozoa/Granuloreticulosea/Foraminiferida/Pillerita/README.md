@@ -1,5 +1,4 @@
-Pillerita di Bari, 1999 GENUS
-=======
+# Pillerita di Bari, 1999 GENUS
 
 #### Status
 ACCEPTED

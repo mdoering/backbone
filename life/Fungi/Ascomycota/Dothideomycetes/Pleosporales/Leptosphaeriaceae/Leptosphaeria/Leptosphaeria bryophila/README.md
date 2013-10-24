@@ -1,5 +1,4 @@
-Leptosphaeria bryophila Sacc. SPECIES
-=======
+# Leptosphaeria bryophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

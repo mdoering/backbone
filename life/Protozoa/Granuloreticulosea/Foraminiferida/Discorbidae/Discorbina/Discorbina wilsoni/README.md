@@ -1,5 +1,4 @@
-Discorbina wilsoni Heron-Allen & Earland, 1922 SPECIES
-=======
+# Discorbina wilsoni Heron-Allen & Earland, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichoderma tomentosum Bissett, 1992 SPECIES
-=======
+# Trichoderma tomentosum Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

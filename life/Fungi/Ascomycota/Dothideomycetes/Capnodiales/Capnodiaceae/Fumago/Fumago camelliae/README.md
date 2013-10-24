@@ -1,8 +1,7 @@
-Fumago cameliae Catt. SPECIES
-=======
+# Fumago camelliae Catt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fumago cameliae Catt.
+Fumago camelliae Catt.
 
 ### Remarks
 null

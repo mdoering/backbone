@@ -1,5 +1,4 @@
-Chrysodidymus synuroideus Prowse SPECIES
-=======
+# Chrysodidymus synuroideus Prowse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacillus herbersteinensis Wieser et al., 2005 SPECIES
-=======
+# Bacillus herbersteinensis Wieser et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

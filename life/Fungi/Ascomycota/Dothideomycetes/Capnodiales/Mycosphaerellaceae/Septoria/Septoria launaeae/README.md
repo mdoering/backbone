@@ -1,5 +1,4 @@
-Septoria launaeae S.A. Khan & M. Kamal SPECIES
-=======
+# Septoria launaeae S.A. Khan & M. Kamal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariella stercoraria (Peck) Singer SPECIES
-=======
+# Volvariella stercoraria (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

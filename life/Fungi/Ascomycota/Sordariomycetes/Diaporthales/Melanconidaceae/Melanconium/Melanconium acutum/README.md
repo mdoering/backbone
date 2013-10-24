@@ -1,5 +1,4 @@
-Melanconium acutum var. acutum VARIETY
-=======
+# Melanconium acutum Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Melanconium acutum var. acutum
+Melanconium acutum Corda
 
 ### Remarks
 null

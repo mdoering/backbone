@@ -1,5 +1,4 @@
-Phyllachora subrepens Speg., 1889 SPECIES
-=======
+# Phyllachora subrepens Speg., 1889 SPECIES
 
 #### Status
 DOUBTFUL

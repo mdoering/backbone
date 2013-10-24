@@ -1,5 +1,4 @@
-Fennellomyces heterothallicus P.C. Misra, N.N. Gupta & Lata, 1979 SPECIES
-=======
+# Fennellomyces heterothallicus P.C. Misra, N.N. Gupta & Lata, 1979 SPECIES
 
 #### Status
 ACCEPTED

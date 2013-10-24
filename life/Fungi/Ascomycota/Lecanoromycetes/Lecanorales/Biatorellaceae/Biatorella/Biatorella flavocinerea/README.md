@@ -1,5 +1,4 @@
-Biatorella flavocinerea Walt. Watson SPECIES
-=======
+# Biatorella flavocinerea Walt. Watson SPECIES
 
 #### Status
 ACCEPTED

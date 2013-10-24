@@ -1,5 +1,4 @@
-Asterina drypeticola Petr. & Cif. SPECIES
-=======
+# Asterina drypeticola Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

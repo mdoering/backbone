@@ -1,5 +1,4 @@
-Planctomyces stranskae (ex Wawrik, 1952) Starr & Schmidt, 1984 SPECIES
-=======
+# Planctomyces stranskae (ex Wawrik, 1952) Starr & Schmidt, 1984 SPECIES
 
 #### Status
 ACCEPTED

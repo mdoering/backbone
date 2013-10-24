@@ -1,5 +1,4 @@
-Cortinarius paraonui Soop, 2005 SPECIES
-=======
+# Cortinarius paraonui Soop, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elphidium hokkaidoense Asano SPECIES
-=======
+# Elphidium hokkaidoense Asano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Ascomyces alni Berk. & Broome, 1876 SPECIES
-=======
+# Taphrina alni (Berk. & Broome) Gjaerum, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Blyttia 24: 188 & 193 (1966)
 
 #### Original name
 Ascomyces alni Berk. & Broome, 1876

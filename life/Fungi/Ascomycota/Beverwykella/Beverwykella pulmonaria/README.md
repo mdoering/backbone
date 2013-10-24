@@ -1,14 +1,13 @@
-Papulaspora pulmonaria Beverw., 1954 SPECIES
-=======
+# Beverwykella pulmonaria (Beverw.) Tubaki, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leeuwenhoek ned. Tidjdschr. 20: 11 (1954)
+Trans. Mycol. Soc. Japan 16(2): 139 (1975)
 
 #### Original name
 Papulaspora pulmonaria Beverw., 1954

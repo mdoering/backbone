@@ -1,5 +1,4 @@
-Dothiorella paucilocelata Sousa da Câmara SPECIES
-=======
+# Dothiorella paucilocelata Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

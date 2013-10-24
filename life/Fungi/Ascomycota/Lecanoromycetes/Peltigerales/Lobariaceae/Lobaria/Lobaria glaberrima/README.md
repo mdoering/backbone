@@ -1,5 +1,4 @@
-Lobaria glaberrima (Laurer) Trevis. SPECIES
-=======
+# Lobaria glaberrima (Laurer) Trevis. SPECIES
 
 #### Status
 ACCEPTED

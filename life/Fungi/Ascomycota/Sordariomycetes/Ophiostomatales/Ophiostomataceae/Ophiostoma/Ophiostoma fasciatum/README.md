@@ -1,5 +1,4 @@
-Ophiostoma fasciatum (Olchow. & J. Reid) Georg Hausner, J. Reid & Klassen SPECIES
-=======
+# Ophiostoma fasciatum (Olchow. & J. Reid) Georg Hausner, J. Reid & Klassen SPECIES
 
 #### Status
 ACCEPTED

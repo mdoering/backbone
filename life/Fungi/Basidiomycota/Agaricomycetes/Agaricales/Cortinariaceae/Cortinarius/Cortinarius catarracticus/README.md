@@ -1,5 +1,4 @@
-Cortinarius catarracticus Gasparini SPECIES
-=======
+# Cortinarius catarracticus Gasparini SPECIES
 
 #### Status
 ACCEPTED

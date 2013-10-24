@@ -1,5 +1,4 @@
-Megalospora kayabanensis (Vain.) Zahlbr. SPECIES
-=======
+# Megalospora kayabanensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

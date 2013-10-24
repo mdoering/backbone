@@ -1,5 +1,4 @@
-Peziza lignyota Fr., 1822 SPECIES
-=======
+# Peziza lignyota Fr., 1822 SPECIES
 
 #### Status
 ACCEPTED

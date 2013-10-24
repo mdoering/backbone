@@ -1,5 +1,4 @@
-Penicillium syphiliticum Hallier SPECIES
-=======
+# Penicillium syphiliticum Hallier SPECIES
 
 #### Status
 ACCEPTED

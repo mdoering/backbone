@@ -1,5 +1,4 @@
-Splanchnonema platani (Ces.) M.E. Barr SPECIES
-=======
+# Splanchnonema platani (Ces.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

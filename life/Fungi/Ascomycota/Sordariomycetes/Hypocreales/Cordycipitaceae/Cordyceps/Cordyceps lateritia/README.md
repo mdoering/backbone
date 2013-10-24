@@ -1,5 +1,4 @@
-Cordyceps lateritia Dingley, 1953 SPECIES
-=======
+# Cordyceps lateritia Dingley, 1953 SPECIES
 
 #### Status
 ACCEPTED

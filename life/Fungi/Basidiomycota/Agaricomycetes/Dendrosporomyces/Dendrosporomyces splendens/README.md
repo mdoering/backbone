@@ -1,5 +1,4 @@
-Dendrosporomyces splendens (Nawawi) Nawawi & J. Webster SPECIES
-=======
+# Dendrosporomyces splendens (Nawawi) Nawawi & J. Webster SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia rostrata Zabriskie SPECIES
-=======
+# Pestalotia rostrata Zabriskie SPECIES
 
 #### Status
 ACCEPTED

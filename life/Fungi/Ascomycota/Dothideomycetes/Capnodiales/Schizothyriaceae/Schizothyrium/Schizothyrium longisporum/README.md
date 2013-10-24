@@ -1,5 +1,4 @@
-Schizothyrium longisporum (Pat.) Arx SPECIES
-=======
+# Schizothyrium longisporum (Pat.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria concrescens Schwein. SPECIES
-=======
+# Sphaeria concrescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

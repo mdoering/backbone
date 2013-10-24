@@ -1,5 +1,4 @@
-Albugo koreana Y.J. Choi, Thines & H.D. Shin SPECIES
-=======
+# Albugo koreana Y.J. Choi, Thines & H.D. Shin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Filisphaeridium triviale Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
-=======
+# Filisphaeridium triviale Timofeev, 1959 ex Hu Yunxu, 1986 SPECIES
 
 #### Status
 ACCEPTED

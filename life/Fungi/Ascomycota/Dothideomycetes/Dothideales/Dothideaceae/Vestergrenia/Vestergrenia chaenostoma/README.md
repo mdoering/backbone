@@ -1,5 +1,4 @@
-Vestergrenia chaenostoma (Sacc.) Theiss. SPECIES
-=======
+# Vestergrenia chaenostoma (Sacc.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

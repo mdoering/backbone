@@ -1,5 +1,4 @@
-Endopyrenium trapeziforme (J. König) Stein SPECIES
-=======
+# Endopyrenium trapeziforme (J. König) Stein SPECIES
 
 #### Status
 ACCEPTED

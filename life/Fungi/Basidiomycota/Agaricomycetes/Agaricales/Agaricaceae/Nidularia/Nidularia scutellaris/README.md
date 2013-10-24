@@ -1,5 +1,4 @@
-Nidularia scutellaris (O.F. Müll.) Sw. SPECIES
-=======
+# Nidularia scutellaris (O.F. Müll.) Sw. SPECIES
 
 #### Status
 ACCEPTED

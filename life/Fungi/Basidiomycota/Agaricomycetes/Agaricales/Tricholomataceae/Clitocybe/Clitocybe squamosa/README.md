@@ -1,5 +1,4 @@
-Clitocybe squamosa Velen. SPECIES
-=======
+# Clitocybe squamosa Velen. SPECIES
 
 #### Status
 ACCEPTED

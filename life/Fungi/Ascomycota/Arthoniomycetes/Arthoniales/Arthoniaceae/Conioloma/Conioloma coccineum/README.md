@@ -1,5 +1,4 @@
-Conioloma coccineum SPECIES
-=======
+# Conioloma coccineum SPECIES
 
 #### Status
 ACCEPTED

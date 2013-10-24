@@ -1,5 +1,4 @@
-Mollisia stictella (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Mollisia stictella (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

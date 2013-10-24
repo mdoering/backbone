@@ -1,5 +1,4 @@
-Dictyocysta magna Kofoid & Campbell, 1929 SPECIES
-=======
+# Dictyocysta magna Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

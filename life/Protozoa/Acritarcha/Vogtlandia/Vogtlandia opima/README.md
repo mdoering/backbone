@@ -1,5 +1,4 @@
-Vogtlandia opima (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Vogtlandia opima (Uutela & Tynni, 1991) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

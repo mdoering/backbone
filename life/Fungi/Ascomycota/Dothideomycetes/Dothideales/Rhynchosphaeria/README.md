@@ -1,5 +1,4 @@
-Rhynchosphaeria (Sacc.) Berl. GENUS
-=======
+# Rhynchosphaeria (Sacc.) Berl. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepocolla repens Eklund SPECIES
-=======
+# Lepocolla repens Eklund SPECIES
 
 #### Status
 ACCEPTED

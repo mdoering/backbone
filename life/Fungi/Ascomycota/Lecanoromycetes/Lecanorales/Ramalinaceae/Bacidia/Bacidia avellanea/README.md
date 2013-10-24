@@ -1,5 +1,4 @@
-Bacidia avellanea Groenh. SPECIES
-=======
+# Bacidia avellanea Groenh. SPECIES
 
 #### Status
 ACCEPTED

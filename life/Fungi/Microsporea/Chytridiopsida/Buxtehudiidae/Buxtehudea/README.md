@@ -1,5 +1,4 @@
-Buxtehudea J.I.R. Larsson GENUS
-=======
+# Buxtehudea J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

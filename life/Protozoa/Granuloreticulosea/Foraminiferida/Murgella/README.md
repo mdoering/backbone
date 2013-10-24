@@ -1,5 +1,4 @@
-Murgella Sinni, 1966 GENUS
-=======
+# Murgella Sinni, 1966 GENUS
 
 #### Status
 ACCEPTED

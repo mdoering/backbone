@@ -1,5 +1,4 @@
-Phyllosticta colocasiae-esculentae Sawada SPECIES
-=======
+# Phyllosticta colocasiae-esculentae Sawada SPECIES
 
 #### Status
 ACCEPTED

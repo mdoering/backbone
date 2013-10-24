@@ -1,5 +1,4 @@
-Megalotremis infernalis (Mont.) Aptroot SPECIES
-=======
+# Megalotremis infernalis (Mont.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

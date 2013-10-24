@@ -1,17 +1,16 @@
-Bacidia johnstoni C.W. Dodge SPECIES
-=======
+# Bacidia johnstonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 109 (1948)
 
 #### Original name
-Bacidia johnstoni C.W. Dodge
+Bacidia johnstonii C.W. Dodge
 
 ### Remarks
 null

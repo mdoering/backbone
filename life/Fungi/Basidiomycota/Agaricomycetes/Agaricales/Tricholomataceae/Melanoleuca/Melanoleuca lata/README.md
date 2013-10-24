@@ -1,5 +1,4 @@
-Melanoleuca lata (Peck) Murrill SPECIES
-=======
+# Melanoleuca lata (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

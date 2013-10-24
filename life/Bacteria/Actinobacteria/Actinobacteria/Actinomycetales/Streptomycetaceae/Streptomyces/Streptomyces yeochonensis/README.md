@@ -1,5 +1,4 @@
-Streptomyces yeochonensis Kim et al., 2004 SPECIES
-=======
+# Streptomyces yeochonensis Kim et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

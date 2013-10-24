@@ -1,14 +1,13 @@
-Dasyscypha puberulus (Quél.) Sacc. SPECIES
-=======
+# Dasyscyphus puberulus (Quél.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 8: 444 (1889)
 
 #### Original name
 Erinella puberula Quél.

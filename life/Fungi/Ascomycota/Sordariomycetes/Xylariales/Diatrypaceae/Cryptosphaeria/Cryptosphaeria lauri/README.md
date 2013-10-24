@@ -1,5 +1,4 @@
-Cryptosphaeria lauri Grev. SPECIES
-=======
+# Cryptosphaeria lauri Grev. SPECIES
 
 #### Status
 ACCEPTED

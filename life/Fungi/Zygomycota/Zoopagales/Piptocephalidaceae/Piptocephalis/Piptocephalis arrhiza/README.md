@@ -1,5 +1,4 @@
-Piptocephalis arrhiza Tiegh. & G. Le Monn., 1872 SPECIES
-=======
+# Piptocephalis arrhiza Tiegh. & G. Le Monn., 1872 SPECIES
 
 #### Status
 ACCEPTED

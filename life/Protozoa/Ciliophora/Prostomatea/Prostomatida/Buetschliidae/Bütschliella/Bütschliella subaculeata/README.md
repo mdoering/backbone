@@ -1,5 +1,4 @@
-Bütschliella subaculeata Georgevitch, 1941 SPECIES
-=======
+# Bütschliella subaculeata Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

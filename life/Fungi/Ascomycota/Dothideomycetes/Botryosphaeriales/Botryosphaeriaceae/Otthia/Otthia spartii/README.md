@@ -1,5 +1,4 @@
-Otthia spartii Sibilia SPECIES
-=======
+# Otthia spartii Sibilia SPECIES
 
 #### Status
 ACCEPTED

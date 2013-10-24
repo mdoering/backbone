@@ -1,5 +1,4 @@
-Synedra capilla J. R. Carter & P. Denny SPECIES
-=======
+# Synedra capilla J. R. Carter & P. Denny SPECIES
 
 #### Status
 ACCEPTED

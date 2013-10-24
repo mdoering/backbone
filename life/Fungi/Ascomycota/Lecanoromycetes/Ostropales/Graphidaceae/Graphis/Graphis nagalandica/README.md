@@ -1,5 +1,4 @@
-Graphis nagalandica Kr.P. Singh & G.P. Sinha SPECIES
-=======
+# Graphis nagalandica Kr.P. Singh & G.P. Sinha SPECIES
 
 #### Status
 ACCEPTED

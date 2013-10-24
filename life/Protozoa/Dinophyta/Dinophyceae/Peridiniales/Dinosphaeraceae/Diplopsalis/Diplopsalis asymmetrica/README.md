@@ -1,5 +1,4 @@
-Diplopsalis asymmetrica SPECIES
-=======
+# Diplopsalis asymmetrica SPECIES
 
 #### Status
 ACCEPTED

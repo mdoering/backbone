@@ -1,5 +1,4 @@
-Periconia scyphophora Marchal SPECIES
-=======
+# Periconia scyphophora Marchal SPECIES
 
 #### Status
 ACCEPTED

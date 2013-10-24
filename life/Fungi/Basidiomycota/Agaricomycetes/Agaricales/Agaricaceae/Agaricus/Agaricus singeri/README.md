@@ -1,5 +1,4 @@
-Agaricus singeri Heinem. SPECIES
-=======
+# Agaricus singeri Heinem. SPECIES
 
 #### Status
 ACCEPTED

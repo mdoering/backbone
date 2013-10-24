@@ -1,5 +1,4 @@
-Herpotrichia spegazzinii Sacc. & P. Syd. SPECIES
-=======
+# Herpotrichia spegazzinii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia calotheca Speg. SPECIES
-=======
+# Laboulbenia calotheca Speg. SPECIES
 
 #### Status
 ACCEPTED

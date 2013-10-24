@@ -1,5 +1,4 @@
-Gymnodinium maguelonnense Biecheler SPECIES
-=======
+# Gymnodinium maguelonnense Biecheler SPECIES
 
 #### Status
 ACCEPTED

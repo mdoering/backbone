@@ -1,5 +1,4 @@
-Biatorella privigna var. privigna VARIETY
-=======
+# Biatorella privigna SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Biatorella privigna var. privigna
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hyponectria raciborskii Penz. & Sacc. SPECIES
-=======
+# Hyponectria raciborskii Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

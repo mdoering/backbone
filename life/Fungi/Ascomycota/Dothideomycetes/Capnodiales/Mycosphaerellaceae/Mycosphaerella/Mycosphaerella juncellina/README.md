@@ -1,5 +1,4 @@
-Mycosphaerella juncellina Munk SPECIES
-=======
+# Mycosphaerella juncellina Munk SPECIES
 
 #### Status
 ACCEPTED

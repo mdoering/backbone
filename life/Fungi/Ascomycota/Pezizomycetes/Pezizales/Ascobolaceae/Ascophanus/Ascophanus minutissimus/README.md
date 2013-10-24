@@ -1,17 +1,16 @@
-Ascophanus minutissimus var. minutissimus Boud. VARIETY
-=======
+# Ascophanus minutissimus Boud., 1869 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Ascophanus minutissimus var. minutissimus Boud.
+Ascophanus minutissimus Boud., 1869
 
 ### Remarks
 null

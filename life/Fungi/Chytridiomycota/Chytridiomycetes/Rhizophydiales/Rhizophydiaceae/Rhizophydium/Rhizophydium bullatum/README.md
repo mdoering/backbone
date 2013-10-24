@@ -1,5 +1,4 @@
-Rhizophydium bullatum Sparrow, 1952 SPECIES
-=======
+# Rhizophydium bullatum Sparrow, 1952 SPECIES
 
 #### Status
 ACCEPTED

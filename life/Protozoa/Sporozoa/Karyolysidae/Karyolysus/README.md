@@ -1,14 +1,13 @@
-Caryolysus Labbé, 1899 GENUS
-=======
+# Karyolysus Labbé, 1894 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tierreich, 5, 75.
+Arch. Zool. exp. gén. Paris, (3) 3, 109.
 
 #### Original name
 null

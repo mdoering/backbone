@@ -1,14 +1,13 @@
-Blepharocyta Lemmermann, 1899 GENUS
-=======
+# Blepharocysta Ehrenberg, 1873 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Forschber. Plön, 7, 127.
+Festschr. Ges. Fr. Berlin, 4.
 
 #### Original name
 null

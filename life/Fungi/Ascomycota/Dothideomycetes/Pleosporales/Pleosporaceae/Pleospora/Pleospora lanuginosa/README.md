@@ -1,5 +1,4 @@
-Pleospora lanuginosa Sacc. SPECIES
-=======
+# Pleospora lanuginosa Sacc. SPECIES
 
 #### Status
 ACCEPTED

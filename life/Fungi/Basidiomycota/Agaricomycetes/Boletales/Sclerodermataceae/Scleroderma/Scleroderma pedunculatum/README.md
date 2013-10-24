@@ -1,5 +1,4 @@
-Scleroderma pedunculatum Link SPECIES
-=======
+# Scleroderma pedunculatum Link SPECIES
 
 #### Status
 ACCEPTED

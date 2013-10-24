@@ -1,5 +1,4 @@
-Anthostomella capsici M.V. Desai & Prasad SPECIES
-=======
+# Anthostomella capsici M.V. Desai & Prasad SPECIES
 
 #### Status
 ACCEPTED

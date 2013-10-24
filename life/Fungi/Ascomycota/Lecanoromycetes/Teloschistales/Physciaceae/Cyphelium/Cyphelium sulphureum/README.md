@@ -1,5 +1,4 @@
-Cyphelium sulphureum (Lilj.) Chevall. SPECIES
-=======
+# Cyphelium sulphureum (Lilj.) Chevall. SPECIES
 
 #### Status
 ACCEPTED

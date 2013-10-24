@@ -1,5 +1,4 @@
-Ascochyta pterophila (Fautrey) Keissl. SPECIES
-=======
+# Ascochyta pterophila (Fautrey) Keissl. SPECIES
 
 #### Status
 ACCEPTED

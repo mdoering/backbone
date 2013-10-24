@@ -1,5 +1,4 @@
-Semidelitschia tetraspora J.H. Mirza & S.M. Khan SPECIES
-=======
+# Semidelitschia tetraspora J.H. Mirza & S.M. Khan SPECIES
 
 #### Status
 ACCEPTED

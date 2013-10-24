@@ -1,5 +1,4 @@
-Staurothele kwapiensis SPECIES
-=======
+# Staurothele kwapiensis SPECIES
 
 #### Status
 ACCEPTED

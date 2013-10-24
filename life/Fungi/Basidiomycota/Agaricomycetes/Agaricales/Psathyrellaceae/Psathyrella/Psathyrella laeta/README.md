@@ -1,5 +1,4 @@
-Psathyrella laeta A.H. Sm. SPECIES
-=======
+# Psathyrella laeta A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

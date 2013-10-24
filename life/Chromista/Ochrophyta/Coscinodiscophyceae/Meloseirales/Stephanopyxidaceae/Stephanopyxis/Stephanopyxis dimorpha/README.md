@@ -1,5 +1,4 @@
-Stephanopyxis dimorpha H. J. Schrader SPECIES
-=======
+# Stephanopyxis dimorpha H. J. Schrader SPECIES
 
 #### Status
 ACCEPTED

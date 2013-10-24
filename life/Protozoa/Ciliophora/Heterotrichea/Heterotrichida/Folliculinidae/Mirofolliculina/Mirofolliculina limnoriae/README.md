@@ -1,8 +1,7 @@
-Folliculinopsis limnoriae (Giard, 1883) Faure-Fremiet, 1936 SPECIES
-=======
+# Mirofolliculina limnoriae (Giard, 1883) Dons, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

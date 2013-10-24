@@ -1,5 +1,4 @@
-Stereocaulon microcarpum Müll. Arg. SPECIES
-=======
+# Stereocaulon microcarpum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

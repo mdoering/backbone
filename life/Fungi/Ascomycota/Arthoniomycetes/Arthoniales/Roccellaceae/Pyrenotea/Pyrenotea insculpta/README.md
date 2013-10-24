@@ -1,5 +1,4 @@
-Pyrenotea insculpta (Wallr.) Rabenh. SPECIES
-=======
+# Pyrenotea insculpta (Wallr.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

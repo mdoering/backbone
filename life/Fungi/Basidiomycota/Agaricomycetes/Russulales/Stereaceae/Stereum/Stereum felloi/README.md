@@ -1,5 +1,4 @@
-Stereum felloi Lloyd SPECIES
-=======
+# Stereum felloi Lloyd SPECIES
 
 #### Status
 ACCEPTED

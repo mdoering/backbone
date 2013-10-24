@@ -1,5 +1,4 @@
-Rhodophyllus opacus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus opacus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

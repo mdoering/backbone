@@ -1,5 +1,4 @@
-Chromulina flavicans Ehrenberg SPECIES
-=======
+# Chromulina flavicans Ehrenberg SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascochyta cinchonae Melnik SPECIES
-=======
+# Ascochyta cinchonae Melnik SPECIES
 
 #### Status
 ACCEPTED

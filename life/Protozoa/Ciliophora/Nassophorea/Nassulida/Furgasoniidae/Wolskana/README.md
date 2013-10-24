@@ -1,5 +1,4 @@
-Wolskana Ito, Imai, Ogimoto & Nakahara, 1996 GENUS
-=======
+# Wolskana Ito, Imai, Ogimoto & Nakahara, 1996 GENUS
 
 #### Status
 ACCEPTED

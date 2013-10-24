@@ -1,5 +1,4 @@
-Lecidea semipallida Nyl. ex C. Knight SPECIES
-=======
+# Lecidea semipallida Nyl. ex C. Knight SPECIES
 
 #### Status
 ACCEPTED

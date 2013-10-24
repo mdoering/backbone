@@ -1,5 +1,4 @@
-Dothiorella platani Briard & Fautrey SPECIES
-=======
+# Dothiorella platani Briard & Fautrey SPECIES
 
 #### Status
 ACCEPTED

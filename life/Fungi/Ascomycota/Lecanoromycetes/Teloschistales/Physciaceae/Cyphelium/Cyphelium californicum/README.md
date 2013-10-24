@@ -1,5 +1,4 @@
-Cyphelium californicum (Tuck.) Zahlbr. SPECIES
-=======
+# Cyphelium californicum (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

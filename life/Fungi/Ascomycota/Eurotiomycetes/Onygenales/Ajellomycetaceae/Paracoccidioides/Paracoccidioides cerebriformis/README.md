@@ -1,5 +1,4 @@
-Paracoccidioides cerebriformis M. Moore SPECIES
-=======
+# Paracoccidioides cerebriformis M. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteridium bicolor Ellis & Everh. SPECIES
-=======
+# Asteridium bicolor Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

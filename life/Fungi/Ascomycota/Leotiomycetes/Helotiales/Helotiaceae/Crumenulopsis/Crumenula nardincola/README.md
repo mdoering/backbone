@@ -1,5 +1,4 @@
-Crumenula nardincola Rehm SPECIES
-=======
+# Crumenula nardincola Rehm SPECIES
 
 #### Status
 ACCEPTED

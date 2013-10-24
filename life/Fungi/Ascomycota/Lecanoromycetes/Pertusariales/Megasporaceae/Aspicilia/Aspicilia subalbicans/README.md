@@ -1,5 +1,4 @@
-Aspicilia subalbicans (H. Magn.) J.C. Wei SPECIES
-=======
+# Aspicilia subalbicans (H. Magn.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

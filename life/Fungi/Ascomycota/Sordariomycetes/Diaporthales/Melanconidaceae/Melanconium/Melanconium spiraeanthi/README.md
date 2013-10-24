@@ -1,5 +1,4 @@
-Melanconium spiraeanthi Schwarzman & Byzova SPECIES
-=======
+# Melanconium spiraeanthi Schwarzman & Byzova SPECIES
 
 #### Status
 ACCEPTED

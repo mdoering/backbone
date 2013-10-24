@@ -1,5 +1,4 @@
-Agaricus strumosus Fr. SPECIES
-=======
+# Agaricus strumosus Fr. SPECIES
 
 #### Status
 ACCEPTED

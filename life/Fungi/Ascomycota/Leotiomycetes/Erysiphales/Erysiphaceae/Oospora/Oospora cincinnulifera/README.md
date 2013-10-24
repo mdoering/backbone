@@ -1,5 +1,4 @@
-Oospora cincinnulifera Speg. SPECIES
-=======
+# Oospora cincinnulifera Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scleroderma pisiforme Henn. SPECIES
-=======
+# Scleroderma pisiforme Henn. SPECIES
 
 #### Status
 ACCEPTED

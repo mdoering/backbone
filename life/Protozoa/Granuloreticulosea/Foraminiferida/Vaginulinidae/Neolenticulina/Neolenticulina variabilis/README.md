@@ -1,8 +1,7 @@
-Cristellaria peregrina Schwager, 1866 SPECIES
-=======
+# Neolenticulina variabilis (Reuss, 1850) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

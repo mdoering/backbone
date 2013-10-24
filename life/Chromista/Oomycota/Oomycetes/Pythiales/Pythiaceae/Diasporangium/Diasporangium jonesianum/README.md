@@ -1,5 +1,4 @@
-Diasporangium jonesianum Höhnk, 1936 SPECIES
-=======
+# Diasporangium jonesianum Höhnk, 1936 SPECIES
 
 #### Status
 ACCEPTED

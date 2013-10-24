@@ -1,5 +1,4 @@
-Phoma fusca Lév. SPECIES
-=======
+# Phoma fusca Lév. SPECIES
 
 #### Status
 ACCEPTED

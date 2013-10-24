@@ -1,5 +1,4 @@
-Fungus primipilus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Fungus primipilus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces schinzianus Henn. SPECIES
-=======
+# Uromyces schinzianus Henn. SPECIES
 
 #### Status
 ACCEPTED

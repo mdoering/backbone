@@ -1,5 +1,4 @@
-Sistotrema gloeocystidiatum Boidin & Gilles SPECIES
-=======
+# Sistotrema gloeocystidiatum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nolanea atripes Dennis SPECIES
-=======
+# Nolanea atripes Dennis SPECIES
 
 #### Status
 ACCEPTED

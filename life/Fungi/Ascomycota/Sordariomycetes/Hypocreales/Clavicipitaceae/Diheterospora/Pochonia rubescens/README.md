@@ -1,5 +1,4 @@
-Pochonia rubescens Zare, W. Gams & López-Llorca, 2001 SPECIES
-=======
+# Pochonia rubescens Zare, W. Gams & López-Llorca, 2001 SPECIES
 
 #### Status
 ACCEPTED

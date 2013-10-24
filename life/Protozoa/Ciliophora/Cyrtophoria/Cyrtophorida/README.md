@@ -1,5 +1,4 @@
-Cyrtophorida ORDER
-=======
+# Cyrtophorida ORDER
 
 #### Status
 ACCEPTED

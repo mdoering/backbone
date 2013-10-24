@@ -1,5 +1,4 @@
-Camarosporium phlomidicola Bubák SPECIES
-=======
+# Camarosporium phlomidicola Bubák SPECIES
 
 #### Status
 ACCEPTED

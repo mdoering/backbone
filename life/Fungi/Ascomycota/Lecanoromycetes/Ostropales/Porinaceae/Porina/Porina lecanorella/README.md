@@ -1,5 +1,4 @@
-Porina lecanorella Müll. Arg. SPECIES
-=======
+# Porina lecanorella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

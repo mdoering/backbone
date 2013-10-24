@@ -1,5 +1,4 @@
-Phoma koolunga J.A. Davidson, D. Hartley, Priest, S. Kaczm., Herdina, A. McKay & E.S. Scott SPECIES
-=======
+# Phoma koolunga J.A. Davidson, D. Hartley, Priest, S. Kaczm., Herdina, A. McKay & E.S. Scott SPECIES
 
 #### Status
 ACCEPTED

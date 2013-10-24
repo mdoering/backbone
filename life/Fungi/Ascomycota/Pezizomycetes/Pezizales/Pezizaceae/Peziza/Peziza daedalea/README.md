@@ -1,5 +1,4 @@
-Peziza daedalea Schwein. SPECIES
-=======
+# Peziza daedalea Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gaudryina taiwanica Huang SPECIES
-=======
+# Gaudryina taiwanica Huang SPECIES
 
 #### Status
 ACCEPTED

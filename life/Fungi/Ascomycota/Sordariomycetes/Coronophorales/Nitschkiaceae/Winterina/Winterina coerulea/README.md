@@ -1,5 +1,4 @@
-Winterina coerulea (Ellis & Everh.) Berl. & Voglino SPECIES
-=======
+# Winterina coerulea (Ellis & Everh.) Berl. & Voglino SPECIES
 
 #### Status
 ACCEPTED

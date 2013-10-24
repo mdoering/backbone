@@ -1,5 +1,4 @@
-Pestalotia coccolobae Ellis & Everh. SPECIES
-=======
+# Pestalotia coccolobae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces adpressus Kobayasi SPECIES
-=======
+# Dacrymyces adpressus Kobayasi SPECIES
 
 #### Status
 ACCEPTED

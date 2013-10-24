@@ -1,5 +1,4 @@
-Helenalveolina Hottinger, Drobne & Caus, 1989 GENUS
-=======
+# Helenalveolina Hottinger, Drobne & Caus, 1989 GENUS
 
 #### Status
 ACCEPTED

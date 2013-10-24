@@ -1,5 +1,4 @@
-Coprinus columellifer Speg. SPECIES
-=======
+# Coprinus columellifer Speg. SPECIES
 
 #### Status
 ACCEPTED

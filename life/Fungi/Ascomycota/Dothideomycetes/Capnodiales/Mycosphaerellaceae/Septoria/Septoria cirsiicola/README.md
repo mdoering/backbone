@@ -1,5 +1,4 @@
-Septoria cirsiicola Kuhnh.-Lord. & J.P. Barry SPECIES
-=======
+# Septoria cirsiicola Kuhnh.-Lord. & J.P. Barry SPECIES
 
 #### Status
 ACCEPTED

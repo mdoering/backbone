@@ -1,5 +1,4 @@
-Scutomollisia integromarginata Graddon, 1980 SPECIES
-=======
+# Scutomollisia integromarginata Graddon, 1980 SPECIES
 
 #### Status
 ACCEPTED

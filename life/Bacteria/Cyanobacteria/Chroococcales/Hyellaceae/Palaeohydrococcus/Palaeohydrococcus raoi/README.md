@@ -1,5 +1,4 @@
-Palaeohydrococcus raoi P. K. Misra & P. K. Maithy SPECIES
-=======
+# Palaeohydrococcus raoi P. K. Misra & P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

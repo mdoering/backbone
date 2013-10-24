@@ -1,5 +1,4 @@
-Lempholemma lepideum (Nyl.) Zahlbr. SPECIES
-=======
+# Lempholemma lepideum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

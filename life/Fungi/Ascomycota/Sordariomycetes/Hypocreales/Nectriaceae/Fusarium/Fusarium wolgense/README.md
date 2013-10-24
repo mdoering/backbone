@@ -1,5 +1,4 @@
-Fusarium wolgense Rodigin SPECIES
-=======
+# Fusarium wolgense Rodigin SPECIES
 
 #### Status
 ACCEPTED

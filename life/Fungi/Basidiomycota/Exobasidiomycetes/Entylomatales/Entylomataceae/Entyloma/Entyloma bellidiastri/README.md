@@ -1,5 +1,4 @@
-Entyloma bellidiastri Maire SPECIES
-=======
+# Entyloma bellidiastri Maire SPECIES
 
 #### Status
 ACCEPTED

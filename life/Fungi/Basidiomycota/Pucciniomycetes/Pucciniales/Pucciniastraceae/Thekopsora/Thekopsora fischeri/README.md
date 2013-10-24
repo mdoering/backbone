@@ -1,5 +1,4 @@
-Thekopsora fischeri Cruchet SPECIES
-=======
+# Thekopsora fischeri Cruchet SPECIES
 
 #### Status
 ACCEPTED

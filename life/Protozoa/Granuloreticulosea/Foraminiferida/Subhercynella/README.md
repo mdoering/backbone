@@ -1,5 +1,4 @@
-Subhercynella Bartenstein, 2000 GENUS
-=======
+# Subhercynella Bartenstein, 2000 GENUS
 
 #### Status
 ACCEPTED

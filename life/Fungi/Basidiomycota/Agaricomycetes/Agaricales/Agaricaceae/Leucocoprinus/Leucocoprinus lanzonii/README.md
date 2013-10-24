@@ -1,5 +1,4 @@
-Leucocoprinus lanzonii Bon, Migl. & Brunori SPECIES
-=======
+# Leucocoprinus lanzonii Bon, Migl. & Brunori SPECIES
 
 #### Status
 ACCEPTED

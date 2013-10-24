@@ -1,5 +1,4 @@
-Phyllosticta colae Verwoerd & du Plessis SPECIES
-=======
+# Phyllosticta colae Verwoerd & du Plessis SPECIES
 
 #### Status
 ACCEPTED

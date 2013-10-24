@@ -1,17 +1,16 @@
-Urocystis sorosporioides f. irregularis G. Winter, 1880 FORM
-=======
+# Urocystis irregularis (G. Winter) Savul., 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin Sti. Sect. Sti. biol. 3: 220 (1951)
 
 #### Original name
-null
+Urocystis sorosporioides f. irregularis G. Winter, 1880
 
 ### Remarks
 null

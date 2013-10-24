@@ -1,5 +1,4 @@
-Simocybe tepeitensis (Murrill) Singer SPECIES
-=======
+# Simocybe tepeitensis (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

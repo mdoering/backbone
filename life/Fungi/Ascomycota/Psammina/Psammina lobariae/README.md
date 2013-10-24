@@ -1,5 +1,4 @@
-Psammina lobariae (Diederich & Etayo) Earl.-Benn. & D. Hawksw., 2005 SPECIES
-=======
+# Psammina lobariae (Diederich & Etayo) Earl.-Benn. & D. Hawksw., 2005 SPECIES
 
 #### Status
 ACCEPTED

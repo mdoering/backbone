@@ -1,5 +1,4 @@
-Lecania triseptata (Vain.) Zahlbr. SPECIES
-=======
+# Lecania triseptata (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

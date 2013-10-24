@@ -1,5 +1,4 @@
-Puccinia dictyoderma Lindr. SPECIES
-=======
+# Puccinia dictyoderma Lindr. SPECIES
 
 #### Status
 ACCEPTED

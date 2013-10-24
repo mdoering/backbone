@@ -1,5 +1,4 @@
-Diplodia helianthemi Sandu SPECIES
-=======
+# Diplodia helianthemi Sandu SPECIES
 
 #### Status
 ACCEPTED

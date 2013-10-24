@@ -1,5 +1,4 @@
-Trichothyrites airensis (Cookson) Kalgutkar & Janson. SPECIES
-=======
+# Trichothyrites airensis (Cookson) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

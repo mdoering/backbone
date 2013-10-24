@@ -1,5 +1,4 @@
-Pseudospiropes shoreae R.K. Verma & Soni SPECIES
-=======
+# Pseudospiropes shoreae R.K. Verma & Soni SPECIES
 
 #### Status
 ACCEPTED

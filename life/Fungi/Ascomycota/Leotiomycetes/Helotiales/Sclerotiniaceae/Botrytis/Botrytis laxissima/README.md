@@ -1,5 +1,4 @@
-Botrytis laxissima P. Karst. SPECIES
-=======
+# Botrytis laxissima P. Karst. SPECIES
 
 #### Status
 ACCEPTED

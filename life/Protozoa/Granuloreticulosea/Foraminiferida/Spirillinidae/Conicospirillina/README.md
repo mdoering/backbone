@@ -1,5 +1,4 @@
-Conicospirillina Cushman, 1927 GENUS
-=======
+# Conicospirillina Cushman, 1927 GENUS
 
 #### Status
 ACCEPTED

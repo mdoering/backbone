@@ -1,5 +1,4 @@
-Larnacoma Haeckel, 1887 GENUS
-=======
+# Larnacoma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

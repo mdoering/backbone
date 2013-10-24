@@ -1,5 +1,4 @@
-Luteimonas aquatica Jui-Hsing Chou, 2008 SPECIES
-=======
+# Luteimonas aquatica Jui-Hsing Chou, 2008 SPECIES
 
 #### Status
 ACCEPTED

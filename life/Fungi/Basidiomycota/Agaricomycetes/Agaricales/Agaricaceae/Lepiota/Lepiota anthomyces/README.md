@@ -1,5 +1,4 @@
-Lepiota anthomyces (Berk. & Broome) Sacc. SPECIES
-=======
+# Lepiota anthomyces (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

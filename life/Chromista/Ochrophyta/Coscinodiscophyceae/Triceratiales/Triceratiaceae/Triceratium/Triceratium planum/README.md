@@ -1,5 +1,4 @@
-Triceratium planum N. I. Strelnikova SPECIES
-=======
+# Triceratium planum N. I. Strelnikova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria tiroliensis Erichsen SPECIES
-=======
+# Pertusaria tiroliensis Erichsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbophoma microspora Petr., 1942 SPECIES
-=======
+# Stilbophoma microspora Petr., 1942 SPECIES
 
 #### Status
 ACCEPTED

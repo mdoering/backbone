@@ -1,5 +1,4 @@
-Entoloma jansenii Noordel. SPECIES
-=======
+# Entoloma jansenii Noordel. SPECIES
 
 #### Status
 ACCEPTED

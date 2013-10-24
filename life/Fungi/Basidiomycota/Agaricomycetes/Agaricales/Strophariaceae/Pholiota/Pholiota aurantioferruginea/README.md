@@ -1,5 +1,4 @@
-Pholiota aurantioferruginea (Britzelm.) Sacc. SPECIES
-=======
+# Pholiota aurantioferruginea (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

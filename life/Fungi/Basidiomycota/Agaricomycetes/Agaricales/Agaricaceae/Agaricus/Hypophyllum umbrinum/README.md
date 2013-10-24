@@ -1,5 +1,4 @@
-Hypophyllum umbrinum Paulet SPECIES
-=======
+# Hypophyllum umbrinum Paulet SPECIES
 
 #### Status
 ACCEPTED

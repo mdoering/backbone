@@ -1,5 +1,4 @@
-Metschnikowia arizonensis Lachance & J.M. Bowles, 2002 SPECIES
-=======
+# Metschnikowia arizonensis Lachance & J.M. Bowles, 2002 SPECIES
 
 #### Status
 ACCEPTED

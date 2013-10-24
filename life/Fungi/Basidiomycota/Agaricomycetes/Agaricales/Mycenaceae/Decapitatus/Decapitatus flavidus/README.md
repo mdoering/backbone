@@ -1,14 +1,13 @@
-Pistillaria flavida (Cooke) Speg., 1896 SPECIES
-=======
+# Decapitatus flavidus (Cooke) Redhead & Seifert, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revta Fac. Agron. Vet. Univ. nac. La Plata 2: 342 (1896)
+in Redhead, Seifert, Vilgalys & Moncalvo, Taxon 49(4): 795 (2000)
 
 #### Original name
 null

@@ -1,5 +1,4 @@
-Lecidea draparnaldii var. sphaerica (Schaer.) Flot. VARIETY
-=======
+# Lecidea draparnaldii Gratel. {?} ex Flot. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea sphaerica Schaer.
+Lecidea draparnaldii Gratel. {?} ex Flot.
 
 ### Remarks
 null

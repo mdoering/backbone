@@ -1,5 +1,4 @@
-Archemirus Tikhomirova, 1987 GENUS
-=======
+# Archemirus Tikhomirova, 1987 GENUS
 
 #### Status
 ACCEPTED

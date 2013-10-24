@@ -1,5 +1,4 @@
-Thecaphora oberwinkleri Vánky SPECIES
-=======
+# Thecaphora oberwinkleri Vánky SPECIES
 
 #### Status
 ACCEPTED

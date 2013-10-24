@@ -1,5 +1,4 @@
-Lactobacillus satsumensis Endo & Okada, 2005 SPECIES
-=======
+# Lactobacillus satsumensis Endo & Okada, 2005 SPECIES
 
 #### Status
 ACCEPTED

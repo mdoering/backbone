@@ -1,5 +1,4 @@
-Fragilaria dorsiventralis (O.Müll.) Lange-Bertalot SPECIES
-=======
+# Fragilaria dorsiventralis (O.Müll.) Lange-Bertalot SPECIES
 
 #### Status
 ACCEPTED

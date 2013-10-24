@@ -1,5 +1,4 @@
-Cercospora abutilonis Tehon & E.Y. Daniels SPECIES
-=======
+# Cercospora abutilonis Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucogymnospora Fink GENUS
-=======
+# Leucogymnospora Fink GENUS
 
 #### Status
 ACCEPTED

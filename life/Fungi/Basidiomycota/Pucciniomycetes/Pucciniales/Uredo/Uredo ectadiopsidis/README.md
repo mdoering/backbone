@@ -1,5 +1,4 @@
-Uredo ectadiopsidis Cooke SPECIES
-=======
+# Uredo ectadiopsidis Cooke SPECIES
 
 #### Status
 ACCEPTED

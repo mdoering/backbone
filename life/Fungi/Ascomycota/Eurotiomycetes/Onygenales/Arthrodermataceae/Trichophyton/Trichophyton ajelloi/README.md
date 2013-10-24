@@ -1,5 +1,4 @@
-Trichophyton ajelloi var. ajelloi VARIETY
-=======
+# Trichophyton ajelloi SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sabouraudia 6(2): 148 (1968)
+null
 
 #### Original name
-Trichophyton ajelloi var. ajelloi
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lithocia spodopsara (Nyl.) Flagey SPECIES
-=======
+# Lithocia spodopsara (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

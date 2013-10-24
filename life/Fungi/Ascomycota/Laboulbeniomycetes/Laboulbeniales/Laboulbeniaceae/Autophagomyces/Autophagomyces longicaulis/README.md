@@ -1,5 +1,4 @@
-Autophagomyces longicaulis Thaxt. SPECIES
-=======
+# Autophagomyces longicaulis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

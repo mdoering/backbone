@@ -1,5 +1,4 @@
-Colletotrichopsis chilensis (Speg.) Bat. SPECIES
-=======
+# Colletotrichopsis chilensis (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma angolense Welw. & Curr. SPECIES
-=======
+# Tulostoma angolense Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ostropella microspora (Pass.) E. Müll. SPECIES
-=======
+# Ostropella microspora (Pass.) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

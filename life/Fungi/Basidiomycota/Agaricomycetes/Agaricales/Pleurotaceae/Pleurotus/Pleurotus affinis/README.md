@@ -1,5 +1,4 @@
-Pleurotus affinis Berk. SPECIES
-=======
+# Pleurotus affinis Berk. SPECIES
 
 #### Status
 ACCEPTED

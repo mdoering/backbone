@@ -1,5 +1,4 @@
-Mahabalella stiriaca Melnik, Scheuer & Heftb. SPECIES
-=======
+# Mahabalella stiriaca Melnik, Scheuer & Heftb. SPECIES
 
 #### Status
 ACCEPTED

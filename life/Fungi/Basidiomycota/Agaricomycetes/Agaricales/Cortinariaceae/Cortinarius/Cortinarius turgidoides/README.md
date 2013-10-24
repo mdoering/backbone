@@ -1,5 +1,4 @@
-Cortinarius turgidoides Rob. Henry SPECIES
-=======
+# Cortinarius turgidoides Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

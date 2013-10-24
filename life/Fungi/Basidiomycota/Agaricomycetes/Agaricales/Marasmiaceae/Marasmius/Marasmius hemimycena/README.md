@@ -1,5 +1,4 @@
-Marasmius hemimycena Singer SPECIES
-=======
+# Marasmius hemimycena Singer SPECIES
 
 #### Status
 ACCEPTED

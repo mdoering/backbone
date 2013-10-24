@@ -1,5 +1,4 @@
-Mycovellosiella isotomae (Cif.) U. Braun SPECIES
-=======
+# Mycovellosiella isotomae (Cif.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

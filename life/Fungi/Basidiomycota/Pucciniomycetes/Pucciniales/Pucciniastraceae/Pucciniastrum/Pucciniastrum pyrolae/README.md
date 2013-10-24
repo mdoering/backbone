@@ -1,17 +1,16 @@
-Trichobasis pirolae Berk. SPECIES
-=======
+# Pucciniastrum pyrolae Dietel ex Arthur, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Fl. (New York) 7: 108 (1907)
 
 #### Original name
-Trichobasis pirolae Berk.
+Pucciniastrum pyrolae Dietel ex Arthur, 1907
 
 ### Remarks
 null

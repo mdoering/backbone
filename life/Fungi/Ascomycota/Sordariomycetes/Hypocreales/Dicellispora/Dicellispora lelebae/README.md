@@ -1,5 +1,4 @@
-Dicellispora lelebae Sawada, 1944 SPECIES
-=======
+# Dicellispora lelebae Sawada, 1944 SPECIES
 
 #### Status
 ACCEPTED

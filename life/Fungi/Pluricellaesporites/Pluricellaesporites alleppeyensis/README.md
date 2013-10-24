@@ -1,5 +1,4 @@
-Pluricellaesporites alleppeyensis Ramanujam & K.P. Rao SPECIES
-=======
+# Pluricellaesporites alleppeyensis Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

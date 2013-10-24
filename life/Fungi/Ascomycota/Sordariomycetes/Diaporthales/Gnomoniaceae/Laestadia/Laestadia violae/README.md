@@ -1,5 +1,4 @@
-Laestadia violae (Lib.) Sacc. SPECIES
-=======
+# Laestadia violae (Lib.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

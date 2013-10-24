@@ -1,17 +1,16 @@
-Helminthosporium rhopaloides f. sedi Brunaud FORM
-=======
+# Helminthosporium rhopaloides Fresen., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beitr. Mykol. 2: 50 (1863)
 
 #### Original name
-Helminthosporium rhopaloides f. sedi Brunaud
+Helminthosporium rhopaloides Fresen., 1863
 
 ### Remarks
 null

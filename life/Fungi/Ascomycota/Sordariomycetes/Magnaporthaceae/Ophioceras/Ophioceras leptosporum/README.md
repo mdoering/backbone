@@ -1,5 +1,4 @@
-Ophioceras leptosporum (S.H. Iqbal) J. Walker, 1980 SPECIES
-=======
+# Ophioceras leptosporum (S.H. Iqbal) J. Walker, 1980 SPECIES
 
 #### Status
 ACCEPTED

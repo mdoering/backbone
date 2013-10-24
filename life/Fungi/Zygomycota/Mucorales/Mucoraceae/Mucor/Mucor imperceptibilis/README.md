@@ -1,5 +1,4 @@
-Mucor imperceptibilis Schrank SPECIES
-=======
+# Mucor imperceptibilis Schrank SPECIES
 
 #### Status
 ACCEPTED

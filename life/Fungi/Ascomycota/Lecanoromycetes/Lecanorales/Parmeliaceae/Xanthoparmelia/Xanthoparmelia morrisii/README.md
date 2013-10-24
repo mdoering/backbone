@@ -1,5 +1,4 @@
-Xanthoparmelia morrisii Elix & Kantvilas SPECIES
-=======
+# Xanthoparmelia morrisii Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

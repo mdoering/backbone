@@ -1,5 +1,4 @@
-Reophax pulchrus Zheng, 1988 SPECIES
-=======
+# Reophax pulchrus Zheng, 1988 SPECIES
 
 #### Status
 ACCEPTED

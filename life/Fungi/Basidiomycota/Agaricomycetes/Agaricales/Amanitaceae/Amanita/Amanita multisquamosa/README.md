@@ -1,5 +1,4 @@
-Amanita multisquamosa Peck SPECIES
-=======
+# Amanita multisquamosa Peck SPECIES
 
 #### Status
 ACCEPTED

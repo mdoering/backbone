@@ -1,5 +1,4 @@
-Nilzamonas Skvortzov GENUS
-=======
+# Nilzamonas Skvortzov GENUS
 
 #### Status
 ACCEPTED

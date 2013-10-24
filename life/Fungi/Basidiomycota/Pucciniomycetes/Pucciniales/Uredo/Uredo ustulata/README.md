@@ -1,5 +1,4 @@
-Uredo ustulata Berk. & M.A. Curtis SPECIES
-=======
+# Uredo ustulata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

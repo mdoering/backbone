@@ -1,5 +1,4 @@
-Chamaeceras trichophorus (Lév. & Zipp.) Kuntze SPECIES
-=======
+# Chamaeceras trichophorus (Lév. & Zipp.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

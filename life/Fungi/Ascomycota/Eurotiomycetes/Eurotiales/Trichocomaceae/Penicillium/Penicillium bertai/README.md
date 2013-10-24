@@ -1,5 +1,4 @@
-Penicillium bertai Talice & J.A. Mackinnon SPECIES
-=======
+# Penicillium bertai Talice & J.A. Mackinnon SPECIES
 
 #### Status
 ACCEPTED

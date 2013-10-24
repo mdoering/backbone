@@ -1,5 +1,4 @@
-Leiosphaeridia asperata (Naumova, 1950) Lindgren, 1982 SPECIES
-=======
+# Leiosphaeridia asperata (Naumova, 1950) Lindgren, 1982 SPECIES
 
 #### Status
 ACCEPTED

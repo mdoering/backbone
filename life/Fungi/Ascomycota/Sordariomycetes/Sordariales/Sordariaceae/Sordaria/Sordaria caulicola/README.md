@@ -1,5 +1,4 @@
-Sordaria caulicola Ces. SPECIES
-=======
+# Sordaria caulicola Ces. SPECIES
 
 #### Status
 ACCEPTED

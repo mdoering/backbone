@@ -1,5 +1,4 @@
-Encoelia aterrima Hazsl. SPECIES
-=======
+# Encoelia aterrima Hazsl. SPECIES
 
 #### Status
 ACCEPTED

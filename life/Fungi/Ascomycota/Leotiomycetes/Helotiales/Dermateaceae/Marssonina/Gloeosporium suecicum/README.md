@@ -1,5 +1,4 @@
-Gloeosporium suecicum Bubák & Vleugel SPECIES
-=======
+# Gloeosporium suecicum Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

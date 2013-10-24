@@ -1,17 +1,16 @@
-Telostoma Corliss, 1960 GENUS
-=======
+# Telostomatella Foissner, 1985 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Archiv Protistenk. 129 (1-4): 281.
 
 #### Original name
-null
+Telostoma Corliss, 1960
 
 ### Remarks
 null

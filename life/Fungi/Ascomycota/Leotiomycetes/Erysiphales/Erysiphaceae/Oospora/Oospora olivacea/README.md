@@ -1,5 +1,4 @@
-Oospora olivacea Sacc. & Voglino SPECIES
-=======
+# Oospora olivacea Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

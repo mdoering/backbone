@@ -1,5 +1,4 @@
-Coelomomyces lairdii Maffi {?} & Nolan SPECIES
-=======
+# Coelomomyces lairdii Maffi {?} & Nolan SPECIES
 
 #### Status
 ACCEPTED

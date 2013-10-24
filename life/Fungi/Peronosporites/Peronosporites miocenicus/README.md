@@ -1,5 +1,4 @@
-Peronosporites miocenicus Pampaloni {?} SPECIES
-=======
+# Peronosporites miocenicus Pampaloni {?} SPECIES
 
 #### Status
 ACCEPTED

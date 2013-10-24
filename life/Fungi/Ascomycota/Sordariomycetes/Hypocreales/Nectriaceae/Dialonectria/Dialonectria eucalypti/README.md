@@ -1,5 +1,4 @@
-Dialonectria eucalypti Cooke & Harkn. SPECIES
-=======
+# Dialonectria eucalypti Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

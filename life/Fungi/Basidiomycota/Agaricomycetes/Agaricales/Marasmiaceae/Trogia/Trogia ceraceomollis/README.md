@@ -1,5 +1,4 @@
-Trogia ceraceomollis var. ceraceomollis VARIETY
-=======
+# Trogia ceraceomollis Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Monogr. Cantharelloid Fungi 203 (1966)
 
 #### Original name
-Trogia ceraceomollis var. ceraceomollis
+Trogia ceraceomollis Corner
 
 ### Remarks
 null

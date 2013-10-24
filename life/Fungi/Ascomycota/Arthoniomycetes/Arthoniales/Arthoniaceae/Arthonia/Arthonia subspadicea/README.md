@@ -1,5 +1,4 @@
-Arthonia subspadicea Nyl. SPECIES
-=======
+# Arthonia subspadicea Nyl. SPECIES
 
 #### Status
 ACCEPTED

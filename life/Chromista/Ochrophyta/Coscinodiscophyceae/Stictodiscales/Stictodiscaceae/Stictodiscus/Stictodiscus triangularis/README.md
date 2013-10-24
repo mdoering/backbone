@@ -1,5 +1,4 @@
-Stictodiscus triangularis A. P. Jousé SPECIES
-=======
+# Stictodiscus triangularis A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula diffluens (Nyl.) Müll. Arg. SPECIES
-=======
+# Pseudopyrenula diffluens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

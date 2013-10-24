@@ -1,5 +1,4 @@
-Cenangium concinnum Berk. & M.A. Curtis SPECIES
-=======
+# Cenangium concinnum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

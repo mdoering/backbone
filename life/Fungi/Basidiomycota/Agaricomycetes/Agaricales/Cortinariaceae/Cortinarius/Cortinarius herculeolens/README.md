@@ -1,5 +1,4 @@
-Cortinarius herculeolens Bidaud, 1996 SPECIES
-=======
+# Cortinarius herculeolens Bidaud, 1996 SPECIES
 
 #### Status
 ACCEPTED

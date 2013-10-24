@@ -1,5 +1,4 @@
-Caloplaca articulata (Bagl.) J. Steiner SPECIES
-=======
+# Caloplaca articulata (Bagl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

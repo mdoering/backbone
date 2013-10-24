@@ -1,17 +1,16 @@
-Truncocolumella citrina var. separabilis A.H. Sm., 1959 VARIETY
-=======
+# Truncocolumella citrina Zeller, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Brittonia 11: 212 (1959)
+Mycologia 31: 6 (1939)
 
 #### Original name
-Truncocolumella citrina var. separabilis A.H. Sm., 1959
+Truncocolumella citrina Zeller, 1939
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aplosporidium Caullery & Mesnil, 1899 GENUS
-=======
+# Aplosporidium Caullery & Mesnil, 1899 GENUS
 
 #### Status
 ACCEPTED

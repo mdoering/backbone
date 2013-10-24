@@ -1,5 +1,4 @@
-Phylloporus arenicola A.H. Sm. & Trappe SPECIES
-=======
+# Phylloporus arenicola A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

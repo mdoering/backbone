@@ -1,5 +1,4 @@
-Endothia hypocreoides (Berk. & Cooke) Höhn. SPECIES
-=======
+# Endothia hypocreoides (Berk. & Cooke) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus colus With. SPECIES
-=======
+# Agaricus colus With. SPECIES
 
 #### Status
 ACCEPTED

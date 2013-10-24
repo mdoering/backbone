@@ -1,5 +1,4 @@
-Ivanovella Pronina, 1969 GENUS
-=======
+# Ivanovella Pronina, 1969 GENUS
 
 #### Status
 ACCEPTED

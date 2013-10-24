@@ -1,5 +1,4 @@
-Puccinia boisduvaliae Peck SPECIES
-=======
+# Puccinia boisduvaliae Peck SPECIES
 
 #### Status
 ACCEPTED

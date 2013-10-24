@@ -1,5 +1,4 @@
-Peziotrichum pulchellum Bat. & M.L. Farr SPECIES
-=======
+# Peziotrichum pulchellum Bat. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

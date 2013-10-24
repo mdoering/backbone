@@ -1,5 +1,4 @@
-Yoshinagella japonica Höhn., 1913 SPECIES
-=======
+# Yoshinagella japonica Höhn., 1913 SPECIES
 
 #### Status
 ACCEPTED

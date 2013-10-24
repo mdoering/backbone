@@ -1,5 +1,4 @@
-Stagonospora baccharidicola Hollós SPECIES
-=======
+# Stagonospora baccharidicola Hollós SPECIES
 
 #### Status
 ACCEPTED

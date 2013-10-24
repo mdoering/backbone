@@ -1,5 +1,4 @@
-Ceratium declinatum (Karsten) Jörgensen SPECIES
-=======
+# Ceratium declinatum (Karsten) Jörgensen SPECIES
 
 #### Status
 ACCEPTED

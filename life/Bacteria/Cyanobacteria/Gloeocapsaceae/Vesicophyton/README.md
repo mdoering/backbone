@@ -1,5 +1,4 @@
-Vesicophyton A.G. Vologdin & N.A. Drozdova, 1969 GENUS
-=======
+# Vesicophyton A.G. Vologdin & N.A. Drozdova, 1969 GENUS
 
 #### Status
 ACCEPTED

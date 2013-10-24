@@ -1,5 +1,4 @@
-Glossophora galapagensis M.A. Howe SPECIES
-=======
+# Glossophora galapagensis M.A. Howe SPECIES
 
 #### Status
 ACCEPTED

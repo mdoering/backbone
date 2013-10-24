@@ -1,5 +1,4 @@
-Naetrocymbe capnodioides (G. Arnaud) Cif. & Bat. SPECIES
-=======
+# Naetrocymbe capnodioides (G. Arnaud) Cif. & Bat. SPECIES
 
 #### Status
 ACCEPTED

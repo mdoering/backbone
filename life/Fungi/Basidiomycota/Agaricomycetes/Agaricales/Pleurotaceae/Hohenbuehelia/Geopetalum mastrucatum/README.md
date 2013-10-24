@@ -1,5 +1,4 @@
-Geopetalum mastrucatum (Fr.) Kühner & Romagn. SPECIES
-=======
+# Geopetalum mastrucatum (Fr.) Kühner & Romagn. SPECIES
 
 #### Status
 ACCEPTED

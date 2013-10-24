@@ -1,5 +1,4 @@
-Gyrophora polymorpha SPECIES
-=======
+# Gyrophora polymorpha SPECIES
 
 #### Status
 ACCEPTED

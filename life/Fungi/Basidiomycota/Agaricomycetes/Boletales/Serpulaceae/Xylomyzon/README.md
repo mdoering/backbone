@@ -1,5 +1,4 @@
-Xylomyzon GENUS
-=======
+# Xylomyzon GENUS
 
 #### Status
 ACCEPTED

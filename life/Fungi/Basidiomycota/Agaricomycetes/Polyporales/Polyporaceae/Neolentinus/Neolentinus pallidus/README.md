@@ -1,17 +1,16 @@
-Pocillaria manciniana (Sacc. & Cub.) Kuntze, 1891 SPECIES
-=======
+# Neolentinus pallidus (Berk. & M.A. Curtis) Redhead & Ginns, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Trans. Mycol. Soc. Japan 26(3): 357 (1985)
 
 #### Original name
-Lentinus mancinianus Sacc. & Cub., 1887
+Lentinus pallidus Berk. & M.A. Curtis, 1853
 
 ### Remarks
 null

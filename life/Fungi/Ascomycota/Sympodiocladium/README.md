@@ -1,5 +1,4 @@
-Sympodiocladium Descals GENUS
-=======
+# Sympodiocladium Descals GENUS
 
 #### Status
 ACCEPTED

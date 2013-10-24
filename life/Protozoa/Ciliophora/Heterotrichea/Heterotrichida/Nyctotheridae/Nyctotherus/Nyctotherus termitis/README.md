@@ -1,5 +1,4 @@
-Nyctotherus termitis Dobell, 1910 SPECIES
-=======
+# Nyctotherus termitis Dobell, 1910 SPECIES
 
 #### Status
 ACCEPTED

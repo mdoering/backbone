@@ -1,5 +1,4 @@
-Verticicladium effusum Earle SPECIES
-=======
+# Verticicladium effusum Earle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entamoeba invadens Rodhaim, 1934 SPECIES
-=======
+# Entamoeba invadens Rodhaim, 1934 SPECIES
 
 #### Status
 ACCEPTED

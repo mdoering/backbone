@@ -1,5 +1,4 @@
-Leptomeliola hypnorum Racov. SPECIES
-=======
+# Leptomeliola hypnorum Racov. SPECIES
 
 #### Status
 ACCEPTED

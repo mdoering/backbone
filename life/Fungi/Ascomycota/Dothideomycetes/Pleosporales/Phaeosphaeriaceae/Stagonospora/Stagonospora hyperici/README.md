@@ -1,5 +1,4 @@
-Stagonospora hyperici Kuznetzova {?} & Deeva {?} SPECIES
-=======
+# Stagonospora hyperici Kuznetzova {?} & Deeva {?} SPECIES
 
 #### Status
 ACCEPTED

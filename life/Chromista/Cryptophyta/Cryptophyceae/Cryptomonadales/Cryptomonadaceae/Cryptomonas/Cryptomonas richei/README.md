@@ -1,5 +1,4 @@
-Cryptomonas richei F.E. Fritsch SPECIES
-=======
+# Cryptomonas richei F.E. Fritsch SPECIES
 
 #### Status
 ACCEPTED

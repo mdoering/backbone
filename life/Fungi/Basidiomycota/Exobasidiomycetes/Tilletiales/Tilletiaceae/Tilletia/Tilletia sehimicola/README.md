@@ -1,5 +1,4 @@
-Tilletia sehimicola R.G. Shivas & McTaggart SPECIES
-=======
+# Tilletia sehimicola R.G. Shivas & McTaggart SPECIES
 
 #### Status
 ACCEPTED

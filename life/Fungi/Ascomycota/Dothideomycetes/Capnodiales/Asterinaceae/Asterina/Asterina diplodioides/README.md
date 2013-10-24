@@ -1,5 +1,4 @@
-Asterina diplodioides Berk. & Cooke SPECIES
-=======
+# Asterina diplodioides Berk. & Cooke SPECIES
 
 #### Status
 ACCEPTED

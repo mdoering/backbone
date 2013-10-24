@@ -1,5 +1,4 @@
-Phyllosticta zeae-maydis Saccas SPECIES
-=======
+# Phyllosticta zeae-maydis Saccas SPECIES
 
 #### Status
 ACCEPTED

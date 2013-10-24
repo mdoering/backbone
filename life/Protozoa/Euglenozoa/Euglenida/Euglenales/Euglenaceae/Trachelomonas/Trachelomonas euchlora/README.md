@@ -1,5 +1,4 @@
-Trachelomonas euchlora var. playfairii Skvortsov VARIETY
-=======
+# Trachelomonas euchlora (Ehrenberg) Averinzew SPECIES
 
 #### Status
 ACCEPTED

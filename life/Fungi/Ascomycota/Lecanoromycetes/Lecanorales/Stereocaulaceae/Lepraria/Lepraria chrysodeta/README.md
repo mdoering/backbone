@@ -1,5 +1,4 @@
-Lepraria chrysodeta Räsänen SPECIES
-=======
+# Lepraria chrysodeta Räsänen SPECIES
 
 #### Status
 ACCEPTED

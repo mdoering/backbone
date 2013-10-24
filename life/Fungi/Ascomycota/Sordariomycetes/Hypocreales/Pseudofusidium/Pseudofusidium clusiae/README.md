@@ -1,5 +1,4 @@
-Pseudofusidium clusiae R.F. Castañeda SPECIES
-=======
+# Pseudofusidium clusiae R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium katodiniforme Elbrachter & Schnepf, 1979 SPECIES
-=======
+# Gymnodinium katodiniforme Elbrachter & Schnepf, 1979 SPECIES
 
 #### Status
 ACCEPTED

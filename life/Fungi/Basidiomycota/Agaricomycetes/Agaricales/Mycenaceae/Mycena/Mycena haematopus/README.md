@@ -1,17 +1,16 @@
-Agaricus haematopus var. haematopus VARIETY
-=======
+# Mycena haematopus (Pers.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) (1871)
 
 #### Original name
-null
+Agaricus haematopus Pers., 1800
 
 ### Remarks
 null

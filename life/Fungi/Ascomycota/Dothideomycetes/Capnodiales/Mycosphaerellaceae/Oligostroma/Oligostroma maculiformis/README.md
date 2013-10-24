@@ -1,5 +1,4 @@
-Oligostroma maculiformis (G. Winter) Doidge SPECIES
-=======
+# Oligostroma maculiformis (G. Winter) Doidge SPECIES
 
 #### Status
 ACCEPTED

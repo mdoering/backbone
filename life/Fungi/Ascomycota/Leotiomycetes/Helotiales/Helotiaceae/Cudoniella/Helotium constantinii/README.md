@@ -1,8 +1,7 @@
-Helotium constantini Boud. SPECIES
-=======
+# Helotium constantinii Boud. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helotium constantini Boud.
+Helotium constantinii Boud.
 
 ### Remarks
 null

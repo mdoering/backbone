@@ -1,17 +1,16 @@
-Helmisporium cordae Niessl SPECIES
-=======
+# Helminthosporium cordae Niessl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Verh. nat. Ver. Brünn 3: 74 (1865)
 
 #### Original name
-Helmisporium cordae Niessl
+Helminthosporium cordae Niessl
 
 ### Remarks
 null

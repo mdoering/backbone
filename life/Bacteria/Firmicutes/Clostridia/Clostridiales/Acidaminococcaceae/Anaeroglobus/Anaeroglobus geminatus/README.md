@@ -1,5 +1,4 @@
-Anaeroglobus geminatus Carlier et al., 2002 SPECIES
-=======
+# Anaeroglobus geminatus Carlier et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

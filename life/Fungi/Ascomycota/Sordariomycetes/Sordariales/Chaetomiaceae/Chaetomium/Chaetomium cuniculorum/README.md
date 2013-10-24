@@ -1,17 +1,16 @@
-Chaetomium teratoideum var. teratoideum VARIETY
-=======
+# Chaetomium cuniculorum Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of the Chaetomiaceae (U. S. Army Research and Development Service) 39 (1963)
+Jb. nassau. Ver. Naturk. 23-24: 89 (1870)
 
 #### Original name
-Chaetomium teratoideum var. teratoideum
+Chaetomium cuniculorum Fuckel, 1870
 
 ### Remarks
 null

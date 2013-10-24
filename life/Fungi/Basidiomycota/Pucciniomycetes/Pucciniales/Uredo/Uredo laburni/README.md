@@ -1,5 +1,4 @@
-Uredo laburni DC. SPECIES
-=======
+# Uredo laburni DC. SPECIES
 
 #### Status
 ACCEPTED

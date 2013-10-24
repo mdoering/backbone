@@ -1,5 +1,4 @@
-Hendersonia intermixta Cooke SPECIES
-=======
+# Hendersonia intermixta Cooke SPECIES
 
 #### Status
 ACCEPTED

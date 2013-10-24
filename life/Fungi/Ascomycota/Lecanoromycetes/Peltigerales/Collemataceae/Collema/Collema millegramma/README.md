@@ -1,5 +1,4 @@
-Collema millegramma Mont. SPECIES
-=======
+# Collema millegramma Mont. SPECIES
 
 #### Status
 ACCEPTED

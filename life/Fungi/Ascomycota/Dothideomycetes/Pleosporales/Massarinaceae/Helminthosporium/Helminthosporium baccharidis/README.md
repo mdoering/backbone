@@ -1,5 +1,4 @@
-Helminthosporium baccharidis Syd. SPECIES
-=======
+# Helminthosporium baccharidis Syd. SPECIES
 
 #### Status
 ACCEPTED

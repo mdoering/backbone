@@ -1,5 +1,4 @@
-Biatorina subpulicaris (Anzi) SPECIES
-=======
+# Biatorina subpulicaris (Anzi) SPECIES
 
 #### Status
 ACCEPTED

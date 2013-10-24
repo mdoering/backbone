@@ -1,5 +1,4 @@
-Wardina myocoproides (Sacc. & Berl.) G. Arnaud SPECIES
-=======
+# Wardina myocoproides (Sacc. & Berl.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

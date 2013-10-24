@@ -1,5 +1,4 @@
-Cibicides cora SPECIES
-=======
+# Cibicides cora SPECIES
 
 #### Status
 ACCEPTED

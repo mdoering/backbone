@@ -1,5 +1,4 @@
-Frondicularia australis Heron-Allen & Earland, 1924 SPECIES
-=======
+# Frondicularia australis Heron-Allen & Earland, 1924 SPECIES
 
 #### Status
 ACCEPTED

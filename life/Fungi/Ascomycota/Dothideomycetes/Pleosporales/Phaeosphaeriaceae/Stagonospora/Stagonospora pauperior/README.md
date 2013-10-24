@@ -1,5 +1,4 @@
-Stagonospora pauperior P. Karst. SPECIES
-=======
+# Stagonospora pauperior P. Karst. SPECIES
 
 #### Status
 ACCEPTED

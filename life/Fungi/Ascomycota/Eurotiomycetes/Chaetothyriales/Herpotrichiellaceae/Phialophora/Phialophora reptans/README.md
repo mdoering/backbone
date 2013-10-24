@@ -1,5 +1,4 @@
-Phialophora reptans de Hoog SPECIES
-=======
+# Phialophora reptans de Hoog SPECIES
 
 #### Status
 ACCEPTED

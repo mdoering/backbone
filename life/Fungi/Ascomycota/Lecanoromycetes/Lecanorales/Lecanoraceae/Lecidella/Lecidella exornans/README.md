@@ -1,5 +1,4 @@
-Lecidella exornans (Nyl.) Arnold SPECIES
-=======
+# Lecidella exornans (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

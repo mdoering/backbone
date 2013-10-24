@@ -1,5 +1,4 @@
-Trichoderma cinnamomeum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma cinnamomeum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

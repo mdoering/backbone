@@ -1,5 +1,4 @@
-Rinodina erythroda SPECIES
-=======
+# Rinodina erythroda SPECIES
 
 #### Status
 ACCEPTED

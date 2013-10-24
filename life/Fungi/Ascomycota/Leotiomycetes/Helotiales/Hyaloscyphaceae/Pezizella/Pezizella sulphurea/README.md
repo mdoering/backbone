@@ -1,5 +1,4 @@
-Pezizella sulphurea Velen. SPECIES
-=======
+# Pezizella sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

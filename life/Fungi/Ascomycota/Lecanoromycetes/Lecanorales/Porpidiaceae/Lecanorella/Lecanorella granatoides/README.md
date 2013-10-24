@@ -1,5 +1,4 @@
-Lecanorella granatoides Motyka SPECIES
-=======
+# Lecanorella granatoides Motyka SPECIES
 
 #### Status
 ACCEPTED

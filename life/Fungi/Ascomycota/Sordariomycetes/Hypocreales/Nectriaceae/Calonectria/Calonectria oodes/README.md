@@ -1,5 +1,4 @@
-Calonectria oodes Petch SPECIES
-=======
+# Calonectria oodes Petch SPECIES
 
 #### Status
 ACCEPTED

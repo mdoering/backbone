@@ -1,5 +1,4 @@
-Peziza leguminum Schwein. SPECIES
-=======
+# Peziza leguminum Schwein. SPECIES
 
 #### Status
 ACCEPTED

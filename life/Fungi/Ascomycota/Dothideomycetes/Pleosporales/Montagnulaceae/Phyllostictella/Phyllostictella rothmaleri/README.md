@@ -1,5 +1,4 @@
-Phyllostictella rothmaleri Unamuno SPECIES
-=======
+# Phyllostictella rothmaleri Unamuno SPECIES
 
 #### Status
 ACCEPTED

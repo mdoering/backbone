@@ -1,5 +1,4 @@
-Gyrotrema A. Frisch, 2006 GENUS
-=======
+# Gyrotrema A. Frisch, 2006 GENUS
 
 #### Status
 ACCEPTED

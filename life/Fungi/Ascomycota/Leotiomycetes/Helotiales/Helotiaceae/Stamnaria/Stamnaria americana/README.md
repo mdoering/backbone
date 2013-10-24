@@ -1,5 +1,4 @@
-Stamnaria americana Massee & Morgan, 1902 SPECIES
-=======
+# Stamnaria americana Massee & Morgan, 1902 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pheopolykrikos Chatton, 1933 GENUS
-=======
+# Pheopolykrikos Chatton, 1933 GENUS
 
 #### Status
 ACCEPTED

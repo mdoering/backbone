@@ -1,5 +1,4 @@
-Pertusaria antinoriana Jatta SPECIES
-=======
+# Pertusaria antinoriana Jatta SPECIES
 
 #### Status
 ACCEPTED

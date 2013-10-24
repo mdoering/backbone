@@ -1,17 +1,16 @@
-Lecidea planata Müll. Arg. SPECIES
-=======
+# Lecidea ochroleuca Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Flora, Jena 70: 61 (1887)
+in Gaudichaud-Beaupré, Voy. Uranie. Bot. 193 (1827)
 
 #### Original name
-Lecidea plana (J. Lahm) Nyl.
+Lecidea ochroleuca Pers.
 
 ### Remarks
 null

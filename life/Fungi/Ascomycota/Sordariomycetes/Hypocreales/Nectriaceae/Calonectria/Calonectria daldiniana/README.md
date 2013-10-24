@@ -1,5 +1,4 @@
-Calonectria daldiniana De Not., 1867 SPECIES
-=======
+# Calonectria daldiniana De Not., 1867 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fabraea antoniae var. antoniae VARIETY
-=======
+# Fabraea antoniae D. Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Fabraea antoniae var. antoniae
+Fabraea antoniae D. Sacc.
 
 ### Remarks
 null

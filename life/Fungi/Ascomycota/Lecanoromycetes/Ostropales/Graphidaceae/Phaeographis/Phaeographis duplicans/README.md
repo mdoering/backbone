@@ -1,5 +1,4 @@
-Phaeographis duplicans Müll. Arg. SPECIES
-=======
+# Phaeographis duplicans Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

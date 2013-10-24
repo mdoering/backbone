@@ -1,5 +1,4 @@
-Ceramothyrium biseptatum (Sacc.) Bat. & H. Maia SPECIES
-=======
+# Ceramothyrium biseptatum (Sacc.) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

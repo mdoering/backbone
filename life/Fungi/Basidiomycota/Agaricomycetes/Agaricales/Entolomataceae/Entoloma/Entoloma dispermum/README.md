@@ -1,5 +1,4 @@
-Entoloma dispermum (Kühner) Bon & Courtec. SPECIES
-=======
+# Entoloma dispermum (Kühner) Bon & Courtec. SPECIES
 
 #### Status
 ACCEPTED

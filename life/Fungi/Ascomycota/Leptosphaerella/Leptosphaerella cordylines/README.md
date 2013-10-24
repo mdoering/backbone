@@ -1,5 +1,4 @@
-Leptosphaerella cordylines Speg. SPECIES
-=======
+# Leptosphaerella cordylines Speg. SPECIES
 
 #### Status
 ACCEPTED

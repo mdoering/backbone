@@ -1,5 +1,4 @@
-Protospathidium arenicola Foissner & Xu, 2007 SPECIES
-=======
+# Protospathidium arenicola Foissner & Xu, 2007 SPECIES
 
 #### Status
 ACCEPTED

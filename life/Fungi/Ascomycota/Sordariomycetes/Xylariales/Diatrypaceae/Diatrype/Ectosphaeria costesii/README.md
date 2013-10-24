@@ -1,17 +1,16 @@
-Ectosphaeria costesi Speg. SPECIES
-=======
+# Ectosphaeria costesii Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 25: 48-49 (1921)
 
 #### Original name
-Ectosphaeria costesi Speg.
+Ectosphaeria costesii Speg.
 
 ### Remarks
 null

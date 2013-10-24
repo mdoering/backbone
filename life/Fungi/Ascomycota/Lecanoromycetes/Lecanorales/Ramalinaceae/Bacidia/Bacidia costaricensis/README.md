@@ -1,5 +1,4 @@
-Bacidia costaricensis Lücking SPECIES
-=======
+# Bacidia costaricensis Lücking SPECIES
 
 #### Status
 ACCEPTED

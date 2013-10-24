@@ -1,5 +1,4 @@
-Dimerosporium pellicula Syd. SPECIES
-=======
+# Dimerosporium pellicula Syd. SPECIES
 
 #### Status
 ACCEPTED

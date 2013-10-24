@@ -1,5 +1,4 @@
-Holothuriadeigma heterakainum Loeblich, 1970 SPECIES
-=======
+# Holothuriadeigma heterakainum Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

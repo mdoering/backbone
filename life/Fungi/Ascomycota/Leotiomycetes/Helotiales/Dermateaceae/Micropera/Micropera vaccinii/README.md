@@ -1,5 +1,4 @@
-Micropera vaccinii Ellis & Everh. SPECIES
-=======
+# Micropera vaccinii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

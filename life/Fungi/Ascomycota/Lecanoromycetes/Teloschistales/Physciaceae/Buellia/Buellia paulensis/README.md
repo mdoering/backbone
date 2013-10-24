@@ -1,5 +1,4 @@
-Buellia paulensis Zahlbr. SPECIES
-=======
+# Buellia paulensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

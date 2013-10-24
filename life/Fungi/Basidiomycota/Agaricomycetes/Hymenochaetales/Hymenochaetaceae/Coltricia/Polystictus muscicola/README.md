@@ -1,5 +1,4 @@
-Polystictus muscicola Wettst. SPECIES
-=======
+# Polystictus muscicola Wettst. SPECIES
 
 #### Status
 ACCEPTED

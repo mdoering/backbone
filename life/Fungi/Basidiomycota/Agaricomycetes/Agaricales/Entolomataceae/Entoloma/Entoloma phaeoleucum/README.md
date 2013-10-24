@@ -1,5 +1,4 @@
-Entoloma phaeoleucum Corner & E. Horak SPECIES
-=======
+# Entoloma phaeoleucum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

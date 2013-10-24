@@ -1,5 +1,4 @@
-Thelidium parvum C.W. Dodge & G.E. Baker SPECIES
-=======
+# Thelidium parvum C.W. Dodge & G.E. Baker SPECIES
 
 #### Status
 ACCEPTED

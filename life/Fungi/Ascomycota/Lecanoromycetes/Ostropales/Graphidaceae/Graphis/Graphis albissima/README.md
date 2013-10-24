@@ -1,5 +1,4 @@
-Graphis albissima Vain. SPECIES
-=======
+# Graphis albissima Vain. SPECIES
 
 #### Status
 ACCEPTED

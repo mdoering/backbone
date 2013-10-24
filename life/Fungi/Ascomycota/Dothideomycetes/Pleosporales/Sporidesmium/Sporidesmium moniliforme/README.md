@@ -1,5 +1,4 @@
-Sporidesmium moniliforme Matsush. SPECIES
-=======
+# Sporidesmium moniliforme Matsush. SPECIES
 
 #### Status
 ACCEPTED

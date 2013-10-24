@@ -1,5 +1,4 @@
-Xylobotryum dussii Pat. SPECIES
-=======
+# Xylobotryum dussii Pat. SPECIES
 
 #### Status
 ACCEPTED

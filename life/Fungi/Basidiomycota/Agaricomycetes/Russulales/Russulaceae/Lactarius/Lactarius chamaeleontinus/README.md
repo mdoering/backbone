@@ -1,5 +1,4 @@
-Lactarius chamaeleontinus R. Heim SPECIES
-=======
+# Lactarius chamaeleontinus R. Heim SPECIES
 
 #### Status
 ACCEPTED

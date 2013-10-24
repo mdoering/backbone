@@ -1,5 +1,4 @@
-Puccinia perfuncta H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia perfuncta H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

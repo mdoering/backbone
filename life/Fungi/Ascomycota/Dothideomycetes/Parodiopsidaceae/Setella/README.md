@@ -1,5 +1,4 @@
-Setella GENUS
-=======
+# Setella GENUS
 
 #### Status
 ACCEPTED

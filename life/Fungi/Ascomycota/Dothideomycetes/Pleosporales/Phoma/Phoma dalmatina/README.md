@@ -1,5 +1,4 @@
-Phoma dalmatina Jaap SPECIES
-=======
+# Phoma dalmatina Jaap SPECIES
 
 #### Status
 ACCEPTED

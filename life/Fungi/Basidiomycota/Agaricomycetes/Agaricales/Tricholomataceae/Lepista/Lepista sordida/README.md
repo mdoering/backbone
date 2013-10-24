@@ -1,17 +1,16 @@
-Tricholoma sordidum var. sordidum VARIETY
-=======
+# Lepista sordida (Schumach.) Singer, 1951 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Führ. Pilzk. (Zwickau) 134 (1871)
+Lilloa 22: 193 (1951)
 
 #### Original name
-Tricholoma sordidum var. sordidum
+Agaricus sordidus Bolton, 1788
 
 ### Remarks
 null

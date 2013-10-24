@@ -1,5 +1,4 @@
-Diplodina andromedae (Rostr.) Jørst. SPECIES
-=======
+# Diplodina andromedae (Rostr.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

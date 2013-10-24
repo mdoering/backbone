@@ -1,5 +1,4 @@
-Arthopyrenia sublittoralis (Leighton) Arnott SPECIES
-=======
+# Arthopyrenia sublittoralis (Leighton) Arnott SPECIES
 
 #### Status
 ACCEPTED

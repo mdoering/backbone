@@ -1,5 +1,4 @@
-Hypoxylites Kirschst. GENUS
-=======
+# Hypoxylites Kirschst. GENUS
 
 #### Status
 ACCEPTED

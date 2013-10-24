@@ -1,5 +1,4 @@
-Leptosphaeria cannabina Ferraris & Massa SPECIES
-=======
+# Leptosphaeria cannabina Ferraris & Massa SPECIES
 
 #### Status
 ACCEPTED

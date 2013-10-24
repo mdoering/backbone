@@ -1,5 +1,4 @@
-Sticta granulifera Hue SPECIES
-=======
+# Sticta granulifera Hue SPECIES
 
 #### Status
 ACCEPTED

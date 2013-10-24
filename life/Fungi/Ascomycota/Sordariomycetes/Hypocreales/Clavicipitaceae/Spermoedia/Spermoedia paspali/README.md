@@ -1,5 +1,4 @@
-Spermoedia paspali (Schwein.) Fr. SPECIES
-=======
+# Spermoedia paspali (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

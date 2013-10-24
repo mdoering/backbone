@@ -1,5 +1,4 @@
-Silicibacter pomeroyi González et al., 2003 SPECIES
-=======
+# Silicibacter pomeroyi González et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia silybi-mariani Staritz SPECIES
-=======
+# Diplodia silybi-mariani Staritz SPECIES
 
 #### Status
 ACCEPTED

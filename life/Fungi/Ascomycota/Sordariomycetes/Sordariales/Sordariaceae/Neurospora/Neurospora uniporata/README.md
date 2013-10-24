@@ -1,5 +1,4 @@
-Neurospora uniporata Stchigel, Dania García & Guarro SPECIES
-=======
+# Neurospora uniporata Stchigel, Dania García & Guarro SPECIES
 
 #### Status
 ACCEPTED

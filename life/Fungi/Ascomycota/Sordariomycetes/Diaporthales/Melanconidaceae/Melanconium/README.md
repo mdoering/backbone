@@ -1,17 +1,16 @@
-Dapsilosporium Corda GENUS
-=======
+# Melanconium Link, 1809 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 3(13): 75 (1837)
+null
 
 #### Original name
-Dapsilosporium Corda
+null
 
 ### Remarks
 null

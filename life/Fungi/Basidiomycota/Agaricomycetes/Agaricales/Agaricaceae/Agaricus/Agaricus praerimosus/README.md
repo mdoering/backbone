@@ -1,5 +1,4 @@
-Agaricus praerimosus Peck SPECIES
-=======
+# Agaricus praerimosus Peck SPECIES
 
 #### Status
 ACCEPTED

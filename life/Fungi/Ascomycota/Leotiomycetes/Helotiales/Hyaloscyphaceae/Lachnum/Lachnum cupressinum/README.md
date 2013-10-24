@@ -1,5 +1,4 @@
-Lachnum cupressinum Velen. SPECIES
-=======
+# Lachnum cupressinum Velen. SPECIES
 
 #### Status
 ACCEPTED

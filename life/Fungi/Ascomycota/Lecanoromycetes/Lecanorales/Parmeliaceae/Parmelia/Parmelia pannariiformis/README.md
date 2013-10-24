@@ -1,5 +1,4 @@
-Parmelia pannariiformis (Arnold) Vain. SPECIES
-=======
+# Parmelia pannariiformis (Arnold) Vain. SPECIES
 
 #### Status
 ACCEPTED

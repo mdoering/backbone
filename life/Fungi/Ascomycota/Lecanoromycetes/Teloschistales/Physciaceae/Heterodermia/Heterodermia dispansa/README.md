@@ -1,5 +1,4 @@
-Heterodermia dispansa SPECIES
-=======
+# Heterodermia dispansa SPECIES
 
 #### Status
 ACCEPTED

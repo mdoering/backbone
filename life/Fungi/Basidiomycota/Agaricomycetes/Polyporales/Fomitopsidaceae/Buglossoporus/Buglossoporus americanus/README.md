@@ -1,14 +1,13 @@
-Tyromyces americanus (D.A. Reid) Ryvarden & Iturr., 2003 SPECIES
-=======
+# Buglossoporus americanus D.A. Reid, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 95(6): 1076 (2003)
+Mem. N. Y. bot. Gdn 28(1): 179 (1976)
 
 #### Original name
 Buglossoporus americanus D.A. Reid, 1976

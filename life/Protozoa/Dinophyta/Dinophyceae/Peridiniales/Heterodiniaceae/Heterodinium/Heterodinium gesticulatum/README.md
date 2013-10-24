@@ -1,8 +1,7 @@
-Peridinium tristylum Hensen, 1911 SPECIES
-=======
+# Heterodinium gesticulatum Kofoid, 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

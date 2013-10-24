@@ -1,5 +1,4 @@
-Schizotrypanum Chagas, 1909 GENUS
-=======
+# Schizotrypanum Chagas, 1909 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidiobolus Nyland GENUS
-=======
+# Sporidiobolus Nyland GENUS
 
 #### Status
 ACCEPTED

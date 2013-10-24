@@ -1,5 +1,4 @@
-Parmathyrites robustus K.P. Jain & R.K. Kar SPECIES
-=======
+# Parmathyrites robustus K.P. Jain & R.K. Kar SPECIES
 
 #### Status
 ACCEPTED

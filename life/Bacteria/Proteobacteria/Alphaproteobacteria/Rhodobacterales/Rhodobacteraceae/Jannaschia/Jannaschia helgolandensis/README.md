@@ -1,5 +1,4 @@
-Jannaschia helgolandensis Wagner-Döbler et al., 2003 SPECIES
-=======
+# Jannaschia helgolandensis Wagner-Döbler et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

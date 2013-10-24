@@ -1,5 +1,4 @@
-Trullula phyllostictoides Speg. SPECIES
-=======
+# Trullula phyllostictoides Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlegmacium badiolatum M.M. Moser SPECIES
-=======
+# Phlegmacium badiolatum M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

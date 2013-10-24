@@ -1,5 +1,4 @@
-Puccinia gymnopetali-wightii T.S. Ramakr., Sriniv. & Sundaram SPECIES
-=======
+# Puccinia gymnopetali-wightii T.S. Ramakr., Sriniv. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

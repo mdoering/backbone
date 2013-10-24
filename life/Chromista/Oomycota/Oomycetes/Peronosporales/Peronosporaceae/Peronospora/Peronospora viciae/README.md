@@ -1,17 +1,16 @@
-Peronospora viciae f. sp FORM
-=======
+# Peronospora viciae (Berk.) de Bary, 1855 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Neth. Jl Pl. Path. 85(4): 166 (1979)
+Monatsber. Königl. Preuss. Akad. Wiss. Berlin 3(3): 330 (1855)
 
 #### Original name
-Peronospora viciae f. sp
+Botrytis viciae Berk., 1846
 
 ### Remarks
 null

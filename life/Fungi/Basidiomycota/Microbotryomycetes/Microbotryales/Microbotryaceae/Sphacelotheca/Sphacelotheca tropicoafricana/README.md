@@ -1,5 +1,4 @@
-Sphacelotheca tropicoafricana Zundel SPECIES
-=======
+# Sphacelotheca tropicoafricana Zundel SPECIES
 
 #### Status
 ACCEPTED

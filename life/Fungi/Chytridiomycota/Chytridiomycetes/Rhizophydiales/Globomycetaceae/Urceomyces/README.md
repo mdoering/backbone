@@ -1,5 +1,4 @@
-Urceomyces Letcher GENUS
-=======
+# Urceomyces Letcher GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Feldmannia globifer (Kuetz) Ham. SPECIES
-=======
+# Feldmannia globifer (Kuetz) Ham. SPECIES
 
 #### Status
 ACCEPTED

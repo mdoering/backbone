@@ -1,17 +1,16 @@
-Stereum repandum var. lusitanica Torrend VARIETY
-=======
+# Adustomyces lusitanicus (Torrend) Jülich, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 10(3): 326 (1979)
 
 #### Original name
-Stereum repandum var. lusitanica Torrend
+Stereum repandum var. lusitanicum Torrend, 1913
 
 ### Remarks
 null

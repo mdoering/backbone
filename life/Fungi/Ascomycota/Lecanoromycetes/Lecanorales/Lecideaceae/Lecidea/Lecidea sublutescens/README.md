@@ -1,5 +1,4 @@
-Lecidea sublutescens Nyl. SPECIES
-=======
+# Lecidea sublutescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium stercorarium Rostr. SPECIES
-=======
+# Fusarium stercorarium Rostr. SPECIES
 
 #### Status
 ACCEPTED

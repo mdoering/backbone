@@ -1,5 +1,4 @@
-Phyllosticta saccharina Ellis & G. Martin SPECIES
-=======
+# Phyllosticta saccharina Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

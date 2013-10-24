@@ -1,5 +1,4 @@
-Strickeria cephalandrae (E. Müll. & S. Ahmad) S. Ahmad SPECIES
-=======
+# Strickeria cephalandrae (E. Müll. & S. Ahmad) S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

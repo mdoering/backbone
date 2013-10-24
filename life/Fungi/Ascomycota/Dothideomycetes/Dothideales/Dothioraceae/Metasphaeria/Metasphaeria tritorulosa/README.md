@@ -1,14 +1,13 @@
-Leptosphaeria tritorulosa (Berk. & Broome) De Not. SPECIES
-=======
+# Metasphaeria tritorulosa (Berk. & Broome) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 157 (1883)
 
 #### Original name
 Sphaeria tritorulosa Plowr., 1878

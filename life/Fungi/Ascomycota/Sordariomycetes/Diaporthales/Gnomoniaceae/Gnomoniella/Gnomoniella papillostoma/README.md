@@ -1,5 +1,4 @@
-Gnomoniella papillostoma (Dearn. & House) M. Monod SPECIES
-=======
+# Gnomoniella papillostoma (Dearn. & House) M. Monod SPECIES
 
 #### Status
 ACCEPTED

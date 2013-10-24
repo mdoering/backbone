@@ -1,5 +1,4 @@
-Leiofusa carpatica Baltes, 1969 SPECIES
-=======
+# Leiofusa carpatica Baltes, 1969 SPECIES
 
 #### Status
 ACCEPTED

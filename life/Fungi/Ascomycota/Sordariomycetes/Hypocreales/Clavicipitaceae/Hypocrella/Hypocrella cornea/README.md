@@ -1,5 +1,4 @@
-Hypocrella cornea Petch SPECIES
-=======
+# Hypocrella cornea Petch SPECIES
 
 #### Status
 ACCEPTED

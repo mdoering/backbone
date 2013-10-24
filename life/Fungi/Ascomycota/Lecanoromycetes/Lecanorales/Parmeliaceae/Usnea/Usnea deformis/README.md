@@ -1,5 +1,4 @@
-Usnea deformis Motyka SPECIES
-=======
+# Usnea deformis Motyka SPECIES
 
 #### Status
 ACCEPTED

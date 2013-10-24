@@ -1,5 +1,4 @@
-Luellia furcata K.H. Larss. & Hjortstam, 1974 SPECIES
-=======
+# Luellia furcata K.H. Larss. & Hjortstam, 1974 SPECIES
 
 #### Status
 ACCEPTED

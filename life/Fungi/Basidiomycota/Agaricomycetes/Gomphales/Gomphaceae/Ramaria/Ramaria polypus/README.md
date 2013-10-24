@@ -1,5 +1,4 @@
-Ramaria polypus Corner, 1950 SPECIES
-=======
+# Ramaria polypus Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bomplandiella guarantica Speg. SPECIES
-=======
+# Bomplandiella guaranitica Speg., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anal. Soc. cient. argent. 22: (1886)
 
 #### Original name
-Bomplandiella guarantica Speg.
+Bomplandiella guaranitica Speg., 1886
 
 ### Remarks
 null

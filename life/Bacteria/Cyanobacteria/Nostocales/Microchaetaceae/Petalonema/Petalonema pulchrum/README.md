@@ -1,5 +1,4 @@
-Petalonema pulchrum (Frémy) Geitler SPECIES
-=======
+# Petalonema pulchrum (Frémy) Geitler SPECIES
 
 #### Status
 ACCEPTED

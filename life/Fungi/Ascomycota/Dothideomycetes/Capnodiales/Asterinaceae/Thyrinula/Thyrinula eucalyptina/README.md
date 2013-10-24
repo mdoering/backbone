@@ -1,5 +1,4 @@
-Thyrinula eucalyptina Petr. & Syd., 1924 SPECIES
-=======
+# Thyrinula eucalyptina Petr. & Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

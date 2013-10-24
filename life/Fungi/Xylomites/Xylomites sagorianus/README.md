@@ -1,5 +1,4 @@
-Xylomites sagorianus Ettingsh. SPECIES
-=======
+# Xylomites sagorianus Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

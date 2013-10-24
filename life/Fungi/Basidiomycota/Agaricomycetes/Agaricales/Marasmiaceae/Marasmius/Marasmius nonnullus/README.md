@@ -1,5 +1,4 @@
-Marasmius nonnullus var. nonnullus VARIETY
-=======
+# Marasmius nonnullus Corner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Nova Hedwigia, Beih. 111: 76 (1996)
 
 #### Original name
-Marasmius nonnullus var. nonnullus
+Marasmius nonnullus Corner
 
 ### Remarks
 null

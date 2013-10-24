@@ -1,5 +1,4 @@
-Usnea amaniensis C.W. Dodge SPECIES
-=======
+# Usnea amaniensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

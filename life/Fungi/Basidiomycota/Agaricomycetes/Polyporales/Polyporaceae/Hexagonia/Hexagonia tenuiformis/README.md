@@ -1,5 +1,4 @@
-Hexagonia tenuiformis Murrill SPECIES
-=======
+# Hexagonia tenuiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

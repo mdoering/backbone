@@ -1,5 +1,4 @@
-Zignoëlla soluta (Cooke & Ellis) Sacc. SPECIES
-=======
+# Zignoëlla soluta (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

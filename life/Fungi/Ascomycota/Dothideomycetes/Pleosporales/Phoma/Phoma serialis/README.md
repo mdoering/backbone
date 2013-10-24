@@ -1,5 +1,4 @@
-Phoma serialis Pat. SPECIES
-=======
+# Phoma serialis Pat. SPECIES
 
 #### Status
 ACCEPTED

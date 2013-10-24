@@ -1,14 +1,13 @@
-Buellia cinereocincta Müll. Arg. SPECIES
-=======
+# Baculifera cinereocincta (Müll. Arg.) Marbach SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 74: 115 (2000)
 
 #### Original name
 Buellia cinereocincta Müll. Arg.

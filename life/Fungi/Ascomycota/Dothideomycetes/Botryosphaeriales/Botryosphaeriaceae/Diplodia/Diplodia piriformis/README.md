@@ -1,5 +1,4 @@
-Diplodia piriformis (Preuss) Sacc. SPECIES
-=======
+# Diplodia piriformis (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

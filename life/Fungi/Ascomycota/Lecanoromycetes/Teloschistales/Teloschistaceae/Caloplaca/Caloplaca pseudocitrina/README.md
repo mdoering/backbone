@@ -1,5 +1,4 @@
-Caloplaca pseudocitrina Khodos. & Kudratov SPECIES
-=======
+# Caloplaca pseudocitrina Khodos. & Kudratov SPECIES
 
 #### Status
 ACCEPTED

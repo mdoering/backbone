@@ -1,5 +1,4 @@
-Hormosina pilulifera (Brady, 1884) SPECIES
-=======
+# Hormosina pilulifera (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

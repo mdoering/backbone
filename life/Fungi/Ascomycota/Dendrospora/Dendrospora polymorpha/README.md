@@ -1,5 +1,4 @@
-Dendrospora polymorpha A. Roldán & Descals, 1987 SPECIES
-=======
+# Dendrospora polymorpha A. Roldán & Descals, 1987 SPECIES
 
 #### Status
 ACCEPTED

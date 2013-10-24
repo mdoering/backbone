@@ -1,5 +1,4 @@
-Phormidium aqualimpidense (P. A. C. Senna & L. V. Ferreira) M. T. P. Azevedo SPECIES
-=======
+# Phormidium aqualimpidense (P. A. C. Senna & L. V. Ferreira) M. T. P. Azevedo SPECIES
 
 #### Status
 ACCEPTED

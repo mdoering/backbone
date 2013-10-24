@@ -1,5 +1,4 @@
-Phomopsis anacardii Early & Punith., 1972 SPECIES
-=======
+# Phomopsis anacardii Early & Punith., 1972 SPECIES
 
 #### Status
 ACCEPTED

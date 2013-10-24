@@ -1,5 +1,4 @@
-Meliola gouaniae Hansf. SPECIES
-=======
+# Meliola gouaniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

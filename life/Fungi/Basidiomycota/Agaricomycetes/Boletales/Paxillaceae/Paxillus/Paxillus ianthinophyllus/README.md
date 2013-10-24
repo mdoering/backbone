@@ -1,5 +1,4 @@
-Paxillus ianthinophyllus Bres. SPECIES
-=======
+# Paxillus ianthinophyllus Bres. SPECIES
 
 #### Status
 ACCEPTED

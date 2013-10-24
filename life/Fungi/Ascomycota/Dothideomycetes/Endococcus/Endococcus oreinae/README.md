@@ -1,5 +1,4 @@
-Endococcus oreinae Hafellner SPECIES
-=======
+# Endococcus oreinae Hafellner SPECIES
 
 #### Status
 ACCEPTED

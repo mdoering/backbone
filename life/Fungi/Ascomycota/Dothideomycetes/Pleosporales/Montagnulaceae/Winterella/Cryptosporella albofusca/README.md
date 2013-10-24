@@ -1,5 +1,4 @@
-Cryptosporella albofusca (Cooke & Ellis) Sacc. SPECIES
-=======
+# Cryptosporella albofusca (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

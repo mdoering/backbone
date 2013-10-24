@@ -1,5 +1,4 @@
-Dicaeoma amphispilusum (Dietel & Holw.) Arthur SPECIES
-=======
+# Dicaeoma amphispilusum (Dietel & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

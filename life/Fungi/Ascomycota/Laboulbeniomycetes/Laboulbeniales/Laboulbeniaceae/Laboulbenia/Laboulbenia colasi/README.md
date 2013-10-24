@@ -1,5 +1,4 @@
-Laboulbenia colasi Lepesme SPECIES
-=======
+# Laboulbenia colasi Lepesme SPECIES
 
 #### Status
 ACCEPTED

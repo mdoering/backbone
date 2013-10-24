@@ -1,5 +1,4 @@
-Hymenoscyphus subpallescens Dennis, 1975 SPECIES
-=======
+# Hymenoscyphus subpallescens Dennis, 1975 SPECIES
 
 #### Status
 ACCEPTED

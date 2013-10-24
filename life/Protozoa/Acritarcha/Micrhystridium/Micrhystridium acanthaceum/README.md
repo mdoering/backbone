@@ -1,5 +1,4 @@
-Micrhystridium acanthaceum Piskun, 1976 SPECIES
-=======
+# Micrhystridium acanthaceum Piskun, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptococcus suis (ex Elliot, 1966) Kilpper-Bälz & Schleifer, 1987 SPECIES
-=======
+# Streptococcus suis (ex Elliot, 1966) Kilpper-Bälz & Schleifer, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrella melaena Syd. SPECIES
-=======
+# Hypocrella melaena Syd. SPECIES
 
 #### Status
 ACCEPTED

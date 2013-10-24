@@ -1,5 +1,4 @@
-Pyxine reticulata (Vain.) Vain. SPECIES
-=======
+# Pyxine reticulata (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

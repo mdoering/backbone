@@ -1,5 +1,4 @@
-Agaricus cyanophos Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus cyanophos Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpetomonas dedonderi J.-P. Dedet, B. Geoffroy & J.-C. Benichou SPECIES
-=======
+# Herpetomonas dedonderi J.-P. Dedet, B. Geoffroy & J.-C. Benichou SPECIES
 
 #### Status
 ACCEPTED

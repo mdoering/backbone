@@ -1,5 +1,4 @@
-Ramaria pulcherrima (Lj.N. Vassiljeva) Lj.N. Vassiljeva SPECIES
-=======
+# Ramaria pulcherrima (Lj.N. Vassiljeva) Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

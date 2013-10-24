@@ -1,17 +1,16 @@
-Bresadolella aurea Höhn., 1903 SPECIES
-=======
+# Trichosphaerella decipiens E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(6): 522 (1903)
+in Saccardo, Syll. fung. (Abellini) 9: 604 (1891)
 
 #### Original name
-Bresadolella aurea Höhn., 1903
+Trichosphaerella decipiens E. Bommer, M. Rousseau & Sacc., 1891
 
 ### Remarks
 null

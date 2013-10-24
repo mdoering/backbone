@@ -1,5 +1,4 @@
-Lichenostigma svandae Vondrák & oun SPECIES
-=======
+# Lichenostigma svandae Vondrák & oun SPECIES
 
 #### Status
 ACCEPTED

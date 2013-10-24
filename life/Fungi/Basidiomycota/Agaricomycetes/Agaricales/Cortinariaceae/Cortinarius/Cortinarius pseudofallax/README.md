@@ -1,5 +1,4 @@
-Cortinarius pseudofallax Carteret SPECIES
-=======
+# Cortinarius pseudofallax Carteret SPECIES
 
 #### Status
 ACCEPTED

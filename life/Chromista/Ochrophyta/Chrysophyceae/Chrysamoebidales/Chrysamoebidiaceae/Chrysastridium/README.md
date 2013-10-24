@@ -1,5 +1,4 @@
-Chrysastridium Lauterborn, 1911 GENUS
-=======
+# Chrysastridium Lauterborn, 1911 GENUS
 
 #### Status
 ACCEPTED

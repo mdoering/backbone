@@ -1,5 +1,4 @@
-Auricularia levis Sowerby SPECIES
-=======
+# Auricularia levis Sowerby SPECIES
 
 #### Status
 ACCEPTED

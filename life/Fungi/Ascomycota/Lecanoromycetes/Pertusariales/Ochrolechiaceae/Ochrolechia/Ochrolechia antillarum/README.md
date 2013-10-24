@@ -1,5 +1,4 @@
-Ochrolechia antillarum Brodo SPECIES
-=======
+# Ochrolechia antillarum Brodo SPECIES
 
 #### Status
 ACCEPTED

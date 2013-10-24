@@ -1,5 +1,4 @@
-Aecidium mundulum H.S. Jacks. & Holw. SPECIES
-=======
+# Aecidium mundulum H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

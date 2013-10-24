@@ -1,5 +1,4 @@
-Maurodothella pisoniae (F. Stevens & R.W. Ryan) G. Arnaud SPECIES
-=======
+# Maurodothella pisoniae (F. Stevens & R.W. Ryan) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

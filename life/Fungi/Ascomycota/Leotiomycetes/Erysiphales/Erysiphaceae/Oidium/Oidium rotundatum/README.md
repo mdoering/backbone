@@ -1,5 +1,4 @@
-Oidium rotundatum Castell. SPECIES
-=======
+# Oidium rotundatum Castell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronosclerospora globosa Kubicek & R.G. Kenneth SPECIES
-=======
+# Peronosclerospora globosa Kubicek & R.G. Kenneth SPECIES
 
 #### Status
 ACCEPTED

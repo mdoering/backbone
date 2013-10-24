@@ -1,5 +1,4 @@
-Leprocaulon subalbicans (I.M. Lamb) I.M. Lamb & A.M. Ward SPECIES
-=======
+# Leprocaulon subalbicans (I.M. Lamb) I.M. Lamb & A.M. Ward SPECIES
 
 #### Status
 ACCEPTED

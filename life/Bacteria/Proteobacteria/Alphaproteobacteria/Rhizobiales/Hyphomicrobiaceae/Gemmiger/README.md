@@ -1,5 +1,4 @@
-Gemmiger GENUS
-=======
+# Gemmiger GENUS
 
 #### Status
 ACCEPTED

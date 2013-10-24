@@ -1,5 +1,4 @@
-Phaeographis afzelii Müll. Arg. SPECIES
-=======
+# Phaeographis afzelii Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

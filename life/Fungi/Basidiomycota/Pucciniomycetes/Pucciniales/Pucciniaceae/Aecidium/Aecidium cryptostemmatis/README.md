@@ -1,5 +1,4 @@
-Aecidium cryptostemmatis W.L. Waterh. SPECIES
-=======
+# Aecidium cryptostemmatis W.L. Waterh. SPECIES
 
 #### Status
 ACCEPTED

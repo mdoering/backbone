@@ -1,5 +1,4 @@
-Polyporus gordoni Berk. & Broome SPECIES
-=======
+# Polyporus gordoni Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

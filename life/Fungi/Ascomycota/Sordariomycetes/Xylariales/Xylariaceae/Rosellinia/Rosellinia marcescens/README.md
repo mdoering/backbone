@@ -1,5 +1,4 @@
-Rosellinia marcescens (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Rosellinia marcescens (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

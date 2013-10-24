@@ -1,5 +1,4 @@
-Verrucaria peminosa Nyl. SPECIES
-=======
+# Verrucaria peminosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

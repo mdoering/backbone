@@ -1,5 +1,4 @@
-Lactobacillus thermotolerans Niamsup et al., 2003 SPECIES
-=======
+# Lactobacillus thermotolerans Niamsup et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

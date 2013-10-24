@@ -1,5 +1,4 @@
-Polyblastia pseudoalbida (Servít) J. Nowak SPECIES
-=======
+# Polyblastia pseudoalbida (Servít) J. Nowak SPECIES
 
 #### Status
 ACCEPTED

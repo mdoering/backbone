@@ -1,5 +1,4 @@
-Pholiota fragilissima Rick SPECIES
-=======
+# Pholiota fragilissima Rick SPECIES
 
 #### Status
 ACCEPTED

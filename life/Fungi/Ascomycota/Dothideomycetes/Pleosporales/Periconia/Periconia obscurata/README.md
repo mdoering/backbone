@@ -1,5 +1,4 @@
-Periconia obscurata Kirschst. SPECIES
-=======
+# Periconia obscurata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

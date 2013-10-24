@@ -1,5 +1,4 @@
-Uromyces malloti Henn. SPECIES
-=======
+# Uromyces malloti Henn. SPECIES
 
 #### Status
 ACCEPTED

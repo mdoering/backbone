@@ -1,5 +1,4 @@
-Syndetocystis barbadensis Walker ex Chase SPECIES
-=======
+# Syndetocystis barbadensis Walker ex Chase SPECIES
 
 #### Status
 ACCEPTED

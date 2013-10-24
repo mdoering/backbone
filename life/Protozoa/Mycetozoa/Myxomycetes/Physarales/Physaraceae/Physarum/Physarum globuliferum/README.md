@@ -1,17 +1,16 @@
-Physarum globuliferum f. lilacinum Y. Yamam. FORM
-=======
+# Physarum globuliferum (Bull.) Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Myxomycete Biota of Japan (Tokyo) 443 (1998)
+Syn. meth. fung. (Göttingen) 1: 175 (1801)
 
 #### Original name
-Physarum lilacinum Fr., 1829
+Physarum globuliferum (Bull.) Pers., 1801
 
 ### Remarks
 null

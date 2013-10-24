@@ -1,5 +1,4 @@
-Lepraria brasiliensis Elix, Spielmann & Øvstedal SPECIES
-=======
+# Lepraria brasiliensis Elix, Spielmann & Øvstedal SPECIES
 
 #### Status
 ACCEPTED

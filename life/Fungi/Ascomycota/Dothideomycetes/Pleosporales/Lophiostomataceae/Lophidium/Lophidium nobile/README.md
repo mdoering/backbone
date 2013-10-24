@@ -1,5 +1,4 @@
-Lophidium nobile Sacc. SPECIES
-=======
+# Lophidium nobile Sacc. SPECIES
 
 #### Status
 ACCEPTED

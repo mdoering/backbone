@@ -1,5 +1,4 @@
-Corallomyces heinsenii Henn. SPECIES
-=======
+# Corallomyces heinsenii Henn. SPECIES
 
 #### Status
 ACCEPTED

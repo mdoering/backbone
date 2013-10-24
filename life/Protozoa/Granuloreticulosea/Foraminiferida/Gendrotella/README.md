@@ -1,5 +1,4 @@
-Gendrotella Maync, 1972 GENUS
-=======
+# Gendrotella Maync, 1972 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Simocybe semiglobata (Murrill) Singer SPECIES
-=======
+# Simocybe semiglobata (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Davidiella stephanorossiae (Duke) Aptroot, 2006 SPECIES
-=======
+# Davidiella stephanorossiae (Duke) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

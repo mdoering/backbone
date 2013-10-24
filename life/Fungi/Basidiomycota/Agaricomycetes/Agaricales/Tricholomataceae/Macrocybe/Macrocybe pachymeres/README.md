@@ -1,14 +1,13 @@
-Tricholoma pachymeres (Berk. & Broome) Sacc., 1887 SPECIES
-=======
+# Macrocybe pachymeres (Berk. & Broome) Pegler & Lodge, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Pegler, Lodge & Nakasone, Mycologia 90(3): 498 (1998)
 
 #### Original name
 Agaricus pachymeres Berk. & Broome, 1871

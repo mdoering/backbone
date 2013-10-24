@@ -1,5 +1,4 @@
-Inocybe insuavis (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Inocybe insuavis (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces eriophytis (Massee) Leath. SPECIES
-=======
+# Paecilomyces eriophytis (Massee) Leath. SPECIES
 
 #### Status
 ACCEPTED

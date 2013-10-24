@@ -1,5 +1,4 @@
-Shroderella C.A. Kofoid, 1907 GENUS
-=======
+# Shroderella C.A. Kofoid, 1907 GENUS
 
 #### Status
 ACCEPTED

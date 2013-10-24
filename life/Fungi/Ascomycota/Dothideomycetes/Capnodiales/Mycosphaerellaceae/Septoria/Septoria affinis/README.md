@@ -1,5 +1,4 @@
-Septoria affinis Sacc. SPECIES
-=======
+# Septoria affinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

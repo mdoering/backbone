@@ -1,5 +1,4 @@
-Florilus auricula SPECIES
-=======
+# Florilus auricula SPECIES
 
 #### Status
 ACCEPTED

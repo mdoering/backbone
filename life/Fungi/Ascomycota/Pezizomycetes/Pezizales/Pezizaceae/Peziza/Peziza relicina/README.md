@@ -1,5 +1,4 @@
-Peziza relicina Fr. SPECIES
-=======
+# Peziza relicina Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chamaeceras merulinus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras merulinus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

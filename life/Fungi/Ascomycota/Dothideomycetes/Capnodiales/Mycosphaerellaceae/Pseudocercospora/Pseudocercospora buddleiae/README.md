@@ -1,5 +1,4 @@
-Pseudocercospora buddleiae (W. Yamam.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora buddleiae (W. Yamam.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

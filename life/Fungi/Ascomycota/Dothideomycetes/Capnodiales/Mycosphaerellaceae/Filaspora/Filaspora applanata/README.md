@@ -1,5 +1,4 @@
-Filaspora applanata Preuss SPECIES
-=======
+# Filaspora applanata Preuss SPECIES
 
 #### Status
 ACCEPTED

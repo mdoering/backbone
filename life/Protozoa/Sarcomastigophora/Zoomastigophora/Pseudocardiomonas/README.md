@@ -1,5 +1,4 @@
-Pseudocardiomonas Bourrelly, 1966 GENUS
-=======
+# Pseudocardiomonas Bourrelly, 1966 GENUS
 
 #### Status
 ACCEPTED

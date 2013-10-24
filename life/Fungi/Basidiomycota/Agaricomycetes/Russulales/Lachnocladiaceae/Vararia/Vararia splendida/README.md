@@ -1,14 +1,13 @@
-Asterostromella splendida Viégas, 1945 SPECIES
-=======
+# Vararia splendida (Viégas) Boidin & Lanq., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bragantia 5: 256 (1945)
+Mycotaxon 6(2): 322 (1977)
 
 #### Original name
 Asterostromella splendida Viégas, 1945

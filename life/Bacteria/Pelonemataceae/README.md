@@ -1,5 +1,4 @@
-Pelonemataceae FAMILY
-=======
+# Pelonemataceae FAMILY
 
 #### Status
 ACCEPTED

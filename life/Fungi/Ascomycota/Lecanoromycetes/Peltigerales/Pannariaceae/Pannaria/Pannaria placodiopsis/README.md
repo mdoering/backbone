@@ -1,5 +1,4 @@
-Pannaria placodiopsis Nyl. SPECIES
-=======
+# Pannaria placodiopsis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus pampeanus Speg. SPECIES
-=======
+# Coprinus pampeanus Speg. SPECIES
 
 #### Status
 ACCEPTED

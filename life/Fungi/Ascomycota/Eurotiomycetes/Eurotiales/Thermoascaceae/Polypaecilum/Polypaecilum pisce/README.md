@@ -1,5 +1,4 @@
-Polypaecilum pisce A.D. Hocking & Pitt SPECIES
-=======
+# Polypaecilum pisce A.D. Hocking & Pitt SPECIES
 
 #### Status
 ACCEPTED

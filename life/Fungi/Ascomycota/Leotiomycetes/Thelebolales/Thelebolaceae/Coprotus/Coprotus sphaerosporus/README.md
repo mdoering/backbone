@@ -1,5 +1,4 @@
-Coprotus sphaerosporus J.L. Gibson & Kimbr., 1980 SPECIES
-=======
+# Coprotus sphaerosporus J.L. Gibson & Kimbr., 1980 SPECIES
 
 #### Status
 ACCEPTED

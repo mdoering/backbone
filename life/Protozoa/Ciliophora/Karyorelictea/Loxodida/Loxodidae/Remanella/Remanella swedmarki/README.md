@@ -1,8 +1,7 @@
-Tracheloraphis swedmarki Dragesco, 1960 SPECIES
-=======
+# Remanella swedmarki (Dragesco, 1954) Foissner, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

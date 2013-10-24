@@ -1,5 +1,4 @@
-Amanita parviformis (Murrill) Murrill SPECIES
-=======
+# Amanita parviformis (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

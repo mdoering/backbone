@@ -1,5 +1,4 @@
-Aposphaeria Berkeley, 1860 GENUS
-=======
+# Aposphaeria Berkeley, 1860 GENUS
 
 #### Status
 ACCEPTED

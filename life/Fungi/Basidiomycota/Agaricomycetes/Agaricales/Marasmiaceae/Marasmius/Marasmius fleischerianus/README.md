@@ -1,5 +1,4 @@
-Marasmius fleischerianus Henn. SPECIES
-=======
+# Marasmius fleischerianus Henn. SPECIES
 
 #### Status
 ACCEPTED

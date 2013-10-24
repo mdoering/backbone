@@ -1,5 +1,4 @@
-Cortinarius sintenisii Bres. SPECIES
-=======
+# Cortinarius sintenisii Bres. SPECIES
 
 #### Status
 ACCEPTED

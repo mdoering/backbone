@@ -1,5 +1,4 @@
-Flammula anepesia Mont. SPECIES
-=======
+# Flammula anepesia Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pythium actinosphaerii T. Brandt SPECIES
-=======
+# Pythium actinosphaerii T. Brandt SPECIES
 
 #### Status
 ACCEPTED

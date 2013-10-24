@@ -1,5 +1,4 @@
-Halalkalicoccus Xue, Fan, Ventosa, Grant, Jones, Cowan & Ma, 2005 GENUS
-=======
+# Halalkalicoccus Xue, Fan, Ventosa, Grant, Jones, Cowan & Ma, 2005 GENUS
 
 #### Status
 ACCEPTED

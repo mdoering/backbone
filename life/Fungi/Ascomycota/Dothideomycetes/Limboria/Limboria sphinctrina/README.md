@@ -1,5 +1,4 @@
-Limboria sphinctrina (Ach.) Dufour SPECIES
-=======
+# Limboria sphinctrina (Ach.) Dufour SPECIES
 
 #### Status
 ACCEPTED

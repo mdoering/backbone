@@ -1,5 +1,4 @@
-Humaria perpusilla Peyronel SPECIES
-=======
+# Humaria perpusilla Peyronel SPECIES
 
 #### Status
 ACCEPTED

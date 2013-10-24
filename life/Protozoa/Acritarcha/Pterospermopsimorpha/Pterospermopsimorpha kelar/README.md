@@ -1,5 +1,4 @@
-Pterospermopsimorpha kelar Timofeev, 1962 SPECIES
-=======
+# Pterospermopsimorpha kelar Timofeev, 1962 SPECIES
 
 #### Status
 ACCEPTED

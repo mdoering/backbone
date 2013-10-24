@@ -1,5 +1,4 @@
-Lecanora ochraceorubra (Räsänen) Cretz. SPECIES
-=======
+# Lecanora ochraceorubra (Räsänen) Cretz. SPECIES
 
 #### Status
 ACCEPTED

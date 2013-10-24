@@ -1,5 +1,4 @@
-Colletogloeopsis Crous & M.J. Wingf. GENUS
-=======
+# Colletogloeopsis Crous & M.J. Wingf. GENUS
 
 #### Status
 ACCEPTED

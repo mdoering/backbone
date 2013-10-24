@@ -1,5 +1,4 @@
-Microsporum circuluscentrum O. Magalh. SPECIES
-=======
+# Microsporum circuluscentrum O. Magalh. SPECIES
 
 #### Status
 ACCEPTED

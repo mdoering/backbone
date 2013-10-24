@@ -1,5 +1,4 @@
-Leptosphaeria ramsaugiensis Schmid-Heckel SPECIES
-=======
+# Leptosphaeria ramsaugiensis Schmid-Heckel SPECIES
 
 #### Status
 ACCEPTED

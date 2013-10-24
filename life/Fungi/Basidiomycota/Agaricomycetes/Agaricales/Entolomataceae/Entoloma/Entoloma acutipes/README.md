@@ -1,5 +1,4 @@
-Entoloma acutipes Largent SPECIES
-=======
+# Entoloma acutipes Largent SPECIES
 
 #### Status
 ACCEPTED

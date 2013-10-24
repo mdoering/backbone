@@ -1,5 +1,4 @@
-Phaeomarasmius globisporus Natarajan & Raman SPECIES
-=======
+# Phaeomarasmius globisporus Natarajan & Raman SPECIES
 
 #### Status
 ACCEPTED

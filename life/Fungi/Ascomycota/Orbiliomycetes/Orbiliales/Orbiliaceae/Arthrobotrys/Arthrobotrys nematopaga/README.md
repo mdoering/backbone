@@ -1,5 +1,4 @@
-Arthrobotrys nematopaga (Mekht. & Faizieva) A. Rubner SPECIES
-=======
+# Arthrobotrys nematopaga (Mekht. & Faizieva) A. Rubner SPECIES
 
 #### Status
 ACCEPTED

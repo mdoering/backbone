@@ -1,5 +1,4 @@
-Phyllosticta citricola Sacc. SPECIES
-=======
+# Phyllosticta citricola Sacc. SPECIES
 
 #### Status
 ACCEPTED

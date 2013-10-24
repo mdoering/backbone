@@ -1,5 +1,4 @@
-Cortinarius erythrojonipus (Fayod) Sacc. & D. Sacc. SPECIES
-=======
+# Cortinarius erythrojonipus (Fayod) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

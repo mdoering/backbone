@@ -1,5 +1,4 @@
-Ombrophila sphagnicola Velen. SPECIES
-=======
+# Ombrophila sphagnicola Velen. SPECIES
 
 #### Status
 ACCEPTED

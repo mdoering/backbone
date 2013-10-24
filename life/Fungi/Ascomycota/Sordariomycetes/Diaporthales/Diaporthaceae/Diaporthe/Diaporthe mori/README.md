@@ -1,17 +1,16 @@
-Phomopsis moricola Grove, 1917 SPECIES
-=======
+# Diaporthe mori Berl., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 59 (1917)
+Fungi Moric. 5: 9 (1888)
 
 #### Original name
-Phomopsis moricola Grove, 1917
+Diaporthe mori Berl., 1888
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Aspicilia personata (Leight.) C.W. Dodge SPECIES
-=======
+# Aspicilia personata (Leight.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota citrinofolia Métrod SPECIES
-=======
+# Pholiota citrinofolia Métrod SPECIES
 
 #### Status
 ACCEPTED

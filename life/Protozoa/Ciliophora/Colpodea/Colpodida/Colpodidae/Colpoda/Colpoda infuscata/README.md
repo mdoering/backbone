@@ -1,5 +1,4 @@
-Colpoda infuscata Perty, 1849 SPECIES
-=======
+# Colpoda infuscata Perty, 1849 SPECIES
 
 #### Status
 ACCEPTED

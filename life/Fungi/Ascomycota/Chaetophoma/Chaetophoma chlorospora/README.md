@@ -1,5 +1,4 @@
-Chaetophoma chlorospora Speg. SPECIES
-=======
+# Chaetophoma chlorospora Speg. SPECIES
 
 #### Status
 ACCEPTED

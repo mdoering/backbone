@@ -1,5 +1,4 @@
-Dicaeoma caricis-gibbae (Dietel) Syd. SPECIES
-=======
+# Dicaeoma caricis-gibbae (Dietel) Syd. SPECIES
 
 #### Status
 ACCEPTED

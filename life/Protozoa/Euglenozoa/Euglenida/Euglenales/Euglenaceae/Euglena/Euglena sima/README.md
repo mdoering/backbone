@@ -1,5 +1,4 @@
-Euglena sima Wermel SPECIES
-=======
+# Euglena sima Wermel SPECIES
 
 #### Status
 ACCEPTED

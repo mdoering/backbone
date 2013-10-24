@@ -1,5 +1,4 @@
-Pilosace fusconiveus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Pilosace fusconiveus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

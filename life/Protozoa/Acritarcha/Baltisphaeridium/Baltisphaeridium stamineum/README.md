@@ -1,5 +1,4 @@
-Baltisphaeridium stamineum Playford, 1977 SPECIES
-=======
+# Baltisphaeridium stamineum Playford, 1977 SPECIES
 
 #### Status
 ACCEPTED

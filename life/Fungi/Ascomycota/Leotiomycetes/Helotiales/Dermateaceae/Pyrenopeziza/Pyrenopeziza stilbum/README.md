@@ -1,5 +1,4 @@
-Pyrenopeziza stilbum Fuckel SPECIES
-=======
+# Pyrenopeziza stilbum Fuckel SPECIES
 
 #### Status
 ACCEPTED

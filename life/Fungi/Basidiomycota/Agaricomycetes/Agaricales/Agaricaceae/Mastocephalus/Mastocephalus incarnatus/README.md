@@ -1,5 +1,4 @@
-Mastocephalus incarnatus Clem. SPECIES
-=======
+# Mastocephalus incarnatus Clem. SPECIES
 
 #### Status
 ACCEPTED

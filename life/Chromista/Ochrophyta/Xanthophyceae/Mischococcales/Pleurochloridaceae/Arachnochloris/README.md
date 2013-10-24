@@ -1,5 +1,4 @@
-Arachnochloris A. Pascher, 1939 GENUS
-=======
+# Arachnochloris A. Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

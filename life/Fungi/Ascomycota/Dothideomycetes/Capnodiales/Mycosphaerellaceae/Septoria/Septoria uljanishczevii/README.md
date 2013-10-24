@@ -1,5 +1,4 @@
-Septoria uljanishczevii D.N. Babajan & Husseinova SPECIES
-=======
+# Septoria uljanishczevii D.N. Babajan & Husseinova SPECIES
 
 #### Status
 ACCEPTED

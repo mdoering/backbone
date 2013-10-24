@@ -1,14 +1,13 @@
-Dermocystidium daphniae Jírovec, 1939 SPECIES
-=======
+# Lymphocystidium daphniae (Jírovec) Weiser, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. 92: 145 (1939)
+Zoologischer Anzeiger 142: 205 (1943)
 
 #### Original name
 Dermocystidium daphniae Jírovec, 1939

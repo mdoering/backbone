@@ -1,5 +1,4 @@
-Marasmius tomentosipes Peck SPECIES
-=======
+# Marasmius tomentosipes Peck SPECIES
 
 #### Status
 ACCEPTED

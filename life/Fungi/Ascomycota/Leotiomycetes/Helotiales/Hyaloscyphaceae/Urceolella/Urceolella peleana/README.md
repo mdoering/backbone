@@ -1,5 +1,4 @@
-Urceolella peleana Huhtinen & Raitv. SPECIES
-=======
+# Urceolella peleana Huhtinen & Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopus elaeospora Sacc. & Fairm. SPECIES
-=======
+# Rhizopus elaeospora Sacc. & Fairm. SPECIES
 
 #### Status
 ACCEPTED

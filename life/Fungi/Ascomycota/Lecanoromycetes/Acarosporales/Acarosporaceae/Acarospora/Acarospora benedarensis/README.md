@@ -1,14 +1,13 @@
-Acarospora smaragdula var. benedarensis (M. Knowles) Clauzade & Cl. Roux VARIETY
-=======
+# Acarospora benedarensis M. Knowles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Bulletin du Musée d'Histoire Naturelle de Marseille 41: 70 (1981)
+Scientific Proc. R. Dublin Soc. , N. S. 14: 131 (1913)
 
 #### Original name
 Acarospora benedarensis M. Knowles

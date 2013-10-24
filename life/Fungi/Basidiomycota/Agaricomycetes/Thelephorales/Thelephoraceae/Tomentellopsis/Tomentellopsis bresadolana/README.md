@@ -1,17 +1,16 @@
-Corticium bresadolianum Sacc. & Trotter SPECIES
-=======
+# Tomentellopsis bresadolana (Sacc. & Trotter) Jülich & Stalpers, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. K. ned. Akad. Wet. , 2 Sectie 74: 255 (1980)
 
 #### Original name
-Corticium bresadolianum Sacc. & Trotter
+Corticium bresadolanum Sacc. & Trotter, 1912
 
 ### Remarks
 null

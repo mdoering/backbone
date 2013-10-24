@@ -1,17 +1,16 @@
-Physalospora moutoni Sacc. & P. Syd. SPECIES
-=======
+# Physalospora moutonii Sacc. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 16: 462 (1902)
 
 #### Original name
-Physalospora moutoni Sacc. & P. Syd.
+Physalospora moutonii Sacc. & P. Syd.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Tremellodendron pallidum (Schwein.) Burt SPECIES
-=======
+# Tremellodendron pallidum (Schwein.) Burt SPECIES
 
 #### Status
 ACCEPTED

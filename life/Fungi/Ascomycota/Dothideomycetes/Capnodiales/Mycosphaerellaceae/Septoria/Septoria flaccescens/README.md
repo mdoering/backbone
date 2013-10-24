@@ -1,5 +1,4 @@
-Septoria flaccescens McAlpine SPECIES
-=======
+# Septoria flaccescens McAlpine SPECIES
 
 #### Status
 ACCEPTED

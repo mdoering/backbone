@@ -1,5 +1,4 @@
-Lecidea bakeri Vain. SPECIES
-=======
+# Lecidea bakeri Vain. SPECIES
 
 #### Status
 ACCEPTED

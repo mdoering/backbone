@@ -1,5 +1,4 @@
-Biporipsilonites mollis (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Biporipsilonites mollis (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

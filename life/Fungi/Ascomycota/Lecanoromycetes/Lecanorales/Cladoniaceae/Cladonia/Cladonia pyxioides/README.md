@@ -1,5 +1,4 @@
-Cladonia pyxioides SPECIES
-=======
+# Cladonia pyxioides SPECIES
 
 #### Status
 ACCEPTED

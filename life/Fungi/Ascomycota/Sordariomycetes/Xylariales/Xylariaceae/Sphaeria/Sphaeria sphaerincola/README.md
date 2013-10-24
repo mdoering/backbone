@@ -1,5 +1,4 @@
-Sphaeria sphaerincola Schwein. SPECIES
-=======
+# Sphaeria sphaerincola Schwein. SPECIES
 
 #### Status
 ACCEPTED

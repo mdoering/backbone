@@ -1,5 +1,4 @@
-Galerina oreophila A.E. Wood SPECIES
-=======
+# Galerina oreophila A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

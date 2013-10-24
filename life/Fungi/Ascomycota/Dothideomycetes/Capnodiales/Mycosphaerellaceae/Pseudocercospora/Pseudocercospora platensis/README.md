@@ -1,14 +1,13 @@
-Cercospora platensis Speg., 1880 SPECIES
-=======
+# Pseudocercospora platensis (Speg.) U. Braun, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 9: 313 (1880)
+Schlechtendalia 5: 69 (2000)
 
 #### Original name
 Cercospora platensis Speg., 1880

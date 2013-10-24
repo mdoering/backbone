@@ -1,5 +1,4 @@
-Olssonina Bermúdez, 1949 GENUS
-=======
+# Olssonina Bermúdez, 1949 GENUS
 
 #### Status
 ACCEPTED

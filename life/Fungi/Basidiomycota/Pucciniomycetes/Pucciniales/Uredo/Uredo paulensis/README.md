@@ -1,5 +1,4 @@
-Uredo paulensis Henn. SPECIES
-=======
+# Uredo paulensis Henn. SPECIES
 
 #### Status
 ACCEPTED

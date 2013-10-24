@@ -1,5 +1,4 @@
-Sclerotinia arachidis Hanzawa SPECIES
-=======
+# Sclerotinia arachidis Hanzawa SPECIES
 
 #### Status
 ACCEPTED

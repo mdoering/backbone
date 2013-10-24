@@ -1,5 +1,4 @@
-Diplodia spegazzinia Roum. & Sacc. SPECIES
-=======
+# Diplodia spegazzinia Roum. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Protochytrium Borzí GENUS
-=======
+# Protochytrium Borzí GENUS
 
 #### Status
 ACCEPTED

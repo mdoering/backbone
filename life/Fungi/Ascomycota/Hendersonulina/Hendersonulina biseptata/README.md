@@ -1,5 +1,4 @@
-Hendersonulina biseptata (Sacc.) Tassi SPECIES
-=======
+# Hendersonulina biseptata (Sacc.) Tassi SPECIES
 
 #### Status
 ACCEPTED

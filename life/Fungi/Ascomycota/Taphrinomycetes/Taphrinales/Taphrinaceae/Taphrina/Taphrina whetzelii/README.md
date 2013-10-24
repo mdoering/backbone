@@ -1,5 +1,4 @@
-Taphrina whetzelii Mix SPECIES
-=======
+# Taphrina whetzelii Mix SPECIES
 
 #### Status
 ACCEPTED

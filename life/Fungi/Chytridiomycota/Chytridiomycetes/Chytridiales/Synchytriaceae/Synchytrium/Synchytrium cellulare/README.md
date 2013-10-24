@@ -1,5 +1,4 @@
-Synchytrium cellulare var. cellulare VARIETY
-=======
+# Synchytrium cellulare Davis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Trans. Wis. Acad. Sci. Arts Lett. 19(2): 681 (1919)
 
 #### Original name
-Synchytrium cellulare var. cellulare
+Synchytrium cellulare Davis
 
 ### Remarks
 null

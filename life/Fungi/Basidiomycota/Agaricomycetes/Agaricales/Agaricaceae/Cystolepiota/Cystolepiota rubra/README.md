@@ -1,5 +1,4 @@
-Cystolepiota rubra Singer SPECIES
-=======
+# Cystolepiota rubra Singer SPECIES
 
 #### Status
 ACCEPTED

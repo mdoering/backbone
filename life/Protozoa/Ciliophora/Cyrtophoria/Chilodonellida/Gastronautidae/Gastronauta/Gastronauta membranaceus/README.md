@@ -1,8 +1,7 @@
-Clamidodon stagnalis Dumas, 1929 SPECIES
-=======
+# Gastronauta membranaceus Engelmann in Bütschli, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

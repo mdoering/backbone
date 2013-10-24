@@ -1,5 +1,4 @@
-Marasmius pusillus Henn. SPECIES
-=======
+# Marasmius pusillus Henn. SPECIES
 
 #### Status
 ACCEPTED

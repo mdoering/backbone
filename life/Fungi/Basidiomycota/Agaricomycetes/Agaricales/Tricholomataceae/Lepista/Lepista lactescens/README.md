@@ -1,5 +1,4 @@
-Lepista lactescens (Pat.) Singer SPECIES
-=======
+# Lepista lactescens (Pat.) Singer SPECIES
 
 #### Status
 ACCEPTED

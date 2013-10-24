@@ -1,5 +1,4 @@
-Troglodytes Gabriel, 1876 GENUS
-=======
+# Troglodytes Gabriel, 1876 GENUS
 
 #### Status
 ACCEPTED

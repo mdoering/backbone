@@ -1,5 +1,4 @@
-Striatotheca geometrica (Deflandre, 1945) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Striatotheca geometrica (Deflandre, 1945) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

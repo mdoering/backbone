@@ -1,5 +1,4 @@
-Meliola bersamae Hansf. SPECIES
-=======
+# Meliola bersamae Hansf. SPECIES
 
 #### Status
 ACCEPTED

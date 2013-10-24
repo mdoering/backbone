@@ -1,5 +1,4 @@
-Bacidia incongruens SPECIES
-=======
+# Bacidia incongruens SPECIES
 
 #### Status
 ACCEPTED

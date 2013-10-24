@@ -1,17 +1,16 @@
-Debaryomyces japonicus H. Nagan., 1941 SPECIES
-=======
+# Debaryomyces nepalensis Goto & Sugiy., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Japanese Journal of Botany 43: 103 (1968)
 
 #### Original name
-null
+Debaryomyces nepalensis Goto & Sugiy., 1968
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Calycina spadiceoatra (Mont.) Kuntze SPECIES
-=======
+# Calycina spadiceoatra (Mont.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

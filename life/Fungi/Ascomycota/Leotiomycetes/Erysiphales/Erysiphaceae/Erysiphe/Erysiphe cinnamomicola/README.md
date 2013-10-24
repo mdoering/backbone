@@ -1,5 +1,4 @@
-Erysiphe cinnamomicola U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe cinnamomicola U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta petiveriae Bat. & A.F. Vital SPECIES
-=======
+# Phyllosticta petiveriae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

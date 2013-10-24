@@ -1,5 +1,4 @@
-Dingleya tectiascus Trappe, Castellano & Malajczuk SPECIES
-=======
+# Dingleya tectiascus Trappe, Castellano & Malajczuk SPECIES
 
 #### Status
 ACCEPTED

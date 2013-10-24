@@ -1,5 +1,4 @@
-Passalora gerardiae (Ellis & Dearn.) U. Braun SPECIES
-=======
+# Passalora gerardiae (Ellis & Dearn.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

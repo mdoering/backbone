@@ -1,5 +1,4 @@
-Annulatascus citriosporus J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Annulatascus citriosporus J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

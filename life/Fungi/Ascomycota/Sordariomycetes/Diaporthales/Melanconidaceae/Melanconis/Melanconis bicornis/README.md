@@ -1,5 +1,4 @@
-Melanconis bicornis Cooke SPECIES
-=======
+# Melanconis bicornis Cooke SPECIES
 
 #### Status
 ACCEPTED

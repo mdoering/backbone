@@ -1,5 +1,4 @@
-Imantonia rotunda Reynolds SPECIES
-=======
+# Imantonia rotunda Reynolds SPECIES
 
 #### Status
 ACCEPTED

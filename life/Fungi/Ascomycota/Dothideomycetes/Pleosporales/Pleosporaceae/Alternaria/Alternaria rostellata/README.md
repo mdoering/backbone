@@ -1,5 +1,4 @@
-Alternaria rostellata E.G. Simmons, 1996 SPECIES
-=======
+# Alternaria rostellata E.G. Simmons, 1996 SPECIES
 
 #### Status
 ACCEPTED

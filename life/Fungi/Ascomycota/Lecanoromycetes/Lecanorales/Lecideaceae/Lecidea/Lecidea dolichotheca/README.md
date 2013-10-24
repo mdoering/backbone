@@ -1,5 +1,4 @@
-Lecidea dolichotheca P. Crouan & H. Crouan SPECIES
-=======
+# Lecidea dolichotheca P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

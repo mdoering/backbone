@@ -1,5 +1,4 @@
-Burkholderia vandii Urakami et al., 1994 SPECIES
-=======
+# Burkholderia vandii Urakami et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

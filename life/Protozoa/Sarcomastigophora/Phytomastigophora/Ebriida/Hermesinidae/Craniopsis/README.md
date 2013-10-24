@@ -1,5 +1,4 @@
-Craniopsis Hovasse, 1932 GENUS
-=======
+# Craniopsis Hovasse, 1932 GENUS
 
 #### Status
 ACCEPTED

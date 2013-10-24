@@ -1,5 +1,4 @@
-Inocybe praepostera (Britzelm.) Sacc. SPECIES
-=======
+# Inocybe praepostera (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

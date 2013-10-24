@@ -1,5 +1,4 @@
-Tuburcinia festucae-elatioris Hintikka SPECIES
-=======
+# Tuburcinia festucae-elatioris Hintikka SPECIES
 
 #### Status
 ACCEPTED

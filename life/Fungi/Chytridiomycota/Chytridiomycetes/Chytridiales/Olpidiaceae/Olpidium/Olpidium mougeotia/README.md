@@ -1,5 +1,4 @@
-Olpidium mougeotia Skvortsov SPECIES
-=======
+# Olpidium mougeotia Skvortsov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota sulphureofloccosa Speg. SPECIES
-=======
+# Lepiota sulphureofloccosa Speg. SPECIES
 
 #### Status
 ACCEPTED

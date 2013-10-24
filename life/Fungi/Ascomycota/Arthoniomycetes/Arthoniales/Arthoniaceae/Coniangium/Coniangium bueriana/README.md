@@ -1,5 +1,4 @@
-Coniangium bueriana J. Lahm SPECIES
-=======
+# Coniangium bueriana J. Lahm SPECIES
 
 #### Status
 ACCEPTED

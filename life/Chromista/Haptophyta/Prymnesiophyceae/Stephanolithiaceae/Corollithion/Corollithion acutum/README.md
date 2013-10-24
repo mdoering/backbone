@@ -1,5 +1,4 @@
-Corollithion acutum SPECIES
-=======
+# Corollithion acutum SPECIES
 
 #### Status
 ACCEPTED

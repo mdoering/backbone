@@ -1,5 +1,4 @@
-Clisosporium paradenycum (Sacc.) Kuntze SPECIES
-=======
+# Clisosporium paradenycum (Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phacopsis doerfeltii Alstrup & P. Scholz SPECIES
-=======
+# Phacopsis doerfeltii Alstrup & P. Scholz SPECIES
 
 #### Status
 ACCEPTED

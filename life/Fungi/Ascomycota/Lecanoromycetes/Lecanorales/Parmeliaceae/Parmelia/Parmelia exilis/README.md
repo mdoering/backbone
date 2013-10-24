@@ -1,5 +1,4 @@
-Parmelia exilis (Michx.) Spreng. SPECIES
-=======
+# Parmelia exilis (Michx.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

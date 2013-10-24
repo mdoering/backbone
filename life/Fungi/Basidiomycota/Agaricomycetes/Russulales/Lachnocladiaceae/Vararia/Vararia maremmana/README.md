@@ -1,5 +1,4 @@
-Vararia maremmana Bernicchia, 1992 SPECIES
-=======
+# Vararia maremmana Bernicchia, 1992 SPECIES
 
 #### Status
 ACCEPTED

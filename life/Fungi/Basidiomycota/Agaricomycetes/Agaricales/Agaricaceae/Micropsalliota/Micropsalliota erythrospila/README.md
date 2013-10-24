@@ -1,5 +1,4 @@
-Micropsalliota erythrospila (Berk. & Broome) Pegler SPECIES
-=======
+# Micropsalliota erythrospila (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

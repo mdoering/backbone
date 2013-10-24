@@ -1,5 +1,4 @@
-Mastigocladopsis jogensis Iyengar & Desikachary SPECIES
-=======
+# Mastigocladopsis jogensis Iyengar & Desikachary SPECIES
 
 #### Status
 ACCEPTED

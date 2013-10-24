@@ -1,5 +1,4 @@
-Pseudocapsa maritima Komárek SPECIES
-=======
+# Pseudocapsa maritima Komárek SPECIES
 
 #### Status
 ACCEPTED

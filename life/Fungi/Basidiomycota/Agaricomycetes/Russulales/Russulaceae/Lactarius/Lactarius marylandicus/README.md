@@ -1,5 +1,4 @@
-Lactarius marylandicus A.H. Sm. & Hesler SPECIES
-=======
+# Lactarius marylandicus A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

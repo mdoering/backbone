@@ -1,5 +1,4 @@
-Entoloma martinicum (Pegler) Courtec. & Fiard SPECIES
-=======
+# Entoloma martinicum (Pegler) Courtec. & Fiard SPECIES
 
 #### Status
 ACCEPTED

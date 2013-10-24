@@ -1,5 +1,4 @@
-Secoliga rosea Eitner SPECIES
-=======
+# Secoliga rosea Eitner SPECIES
 
 #### Status
 ACCEPTED

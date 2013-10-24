@@ -1,5 +1,4 @@
-Trichobelonium albogranulatum Rehm SPECIES
-=======
+# Trichobelonium albogranulatum Rehm SPECIES
 
 #### Status
 ACCEPTED

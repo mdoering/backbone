@@ -1,5 +1,4 @@
-Sporobolomyces ogasawarensis Hamam., Thanh & Nakase SPECIES
-=======
+# Sporobolomyces ogasawarensis Hamam., Thanh & Nakase SPECIES
 
 #### Status
 ACCEPTED

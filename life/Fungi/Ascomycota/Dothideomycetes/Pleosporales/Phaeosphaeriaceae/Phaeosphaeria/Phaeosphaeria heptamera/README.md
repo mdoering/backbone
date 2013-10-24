@@ -1,5 +1,4 @@
-Phaeosphaeria heptamera Shoemaker & C.E. Babc. SPECIES
-=======
+# Phaeosphaeria heptamera Shoemaker & C.E. Babc. SPECIES
 
 #### Status
 ACCEPTED

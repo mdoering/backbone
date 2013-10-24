@@ -1,5 +1,4 @@
-Leucophra fossulata Bory, 1824 SPECIES
-=======
+# Leucophra fossulata Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

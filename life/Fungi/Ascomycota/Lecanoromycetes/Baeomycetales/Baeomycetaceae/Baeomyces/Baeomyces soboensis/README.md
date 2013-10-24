@@ -1,5 +1,4 @@
-Baeomyces soboensis Yasuda ex Sato {?} SPECIES
-=======
+# Baeomyces soboensis Yasuda ex Sato {?} SPECIES
 
 #### Status
 ACCEPTED

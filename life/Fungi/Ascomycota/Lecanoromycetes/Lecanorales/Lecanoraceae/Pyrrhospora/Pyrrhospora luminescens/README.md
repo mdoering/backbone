@@ -1,5 +1,4 @@
-Pyrrhospora luminescens Aptroot & Wolseley SPECIES
-=======
+# Pyrrhospora luminescens Aptroot & Wolseley SPECIES
 
 #### Status
 ACCEPTED

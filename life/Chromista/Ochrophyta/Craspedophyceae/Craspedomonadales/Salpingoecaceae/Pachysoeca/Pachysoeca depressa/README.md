@@ -1,5 +1,4 @@
-Pachysoeca depressa Ellis, 1932 SPECIES
-=======
+# Pachysoeca depressa Ellis, 1932 SPECIES
 
 #### Status
 ACCEPTED

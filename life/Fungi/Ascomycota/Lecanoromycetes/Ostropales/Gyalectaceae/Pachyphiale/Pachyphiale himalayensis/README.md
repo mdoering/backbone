@@ -1,5 +1,4 @@
-Pachyphiale himalayensis Vezda & Poelt SPECIES
-=======
+# Pachyphiale himalayensis Vezda & Poelt SPECIES
 
 #### Status
 ACCEPTED

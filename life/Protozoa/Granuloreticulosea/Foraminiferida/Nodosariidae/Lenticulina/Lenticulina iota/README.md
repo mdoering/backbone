@@ -1,5 +1,4 @@
-Lenticulina iota (Cushman) SPECIES
-=======
+# Lenticulina iota (Cushman) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremellodendron hibbardii Lloyd SPECIES
-=======
+# Tremellodendron hibbardii Lloyd SPECIES
 
 #### Status
 ACCEPTED

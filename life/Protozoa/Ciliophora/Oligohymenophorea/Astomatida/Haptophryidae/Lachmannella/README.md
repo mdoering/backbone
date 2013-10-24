@@ -1,5 +1,4 @@
-Lachmannella GENUS
-=======
+# Lachmannella GENUS
 
 #### Status
 ACCEPTED

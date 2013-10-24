@@ -1,5 +1,4 @@
-Perona GENUS
-=======
+# Perona GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon vestitus K.A. Harrison & A.H. Sm. SPECIES
-=======
+# Rhizopogon vestitus K.A. Harrison & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

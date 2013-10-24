@@ -1,5 +1,4 @@
-Lophiostoma heterostomum Ellis & Everh. SPECIES
-=======
+# Lophiostoma heterostomum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

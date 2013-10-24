@@ -1,5 +1,4 @@
-Maublancia trichocladii (Doidge) Arx SPECIES
-=======
+# Maublancia trichocladii (Doidge) Arx SPECIES
 
 #### Status
 ACCEPTED

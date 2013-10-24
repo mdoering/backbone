@@ -1,5 +1,4 @@
-Acaulium violaceum Sopp SPECIES
-=======
+# Acaulium violaceum Sopp SPECIES
 
 #### Status
 ACCEPTED

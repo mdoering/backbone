@@ -1,5 +1,4 @@
-Boletus subsolitarius Singer SPECIES
-=======
+# Boletus subsolitarius Singer SPECIES
 
 #### Status
 ACCEPTED

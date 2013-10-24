@@ -1,14 +1,13 @@
-Armillariella limonea G. Stev., 1964 SPECIES
-=======
+# Armillaria limonea (G. Stev.) Boesew., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kew Bull. 19(1): 13 (1964)
+N. Z. Jl agric. Res. 20: 585 (1977)
 
 #### Original name
 Armillariella limonea G. Stev., 1964

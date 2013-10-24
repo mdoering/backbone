@@ -1,5 +1,4 @@
-Thailandia GENUS
-=======
+# Thailandia GENUS
 
 #### Status
 ACCEPTED

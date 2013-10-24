@@ -1,5 +1,4 @@
-Cyclodonta bipartita (Stokes, 1885) Matthes, 1958 SPECIES
-=======
+# Cyclodonta bipartita (Stokes, 1885) Matthes, 1958 SPECIES
 
 #### Status
 ACCEPTED

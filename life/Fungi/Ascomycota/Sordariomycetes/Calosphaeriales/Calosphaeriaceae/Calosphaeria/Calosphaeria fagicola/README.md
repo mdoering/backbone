@@ -1,5 +1,4 @@
-Calosphaeria fagicola Petr. SPECIES
-=======
+# Calosphaeria fagicola Petr. SPECIES
 
 #### Status
 ACCEPTED

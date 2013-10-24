@@ -1,17 +1,16 @@
-Sphaerella grumiformis P. Karst., 1873 SPECIES
-=======
+# Gibbera grumiformis (P. Karst.) M.E. Barr, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 39: 314 (1961)
 
 #### Original name
-null
+Sphaerella grumiformis P. Karst., 1873
 
 ### Remarks
 null

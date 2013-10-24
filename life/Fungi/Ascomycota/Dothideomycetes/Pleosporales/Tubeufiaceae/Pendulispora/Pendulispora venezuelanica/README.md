@@ -1,5 +1,4 @@
-Pendulispora venezuelanica M.B. Ellis, 1961 SPECIES
-=======
+# Pendulispora venezuelanica M.B. Ellis, 1961 SPECIES
 
 #### Status
 ACCEPTED

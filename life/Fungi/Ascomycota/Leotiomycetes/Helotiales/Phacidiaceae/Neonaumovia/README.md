@@ -1,5 +1,4 @@
-Neonaumovia GENUS
-=======
+# Neonaumovia GENUS
 
 #### Status
 ACCEPTED

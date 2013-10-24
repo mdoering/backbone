@@ -1,5 +1,4 @@
-Tremella pinnatifida Spreng. ex Fr. SPECIES
-=======
+# Tremella pinnatifida Spreng. ex Fr. SPECIES
 
 #### Status
 ACCEPTED

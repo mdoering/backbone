@@ -1,5 +1,4 @@
-Fomitiporia australiensis M. Fisch., J. Edwards, Cunningt. & Pascoe, 2005 SPECIES
-=======
+# Fomitiporia australiensis M. Fisch., J. Edwards, Cunningt. & Pascoe, 2005 SPECIES
 
 #### Status
 ACCEPTED

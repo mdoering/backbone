@@ -1,5 +1,4 @@
-Agaricus coralloides Scop. SPECIES
-=======
+# Agaricus coralloides Scop. SPECIES
 
 #### Status
 ACCEPTED

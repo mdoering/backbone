@@ -1,5 +1,4 @@
-Gulosibacter Manaia et al., 2004 GENUS
-=======
+# Gulosibacter Manaia et al., 2004 GENUS
 
 #### Status
 ACCEPTED

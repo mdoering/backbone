@@ -1,5 +1,4 @@
-Mucor geophilis Oudemans SPECIES
-=======
+# Mucor geophilis Oudemans SPECIES
 
 #### Status
 ACCEPTED

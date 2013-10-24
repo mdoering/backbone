@@ -1,5 +1,4 @@
-Cornuspira planorbis Schultze, 1854 SPECIES
-=======
+# Cornuspira planorbis Schultze, 1854 SPECIES
 
 #### Status
 DOUBTFUL

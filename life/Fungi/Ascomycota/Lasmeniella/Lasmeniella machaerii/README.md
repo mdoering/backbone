@@ -1,5 +1,4 @@
-Lasmeniella machaerii (Henn.) Petr. & Syd. SPECIES
-=======
+# Lasmeniella machaerii (Henn.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

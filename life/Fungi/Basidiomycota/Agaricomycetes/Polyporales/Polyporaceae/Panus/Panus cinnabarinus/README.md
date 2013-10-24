@@ -1,5 +1,4 @@
-Panus cinnabarinus Fr. SPECIES
-=======
+# Panus cinnabarinus Fr. SPECIES
 
 #### Status
 ACCEPTED

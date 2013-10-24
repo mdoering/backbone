@@ -1,5 +1,4 @@
-Borelis pulchra SPECIES
-=======
+# Borelis pulchra SPECIES
 
 #### Status
 ACCEPTED

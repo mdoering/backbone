@@ -1,5 +1,4 @@
-Squamarina antarctica C.W. Dodge SPECIES
-=======
+# Squamarina antarctica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

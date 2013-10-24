@@ -1,5 +1,4 @@
-Lecidea pseudosaxatilis Samp. SPECIES
-=======
+# Lecidea pseudosaxatilis Samp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia smilacinae Dearn. & House SPECIES
-=======
+# Laestadia smilacinae Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

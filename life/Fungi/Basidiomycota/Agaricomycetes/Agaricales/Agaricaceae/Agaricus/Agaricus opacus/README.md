@@ -1,5 +1,4 @@
-Agaricus opacus J.F. Gmel. SPECIES
-=======
+# Agaricus opacus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargogyne clavus (DC.) Kremp. SPECIES
-=======
+# Sargogyne clavus (DC.) Kremp. SPECIES
 
 #### Status
 ACCEPTED

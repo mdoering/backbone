@@ -1,5 +1,4 @@
-Capnodium paraguayense Speg. SPECIES
-=======
+# Capnodium paraguayense Speg. SPECIES
 
 #### Status
 ACCEPTED

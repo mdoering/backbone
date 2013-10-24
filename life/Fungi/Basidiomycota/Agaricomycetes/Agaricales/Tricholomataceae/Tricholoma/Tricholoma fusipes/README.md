@@ -1,5 +1,4 @@
-Tricholoma fusipes Kosina SPECIES
-=======
+# Tricholoma fusipes Kosina SPECIES
 
 #### Status
 ACCEPTED

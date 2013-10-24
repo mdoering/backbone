@@ -1,5 +1,4 @@
-Urostyla rubra Andrussowa, 1886 SPECIES
-=======
+# Urostyla rubra Andrussowa, 1886 SPECIES
 
 #### Status
 ACCEPTED

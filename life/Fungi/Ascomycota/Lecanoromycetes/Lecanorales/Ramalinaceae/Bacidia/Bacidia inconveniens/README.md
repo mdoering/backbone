@@ -1,5 +1,4 @@
-Bacidia inconveniens (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia inconveniens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

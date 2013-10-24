@@ -1,5 +1,4 @@
-Hendersonia japonica (Hara) Hara SPECIES
-=======
+# Hendersonia japonica (Hara) Hara SPECIES
 
 #### Status
 ACCEPTED

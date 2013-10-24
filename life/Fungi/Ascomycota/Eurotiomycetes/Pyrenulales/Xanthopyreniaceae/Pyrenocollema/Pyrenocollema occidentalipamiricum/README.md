@@ -1,5 +1,4 @@
-Pyrenocollema occidentalipamiricum N.S. Golubk. & Bredkina SPECIES
-=======
+# Pyrenocollema occidentalipamiricum N.S. Golubk. & Bredkina SPECIES
 
 #### Status
 ACCEPTED

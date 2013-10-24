@@ -1,17 +1,16 @@
-Conotrematomyces Cif. & Tomas. GENUS
-=======
+# Conotrema Tuck. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10(1): 36, 63 (1953)
+Proc. Amer. Acad. Arts & Sci. 1: 199, 278 (1848)
 
 #### Original name
-Conotrematomyces Cif. & Tomas.
+Conotrema Tuck.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Galorrheus rubellus P. Kumm. SPECIES
-=======
+# Galorrheus rubellus P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

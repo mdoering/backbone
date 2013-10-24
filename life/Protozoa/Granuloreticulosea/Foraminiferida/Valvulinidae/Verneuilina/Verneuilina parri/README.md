@@ -1,5 +1,4 @@
-Verneuilina parri Cushman SPECIES
-=======
+# Verneuilina parri Cushman SPECIES
 
 #### Status
 ACCEPTED

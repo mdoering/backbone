@@ -1,5 +1,4 @@
-Cercospora choristigmatis Syd. {?} SPECIES
-=======
+# Cercospora choristigmatis Syd. {?} SPECIES
 
 #### Status
 ACCEPTED

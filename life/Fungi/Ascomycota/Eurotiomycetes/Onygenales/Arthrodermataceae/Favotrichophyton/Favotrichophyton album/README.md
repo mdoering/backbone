@@ -1,5 +1,4 @@
-Favotrichophyton album var. album VARIETY
-=======
+# Favotrichophyton album SPECIES
 
 #### Status
 ACCEPTED

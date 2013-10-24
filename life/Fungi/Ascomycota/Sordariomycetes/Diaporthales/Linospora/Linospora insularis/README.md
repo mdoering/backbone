@@ -1,5 +1,4 @@
-Linospora insularis Johanson SPECIES
-=======
+# Linospora insularis Johanson SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria rubescens var. rubescens VARIETY
-=======
+# Pertusaria rubescens Erichsen SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria rubescens var. rubescens
+Pertusaria rubescens Erichsen
 
 ### Remarks
 null

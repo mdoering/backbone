@@ -1,5 +1,4 @@
-Usnea elata Motyka SPECIES
-=======
+# Usnea elata Motyka SPECIES
 
 #### Status
 ACCEPTED

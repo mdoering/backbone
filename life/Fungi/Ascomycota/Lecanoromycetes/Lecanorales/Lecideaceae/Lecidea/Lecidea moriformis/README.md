@@ -1,5 +1,4 @@
-Lecidea moriformis (Ach.) Samp. SPECIES
-=======
+# Lecidea moriformis (Ach.) Samp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polysaccum leptothecum Reichardt SPECIES
-=======
+# Polysaccum leptothecum Reichardt SPECIES
 
 #### Status
 ACCEPTED

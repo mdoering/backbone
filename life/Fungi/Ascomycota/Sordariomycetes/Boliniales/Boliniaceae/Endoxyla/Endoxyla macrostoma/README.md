@@ -1,5 +1,4 @@
-Endoxyla macrostoma Fuckel SPECIES
-=======
+# Endoxyla macrostoma Fuckel SPECIES
 
 #### Status
 ACCEPTED

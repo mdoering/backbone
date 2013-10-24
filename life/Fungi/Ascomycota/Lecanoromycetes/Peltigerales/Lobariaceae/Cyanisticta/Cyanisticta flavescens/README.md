@@ -1,5 +1,4 @@
-Cyanisticta flavescens (Delise) C.W. Dodge SPECIES
-=======
+# Cyanisticta flavescens (Delise) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

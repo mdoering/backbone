@@ -1,14 +1,13 @@
-Phlyctidium mycetophagum Karling, 1946 SPECIES
-=======
+# Rhizophydium obpyriformis Karling, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 33: 756 (1946)
+Chytridiomycet. Iconogr. (New York) 64 (1977)
 
 #### Original name
 Phlyctidium mycetophagum Karling, 1946

@@ -1,5 +1,4 @@
-Paranthostomella decaspermi Sawada SPECIES
-=======
+# Paranthostomella decaspermi Sawada SPECIES
 
 #### Status
 ACCEPTED

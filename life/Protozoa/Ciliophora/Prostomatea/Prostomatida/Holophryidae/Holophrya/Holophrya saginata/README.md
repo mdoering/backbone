@@ -1,5 +1,4 @@
-Holophrya saginata Penard, 1922 SPECIES
-=======
+# Holophrya saginata Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria straminea Vain. SPECIES
-=======
+# Lepraria straminea Vain. SPECIES
 
 #### Status
 ACCEPTED

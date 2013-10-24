@@ -1,5 +1,4 @@
-Lepidodiscus elegans Witt SPECIES
-=======
+# Lepidodiscus elegans Witt SPECIES
 
 #### Status
 ACCEPTED

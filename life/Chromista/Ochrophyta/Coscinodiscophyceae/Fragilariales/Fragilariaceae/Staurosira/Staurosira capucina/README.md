@@ -1,5 +1,4 @@
-Staurosira capucina Borzsc. SPECIES
-=======
+# Staurosira capucina Borzsc. SPECIES
 
 #### Status
 ACCEPTED

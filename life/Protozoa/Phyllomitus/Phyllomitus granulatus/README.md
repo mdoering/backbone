@@ -1,5 +1,4 @@
-Phyllomitus granulatus SPECIES
-=======
+# Phyllomitus granulatus SPECIES
 
 #### Status
 ACCEPTED

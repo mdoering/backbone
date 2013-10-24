@@ -1,14 +1,13 @@
-Preussiella aurantiaca (J.N. Rai & J.P. Tewari) Lodha, 1978 SPECIES
-=======
+# Pycnidiophora aurantiaca (J.N. Rai & J.P. Tewari) Mukerji & V.R. Rao, 1969 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Subramanian, Taxonomy of Fungi (Proc. Int. Symp. Madras, 1973) 1: 251 (1978)
+J. gen. appl. Microbiol. , Tokyo 15(3): 263 (1969)
 
 #### Original name
 Preussia aurantiaca J.N. Rai & J.P. Tewari, 1963

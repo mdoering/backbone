@@ -1,17 +1,16 @@
-Entoloma bloxamii var. bloxamii VARIETY
-=======
+# Entoloma bloxamii (Berk. & Broome) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Syll. fung. (Abellini) 5: 684 (1887)
 
 #### Original name
-Entoloma bloxamii var. bloxamii
+Agaricus bloxamii Berk. & Broome, 1854
 
 ### Remarks
 null

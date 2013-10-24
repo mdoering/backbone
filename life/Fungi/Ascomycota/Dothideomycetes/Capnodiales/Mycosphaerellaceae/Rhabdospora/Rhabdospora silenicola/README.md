@@ -1,5 +1,4 @@
-Rhabdospora silenicola Gonz. Frag. SPECIES
-=======
+# Rhabdospora silenicola Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

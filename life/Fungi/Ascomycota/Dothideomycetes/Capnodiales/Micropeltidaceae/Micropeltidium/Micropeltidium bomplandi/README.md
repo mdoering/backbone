@@ -1,8 +1,7 @@
-Micropeltidium bomplandii (Speg.) Bat. SPECIES
-=======
+# Micropeltidium bomplandi (Speg.) Bat. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

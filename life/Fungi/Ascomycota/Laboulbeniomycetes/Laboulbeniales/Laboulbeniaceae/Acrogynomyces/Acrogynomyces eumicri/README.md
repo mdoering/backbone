@@ -1,5 +1,4 @@
-Acrogynomyces eumicri Thaxt., 1931 SPECIES
-=======
+# Acrogynomyces eumicri Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

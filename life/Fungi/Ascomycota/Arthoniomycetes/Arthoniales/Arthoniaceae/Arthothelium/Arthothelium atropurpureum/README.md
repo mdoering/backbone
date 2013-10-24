@@ -1,5 +1,4 @@
-Arthothelium atropurpureum Starbäck SPECIES
-=======
+# Arthothelium atropurpureum Starbäck SPECIES
 
 #### Status
 ACCEPTED

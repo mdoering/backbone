@@ -1,5 +1,4 @@
-Phaeosaccardinula monosporica Bat. & Cif. SPECIES
-=======
+# Phaeosaccardinula monosporica Bat. & Cif. SPECIES
 
 #### Status
 ACCEPTED

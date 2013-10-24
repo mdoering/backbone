@@ -1,17 +1,16 @@
-Sticta insculpta f. insculpta (Stizenb.) Zahlbr. FORM
-=======
+# Pseudocyphellaria insculpta (Stizenb.) D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Lich. Univers. 3: 388 (1925)
+Lichenologist 17(3): 305 (1985)
 
 #### Original name
-Sticta insculpta f. insculpta (Stizenb.) Zahlbr.
+Stictina insculpta Stizenb.
 
 ### Remarks
 null

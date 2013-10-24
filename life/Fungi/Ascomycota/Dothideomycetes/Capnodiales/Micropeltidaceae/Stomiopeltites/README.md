@@ -1,5 +1,4 @@
-Stomiopeltites Alvin & M.D. Muir GENUS
-=======
+# Stomiopeltites Alvin & M.D. Muir GENUS
 
 #### Status
 ACCEPTED

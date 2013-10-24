@@ -1,5 +1,4 @@
-Discosia vagans De Not., 1849 SPECIES
-=======
+# Discosia vagans De Not., 1849 SPECIES
 
 #### Status
 ACCEPTED

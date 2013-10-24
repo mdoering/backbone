@@ -1,5 +1,4 @@
-Mycosphaerella ericae-ciliaris (Speg.) M. Morelet SPECIES
-=======
+# Mycosphaerella ericae-ciliaris (Speg.) M. Morelet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Scolecopeltidium caseariae Bat. SPECIES
-=======
+# Scolecopeltidium caseariae Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Ellipsagelosphaera keftalrempti Grün in Grün & Allemann, 1975 SPECIES
-=======
+# Ellipsagelosphaera fossacincta Black, 1971 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

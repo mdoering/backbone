@@ -1,11 +1,10 @@
-Mycena pelliculosa var. pelliculosa VARIETY
-=======
+# Mycena pelliculosa (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Belgian Species List
 
 #### Published in
 null

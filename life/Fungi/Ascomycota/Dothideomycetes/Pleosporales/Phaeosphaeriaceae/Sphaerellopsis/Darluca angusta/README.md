@@ -1,5 +1,4 @@
-Darluca angusta Cooke SPECIES
-=======
+# Darluca angusta Cooke SPECIES
 
 #### Status
 ACCEPTED

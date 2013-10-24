@@ -1,5 +1,4 @@
-Phyllosticta pellucida Bubák & Dearn. SPECIES
-=======
+# Phyllosticta pellucida Bubák & Dearn. SPECIES
 
 #### Status
 ACCEPTED

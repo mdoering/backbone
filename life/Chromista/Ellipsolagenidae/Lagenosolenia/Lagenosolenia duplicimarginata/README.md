@@ -1,5 +1,4 @@
-Lagenosolenia duplicimarginata Loeblich & Tappan, 1994 SPECIES
-=======
+# Lagenosolenia duplicimarginata Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

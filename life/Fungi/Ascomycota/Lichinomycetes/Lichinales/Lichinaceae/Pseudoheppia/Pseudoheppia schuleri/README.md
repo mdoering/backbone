@@ -1,5 +1,4 @@
-Pseudoheppia schuleri Zahlbr. SPECIES
-=======
+# Pseudoheppia schuleri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena permixta (Britzelm.) Sacc. SPECIES
-=======
+# Mycena permixta (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

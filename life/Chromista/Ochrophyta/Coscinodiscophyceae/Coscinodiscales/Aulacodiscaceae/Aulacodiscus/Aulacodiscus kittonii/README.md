@@ -1,5 +1,4 @@
-Aulacodiscus kittonii Arnott ex Ralfs SPECIES
-=======
+# Aulacodiscus kittonii Arnott ex Ralfs SPECIES
 
 #### Status
 ACCEPTED

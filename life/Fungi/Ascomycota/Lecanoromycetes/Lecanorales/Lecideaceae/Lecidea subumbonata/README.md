@@ -1,5 +1,4 @@
-Lecidea subumbonata Nyl. SPECIES
-=======
+# Lecidea subumbonata Nyl. SPECIES
 
 #### Status
 ACCEPTED

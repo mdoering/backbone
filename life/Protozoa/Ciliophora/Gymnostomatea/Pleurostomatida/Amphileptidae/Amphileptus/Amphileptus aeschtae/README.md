@@ -1,5 +1,4 @@
-Amphileptus aeschtae Lin, Song & Li, 2007 SPECIES
-=======
+# Amphileptus aeschtae Lin, Song & Li, 2007 SPECIES
 
 #### Status
 ACCEPTED

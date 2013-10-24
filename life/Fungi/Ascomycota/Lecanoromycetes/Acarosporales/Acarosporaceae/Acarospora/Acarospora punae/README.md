@@ -1,5 +1,4 @@
-Acarospora punae I.M. Lamb SPECIES
-=======
+# Acarospora punae I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Xyloma sphaeroides Pers. SPECIES
-=======
+# Drepanopeziza sphaerioides (Pers.) Höhn., 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 15(5): 332 (1917)
 
 #### Original name
-Xyloma sphaeroides Pers.
+Xyloma sphaerioides Pers., 1801
 
 ### Remarks
 null

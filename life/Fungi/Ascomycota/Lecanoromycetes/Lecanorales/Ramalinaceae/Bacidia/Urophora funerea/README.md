@@ -1,5 +1,4 @@
-Urophora funerea (Sommerf.) Arnold SPECIES
-=======
+# Urophora funerea (Sommerf.) Arnold SPECIES
 
 #### Status
 ACCEPTED

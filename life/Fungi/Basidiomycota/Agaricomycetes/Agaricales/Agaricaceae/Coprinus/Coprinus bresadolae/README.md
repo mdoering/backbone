@@ -1,5 +1,4 @@
-Coprinus bresadolae Schulzer SPECIES
-=======
+# Coprinus bresadolae Schulzer SPECIES
 
 #### Status
 ACCEPTED

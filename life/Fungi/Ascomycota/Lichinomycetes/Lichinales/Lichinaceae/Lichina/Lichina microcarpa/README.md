@@ -1,5 +1,4 @@
-Lichina microcarpa Mont. SPECIES
-=======
+# Lichina microcarpa Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laestadia vincetoxici Fautrey SPECIES
-=======
+# Laestadia vincetoxici Fautrey SPECIES
 
 #### Status
 ACCEPTED

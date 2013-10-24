@@ -1,5 +1,4 @@
-Lophium ruborum P. Crouan & H. Crouan SPECIES
-=======
+# Lophium ruborum P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

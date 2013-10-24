@@ -1,5 +1,4 @@
-Bolivina goesi Cushman SPECIES
-=======
+# Bolivina goesi Cushman SPECIES
 
 #### Status
 ACCEPTED

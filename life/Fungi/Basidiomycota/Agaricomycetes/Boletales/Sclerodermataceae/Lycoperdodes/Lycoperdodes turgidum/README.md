@@ -1,5 +1,4 @@
-Lycoperdodes turgidum (Fr.) Kuntze SPECIES
-=======
+# Lycoperdodes turgidum (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

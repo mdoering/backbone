@@ -1,5 +1,4 @@
-Syringospora tonge (Mattlet) C.W. Dodge SPECIES
-=======
+# Syringospora tonge (Mattlet) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

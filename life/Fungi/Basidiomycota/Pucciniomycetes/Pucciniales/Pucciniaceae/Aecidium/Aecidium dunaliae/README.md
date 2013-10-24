@@ -1,5 +1,4 @@
-Aecidium dunaliae J.C. Lindq. SPECIES
-=======
+# Aecidium dunaliae J.C. Lindq. SPECIES
 
 #### Status
 ACCEPTED

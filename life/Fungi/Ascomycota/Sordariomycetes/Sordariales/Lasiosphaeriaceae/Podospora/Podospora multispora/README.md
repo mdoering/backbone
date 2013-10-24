@@ -1,5 +1,4 @@
-Podospora multispora R.S. Khan & Cain SPECIES
-=======
+# Podospora multispora R.S. Khan & Cain SPECIES
 
 #### Status
 ACCEPTED

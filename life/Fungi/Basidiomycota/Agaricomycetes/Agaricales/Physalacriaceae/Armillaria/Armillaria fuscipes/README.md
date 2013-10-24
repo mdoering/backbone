@@ -1,5 +1,4 @@
-Armillaria fuscipes Petch, 1909 SPECIES
-=======
+# Armillaria fuscipes Petch, 1909 SPECIES
 
 #### Status
 ACCEPTED

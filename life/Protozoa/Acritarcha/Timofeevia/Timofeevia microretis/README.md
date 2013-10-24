@@ -1,5 +1,4 @@
-Timofeevia microretis Martin in Martin & Dean, 1981 SPECIES
-=======
+# Timofeevia microretis Martin in Martin & Dean, 1981 SPECIES
 
 #### Status
 ACCEPTED

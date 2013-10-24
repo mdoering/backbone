@@ -1,5 +1,4 @@
-Tricholoma hathorae Velen. SPECIES
-=======
+# Tricholoma hathorae Velen. SPECIES
 
 #### Status
 ACCEPTED

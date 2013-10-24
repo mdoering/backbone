@@ -1,5 +1,4 @@
-Lecidea orygmaea Nyl. SPECIES
-=======
+# Lecidea orygmaea Nyl. SPECIES
 
 #### Status
 ACCEPTED

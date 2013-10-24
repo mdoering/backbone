@@ -1,17 +1,16 @@
-Battarraeastrum R. Heim & T. Herrera GENUS
-=======
+# Battarreoides T. Herrera GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Anales Inst. Biol. Univ. Nac. México 24: 41 (1953)
 
 #### Original name
-Battarraeastrum R. Heim & T. Herrera
+Battarreoides T. Herrera
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Asperisporium minutulum (Sacc.) Deighton SPECIES
-=======
+# Asperisporium minutulum (Sacc.) Deighton SPECIES
 
 #### Status
 ACCEPTED

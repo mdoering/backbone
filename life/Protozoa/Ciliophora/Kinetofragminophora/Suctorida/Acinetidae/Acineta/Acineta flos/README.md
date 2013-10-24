@@ -1,5 +1,4 @@
-Acineta flos SPECIES
-=======
+# Acineta flos SPECIES
 
 #### Status
 ACCEPTED

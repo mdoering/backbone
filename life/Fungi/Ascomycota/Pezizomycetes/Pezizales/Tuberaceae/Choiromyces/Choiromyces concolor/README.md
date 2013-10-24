@@ -1,5 +1,4 @@
-Choiromyces concolor (Wallr.) Tul. SPECIES
-=======
+# Choiromyces concolor (Wallr.) Tul. SPECIES
 
 #### Status
 ACCEPTED

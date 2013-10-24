@@ -1,5 +1,4 @@
-Amphibacillus xylanus Niimura et al., 1990 SPECIES
-=======
+# Amphibacillus xylanus Niimura et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

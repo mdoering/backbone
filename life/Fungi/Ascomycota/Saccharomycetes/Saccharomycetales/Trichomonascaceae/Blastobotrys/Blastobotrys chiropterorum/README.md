@@ -1,5 +1,4 @@
-Blastobotrys chiropterorum (Grose & Marink.) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Blastobotrys chiropterorum (Grose & Marink.) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

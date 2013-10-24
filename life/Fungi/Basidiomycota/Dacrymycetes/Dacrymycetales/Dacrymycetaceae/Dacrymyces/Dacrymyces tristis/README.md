@@ -1,5 +1,4 @@
-Dacrymyces tristis Pat. SPECIES
-=======
+# Dacrymyces tristis Pat. SPECIES
 
 #### Status
 ACCEPTED

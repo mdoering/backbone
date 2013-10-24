@@ -1,5 +1,4 @@
-Puccinia unica var. unica VARIETY
-=======
+# Puccinia unica Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 in Arthur & Fromme, Torreya 15: 263 (1915)
 
 #### Original name
-Puccinia unica var. unica
+Puccinia unica Holw.
 
 ### Remarks
 null

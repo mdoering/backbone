@@ -1,5 +1,4 @@
-Trichometasphaeria Munk, 1953 GENUS
-=======
+# Trichometasphaeria Munk, 1953 GENUS
 
 #### Status
 ACCEPTED

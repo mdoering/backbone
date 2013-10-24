@@ -1,5 +1,4 @@
-Parmelia granulifera Ach. SPECIES
-=======
+# Parmelia granulifera Ach. SPECIES
 
 #### Status
 ACCEPTED

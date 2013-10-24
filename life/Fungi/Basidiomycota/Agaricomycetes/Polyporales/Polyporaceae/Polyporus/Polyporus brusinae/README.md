@@ -1,5 +1,4 @@
-Polyporus brusinae Schulzer SPECIES
-=======
+# Polyporus brusinae Schulzer SPECIES
 
 #### Status
 ACCEPTED

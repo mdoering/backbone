@@ -1,5 +1,4 @@
-Frondicularia plicata Cushman, 1921 SPECIES
-=======
+# Frondicularia plicata Cushman, 1921 SPECIES
 
 #### Status
 ACCEPTED

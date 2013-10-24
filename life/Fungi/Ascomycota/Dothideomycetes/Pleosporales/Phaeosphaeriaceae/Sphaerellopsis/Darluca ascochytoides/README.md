@@ -1,5 +1,4 @@
-Darluca ascochytoides Sacc. & Roum. SPECIES
-=======
+# Darluca ascochytoides Sacc. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis lufficola Bat. SPECIES
-=======
+# Micropeltis lufficola Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptostromella fabae Gonz. Frag. SPECIES
-=======
+# Leptostromella fabae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

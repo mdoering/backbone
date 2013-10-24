@@ -1,5 +1,4 @@
-Massaria japonica Petr. SPECIES
-=======
+# Massaria japonica Petr. SPECIES
 
 #### Status
 ACCEPTED

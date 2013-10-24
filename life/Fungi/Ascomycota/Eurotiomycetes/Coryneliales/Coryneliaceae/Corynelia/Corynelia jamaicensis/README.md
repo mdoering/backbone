@@ -1,5 +1,4 @@
-Corynelia jamaicensis Fitzp., 1920 SPECIES
-=======
+# Corynelia jamaicensis Fitzp., 1920 SPECIES
 
 #### Status
 ACCEPTED

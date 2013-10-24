@@ -1,5 +1,4 @@
-Cortinarius sobrius var. sobrius VARIETY
-=======
+# Cortinarius sobrius P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cortinarius sobrius var. sobrius
+Cortinarius sobrius P. Karst.
 
 ### Remarks
 null

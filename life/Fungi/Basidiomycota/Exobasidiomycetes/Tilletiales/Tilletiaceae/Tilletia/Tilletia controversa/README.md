@@ -1,17 +1,16 @@
-Tilletia controversa var. prostrata Lavrov VARIETY
-=======
+# Tilletia controversa J.G. Kühn, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Rabenhorst, Hedwigia 13: 188 (1874)
 
 #### Original name
-Tilletia controversa var. prostrata Lavrov
+Tilletia controversa J.G. Kühn, 1874
 
 ### Remarks
 null

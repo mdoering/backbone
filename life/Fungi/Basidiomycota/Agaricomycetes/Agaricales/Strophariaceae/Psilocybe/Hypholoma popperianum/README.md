@@ -1,14 +1,13 @@
-Hypholoma poperianum (Singer) Guzmán SPECIES
-=======
+# Hypholoma popperianum (Singer) Guzmán SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Docums Mycol. 29(no. 114): 66 (1999)
 
 #### Original name
 Naematoloma popperianum Singer

@@ -1,5 +1,4 @@
-Chiropteridium partispinatum (Gerlach, 1961) Brosius, 1963 SPECIES
-=======
+# Chiropteridium partispinatum (Gerlach, 1961) Brosius, 1963 SPECIES
 
 #### Status
 ACCEPTED

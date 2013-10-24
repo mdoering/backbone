@@ -1,5 +1,4 @@
-Dicaeoma arnicale (Peck) Kuntze SPECIES
-=======
+# Dicaeoma arnicale (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

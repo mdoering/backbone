@@ -1,5 +1,4 @@
-Guignardia adriatica Kirschst. SPECIES
-=======
+# Guignardia adriatica Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella badensis Niessl SPECIES
-=======
+# Sphaerella badensis Niessl SPECIES
 
 #### Status
 ACCEPTED

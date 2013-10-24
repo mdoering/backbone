@@ -1,5 +1,4 @@
-Pholiotina flexipes (Watling) Enderle SPECIES
-=======
+# Pholiotina flexipes (Watling) Enderle SPECIES
 
 #### Status
 ACCEPTED

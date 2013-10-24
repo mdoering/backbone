@@ -1,5 +1,4 @@
-Verrucaria ovata Deakin SPECIES
-=======
+# Verrucaria ovata Deakin SPECIES
 
 #### Status
 ACCEPTED

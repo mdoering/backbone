@@ -1,5 +1,4 @@
-Venturia vermiculariaeformis (Fuckel) Sacc. SPECIES
-=======
+# Venturia vermiculariaeformis (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

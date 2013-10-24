@@ -1,5 +1,4 @@
-Rosalina columbiensis SPECIES
-=======
+# Rosalina columbiensis SPECIES
 
 #### Status
 ACCEPTED

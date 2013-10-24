@@ -1,14 +1,13 @@
-Physarum ditmarii var. virescens (Ditmar) Rostaf. VARIETY
-=======
+# Physarum virescens Ditmar, 1817 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sluzowce monogr. (Paryz), Suppl. 9 (1876)
+in Sturm, Deutschl. Fl. , 3 Abt. (Pilze Deutschl. ) 1(4): 123 (1817)
 
 #### Original name
 Physarum virescens Ditmar, 1817

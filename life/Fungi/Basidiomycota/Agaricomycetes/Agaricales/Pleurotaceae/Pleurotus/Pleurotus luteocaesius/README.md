@@ -1,5 +1,4 @@
-Pleurotus luteocaesius Bagl. SPECIES
-=======
+# Pleurotus luteocaesius Bagl. SPECIES
 
 #### Status
 ACCEPTED

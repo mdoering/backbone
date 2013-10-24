@@ -1,5 +1,4 @@
-Pythium carbonicum B. Paul SPECIES
-=======
+# Pythium carbonicum B. Paul SPECIES
 
 #### Status
 ACCEPTED

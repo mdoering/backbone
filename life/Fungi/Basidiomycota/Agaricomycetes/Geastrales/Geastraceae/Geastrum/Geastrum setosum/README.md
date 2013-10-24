@@ -1,5 +1,4 @@
-Geastrum setosum E. Fisch. SPECIES
-=======
+# Geastrum setosum E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

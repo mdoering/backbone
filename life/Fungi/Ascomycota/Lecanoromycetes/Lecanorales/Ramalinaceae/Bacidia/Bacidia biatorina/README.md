@@ -1,14 +1,13 @@
-Raphiospora atrosanguinea var. biatorina Körb. VARIETY
-=======
+# Bacidia biatorina (Körb.) Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Parerga lichenol. (Breslau) 238 (1861)
+Acta Soc. Fauna Flora fenn. 53(1): 178 (1922)
 
 #### Original name
 Raphiospora atrosanguinea var. biatorina Körb.

@@ -1,5 +1,4 @@
-Sclerotium bryophilum Fr. SPECIES
-=======
+# Sclerotium bryophilum Fr. SPECIES
 
 #### Status
 ACCEPTED

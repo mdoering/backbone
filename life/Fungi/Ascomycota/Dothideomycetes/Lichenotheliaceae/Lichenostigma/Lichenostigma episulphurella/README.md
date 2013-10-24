@@ -1,5 +1,4 @@
-Lichenostigma episulphurella Etayo & van den Boom SPECIES
-=======
+# Lichenostigma episulphurella Etayo & van den Boom SPECIES
 
 #### Status
 ACCEPTED

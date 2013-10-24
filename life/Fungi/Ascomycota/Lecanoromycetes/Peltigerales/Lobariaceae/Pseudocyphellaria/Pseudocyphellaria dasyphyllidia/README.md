@@ -1,5 +1,4 @@
-Pseudocyphellaria dasyphyllidia Bjerke SPECIES
-=======
+# Pseudocyphellaria dasyphyllidia Bjerke SPECIES
 
 #### Status
 ACCEPTED

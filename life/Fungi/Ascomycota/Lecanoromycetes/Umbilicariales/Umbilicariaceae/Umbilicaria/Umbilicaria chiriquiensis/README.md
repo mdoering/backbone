@@ -1,5 +1,4 @@
-Umbilicaria chiriquiensis (Llano) Llano SPECIES
-=======
+# Umbilicaria chiriquiensis (Llano) Llano SPECIES
 
 #### Status
 ACCEPTED

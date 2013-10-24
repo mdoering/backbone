@@ -1,5 +1,4 @@
-Cochlodinium distortum Kofoid & Swezy, 1921 SPECIES
-=======
+# Cochlodinium distortum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

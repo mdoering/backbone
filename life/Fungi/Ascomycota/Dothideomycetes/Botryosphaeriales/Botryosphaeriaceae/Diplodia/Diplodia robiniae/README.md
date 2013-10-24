@@ -1,5 +1,4 @@
-Diplodia robiniae Sacc. SPECIES
-=======
+# Diplodia robiniae Sacc. SPECIES
 
 #### Status
 ACCEPTED

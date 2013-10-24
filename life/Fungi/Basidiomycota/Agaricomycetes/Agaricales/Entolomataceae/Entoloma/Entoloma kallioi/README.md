@@ -1,5 +1,4 @@
-Entoloma kallioi Noordel. SPECIES
-=======
+# Entoloma kallioi Noordel. SPECIES
 
 #### Status
 ACCEPTED

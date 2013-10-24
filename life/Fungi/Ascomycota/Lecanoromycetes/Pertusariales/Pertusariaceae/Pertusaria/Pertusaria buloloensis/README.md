@@ -1,5 +1,4 @@
-Pertusaria buloloensis A.W. Archer, Elix & Streimann SPECIES
-=======
+# Pertusaria buloloensis A.W. Archer, Elix & Streimann SPECIES
 
 #### Status
 ACCEPTED

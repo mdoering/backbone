@@ -1,5 +1,4 @@
-Niptera epiphytica Petch SPECIES
-=======
+# Niptera epiphytica Petch SPECIES
 
 #### Status
 ACCEPTED

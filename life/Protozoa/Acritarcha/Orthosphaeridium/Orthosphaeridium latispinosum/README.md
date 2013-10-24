@@ -1,5 +1,4 @@
-Orthosphaeridium latispinosum Uutela & Tynni, 1991 SPECIES
-=======
+# Orthosphaeridium latispinosum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora tarrii Deighton SPECIES
-=======
+# Cercospora tarrii Deighton SPECIES
 
 #### Status
 ACCEPTED

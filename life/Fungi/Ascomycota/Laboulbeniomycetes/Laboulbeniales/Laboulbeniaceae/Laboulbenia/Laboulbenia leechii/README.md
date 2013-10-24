@@ -1,5 +1,4 @@
-Laboulbenia leechii R.K. Benj. SPECIES
-=======
+# Laboulbenia leechii R.K. Benj. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina glaucorufa (Vain.) Zahlbr. SPECIES
-=======
+# Graphina glaucorufa (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

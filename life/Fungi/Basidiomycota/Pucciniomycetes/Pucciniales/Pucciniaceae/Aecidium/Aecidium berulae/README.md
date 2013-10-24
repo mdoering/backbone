@@ -1,5 +1,4 @@
-Aecidium berulae Bubák SPECIES
-=======
+# Aecidium berulae Bubák SPECIES
 
 #### Status
 ACCEPTED

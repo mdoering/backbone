@@ -1,17 +1,16 @@
-Fungodaster Haller ex Kuntze GENUS
-=======
+# Leotia Pers. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 852 (1891)
+Syn. meth. fung. (Göttingen) 2: 611 (1801)
 
 #### Original name
-Fungodaster Haller ex Kuntze
+Leotia Pers.
 
 ### Remarks
 null

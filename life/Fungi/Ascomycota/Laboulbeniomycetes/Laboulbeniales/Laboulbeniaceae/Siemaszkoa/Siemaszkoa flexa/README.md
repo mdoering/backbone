@@ -1,14 +1,13 @@
-Misgomyces flexus T. Majewski, 1973 SPECIES
-=======
+# Siemaszkoa flexa (T. Majewski) I.I. Tav. & T. Majewski, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mycologica, Warszawa 9(1): 119 (1973)
+Mycotaxon 3(2): 204 (1976)
 
 #### Original name
 Misgomyces flexus T. Majewski, 1973

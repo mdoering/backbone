@@ -1,5 +1,4 @@
-Theopodium Haeckel, 1881 GENUS
-=======
+# Theopodium Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea atropruinosa (Schaer.) Schaer. SPECIES
-=======
+# Lecidea atropruinosa (Schaer.) Schaer. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea entypta Kremp. SPECIES
-=======
+# Lecidea entypta Kremp. SPECIES
 
 #### Status
 ACCEPTED

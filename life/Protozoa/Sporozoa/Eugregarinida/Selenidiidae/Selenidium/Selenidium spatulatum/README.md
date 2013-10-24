@@ -1,5 +1,4 @@
-Selenidium spatulatum Hasselman, 1926 SPECIES
-=======
+# Selenidium spatulatum Hasselman, 1926 SPECIES
 
 #### Status
 ACCEPTED

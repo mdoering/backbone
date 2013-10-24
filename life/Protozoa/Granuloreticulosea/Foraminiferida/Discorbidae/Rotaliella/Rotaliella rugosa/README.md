@@ -1,5 +1,4 @@
-Rotaliella rugosa Pawlowski & Zaninetti, 1993 SPECIES
-=======
+# Rotaliella rugosa Pawlowski & Zaninetti, 1993 SPECIES
 
 #### Status
 ACCEPTED

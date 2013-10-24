@@ -1,17 +1,16 @@
-Idriella couratorii C. Ram SPECIES
-=======
+# Idriella couratarii C. Ram, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brotéria, N. S. 39(1-2): 27 (1970)
 
 #### Original name
-Idriella couratorii C. Ram
+Idriella couratarii C. Ram, 1970
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Verrucaria insularis SPECIES
-=======
+# Verrucaria insularis SPECIES
 
 #### Status
 ACCEPTED

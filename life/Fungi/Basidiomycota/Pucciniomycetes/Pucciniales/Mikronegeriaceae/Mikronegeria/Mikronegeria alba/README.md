@@ -1,5 +1,4 @@
-Mikronegeria alba Oehrens & Peterson, 1978 SPECIES
-=======
+# Mikronegeria alba Oehrens & Peterson, 1978 SPECIES
 
 #### Status
 ACCEPTED

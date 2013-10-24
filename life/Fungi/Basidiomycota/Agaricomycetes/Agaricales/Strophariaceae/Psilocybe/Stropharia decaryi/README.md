@@ -1,5 +1,4 @@
-Stropharia decaryi Pat. SPECIES
-=======
+# Stropharia decaryi Pat. SPECIES
 
 #### Status
 ACCEPTED

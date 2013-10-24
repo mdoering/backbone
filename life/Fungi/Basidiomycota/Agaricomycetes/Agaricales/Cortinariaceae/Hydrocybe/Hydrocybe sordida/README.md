@@ -1,5 +1,4 @@
-Hydrocybe sordida Velen. SPECIES
-=======
+# Hydrocybe sordida Velen. SPECIES
 
 #### Status
 ACCEPTED

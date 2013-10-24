@@ -1,17 +1,16 @@
-Clavaria argillosa Britzelm., 1891 SPECIES
-=======
+# Clavaria flavipes Pers., 1794 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. Südbayern 8: (1891)
+Neues Mag. Bot. 1: 117 (1794)
 
 #### Original name
-Clavaria argillosa Britzelm., 1891
+Clavaria flavipes Pers., 1794
 
 ### Remarks
 null

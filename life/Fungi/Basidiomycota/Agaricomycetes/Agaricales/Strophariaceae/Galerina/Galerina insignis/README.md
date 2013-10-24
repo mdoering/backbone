@@ -1,5 +1,4 @@
-Galerina insignis A.H. Sm. SPECIES
-=======
+# Galerina insignis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

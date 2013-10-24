@@ -1,5 +1,4 @@
-Turbinulina gaudichaudi d’Orbigny, 1906 SPECIES
-=======
+# Turbinulina gaudichaudi d’Orbigny, 1906 SPECIES
 
 #### Status
 DOUBTFUL

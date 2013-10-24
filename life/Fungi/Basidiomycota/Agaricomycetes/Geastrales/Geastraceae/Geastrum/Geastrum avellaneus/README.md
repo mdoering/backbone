@@ -1,8 +1,7 @@
-Geaster avellaneus Kalchbr. SPECIES
-=======
+# Geastrum avellaneus Kalchbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Geaster avellaneus Kalchbr.
+Geastrum avellaneus Kalchbr.
 
 ### Remarks
 null

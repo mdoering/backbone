@@ -1,5 +1,4 @@
-Inocybe appendiculata Kühner, 1955 SPECIES
-=======
+# Inocybe appendiculata Kühner, 1955 SPECIES
 
 #### Status
 ACCEPTED

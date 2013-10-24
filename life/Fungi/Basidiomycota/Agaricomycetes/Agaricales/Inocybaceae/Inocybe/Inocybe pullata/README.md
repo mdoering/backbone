@@ -1,5 +1,4 @@
-Inocybe pullata A. Pearson ex Pegler SPECIES
-=======
+# Inocybe pullata A. Pearson ex Pegler SPECIES
 
 #### Status
 ACCEPTED

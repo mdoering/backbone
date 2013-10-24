@@ -1,5 +1,4 @@
-Coniosporium bambusicola Henn. SPECIES
-=======
+# Coniosporium bambusicola Henn. SPECIES
 
 #### Status
 ACCEPTED

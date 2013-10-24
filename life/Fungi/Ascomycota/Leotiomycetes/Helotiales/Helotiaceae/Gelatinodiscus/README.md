@@ -1,5 +1,4 @@
-Gelatinodiscus Kanouse & A.H. Sm. GENUS
-=======
+# Gelatinodiscus Kanouse & A.H. Sm. GENUS
 
 #### Status
 ACCEPTED

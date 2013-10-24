@@ -1,5 +1,4 @@
-Puccinia costa Arthur SPECIES
-=======
+# Puccinia costa Arthur SPECIES
 
 #### Status
 ACCEPTED

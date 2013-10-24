@@ -1,5 +1,4 @@
-Stigmella Léveillé, 1842 GENUS
-=======
+# Stigmella Léveillé, 1842 GENUS
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Aspidisca caspica Agamaliev, 1967 SPECIES
-=======
+# Aspidisca acerosa Jankowski, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

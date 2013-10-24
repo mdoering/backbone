@@ -1,5 +1,4 @@
-Septoria quinqueseptata R. Sprague SPECIES
-=======
+# Septoria quinqueseptata R. Sprague SPECIES
 
 #### Status
 ACCEPTED

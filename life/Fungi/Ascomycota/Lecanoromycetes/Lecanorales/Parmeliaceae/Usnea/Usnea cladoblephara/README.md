@@ -1,5 +1,4 @@
-Usnea cladoblephara (Müll. Arg.) Motyka SPECIES
-=======
+# Usnea cladoblephara (Müll. Arg.) Motyka SPECIES
 
 #### Status
 ACCEPTED

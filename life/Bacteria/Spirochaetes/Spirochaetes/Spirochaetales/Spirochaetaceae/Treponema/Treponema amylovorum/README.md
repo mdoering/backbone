@@ -1,5 +1,4 @@
-Treponema amylovorum Wyss et al., 1997 SPECIES
-=======
+# Treponema amylovorum Wyss et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

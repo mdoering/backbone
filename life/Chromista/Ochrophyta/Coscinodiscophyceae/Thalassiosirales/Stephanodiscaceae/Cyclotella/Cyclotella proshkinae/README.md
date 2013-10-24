@@ -1,5 +1,4 @@
-Cyclotella proshkinae A. P. Jousé & V. V. Mukhina SPECIES
-=======
+# Cyclotella proshkinae A. P. Jousé & V. V. Mukhina SPECIES
 
 #### Status
 ACCEPTED

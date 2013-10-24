@@ -1,5 +1,4 @@
-Aecidium multisorum Cummins SPECIES
-=======
+# Aecidium multisorum Cummins SPECIES
 
 #### Status
 ACCEPTED

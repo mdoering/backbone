@@ -1,8 +1,7 @@
-Trachylia lucidum Th. Fr. SPECIES
-=======
+# Cyphelium lucidum (Th. Fr.) Th. Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Acolium lucidum Th. Fr.
 
 ### Remarks
 null

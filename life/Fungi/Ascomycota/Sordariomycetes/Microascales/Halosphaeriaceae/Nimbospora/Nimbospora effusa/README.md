@@ -1,5 +1,4 @@
-Nimbospora effusa Jørg. Koch, 1982 SPECIES
-=======
+# Nimbospora effusa Jørg. Koch, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Halisidota caryae Npv SPECIES
-=======
+# Halisidota caryae Npv SPECIES
 
 #### Status
 ACCEPTED

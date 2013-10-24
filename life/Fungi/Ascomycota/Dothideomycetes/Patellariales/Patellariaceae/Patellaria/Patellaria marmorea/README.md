@@ -1,5 +1,4 @@
-Patellaria marmorea (With.) DC. SPECIES
-=======
+# Patellaria marmorea (With.) DC. SPECIES
 
 #### Status
 ACCEPTED

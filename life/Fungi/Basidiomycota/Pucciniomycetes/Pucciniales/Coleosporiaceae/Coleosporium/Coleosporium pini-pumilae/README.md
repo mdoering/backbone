@@ -1,5 +1,4 @@
-Coleosporium pini-pumilae Azbukina SPECIES
-=======
+# Coleosporium pini-pumilae Azbukina SPECIES
 
 #### Status
 ACCEPTED

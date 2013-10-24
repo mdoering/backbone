@@ -1,5 +1,4 @@
-Biddulphia cornuta J. Brun SPECIES
-=======
+# Biddulphia cornuta J. Brun SPECIES
 
 #### Status
 ACCEPTED

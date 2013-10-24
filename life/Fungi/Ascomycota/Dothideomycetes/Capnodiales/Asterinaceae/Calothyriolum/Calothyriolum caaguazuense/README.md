@@ -1,5 +1,4 @@
-Calothyriolum caaguazuense (Speg.) Speg. SPECIES
-=======
+# Calothyriolum caaguazuense (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

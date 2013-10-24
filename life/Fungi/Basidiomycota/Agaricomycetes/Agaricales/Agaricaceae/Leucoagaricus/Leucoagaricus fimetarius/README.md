@@ -1,5 +1,4 @@
-Leucoagaricus fimetarius (Cooke & Massee) Aberdeen SPECIES
-=======
+# Leucoagaricus fimetarius (Cooke & Massee) Aberdeen SPECIES
 
 #### Status
 ACCEPTED

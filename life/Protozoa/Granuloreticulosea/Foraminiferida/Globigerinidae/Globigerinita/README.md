@@ -1,5 +1,4 @@
-Globigerinita Brönnimann, 1951 GENUS
-=======
+# Globigerinita Brönnimann, 1951 GENUS
 
 #### Status
 ACCEPTED

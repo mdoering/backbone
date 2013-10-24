@@ -1,5 +1,4 @@
-Meliolina gorakhpurensis S. Hughes SPECIES
-=======
+# Meliolina gorakhpurensis S. Hughes SPECIES
 
 #### Status
 ACCEPTED

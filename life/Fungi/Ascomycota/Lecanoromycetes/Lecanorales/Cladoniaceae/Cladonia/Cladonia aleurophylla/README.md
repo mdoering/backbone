@@ -1,5 +1,4 @@
-Cladonia aleurophylla Vain. SPECIES
-=======
+# Cladonia aleurophylla Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus auricolor F. Brig. SPECIES
-=======
+# Agaricus auricolor F. Brig. SPECIES
 
 #### Status
 ACCEPTED

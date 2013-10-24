@@ -1,5 +1,4 @@
-Dermocybe aurantiella E. Horak, 1988 SPECIES
-=======
+# Dermocybe aurantiella E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

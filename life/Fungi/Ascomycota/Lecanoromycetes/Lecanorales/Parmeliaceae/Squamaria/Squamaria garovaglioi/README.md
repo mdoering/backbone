@@ -1,5 +1,4 @@
-Squamaria garovaglioi var. garovaglioi VARIETY
-=======
+# Squamaria garovaglioi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Placodium garovaglioi Körb.
+null
 
 ### Remarks
 null

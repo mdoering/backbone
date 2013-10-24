@@ -1,5 +1,4 @@
-Parmelia puiggarii Gyeln. SPECIES
-=======
+# Parmelia puiggarii Gyeln. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Articulophora C.J.K. Wang & B. Sutton GENUS
-=======
+# Articulophora C.J.K. Wang & B. Sutton GENUS
 
 #### Status
 ACCEPTED

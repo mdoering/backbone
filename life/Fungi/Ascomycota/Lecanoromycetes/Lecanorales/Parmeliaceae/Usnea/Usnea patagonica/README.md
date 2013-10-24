@@ -1,5 +1,4 @@
-Usnea patagonica F.J. Walker SPECIES
-=======
+# Usnea patagonica F.J. Walker SPECIES
 
 #### Status
 ACCEPTED

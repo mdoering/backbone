@@ -1,5 +1,4 @@
-Heliophilum fasciatum Ormerod et al., 1996 SPECIES
-=======
+# Heliophilum fasciatum Ormerod et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

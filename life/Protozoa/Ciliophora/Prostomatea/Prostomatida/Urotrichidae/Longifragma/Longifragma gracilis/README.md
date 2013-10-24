@@ -1,5 +1,4 @@
-Longifragma gracilis SPECIES
-=======
+# Longifragma gracilis SPECIES
 
 #### Status
 ACCEPTED

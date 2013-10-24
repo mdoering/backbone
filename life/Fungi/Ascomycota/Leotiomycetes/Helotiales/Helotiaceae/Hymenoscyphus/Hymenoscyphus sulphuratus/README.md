@@ -1,17 +1,16 @@
-Helotium sulphuratum var. sulphuratum VARIETY
-=======
+# Hymenoscyphus sulphuratus (Fr.) Van Vooren & Cheype, 2008 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 161 (1887)
+null
 
 #### Original name
-Helotium sulphuratum var. sulphuratum
+null
 
 ### Remarks
 null

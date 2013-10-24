@@ -1,5 +1,4 @@
-Pleospora aureliana Fairm. SPECIES
-=======
+# Pleospora aureliana Fairm. SPECIES
 
 #### Status
 ACCEPTED

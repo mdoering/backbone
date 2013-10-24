@@ -1,5 +1,4 @@
-Dothiorella rosatti Rieuf SPECIES
-=======
+# Dothiorella rosatti Rieuf SPECIES
 
 #### Status
 ACCEPTED

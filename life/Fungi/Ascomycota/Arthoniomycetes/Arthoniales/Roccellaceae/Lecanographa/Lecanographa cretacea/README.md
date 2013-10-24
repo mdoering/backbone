@@ -1,5 +1,4 @@
-Lecanographa cretacea (Müll. Arg.) Egea & Torrente SPECIES
-=======
+# Lecanographa cretacea (Müll. Arg.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

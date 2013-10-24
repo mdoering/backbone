@@ -1,5 +1,4 @@
-Crepidotus roseibrunneus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus roseibrunneus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

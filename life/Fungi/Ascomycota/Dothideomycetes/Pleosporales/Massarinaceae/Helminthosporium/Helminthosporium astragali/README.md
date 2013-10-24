@@ -1,5 +1,4 @@
-Helminthosporium astragali Zaprom. SPECIES
-=======
+# Helminthosporium astragali Zaprom. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis schmidtiana Rostr. SPECIES
-=======
+# Micropeltis schmidtiana Rostr. SPECIES
 
 #### Status
 ACCEPTED

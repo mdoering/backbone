@@ -1,5 +1,4 @@
-Celothelium socialis (Zenker) A. Massal. SPECIES
-=======
+# Celothelium socialis (Zenker) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

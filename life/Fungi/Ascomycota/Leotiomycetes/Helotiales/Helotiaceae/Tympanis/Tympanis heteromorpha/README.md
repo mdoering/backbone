@@ -1,5 +1,4 @@
-Tympanis heteromorpha Ouell. & Piroz. SPECIES
-=======
+# Tympanis heteromorpha Ouell. & Piroz. SPECIES
 
 #### Status
 ACCEPTED

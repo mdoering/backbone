@@ -1,5 +1,4 @@
-Cryptodidymosphaerites Currah, Stockey & B.A. LePage GENUS
-=======
+# Cryptodidymosphaerites Currah, Stockey & B.A. LePage GENUS
 
 #### Status
 ACCEPTED

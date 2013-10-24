@@ -1,5 +1,4 @@
-Bryosphaeria quinqueseptata Döbbeler, 1978 SPECIES
-=======
+# Bryosphaeria quinqueseptata Döbbeler, 1978 SPECIES
 
 #### Status
 ACCEPTED

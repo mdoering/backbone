@@ -1,5 +1,4 @@
-Protoortonella V.A. Luchinina in B.S. Sokolov & A.B. Ivanovsky, 1985 GENUS
-=======
+# Protoortonella V.A. Luchinina in B.S. Sokolov & A.B. Ivanovsky, 1985 GENUS
 
 #### Status
 ACCEPTED

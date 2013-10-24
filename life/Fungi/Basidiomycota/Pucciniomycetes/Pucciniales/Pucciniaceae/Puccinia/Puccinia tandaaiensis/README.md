@@ -1,5 +1,4 @@
-Puccinia tandaaiensis J.C.F. Hopkins SPECIES
-=======
+# Puccinia tandaaiensis J.C.F. Hopkins SPECIES
 
 #### Status
 ACCEPTED

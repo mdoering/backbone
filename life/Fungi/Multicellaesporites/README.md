@@ -1,5 +1,4 @@
-Multicellaesporites Elsik GENUS
-=======
+# Multicellaesporites Elsik GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithographa olivacea Fryday SPECIES
-=======
+# Lithographa olivacea Fryday SPECIES
 
 #### Status
 ACCEPTED

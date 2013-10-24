@@ -1,5 +1,4 @@
-Exoascus fulgens (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Exoascus fulgens (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

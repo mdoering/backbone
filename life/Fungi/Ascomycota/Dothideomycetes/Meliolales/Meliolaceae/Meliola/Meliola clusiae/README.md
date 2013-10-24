@@ -1,5 +1,4 @@
-Meliola clusiae F. Stevens SPECIES
-=======
+# Meliola clusiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Penicillium rubicundum J.H. Mill., Giddens & A.A. Foster, 1957 SPECIES
-=======
+# Penicillium funiculosum Thom, 1910 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

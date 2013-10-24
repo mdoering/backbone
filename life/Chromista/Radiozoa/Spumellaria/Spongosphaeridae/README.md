@@ -1,5 +1,4 @@
-Spongosphaeridae FAMILY
-=======
+# Spongosphaeridae FAMILY
 
 #### Status
 ACCEPTED

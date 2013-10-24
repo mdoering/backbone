@@ -1,5 +1,4 @@
-Delicatula polyphylla Velen. SPECIES
-=======
+# Delicatula polyphylla Velen. SPECIES
 
 #### Status
 ACCEPTED

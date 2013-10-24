@@ -1,5 +1,4 @@
-Dictyolus castaneus Pat. SPECIES
-=======
+# Dictyolus castaneus Pat. SPECIES
 
 #### Status
 ACCEPTED

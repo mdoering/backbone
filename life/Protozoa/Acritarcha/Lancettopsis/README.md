@@ -1,5 +1,4 @@
-Lancettopsis K. Mädler, 1963 GENUS
-=======
+# Lancettopsis K. Mädler, 1963 GENUS
 
 #### Status
 ACCEPTED

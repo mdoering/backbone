@@ -1,5 +1,4 @@
-Helotium granulosum Velen. SPECIES
-=======
+# Helotium granulosum Velen. SPECIES
 
 #### Status
 ACCEPTED

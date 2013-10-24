@@ -1,5 +1,4 @@
-Diploschistes areolatus (Nyl.) Zahlbr. SPECIES
-=======
+# Diploschistes areolatus (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

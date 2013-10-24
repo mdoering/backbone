@@ -1,5 +1,4 @@
-Protoperidinium solidcorne (Mangin) Balech SPECIES
-=======
+# Protoperidinium solidcorne (Mangin) Balech SPECIES
 
 #### Status
 ACCEPTED

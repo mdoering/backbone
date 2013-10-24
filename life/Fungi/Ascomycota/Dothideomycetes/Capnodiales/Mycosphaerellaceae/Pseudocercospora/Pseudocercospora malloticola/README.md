@@ -1,5 +1,4 @@
-Pseudocercospora malloticola Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora malloticola Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

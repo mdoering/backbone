@@ -1,5 +1,4 @@
-Myriangium grewiae Tend. SPECIES
-=======
+# Myriangium grewiae Tend. SPECIES
 
 #### Status
 ACCEPTED

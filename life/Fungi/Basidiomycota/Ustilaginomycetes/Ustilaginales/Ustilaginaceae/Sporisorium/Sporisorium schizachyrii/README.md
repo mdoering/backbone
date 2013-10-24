@@ -1,5 +1,4 @@
-Sporisorium schizachyrii Vánky, 2002 SPECIES
-=======
+# Sporisorium schizachyrii Vánky, 2002 SPECIES
 
 #### Status
 ACCEPTED

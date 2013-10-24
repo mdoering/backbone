@@ -1,5 +1,4 @@
-Thelidium radiatum H. Harada SPECIES
-=======
+# Thelidium radiatum H. Harada SPECIES
 
 #### Status
 ACCEPTED

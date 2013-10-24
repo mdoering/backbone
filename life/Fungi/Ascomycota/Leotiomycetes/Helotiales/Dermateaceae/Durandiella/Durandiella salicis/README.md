@@ -1,5 +1,4 @@
-Durandiella salicis (E. Müll. & S. Ahmad) Korf & Abawi SPECIES
-=======
+# Durandiella salicis (E. Müll. & S. Ahmad) Korf & Abawi SPECIES
 
 #### Status
 ACCEPTED

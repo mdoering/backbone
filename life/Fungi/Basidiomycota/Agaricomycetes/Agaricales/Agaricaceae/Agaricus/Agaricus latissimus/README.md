@@ -1,5 +1,4 @@
-Agaricus latissimus Cooke SPECIES
-=======
+# Agaricus latissimus Cooke SPECIES
 
 #### Status
 ACCEPTED

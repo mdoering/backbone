@@ -1,5 +1,4 @@
-Aecidium gageae Trotter SPECIES
-=======
+# Aecidium gageae Trotter SPECIES
 
 #### Status
 ACCEPTED

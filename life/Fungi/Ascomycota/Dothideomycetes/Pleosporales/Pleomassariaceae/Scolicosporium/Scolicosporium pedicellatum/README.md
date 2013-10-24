@@ -1,5 +1,4 @@
-Scolicosporium pedicellatum Dearn. & Overh. SPECIES
-=======
+# Scolicosporium pedicellatum Dearn. & Overh. SPECIES
 
 #### Status
 ACCEPTED

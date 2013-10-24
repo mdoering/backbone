@@ -1,5 +1,4 @@
-Anthracophyllum pallidum Segedin, 1994 SPECIES
-=======
+# Anthracophyllum pallidum Segedin, 1994 SPECIES
 
 #### Status
 ACCEPTED

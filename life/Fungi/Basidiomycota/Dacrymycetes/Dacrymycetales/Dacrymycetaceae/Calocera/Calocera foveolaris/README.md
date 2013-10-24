@@ -1,5 +1,4 @@
-Calocera foveolaris Lév. SPECIES
-=======
+# Calocera foveolaris Lév. SPECIES
 
 #### Status
 ACCEPTED

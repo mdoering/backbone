@@ -1,5 +1,4 @@
-Psilocybe tropicalis Speg. SPECIES
-=======
+# Psilocybe tropicalis Speg. SPECIES
 
 #### Status
 ACCEPTED

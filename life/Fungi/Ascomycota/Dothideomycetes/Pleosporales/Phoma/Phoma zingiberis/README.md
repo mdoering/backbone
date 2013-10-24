@@ -1,5 +1,4 @@
-Phoma zingiberis (T.S. Ramakr.) Khune, 1979 SPECIES
-=======
+# Phoma zingiberis (T.S. Ramakr.) Khune, 1979 SPECIES
 
 #### Status
 ACCEPTED

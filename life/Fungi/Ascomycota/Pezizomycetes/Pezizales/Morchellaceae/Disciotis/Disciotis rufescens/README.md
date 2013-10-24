@@ -1,5 +1,4 @@
-Disciotis rufescens R. Heim SPECIES
-=======
+# Disciotis rufescens R. Heim SPECIES
 
 #### Status
 ACCEPTED

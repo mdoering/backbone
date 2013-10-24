@@ -1,5 +1,4 @@
-Cucurbitaria mori (With.) Kuntze SPECIES
-=======
+# Cucurbitaria mori (With.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

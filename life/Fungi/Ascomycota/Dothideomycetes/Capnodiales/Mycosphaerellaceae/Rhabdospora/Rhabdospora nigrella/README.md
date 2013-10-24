@@ -1,5 +1,4 @@
-Rhabdospora nigrella (Sacc.) Sacc. SPECIES
-=======
+# Rhabdospora nigrella (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

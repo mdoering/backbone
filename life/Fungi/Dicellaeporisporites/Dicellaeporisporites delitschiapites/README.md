@@ -1,5 +1,4 @@
-Dicellaeporisporites delitschiapites (Kalgutkar & Sigler) Kalgutkar SPECIES
-=======
+# Dicellaeporisporites delitschiapites (Kalgutkar & Sigler) Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

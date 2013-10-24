@@ -1,5 +1,4 @@
-Oidium ocimi S. Naray. & K. Ramakr. SPECIES
-=======
+# Oidium ocimi S. Naray. & K. Ramakr. SPECIES
 
 #### Status
 ACCEPTED

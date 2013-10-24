@@ -1,5 +1,4 @@
-Dendryphion pachysporum Ellis & Everh. SPECIES
-=======
+# Dendryphion pachysporum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

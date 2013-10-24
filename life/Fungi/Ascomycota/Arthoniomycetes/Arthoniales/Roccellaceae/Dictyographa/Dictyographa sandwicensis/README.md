@@ -1,5 +1,4 @@
-Dictyographa sandwicensis Zahlbr. SPECIES
-=======
+# Dictyographa sandwicensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

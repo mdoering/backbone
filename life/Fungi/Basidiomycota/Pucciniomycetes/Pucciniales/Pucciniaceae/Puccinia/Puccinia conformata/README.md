@@ -1,5 +1,4 @@
-Puccinia conformata Syd. SPECIES
-=======
+# Puccinia conformata Syd. SPECIES
 
 #### Status
 ACCEPTED

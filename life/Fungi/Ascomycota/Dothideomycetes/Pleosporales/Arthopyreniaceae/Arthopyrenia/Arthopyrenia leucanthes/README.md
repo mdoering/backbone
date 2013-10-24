@@ -1,5 +1,4 @@
-Arthopyrenia leucanthes (Stirt.) Zahlbr. SPECIES
-=======
+# Arthopyrenia leucanthes (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Derodontopsis GENUS
-=======
+# Derodontopsis GENUS
 
 #### Status
 ACCEPTED

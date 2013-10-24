@@ -1,5 +1,4 @@
-Archaeothrix R. Kidston & W.H. Lang, 1921 GENUS
-=======
+# Archaeothrix R. Kidston & W.H. Lang, 1921 GENUS
 
 #### Status
 ACCEPTED

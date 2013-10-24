@@ -1,5 +1,4 @@
-Blastobotrys terrestris (Van der Walt & Johannsen) Kurtzman & Robnett, 2007 SPECIES
-=======
+# Blastobotrys terrestris (Van der Walt & Johannsen) Kurtzman & Robnett, 2007 SPECIES
 
 #### Status
 ACCEPTED

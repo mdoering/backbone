@@ -1,5 +1,4 @@
-Ascochyta berberidis E. Radul. & Negru SPECIES
-=======
+# Ascochyta berberidis E. Radul. & Negru SPECIES
 
 #### Status
 ACCEPTED

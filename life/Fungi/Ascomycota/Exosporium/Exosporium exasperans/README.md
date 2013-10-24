@@ -1,5 +1,4 @@
-Exosporium exasperans P. Karst. SPECIES
-=======
+# Exosporium exasperans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

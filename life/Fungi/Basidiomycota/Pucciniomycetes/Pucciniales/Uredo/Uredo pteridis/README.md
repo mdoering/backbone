@@ -1,5 +1,4 @@
-Uredo pteridis Dietel & Holw. SPECIES
-=======
+# Uredo pteridis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

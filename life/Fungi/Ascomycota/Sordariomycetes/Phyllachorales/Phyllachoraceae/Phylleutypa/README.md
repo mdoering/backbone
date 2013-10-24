@@ -1,5 +1,4 @@
-Phylleutypa Petr. GENUS
-=======
+# Phylleutypa Petr. GENUS
 
 #### Status
 ACCEPTED

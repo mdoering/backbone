@@ -1,5 +1,4 @@
-Naucoria inattenuata (Britzelm.) Lapl. SPECIES
-=======
+# Naucoria inattenuata (Britzelm.) Lapl. SPECIES
 
 #### Status
 ACCEPTED

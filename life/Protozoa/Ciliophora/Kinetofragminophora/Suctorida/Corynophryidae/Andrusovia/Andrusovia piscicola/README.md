@@ -1,5 +1,4 @@
-Andrusovia piscicola SPECIES
-=======
+# Andrusovia piscicola SPECIES
 
 #### Status
 ACCEPTED

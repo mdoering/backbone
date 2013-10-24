@@ -1,5 +1,4 @@
-Lactobacillus spicheri Meroth et al., 2004 SPECIES
-=======
+# Lactobacillus spicheri Meroth et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora aeruginascens H. Magn. SPECIES
-=======
+# Lecanora aeruginascens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

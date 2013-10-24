@@ -1,5 +1,4 @@
-Collybia hemileuca (Berk. & M.A. Curtis) SPECIES
-=======
+# Collybia hemileuca (Berk. & M.A. Curtis) SPECIES
 
 #### Status
 ACCEPTED

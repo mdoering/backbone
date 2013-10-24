@@ -1,5 +1,4 @@
-Phyllachora vernoniae Bat. & J.L. Bezerra, 1964 SPECIES
-=======
+# Phyllachora vernoniae Bat. & J.L. Bezerra, 1964 SPECIES
 
 #### Status
 ACCEPTED

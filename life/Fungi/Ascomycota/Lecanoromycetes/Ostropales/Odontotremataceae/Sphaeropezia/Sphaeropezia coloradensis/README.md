@@ -1,5 +1,4 @@
-Sphaeropezia coloradensis Ellis & Everh. SPECIES
-=======
+# Sphaeropezia coloradensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

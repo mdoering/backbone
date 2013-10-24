@@ -1,5 +1,4 @@
-Hypomyces auriculariicola K. Põldmaa & Samuels SPECIES
-=======
+# Hypomyces auriculariicola K. Põldmaa & Samuels SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia latiloba Szatala SPECIES
-=======
+# Aspicilia latiloba Szatala SPECIES
 
 #### Status
 ACCEPTED

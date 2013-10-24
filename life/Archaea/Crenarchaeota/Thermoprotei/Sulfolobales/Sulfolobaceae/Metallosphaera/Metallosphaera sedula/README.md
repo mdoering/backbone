@@ -1,5 +1,4 @@
-Metallosphaera sedula Huber et al., 1989 SPECIES
-=======
+# Metallosphaera sedula Huber et al., 1989 SPECIES
 
 #### Status
 ACCEPTED

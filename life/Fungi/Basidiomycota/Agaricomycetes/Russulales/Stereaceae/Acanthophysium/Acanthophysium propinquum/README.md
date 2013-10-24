@@ -1,5 +1,4 @@
-Acanthophysium propinquum Boidin & Gilles SPECIES
-=======
+# Acanthophysium propinquum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrrhospora bhutanensis Aptroot SPECIES
-=======
+# Pyrrhospora bhutanensis Aptroot SPECIES
 
 #### Status
 ACCEPTED

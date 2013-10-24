@@ -1,5 +1,4 @@
-Dermatea rufa Kalchbr. & Cooke SPECIES
-=======
+# Dermatea rufa Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

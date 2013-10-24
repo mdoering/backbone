@@ -1,5 +1,4 @@
-Lithothelium violascens Malme SPECIES
-=======
+# Lithothelium violascens Malme SPECIES
 
 #### Status
 ACCEPTED

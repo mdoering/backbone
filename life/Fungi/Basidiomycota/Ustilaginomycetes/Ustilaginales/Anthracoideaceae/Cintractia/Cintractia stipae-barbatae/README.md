@@ -1,5 +1,4 @@
-Cintractia stipae-barbatae (Maire) Maire SPECIES
-=======
+# Cintractia stipae-barbatae (Maire) Maire SPECIES
 
 #### Status
 ACCEPTED

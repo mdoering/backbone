@@ -1,5 +1,4 @@
-Pholiota pseudograveolens A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota pseudograveolens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

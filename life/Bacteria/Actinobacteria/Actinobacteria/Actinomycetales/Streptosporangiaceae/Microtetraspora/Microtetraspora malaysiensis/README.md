@@ -1,5 +1,4 @@
-Microtetraspora malaysiensis Nakajima et al., 2004 SPECIES
-=======
+# Microtetraspora malaysiensis Nakajima et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

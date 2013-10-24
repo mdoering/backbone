@@ -1,5 +1,4 @@
-Asterina viticola A.K. Kar & S.N. Ghosh SPECIES
-=======
+# Asterina viticola A.K. Kar & S.N. Ghosh SPECIES
 
 #### Status
 ACCEPTED

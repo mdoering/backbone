@@ -1,17 +1,16 @@
-Lyophyllum sphaerosporum var. sphaerosporum VARIETY
-=======
+# Tephrocybe anthracophila (Lasch) P.D. Orton, 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. Analyt. Champ. Supér. (Paris) 166 (1953)
+Notes R. bot. Gdn Edinb. 29(1): 76 (1969)
 
 #### Original name
-Lyophyllum sphaerosporum var. sphaerosporum
+Agaricus anthracophilus Lasch, 1829
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Craterellus carolinensis R.H. Petersen SPECIES
-=======
+# Craterellus carolinensis R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

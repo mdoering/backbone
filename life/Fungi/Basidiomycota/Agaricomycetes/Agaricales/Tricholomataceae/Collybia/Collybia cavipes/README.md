@@ -1,5 +1,4 @@
-Collybia cavipes Pat. & Gaillard SPECIES
-=======
+# Collybia cavipes Pat. & Gaillard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium deconinckii Stockmans & Willière, 1969 SPECIES
-=======
+# Micrhystridium deconinckii Stockmans & Willière, 1969 SPECIES
 
 #### Status
 ACCEPTED

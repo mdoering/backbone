@@ -1,5 +1,4 @@
-Apiotypa Petr. GENUS
-=======
+# Apiotypa Petr. GENUS
 
 #### Status
 ACCEPTED

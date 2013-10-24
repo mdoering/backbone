@@ -1,14 +1,13 @@
-Aleurina atrovinosa (Cooke) Seaver, 1928 SPECIES
-=======
+# Peziza atrovinosa Cooke & W.R. Gerard, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bulletin of the Buffalo Acad. Sci. 288 (1875)
 
 #### Original name
 Peziza atrovinosa Cooke & W.R. Gerard, 1875

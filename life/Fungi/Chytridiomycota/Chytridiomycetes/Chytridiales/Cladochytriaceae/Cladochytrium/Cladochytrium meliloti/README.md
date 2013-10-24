@@ -1,5 +1,4 @@
-Cladochytrium meliloti Maire SPECIES
-=======
+# Cladochytrium meliloti Maire SPECIES
 
 #### Status
 ACCEPTED

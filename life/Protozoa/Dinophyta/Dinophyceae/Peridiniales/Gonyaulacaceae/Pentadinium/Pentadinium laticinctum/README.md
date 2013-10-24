@@ -1,5 +1,4 @@
-Pentadinium laticinctum Gerlach, 1961 SPECIES
-=======
+# Pentadinium laticinctum Gerlach, 1961 SPECIES
 
 #### Status
 ACCEPTED

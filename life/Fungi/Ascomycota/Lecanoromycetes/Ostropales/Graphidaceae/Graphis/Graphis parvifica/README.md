@@ -1,5 +1,4 @@
-Graphis parvifica Nyl. SPECIES
-=======
+# Graphis parvifica Nyl. SPECIES
 
 #### Status
 ACCEPTED

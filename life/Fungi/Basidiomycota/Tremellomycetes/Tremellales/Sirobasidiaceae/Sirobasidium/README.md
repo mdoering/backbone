@@ -1,5 +1,4 @@
-Sirobasidium Lagerh. & Pat. GENUS
-=======
+# Sirobasidium Lagerh. & Pat. GENUS
 
 #### Status
 ACCEPTED

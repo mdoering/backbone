@@ -1,5 +1,4 @@
-Chroodiscus santessonii Lücking SPECIES
-=======
+# Chroodiscus santessonii Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa constellata Berk. & M.A. Curtis SPECIES
-=======
+# Valsa constellata Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

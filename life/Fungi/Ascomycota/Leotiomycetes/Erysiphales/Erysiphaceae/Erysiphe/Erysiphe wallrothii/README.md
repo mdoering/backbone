@@ -1,5 +1,4 @@
-Erysiphe wallrothii (U. Braun & Tanda) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe wallrothii (U. Braun & Tanda) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

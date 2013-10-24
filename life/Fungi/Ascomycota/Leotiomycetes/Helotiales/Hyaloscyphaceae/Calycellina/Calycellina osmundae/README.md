@@ -1,5 +1,4 @@
-Calycellina osmundae (Cooke & Ellis) Dennis SPECIES
-=======
+# Calycellina osmundae (Cooke & Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

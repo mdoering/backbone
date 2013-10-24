@@ -1,5 +1,4 @@
-Scrapie prion SPECIES
-=======
+# Scrapie prion SPECIES
 
 #### Status
 ACCEPTED

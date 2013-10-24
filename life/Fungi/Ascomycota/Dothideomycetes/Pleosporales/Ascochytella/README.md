@@ -1,5 +1,4 @@
-Ascochytella GENUS
-=======
+# Ascochytella GENUS
 
 #### Status
 ACCEPTED

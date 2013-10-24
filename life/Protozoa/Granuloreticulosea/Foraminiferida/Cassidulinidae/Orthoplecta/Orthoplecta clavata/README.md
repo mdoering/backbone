@@ -1,5 +1,4 @@
-Orthoplecta clavata (Brady, 1884) SPECIES
-=======
+# Orthoplecta clavata (Brady, 1884) SPECIES
 
 #### Status
 ACCEPTED

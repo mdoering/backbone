@@ -1,5 +1,4 @@
-Ocellularia inthanonensis Homchant. & Coppins SPECIES
-=======
+# Ocellularia inthanonensis Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplococcium pandani B. Huguenin, 1964 SPECIES
-=======
+# Diplococcium pandani B. Huguenin, 1964 SPECIES
 
 #### Status
 ACCEPTED

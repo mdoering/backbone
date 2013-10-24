@@ -1,5 +1,4 @@
-Cordella coniosporioides Speg. SPECIES
-=======
+# Cordella coniosporioides Speg. SPECIES
 
 #### Status
 ACCEPTED

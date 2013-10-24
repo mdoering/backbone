@@ -1,5 +1,4 @@
-Desulfurococcus mobilis Zillig & Stetter, 1983 SPECIES
-=======
+# Desulfurococcus mobilis Zillig & Stetter, 1983 SPECIES
 
 #### Status
 ACCEPTED

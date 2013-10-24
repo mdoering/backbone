@@ -1,5 +1,4 @@
-Didymosphaeria anisomera Sacc. SPECIES
-=======
+# Didymosphaeria anisomera Sacc. SPECIES
 
 #### Status
 ACCEPTED

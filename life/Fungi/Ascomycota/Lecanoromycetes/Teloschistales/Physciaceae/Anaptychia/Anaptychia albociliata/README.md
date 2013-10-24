@@ -1,5 +1,4 @@
-Anaptychia albociliata SPECIES
-=======
+# Anaptychia albociliata SPECIES
 
 #### Status
 ACCEPTED

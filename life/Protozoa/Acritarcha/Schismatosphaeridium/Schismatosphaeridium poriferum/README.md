@@ -1,5 +1,4 @@
-Schismatosphaeridium poriferum N. Umnova, 1975 SPECIES
-=======
+# Schismatosphaeridium poriferum N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

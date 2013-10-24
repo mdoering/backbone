@@ -1,5 +1,4 @@
-Pseudomonas pohangensis Weon et al., 2006 SPECIES
-=======
+# Pseudomonas pohangensis Weon et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

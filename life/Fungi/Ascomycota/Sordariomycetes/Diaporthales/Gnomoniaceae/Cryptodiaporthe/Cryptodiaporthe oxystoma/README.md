@@ -1,14 +1,13 @@
-Valsa oxystoma Rehm, 1875 SPECIES
-=======
+# Cryptodiaporthe oxystoma (Rehm) Z. Urb., 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ascomyceten no. 270 (1875)
+Preslia 29: 395 (1957)
 
 #### Original name
 Valsa oxystoma Rehm, 1875

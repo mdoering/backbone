@@ -1,5 +1,4 @@
-Mollisia luctuosa Boud. SPECIES
-=======
+# Mollisia luctuosa Boud. SPECIES
 
 #### Status
 ACCEPTED

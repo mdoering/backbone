@@ -1,5 +1,4 @@
-Lecanora geographica (Hue) Zahlbr. SPECIES
-=======
+# Lecanora geographica (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

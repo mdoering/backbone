@@ -1,5 +1,4 @@
-Tolypammina Hofker, 1972 GENUS
-=======
+# Tolypammina Hofker, 1972 GENUS
 
 #### Status
 ACCEPTED

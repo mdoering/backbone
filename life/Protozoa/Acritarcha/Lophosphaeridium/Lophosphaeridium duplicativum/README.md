@@ -1,5 +1,4 @@
-Lophosphaeridium duplicativum Timofeev, 1959 ex Martin, 1969 SPECIES
-=======
+# Lophosphaeridium duplicativum Timofeev, 1959 ex Martin, 1969 SPECIES
 
 #### Status
 ACCEPTED

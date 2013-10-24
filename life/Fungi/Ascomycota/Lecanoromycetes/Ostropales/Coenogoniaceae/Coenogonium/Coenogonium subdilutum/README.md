@@ -1,5 +1,4 @@
-Coenogonium subdilutum (Malme) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium subdilutum (Malme) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

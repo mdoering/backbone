@@ -1,5 +1,4 @@
-Hypothele indigoferus Paulet SPECIES
-=======
+# Hypothele indigoferus Paulet SPECIES
 
 #### Status
 ACCEPTED

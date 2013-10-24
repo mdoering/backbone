@@ -1,5 +1,4 @@
-Clitopilus octaristus R. Heim SPECIES
-=======
+# Clitopilus octaristus R. Heim SPECIES
 
 #### Status
 ACCEPTED

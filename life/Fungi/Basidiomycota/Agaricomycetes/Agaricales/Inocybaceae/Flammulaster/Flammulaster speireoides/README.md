@@ -1,17 +1,16 @@
-Phaeomarasmius speireoides var. speireoides VARIETY
-=======
+# Flammulaster speireoides (Romagn.) Watling, 1967 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 29: 295 (1969)
+Notes R. bot. Gdn Edinb. 28(1): 68 (1967)
 
 #### Original name
-Phaeomarasmius speireoides var. speireoides
+Naucoria speireoides Romagn., 1957
 
 ### Remarks
 null

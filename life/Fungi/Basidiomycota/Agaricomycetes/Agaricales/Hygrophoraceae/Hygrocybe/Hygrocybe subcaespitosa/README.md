@@ -1,5 +1,4 @@
-Hygrocybe subcaespitosa (Murrill) Lodge & Pegler SPECIES
-=======
+# Hygrocybe subcaespitosa (Murrill) Lodge & Pegler SPECIES
 
 #### Status
 ACCEPTED

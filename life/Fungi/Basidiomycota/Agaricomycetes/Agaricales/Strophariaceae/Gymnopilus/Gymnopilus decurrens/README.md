@@ -1,5 +1,4 @@
-Gymnopilus decurrens Hesler SPECIES
-=======
+# Gymnopilus decurrens Hesler SPECIES
 
 #### Status
 ACCEPTED

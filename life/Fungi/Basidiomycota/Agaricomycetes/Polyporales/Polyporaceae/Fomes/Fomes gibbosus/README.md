@@ -1,5 +1,4 @@
-Fomes gibbosus (Blume & T. Nees) Sacc. SPECIES
-=======
+# Fomes gibbosus (Blume & T. Nees) Sacc. SPECIES
 
 #### Status
 ACCEPTED

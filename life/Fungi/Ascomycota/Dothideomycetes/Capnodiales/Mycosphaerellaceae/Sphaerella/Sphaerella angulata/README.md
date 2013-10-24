@@ -1,5 +1,4 @@
-Sphaerella angulata Fuckel SPECIES
-=======
+# Sphaerella angulata Fuckel SPECIES
 
 #### Status
 ACCEPTED

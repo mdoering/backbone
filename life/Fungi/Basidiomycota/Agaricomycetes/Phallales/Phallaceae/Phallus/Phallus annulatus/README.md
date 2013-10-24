@@ -1,5 +1,4 @@
-Phallus annulatus Lloyd SPECIES
-=======
+# Phallus annulatus Lloyd SPECIES
 
 #### Status
 ACCEPTED

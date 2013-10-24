@@ -1,5 +1,4 @@
-Marasmius amethystinus J. Favre SPECIES
-=======
+# Marasmius amethystinus J. Favre SPECIES
 
 #### Status
 ACCEPTED

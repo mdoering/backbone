@@ -1,5 +1,4 @@
-Mycena dasypus Maas Geest. & Laessøe, 1992 SPECIES
-=======
+# Mycena dasypus Maas Geest. & Laessøe, 1992 SPECIES
 
 #### Status
 ACCEPTED

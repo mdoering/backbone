@@ -1,17 +1,16 @@
-Polyporus selectus P. Karst., 1868 SPECIES
-=======
+# Antrodia xantha (Fr.) Ryvarden, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 20: 8 (1973)
 
 #### Original name
-null
+Polyporus xanthus Fr., 1815
 
 ### Remarks
 null

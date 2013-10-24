@@ -1,5 +1,4 @@
-Inonotus iliensis Kravtzev SPECIES
-=======
+# Inonotus iliensis Kravtzev SPECIES
 
 #### Status
 ACCEPTED

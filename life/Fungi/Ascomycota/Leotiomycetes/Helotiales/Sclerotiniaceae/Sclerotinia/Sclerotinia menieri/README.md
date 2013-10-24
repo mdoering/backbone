@@ -1,5 +1,4 @@
-Sclerotinia menieri Boud. SPECIES
-=======
+# Sclerotinia menieri Boud. SPECIES
 
 #### Status
 ACCEPTED

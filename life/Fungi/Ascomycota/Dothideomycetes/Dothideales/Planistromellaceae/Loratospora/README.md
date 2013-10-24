@@ -1,5 +1,4 @@
-Loratospora Kohlm. & Volkm.-Kohlm. GENUS
-=======
+# Loratospora Kohlm. & Volkm.-Kohlm. GENUS
 
 #### Status
 ACCEPTED

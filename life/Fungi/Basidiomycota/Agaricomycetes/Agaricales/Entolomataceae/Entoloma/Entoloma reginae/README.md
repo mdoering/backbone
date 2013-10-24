@@ -1,5 +1,4 @@
-Entoloma reginae Noordel. & Chrispijn, 1996 SPECIES
-=======
+# Entoloma reginae Noordel. & Chrispijn, 1996 SPECIES
 
 #### Status
 ACCEPTED

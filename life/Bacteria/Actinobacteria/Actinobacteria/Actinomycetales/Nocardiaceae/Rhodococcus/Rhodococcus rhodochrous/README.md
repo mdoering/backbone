@@ -1,5 +1,4 @@
-Rhodococcus rhodochrous (Zopf, 1891) Tsukamura, 1974 (Approved Lists, 1980) SPECIES
-=======
+# Rhodococcus rhodochrous (Zopf, 1891) Tsukamura, 1974 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

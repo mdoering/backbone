@@ -1,5 +1,4 @@
-Puccinia millegranae Cummins SPECIES
-=======
+# Puccinia millegranae Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vuilleminia cystidiata Parmasto, 1965 SPECIES
-=======
+# Vuilleminia cystidiata Parmasto, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis rhizocola (Fée) Lücking & Chaves SPECIES
-=======
+# Graphis rhizocola (Fée) Lücking & Chaves SPECIES
 
 #### Status
 ACCEPTED

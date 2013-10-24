@@ -1,5 +1,4 @@
-Phialea eburnea (Desm.) Sacc. SPECIES
-=======
+# Phialea eburnea (Desm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

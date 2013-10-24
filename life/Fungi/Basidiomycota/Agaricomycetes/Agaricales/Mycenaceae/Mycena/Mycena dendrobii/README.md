@@ -1,5 +1,4 @@
-Mycena dendrobii L. Fan & S.X. Guo SPECIES
-=======
+# Mycena dendrobii L. Fan & S.X. Guo SPECIES
 
 #### Status
 ACCEPTED

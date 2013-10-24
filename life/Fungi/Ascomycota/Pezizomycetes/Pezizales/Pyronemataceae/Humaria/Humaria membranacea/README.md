@@ -1,5 +1,4 @@
-Humaria membranacea (Schumach.) Sacc. SPECIES
-=======
+# Humaria membranacea (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

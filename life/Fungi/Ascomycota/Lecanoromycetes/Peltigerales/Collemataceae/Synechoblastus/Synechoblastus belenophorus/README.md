@@ -1,5 +1,4 @@
-Synechoblastus belenophorus (Nyl.) Müll. Arg. SPECIES
-=======
+# Synechoblastus belenophorus (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

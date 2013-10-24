@@ -1,5 +1,4 @@
-Periphaena Ehrenberg, 1873 GENUS
-=======
+# Periphaena Ehrenberg, 1873 GENUS
 
 #### Status
 ACCEPTED

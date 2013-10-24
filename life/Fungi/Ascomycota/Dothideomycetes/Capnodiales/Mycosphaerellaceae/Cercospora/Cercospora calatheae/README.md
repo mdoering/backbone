@@ -1,5 +1,4 @@
-Cercospora calatheae Viégas & Chupp SPECIES
-=======
+# Cercospora calatheae Viégas & Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystammina galeata SPECIES
-=======
+# Cystammina galeata SPECIES
 
 #### Status
 ACCEPTED

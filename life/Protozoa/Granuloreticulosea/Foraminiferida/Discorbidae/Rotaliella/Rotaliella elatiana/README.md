@@ -1,5 +1,4 @@
-Rotaliella elatiana Pawlowski & Lee, 1992 SPECIES
-=======
+# Rotaliella elatiana Pawlowski & Lee, 1992 SPECIES
 
 #### Status
 ACCEPTED

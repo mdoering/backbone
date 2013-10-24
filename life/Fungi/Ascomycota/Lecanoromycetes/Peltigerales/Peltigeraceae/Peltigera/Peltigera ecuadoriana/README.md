@@ -1,5 +1,4 @@
-Peltigera ecuadoriana SPECIES
-=======
+# Peltigera ecuadoriana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium lichenicola Iturr., D. Hawksw. & J.L. Crane SPECIES
-=======
+# Sporidesmium lichenicola Iturr., D. Hawksw. & J.L. Crane SPECIES
 
 #### Status
 ACCEPTED

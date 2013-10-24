@@ -1,17 +1,16 @@
-Verrucaria transsylvanica Riedl SPECIES
-=======
+# Verrucaria transilvanica Riedl SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Linzer biol. Beitr. 22(1): 154 (1990)
 
 #### Original name
-Verrucaria transsylvanica Riedl
+Verrucaria flavicans (Müll. Arg.) Stizenb.
 
 ### Remarks
 null

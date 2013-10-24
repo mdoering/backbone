@@ -1,5 +1,4 @@
-Fomitopsis ibericus Melo & Ryvarden SPECIES
-=======
+# Fomitopsis ibericus Melo & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Tomentella pallidofulva f. pallidofulva FORM
-=======
+# Tomentella bryophila (Pers.) M.J. Larsen, 1974 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 88: 131 (1939)
+Mycol. Mem. 4: 51 (1974)
 
 #### Original name
-Tomentella pallidofulva f. pallidofulva
+Sporotrichum bryophilum Pers., 1822
 
 ### Remarks
 null

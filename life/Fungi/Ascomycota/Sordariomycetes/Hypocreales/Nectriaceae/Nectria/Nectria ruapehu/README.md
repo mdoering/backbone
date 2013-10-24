@@ -1,5 +1,4 @@
-Nectria ruapehu Dingley, 1951 SPECIES
-=======
+# Nectria ruapehu Dingley, 1951 SPECIES
 
 #### Status
 ACCEPTED

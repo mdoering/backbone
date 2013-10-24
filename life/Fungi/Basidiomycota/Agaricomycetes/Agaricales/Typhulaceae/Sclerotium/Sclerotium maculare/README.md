@@ -1,5 +1,4 @@
-Sclerotium maculare var. maculare VARIETY
-=======
+# Sclerotium maculare Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Syst. mycol. (Lundae) 2(1): 256 (1822)
 
 #### Original name
-Sclerotium maculare var. maculare
+Sclerotium maculare Fr.
 
 ### Remarks
 null

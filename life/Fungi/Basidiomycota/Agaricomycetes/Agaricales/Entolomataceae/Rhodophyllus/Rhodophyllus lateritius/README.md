@@ -1,5 +1,4 @@
-Rhodophyllus lateritius Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus lateritius Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

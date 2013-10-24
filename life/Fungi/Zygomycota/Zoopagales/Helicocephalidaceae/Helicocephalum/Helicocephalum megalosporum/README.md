@@ -1,5 +1,4 @@
-Helicocephalum megalosporum G. Arnaud SPECIES
-=======
+# Helicocephalum megalosporum G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Sargassum cymosum var. stenophyllum (Martius) Grunow VARIETY
-=======
+# Sargassum stenophyllum Martius SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

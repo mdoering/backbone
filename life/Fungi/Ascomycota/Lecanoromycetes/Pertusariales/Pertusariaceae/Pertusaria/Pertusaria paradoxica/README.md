@@ -1,5 +1,4 @@
-Pertusaria paradoxica var. paradoxica VARIETY
-=======
+# Pertusaria paradoxica A. W. Archer & Elix SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Mycotaxon 45: 420 (1992)
 
 #### Original name
-Pertusaria paradoxica var. paradoxica
+Pertusaria paradoxica A. W. Archer & Elix
 
 ### Remarks
 null

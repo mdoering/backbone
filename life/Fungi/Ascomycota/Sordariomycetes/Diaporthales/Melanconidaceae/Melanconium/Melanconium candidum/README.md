@@ -1,5 +1,4 @@
-Melanconium candidum (Peck) Zeller SPECIES
-=======
+# Melanconium candidum (Peck) Zeller SPECIES
 
 #### Status
 ACCEPTED

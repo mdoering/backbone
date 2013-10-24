@@ -1,5 +1,4 @@
-Usnea radiciformis Scop. SPECIES
-=======
+# Usnea radiciformis Scop. SPECIES
 
 #### Status
 ACCEPTED

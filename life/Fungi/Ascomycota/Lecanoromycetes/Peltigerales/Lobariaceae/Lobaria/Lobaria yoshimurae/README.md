@@ -1,5 +1,4 @@
-Lobaria yoshimurae Kurok. & Kashiw. SPECIES
-=======
+# Lobaria yoshimurae Kurok. & Kashiw. SPECIES
 
 #### Status
 ACCEPTED

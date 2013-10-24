@@ -1,5 +1,4 @@
-Pyrenopeziza lichenicola Speg. SPECIES
-=======
+# Pyrenopeziza lichenicola Speg. SPECIES
 
 #### Status
 ACCEPTED

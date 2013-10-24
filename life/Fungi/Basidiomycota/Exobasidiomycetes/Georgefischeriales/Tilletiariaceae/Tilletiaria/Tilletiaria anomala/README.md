@@ -1,5 +1,4 @@
-Tilletiaria anomala Bandoni & B.N. Johri, 1972 SPECIES
-=======
+# Tilletiaria anomala Bandoni & B.N. Johri, 1972 SPECIES
 
 #### Status
 ACCEPTED

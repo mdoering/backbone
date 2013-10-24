@@ -1,5 +1,4 @@
-Entyloma ludwigianum Syd., 1932 SPECIES
-=======
+# Entyloma ludwigianum Syd., 1932 SPECIES
 
 #### Status
 ACCEPTED

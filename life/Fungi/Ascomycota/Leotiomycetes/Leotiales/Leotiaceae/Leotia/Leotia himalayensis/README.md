@@ -1,5 +1,4 @@
-Leotia himalayensis Y. Otani SPECIES
-=======
+# Leotia himalayensis Y. Otani SPECIES
 
 #### Status
 ACCEPTED

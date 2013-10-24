@@ -1,5 +1,4 @@
-Sorosporium terrareginalense Zundel SPECIES
-=======
+# Sorosporium terrareginalense Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlamydomyzium sphaericum Glockling, 2001 SPECIES
-=======
+# Chlamydomyzium sphaericum Glockling, 2001 SPECIES
 
 #### Status
 ACCEPTED

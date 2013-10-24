@@ -1,5 +1,4 @@
-Cirrophrya haptica Gellert, 1950 SPECIES
-=======
+# Cirrophrya haptica Gellert, 1950 SPECIES
 
 #### Status
 ACCEPTED

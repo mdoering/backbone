@@ -1,5 +1,4 @@
-Bulbocyrtium cordeyi SPECIES
-=======
+# Bulbocyrtium cordeyi SPECIES
 
 #### Status
 ACCEPTED

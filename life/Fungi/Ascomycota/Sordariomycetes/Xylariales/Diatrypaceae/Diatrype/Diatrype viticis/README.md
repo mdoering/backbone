@@ -1,5 +1,4 @@
-Diatrype viticis Tend. SPECIES
-=======
+# Diatrype viticis Tend. SPECIES
 
 #### Status
 ACCEPTED

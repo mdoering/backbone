@@ -1,5 +1,4 @@
-Stictina weigelii var. weigelii VARIETY
-=======
+# Stictina weigelii (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Stictina weigelii var. weigelii
+Sticta damicornis var. weigelii Ach.
 
 ### Remarks
 null

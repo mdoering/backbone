@@ -1,5 +1,4 @@
-Baeospora brunneipes (Singer) Singer SPECIES
-=======
+# Baeospora brunneipes (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

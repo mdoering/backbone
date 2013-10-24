@@ -1,5 +1,4 @@
-Pleospora gompholobii Petr. SPECIES
-=======
+# Pleospora gompholobii Petr. SPECIES
 
 #### Status
 ACCEPTED

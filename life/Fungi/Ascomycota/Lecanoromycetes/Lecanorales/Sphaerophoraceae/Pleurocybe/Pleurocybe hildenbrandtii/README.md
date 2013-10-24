@@ -1,17 +1,16 @@
-Pleurocybe hildebrandtii Müll. Arg. SPECIES
-=======
+# Pleurocybe hildenbrandtii Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 67: (1884)
 
 #### Original name
-Pleurocybe hildebrandtii Müll. Arg.
+Pleurocybe hildenbrandtii Müll. Arg.
 
 ### Remarks
 null

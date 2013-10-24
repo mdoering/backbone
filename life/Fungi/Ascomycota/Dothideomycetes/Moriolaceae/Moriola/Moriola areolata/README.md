@@ -1,5 +1,4 @@
-Moriola areolata Norman SPECIES
-=======
+# Moriola areolata Norman SPECIES
 
 #### Status
 ACCEPTED

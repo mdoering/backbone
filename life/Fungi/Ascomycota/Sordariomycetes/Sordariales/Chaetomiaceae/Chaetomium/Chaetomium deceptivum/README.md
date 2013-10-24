@@ -1,5 +1,4 @@
-Chaetomium deceptivum Malloch & Benny, 1973 SPECIES
-=======
+# Chaetomium deceptivum Malloch & Benny, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon aegyptiacum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dermatocarpon aegyptiacum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

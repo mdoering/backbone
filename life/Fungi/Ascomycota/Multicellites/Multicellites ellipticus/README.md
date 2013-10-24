@@ -1,5 +1,4 @@
-Multicellites ellipticus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
-=======
+# Multicellites ellipticus (Sheffy & Dilcher) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

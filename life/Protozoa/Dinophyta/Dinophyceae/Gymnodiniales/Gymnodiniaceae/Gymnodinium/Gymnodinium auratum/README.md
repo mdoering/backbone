@@ -1,5 +1,4 @@
-Gymnodinium auratum Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium auratum Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

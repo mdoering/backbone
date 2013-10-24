@@ -1,5 +1,4 @@
-Tarzetta microspora (Raithelh.) Raithelh. SPECIES
-=======
+# Tarzetta microspora (Raithelh.) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

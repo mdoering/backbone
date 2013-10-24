@@ -1,5 +1,4 @@
-Polyporus languidus Fr. SPECIES
-=======
+# Polyporus languidus Fr. SPECIES
 
 #### Status
 ACCEPTED

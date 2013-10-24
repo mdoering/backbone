@@ -1,5 +1,4 @@
-Protoachlya Coker, 1923 GENUS
-=======
+# Protoachlya Coker, 1923 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplosporium palinhae Gonz. Frag. SPECIES
-=======
+# Diplosporium palinhae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

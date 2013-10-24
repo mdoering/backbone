@@ -1,5 +1,4 @@
-Minidiscus spinulosus Guo, Cheng & Chin SPECIES
-=======
+# Minidiscus spinulosus Guo, Cheng & Chin SPECIES
 
 #### Status
 ACCEPTED

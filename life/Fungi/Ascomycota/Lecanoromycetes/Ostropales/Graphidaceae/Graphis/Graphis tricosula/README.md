@@ -1,5 +1,4 @@
-Graphis tricosula (Nyl.) Vain. SPECIES
-=======
+# Graphis tricosula (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodophyllus substrictior Singer SPECIES
-=======
+# Rhodophyllus substrictior Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacinia transvaalensis (Doidge) Doidge SPECIES
-=======
+# Limacinia transvaalensis (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED

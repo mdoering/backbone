@@ -1,5 +1,4 @@
-Monosozosphaeridium ekmelum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
-=======
+# Monosozosphaeridium ekmelum Zang Wen-long in Zang Wen-long & Walter, 1992 SPECIES
 
 #### Status
 ACCEPTED

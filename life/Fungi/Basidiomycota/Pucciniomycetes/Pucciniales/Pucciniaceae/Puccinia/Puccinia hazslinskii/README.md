@@ -1,8 +1,7 @@
-Puccinia hazslinszkyi De Toni SPECIES
-=======
+# Puccinia hazslinskii De Toni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Puccinia hazslinszkyi De Toni
+Puccinia hazslinskii De Toni
 
 ### Remarks
 null

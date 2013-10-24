@@ -1,5 +1,4 @@
-Hymenochaete nothofagicola Parmasto, 2006 SPECIES
-=======
+# Hymenochaete nothofagicola Parmasto, 2006 SPECIES
 
 #### Status
 ACCEPTED

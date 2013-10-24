@@ -1,17 +1,16 @@
-Sphaerella nyssaecola Cooke SPECIES
-=======
+# Sphaerella nyssicola Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 40 (1868)
 
 #### Original name
-Sphaerella nyssaecola Cooke
+Sphaerella nyssicola Cooke
 
 ### Remarks
 null

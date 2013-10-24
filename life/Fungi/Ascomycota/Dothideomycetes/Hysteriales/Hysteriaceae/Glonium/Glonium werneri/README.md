@@ -1,5 +1,4 @@
-Glonium werneri Rieuf SPECIES
-=======
+# Glonium werneri Rieuf SPECIES
 
 #### Status
 ACCEPTED

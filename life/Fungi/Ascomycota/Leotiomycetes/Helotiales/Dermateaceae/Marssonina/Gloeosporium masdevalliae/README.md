@@ -1,5 +1,4 @@
-Gloeosporium masdevalliae Brick SPECIES
-=======
+# Gloeosporium masdevalliae Brick SPECIES
 
 #### Status
 ACCEPTED

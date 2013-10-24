@@ -1,5 +1,4 @@
-Patellaria stillata Müll. Arg. SPECIES
-=======
+# Patellaria stillata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

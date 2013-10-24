@@ -1,5 +1,4 @@
-Pharcidia ramalinae (Müll. Arg.) Vouaux SPECIES
-=======
+# Pharcidia ramalinae (Müll. Arg.) Vouaux SPECIES
 
 #### Status
 ACCEPTED

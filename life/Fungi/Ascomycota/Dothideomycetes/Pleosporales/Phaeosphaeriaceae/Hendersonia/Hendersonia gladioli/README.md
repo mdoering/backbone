@@ -1,5 +1,4 @@
-Hendersonia gladioli Brunaud SPECIES
-=======
+# Hendersonia gladioli Brunaud SPECIES
 
 #### Status
 ACCEPTED

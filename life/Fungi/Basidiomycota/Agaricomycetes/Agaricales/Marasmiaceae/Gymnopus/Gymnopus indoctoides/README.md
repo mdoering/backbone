@@ -1,5 +1,4 @@
-Gymnopus indoctoides A.W. Wilson, Desjardin & E. Horak SPECIES
-=======
+# Gymnopus indoctoides A.W. Wilson, Desjardin & E. Horak SPECIES
 
 #### Status
 ACCEPTED

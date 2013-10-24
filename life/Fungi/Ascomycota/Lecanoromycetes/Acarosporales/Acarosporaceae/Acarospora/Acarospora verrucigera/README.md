@@ -1,5 +1,4 @@
-Acarospora verrucigera H. Magn. SPECIES
-=======
+# Acarospora verrucigera H. Magn. SPECIES
 
 #### Status
 ACCEPTED

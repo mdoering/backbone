@@ -1,5 +1,4 @@
-Tremella monospora Diederich SPECIES
-=======
+# Tremella monospora Diederich SPECIES
 
 #### Status
 ACCEPTED

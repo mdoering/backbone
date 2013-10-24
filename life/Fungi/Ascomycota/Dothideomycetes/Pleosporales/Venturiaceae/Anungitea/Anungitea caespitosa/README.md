@@ -1,5 +1,4 @@
-Anungitea caespitosa Crous, W.B. Kendr. & M.J. Wingf. SPECIES
-=======
+# Anungitea caespitosa Crous, W.B. Kendr. & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

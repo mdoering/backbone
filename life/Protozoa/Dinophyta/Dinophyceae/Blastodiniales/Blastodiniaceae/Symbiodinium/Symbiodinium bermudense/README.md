@@ -1,5 +1,4 @@
-Symbiodinium bermudense R. K. Trench SPECIES
-=======
+# Symbiodinium bermudense R. K. Trench SPECIES
 
 #### Status
 ACCEPTED

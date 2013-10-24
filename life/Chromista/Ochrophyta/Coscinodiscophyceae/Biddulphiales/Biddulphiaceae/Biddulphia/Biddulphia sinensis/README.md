@@ -1,5 +1,4 @@
-Biddulphia sinensis Greville SPECIES
-=======
+# Biddulphia sinensis Greville SPECIES
 
 #### Status
 ACCEPTED

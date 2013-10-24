@@ -1,5 +1,4 @@
-Ascochyta echinopis Bond.-Mont. SPECIES
-=======
+# Ascochyta echinopis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

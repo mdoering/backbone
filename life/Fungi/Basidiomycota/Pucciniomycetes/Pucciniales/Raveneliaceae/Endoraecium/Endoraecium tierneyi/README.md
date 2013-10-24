@@ -1,14 +1,13 @@
-Racospermyces tierneyi J. Walker & R.G. Shivas, 2001 SPECIES
-=======
+# Endoraecium tierneyi (J. Walker & R.G. Shivas) M. Scholler & Aime, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Australas. Mycol. 20(1): 23 (2001)
+Mycoscience 47(3): 163 (2006)
 
 #### Original name
 Racospermyces tierneyi J. Walker & R.G. Shivas, 2001

@@ -1,5 +1,4 @@
-Spiroloculina regularis Cushman & Todd, 1944 SPECIES
-=======
+# Spiroloculina regularis Cushman & Todd, 1944 SPECIES
 
 #### Status
 ACCEPTED

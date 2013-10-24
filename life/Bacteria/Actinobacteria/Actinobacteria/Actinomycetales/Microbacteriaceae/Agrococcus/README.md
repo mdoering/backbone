@@ -1,5 +1,4 @@
-Agrococcus Groth, Schumann, Weiss, Martin & Rainey, 1996 GENUS
-=======
+# Agrococcus Groth, Schumann, Weiss, Martin & Rainey, 1996 GENUS
 
 #### Status
 ACCEPTED

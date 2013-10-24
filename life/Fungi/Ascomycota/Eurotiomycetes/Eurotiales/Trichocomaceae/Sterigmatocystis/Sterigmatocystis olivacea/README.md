@@ -1,5 +1,4 @@
-Sterigmatocystis olivacea Tiegh. SPECIES
-=======
+# Sterigmatocystis olivacea Tiegh. SPECIES
 
 #### Status
 ACCEPTED

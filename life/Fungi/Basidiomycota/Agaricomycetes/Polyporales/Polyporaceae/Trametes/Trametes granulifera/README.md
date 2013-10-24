@@ -1,5 +1,4 @@
-Trametes granulifera Corner SPECIES
-=======
+# Trametes granulifera Corner SPECIES
 
 #### Status
 ACCEPTED

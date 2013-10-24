@@ -1,5 +1,4 @@
-Aspicilia melanodes SPECIES
-=======
+# Aspicilia melanodes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aigialus scabridispora ined. SPECIES
-=======
+# Aigialus scabridispora ined. SPECIES
 
 #### Status
 ACCEPTED

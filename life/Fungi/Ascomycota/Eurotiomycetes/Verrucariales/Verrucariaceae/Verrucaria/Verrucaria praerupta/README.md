@@ -1,5 +1,4 @@
-Verrucaria praerupta Anzi SPECIES
-=======
+# Verrucaria praerupta Anzi SPECIES
 
 #### Status
 ACCEPTED

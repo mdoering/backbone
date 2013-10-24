@@ -1,5 +1,4 @@
-Cercospora oenotherae-sinuatae G.F. Atk. SPECIES
-=======
+# Cercospora oenotherae-sinuatae G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

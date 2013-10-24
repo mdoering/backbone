@@ -1,5 +1,4 @@
-Uromyces aeruginosus Speg. SPECIES
-=======
+# Uromyces aeruginosus Speg. SPECIES
 
 #### Status
 ACCEPTED

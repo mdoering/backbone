@@ -1,17 +1,16 @@
-Cladosporium caryigenum var. caryigenum VARIETY
-=======
+# Fusicladium effusum G. Winter, 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 74(3): 388 (1982)
+J. Mycol. 1(8): 101 (1885)
 
 #### Original name
-Cladosporium caryigenum var. caryigenum
+Fusicladium effusum G. Winter, 1885
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusiformacysta Morgan, 1975 GENUS
-=======
+# Fusiformacysta Morgan, 1975 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohelotium arundinellum (Sacc. & Speg.) Sacc. SPECIES
-=======
+# Pseudohelotium arundinellum (Sacc. & Speg.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

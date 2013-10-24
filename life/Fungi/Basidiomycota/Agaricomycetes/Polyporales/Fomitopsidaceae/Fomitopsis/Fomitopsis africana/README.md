@@ -1,5 +1,4 @@
-Fomitopsis africana Mossebo & Ryvarden, 1997 SPECIES
-=======
+# Fomitopsis africana Mossebo & Ryvarden, 1997 SPECIES
 
 #### Status
 ACCEPTED

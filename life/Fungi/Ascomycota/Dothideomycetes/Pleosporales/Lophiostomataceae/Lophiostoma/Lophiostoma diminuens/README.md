@@ -1,5 +1,4 @@
-Lophiostoma diminuens Fuckel SPECIES
-=======
+# Lophiostoma diminuens Fuckel SPECIES
 
 #### Status
 ACCEPTED

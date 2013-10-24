@@ -1,5 +1,4 @@
-Alternaria latispora T.Y. Zhang & M. Zhang SPECIES
-=======
+# Alternaria latispora T.Y. Zhang & M. Zhang SPECIES
 
 #### Status
 ACCEPTED

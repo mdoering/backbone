@@ -1,5 +1,4 @@
-Lecania sulphurella Müll. Arg. SPECIES
-=======
+# Lecania sulphurella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rinodina schweinfurthii SPECIES
-=======
+# Rinodina schweinfurthii SPECIES
 
 #### Status
 ACCEPTED

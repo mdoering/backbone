@@ -1,5 +1,4 @@
-Galera inculta Peck SPECIES
-=======
+# Galera inculta Peck SPECIES
 
 #### Status
 ACCEPTED

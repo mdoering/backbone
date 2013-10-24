@@ -1,5 +1,4 @@
-Tremella difformis J.F. Gmel. SPECIES
-=======
+# Tremella difformis J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

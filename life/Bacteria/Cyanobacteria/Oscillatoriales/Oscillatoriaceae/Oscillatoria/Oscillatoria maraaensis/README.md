@@ -1,5 +1,4 @@
-Oscillatoria maraaensis Gardner SPECIES
-=======
+# Oscillatoria maraaensis Gardner SPECIES
 
 #### Status
 ACCEPTED

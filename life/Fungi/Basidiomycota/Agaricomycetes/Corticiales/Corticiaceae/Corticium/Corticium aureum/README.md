@@ -1,5 +1,4 @@
-Corticium aureum Pat. SPECIES
-=======
+# Corticium aureum Pat. SPECIES
 
 #### Status
 ACCEPTED

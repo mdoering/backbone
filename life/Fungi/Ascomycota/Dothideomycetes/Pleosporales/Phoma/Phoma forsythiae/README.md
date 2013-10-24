@@ -1,5 +1,4 @@
-Phoma forsythiae Cooke SPECIES
-=======
+# Phoma forsythiae Cooke SPECIES
 
 #### Status
 ACCEPTED

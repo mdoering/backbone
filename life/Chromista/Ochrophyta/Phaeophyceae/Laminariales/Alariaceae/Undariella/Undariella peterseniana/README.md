@@ -1,8 +1,7 @@
-Undaria peterseniana (Kjellmann) Okamura SPECIES
-=======
+# Undariella peterseniana (Kjellman) Y.Lee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

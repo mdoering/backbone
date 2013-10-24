@@ -1,8 +1,7 @@
-Brachiolithus quadratus Noël, 1959 ex Loeblich & Tappan, 1963 SPECIES
-=======
+# Nannoconus quadratus (Noël, 1959) Deres & Achéritéguy, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

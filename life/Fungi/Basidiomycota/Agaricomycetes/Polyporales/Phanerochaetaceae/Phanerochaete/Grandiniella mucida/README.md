@@ -1,5 +1,4 @@
-Grandiniella mucida (Pers.) P. Karst. SPECIES
-=======
+# Grandiniella mucida (Pers.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

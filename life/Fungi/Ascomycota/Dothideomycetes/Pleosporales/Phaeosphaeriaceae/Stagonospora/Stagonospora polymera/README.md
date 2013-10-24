@@ -1,5 +1,4 @@
-Stagonospora polymera D. Sacc. SPECIES
-=======
+# Stagonospora polymera D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

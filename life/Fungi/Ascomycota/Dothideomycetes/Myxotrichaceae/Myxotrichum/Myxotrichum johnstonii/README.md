@@ -1,17 +1,16 @@
-Myxotrichum johnstoni Massee & E.S. Salmon SPECIES
-=======
+# Myxotrichum johnstonii Massee & E.S. Salmon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Bot. , Lond. 16: 64 (1902)
 
 #### Original name
-Myxotrichum johnstoni Massee & E.S. Salmon
+Myxotrichum johnstonii Massee & E.S. Salmon
 
 ### Remarks
 null

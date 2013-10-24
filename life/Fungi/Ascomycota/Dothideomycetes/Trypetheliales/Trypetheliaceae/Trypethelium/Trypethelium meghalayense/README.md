@@ -1,5 +1,4 @@
-Trypethelium meghalayense Makhija & Patw. SPECIES
-=======
+# Trypethelium meghalayense Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Limacella mcMurphii Murrill SPECIES
-=======
+# Limacella macmurphyi Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 4(4): 217 (1912)
 
 #### Original name
-Limacella mcMurphii Murrill
+Limacella macmurphyi Murrill
 
 ### Remarks
 null

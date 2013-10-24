@@ -1,5 +1,4 @@
-Subcushmanella McCulloch, 1977 GENUS
-=======
+# Subcushmanella McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

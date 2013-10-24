@@ -1,5 +1,4 @@
-Coleosporium plectranthi Barclay, 1813 SPECIES
-=======
+# Coleosporium plectranthi Barclay, 1813 SPECIES
 
 #### Status
 ACCEPTED

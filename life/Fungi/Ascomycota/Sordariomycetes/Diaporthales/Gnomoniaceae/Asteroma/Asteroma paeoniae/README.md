@@ -1,5 +1,4 @@
-Asteroma paeoniae Westend. SPECIES
-=======
+# Asteroma paeoniae Westend. SPECIES
 
 #### Status
 ACCEPTED

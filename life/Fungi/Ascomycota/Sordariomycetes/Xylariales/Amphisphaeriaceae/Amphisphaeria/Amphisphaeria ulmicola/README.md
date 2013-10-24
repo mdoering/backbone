@@ -1,8 +1,7 @@
-Sphaeria ulmicola Curr., 1859 SPECIES
-=======
+# Amphisphaeria ulmicola (Curr.) Sacc. & Traverso, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

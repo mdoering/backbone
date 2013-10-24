@@ -1,5 +1,4 @@
-Septoria urticaria Tharp SPECIES
-=======
+# Septoria urticaria Tharp SPECIES
 
 #### Status
 ACCEPTED

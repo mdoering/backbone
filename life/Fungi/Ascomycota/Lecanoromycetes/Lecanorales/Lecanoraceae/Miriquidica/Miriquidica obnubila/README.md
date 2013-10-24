@@ -1,17 +1,16 @@
-Lecidea obnubila Th. Fr. & Hellb. SPECIES
-=======
+# Miriquidica obnubila (Th. Fr. & Hellb.) Hertel & Rambold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 23: 389 (1987)
 
 #### Original name
-null
+Lecidea obnubila Th. Fr. & Hellb.
 
 ### Remarks
 null

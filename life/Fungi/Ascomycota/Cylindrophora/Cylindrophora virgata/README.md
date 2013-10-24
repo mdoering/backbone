@@ -1,5 +1,4 @@
-Cylindrophora virgata Bonord. SPECIES
-=======
+# Cylindrophora virgata Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus flavidus Krombh. SPECIES
-=======
+# Boletus flavidus Krombh. SPECIES
 
 #### Status
 ACCEPTED

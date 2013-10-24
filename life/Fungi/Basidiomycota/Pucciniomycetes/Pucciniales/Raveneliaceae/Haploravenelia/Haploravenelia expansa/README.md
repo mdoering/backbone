@@ -1,5 +1,4 @@
-Haploravenelia expansa (Dietel & Holw.) Syd. SPECIES
-=======
+# Haploravenelia expansa (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Selenomonas sputigena (Flügge, 1886) Boskamp, 1922 (Approved Lists, 1980) SPECIES
-=======
+# Selenomonas sputigena (Flügge, 1886) Boskamp, 1922 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

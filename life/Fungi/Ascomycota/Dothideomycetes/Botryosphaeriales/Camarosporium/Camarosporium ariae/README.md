@@ -1,5 +1,4 @@
-Camarosporium ariae Oudem. SPECIES
-=======
+# Camarosporium ariae Oudem. SPECIES
 
 #### Status
 ACCEPTED

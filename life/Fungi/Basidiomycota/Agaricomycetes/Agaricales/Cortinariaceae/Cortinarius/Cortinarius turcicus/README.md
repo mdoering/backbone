@@ -1,5 +1,4 @@
-Cortinarius turcicus (Lasch) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius turcicus (Lasch) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

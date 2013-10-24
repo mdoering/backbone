@@ -1,5 +1,4 @@
-Ascoideaceae J. Schröt. FAMILY
-=======
+# Ascoideaceae J. Schröt. FAMILY
 
 #### Status
 ACCEPTED

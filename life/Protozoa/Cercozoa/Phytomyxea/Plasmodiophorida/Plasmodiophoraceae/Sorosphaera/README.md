@@ -1,5 +1,4 @@
-Sorosphaera J. Schröter in Cohn, 1886 GENUS
-=======
+# Sorosphaera J. Schröter in Cohn, 1886 GENUS
 
 #### Status
 ACCEPTED

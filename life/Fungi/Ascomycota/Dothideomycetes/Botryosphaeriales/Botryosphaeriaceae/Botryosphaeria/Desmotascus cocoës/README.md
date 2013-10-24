@@ -1,5 +1,4 @@
-Desmotascus cocoës Petch SPECIES
-=======
+# Desmotascus cocoës Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hexagonia angulata Lloyd SPECIES
-=======
+# Hexagonia angulata Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria oregonensis E.G. Simmons, 1994 SPECIES
-=======
+# Alternaria oregonensis E.G. Simmons, 1994 SPECIES
 
 #### Status
 ACCEPTED

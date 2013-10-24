@@ -1,5 +1,4 @@
-Phacidium spectabile Heer SPECIES
-=======
+# Phacidium spectabile Heer SPECIES
 
 #### Status
 ACCEPTED

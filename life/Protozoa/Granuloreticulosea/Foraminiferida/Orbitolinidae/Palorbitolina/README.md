@@ -1,5 +1,4 @@
-Palorbitolina Schroeder, 1963 GENUS
-=======
+# Palorbitolina Schroeder, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Wicanderidium W.A.S. Sarjeant & Vavrdová, 1997 GENUS
-=======
+# Wicanderidium W.A.S. Sarjeant & Vavrdová, 1997 GENUS
 
 #### Status
 ACCEPTED

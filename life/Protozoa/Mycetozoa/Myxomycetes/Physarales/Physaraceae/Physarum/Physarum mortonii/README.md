@@ -1,17 +1,16 @@
-Physarum contextum mortonii (T. Macbr.) G. Lister, 1925 INFRASPECIFIC_NAME
-=======
+# Physarum mortonii T. Macbr., 1922 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+N. Amer. Slime-Moulds (New York) 1: 58 (1922)
 
 #### Original name
-null
+Physarum mortonii T. Macbr., 1922
 
 ### Remarks
 null

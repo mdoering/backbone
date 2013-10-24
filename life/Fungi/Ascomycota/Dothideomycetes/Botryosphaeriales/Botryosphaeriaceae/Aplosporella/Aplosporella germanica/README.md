@@ -1,5 +1,4 @@
-Aplosporella germanica Oudem. & Fautrey SPECIES
-=======
+# Aplosporella germanica Oudem. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

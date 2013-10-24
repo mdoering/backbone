@@ -1,5 +1,4 @@
-Sphaeria sepulta Boud. SPECIES
-=======
+# Sphaeria sepulta Boud. SPECIES
 
 #### Status
 ACCEPTED

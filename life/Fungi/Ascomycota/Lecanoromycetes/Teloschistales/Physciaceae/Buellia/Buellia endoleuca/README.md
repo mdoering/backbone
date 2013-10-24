@@ -1,5 +1,4 @@
-Buellia endoleuca Müll. Arg. SPECIES
-=======
+# Buellia endoleuca Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

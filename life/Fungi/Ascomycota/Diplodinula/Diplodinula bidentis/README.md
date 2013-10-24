@@ -1,5 +1,4 @@
-Diplodinula bidentis (Fautrey & Rolland) Tassi SPECIES
-=======
+# Diplodinula bidentis (Fautrey & Rolland) Tassi SPECIES
 
 #### Status
 ACCEPTED

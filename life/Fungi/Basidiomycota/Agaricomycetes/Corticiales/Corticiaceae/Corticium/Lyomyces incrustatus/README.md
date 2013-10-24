@@ -1,5 +1,4 @@
-Lyomyces incrustatus (Kotir. & Saaren.) Hjortstam & Ryvarden SPECIES
-=======
+# Lyomyces incrustatus (Kotir. & Saaren.) Hjortstam & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

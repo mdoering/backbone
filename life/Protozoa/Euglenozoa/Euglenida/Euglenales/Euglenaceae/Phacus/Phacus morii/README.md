@@ -1,5 +1,4 @@
-Phacus morii var. morii VARIETY
-=======
+# Phacus morii SPECIES
 
 #### Status
 ACCEPTED

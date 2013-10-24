@@ -1,5 +1,4 @@
-Bacidia luridoglaucella Vain. ex Hav. SPECIES
-=======
+# Bacidia luridoglaucella Vain. ex Hav. SPECIES
 
 #### Status
 ACCEPTED

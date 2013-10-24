@@ -1,5 +1,4 @@
-Crocynia azurea Hue SPECIES
-=======
+# Crocynia azurea Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlebia odontoidea Sheng H. Wu SPECIES
-=======
+# Phlebia odontoidea Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

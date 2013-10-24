@@ -1,5 +1,4 @@
-Farysia javanica Racib., 1909 SPECIES
-=======
+# Farysia javanica Racib., 1909 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Mycoporum sorenocarpum C. Knight, 1882 SPECIES
-=======
+# Mycoporopsis sorenocarpa (C. Knight) Müll. Arg., 1885 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Linn. Soc. London, Bot. 2: 40 (1882)
+Flora, Jena 68: 515 (1885)
 
 #### Original name
 Mycoporum sorenocarpum C. Knight, 1882

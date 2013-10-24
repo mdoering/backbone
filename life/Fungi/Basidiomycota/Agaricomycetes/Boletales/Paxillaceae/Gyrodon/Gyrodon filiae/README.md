@@ -1,5 +1,4 @@
-Gyrodon filiae (Gillet) Sacc. SPECIES
-=======
+# Gyrodon filiae (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

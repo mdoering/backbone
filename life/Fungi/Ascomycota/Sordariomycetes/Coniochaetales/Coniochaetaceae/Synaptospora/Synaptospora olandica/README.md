@@ -1,5 +1,4 @@
-Synaptospora olandica Réblová SPECIES
-=======
+# Synaptospora olandica Réblová SPECIES
 
 #### Status
 ACCEPTED

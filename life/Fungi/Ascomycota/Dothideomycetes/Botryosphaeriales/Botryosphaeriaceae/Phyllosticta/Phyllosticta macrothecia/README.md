@@ -1,5 +1,4 @@
-Phyllosticta macrothecia (Thüm.) Gonz. Frag. SPECIES
-=======
+# Phyllosticta macrothecia (Thüm.) Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

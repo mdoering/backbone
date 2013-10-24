@@ -1,5 +1,4 @@
-Codonmyces lecanorae Calat. & Etayo, 1999 SPECIES
-=======
+# Codonmyces lecanorae Calat. & Etayo, 1999 SPECIES
 
 #### Status
 ACCEPTED

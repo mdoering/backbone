@@ -1,5 +1,4 @@
-Favolus curtipes Berk. & M.A. Curtis SPECIES
-=======
+# Favolus curtipes Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

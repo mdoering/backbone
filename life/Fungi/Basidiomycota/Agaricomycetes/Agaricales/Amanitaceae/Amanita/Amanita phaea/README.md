@@ -1,5 +1,4 @@
-Amanita phaea Bas SPECIES
-=======
+# Amanita phaea Bas SPECIES
 
 #### Status
 ACCEPTED

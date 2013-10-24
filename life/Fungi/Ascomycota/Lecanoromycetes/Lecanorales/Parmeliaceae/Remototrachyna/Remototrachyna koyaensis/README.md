@@ -1,17 +1,16 @@
-Parmelia koyaensis f. koyaensis FORM
-=======
+# Remototrachyna koyaensis (Asahina) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Parmelia koyaensis f. koyaensis
+null
 
 ### Remarks
 null

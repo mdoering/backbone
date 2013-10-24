@@ -1,5 +1,4 @@
-Galerina acris Gulden SPECIES
-=======
+# Galerina acris Gulden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penomyces coccidophthorus Cif. SPECIES
-=======
+# Penomyces coccidophthorus Cif. SPECIES
 
 #### Status
 ACCEPTED

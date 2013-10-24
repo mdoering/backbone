@@ -1,5 +1,4 @@
-Papenfussiella callitricha (Rosenvinge) Kylin, 1940 SPECIES
-=======
+# Papenfussiella callitricha (Rosenvinge) Kylin, 1940 SPECIES
 
 #### Status
 ACCEPTED

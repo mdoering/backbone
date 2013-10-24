@@ -1,5 +1,4 @@
-Puccinia pimpinellae-bistortae Semadeni SPECIES
-=======
+# Puccinia pimpinellae-bistortae Semadeni SPECIES
 
 #### Status
 ACCEPTED

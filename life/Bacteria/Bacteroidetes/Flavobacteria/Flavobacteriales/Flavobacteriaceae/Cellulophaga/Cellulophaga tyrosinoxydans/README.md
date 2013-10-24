@@ -1,5 +1,4 @@
-Cellulophaga tyrosinoxydans Kahng, Chung, Lee, Jung, Park & Jeon, 2009 SPECIES
-=======
+# Cellulophaga tyrosinoxydans Kahng, Chung, Lee, Jung, Park & Jeon, 2009 SPECIES
 
 #### Status
 ACCEPTED

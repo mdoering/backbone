@@ -1,5 +1,4 @@
-Psoroma dimorphum Malme SPECIES
-=======
+# Psoroma dimorphum Malme SPECIES
 
 #### Status
 ACCEPTED

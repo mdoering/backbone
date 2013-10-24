@@ -1,5 +1,4 @@
-Hypotrachyna chlorobarbatica Elix & Pooprang SPECIES
-=======
+# Hypotrachyna chlorobarbatica Elix & Pooprang SPECIES
 
 #### Status
 ACCEPTED

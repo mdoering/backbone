@@ -1,5 +1,4 @@
-Galerina subdecurrens A.H. Sm. SPECIES
-=======
+# Galerina subdecurrens A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Terfezia transcaucasica Tikhom. SPECIES
-=======
+# Terfezia transcaucasica Tikhom. SPECIES
 
 #### Status
 ACCEPTED

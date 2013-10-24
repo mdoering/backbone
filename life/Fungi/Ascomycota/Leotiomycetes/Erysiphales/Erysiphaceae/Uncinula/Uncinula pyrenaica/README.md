@@ -1,5 +1,4 @@
-Uncinula pyrenaica Vienn.-Bourg. SPECIES
-=======
+# Uncinula pyrenaica Vienn.-Bourg. SPECIES
 
 #### Status
 ACCEPTED

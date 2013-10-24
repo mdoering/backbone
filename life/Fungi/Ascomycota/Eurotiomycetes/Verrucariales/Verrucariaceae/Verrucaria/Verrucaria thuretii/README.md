@@ -1,5 +1,4 @@
-Verrucaria thuretii (Hepp) Garov. SPECIES
-=======
+# Verrucaria thuretii (Hepp) Garov. SPECIES
 
 #### Status
 ACCEPTED

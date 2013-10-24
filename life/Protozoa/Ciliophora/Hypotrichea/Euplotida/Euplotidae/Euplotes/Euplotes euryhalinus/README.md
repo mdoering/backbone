@@ -1,5 +1,4 @@
-Euplotes euryhalinus Valbonesi & Luporini, 1990 SPECIES
-=======
+# Euplotes euryhalinus Valbonesi & Luporini, 1990 SPECIES
 
 #### Status
 ACCEPTED

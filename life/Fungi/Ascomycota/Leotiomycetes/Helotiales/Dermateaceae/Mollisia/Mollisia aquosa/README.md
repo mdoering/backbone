@@ -1,14 +1,13 @@
-Peziza aquosa Berk. & Broome, 1871 SPECIES
-=======
+# Mollisia aquosa (Berk. & Broome) W. Phillips, 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+British Discomycetes 172 (1887)
 
 #### Original name
 null

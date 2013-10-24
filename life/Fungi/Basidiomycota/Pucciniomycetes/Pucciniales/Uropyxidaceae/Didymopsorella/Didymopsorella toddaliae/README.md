@@ -1,14 +1,13 @@
-Didymopsora toddaliae Thirum. & Mundk., 1942 SPECIES
-=======
+# Didymopsorella toddaliae (Thirum. & Mundk.) Thirum., 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sci. Cult. 16(5): 210 (1950)
 
 #### Original name
 Didymopsora toddaliae Thirum. & Mundk., 1942

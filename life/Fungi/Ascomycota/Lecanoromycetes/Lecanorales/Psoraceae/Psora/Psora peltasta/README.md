@@ -1,5 +1,4 @@
-Psora peltasta (Stirt.) C.W. Dodge SPECIES
-=======
+# Psora peltasta (Stirt.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

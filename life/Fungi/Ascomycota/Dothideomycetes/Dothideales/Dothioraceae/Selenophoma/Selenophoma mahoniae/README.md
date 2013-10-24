@@ -1,5 +1,4 @@
-Selenophoma mahoniae A.W. Ramaley, 1992 SPECIES
-=======
+# Selenophoma mahoniae A.W. Ramaley, 1992 SPECIES
 
 #### Status
 ACCEPTED

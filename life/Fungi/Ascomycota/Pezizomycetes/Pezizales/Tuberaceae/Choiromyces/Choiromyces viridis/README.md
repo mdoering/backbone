@@ -1,5 +1,4 @@
-Choiromyces viridis Tul. & Berk. SPECIES
-=======
+# Choiromyces viridis Tul. & Berk. SPECIES
 
 #### Status
 ACCEPTED

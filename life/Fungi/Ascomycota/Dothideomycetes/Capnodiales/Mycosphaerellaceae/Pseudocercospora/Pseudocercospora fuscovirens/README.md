@@ -1,5 +1,4 @@
-Pseudocercospora fuscovirens (Sacc.) Y.L. Guo & X.J. Liu SPECIES
-=======
+# Pseudocercospora fuscovirens (Sacc.) Y.L. Guo & X.J. Liu SPECIES
 
 #### Status
 ACCEPTED

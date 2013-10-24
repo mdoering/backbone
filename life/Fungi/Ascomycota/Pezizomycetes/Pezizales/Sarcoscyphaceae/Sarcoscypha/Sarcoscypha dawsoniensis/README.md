@@ -1,5 +1,4 @@
-Sarcoscypha dawsoniensis Peck SPECIES
-=======
+# Sarcoscypha dawsoniensis Peck SPECIES
 
 #### Status
 ACCEPTED

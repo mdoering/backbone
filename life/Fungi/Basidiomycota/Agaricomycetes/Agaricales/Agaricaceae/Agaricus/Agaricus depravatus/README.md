@@ -1,5 +1,4 @@
-Agaricus depravatus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus depravatus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

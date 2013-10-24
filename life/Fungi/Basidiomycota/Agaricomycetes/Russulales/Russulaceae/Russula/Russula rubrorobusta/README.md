@@ -1,5 +1,4 @@
-Russula rubrorobusta var. rubrorobusta VARIETY
-=======
+# Russula rubrorobusta Buyck SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Cryptog. Mycol. 26(2): 92 (2005)
 
 #### Original name
-Russula rubrorobusta var. rubrorobusta
+Russula rubrorobusta Buyck
 
 ### Remarks
 null

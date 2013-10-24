@@ -1,17 +1,16 @@
-Caloplaca incrustans f. incrustans FORM
-=======
+# Protoblastenia incrustans (DC.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wein 65: 203 (1915)
 
 #### Original name
-Caloplaca incrustans f. incrustans
+null
 
 ### Remarks
 null

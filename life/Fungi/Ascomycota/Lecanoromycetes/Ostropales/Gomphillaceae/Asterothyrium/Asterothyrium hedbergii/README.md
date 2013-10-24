@@ -1,5 +1,4 @@
-Asterothyrium hedbergii Kalb & Vezda SPECIES
-=======
+# Asterothyrium hedbergii Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

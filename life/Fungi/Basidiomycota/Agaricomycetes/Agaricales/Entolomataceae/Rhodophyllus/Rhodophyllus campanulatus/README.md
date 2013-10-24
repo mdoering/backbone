@@ -1,5 +1,4 @@
-Rhodophyllus campanulatus Romagn. SPECIES
-=======
+# Rhodophyllus campanulatus Romagn. SPECIES
 
 #### Status
 ACCEPTED

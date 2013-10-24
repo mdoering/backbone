@@ -1,5 +1,4 @@
-Trinacrium minus Speg. SPECIES
-=======
+# Trinacrium minus Speg. SPECIES
 
 #### Status
 ACCEPTED

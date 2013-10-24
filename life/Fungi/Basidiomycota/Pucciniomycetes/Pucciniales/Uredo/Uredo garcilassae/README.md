@@ -1,5 +1,4 @@
-Uredo garcilassae Henn. SPECIES
-=======
+# Uredo garcilassae Henn. SPECIES
 
 #### Status
 ACCEPTED

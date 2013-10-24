@@ -1,5 +1,4 @@
-Agaricus spathulatus Sommerf. SPECIES
-=======
+# Agaricus spathulatus Sommerf. SPECIES
 
 #### Status
 ACCEPTED

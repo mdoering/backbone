@@ -1,5 +1,4 @@
-Lachnea irregularis (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Lachnea irregularis (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

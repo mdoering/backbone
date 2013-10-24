@@ -1,5 +1,4 @@
-Caliciopsis xanthostemonis B. Huguenin SPECIES
-=======
+# Caliciopsis xanthostemonis B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

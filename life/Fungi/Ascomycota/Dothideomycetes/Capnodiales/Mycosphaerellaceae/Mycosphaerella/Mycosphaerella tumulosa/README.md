@@ -1,5 +1,4 @@
-Mycosphaerella tumulosa Carnegie & Beilharz, 2007 SPECIES
-=======
+# Mycosphaerella tumulosa Carnegie & Beilharz, 2007 SPECIES
 
 #### Status
 ACCEPTED

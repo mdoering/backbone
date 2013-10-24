@@ -1,5 +1,4 @@
-Dendrosarcus echinatus (Sowerby) Kuntze SPECIES
-=======
+# Dendrosarcus echinatus (Sowerby) Kuntze SPECIES
 
 #### Status
 ACCEPTED

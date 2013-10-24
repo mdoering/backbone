@@ -1,5 +1,4 @@
-Coccosporium unedonis var. unedonis VARIETY
-=======
+# Coccosporium unedonis De Not. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coccosporium unedonis var. unedonis
+Coccosporium unedonis De Not.
 
 ### Remarks
 null

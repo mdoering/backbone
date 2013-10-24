@@ -1,5 +1,4 @@
-Gyrodon capensis Sacc. SPECIES
-=======
+# Gyrodon capensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

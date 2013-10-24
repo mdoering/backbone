@@ -1,5 +1,4 @@
-Lactarius fennoscandicus Verbeken & Vesterh. SPECIES
-=======
+# Lactarius fennoscandicus Verbeken & Vesterh. SPECIES
 
 #### Status
 ACCEPTED

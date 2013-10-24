@@ -1,5 +1,4 @@
-Vermicularia corvina var. corvina VARIETY
-=======
+# Vermicularia corvina P. Karst. & Har. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Vermicularia corvina var. corvina
+Vermicularia corvina P. Karst. & Har.
 
 ### Remarks
 null

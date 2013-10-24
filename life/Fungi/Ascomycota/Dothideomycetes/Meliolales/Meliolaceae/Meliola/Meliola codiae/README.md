@@ -1,5 +1,4 @@
-Meliola codiae B. Huguenin SPECIES
-=======
+# Meliola codiae B. Huguenin SPECIES
 
 #### Status
 ACCEPTED

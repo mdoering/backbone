@@ -1,5 +1,4 @@
-Septoria melandryi-albi Bäumler SPECIES
-=======
+# Septoria melandryi-albi Bäumler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dermatocarpon linkolae Räsänen SPECIES
-=======
+# Dermatocarpon linkolae Räsänen SPECIES
 
 #### Status
 ACCEPTED

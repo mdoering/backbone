@@ -1,5 +1,4 @@
-Tricranastrum Haeckel, 1879 GENUS
-=======
+# Tricranastrum Haeckel, 1879 GENUS
 
 #### Status
 ACCEPTED

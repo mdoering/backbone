@@ -1,5 +1,4 @@
-Verrucaria halochlora H. Harada SPECIES
-=======
+# Verrucaria halochlora H. Harada SPECIES
 
 #### Status
 ACCEPTED

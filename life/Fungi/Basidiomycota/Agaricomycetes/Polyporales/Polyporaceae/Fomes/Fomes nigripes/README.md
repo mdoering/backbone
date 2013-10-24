@@ -1,5 +1,4 @@
-Fomes nigripes (Fr.) Sacc. SPECIES
-=======
+# Fomes nigripes (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cyanoderma candidum (Setch.) O.E. Erikss. SPECIES
-=======
+# Cyanodermella candida (Setch.) O.E. Erikss. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ark. Bot. , Ser. 2 6: 389 (1967)
+Op. bot. 60: 155 (1981)
 
 #### Original name
 Acrospermum candidum Setch.

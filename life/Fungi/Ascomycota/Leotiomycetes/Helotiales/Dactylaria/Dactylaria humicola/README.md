@@ -1,17 +1,16 @@
-Dactylaria pseudoampulliformis Matsush., 1975 SPECIES
-=======
+# Dactylaria humicola G.C. Bhatt & W.B. Kendr., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 52 (1975)
+in Stolk & Hennebert, Can. J. Bot. 46: 1256 (1968)
 
 #### Original name
-Dactylaria pseudoampulliformis Matsush., 1975
+Dactylaria humicola G.C. Bhatt & W.B. Kendr., 1968
 
 ### Remarks
 null

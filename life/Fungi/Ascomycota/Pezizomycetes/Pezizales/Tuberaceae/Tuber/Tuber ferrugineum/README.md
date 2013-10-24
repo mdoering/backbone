@@ -1,17 +1,16 @@
-Tuber ferrugineum var. balsamioides Bucholtz VARIETY
-=======
+# Tuber ferrugineum Vittad., 1831 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Tuberac. (Milano) 46 (1831)
 
 #### Original name
-Tuber ferrugineum var. balsamioides Bucholtz
+Tuber ferrugineum Vittad., 1831
 
 ### Remarks
 null

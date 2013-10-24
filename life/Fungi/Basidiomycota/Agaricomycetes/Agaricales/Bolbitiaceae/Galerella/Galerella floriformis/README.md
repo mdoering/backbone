@@ -1,5 +1,4 @@
-Galerella floriformis Hauskn., 2003 SPECIES
-=======
+# Galerella floriformis Hauskn., 2003 SPECIES
 
 #### Status
 ACCEPTED

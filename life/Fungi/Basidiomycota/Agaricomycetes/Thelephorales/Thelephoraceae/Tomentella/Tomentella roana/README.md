@@ -1,5 +1,4 @@
-Tomentella roana Bourdot & Galzin SPECIES
-=======
+# Tomentella roana Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

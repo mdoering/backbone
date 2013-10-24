@@ -1,5 +1,4 @@
-Lecidea scabridisca V. Wirth SPECIES
-=======
+# Lecidea scabridisca V. Wirth SPECIES
 
 #### Status
 ACCEPTED

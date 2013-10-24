@@ -1,5 +1,4 @@
-Glossodium GENUS
-=======
+# Glossodium GENUS
 
 #### Status
 ACCEPTED

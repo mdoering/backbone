@@ -1,5 +1,4 @@
-Solenodonta diarrhenae (Miyabe & S. Ito) Syd. SPECIES
-=======
+# Solenodonta diarrhenae (Miyabe & S. Ito) Syd. SPECIES
 
 #### Status
 ACCEPTED

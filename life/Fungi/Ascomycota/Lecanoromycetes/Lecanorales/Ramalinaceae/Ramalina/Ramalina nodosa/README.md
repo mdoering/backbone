@@ -1,5 +1,4 @@
-Ramalina nodosa Krog & Østh. SPECIES
-=======
+# Ramalina nodosa Krog & Østh. SPECIES
 
 #### Status
 ACCEPTED

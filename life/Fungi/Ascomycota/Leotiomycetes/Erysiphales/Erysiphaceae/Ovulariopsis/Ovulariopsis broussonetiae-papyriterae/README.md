@@ -1,5 +1,4 @@
-Ovulariopsis broussonetiae-papyriterae SPECIES
-=======
+# Ovulariopsis broussonetiae-papyriterae SPECIES
 
 #### Status
 ACCEPTED

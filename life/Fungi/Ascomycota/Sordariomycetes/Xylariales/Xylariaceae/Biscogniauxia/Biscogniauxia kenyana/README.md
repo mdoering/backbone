@@ -1,5 +1,4 @@
-Biscogniauxia kenyana Mugambi, Huhndorf & J.D. Rogers, 2009 SPECIES
-=======
+# Biscogniauxia kenyana Mugambi, Huhndorf & J.D. Rogers, 2009 SPECIES
 
 #### Status
 ACCEPTED

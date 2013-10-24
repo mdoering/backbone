@@ -1,5 +1,4 @@
-Sphaleromantis tetragona Skuja SPECIES
-=======
+# Sphaleromantis tetragona Skuja SPECIES
 
 #### Status
 ACCEPTED

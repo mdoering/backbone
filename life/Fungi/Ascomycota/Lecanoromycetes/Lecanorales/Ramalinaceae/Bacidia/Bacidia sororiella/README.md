@@ -1,5 +1,4 @@
-Bacidia sororiella (Nyl.) Zahlbr. SPECIES
-=======
+# Bacidia sororiella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

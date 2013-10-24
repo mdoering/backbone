@@ -1,5 +1,4 @@
-Borealophlyctis Letcher GENUS
-=======
+# Borealophlyctis Letcher GENUS
 
 #### Status
 ACCEPTED

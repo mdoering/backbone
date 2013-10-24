@@ -1,5 +1,4 @@
-Ascochyta orchidis Rabenh. SPECIES
-=======
+# Ascochyta orchidis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

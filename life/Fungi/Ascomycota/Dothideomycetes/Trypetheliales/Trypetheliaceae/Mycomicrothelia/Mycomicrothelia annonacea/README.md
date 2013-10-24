@@ -1,14 +1,13 @@
-Mycomicrothelia anonacea (Müll. Arg.) D. Hawksw. SPECIES
-=======
+# Mycomicrothelia annonacea (Müll. Arg.) D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 14(2): 67 (1985)
 
 #### Original name
 Microthelia annonacea Müll. Arg.

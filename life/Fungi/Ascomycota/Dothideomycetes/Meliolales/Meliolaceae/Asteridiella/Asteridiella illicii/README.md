@@ -1,5 +1,4 @@
-Asteridiella illicii Z.X. Chen, Y.X. Hu & B. Song SPECIES
-=======
+# Asteridiella illicii Z.X. Chen, Y.X. Hu & B. Song SPECIES
 
 #### Status
 ACCEPTED

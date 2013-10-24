@@ -1,5 +1,4 @@
-Craterellus borealis Burt SPECIES
-=======
+# Craterellus borealis Burt SPECIES
 
 #### Status
 ACCEPTED

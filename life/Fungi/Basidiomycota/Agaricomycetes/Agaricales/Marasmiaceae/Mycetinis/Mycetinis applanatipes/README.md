@@ -1,5 +1,4 @@
-Mycetinis applanatipes (Desjardin) A.W. Wilson SPECIES
-=======
+# Mycetinis applanatipes (Desjardin) A.W. Wilson SPECIES
 
 #### Status
 ACCEPTED

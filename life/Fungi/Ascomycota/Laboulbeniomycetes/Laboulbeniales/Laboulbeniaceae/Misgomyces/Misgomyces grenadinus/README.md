@@ -1,5 +1,4 @@
-Misgomyces grenadinus Thaxt. SPECIES
-=======
+# Misgomyces grenadinus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

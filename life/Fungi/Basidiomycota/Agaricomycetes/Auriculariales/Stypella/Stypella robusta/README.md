@@ -1,5 +1,4 @@
-Stypella robusta Lowy SPECIES
-=======
+# Stypella robusta Lowy SPECIES
 
 #### Status
 ACCEPTED

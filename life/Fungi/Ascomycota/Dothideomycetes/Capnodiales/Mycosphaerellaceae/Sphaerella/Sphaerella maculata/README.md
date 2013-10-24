@@ -1,5 +1,4 @@
-Sphaerella maculata Fautrey SPECIES
-=======
+# Sphaerella maculata Fautrey SPECIES
 
 #### Status
 ACCEPTED

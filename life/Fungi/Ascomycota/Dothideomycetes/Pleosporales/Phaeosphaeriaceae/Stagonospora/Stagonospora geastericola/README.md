@@ -1,5 +1,4 @@
-Stagonospora geastericola Hollós SPECIES
-=======
+# Stagonospora geastericola Hollós SPECIES
 
 #### Status
 ACCEPTED

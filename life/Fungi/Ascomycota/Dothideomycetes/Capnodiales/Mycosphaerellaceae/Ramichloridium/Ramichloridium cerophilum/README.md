@@ -1,14 +1,13 @@
-Cladosporium cerophilum (Tubaki) Matsush., 1975 SPECIES
-=======
+# Ramichloridium cerophilum (Tubaki) de Hoog, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 34 (1975)
+Stud. Mycol. 15: 74 (1977)
 
 #### Original name
 Acrotheca cerophila Tubaki, 1958

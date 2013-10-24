@@ -1,5 +1,4 @@
-Pillotina calotermitidis (ex Hollande & Gharagozlou, 1967) Bermudes et al., 1988 SPECIES
-=======
+# Pillotina calotermitidis (ex Hollande & Gharagozlou, 1967) Bermudes et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

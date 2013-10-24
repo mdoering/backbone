@@ -1,5 +1,4 @@
-Tricholoma muricatum Shanks, 1996 SPECIES
-=======
+# Tricholoma muricatum Shanks, 1996 SPECIES
 
 #### Status
 ACCEPTED

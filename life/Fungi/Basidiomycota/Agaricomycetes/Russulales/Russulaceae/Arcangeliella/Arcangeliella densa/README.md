@@ -1,5 +1,4 @@
-Arcangeliella densa (R. Heim) Singer & A.H. Sm. SPECIES
-=======
+# Arcangeliella densa (R. Heim) Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

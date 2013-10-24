@@ -1,5 +1,4 @@
-Phoma striiformis var. striiformis VARIETY
-=======
+# Phoma striiformis Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma striiformis var. striiformis
+Phoma striiformis Durieu & Mont.
 
 ### Remarks
 null

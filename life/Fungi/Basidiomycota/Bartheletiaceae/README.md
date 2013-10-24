@@ -1,5 +1,4 @@
-Bartheletiaceae R. Bauer, Scheuer, M. Lutz & Grube FAMILY
-=======
+# Bartheletiaceae R. Bauer, Scheuer, M. Lutz & Grube FAMILY
 
 #### Status
 ACCEPTED

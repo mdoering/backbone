@@ -1,17 +1,16 @@
-Xanthochrous rheades subsp. rheades SUBSPECIES
-=======
+# Inonotus rheades (Pers.) Bondartsev & Singer, 1941 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 13: 200 (1897)
+Atlas des Champignons de l'Europe 39: 56 (1941)
 
 #### Original name
-Xanthochrous rheades subsp. rheades
+Polyporus rheades Pers., 1825
 
 ### Remarks
 null

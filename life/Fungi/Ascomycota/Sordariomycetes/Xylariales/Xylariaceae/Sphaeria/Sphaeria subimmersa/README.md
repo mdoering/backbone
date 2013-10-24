@@ -1,5 +1,4 @@
-Sphaeria subimmersa Sowerby SPECIES
-=======
+# Sphaeria subimmersa Sowerby SPECIES
 
 #### Status
 ACCEPTED

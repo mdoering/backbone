@@ -1,5 +1,4 @@
-Pholiota carneola Rick SPECIES
-=======
+# Pholiota carneola Rick SPECIES
 
 #### Status
 ACCEPTED

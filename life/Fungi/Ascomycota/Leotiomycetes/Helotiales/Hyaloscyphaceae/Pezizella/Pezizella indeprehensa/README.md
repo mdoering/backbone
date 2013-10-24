@@ -1,5 +1,4 @@
-Pezizella indeprehensa Svrcek SPECIES
-=======
+# Pezizella indeprehensa Svrcek SPECIES
 
 #### Status
 ACCEPTED

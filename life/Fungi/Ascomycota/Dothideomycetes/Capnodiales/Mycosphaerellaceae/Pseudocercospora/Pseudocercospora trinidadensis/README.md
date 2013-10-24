@@ -1,5 +1,4 @@
-Pseudocercospora trinidadensis (F. Stevens & Solheim) Crous, U. Braun & Alfenas SPECIES
-=======
+# Pseudocercospora trinidadensis (F. Stevens & Solheim) Crous, U. Braun & Alfenas SPECIES
 
 #### Status
 ACCEPTED

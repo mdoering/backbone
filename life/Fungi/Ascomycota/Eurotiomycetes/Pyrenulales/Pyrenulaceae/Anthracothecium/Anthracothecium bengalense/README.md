@@ -1,5 +1,4 @@
-Anthracothecium bengalense Ajay Singh SPECIES
-=======
+# Anthracothecium bengalense Ajay Singh SPECIES
 
 #### Status
 ACCEPTED

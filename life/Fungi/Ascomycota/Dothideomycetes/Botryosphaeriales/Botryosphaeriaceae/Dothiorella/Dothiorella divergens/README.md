@@ -1,5 +1,4 @@
-Dothiorella divergens Peck SPECIES
-=======
+# Dothiorella divergens Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tapesia hirta Velen. SPECIES
-=======
+# Tapesia hirta Velen. SPECIES
 
 #### Status
 ACCEPTED

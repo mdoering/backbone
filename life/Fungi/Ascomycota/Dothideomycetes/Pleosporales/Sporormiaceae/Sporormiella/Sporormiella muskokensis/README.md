@@ -1,5 +1,4 @@
-Sporormiella muskokensis (Cain) S.I. Ahmed & Cain SPECIES
-=======
+# Sporormiella muskokensis (Cain) S.I. Ahmed & Cain SPECIES
 
 #### Status
 ACCEPTED

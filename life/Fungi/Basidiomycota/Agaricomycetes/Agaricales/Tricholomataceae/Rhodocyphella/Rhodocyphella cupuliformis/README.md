@@ -1,17 +1,16 @@
-Chaetocypha cupuliformis (Berk. & Ravenel) Kuntze, 1891 SPECIES
-=======
+# Rhodocyphella cupuliformis (Berk. & Ravenel) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Sydowia 105 (1961)
 
 #### Original name
-null
+Cyphella cupuliformis Berk. & Ravenel, 1873
 
 ### Remarks
 null

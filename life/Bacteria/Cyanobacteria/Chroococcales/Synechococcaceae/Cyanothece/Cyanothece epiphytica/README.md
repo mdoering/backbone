@@ -1,5 +1,4 @@
-Cyanothece epiphytica M. Watanabe & Komárek SPECIES
-=======
+# Cyanothece epiphytica M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

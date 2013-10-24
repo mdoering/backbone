@@ -1,5 +1,4 @@
-Phormidium nigorviride (Thwaites) Anagnostidis & Komárek SPECIES
-=======
+# Phormidium nigorviride (Thwaites) Anagnostidis & Komárek SPECIES
 
 #### Status
 ACCEPTED

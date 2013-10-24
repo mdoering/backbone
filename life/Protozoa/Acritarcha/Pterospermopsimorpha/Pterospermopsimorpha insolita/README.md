@@ -1,5 +1,4 @@
-Pterospermopsimorpha insolita Timofeev, 1969 SPECIES
-=======
+# Pterospermopsimorpha insolita Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

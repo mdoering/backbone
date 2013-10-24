@@ -1,5 +1,4 @@
-Septoria rhizomatum Sacc. SPECIES
-=======
+# Septoria rhizomatum Sacc. SPECIES
 
 #### Status
 ACCEPTED

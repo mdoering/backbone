@@ -1,5 +1,4 @@
-Arcyria marginoundulata Nann.-Bremek. & Y. Yamam., 1983 SPECIES
-=======
+# Arcyria marginoundulata Nann.-Bremek. & Y. Yamam., 1983 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrypella laevigata Fuckel SPECIES
-=======
+# Diatrypella laevigata Fuckel SPECIES
 
 #### Status
 ACCEPTED

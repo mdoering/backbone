@@ -1,5 +1,4 @@
-Sphaeria libera Pers. SPECIES
-=======
+# Sphaeria libera Pers. SPECIES
 
 #### Status
 ACCEPTED

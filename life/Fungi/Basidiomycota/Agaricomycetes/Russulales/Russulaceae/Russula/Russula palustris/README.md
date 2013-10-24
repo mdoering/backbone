@@ -1,5 +1,4 @@
-Russula palustris Peck SPECIES
-=======
+# Russula palustris Peck SPECIES
 
 #### Status
 ACCEPTED

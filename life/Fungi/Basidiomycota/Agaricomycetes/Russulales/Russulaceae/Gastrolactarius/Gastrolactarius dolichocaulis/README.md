@@ -1,5 +1,4 @@
-Gastrolactarius dolichocaulis (Pegler) J.M. Vidal SPECIES
-=======
+# Gastrolactarius dolichocaulis (Pegler) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

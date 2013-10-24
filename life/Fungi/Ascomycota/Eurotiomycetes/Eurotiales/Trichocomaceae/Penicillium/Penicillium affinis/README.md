@@ -1,5 +1,4 @@
-Penicillium affinis (Bainier & Sartory) Biourge SPECIES
-=======
+# Penicillium affinis (Bainier & Sartory) Biourge SPECIES
 
 #### Status
 ACCEPTED

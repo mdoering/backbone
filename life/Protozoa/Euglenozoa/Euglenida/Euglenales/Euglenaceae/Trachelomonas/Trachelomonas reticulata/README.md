@@ -1,5 +1,4 @@
-Trachelomonas reticulata var. australica Skvortsov VARIETY
-=======
+# Trachelomonas reticulata SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Balanion comatum Wulff, 1919 SPECIES
-=======
+# Balanion comatum Wulff, 1919 SPECIES
 
 #### Status
 ACCEPTED

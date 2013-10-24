@@ -1,5 +1,4 @@
-Paralampterium Sanfilippo, 1990 GENUS
-=======
+# Paralampterium Sanfilippo, 1990 GENUS
 
 #### Status
 ACCEPTED

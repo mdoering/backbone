@@ -1,5 +1,4 @@
-Marasmius flotoviophilus Singer SPECIES
-=======
+# Marasmius flotoviophilus Singer SPECIES
 
 #### Status
 ACCEPTED

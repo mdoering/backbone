@@ -1,5 +1,4 @@
-Thelephora pruni Schumach. SPECIES
-=======
+# Thelephora pruni Schumach. SPECIES
 
 #### Status
 ACCEPTED

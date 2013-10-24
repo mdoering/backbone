@@ -1,17 +1,16 @@
-Puccinia novo-zelandica Bubák SPECIES
-=======
+# Puccinia novozelandica Bubák, 1901 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sitzungsberichte der Königlichen Böhmischen Gesellschaft der Wissenschaften Prag. 5 (1901)
 
 #### Original name
-Puccinia novo-zelandica Bubák
+Puccinia novozelandica Bubák, 1901
 
 ### Remarks
 null

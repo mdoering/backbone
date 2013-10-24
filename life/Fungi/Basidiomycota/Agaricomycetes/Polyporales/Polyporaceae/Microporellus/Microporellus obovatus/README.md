@@ -1,17 +1,16 @@
-Polystictus mutabilis f. mutabilis FORM
-=======
+# Microporellus obovatus (Jungh.) Ryvarden, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 14(no. 71): 78 (1886)
+Norw. Jl Bot. 19: 232 (1972)
 
 #### Original name
-Polystictus mutabilis f. mutabilis
+Polyporus obovatus Jungh., 1838
 
 ### Remarks
 null

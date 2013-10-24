@@ -1,5 +1,4 @@
-Phomopsis hordei Punith., 1975 SPECIES
-=======
+# Phomopsis hordei Punith., 1975 SPECIES
 
 #### Status
 ACCEPTED

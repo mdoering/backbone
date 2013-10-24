@@ -1,5 +1,4 @@
-Calycina confluens (Schwein.) Kuntze SPECIES
-=======
+# Calycina confluens (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

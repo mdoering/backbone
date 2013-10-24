@@ -1,5 +1,4 @@
-Micronectriella pterocarpi (Racib.) Höhn. SPECIES
-=======
+# Micronectriella pterocarpi (Racib.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

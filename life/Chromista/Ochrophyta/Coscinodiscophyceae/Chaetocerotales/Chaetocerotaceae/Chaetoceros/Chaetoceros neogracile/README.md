@@ -1,5 +1,4 @@
-Chaetoceros neogracile Van Landingham SPECIES
-=======
+# Chaetoceros neogracile Van Landingham SPECIES
 
 #### Status
 ACCEPTED

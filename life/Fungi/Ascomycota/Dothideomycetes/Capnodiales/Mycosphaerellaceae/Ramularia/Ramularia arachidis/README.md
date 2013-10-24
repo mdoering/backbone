@@ -1,5 +1,4 @@
-Ramularia arachidis Bond.-Mont. SPECIES
-=======
+# Ramularia arachidis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

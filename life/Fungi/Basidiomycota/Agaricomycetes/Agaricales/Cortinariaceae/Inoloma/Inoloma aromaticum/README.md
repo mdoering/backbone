@@ -1,5 +1,4 @@
-Inoloma aromaticum Velen. SPECIES
-=======
+# Inoloma aromaticum Velen. SPECIES
 
 #### Status
 ACCEPTED

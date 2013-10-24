@@ -1,5 +1,4 @@
-Denticularia fici Deighton SPECIES
-=======
+# Denticularia fici Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepraria obtusatica Tønsberg SPECIES
-=======
+# Lepraria obtusatica Tønsberg SPECIES
 
 #### Status
 ACCEPTED

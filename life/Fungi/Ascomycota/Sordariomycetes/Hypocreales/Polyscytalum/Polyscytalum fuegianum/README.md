@@ -1,14 +1,13 @@
-Cylindrium fuegianum Speg., 1888 SPECIES
-=======
+# Polyscytalum fuegianum (Speg.) Gamundí, Aramb. & Giaiotti, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Darwiniana 21(1): 87 (1977)
 
 #### Original name
 Cylindrium fuegianum Speg., 1888

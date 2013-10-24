@@ -1,5 +1,4 @@
-Cryptococcus niger Vuill. SPECIES
-=======
+# Cryptococcus niger Vuill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia leptospora Sacc. SPECIES
-=======
+# Diplodia leptospora Sacc. SPECIES
 
 #### Status
 ACCEPTED

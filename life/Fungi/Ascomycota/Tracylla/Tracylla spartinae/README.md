@@ -1,14 +1,13 @@
-Leptothyrium spartinae Peck, 1894 SPECIES
-=======
+# Tracylla spartinae (Peck) Tassi, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 47: 151 (1894)
+Bulletin Labor. Orto Bot. de R. Univ. Siena 6: 62 (1904)
 
 #### Original name
 Leptothyrium spartinae Peck, 1894

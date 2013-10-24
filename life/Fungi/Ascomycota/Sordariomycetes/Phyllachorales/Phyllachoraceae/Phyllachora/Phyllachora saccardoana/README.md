@@ -1,5 +1,4 @@
-Phyllachora saccardoana Petr. & Syd., 1925 SPECIES
-=======
+# Phyllachora saccardoana Petr. & Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

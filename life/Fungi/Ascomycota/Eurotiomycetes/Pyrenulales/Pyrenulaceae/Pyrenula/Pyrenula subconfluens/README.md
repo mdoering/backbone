@@ -1,5 +1,4 @@
-Pyrenula subconfluens Vain. SPECIES
-=======
+# Pyrenula subconfluens Vain. SPECIES
 
 #### Status
 ACCEPTED

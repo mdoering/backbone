@@ -1,5 +1,4 @@
-Phyllosticta decipiens Ellis & Everh. SPECIES
-=======
+# Phyllosticta decipiens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

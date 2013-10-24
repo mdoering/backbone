@@ -1,5 +1,4 @@
-Gloniella caucasica Rehm SPECIES
-=======
+# Gloniella caucasica Rehm SPECIES
 
 #### Status
 ACCEPTED

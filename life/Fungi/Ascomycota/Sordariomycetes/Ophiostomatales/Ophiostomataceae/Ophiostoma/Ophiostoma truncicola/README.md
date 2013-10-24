@@ -1,5 +1,4 @@
-Ophiostoma truncicola R.W. Davidson SPECIES
-=======
+# Ophiostoma truncicola R.W. Davidson SPECIES
 
 #### Status
 ACCEPTED

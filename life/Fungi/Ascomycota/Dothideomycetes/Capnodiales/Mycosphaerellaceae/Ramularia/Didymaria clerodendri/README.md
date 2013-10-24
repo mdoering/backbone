@@ -1,5 +1,4 @@
-Didymaria clerodendri Bat., R. Garnier & Matta SPECIES
-=======
+# Didymaria clerodendri Bat., R. Garnier & Matta SPECIES
 
 #### Status
 ACCEPTED

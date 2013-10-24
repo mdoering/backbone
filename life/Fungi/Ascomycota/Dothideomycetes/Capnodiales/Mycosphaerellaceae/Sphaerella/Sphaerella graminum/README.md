@@ -1,5 +1,4 @@
-Sphaerella graminum Sacc. & Scalia SPECIES
-=======
+# Sphaerella graminum Sacc. & Scalia SPECIES
 
 #### Status
 ACCEPTED

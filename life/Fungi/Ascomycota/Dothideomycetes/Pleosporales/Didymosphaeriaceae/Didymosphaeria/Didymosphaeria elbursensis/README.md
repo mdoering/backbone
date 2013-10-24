@@ -1,5 +1,4 @@
-Didymosphaeria elbursensis Petr. SPECIES
-=======
+# Didymosphaeria elbursensis Petr. SPECIES
 
 #### Status
 ACCEPTED

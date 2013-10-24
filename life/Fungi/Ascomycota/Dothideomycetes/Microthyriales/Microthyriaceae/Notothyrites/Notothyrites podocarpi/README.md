@@ -1,5 +1,4 @@
-Notothyrites podocarpi Krassilov SPECIES
-=======
+# Notothyrites podocarpi Krassilov SPECIES
 
 #### Status
 ACCEPTED

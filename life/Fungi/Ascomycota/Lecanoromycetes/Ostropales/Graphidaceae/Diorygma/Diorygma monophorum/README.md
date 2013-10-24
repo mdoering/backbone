@@ -1,5 +1,4 @@
-Diorygma monophorum (Nyl.) Kalb, Staiger & Elix SPECIES
-=======
+# Diorygma monophorum (Nyl.) Kalb, Staiger & Elix SPECIES
 
 #### Status
 ACCEPTED

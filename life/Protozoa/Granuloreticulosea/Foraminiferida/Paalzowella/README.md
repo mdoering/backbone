@@ -1,5 +1,4 @@
-Paalzowella Cushman, 1933 GENUS
-=======
+# Paalzowella Cushman, 1933 GENUS
 
 #### Status
 ACCEPTED

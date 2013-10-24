@@ -1,5 +1,4 @@
-Spiniferites scabratus (Wall, 1967) Sarjeant, 1970 SPECIES
-=======
+# Spiniferites scabratus (Wall, 1967) Sarjeant, 1970 SPECIES
 
 #### Status
 ACCEPTED

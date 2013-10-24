@@ -1,5 +1,4 @@
-Gregarinidae Labbé, 1899 FAMILY
-=======
+# Gregarinidae Labbé, 1899 FAMILY
 
 #### Status
 ACCEPTED

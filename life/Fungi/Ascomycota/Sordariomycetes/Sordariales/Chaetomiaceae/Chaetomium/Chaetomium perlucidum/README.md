@@ -1,5 +1,4 @@
-Chaetomium perlucidum Sergeeva, 1956 SPECIES
-=======
+# Chaetomium perlucidum Sergeeva, 1956 SPECIES
 
 #### Status
 ACCEPTED

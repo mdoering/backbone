@@ -1,5 +1,4 @@
-Camptomeris calliandrae Syd., 1927 SPECIES
-=======
+# Camptomeris calliandrae Syd., 1927 SPECIES
 
 #### Status
 ACCEPTED

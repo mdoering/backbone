@@ -1,5 +1,4 @@
-Laestadia apocyni Ellis & Everh. SPECIES
-=======
+# Laestadia apocyni Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

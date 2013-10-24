@@ -1,5 +1,4 @@
-Asterina hydrocotyles Hosag. & C.K. Biju, 2005 SPECIES
-=======
+# Asterina hydrocotyles Hosag. & C.K. Biju, 2005 SPECIES
 
 #### Status
 ACCEPTED

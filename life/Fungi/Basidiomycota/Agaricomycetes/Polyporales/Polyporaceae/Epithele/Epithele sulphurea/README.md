@@ -1,5 +1,4 @@
-Epithele sulphurea Burt SPECIES
-=======
+# Epithele sulphurea Burt SPECIES
 
 #### Status
 ACCEPTED

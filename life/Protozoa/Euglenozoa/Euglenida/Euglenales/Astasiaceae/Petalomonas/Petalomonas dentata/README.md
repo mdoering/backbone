@@ -1,5 +1,4 @@
-Petalomonas dentata Christen SPECIES
-=======
+# Petalomonas dentata Christen SPECIES
 
 #### Status
 ACCEPTED

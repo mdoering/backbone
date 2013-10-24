@@ -1,5 +1,4 @@
-Lychnosphaera regina Haeckel, 1887 SPECIES
-=======
+# Lychnosphaera regina Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

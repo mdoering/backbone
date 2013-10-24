@@ -1,5 +1,4 @@
-Vibrio ezurae Sawabe et al., 2005 SPECIES
-=======
+# Vibrio ezurae Sawabe et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hyella infestans Howe SPECIES
-=======
+# Myxohyella infestans (Howe) Geitler SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

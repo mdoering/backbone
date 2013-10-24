@@ -1,5 +1,4 @@
-Sorosporium papuae (Zundel) L. Ling SPECIES
-=======
+# Sorosporium papuae (Zundel) L. Ling SPECIES
 
 #### Status
 ACCEPTED

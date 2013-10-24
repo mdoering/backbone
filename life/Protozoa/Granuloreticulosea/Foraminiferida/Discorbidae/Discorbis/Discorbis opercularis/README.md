@@ -1,5 +1,4 @@
-Discorbis opercularis SPECIES
-=======
+# Discorbis opercularis SPECIES
 
 #### Status
 ACCEPTED

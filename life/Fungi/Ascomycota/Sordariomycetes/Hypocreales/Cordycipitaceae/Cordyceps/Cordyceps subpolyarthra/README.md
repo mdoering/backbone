@@ -1,5 +1,4 @@
-Cordyceps subpolyarthra Henn. SPECIES
-=======
+# Cordyceps subpolyarthra Henn. SPECIES
 
 #### Status
 ACCEPTED

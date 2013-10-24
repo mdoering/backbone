@@ -1,14 +1,13 @@
-Sphaerophragmium fimbriatum var. millettiae (Vienn.-Bourg.) Monoson, 1974 VARIETY
-=======
+# Sphaerophragmium millettiae Vienn.-Bourg., 1952 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 66(5): 799 (1974)
+Bull. trimest. Soc. mycol. Fr. 67: 433 (1952)
 
 #### Original name
 Sphaerophragmium millettiae Vienn.-Bourg., 1952

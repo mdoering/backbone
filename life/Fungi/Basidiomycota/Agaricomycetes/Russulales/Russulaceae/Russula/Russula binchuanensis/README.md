@@ -1,17 +1,16 @@
-Lactarius binchuanensis H.A. Wen & J.Z. Ying SPECIES
-=======
+# Russula binchuanensis H.A. Wen & J.Z. Ying SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 20(2): 153 (2001)
 
 #### Original name
-Lactarius binchuanensis H.A. Wen & J.Z. Ying
+Russula binchuanensis H.A. Wen & J.Z. Ying
 
 ### Remarks
 null

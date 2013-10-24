@@ -1,5 +1,4 @@
-Rhabdospora spodiopogonis Bubák SPECIES
-=======
+# Rhabdospora spodiopogonis Bubák SPECIES
 
 #### Status
 ACCEPTED

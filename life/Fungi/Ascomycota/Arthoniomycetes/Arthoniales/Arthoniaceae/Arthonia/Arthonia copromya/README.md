@@ -1,5 +1,4 @@
-Arthonia copromya Anzi SPECIES
-=======
+# Arthonia copromya Anzi SPECIES
 
 #### Status
 ACCEPTED

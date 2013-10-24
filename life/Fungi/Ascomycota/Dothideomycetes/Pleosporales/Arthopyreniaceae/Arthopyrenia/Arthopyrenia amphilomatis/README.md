@@ -1,5 +1,4 @@
-Arthopyrenia amphilomatis Jatta SPECIES
-=======
+# Arthopyrenia amphilomatis Jatta SPECIES
 
 #### Status
 ACCEPTED

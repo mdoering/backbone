@@ -1,5 +1,4 @@
-Strobilomyces coccineus Sacc. SPECIES
-=======
+# Strobilomyces coccineus Sacc. SPECIES
 
 #### Status
 ACCEPTED

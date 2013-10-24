@@ -1,5 +1,4 @@
-Psathyra plumigera Berk. & M.A. Curtis SPECIES
-=======
+# Psathyra plumigera Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

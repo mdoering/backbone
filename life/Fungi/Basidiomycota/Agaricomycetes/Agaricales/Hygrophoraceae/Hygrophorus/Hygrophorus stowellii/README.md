@@ -1,5 +1,4 @@
-Hygrophorus stowellii Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus stowellii Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

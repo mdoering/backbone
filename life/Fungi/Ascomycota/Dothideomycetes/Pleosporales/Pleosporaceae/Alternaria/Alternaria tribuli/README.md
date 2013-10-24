@@ -1,5 +1,4 @@
-Alternaria tribuli Meng Zhang & T.Y. Zhang SPECIES
-=======
+# Alternaria tribuli Meng Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

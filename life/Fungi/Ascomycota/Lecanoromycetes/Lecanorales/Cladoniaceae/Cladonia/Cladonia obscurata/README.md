@@ -1,5 +1,4 @@
-Cladonia obscurata Ahti SPECIES
-=======
+# Cladonia obscurata Ahti SPECIES
 
 #### Status
 ACCEPTED

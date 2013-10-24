@@ -1,5 +1,4 @@
-Uredo andropogonis-gayani Eboh SPECIES
-=======
+# Uredo andropogonis-gayani Eboh SPECIES
 
 #### Status
 ACCEPTED

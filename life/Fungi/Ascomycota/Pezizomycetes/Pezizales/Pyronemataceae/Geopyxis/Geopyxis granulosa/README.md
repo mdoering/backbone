@@ -1,5 +1,4 @@
-Geopyxis granulosa Henn. SPECIES
-=======
+# Geopyxis granulosa Henn. SPECIES
 
 #### Status
 ACCEPTED

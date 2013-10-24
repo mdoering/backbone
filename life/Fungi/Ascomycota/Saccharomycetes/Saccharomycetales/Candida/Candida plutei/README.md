@@ -1,5 +1,4 @@
-Candida plutei S.O. Suh & M. Blackw., 2005 SPECIES
-=======
+# Candida plutei S.O. Suh & M. Blackw., 2005 SPECIES
 
 #### Status
 ACCEPTED

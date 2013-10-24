@@ -1,17 +1,16 @@
-Mitteriella zizyphi-rugosae Thaung SPECIES
-=======
+# Mitteriella ziziphi-rugosae Thaung SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 64(2): 307 (1975)
 
 #### Original name
-Mitteriella zizyphi-rugosae Thaung
+Mitteriella ziziphi-rugosae Thaung
 
 ### Remarks
 null

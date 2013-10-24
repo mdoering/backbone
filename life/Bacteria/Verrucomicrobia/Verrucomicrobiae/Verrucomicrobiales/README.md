@@ -1,5 +1,4 @@
-Verrucomicrobiales Ward-Rainey, Rainey, Schlesner & Stackebrandt, 1996 ORDER
-=======
+# Verrucomicrobiales Ward-Rainey, Rainey, Schlesner & Stackebrandt, 1996 ORDER
 
 #### Status
 ACCEPTED

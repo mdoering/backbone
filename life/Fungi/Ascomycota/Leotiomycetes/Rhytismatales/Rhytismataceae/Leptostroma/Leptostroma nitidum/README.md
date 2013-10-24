@@ -1,5 +1,4 @@
-Leptostroma nitidum Wallr. SPECIES
-=======
+# Leptostroma nitidum Wallr. SPECIES
 
 #### Status
 ACCEPTED

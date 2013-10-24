@@ -1,5 +1,4 @@
-Mucor mucilaginosus Bref. SPECIES
-=======
+# Mucor mucilaginosus Bref. SPECIES
 
 #### Status
 ACCEPTED

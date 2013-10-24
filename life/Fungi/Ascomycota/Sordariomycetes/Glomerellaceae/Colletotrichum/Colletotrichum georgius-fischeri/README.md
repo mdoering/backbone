@@ -1,5 +1,4 @@
-Colletotrichum georgius-fischeri R. Sprague SPECIES
-=======
+# Colletotrichum georgius-fischeri R. Sprague SPECIES
 
 #### Status
 ACCEPTED

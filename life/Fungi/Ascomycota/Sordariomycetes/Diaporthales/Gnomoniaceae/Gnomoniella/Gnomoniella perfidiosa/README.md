@@ -1,5 +1,4 @@
-Gnomoniella perfidiosa (P. Karst.) Sacc. SPECIES
-=======
+# Gnomoniella perfidiosa (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

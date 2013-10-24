@@ -1,5 +1,4 @@
-Pavonina atlantica SPECIES
-=======
+# Pavonina atlantica SPECIES
 
 #### Status
 ACCEPTED

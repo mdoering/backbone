@@ -1,5 +1,4 @@
-Agaricochaete indica Natarajan & Raman, 1980 SPECIES
-=======
+# Agaricochaete indica Natarajan & Raman, 1980 SPECIES
 
 #### Status
 ACCEPTED

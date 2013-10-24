@@ -1,5 +1,4 @@
-Laestadia ari Ellis & Everh. SPECIES
-=======
+# Laestadia ari Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

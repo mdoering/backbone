@@ -1,5 +1,4 @@
-Botryodiplodia pruni McAlpine SPECIES
-=======
+# Botryodiplodia pruni McAlpine SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dicellomyces gloeosporus L.S. Olive, 1945 SPECIES
-=======
+# Dicellomyces gloeosporus L.S. Olive, 1945 SPECIES
 
 #### Status
 ACCEPTED

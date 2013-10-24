@@ -1,5 +1,4 @@
-Parmelia brachyphylla Müll. Arg. SPECIES
-=======
+# Parmelia brachyphylla Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

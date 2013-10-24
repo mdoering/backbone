@@ -1,5 +1,4 @@
-Arthrobacter albus Wauters et al., 2000 SPECIES
-=======
+# Arthrobacter albus Wauters et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmulina uleana (Henn.) Theiss. & Syd., 1915 SPECIES
-=======
+# Parmularia uleana Henn., 1898 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia 37(6): 206 (1898)
 
 #### Original name
-null
+Parmularia uleana Henn., 1898
 
 ### Remarks
 null

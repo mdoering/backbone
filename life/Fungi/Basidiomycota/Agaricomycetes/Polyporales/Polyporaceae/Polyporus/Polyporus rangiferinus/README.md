@@ -1,5 +1,4 @@
-Polyporus rangiferinus Pers. SPECIES
-=======
+# Polyporus rangiferinus Pers. SPECIES
 
 #### Status
 ACCEPTED

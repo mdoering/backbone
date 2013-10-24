@@ -1,5 +1,4 @@
-Entoloma subcaelestinum (Singer) Singer SPECIES
-=======
+# Entoloma subcaelestinum (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

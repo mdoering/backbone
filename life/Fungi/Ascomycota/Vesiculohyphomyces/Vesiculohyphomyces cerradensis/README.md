@@ -1,5 +1,4 @@
-Vesiculohyphomyces cerradensis Armando, Pereira-Carvalho & Dianese SPECIES
-=======
+# Vesiculohyphomyces cerradensis Armando, Pereira-Carvalho & Dianese SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma sepalorum Lind SPECIES
-=======
+# Phoma sepalorum Lind SPECIES
 
 #### Status
 ACCEPTED

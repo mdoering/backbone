@@ -1,5 +1,4 @@
-Virgulinella fusiformis SPECIES
-=======
+# Virgulinella fusiformis SPECIES
 
 #### Status
 ACCEPTED

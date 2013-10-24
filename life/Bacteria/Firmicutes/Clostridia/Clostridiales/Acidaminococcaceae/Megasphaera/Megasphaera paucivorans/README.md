@@ -1,5 +1,4 @@
-Megasphaera paucivorans Juvonen & Suihko, 2006 SPECIES
-=======
+# Megasphaera paucivorans Juvonen & Suihko, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiroplectamminidae Cushman, 1927 FAMILY
-=======
+# Spiroplectamminidae Cushman, 1927 FAMILY
 
 #### Status
 ACCEPTED

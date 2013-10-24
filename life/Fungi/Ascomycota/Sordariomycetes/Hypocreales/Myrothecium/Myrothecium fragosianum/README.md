@@ -1,5 +1,4 @@
-Myrothecium fragosianum Sacc. SPECIES
-=======
+# Myrothecium fragosianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

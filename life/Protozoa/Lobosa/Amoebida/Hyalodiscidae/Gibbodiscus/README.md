@@ -1,5 +1,4 @@
-Gibbodiscus Schaeffer, 1926 GENUS
-=======
+# Gibbodiscus Schaeffer, 1926 GENUS
 
 #### Status
 ACCEPTED

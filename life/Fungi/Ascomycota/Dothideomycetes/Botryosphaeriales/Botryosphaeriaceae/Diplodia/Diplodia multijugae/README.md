@@ -1,5 +1,4 @@
-Diplodia multijugae Henn. SPECIES
-=======
+# Diplodia multijugae Henn. SPECIES
 
 #### Status
 ACCEPTED

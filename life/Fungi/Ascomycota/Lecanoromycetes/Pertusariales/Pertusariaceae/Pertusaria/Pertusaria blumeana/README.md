@@ -1,5 +1,4 @@
-Pertusaria blumeana Müll. Arg. SPECIES
-=======
+# Pertusaria blumeana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

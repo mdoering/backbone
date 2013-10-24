@@ -1,5 +1,4 @@
-Nodularia armorica Thuret SPECIES
-=======
+# Nodularia armorica Thuret SPECIES
 
 #### Status
 ACCEPTED

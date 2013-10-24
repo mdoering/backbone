@@ -1,5 +1,4 @@
-Placodium diphasium (Tuck.) Tuck. SPECIES
-=======
+# Placodium diphasium (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

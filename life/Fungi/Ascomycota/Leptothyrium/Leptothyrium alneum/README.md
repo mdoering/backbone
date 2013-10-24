@@ -1,17 +1,16 @@
-Leptothyrium alneum var. alneum (Pers. ex Lév.) Sacc. VARIETY
-=======
+# Leptothyrium alneum (Pers. ex Lév.) Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Michelia 1(no. 2): 202 (1878)
 
 #### Original name
-Leptothyrium alneum var. alneum (Pers. ex Lév.) Sacc.
+Melasmia alnea Lév.
 
 ### Remarks
 null

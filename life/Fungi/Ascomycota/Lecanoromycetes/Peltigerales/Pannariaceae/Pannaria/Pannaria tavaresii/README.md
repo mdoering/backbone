@@ -1,5 +1,4 @@
-Pannaria tavaresii P. M. Jørg. SPECIES
-=======
+# Pannaria tavaresii P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

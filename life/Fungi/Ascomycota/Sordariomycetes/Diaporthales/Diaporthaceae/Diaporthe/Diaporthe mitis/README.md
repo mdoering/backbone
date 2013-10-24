@@ -1,5 +1,4 @@
-Diaporthe mitis Sacc. SPECIES
-=======
+# Diaporthe mitis Sacc. SPECIES
 
 #### Status
 ACCEPTED

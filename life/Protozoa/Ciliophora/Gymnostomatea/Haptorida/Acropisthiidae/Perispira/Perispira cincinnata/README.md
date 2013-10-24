@@ -1,5 +1,4 @@
-Perispira cincinnata Penard SPECIES
-=======
+# Perispira cincinnata Penard SPECIES
 
 #### Status
 ACCEPTED

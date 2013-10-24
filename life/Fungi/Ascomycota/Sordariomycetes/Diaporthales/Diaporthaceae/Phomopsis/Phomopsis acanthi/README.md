@@ -1,5 +1,4 @@
-Phomopsis acanthi (Sacc. & D. Sacc.) Grove SPECIES
-=======
+# Phomopsis acanthi (Sacc. & D. Sacc.) Grove SPECIES
 
 #### Status
 ACCEPTED

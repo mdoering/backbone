@@ -1,5 +1,4 @@
-Corticium perenne G. Cunn., 1954 SPECIES
-=======
+# Corticium perenne G. Cunn., 1954 SPECIES
 
 #### Status
 ACCEPTED

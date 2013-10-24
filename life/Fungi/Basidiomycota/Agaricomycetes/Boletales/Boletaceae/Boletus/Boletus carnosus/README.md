@@ -1,5 +1,4 @@
-Boletus carnosus Rostk. SPECIES
-=======
+# Boletus carnosus Rostk. SPECIES
 
 #### Status
 ACCEPTED

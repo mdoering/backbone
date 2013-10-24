@@ -1,5 +1,4 @@
-Leptosphaerulina dryadis (Starbäck) L. Holm SPECIES
-=======
+# Leptosphaerulina dryadis (Starbäck) L. Holm SPECIES
 
 #### Status
 ACCEPTED

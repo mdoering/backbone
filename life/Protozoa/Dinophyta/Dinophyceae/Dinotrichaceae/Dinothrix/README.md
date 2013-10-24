@@ -1,5 +1,4 @@
-Dinothrix Pascher, 1914 GENUS
-=======
+# Dinothrix Pascher, 1914 GENUS
 
 #### Status
 ACCEPTED

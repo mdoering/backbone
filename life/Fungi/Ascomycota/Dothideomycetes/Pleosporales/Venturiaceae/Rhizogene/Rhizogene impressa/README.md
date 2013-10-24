@@ -1,5 +1,4 @@
-Rhizogene impressa (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Rhizogene impressa (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Saccoblastia ovispora var. ovispora Möller VARIETY
-=======
+# Saccoblastia ovispora Möller, 1895 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bot. Mitt. Trop. 8: (1895)
 
 #### Original name
-Saccoblastia ovispora var. ovispora Möller
+Saccoblastia ovispora Möller, 1895
 
 ### Remarks
 null

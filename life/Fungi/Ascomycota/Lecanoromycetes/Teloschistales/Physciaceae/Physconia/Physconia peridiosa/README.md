@@ -1,5 +1,4 @@
-Physconia peridiosa SPECIES
-=======
+# Physconia peridiosa SPECIES
 
 #### Status
 ACCEPTED

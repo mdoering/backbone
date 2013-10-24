@@ -1,5 +1,4 @@
-Hypocrea papyracea Ellis & Holw. SPECIES
-=======
+# Hypocrea papyracea Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

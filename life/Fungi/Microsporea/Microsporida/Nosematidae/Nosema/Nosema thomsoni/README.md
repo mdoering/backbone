@@ -1,5 +1,4 @@
-Nosema thomsoni SPECIES
-=======
+# Nosema thomsoni SPECIES
 
 #### Status
 ACCEPTED

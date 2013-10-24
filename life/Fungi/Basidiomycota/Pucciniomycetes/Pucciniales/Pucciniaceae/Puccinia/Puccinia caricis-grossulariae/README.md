@@ -1,5 +1,4 @@
-Puccinia caricis-grossulariae Erikss. SPECIES
-=======
+# Puccinia caricis-grossulariae Erikss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saprolegnia luxurians (Bhargava & G.C. Srivast.) R.L. Seym. SPECIES
-=======
+# Saprolegnia luxurians (Bhargava & G.C. Srivast.) R.L. Seym. SPECIES
 
 #### Status
 ACCEPTED

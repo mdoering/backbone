@@ -1,14 +1,13 @@
-Trametes cinnabarina f. cinnabarina (Jacq.) Fr., 1874 FORM
-=======
+# Pycnoporus cinnabarinus (Jacq.) P. Karst., 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 583 (1874)
+Revue mycol. , Toulouse 3(no. 9): 18 (1881)
 
 #### Original name
 Boletus cinnabarinus. Wahlenb., 1812

@@ -1,5 +1,4 @@
-Leptosphaeria asparagina P. Karst. SPECIES
-=======
+# Leptosphaeria asparagina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

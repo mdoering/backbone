@@ -1,5 +1,4 @@
-Mucor bohemicus Dyr SPECIES
-=======
+# Mucor bohemicus Dyr SPECIES
 
 #### Status
 ACCEPTED

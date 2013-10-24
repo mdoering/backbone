@@ -1,5 +1,4 @@
-Bacidia sbarbaronis B. de Lesd. SPECIES
-=======
+# Bacidia sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

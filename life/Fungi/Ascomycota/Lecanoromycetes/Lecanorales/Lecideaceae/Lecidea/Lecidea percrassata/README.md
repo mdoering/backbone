@@ -1,5 +1,4 @@
-Lecidea percrassata H. Magn. SPECIES
-=======
+# Lecidea percrassata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Microdiplodia valdividensis Speg. SPECIES
-=======
+# Microdiplodia valdiviensis Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Microdiplodia valdividensis Speg.
+Microdiplodia valdiviensis Speg.
 
 ### Remarks
 null

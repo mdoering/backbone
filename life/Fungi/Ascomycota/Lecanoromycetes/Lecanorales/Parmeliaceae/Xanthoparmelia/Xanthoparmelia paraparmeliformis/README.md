@@ -1,5 +1,4 @@
-Xanthoparmelia paraparmeliformis Elix SPECIES
-=======
+# Xanthoparmelia paraparmeliformis Elix SPECIES
 
 #### Status
 ACCEPTED

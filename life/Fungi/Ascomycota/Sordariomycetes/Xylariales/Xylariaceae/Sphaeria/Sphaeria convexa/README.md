@@ -1,5 +1,4 @@
-Sphaeria convexa Preuss SPECIES
-=======
+# Sphaeria convexa Preuss SPECIES
 
 #### Status
 ACCEPTED

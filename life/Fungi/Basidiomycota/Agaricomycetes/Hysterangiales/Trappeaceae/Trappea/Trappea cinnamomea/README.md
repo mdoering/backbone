@@ -1,5 +1,4 @@
-Trappea cinnamomea A S. Xu & D.Q. Luo, 2003 SPECIES
-=======
+# Trappea cinnamomea A S. Xu & D.Q. Luo, 2003 SPECIES
 
 #### Status
 ACCEPTED

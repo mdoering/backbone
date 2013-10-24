@@ -1,17 +1,16 @@
-Cordyceps mantidaecola Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps mantidicola Kobayasi & Shimizu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. natn. Sci. Mus. , Tokyo, B 9(1): 12 (1983)
 
 #### Original name
-Cordyceps mantidaecola Kobayasi & Shimizu
+Cordyceps mantidicola Kobayasi & Shimizu
 
 ### Remarks
 null

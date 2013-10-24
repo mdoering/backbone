@@ -1,5 +1,4 @@
-Arthothelium tumidulum (Leight.) Zahlbr. SPECIES
-=======
+# Arthothelium tumidulum (Leight.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudohiatula fuliginosa Dennis SPECIES
-=======
+# Pseudohiatula fuliginosa Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aplosporella pistaciarum Petr. SPECIES
-=======
+# Aplosporella pistaciarum Petr. SPECIES
 
 #### Status
 ACCEPTED

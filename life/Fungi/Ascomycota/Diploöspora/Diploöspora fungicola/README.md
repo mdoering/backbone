@@ -1,5 +1,4 @@
-Diploöspora fungicola R.F. Castañeda SPECIES
-=======
+# Diploöspora fungicola R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cocoicola livistonicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1997 SPECIES
-=======
+# Cocoicola livistonicola K.D. Hyde, J. Fröhl. & Joanne E. Taylor, 1997 SPECIES
 
 #### Status
 ACCEPTED

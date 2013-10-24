@@ -1,5 +1,4 @@
-Psorotichia deplanata (Vain.) Forssell SPECIES
-=======
+# Psorotichia deplanata (Vain.) Forssell SPECIES
 
 #### Status
 ACCEPTED

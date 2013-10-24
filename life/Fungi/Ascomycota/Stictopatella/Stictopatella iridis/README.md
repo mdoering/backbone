@@ -1,5 +1,4 @@
-Stictopatella iridis Tehon SPECIES
-=======
+# Stictopatella iridis Tehon SPECIES
 
 #### Status
 ACCEPTED

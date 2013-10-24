@@ -1,5 +1,4 @@
-Meliola luzonensis Syd. & P. Syd. SPECIES
-=======
+# Meliola luzonensis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

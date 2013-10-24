@@ -1,5 +1,4 @@
-Acremoniella thermophila Curzi SPECIES
-=======
+# Acremoniella thermophila Curzi SPECIES
 
 #### Status
 ACCEPTED

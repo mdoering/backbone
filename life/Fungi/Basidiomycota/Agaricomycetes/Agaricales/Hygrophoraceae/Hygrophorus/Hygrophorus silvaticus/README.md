@@ -1,5 +1,4 @@
-Hygrophorus silvaticus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus silvaticus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

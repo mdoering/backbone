@@ -1,5 +1,4 @@
-Grymaea Fresenius, 1858 GENUS
-=======
+# Grymaea Fresenius, 1858 GENUS
 
 #### Status
 ACCEPTED

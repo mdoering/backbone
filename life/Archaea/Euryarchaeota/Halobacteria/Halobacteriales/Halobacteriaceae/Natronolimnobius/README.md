@@ -1,5 +1,4 @@
-Natronolimnobius Itoh et al., 2005 GENUS
-=======
+# Natronolimnobius Itoh et al., 2005 GENUS
 
 #### Status
 ACCEPTED

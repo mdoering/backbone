@@ -1,5 +1,4 @@
-Phoma gypsophilae Hollós SPECIES
-=======
+# Phoma gypsophilae Hollós SPECIES
 
 #### Status
 ACCEPTED

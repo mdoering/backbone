@@ -1,5 +1,4 @@
-Uredo quinqueporula Arthur & Fromme SPECIES
-=======
+# Uredo quinqueporula Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

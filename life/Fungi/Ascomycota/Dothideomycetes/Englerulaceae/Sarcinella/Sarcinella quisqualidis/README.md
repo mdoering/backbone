@@ -1,5 +1,4 @@
-Sarcinella quisqualidis Hosag. & J. Thomas SPECIES
-=======
+# Sarcinella quisqualidis Hosag. & J. Thomas SPECIES
 
 #### Status
 ACCEPTED

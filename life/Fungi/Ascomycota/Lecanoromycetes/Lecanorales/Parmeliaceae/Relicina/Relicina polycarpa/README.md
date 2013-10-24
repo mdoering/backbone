@@ -1,5 +1,4 @@
-Relicina polycarpa Elix & Polyiam SPECIES
-=======
+# Relicina polycarpa Elix & Polyiam SPECIES
 
 #### Status
 ACCEPTED

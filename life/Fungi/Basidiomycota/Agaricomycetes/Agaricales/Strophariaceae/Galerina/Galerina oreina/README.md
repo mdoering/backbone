@@ -1,5 +1,4 @@
-Galerina oreina A.H. Sm. & Singer SPECIES
-=======
+# Galerina oreina A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

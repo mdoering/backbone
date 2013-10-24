@@ -1,14 +1,13 @@
-Unguiculella tityrii (Velen.) Huhtinen & Spooner SPECIES
-=======
+# Unguiculella tityri (Velen.) Huhtinen & Spooner, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 58(3): 750 (2003)
 
 #### Original name
 Ascophanus tityri Velen., 1934

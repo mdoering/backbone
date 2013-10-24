@@ -1,5 +1,4 @@
-Nummularia flosculosa Starbäck SPECIES
-=======
+# Nummularia flosculosa Starbäck SPECIES
 
 #### Status
 ACCEPTED

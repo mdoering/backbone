@@ -1,5 +1,4 @@
-Hysterites dubius Debey & Ettingsh. SPECIES
-=======
+# Hysterites dubius Debey & Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

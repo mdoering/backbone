@@ -1,17 +1,16 @@
-Sigmoideomyces divaricatus McLean, 1923 SPECIES
-=======
+# Sigmoideomyces dispiroides Thaxt., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 8: 246 (1923)
+Bot. Gaz. 16: 22 (1891)
 
 #### Original name
-Sigmoideomyces divaricatus McLean, 1923
+Sigmoideomyces dispiroides Thaxt., 1891
 
 ### Remarks
 null

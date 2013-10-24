@@ -1,5 +1,4 @@
-Alternaria shaanxiensis T.Y. Zhang & J.Z. Zhang SPECIES
-=======
+# Alternaria shaanxiensis T.Y. Zhang & J.Z. Zhang SPECIES
 
 #### Status
 ACCEPTED

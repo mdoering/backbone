@@ -1,5 +1,4 @@
-Camarosporium pseudoplatani Brunaud SPECIES
-=======
+# Camarosporium pseudoplatani Brunaud SPECIES
 
 #### Status
 ACCEPTED

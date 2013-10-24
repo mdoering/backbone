@@ -1,14 +1,13 @@
-Molleriella atroviridula (Rehm) G. Arnaud SPECIES
-=======
+# Moelleriella atroviridula (Rehm) G. Arnaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 7: 678 (1925)
 
 #### Original name
 Saccardia atroviridula Rehm

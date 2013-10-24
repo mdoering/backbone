@@ -1,5 +1,4 @@
-Mycosphaerium lineatum Clem. SPECIES
-=======
+# Mycosphaerium lineatum Clem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linotexis argentinensis Petr. SPECIES
-=======
+# Linotexis argentinensis Petr. SPECIES
 
 #### Status
 ACCEPTED

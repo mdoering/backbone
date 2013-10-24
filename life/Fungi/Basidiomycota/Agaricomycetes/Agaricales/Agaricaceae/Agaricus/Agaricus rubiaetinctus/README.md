@@ -1,5 +1,4 @@
-Agaricus rubiaetinctus Berk. SPECIES
-=======
+# Agaricus rubiaetinctus Berk. SPECIES
 
 #### Status
 ACCEPTED

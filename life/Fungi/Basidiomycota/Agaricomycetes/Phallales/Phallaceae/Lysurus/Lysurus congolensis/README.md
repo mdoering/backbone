@@ -1,5 +1,4 @@
-Lysurus congolensis Beeli SPECIES
-=======
+# Lysurus congolensis Beeli SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophioceras indicus S.P. Lal SPECIES
-=======
+# Ophioceras indicus S.P. Lal SPECIES
 
 #### Status
 ACCEPTED

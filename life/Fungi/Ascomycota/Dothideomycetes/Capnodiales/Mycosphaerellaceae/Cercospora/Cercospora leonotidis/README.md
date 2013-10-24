@@ -1,5 +1,4 @@
-Cercospora leonotidis Cooke SPECIES
-=======
+# Cercospora leonotidis Cooke SPECIES
 
 #### Status
 ACCEPTED

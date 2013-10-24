@@ -1,5 +1,4 @@
-Cylindralithus serratus Bramlette & Martini, 1964 SPECIES
-=======
+# Cylindralithus serratus Bramlette & Martini, 1964 SPECIES
 
 #### Status
 ACCEPTED

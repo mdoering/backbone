@@ -1,5 +1,4 @@
-Uredinopsis macrosporma Magnus SPECIES
-=======
+# Uredinopsis macrosporma Magnus SPECIES
 
 #### Status
 ACCEPTED

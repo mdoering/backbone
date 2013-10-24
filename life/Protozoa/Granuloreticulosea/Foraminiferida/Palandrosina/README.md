@@ -1,5 +1,4 @@
-Palandrosina Fleury & Tronchetti, 1994 GENUS
-=======
+# Palandrosina Fleury & Tronchetti, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tremella flammea Kobayasi SPECIES
-=======
+# Tremella flammea Kobayasi SPECIES
 
 #### Status
 ACCEPTED

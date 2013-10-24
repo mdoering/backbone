@@ -1,5 +1,4 @@
-Leptoporus schulzeri (Fr.) Pilát SPECIES
-=======
+# Leptoporus schulzeri (Fr.) Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus flaccidus Pers. SPECIES
-=======
+# Polyporus flaccidus Pers. SPECIES
 
 #### Status
 ACCEPTED

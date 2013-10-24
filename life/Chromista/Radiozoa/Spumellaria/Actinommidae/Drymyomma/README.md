@@ -1,5 +1,4 @@
-Drymyomma Jørgensen, 1900 GENUS
-=======
+# Drymyomma Jørgensen, 1900 GENUS
 
 #### Status
 ACCEPTED

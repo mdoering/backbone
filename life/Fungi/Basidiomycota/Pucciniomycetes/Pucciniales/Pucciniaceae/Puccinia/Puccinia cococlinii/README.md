@@ -1,5 +1,4 @@
-Puccinia cococlinii Seym. ex Burrill SPECIES
-=======
+# Puccinia cococlinii Seym. ex Burrill SPECIES
 
 #### Status
 ACCEPTED

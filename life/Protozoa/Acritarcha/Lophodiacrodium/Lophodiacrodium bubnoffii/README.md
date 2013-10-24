@@ -1,5 +1,4 @@
-Lophodiacrodium bubnoffii (Timofeev, 1958) Deflandre & Deflandre-Rigaud, 1962 SPECIES
-=======
+# Lophodiacrodium bubnoffii (Timofeev, 1958) Deflandre & Deflandre-Rigaud, 1962 SPECIES
 
 #### Status
 ACCEPTED

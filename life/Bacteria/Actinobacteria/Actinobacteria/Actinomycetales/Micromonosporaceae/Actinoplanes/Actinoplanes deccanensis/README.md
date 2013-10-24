@@ -1,5 +1,4 @@
-Actinoplanes deccanensis Parenti et al., 1975 (Approved Lists, 1980) SPECIES
-=======
+# Actinoplanes deccanensis Parenti et al., 1975 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

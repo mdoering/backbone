@@ -1,5 +1,4 @@
-Naucoria flavoviridula Henn. SPECIES
-=======
+# Naucoria flavoviridula Henn. SPECIES
 
 #### Status
 ACCEPTED

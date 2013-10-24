@@ -1,5 +1,4 @@
-Agaricus carpta Scop. SPECIES
-=======
+# Agaricus carpta Scop. SPECIES
 
 #### Status
 ACCEPTED

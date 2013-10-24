@@ -1,5 +1,4 @@
-Asterella stomatophora (Ellis & G.W. Martin) Sacc. SPECIES
-=======
+# Asterella stomatophora (Ellis & G.W. Martin) Sacc. SPECIES
 
 #### Status
 ACCEPTED

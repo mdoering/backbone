@@ -1,5 +1,4 @@
-Phanerochaete hyphocystidiata Sheng H. Wu SPECIES
-=======
+# Phanerochaete hyphocystidiata Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

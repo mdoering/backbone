@@ -1,5 +1,4 @@
-Linhartia philippinensis Rehm SPECIES
-=======
+# Linhartia philippinensis Rehm SPECIES
 
 #### Status
 ACCEPTED

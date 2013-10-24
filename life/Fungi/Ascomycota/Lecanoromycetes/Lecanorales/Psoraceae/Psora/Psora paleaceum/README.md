@@ -1,5 +1,4 @@
-Psora paleaceum (Fr.) Nyl. SPECIES
-=======
+# Psora paleaceum (Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina subpumila A.E. Wood SPECIES
-=======
+# Galerina subpumila A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

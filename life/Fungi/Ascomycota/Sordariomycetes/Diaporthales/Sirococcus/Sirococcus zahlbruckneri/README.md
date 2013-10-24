@@ -1,5 +1,4 @@
-Sirococcus zahlbruckneri Bäumler SPECIES
-=======
+# Sirococcus zahlbruckneri Bäumler SPECIES
 
 #### Status
 ACCEPTED

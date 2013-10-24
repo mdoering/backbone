@@ -1,5 +1,4 @@
-Sphaeria globosa Fr. SPECIES
-=======
+# Sphaeria globosa Fr. SPECIES
 
 #### Status
 ACCEPTED

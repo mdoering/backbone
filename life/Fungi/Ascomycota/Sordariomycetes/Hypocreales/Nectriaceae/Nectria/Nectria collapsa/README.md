@@ -1,5 +1,4 @@
-Nectria collapsa (Starbäck) Rossman SPECIES
-=======
+# Nectria collapsa (Starbäck) Rossman SPECIES
 
 #### Status
 ACCEPTED

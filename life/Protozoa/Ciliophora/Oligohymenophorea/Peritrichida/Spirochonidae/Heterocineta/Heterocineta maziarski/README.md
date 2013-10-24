@@ -1,5 +1,4 @@
-Heterocineta maziarski Jarocki, 1935 SPECIES
-=======
+# Heterocineta maziarski Jarocki, 1935 SPECIES
 
 #### Status
 ACCEPTED

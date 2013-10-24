@@ -1,5 +1,4 @@
-Hebeloma evensoniae A.H. Sm. & Mitchel SPECIES
-=======
+# Hebeloma evensoniae A.H. Sm. & Mitchel SPECIES
 
 #### Status
 ACCEPTED

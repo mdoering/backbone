@@ -1,17 +1,16 @@
-Ansatospora A.G. Newhall GENUS
-=======
+# Mycocentrospora Deighton, 1972 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Phytopathology 34: 98 (1944)
+null
 
 #### Original name
-Ansatospora A.G. Newhall
+null
 
 ### Remarks
 null

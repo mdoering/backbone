@@ -1,5 +1,4 @@
-Didymosphaeria scrophulariae Parisi SPECIES
-=======
+# Didymosphaeria scrophulariae Parisi SPECIES
 
 #### Status
 ACCEPTED

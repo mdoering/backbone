@@ -1,5 +1,4 @@
-Phoma ochra Cooke SPECIES
-=======
+# Phoma ochra Cooke SPECIES
 
 #### Status
 ACCEPTED

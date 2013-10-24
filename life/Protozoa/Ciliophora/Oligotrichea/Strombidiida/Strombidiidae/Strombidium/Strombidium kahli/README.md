@@ -1,5 +1,4 @@
-Strombidium kahli Bock, 1952 SPECIES
-=======
+# Strombidium kahli Bock, 1952 SPECIES
 
 #### Status
 ACCEPTED

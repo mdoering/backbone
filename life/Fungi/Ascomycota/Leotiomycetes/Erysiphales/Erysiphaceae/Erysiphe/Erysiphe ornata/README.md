@@ -1,5 +1,4 @@
-Erysiphe ornata var. ornata VARIETY
-=======
+# Erysiphe ornata (U. Braun) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schlechtendalia 4: 12 (2000)
+null
 
 #### Original name
-Microsphaera ornata U. Braun, 1982
+null
 
 ### Remarks
 null

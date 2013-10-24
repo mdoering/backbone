@@ -1,5 +1,4 @@
-Lecidea ararctica Müll. Arg. SPECIES
-=======
+# Lecidea ararctica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

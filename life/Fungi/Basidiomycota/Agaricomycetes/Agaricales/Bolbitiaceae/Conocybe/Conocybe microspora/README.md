@@ -1,5 +1,4 @@
-Conocybe microspora var. microspora (Velen.) Dennis VARIETY
-=======
+# Conocybe microspora (Velen.) Dennis SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bull. Soc. mycol. Fr. 69(2): 189 (1953)
 
 #### Original name
-Conocybe microspora var. microspora (Velen.) Dennis
+Galera microspora Velen.
 
 ### Remarks
 null

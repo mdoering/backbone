@@ -1,5 +1,4 @@
-Lactarius spinulosus Massee SPECIES
-=======
+# Lactarius spinulosus Massee SPECIES
 
 #### Status
 ACCEPTED

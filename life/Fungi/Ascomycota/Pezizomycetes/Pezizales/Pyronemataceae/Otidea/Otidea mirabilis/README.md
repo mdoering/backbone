@@ -1,5 +1,4 @@
-Otidea mirabilis Bolognini & Jamoni SPECIES
-=======
+# Otidea mirabilis Bolognini & Jamoni SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium bactridis Henn. SPECIES
-=======
+# Leptothyrium bactridis Henn. SPECIES
 
 #### Status
 ACCEPTED

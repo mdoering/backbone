@@ -1,5 +1,4 @@
-Gloeocapsa ovalis Gardner SPECIES
-=======
+# Gloeocapsa ovalis Gardner SPECIES
 
 #### Status
 ACCEPTED

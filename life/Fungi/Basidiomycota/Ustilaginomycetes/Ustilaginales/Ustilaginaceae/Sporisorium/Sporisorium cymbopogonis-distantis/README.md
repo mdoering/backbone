@@ -1,5 +1,4 @@
-Sporisorium cymbopogonis-distantis (L. Ling) L. Guo SPECIES
-=======
+# Sporisorium cymbopogonis-distantis (L. Ling) L. Guo SPECIES
 
 #### Status
 ACCEPTED

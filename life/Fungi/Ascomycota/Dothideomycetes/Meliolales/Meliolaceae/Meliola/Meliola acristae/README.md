@@ -1,5 +1,4 @@
-Meliola acristae var. cocoës Hansf. VARIETY
-=======
+# Meliola acristae Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Sydowia 11: 51 (1958)
+Beih. Sydowia 1: 99 (1957)
 
 #### Original name
-Meliola acristae var. cocoës Hansf.
+Meliola acristae Hansf.
 
 ### Remarks
 null

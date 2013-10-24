@@ -1,5 +1,4 @@
-Cryptoporus (Peck) Shear, 1902 GENUS
-=======
+# Cryptoporus (Peck) Shear, 1902 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Caloplaca herbidella f. denigrata (Servít) Zahlbr. FORM
-=======
+# Caloplaca herbidella (Hue) H. Magn. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 430 (1932)
 
 #### Original name
-Blastenia herbidella f. denigrata Servít
+Blastenia caesiorufa f. herbidella Hue
 
 ### Remarks
 null

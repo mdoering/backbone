@@ -1,5 +1,4 @@
-Phyllachora tephrosiae Syd., 1924 SPECIES
-=======
+# Phyllachora tephrosiae Syd., 1924 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Erysiphe liriodendri Schwein. SPECIES
-=======
+# Erysiphe liriodendri Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium cassiei Norris, 1961 SPECIES
-=======
+# Gymnodinium cassiei Norris, 1961 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia hectorensis G. Cunn., 1923 SPECIES
-=======
+# Puccinia hectorensis G. Cunn., 1923 SPECIES
 
 #### Status
 ACCEPTED

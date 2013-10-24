@@ -1,5 +1,4 @@
-Lecidea anziana Zahlbr. SPECIES
-=======
+# Lecidea anziana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

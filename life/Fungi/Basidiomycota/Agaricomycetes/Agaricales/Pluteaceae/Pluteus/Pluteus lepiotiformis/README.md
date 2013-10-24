@@ -1,5 +1,4 @@
-Pluteus lepiotiformis Murrill SPECIES
-=======
+# Pluteus lepiotiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

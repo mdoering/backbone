@@ -1,5 +1,4 @@
-Entamoeba terrapinae Sanders & Cleveland, 1930 SPECIES
-=======
+# Entamoeba terrapinae Sanders & Cleveland, 1930 SPECIES
 
 #### Status
 ACCEPTED

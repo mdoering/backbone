@@ -1,5 +1,4 @@
-Chaetosphaeria tortuosa Réblová, Seifert & G.P. White SPECIES
-=======
+# Chaetosphaeria tortuosa Réblová, Seifert & G.P. White SPECIES
 
 #### Status
 ACCEPTED

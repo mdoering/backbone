@@ -1,5 +1,4 @@
-Phoma syringae Berk. & M.A. Curtis SPECIES
-=======
+# Phoma syringae Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

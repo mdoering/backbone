@@ -1,5 +1,4 @@
-Passalora solani-torvi (Gonz. Frag. & Cif.) U. Braun & Crous SPECIES
-=======
+# Passalora solani-torvi (Gonz. Frag. & Cif.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

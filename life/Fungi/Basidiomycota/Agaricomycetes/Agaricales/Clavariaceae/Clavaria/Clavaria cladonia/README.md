@@ -1,5 +1,4 @@
-Clavaria cladonia Speg. SPECIES
-=======
+# Clavaria cladonia Speg. SPECIES
 
 #### Status
 ACCEPTED

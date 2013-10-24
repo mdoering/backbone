@@ -1,5 +1,4 @@
-Geminoarcus gracilis K. Ando SPECIES
-=======
+# Geminoarcus gracilis K. Ando SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria patagonica Müll. Arg. SPECIES
-=======
+# Pertusaria patagonica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

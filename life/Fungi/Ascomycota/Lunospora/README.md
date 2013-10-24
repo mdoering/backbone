@@ -1,5 +1,4 @@
-Lunospora GENUS
-=======
+# Lunospora GENUS
 
 #### Status
 ACCEPTED

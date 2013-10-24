@@ -1,5 +1,4 @@
-Microsporum simiae Conant SPECIES
-=======
+# Microsporum simiae Conant SPECIES
 
 #### Status
 ACCEPTED

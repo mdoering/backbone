@@ -1,5 +1,4 @@
-Lecanora adamanticola (Hue) Zahlbr. SPECIES
-=======
+# Lecanora adamanticola (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

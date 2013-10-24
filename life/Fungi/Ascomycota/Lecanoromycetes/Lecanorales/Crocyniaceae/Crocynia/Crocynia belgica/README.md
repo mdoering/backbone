@@ -1,5 +1,4 @@
-Crocynia belgica B. de Lesd. SPECIES
-=======
+# Crocynia belgica B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

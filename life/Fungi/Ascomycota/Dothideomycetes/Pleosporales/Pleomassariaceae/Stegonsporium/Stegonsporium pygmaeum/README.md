@@ -1,5 +1,4 @@
-Stegonsporium pygmaeum Sacc. SPECIES
-=======
+# Stegonsporium pygmaeum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Johnstonia colocasiae M.B. Ellis, 1971 SPECIES
-=======
+# Neojohnstonia colocasiae (M.B. Ellis) B. Sutton, 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 125: 14 (1971)
+Trans. Br. mycol. Soc. 81(2): 407 (1983)
 
 #### Original name
 Johnstonia colocasiae M.B. Ellis, 1971

@@ -1,5 +1,4 @@
-Pezizella ericae D.J. Read SPECIES
-=======
+# Pezizella ericae D.J. Read SPECIES
 
 #### Status
 ACCEPTED

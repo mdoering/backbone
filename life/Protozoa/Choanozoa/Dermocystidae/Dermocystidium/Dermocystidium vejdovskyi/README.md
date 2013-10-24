@@ -1,5 +1,4 @@
-Dermocystidium vejdovskyi Jírovec SPECIES
-=======
+# Dermocystidium vejdovskyi Jírovec SPECIES
 
 #### Status
 ACCEPTED

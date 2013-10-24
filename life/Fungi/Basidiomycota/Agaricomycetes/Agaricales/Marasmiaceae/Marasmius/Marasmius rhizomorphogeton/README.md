@@ -1,5 +1,4 @@
-Marasmius rhizomorphogeton (Singer) Singer SPECIES
-=======
+# Marasmius rhizomorphogeton (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

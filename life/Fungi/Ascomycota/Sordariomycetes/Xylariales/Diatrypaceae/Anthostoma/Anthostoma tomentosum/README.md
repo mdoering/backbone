@@ -1,5 +1,4 @@
-Anthostoma tomentosum (Ehrenb.) Sacc. SPECIES
-=======
+# Anthostoma tomentosum (Ehrenb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Serinicoccus Yi et al., 2004 GENUS
-=======
+# Serinicoccus Yi et al., 2004 GENUS
 
 #### Status
 ACCEPTED

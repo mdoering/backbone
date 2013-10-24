@@ -1,5 +1,4 @@
-Parmeliopsis subambigua Gyeln. SPECIES
-=======
+# Parmeliopsis subambigua Gyeln. SPECIES
 
 #### Status
 ACCEPTED

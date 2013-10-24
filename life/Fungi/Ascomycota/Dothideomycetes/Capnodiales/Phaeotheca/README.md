@@ -1,5 +1,4 @@
-Phaeotheca Sigler, Tsuneda & J.W. Carmichael, 1981 GENUS
-=======
+# Phaeotheca Sigler, Tsuneda & J.W. Carmichael, 1981 GENUS
 
 #### Status
 ACCEPTED

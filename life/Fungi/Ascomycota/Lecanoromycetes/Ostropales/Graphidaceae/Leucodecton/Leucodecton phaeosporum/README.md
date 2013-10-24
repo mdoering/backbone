@@ -1,17 +1,16 @@
-Leptotrema phaeosporum var. phaeosporum VARIETY
-=======
+# Leucodecton phaeosporum (Nyl.) Rivas Plata & Lücking SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Flora, Jena 65: 499 (1882)
+null
 
 #### Original name
-Leptotrema phaeosporum var. phaeosporum
+null
 
 ### Remarks
 null

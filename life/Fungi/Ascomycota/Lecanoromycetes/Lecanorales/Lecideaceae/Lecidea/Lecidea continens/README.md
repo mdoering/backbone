@@ -1,5 +1,4 @@
-Lecidea continens Nyl. SPECIES
-=======
+# Lecidea continens Nyl. SPECIES
 
 #### Status
 ACCEPTED

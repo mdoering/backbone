@@ -1,5 +1,4 @@
-Lacerus Jankowski, 1967 GENUS
-=======
+# Lacerus Jankowski, 1967 GENUS
 
 #### Status
 ACCEPTED

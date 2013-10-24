@@ -1,5 +1,4 @@
-Sporotrichum glaucum P. Karst. SPECIES
-=======
+# Sporotrichum glaucum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

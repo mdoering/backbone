@@ -1,5 +1,4 @@
-Protoblastenia haematommoides (Zahlbr.) Hertel SPECIES
-=======
+# Protoblastenia haematommoides (Zahlbr.) Hertel SPECIES
 
 #### Status
 ACCEPTED

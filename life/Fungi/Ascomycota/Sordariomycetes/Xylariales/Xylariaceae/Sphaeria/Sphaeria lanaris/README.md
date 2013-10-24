@@ -1,5 +1,4 @@
-Sphaeria lanaris Welw. & Curr. SPECIES
-=======
+# Sphaeria lanaris Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

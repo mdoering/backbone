@@ -1,5 +1,4 @@
-Septoria iridis-japonicae Nann. SPECIES
-=======
+# Septoria iridis-japonicae Nann. SPECIES
 
 #### Status
 ACCEPTED

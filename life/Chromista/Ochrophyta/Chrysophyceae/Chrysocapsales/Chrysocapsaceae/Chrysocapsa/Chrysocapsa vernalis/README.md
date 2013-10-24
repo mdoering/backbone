@@ -1,5 +1,4 @@
-Chrysocapsa vernalis SPECIES
-=======
+# Chrysocapsa vernalis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tainosphaeria crassiparies F.A. Fernández & Huhndorf, 2005 SPECIES
-=======
+# Tainosphaeria crassiparies F.A. Fernández & Huhndorf, 2005 SPECIES
 
 #### Status
 ACCEPTED

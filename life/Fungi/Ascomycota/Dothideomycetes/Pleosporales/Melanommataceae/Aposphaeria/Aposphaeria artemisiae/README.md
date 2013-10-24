@@ -1,5 +1,4 @@
-Aposphaeria artemisiae (Corda) Sacc. SPECIES
-=======
+# Aposphaeria artemisiae (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

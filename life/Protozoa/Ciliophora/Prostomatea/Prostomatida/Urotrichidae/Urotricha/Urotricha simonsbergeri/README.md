@@ -1,5 +1,4 @@
-Urotricha simonsbergeri Foissner, Berger & Schaumburg, 1999 SPECIES
-=======
+# Urotricha simonsbergeri Foissner, Berger & Schaumburg, 1999 SPECIES
 
 #### Status
 ACCEPTED

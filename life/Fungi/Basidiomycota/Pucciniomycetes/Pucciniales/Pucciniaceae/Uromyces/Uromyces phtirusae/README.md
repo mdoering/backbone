@@ -1,5 +1,4 @@
-Uromyces phtirusae Mayor SPECIES
-=======
+# Uromyces phtirusae Mayor SPECIES
 
 #### Status
 ACCEPTED

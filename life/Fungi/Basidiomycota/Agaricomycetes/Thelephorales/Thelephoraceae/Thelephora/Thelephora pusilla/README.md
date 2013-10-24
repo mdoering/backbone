@@ -1,5 +1,4 @@
-Thelephora pusilla Pers. SPECIES
-=======
+# Thelephora pusilla Pers. SPECIES
 
 #### Status
 ACCEPTED

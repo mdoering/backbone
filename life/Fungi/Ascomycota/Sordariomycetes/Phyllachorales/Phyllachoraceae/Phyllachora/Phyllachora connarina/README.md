@@ -1,5 +1,4 @@
-Phyllachora connarina Racib., 1914 SPECIES
-=======
+# Phyllachora connarina Racib., 1914 SPECIES
 
 #### Status
 ACCEPTED

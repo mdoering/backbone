@@ -1,5 +1,4 @@
-Lecidea delibuta Ach. SPECIES
-=======
+# Lecidea delibuta Ach. SPECIES
 
 #### Status
 ACCEPTED

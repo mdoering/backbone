@@ -1,5 +1,4 @@
-Lecanora mydalaea (Körb.) Stizenb. SPECIES
-=======
+# Lecanora mydalaea (Körb.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

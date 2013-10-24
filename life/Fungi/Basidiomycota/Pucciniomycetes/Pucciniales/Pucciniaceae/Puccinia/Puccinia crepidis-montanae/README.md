@@ -1,5 +1,4 @@
-Puccinia crepidis-montanae Magnus, 1904 SPECIES
-=======
+# Puccinia crepidis-montanae Magnus, 1904 SPECIES
 
 #### Status
 ACCEPTED

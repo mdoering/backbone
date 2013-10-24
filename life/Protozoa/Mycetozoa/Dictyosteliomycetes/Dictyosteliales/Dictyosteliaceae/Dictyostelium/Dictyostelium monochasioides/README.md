@@ -1,5 +1,4 @@
-Dictyostelium monochasioides H. Hagiw., 1973 SPECIES
-=======
+# Dictyostelium monochasioides H. Hagiw., 1973 SPECIES
 
 #### Status
 ACCEPTED

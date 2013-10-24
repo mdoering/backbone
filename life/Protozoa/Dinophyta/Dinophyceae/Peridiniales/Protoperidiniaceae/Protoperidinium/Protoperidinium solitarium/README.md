@@ -1,5 +1,4 @@
-Protoperidinium solitarium (Abé) Balech SPECIES
-=======
+# Protoperidinium solitarium (Abé) Balech SPECIES
 
 #### Status
 ACCEPTED

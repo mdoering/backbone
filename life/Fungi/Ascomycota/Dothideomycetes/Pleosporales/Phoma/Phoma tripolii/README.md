@@ -1,5 +1,4 @@
-Phoma tripolii Died. SPECIES
-=======
+# Phoma tripolii Died. SPECIES
 
 #### Status
 ACCEPTED

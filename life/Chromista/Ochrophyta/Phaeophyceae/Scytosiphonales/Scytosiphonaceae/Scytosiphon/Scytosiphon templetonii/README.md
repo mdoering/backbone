@@ -1,5 +1,4 @@
-Scytosiphon templetonii S. F. Gray SPECIES
-=======
+# Scytosiphon templetonii S. F. Gray SPECIES
 
 #### Status
 ACCEPTED

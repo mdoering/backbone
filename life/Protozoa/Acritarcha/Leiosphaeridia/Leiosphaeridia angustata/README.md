@@ -1,5 +1,4 @@
-Leiosphaeridia angustata (Lopukhin in Nikitina & Ogurzova, 1971) Fensome et al., 1990 SPECIES
-=======
+# Leiosphaeridia angustata (Lopukhin in Nikitina & Ogurzova, 1971) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

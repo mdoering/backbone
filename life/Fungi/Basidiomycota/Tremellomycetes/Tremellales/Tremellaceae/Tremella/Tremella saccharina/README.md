@@ -1,5 +1,4 @@
-Tremella saccharina SPECIES
-=======
+# Tremella saccharina SPECIES
 
 #### Status
 ACCEPTED

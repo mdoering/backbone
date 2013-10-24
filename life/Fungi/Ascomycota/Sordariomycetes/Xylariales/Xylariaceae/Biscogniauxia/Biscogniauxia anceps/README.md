@@ -1,14 +1,13 @@
-Nummularia anceps Sacc., 1918 SPECIES
-=======
+# Biscogniauxia anceps (Sacc.) J.D. Rogers, Y.M. Ju & Cand., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Orto Bot. Napoli 24: 28 (1918)
+Mycol. Res. 100(6): 669 (1996)
 
 #### Original name
 Nummularia anceps Sacc., 1918

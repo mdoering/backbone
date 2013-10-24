@@ -1,5 +1,4 @@
-Neottiella borealis (Eckblad) Caillet & Moyne SPECIES
-=======
+# Neottiella borealis (Eckblad) Caillet & Moyne SPECIES
 
 #### Status
 ACCEPTED

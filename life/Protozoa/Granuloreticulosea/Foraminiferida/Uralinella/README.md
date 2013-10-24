@@ -1,5 +1,4 @@
-Uralinella Bykova, 1952 GENUS
-=======
+# Uralinella Bykova, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina spegazziniana E. Horak SPECIES
-=======
+# Galerina spegazziniana E. Horak SPECIES
 
 #### Status
 ACCEPTED

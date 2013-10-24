@@ -1,5 +1,4 @@
-Puccinia echinopis Hazsl. SPECIES
-=======
+# Puccinia echinopis Hazsl. SPECIES
 
 #### Status
 ACCEPTED

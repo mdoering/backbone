@@ -1,5 +1,4 @@
-Rosellinia pistaciae Frolov SPECIES
-=======
+# Rosellinia pistaciae Frolov SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Marasmiellus pigmentatus (Bliss) Singer, 1951 SPECIES
-=======
+# Omphalia pigmentata Bliss, 1938 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lilloa 22: 300 (1951)
+Mycologia 30: 318 (1938)
 
 #### Original name
 Omphalia pigmentata Bliss, 1938

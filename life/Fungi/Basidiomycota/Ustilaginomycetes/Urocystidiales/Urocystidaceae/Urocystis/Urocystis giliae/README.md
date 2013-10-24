@@ -1,5 +1,4 @@
-Urocystis giliae Speg. SPECIES
-=======
+# Urocystis giliae Speg. SPECIES
 
 #### Status
 ACCEPTED

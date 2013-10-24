@@ -1,17 +1,16 @@
-Rickia huggerti Balazuc SPECIES
-=======
+# Rickia huggertii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bulletin du Muséum National d'Histoire Naturelle, Paris, 4 Série 2(2): 214 (1980)
 
 #### Original name
-Rickia huggerti Balazuc
+Rickia huggertii Balazuc
 
 ### Remarks
 null

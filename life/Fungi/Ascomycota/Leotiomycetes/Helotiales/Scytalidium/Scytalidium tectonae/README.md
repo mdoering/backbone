@@ -1,5 +1,4 @@
-Scytalidium tectonae Soni, Jamaluddin & R.C. Rajak SPECIES
-=======
+# Scytalidium tectonae Soni, Jamaluddin & R.C. Rajak SPECIES
 
 #### Status
 ACCEPTED

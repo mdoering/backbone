@@ -1,5 +1,4 @@
-Lecidea subvelutina Vain. SPECIES
-=======
+# Lecidea subvelutina Vain. SPECIES
 
 #### Status
 ACCEPTED

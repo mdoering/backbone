@@ -1,5 +1,4 @@
-Cyanobacteria Stanier ex Cavalier-Smith, 2002 PHYLUM
-=======
+# Cyanobacteria Stanier ex Cavalier-Smith, 2002 PHYLUM
 
 #### Status
 ACCEPTED

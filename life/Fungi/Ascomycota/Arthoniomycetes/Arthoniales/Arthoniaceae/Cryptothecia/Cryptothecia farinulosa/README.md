@@ -1,5 +1,4 @@
-Cryptothecia farinulosa Groenh. SPECIES
-=======
+# Cryptothecia farinulosa Groenh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paecilomyces reniformis Samson & H.C. Evans, 1974 SPECIES
-=======
+# Paecilomyces reniformis Samson & H.C. Evans, 1974 SPECIES
 
 #### Status
 ACCEPTED

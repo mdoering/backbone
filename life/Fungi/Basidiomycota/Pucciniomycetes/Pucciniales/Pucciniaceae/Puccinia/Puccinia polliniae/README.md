@@ -1,14 +1,13 @@
-Dicaeoma polliniae (Barclay) Kuntze, 1898 SPECIES
-=======
+# Puccinia polliniae Barclay, 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 470 (1898)
+Descr. List Ured. Simla 2: 243 (1889)
 
 #### Original name
 Puccinia polliniae Barclay, 1889

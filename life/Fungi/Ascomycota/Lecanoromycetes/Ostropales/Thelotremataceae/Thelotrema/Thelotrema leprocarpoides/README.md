@@ -1,5 +1,4 @@
-Thelotrema leprocarpoides Hale SPECIES
-=======
+# Thelotrema leprocarpoides Hale SPECIES
 
 #### Status
 ACCEPTED

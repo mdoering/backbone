@@ -1,5 +1,4 @@
-Fucus geniculatus S. Gmelin SPECIES
-=======
+# Fucus geniculatus S. Gmelin SPECIES
 
 #### Status
 ACCEPTED

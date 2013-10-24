@@ -1,5 +1,4 @@
-Dichomitus kirkii Masuka & Ryvarden, 1999 SPECIES
-=======
+# Dichomitus kirkii Masuka & Ryvarden, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora salicorniae P.A. Dang., 1888 SPECIES
-=======
+# Pleospora salicorniae P.A. Dang., 1888 SPECIES
 
 #### Status
 ACCEPTED

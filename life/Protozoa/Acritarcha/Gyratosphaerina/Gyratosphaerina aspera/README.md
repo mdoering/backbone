@@ -1,5 +1,4 @@
-Gyratosphaerina aspera Lopukhin, 1966 SPECIES
-=======
+# Gyratosphaerina aspera Lopukhin, 1966 SPECIES
 
 #### Status
 ACCEPTED

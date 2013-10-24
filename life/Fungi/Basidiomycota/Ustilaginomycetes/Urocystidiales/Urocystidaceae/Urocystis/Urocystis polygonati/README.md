@@ -1,5 +1,4 @@
-Urocystis polygonati (Lavrov) Zundel SPECIES
-=======
+# Urocystis polygonati (Lavrov) Zundel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fuliginarius Batsch SPECIES
-=======
+# Agaricus fuliginarius Batsch SPECIES
 
 #### Status
 ACCEPTED

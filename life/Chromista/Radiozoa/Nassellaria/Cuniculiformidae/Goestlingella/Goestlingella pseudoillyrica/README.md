@@ -1,5 +1,4 @@
-Goestlingella pseudoillyrica SPECIES
-=======
+# Goestlingella pseudoillyrica SPECIES
 
 #### Status
 ACCEPTED

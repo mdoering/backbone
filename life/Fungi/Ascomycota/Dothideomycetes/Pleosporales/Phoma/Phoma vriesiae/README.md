@@ -1,17 +1,16 @@
-Phoma vrieseae Speg. SPECIES
-=======
+# Phoma vriesiae Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. B. Aires, Ser. 3 23: 113 (1912)
 
 #### Original name
-Phoma vrieseae Speg.
+Phoma vriesiae Speg.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Isaria oncotympanae Kobayasi SPECIES
-=======
+# Isaria oncotympanae Kobayasi SPECIES
 
 #### Status
 ACCEPTED

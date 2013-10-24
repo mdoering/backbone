@@ -1,5 +1,4 @@
-Haplographium saponis (Berk. & Broome) Sacc. SPECIES
-=======
+# Haplographium saponis (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

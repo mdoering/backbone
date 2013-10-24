@@ -1,5 +1,4 @@
-Protocystis Wallich, 1862 GENUS
-=======
+# Protocystis Wallich, 1862 GENUS
 
 #### Status
 ACCEPTED

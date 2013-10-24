@@ -1,5 +1,4 @@
-Lecophagus M.W. Dick GENUS
-=======
+# Lecophagus M.W. Dick GENUS
 
 #### Status
 ACCEPTED

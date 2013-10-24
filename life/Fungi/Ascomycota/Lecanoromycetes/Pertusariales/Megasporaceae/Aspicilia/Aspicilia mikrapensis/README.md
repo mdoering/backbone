@@ -1,5 +1,4 @@
-Aspicilia mikrapensis SPECIES
-=======
+# Aspicilia mikrapensis SPECIES
 
 #### Status
 ACCEPTED

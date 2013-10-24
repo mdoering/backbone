@@ -1,5 +1,4 @@
-Plagiopogon Stein, 1859 GENUS
-=======
+# Plagiopogon Stein, 1859 GENUS
 
 #### Status
 ACCEPTED

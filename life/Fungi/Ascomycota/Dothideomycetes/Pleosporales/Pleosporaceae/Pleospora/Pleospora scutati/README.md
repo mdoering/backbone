@@ -1,17 +1,16 @@
-Pleospora scutatae Gucevic SPECIES
-=======
+# Pleospora scutati Gucevic SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. , 1964 8: 116 (1971)
 
 #### Original name
-Pleospora scutatae Gucevic
+Pleospora scutati Gucevic
 
 ### Remarks
 null

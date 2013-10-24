@@ -1,5 +1,4 @@
-Ceratopodium elegans Sorokin SPECIES
-=======
+# Ceratopodium elegans Sorokin SPECIES
 
 #### Status
 ACCEPTED

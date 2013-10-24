@@ -1,5 +1,4 @@
-Aureococcus Hargraves & Sieburth, 1988 GENUS
-=======
+# Aureococcus Hargraves & Sieburth, 1988 GENUS
 
 #### Status
 ACCEPTED

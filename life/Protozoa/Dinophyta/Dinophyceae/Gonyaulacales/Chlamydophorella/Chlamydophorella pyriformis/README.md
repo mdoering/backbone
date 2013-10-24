@@ -1,5 +1,4 @@
-Chlamydophorella pyriformis (T F. Vozzhennikova) R.J. Davey SPECIES
-=======
+# Chlamydophorella pyriformis (T F. Vozzhennikova) R.J. Davey SPECIES
 
 #### Status
 ACCEPTED

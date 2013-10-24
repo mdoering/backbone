@@ -1,5 +1,4 @@
-Trachyoligotriletes minutus (Naumova, 1949) Timofeev, 1960 SPECIES
-=======
+# Trachyoligotriletes minutus (Naumova, 1949) Timofeev, 1960 SPECIES
 
 #### Status
 ACCEPTED

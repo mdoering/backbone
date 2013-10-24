@@ -1,5 +1,4 @@
-Phomopsis elaeagnicola C.Q. Chang, M.M. Xiang & P.K. Chi SPECIES
-=======
+# Phomopsis elaeagnicola C.Q. Chang, M.M. Xiang & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

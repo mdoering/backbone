@@ -1,5 +1,4 @@
-Melasmia ingae F. Stevens SPECIES
-=======
+# Melasmia ingae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

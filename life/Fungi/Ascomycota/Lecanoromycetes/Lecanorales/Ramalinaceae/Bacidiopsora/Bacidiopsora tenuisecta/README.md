@@ -1,5 +1,4 @@
-Bacidiopsora tenuisecta (Vain.) Aptroot SPECIES
-=======
+# Bacidiopsora tenuisecta (Vain.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

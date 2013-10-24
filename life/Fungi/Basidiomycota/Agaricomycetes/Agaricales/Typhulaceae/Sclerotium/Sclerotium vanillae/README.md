@@ -1,5 +1,4 @@
-Sclerotium vanillae Cif. SPECIES
-=======
+# Sclerotium vanillae Cif. SPECIES
 
 #### Status
 ACCEPTED

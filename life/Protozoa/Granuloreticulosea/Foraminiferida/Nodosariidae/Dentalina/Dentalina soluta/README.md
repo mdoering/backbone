@@ -1,5 +1,4 @@
-Dentalina soluta Reuss SPECIES
-=======
+# Dentalina soluta Reuss SPECIES
 
 #### Status
 ACCEPTED

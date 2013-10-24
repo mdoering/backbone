@@ -1,5 +1,4 @@
-Stichophaenidium Haeckel, 1887 GENUS
-=======
+# Stichophaenidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

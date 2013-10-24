@@ -1,8 +1,7 @@
-Flavobacterium meningosepticum King, 1959 (Approved Lists, 1980) SPECIES
-=======
+# Elizabethkingia meningoseptica (King, 1959) Kim et al., 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Peronospora lallemantiae Golovin & Kalymb. SPECIES
-=======
+# Peronospora lallemantiae Golovin & Kalymb. SPECIES
 
 #### Status
 ACCEPTED

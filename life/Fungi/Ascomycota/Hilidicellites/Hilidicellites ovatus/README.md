@@ -1,5 +1,4 @@
-Hilidicellites ovatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
-=======
+# Hilidicellites ovatus (P. Ke & Z.Y. Shi) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

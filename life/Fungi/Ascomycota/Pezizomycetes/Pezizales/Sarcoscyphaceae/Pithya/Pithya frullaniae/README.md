@@ -1,17 +1,16 @@
-Pitya frullaniae Chalaud SPECIES
-=======
+# Pithya frullaniae Chalaud SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Rev. Bryol. Lichénol. 13: 120 (1942)
 
 #### Original name
-Pitya frullaniae Chalaud
+Pithya frullaniae Chalaud
 
 ### Remarks
 null

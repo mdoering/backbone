@@ -1,17 +1,16 @@
-Boletus hongoae T.N. Lakh. & Sagar SPECIES
-=======
+# Boletus hongoi T.N. Lakh. & Sagar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Lakhanpal, Stud. Cryptog. Bot. 1: 46 (1996)
 
 #### Original name
-Boletus hongoae T.N. Lakh. & Sagar
+Boletus hongoi T.N. Lakh. & Sagar
 
 ### Remarks
 null

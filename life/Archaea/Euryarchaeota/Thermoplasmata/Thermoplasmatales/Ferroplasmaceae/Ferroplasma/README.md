@@ -1,5 +1,4 @@
-Ferroplasma Golyshina et al., 2000 GENUS
-=======
+# Ferroplasma Golyshina et al., 2000 GENUS
 
 #### Status
 ACCEPTED

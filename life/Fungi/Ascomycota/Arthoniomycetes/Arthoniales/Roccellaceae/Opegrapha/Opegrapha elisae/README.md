@@ -1,5 +1,4 @@
-Opegrapha elisae (A. Massal.) Stizenb. SPECIES
-=======
+# Opegrapha elisae (A. Massal.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

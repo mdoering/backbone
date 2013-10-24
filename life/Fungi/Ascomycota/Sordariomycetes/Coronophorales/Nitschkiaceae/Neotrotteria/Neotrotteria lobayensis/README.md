@@ -1,5 +1,4 @@
-Neotrotteria lobayensis Saccas SPECIES
-=======
+# Neotrotteria lobayensis Saccas SPECIES
 
 #### Status
 ACCEPTED

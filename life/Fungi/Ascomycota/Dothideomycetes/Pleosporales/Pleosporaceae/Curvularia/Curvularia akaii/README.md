@@ -1,5 +1,4 @@
-Curvularia akaii Tsuda & Ueyama SPECIES
-=======
+# Curvularia akaii Tsuda & Ueyama SPECIES
 
 #### Status
 ACCEPTED

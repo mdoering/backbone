@@ -1,5 +1,4 @@
-Ophiostoma gossypinum var. gossypinum VARIETY
-=======
+# Ophiostoma gossypinum (R.W. Davidson) J.J. Taylor SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 58(2): 112 (1976)
 
 #### Original name
-Ophiostoma gossypinum var. gossypinum
+Ceratocystis gossypina R.W. Davidson
 
 ### Remarks
 null

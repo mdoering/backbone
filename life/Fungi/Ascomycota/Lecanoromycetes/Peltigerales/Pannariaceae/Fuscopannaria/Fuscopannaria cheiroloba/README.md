@@ -1,5 +1,4 @@
-Fuscopannaria cheiroloba (Müll. Arg.) P. M. Jørg. SPECIES
-=======
+# Fuscopannaria cheiroloba (Müll. Arg.) P. M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

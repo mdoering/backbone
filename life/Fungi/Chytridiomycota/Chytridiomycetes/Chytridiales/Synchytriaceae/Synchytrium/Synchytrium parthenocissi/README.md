@@ -1,5 +1,4 @@
-Synchytrium parthenocissi M.T. Cook SPECIES
-=======
+# Synchytrium parthenocissi M.T. Cook SPECIES
 
 #### Status
 ACCEPTED

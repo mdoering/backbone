@@ -1,5 +1,4 @@
-Peronospora media Gäum. SPECIES
-=======
+# Peronospora media Gäum. SPECIES
 
 #### Status
 ACCEPTED

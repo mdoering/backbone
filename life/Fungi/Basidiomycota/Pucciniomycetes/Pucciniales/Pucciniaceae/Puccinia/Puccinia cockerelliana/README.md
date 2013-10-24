@@ -1,5 +1,4 @@
-Puccinia cockerelliana Bethel SPECIES
-=======
+# Puccinia cockerelliana Bethel SPECIES
 
 #### Status
 ACCEPTED

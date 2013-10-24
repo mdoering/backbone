@@ -1,5 +1,4 @@
-Sphaerella phragmitis Ellis & Everh. SPECIES
-=======
+# Sphaerella phragmitis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

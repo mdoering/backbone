@@ -1,5 +1,4 @@
-Caloplaca megalariicola Øvstedal SPECIES
-=======
+# Caloplaca megalariicola Øvstedal SPECIES
 
 #### Status
 ACCEPTED

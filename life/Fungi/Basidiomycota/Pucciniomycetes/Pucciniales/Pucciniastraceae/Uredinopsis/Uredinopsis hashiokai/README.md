@@ -1,17 +1,16 @@
-Uredinopsis hashiokae Hirats. f. SPECIES
-=======
+# Uredinopsis hashiokai Hirats. f. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mem. Tottori Agric. Coll. 4: 82 (1936)
 
 #### Original name
-Uredinopsis hashiokae Hirats. f.
+Uredinopsis hashiokai Hirats. f.
 
 ### Remarks
 null

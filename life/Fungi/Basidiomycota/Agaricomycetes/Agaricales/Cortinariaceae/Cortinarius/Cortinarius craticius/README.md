@@ -1,5 +1,4 @@
-Cortinarius craticius Fr. SPECIES
-=======
+# Cortinarius craticius Fr. SPECIES
 
 #### Status
 ACCEPTED

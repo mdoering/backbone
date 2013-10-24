@@ -1,5 +1,4 @@
-Opegrapha duckei Bat., J. L. Bezerra & Cavalc. ex Lücking & Sérus. SPECIES
-=======
+# Opegrapha duckei Bat., J. L. Bezerra & Cavalc. ex Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

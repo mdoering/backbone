@@ -1,5 +1,4 @@
-Meliola guareicola F. Stevens SPECIES
-=======
+# Meliola guareicola F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma finkii Lloyd SPECIES
-=======
+# Tulostoma finkii Lloyd SPECIES
 
 #### Status
 ACCEPTED

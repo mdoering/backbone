@@ -1,5 +1,4 @@
-Coniothecium meiomerum Speg. SPECIES
-=======
+# Coniothecium meiomerum Speg. SPECIES
 
 #### Status
 ACCEPTED

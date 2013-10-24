@@ -1,5 +1,4 @@
-Halorubrum McGenity & Grant, 1996 GENUS
-=======
+# Halorubrum McGenity & Grant, 1996 GENUS
 
 #### Status
 ACCEPTED

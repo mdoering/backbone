@@ -1,5 +1,4 @@
-Catillaria weinmanniae Zahlbr. SPECIES
-=======
+# Catillaria weinmanniae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

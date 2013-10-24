@@ -1,5 +1,4 @@
-Nyctotherus panesthiae Yamasaki, 1939 SPECIES
-=======
+# Nyctotherus panesthiae Yamasaki, 1939 SPECIES
 
 #### Status
 ACCEPTED

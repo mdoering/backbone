@@ -1,5 +1,4 @@
-Hypotrachyna gigas (Kurok.) Hale SPECIES
-=======
+# Hypotrachyna gigas (Kurok.) Hale SPECIES
 
 #### Status
 ACCEPTED

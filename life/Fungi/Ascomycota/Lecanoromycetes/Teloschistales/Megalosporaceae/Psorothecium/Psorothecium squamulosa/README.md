@@ -1,5 +1,4 @@
-Psorothecium squamulosa Zahlbr. SPECIES
-=======
+# Psorothecium squamulosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

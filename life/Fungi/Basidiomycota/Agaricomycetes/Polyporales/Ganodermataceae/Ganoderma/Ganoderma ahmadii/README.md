@@ -1,5 +1,4 @@
-Ganoderma ahmadii Steyaert, 1972 SPECIES
-=======
+# Ganoderma ahmadii Steyaert, 1972 SPECIES
 
 #### Status
 ACCEPTED

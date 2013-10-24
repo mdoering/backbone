@@ -1,5 +1,4 @@
-Phyllosticta impatientis Siemaszko SPECIES
-=======
+# Phyllosticta impatientis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

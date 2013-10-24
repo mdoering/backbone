@@ -1,5 +1,4 @@
-Stigmatolemma poriforme (Henn.) W.B. Cooke SPECIES
-=======
+# Stigmatolemma poriforme (Henn.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Urophlyctis platensis Speg. SPECIES
-=======
+# Urophlyctis platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

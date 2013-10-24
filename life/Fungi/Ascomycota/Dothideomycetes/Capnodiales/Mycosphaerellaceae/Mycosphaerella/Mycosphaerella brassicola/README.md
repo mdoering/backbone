@@ -1,5 +1,4 @@
-Mycosphaerella brassicola (Duby) Lindau, 1897 SPECIES
-=======
+# Mycosphaerella brassicola (Duby) Lindau, 1897 SPECIES
 
 #### Status
 ACCEPTED

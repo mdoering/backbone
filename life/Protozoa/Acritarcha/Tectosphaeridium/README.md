@@ -1,5 +1,4 @@
-Tectosphaeridium Dufka, 1990 GENUS
-=======
+# Tectosphaeridium Dufka, 1990 GENUS
 
 #### Status
 ACCEPTED

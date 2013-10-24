@@ -1,5 +1,4 @@
-Oscillatoria corakiana Playfair SPECIES
-=======
+# Oscillatoria corakiana Playfair SPECIES
 
 #### Status
 ACCEPTED

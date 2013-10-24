@@ -1,5 +1,4 @@
-Petalospyris Ehrenberg, 1847 GENUS
-=======
+# Petalospyris Ehrenberg, 1847 GENUS
 
 #### Status
 ACCEPTED

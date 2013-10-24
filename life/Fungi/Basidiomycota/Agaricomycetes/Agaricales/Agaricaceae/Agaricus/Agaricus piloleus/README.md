@@ -1,5 +1,4 @@
-Agaricus piloleus Lév. SPECIES
-=======
+# Agaricus piloleus Lév. SPECIES
 
 #### Status
 ACCEPTED

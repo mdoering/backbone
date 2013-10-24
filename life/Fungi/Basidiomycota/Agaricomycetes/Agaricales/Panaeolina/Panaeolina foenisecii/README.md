@@ -1,17 +1,16 @@
-Panaeolus foenisecii var. foenisecii VARIETY
-=======
+# Panaeolina foenisecii (Pers.) Maire, 1933 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Le Botaniste 17: 187 (1926)
+Trab. Mus. Ciènc. nat. Barcelona, sèr. bot. 15(2): 109 (1933)
 
 #### Original name
-Panaeolus foenisecii var. foenisecii
+Agaricus foenisecii Pers., 1800
 
 ### Remarks
 null

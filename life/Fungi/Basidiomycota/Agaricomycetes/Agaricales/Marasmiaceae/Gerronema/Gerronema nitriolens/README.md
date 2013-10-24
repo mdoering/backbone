@@ -1,5 +1,4 @@
-Gerronema nitriolens (J. Favre) Clémençon SPECIES
-=======
+# Gerronema nitriolens (J. Favre) Clémençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Punctelia pseudocoralloidea (Gyeln.) Elix & Kantvilas SPECIES
-=======
+# Punctelia pseudocoralloidea (Gyeln.) Elix & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

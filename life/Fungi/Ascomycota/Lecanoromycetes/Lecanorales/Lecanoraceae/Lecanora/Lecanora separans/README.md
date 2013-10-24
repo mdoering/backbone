@@ -1,5 +1,4 @@
-Lecanora separans H. Magn. SPECIES
-=======
+# Lecanora separans H. Magn. SPECIES
 
 #### Status
 ACCEPTED

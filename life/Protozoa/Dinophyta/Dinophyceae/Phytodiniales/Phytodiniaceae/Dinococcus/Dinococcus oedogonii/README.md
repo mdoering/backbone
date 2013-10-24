@@ -1,8 +1,7 @@
-Cystodinium brevipes Geitler SPECIES
-=======
+# Dinococcus oedogonii (P. Richter) Fott SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Melanospora stysanophora Mattir. SPECIES
-=======
+# Melanospora stysanophora Mattir. SPECIES
 
 #### Status
 ACCEPTED

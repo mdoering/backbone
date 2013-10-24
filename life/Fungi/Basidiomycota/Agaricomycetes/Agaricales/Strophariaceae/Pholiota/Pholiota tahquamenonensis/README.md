@@ -1,5 +1,4 @@
-Pholiota tahquamenonensis A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota tahquamenonensis A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

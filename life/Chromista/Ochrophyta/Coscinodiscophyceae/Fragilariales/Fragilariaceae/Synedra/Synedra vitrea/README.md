@@ -1,5 +1,4 @@
-Synedra vitrea var. distorta Meister VARIETY
-=======
+# Synedra vitrea Bory ex Kãtzing SPECIES
 
 #### Status
 ACCEPTED

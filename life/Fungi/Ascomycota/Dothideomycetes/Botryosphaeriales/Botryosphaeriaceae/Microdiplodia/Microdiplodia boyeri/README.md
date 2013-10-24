@@ -1,5 +1,4 @@
-Microdiplodia boyeri (Sacc. & P. Syd.) Tassi SPECIES
-=======
+# Microdiplodia boyeri (Sacc. & P. Syd.) Tassi SPECIES
 
 #### Status
 ACCEPTED

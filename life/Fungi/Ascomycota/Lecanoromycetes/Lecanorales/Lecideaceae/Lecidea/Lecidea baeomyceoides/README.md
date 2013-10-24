@@ -1,5 +1,4 @@
-Lecidea baeomyceoides H. Magn. SPECIES
-=======
+# Lecidea baeomyceoides H. Magn. SPECIES
 
 #### Status
 ACCEPTED

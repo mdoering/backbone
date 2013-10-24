@@ -1,5 +1,4 @@
-Phyllosticta jasminica Thüm. SPECIES
-=======
+# Phyllosticta jasminica Thüm. SPECIES
 
 #### Status
 ACCEPTED

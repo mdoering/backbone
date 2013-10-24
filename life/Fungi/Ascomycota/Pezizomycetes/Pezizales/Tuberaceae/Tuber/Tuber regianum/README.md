@@ -1,5 +1,4 @@
-Tuber regianum Montecchi & Lazzari SPECIES
-=======
+# Tuber regianum Montecchi & Lazzari SPECIES
 
 #### Status
 ACCEPTED

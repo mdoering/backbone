@@ -1,5 +1,4 @@
-Ploesconia torquescens Dumas, 1937 SPECIES
-=======
+# Ploesconia torquescens Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

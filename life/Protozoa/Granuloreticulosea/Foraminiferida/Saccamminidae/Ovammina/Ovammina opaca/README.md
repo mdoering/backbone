@@ -1,5 +1,4 @@
-Ovammina opaca Dahlgren, 1962 SPECIES
-=======
+# Ovammina opaca Dahlgren, 1962 SPECIES
 
 #### Status
 ACCEPTED

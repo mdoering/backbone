@@ -1,5 +1,4 @@
-Govindua shoreae Bat. & H. Maia, 1960 SPECIES
-=======
+# Govindua shoreae Bat. & H. Maia, 1960 SPECIES
 
 #### Status
 ACCEPTED

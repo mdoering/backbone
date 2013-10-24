@@ -1,5 +1,4 @@
-Pouzarella splendens Mazzer SPECIES
-=======
+# Pouzarella splendens Mazzer SPECIES
 
 #### Status
 ACCEPTED

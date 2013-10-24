@@ -1,5 +1,4 @@
-Mollisia stromaticola Dennis & Spooner, 1993 SPECIES
-=======
+# Mollisia stromaticola Dennis & Spooner, 1993 SPECIES
 
 #### Status
 ACCEPTED

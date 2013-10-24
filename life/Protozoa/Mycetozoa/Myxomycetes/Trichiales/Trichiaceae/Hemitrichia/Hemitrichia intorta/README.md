@@ -1,14 +1,13 @@
-Hemiarcyria intorta Lister, 1891 SPECIES
-=======
+# Hemitrichia intorta (Lister) Lister, 1894 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. , London 29: 268 (1891)
+Monogr. Mycetozoa (London) 176 (1894)
 
 #### Original name
 Hemiarcyria intorta Lister, 1891

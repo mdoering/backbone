@@ -1,5 +1,4 @@
-Entophysalites A.A. Laristschev, 1952 GENUS
-=======
+# Entophysalites A.A. Laristschev, 1952 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pirispora Faurel & Schotter GENUS
-=======
+# Pirispora Faurel & Schotter GENUS
 
 #### Status
 ACCEPTED

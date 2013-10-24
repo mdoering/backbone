@@ -1,5 +1,4 @@
-Calpionella breveliptica SPECIES
-=======
+# Calpionella breveliptica SPECIES
 
 #### Status
 ACCEPTED

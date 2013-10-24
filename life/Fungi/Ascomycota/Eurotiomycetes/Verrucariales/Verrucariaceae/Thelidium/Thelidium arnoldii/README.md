@@ -1,5 +1,4 @@
-Thelidium arnoldii Zschacke SPECIES
-=======
+# Thelidium arnoldii Zschacke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus sterilomarginatus Peck SPECIES
-=======
+# Agaricus sterilomarginatus Peck SPECIES
 
 #### Status
 ACCEPTED

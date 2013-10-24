@@ -1,5 +1,4 @@
-Astrononion Cushman & Edwards, 1937 GENUS
-=======
+# Astrononion Cushman & Edwards, 1937 GENUS
 
 #### Status
 ACCEPTED

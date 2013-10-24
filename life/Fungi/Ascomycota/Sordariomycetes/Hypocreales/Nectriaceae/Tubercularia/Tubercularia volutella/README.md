@@ -1,5 +1,4 @@
-Tubercularia volutella Corda SPECIES
-=======
+# Tubercularia volutella Corda SPECIES
 
 #### Status
 ACCEPTED

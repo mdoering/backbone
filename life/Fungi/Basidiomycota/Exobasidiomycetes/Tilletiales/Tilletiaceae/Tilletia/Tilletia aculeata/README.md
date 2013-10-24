@@ -1,5 +1,4 @@
-Tilletia aculeata SPECIES
-=======
+# Tilletia aculeata SPECIES
 
 #### Status
 ACCEPTED

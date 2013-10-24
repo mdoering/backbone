@@ -1,5 +1,4 @@
-Phacus fominii Roll SPECIES
-=======
+# Phacus fominii Roll SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Metasphaeria sassafrasicola Tehon & G.L. Stout SPECIES
-=======
+# Metasphaeria sassafrasicola Tehon & G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

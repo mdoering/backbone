@@ -1,5 +1,4 @@
-Desulfurobacteriaceae L'Haridon, Reysenbach, Tindall, Schonheit, Banta, Johnsen, Schumann, Gambacorta, Stackebrandt & Jeanthon, 2006 FAMILY
-=======
+# Desulfurobacteriaceae L'Haridon, Reysenbach, Tindall, Schonheit, Banta, Johnsen, Schumann, Gambacorta, Stackebrandt & Jeanthon, 2006 FAMILY
 
 #### Status
 ACCEPTED

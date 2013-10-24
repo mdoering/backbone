@@ -1,5 +1,4 @@
-Blepharisma Hirshfield, Isquith & Bhandary, 1965 GENUS
-=======
+# Blepharisma Hirshfield, Isquith & Bhandary, 1965 GENUS
 
 #### Status
 ACCEPTED

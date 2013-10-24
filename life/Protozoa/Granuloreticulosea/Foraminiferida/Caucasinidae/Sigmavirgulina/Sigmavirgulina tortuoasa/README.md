@@ -1,5 +1,4 @@
-Sigmavirgulina tortuoasa (Brady, 1881) SPECIES
-=======
+# Sigmavirgulina tortuoasa (Brady, 1881) SPECIES
 
 #### Status
 ACCEPTED

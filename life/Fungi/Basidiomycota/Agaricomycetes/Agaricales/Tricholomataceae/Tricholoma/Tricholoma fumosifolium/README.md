@@ -1,5 +1,4 @@
-Tricholoma fumosifolium Hesler SPECIES
-=======
+# Tricholoma fumosifolium Hesler SPECIES
 
 #### Status
 ACCEPTED

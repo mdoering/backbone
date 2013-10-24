@@ -1,5 +1,4 @@
-Glyphis graphica Fr. SPECIES
-=======
+# Glyphis graphica Fr. SPECIES
 
 #### Status
 ACCEPTED

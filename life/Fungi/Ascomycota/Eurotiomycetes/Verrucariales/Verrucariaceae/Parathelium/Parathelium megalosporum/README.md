@@ -1,5 +1,4 @@
-Parathelium megalosporum (Kremp.) Müll. Arg. SPECIES
-=======
+# Parathelium megalosporum (Kremp.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

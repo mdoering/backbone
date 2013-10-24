@@ -1,5 +1,4 @@
-Blitridium punctum Pat. SPECIES
-=======
+# Blitridium punctum Pat. SPECIES
 
 #### Status
 ACCEPTED

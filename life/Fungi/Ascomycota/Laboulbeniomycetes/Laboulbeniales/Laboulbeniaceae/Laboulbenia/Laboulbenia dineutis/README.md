@@ -1,5 +1,4 @@
-Laboulbenia dineutis Thaxt. SPECIES
-=======
+# Laboulbenia dineutis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

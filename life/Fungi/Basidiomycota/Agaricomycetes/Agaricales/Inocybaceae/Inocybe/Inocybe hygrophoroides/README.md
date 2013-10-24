@@ -1,5 +1,4 @@
-Inocybe hygrophoroides Shchukin SPECIES
-=======
+# Inocybe hygrophoroides Shchukin SPECIES
 
 #### Status
 ACCEPTED

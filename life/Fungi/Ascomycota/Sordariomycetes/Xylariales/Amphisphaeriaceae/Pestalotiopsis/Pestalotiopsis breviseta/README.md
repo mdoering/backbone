@@ -1,14 +1,13 @@
-Pestalotia breviseta Sacc., 1877 SPECIES
-=======
+# Pestalotiopsis breviseta (Sacc.) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Jard. bot. État Brux. 19: 316 (1949)
 
 #### Original name
 Pestalotia breviseta Sacc., 1877

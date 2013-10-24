@@ -1,5 +1,4 @@
-Uredo vernoniicola Petch SPECIES
-=======
+# Uredo vernoniicola Petch SPECIES
 
 #### Status
 ACCEPTED

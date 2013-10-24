@@ -1,5 +1,4 @@
-Amanita aurantiaca Pers., 1801 SPECIES
-=======
+# Amanita aurantiaca Pers., 1801 SPECIES
 
 #### Status
 ACCEPTED

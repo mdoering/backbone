@@ -1,5 +1,4 @@
-Monosporium olivaceum var. olivaceum VARIETY
-=======
+# Monosporium olivaceum Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Monosporium olivaceum var. olivaceum
+Monosporium olivaceum Cooke & Massee
 
 ### Remarks
 null

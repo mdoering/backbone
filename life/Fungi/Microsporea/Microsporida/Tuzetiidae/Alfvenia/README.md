@@ -1,5 +1,4 @@
-Alfvenia J.I.R. Larsson GENUS
-=======
+# Alfvenia J.I.R. Larsson GENUS
 
 #### Status
 ACCEPTED

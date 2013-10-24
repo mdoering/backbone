@@ -1,5 +1,4 @@
-Tricystis Hamon, 1951 GENUS
-=======
+# Tricystis Hamon, 1951 GENUS
 
 #### Status
 ACCEPTED

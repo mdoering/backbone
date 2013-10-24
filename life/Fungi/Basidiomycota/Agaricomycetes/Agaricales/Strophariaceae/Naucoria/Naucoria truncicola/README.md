@@ -1,5 +1,4 @@
-Naucoria truncicola Velen. SPECIES
-=======
+# Naucoria truncicola Velen. SPECIES
 
 #### Status
 ACCEPTED

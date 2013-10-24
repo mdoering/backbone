@@ -1,5 +1,4 @@
-Acanthostomella obscura SPECIES
-=======
+# Acanthostomella obscura SPECIES
 
 #### Status
 ACCEPTED

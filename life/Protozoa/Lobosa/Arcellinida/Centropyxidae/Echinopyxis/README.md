@@ -1,5 +1,4 @@
-Echinopyxis Claparède & Lachmann, 1860 GENUS
-=======
+# Echinopyxis Claparède & Lachmann, 1860 GENUS
 
 #### Status
 ACCEPTED

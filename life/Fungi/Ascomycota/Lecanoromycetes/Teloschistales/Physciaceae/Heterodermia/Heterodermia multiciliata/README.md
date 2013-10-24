@@ -1,5 +1,4 @@
-Heterodermia multiciliata (Kurok.) Trass SPECIES
-=======
+# Heterodermia multiciliata (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

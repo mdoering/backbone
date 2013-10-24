@@ -1,5 +1,4 @@
-Coelosphaerium conferta West & West SPECIES
-=======
+# Coelosphaerium conferta West & West SPECIES
 
 #### Status
 ACCEPTED

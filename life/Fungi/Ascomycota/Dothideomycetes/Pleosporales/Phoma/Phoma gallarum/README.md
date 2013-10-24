@@ -1,5 +1,4 @@
-Phoma gallarum Briard, 1888 SPECIES
-=======
+# Phoma gallarum Briard, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum sinclairii J.D. Hooker & Harvey SPECIES
-=======
+# Sargassum sinclairii J.D. Hooker & Harvey SPECIES
 
 #### Status
 ACCEPTED

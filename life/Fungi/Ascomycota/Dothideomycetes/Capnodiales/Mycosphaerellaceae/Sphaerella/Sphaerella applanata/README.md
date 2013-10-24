@@ -1,5 +1,4 @@
-Sphaerella applanata Ellis & Everh. SPECIES
-=======
+# Sphaerella applanata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

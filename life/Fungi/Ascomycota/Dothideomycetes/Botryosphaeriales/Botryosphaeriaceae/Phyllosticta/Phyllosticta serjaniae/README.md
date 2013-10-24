@@ -1,5 +1,4 @@
-Phyllosticta serjaniae Gutner SPECIES
-=======
+# Phyllosticta serjaniae Gutner SPECIES
 
 #### Status
 ACCEPTED

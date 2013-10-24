@@ -1,5 +1,4 @@
-Puccinia arechavaletae Speg. SPECIES
-=======
+# Puccinia arechavaletae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllachora amyridicola Seaver, 1928 SPECIES
-=======
+# Phyllachora amyridicola Seaver, 1928 SPECIES
 
 #### Status
 ACCEPTED

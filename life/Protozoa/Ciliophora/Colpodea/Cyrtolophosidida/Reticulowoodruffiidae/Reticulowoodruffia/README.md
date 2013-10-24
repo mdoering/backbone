@@ -1,5 +1,4 @@
-Reticulowoodruffia Foissner, 1993 GENUS
-=======
+# Reticulowoodruffia Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

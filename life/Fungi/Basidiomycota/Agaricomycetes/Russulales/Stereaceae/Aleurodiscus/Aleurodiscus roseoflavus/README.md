@@ -1,5 +1,4 @@
-Aleurodiscus roseoflavus Rick, 1934 SPECIES
-=======
+# Aleurodiscus roseoflavus Rick, 1934 SPECIES
 
 #### Status
 ACCEPTED

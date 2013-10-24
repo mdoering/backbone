@@ -1,5 +1,4 @@
-Gloeosporium rosicola B.H. Davis SPECIES
-=======
+# Gloeosporium rosicola B.H. Davis SPECIES
 
 #### Status
 ACCEPTED

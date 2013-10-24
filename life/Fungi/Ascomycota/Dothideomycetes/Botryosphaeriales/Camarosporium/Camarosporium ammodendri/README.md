@@ -1,5 +1,4 @@
-Camarosporium ammodendri Kalymb. SPECIES
-=======
+# Camarosporium ammodendri Kalymb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lloydella punctata Rick SPECIES
-=======
+# Lloydella punctata Rick SPECIES
 
 #### Status
 ACCEPTED

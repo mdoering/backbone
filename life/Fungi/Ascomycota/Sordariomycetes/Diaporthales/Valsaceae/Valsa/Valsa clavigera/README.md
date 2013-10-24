@@ -1,5 +1,4 @@
-Valsa clavigera Dearn. & Barthol. SPECIES
-=======
+# Valsa clavigera Dearn. & Barthol. SPECIES
 
 #### Status
 ACCEPTED

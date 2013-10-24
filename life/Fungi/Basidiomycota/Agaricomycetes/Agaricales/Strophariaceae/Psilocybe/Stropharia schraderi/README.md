@@ -1,5 +1,4 @@
-Stropharia schraderi Peck SPECIES
-=======
+# Stropharia schraderi Peck SPECIES
 
 #### Status
 ACCEPTED

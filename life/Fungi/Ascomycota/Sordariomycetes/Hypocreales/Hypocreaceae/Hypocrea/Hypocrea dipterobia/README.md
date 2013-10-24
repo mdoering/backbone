@@ -1,5 +1,4 @@
-Hypocrea dipterobia Samuels & Rogerson SPECIES
-=======
+# Hypocrea dipterobia Samuels & Rogerson SPECIES
 
 #### Status
 ACCEPTED

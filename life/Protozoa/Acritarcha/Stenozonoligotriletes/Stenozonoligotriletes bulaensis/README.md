@@ -1,5 +1,4 @@
-Stenozonoligotriletes bulaensis Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
-=======
+# Stenozonoligotriletes bulaensis Rudavskaya in Rudavskaya & Timofeev, 1963 SPECIES
 
 #### Status
 ACCEPTED

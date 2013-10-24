@@ -1,5 +1,4 @@
-Puccinia schizocodonis Pat. SPECIES
-=======
+# Puccinia schizocodonis Pat. SPECIES
 
 #### Status
 ACCEPTED

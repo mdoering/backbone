@@ -1,5 +1,4 @@
-Coniothyrium oxystomum (Roum. & Sacc.) Kuntze SPECIES
-=======
+# Coniothyrium oxystomum (Roum. & Sacc.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

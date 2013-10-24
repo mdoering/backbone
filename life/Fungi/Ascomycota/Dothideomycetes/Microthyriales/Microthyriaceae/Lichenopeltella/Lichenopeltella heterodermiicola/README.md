@@ -1,5 +1,4 @@
-Lichenopeltella heterodermiicola M.S. Cole & D. Hawksw. SPECIES
-=======
+# Lichenopeltella heterodermiicola M.S. Cole & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

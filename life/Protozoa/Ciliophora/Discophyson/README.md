@@ -1,5 +1,4 @@
-Discophyson Jankowski, 1985 GENUS
-=======
+# Discophyson Jankowski, 1985 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microdiplodia galbulorum (Brunaud) Tassi SPECIES
-=======
+# Microdiplodia galbulorum (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

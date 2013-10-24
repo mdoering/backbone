@@ -1,17 +1,16 @@
-Paraparmelia wirthii Elix SPECIES
-=======
+# Xanthoparmelia wirthii (Elix) Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 87: 402 (2003)
 
 #### Original name
-null
+Paraparmelia wirthii Elix
 
 ### Remarks
 null

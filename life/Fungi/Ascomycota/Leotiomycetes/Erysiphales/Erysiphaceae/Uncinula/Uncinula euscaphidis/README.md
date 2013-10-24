@@ -1,5 +1,4 @@
-Uncinula euscaphidis D.Z. Xie SPECIES
-=======
+# Uncinula euscaphidis D.Z. Xie SPECIES
 
 #### Status
 ACCEPTED

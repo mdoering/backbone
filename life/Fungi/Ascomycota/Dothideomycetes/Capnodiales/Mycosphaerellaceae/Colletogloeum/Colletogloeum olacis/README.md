@@ -1,5 +1,4 @@
-Colletogloeum olacis B. Sutton SPECIES
-=======
+# Colletogloeum olacis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

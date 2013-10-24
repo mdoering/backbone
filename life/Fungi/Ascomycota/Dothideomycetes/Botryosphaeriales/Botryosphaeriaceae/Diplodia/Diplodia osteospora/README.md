@@ -1,5 +1,4 @@
-Diplodia osteospora Tassi SPECIES
-=======
+# Diplodia osteospora Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterolithes Sujkowski, 1931 GENUS
-=======
+# Asterolithes Sujkowski, 1931 GENUS
 
 #### Status
 ACCEPTED

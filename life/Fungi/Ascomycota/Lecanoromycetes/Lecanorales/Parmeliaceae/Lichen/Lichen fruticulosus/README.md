@@ -1,5 +1,4 @@
-Lichen fruticulosus Dubois SPECIES
-=======
+# Lichen fruticulosus Dubois SPECIES
 
 #### Status
 ACCEPTED

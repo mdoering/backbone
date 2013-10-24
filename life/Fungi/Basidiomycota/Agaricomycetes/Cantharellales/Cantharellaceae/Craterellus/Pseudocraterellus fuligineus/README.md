@@ -1,5 +1,4 @@
-Pseudocraterellus fuligineus (Corner) Corner SPECIES
-=======
+# Pseudocraterellus fuligineus (Corner) Corner SPECIES
 
 #### Status
 ACCEPTED

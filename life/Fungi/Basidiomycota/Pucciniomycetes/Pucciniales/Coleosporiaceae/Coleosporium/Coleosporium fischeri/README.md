@@ -1,5 +1,4 @@
-Coleosporium fischeri Mayor SPECIES
-=======
+# Coleosporium fischeri Mayor SPECIES
 
 #### Status
 ACCEPTED

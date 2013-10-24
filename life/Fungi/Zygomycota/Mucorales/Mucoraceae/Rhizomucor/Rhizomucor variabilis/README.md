@@ -1,5 +1,4 @@
-Rhizomucor variabilis var. variabilis VARIETY
-=======
+# Rhizomucor variabilis R.Y. Zheng & G.Q. Chen, 1991 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycosystema, Suppl. 4: 47 (1991)
+null
 
 #### Original name
-Rhizomucor variabilis var. variabilis
+null
 
 ### Remarks
 null

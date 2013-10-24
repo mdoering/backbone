@@ -1,5 +1,4 @@
-Aurapex penicillata Gryzenh. & M.J. Wingf., 2006 SPECIES
-=======
+# Aurapex penicillata Gryzenh. & M.J. Wingf., 2006 SPECIES
 
 #### Status
 ACCEPTED

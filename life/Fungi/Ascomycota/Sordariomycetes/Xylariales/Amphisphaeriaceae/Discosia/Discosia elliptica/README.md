@@ -1,5 +1,4 @@
-Discosia elliptica Fresen. SPECIES
-=======
+# Discosia elliptica Fresen. SPECIES
 
 #### Status
 ACCEPTED

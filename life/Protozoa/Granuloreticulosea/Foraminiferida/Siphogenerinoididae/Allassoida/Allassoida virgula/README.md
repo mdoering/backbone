@@ -1,5 +1,4 @@
-Allassoida virgula (Brady, 1879) SPECIES
-=======
+# Allassoida virgula (Brady, 1879) SPECIES
 
 #### Status
 ACCEPTED

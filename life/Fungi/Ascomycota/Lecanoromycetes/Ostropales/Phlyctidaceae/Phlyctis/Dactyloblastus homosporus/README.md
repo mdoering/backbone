@@ -1,5 +1,4 @@
-Dactyloblastus homosporus Anzi SPECIES
-=======
+# Dactyloblastus homosporus Anzi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia tetradeniae (Berk. & Broome) Sacc. SPECIES
-=======
+# Rosellinia tetradeniae (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

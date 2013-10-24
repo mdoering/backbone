@@ -1,5 +1,4 @@
-Aporidicellaesporites Frunzescu & Bacaran GENUS
-=======
+# Aporidicellaesporites Frunzescu & Bacaran GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora arnebiae Golovin SPECIES
-=======
+# Peronospora arnebiae Golovin SPECIES
 
 #### Status
 ACCEPTED

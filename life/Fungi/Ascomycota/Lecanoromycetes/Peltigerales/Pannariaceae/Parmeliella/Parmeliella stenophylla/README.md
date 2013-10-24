@@ -1,5 +1,4 @@
-Parmeliella stenophylla (Tuck.) Zahlbr. SPECIES
-=======
+# Parmeliella stenophylla (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

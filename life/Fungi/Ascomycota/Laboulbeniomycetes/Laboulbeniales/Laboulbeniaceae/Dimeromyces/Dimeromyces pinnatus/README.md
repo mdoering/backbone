@@ -1,5 +1,4 @@
-Dimeromyces pinnatus Thaxt. SPECIES
-=======
+# Dimeromyces pinnatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

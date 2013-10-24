@@ -1,5 +1,4 @@
-Biatora borealis (Körb.) Hepp SPECIES
-=======
+# Biatora borealis (Körb.) Hepp SPECIES
 
 #### Status
 ACCEPTED

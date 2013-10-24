@@ -1,5 +1,4 @@
-Rhodosphaera Haeckel, 1881 GENUS
-=======
+# Rhodosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hainesia piricola Oudem. SPECIES
-=======
+# Hainesia piricola Oudem. SPECIES
 
 #### Status
 ACCEPTED

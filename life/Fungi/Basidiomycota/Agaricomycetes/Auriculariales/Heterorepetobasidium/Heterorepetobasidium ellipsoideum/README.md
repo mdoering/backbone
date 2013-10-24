@@ -1,5 +1,4 @@
-Heterorepetobasidium ellipsoideum Oberw. & Chee J. Chen, 2002 SPECIES
-=======
+# Heterorepetobasidium ellipsoideum Oberw. & Chee J. Chen, 2002 SPECIES
 
 #### Status
 ACCEPTED

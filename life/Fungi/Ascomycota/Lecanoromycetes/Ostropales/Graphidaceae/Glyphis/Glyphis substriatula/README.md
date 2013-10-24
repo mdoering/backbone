@@ -1,5 +1,4 @@
-Glyphis substriatula (Nyl.) Staiger SPECIES
-=======
+# Glyphis substriatula (Nyl.) Staiger SPECIES
 
 #### Status
 ACCEPTED

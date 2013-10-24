@@ -1,5 +1,4 @@
-Strigula maritima H. Harada SPECIES
-=======
+# Strigula maritima H. Harada SPECIES
 
 #### Status
 ACCEPTED

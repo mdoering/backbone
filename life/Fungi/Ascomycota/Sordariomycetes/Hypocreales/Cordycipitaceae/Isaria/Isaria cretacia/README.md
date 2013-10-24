@@ -1,5 +1,4 @@
-Isaria cretacia Beyma {?} SPECIES
-=======
+# Isaria cretacia Beyma {?} SPECIES
 
 #### Status
 ACCEPTED

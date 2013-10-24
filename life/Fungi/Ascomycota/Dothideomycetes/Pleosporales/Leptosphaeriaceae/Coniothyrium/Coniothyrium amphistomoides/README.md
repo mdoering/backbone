@@ -1,5 +1,4 @@
-Coniothyrium amphistomoides Ade SPECIES
-=======
+# Coniothyrium amphistomoides Ade SPECIES
 
 #### Status
 ACCEPTED

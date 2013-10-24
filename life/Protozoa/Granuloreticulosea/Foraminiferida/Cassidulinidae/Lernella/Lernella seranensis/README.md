@@ -1,5 +1,4 @@
-Lernella seranensis (Germeraad, 1946) SPECIES
-=======
+# Lernella seranensis (Germeraad, 1946) SPECIES
 
 #### Status
 ACCEPTED

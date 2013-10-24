@@ -1,5 +1,4 @@
-Collybia suballiodora Raithelh. SPECIES
-=======
+# Collybia suballiodora Raithelh. SPECIES
 
 #### Status
 ACCEPTED

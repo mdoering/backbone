@@ -1,5 +1,4 @@
-Pucciniastrum hikosanense Hirats. f. SPECIES
-=======
+# Pucciniastrum hikosanense Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

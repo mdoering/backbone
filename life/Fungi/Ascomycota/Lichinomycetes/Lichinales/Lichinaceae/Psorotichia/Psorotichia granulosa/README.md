@@ -1,5 +1,4 @@
-Psorotichia granulosa Flagey SPECIES
-=======
+# Psorotichia granulosa Flagey SPECIES
 
 #### Status
 ACCEPTED

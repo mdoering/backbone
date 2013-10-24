@@ -1,5 +1,4 @@
-Excipula stellariae Lasch SPECIES
-=======
+# Excipula stellariae Lasch SPECIES
 
 #### Status
 ACCEPTED

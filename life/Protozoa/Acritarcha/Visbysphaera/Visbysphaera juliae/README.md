@@ -1,5 +1,4 @@
-Visbysphaera juliae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
-=======
+# Visbysphaera juliae (Cramer, 1964) Sarjeant & Vavrdová, 1997 SPECIES
 
 #### Status
 ACCEPTED

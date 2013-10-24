@@ -1,5 +1,4 @@
-Amanita colombiana Tulloss, Ovrebo & Halling SPECIES
-=======
+# Amanita colombiana Tulloss, Ovrebo & Halling SPECIES
 
 #### Status
 ACCEPTED

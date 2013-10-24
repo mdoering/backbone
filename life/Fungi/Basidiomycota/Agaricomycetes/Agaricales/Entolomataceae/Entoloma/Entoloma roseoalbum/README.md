@@ -1,5 +1,4 @@
-Entoloma roseoalbum Arnolds & Noordel., 2004 SPECIES
-=======
+# Entoloma roseoalbum Arnolds & Noordel., 2004 SPECIES
 
 #### Status
 ACCEPTED

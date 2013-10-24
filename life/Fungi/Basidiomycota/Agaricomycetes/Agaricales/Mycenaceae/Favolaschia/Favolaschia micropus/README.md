@@ -1,5 +1,4 @@
-Favolaschia micropus (Berk.) Kuntze SPECIES
-=======
+# Favolaschia micropus (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

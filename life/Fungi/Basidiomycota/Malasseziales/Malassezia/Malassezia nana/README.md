@@ -1,5 +1,4 @@
-Malassezia nana Hirai, R. Kano, Makimura, H. Yamag. & A. Haseg., 2004 SPECIES
-=======
+# Malassezia nana Hirai, R. Kano, Makimura, H. Yamag. & A. Haseg., 2004 SPECIES
 
 #### Status
 ACCEPTED

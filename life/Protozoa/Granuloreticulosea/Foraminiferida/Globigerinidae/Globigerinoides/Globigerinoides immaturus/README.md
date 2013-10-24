@@ -1,5 +1,4 @@
-Globigerinoides immaturus LeRoy SPECIES
-=======
+# Globigerinoides immaturus LeRoy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria subfossans Vain. SPECIES
-=======
+# Verrucaria subfossans Vain. SPECIES
 
 #### Status
 ACCEPTED

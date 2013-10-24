@@ -1,5 +1,4 @@
-Micropeltis blyttii Rostr. SPECIES
-=======
+# Micropeltis blyttii Rostr. SPECIES
 
 #### Status
 ACCEPTED

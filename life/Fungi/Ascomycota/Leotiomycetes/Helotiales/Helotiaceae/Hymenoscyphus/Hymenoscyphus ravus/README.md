@@ -1,5 +1,4 @@
-Hymenoscyphus ravus Svrcek SPECIES
-=======
+# Hymenoscyphus ravus Svrcek SPECIES
 
 #### Status
 ACCEPTED

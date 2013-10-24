@@ -1,5 +1,4 @@
-Lecidea rugulosa A. Massal. SPECIES
-=======
+# Lecidea rugulosa A. Massal. SPECIES
 
 #### Status
 ACCEPTED

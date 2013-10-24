@@ -1,5 +1,4 @@
-Oidium kydiae Hosag. SPECIES
-=======
+# Oidium kydiae Hosag. SPECIES
 
 #### Status
 ACCEPTED

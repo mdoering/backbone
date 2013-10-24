@@ -1,5 +1,4 @@
-Lepocincliella Lemmermann, 1905 GENUS
-=======
+# Lepocincliella Lemmermann, 1905 GENUS
 
 #### Status
 ACCEPTED

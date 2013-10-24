@@ -1,5 +1,4 @@
-Puccinia garhadioli Petr. SPECIES
-=======
+# Puccinia garhadioli Petr. SPECIES
 
 #### Status
 ACCEPTED

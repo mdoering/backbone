@@ -1,5 +1,4 @@
-Tetracyclus lacustris var. elongata Hustedt VARIETY
-=======
+# Tetracyclus lacustris Ralfs SPECIES
 
 #### Status
 ACCEPTED

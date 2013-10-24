@@ -1,5 +1,4 @@
-Protacanthamoeba Page, 1981 GENUS
-=======
+# Protacanthamoeba Page, 1981 GENUS
 
 #### Status
 ACCEPTED

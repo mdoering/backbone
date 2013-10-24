@@ -1,5 +1,4 @@
-Acarospora fuscata var. fuscata VARIETY
-=======
+# Acarospora fuscata (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Verh. zool. -bot. Ges. Wien 20: 529 (1870)
 
 #### Original name
-Acarospora fuscata var. fuscata
+Lecanora badia var. fuscata Nyl.
 
 ### Remarks
 null

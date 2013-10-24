@@ -1,5 +1,4 @@
-Pyrenopeziza agrimoniae Syd. SPECIES
-=======
+# Pyrenopeziza agrimoniae Syd. SPECIES
 
 #### Status
 ACCEPTED

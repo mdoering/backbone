@@ -1,17 +1,16 @@
-Phylacteria anthocephala f. anthocephala FORM
-=======
+# Thelephora anthocephala (Bull.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. Eur. (Paris) 154 (1887)
+Epicr. syst. mycol. (Upsaliae) 355 (1838)
 
 #### Original name
-Phylacteria anthocephala f. anthocephala
+Clavaria anthocephala Bull., 1786
 
 ### Remarks
 null

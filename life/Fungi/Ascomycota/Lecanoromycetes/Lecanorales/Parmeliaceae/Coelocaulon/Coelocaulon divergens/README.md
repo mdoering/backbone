@@ -1,5 +1,4 @@
-Coelocaulon divergens (Ach.) R. Howe SPECIES
-=======
+# Coelocaulon divergens (Ach.) R. Howe SPECIES
 
 #### Status
 ACCEPTED

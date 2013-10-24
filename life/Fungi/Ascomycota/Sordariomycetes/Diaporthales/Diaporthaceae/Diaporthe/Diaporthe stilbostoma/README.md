@@ -1,5 +1,4 @@
-Diaporthe stilbostoma (Cooke) Sacc. SPECIES
-=======
+# Diaporthe stilbostoma (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bactrodesmium pusillum Markovsk. SPECIES
-=======
+# Bactrodesmium pusillum Markovsk. SPECIES
 
 #### Status
 ACCEPTED

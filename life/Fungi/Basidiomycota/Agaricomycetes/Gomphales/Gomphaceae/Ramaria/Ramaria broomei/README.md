@@ -1,17 +1,16 @@
-Ramaria nigrescens var. nigrescens (S.A. Brinkm.) Donk VARIETY
-=======
+# Ramaria broomei (Cotton & Wakef.) R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rev. Niederl. Homob. Aphyll. 2: 104 (1933)
+Biblthca Mycol. 79: 53 (1981)
 
 #### Original name
-Ramaria nigrescens var. nigrescens (S.A. Brinkm.) Donk
+Clavaria broomei Cotton & Wakef., 1919
 
 ### Remarks
 null

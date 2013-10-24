@@ -1,5 +1,4 @@
-Alysidium aequivoca (Corda) Bonord. SPECIES
-=======
+# Alysidium aequivoca (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora argentofibrosa Stizenb. SPECIES
-=======
+# Lecanora argentofibrosa Stizenb. SPECIES
 
 #### Status
 ACCEPTED

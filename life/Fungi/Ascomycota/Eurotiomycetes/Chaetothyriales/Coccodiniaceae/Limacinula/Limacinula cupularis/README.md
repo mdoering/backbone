@@ -1,5 +1,4 @@
-Limacinula cupularis Pat. SPECIES
-=======
+# Limacinula cupularis Pat. SPECIES
 
 #### Status
 ACCEPTED

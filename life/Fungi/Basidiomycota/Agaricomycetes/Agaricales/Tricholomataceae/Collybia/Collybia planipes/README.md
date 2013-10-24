@@ -1,5 +1,4 @@
-Collybia planipes (V. Brig.) Sacc. SPECIES
-=======
+# Collybia planipes (V. Brig.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

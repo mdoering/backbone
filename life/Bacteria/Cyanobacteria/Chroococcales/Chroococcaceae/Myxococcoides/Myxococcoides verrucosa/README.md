@@ -1,5 +1,4 @@
-Myxococcoides verrucosa P. K. Maithy SPECIES
-=======
+# Myxococcoides verrucosa P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

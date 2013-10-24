@@ -1,5 +1,4 @@
-Stereum scalare P. Karst. SPECIES
-=======
+# Stereum scalare P. Karst. SPECIES
 
 #### Status
 ACCEPTED

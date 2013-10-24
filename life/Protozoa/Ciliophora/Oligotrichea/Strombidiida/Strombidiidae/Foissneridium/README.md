@@ -1,5 +1,4 @@
-Foissneridium Agatha, 2010 GENUS
-=======
+# Foissneridium Agatha, 2010 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota broadwayi Murrill SPECIES
-=======
+# Lepiota broadwayi Murrill SPECIES
 
 #### Status
 ACCEPTED

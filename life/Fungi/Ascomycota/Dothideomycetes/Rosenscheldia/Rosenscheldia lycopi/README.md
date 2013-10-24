@@ -1,5 +1,4 @@
-Rosenscheldia lycopi Katum. & Y. Harada SPECIES
-=======
+# Rosenscheldia lycopi Katum. & Y. Harada SPECIES
 
 #### Status
 ACCEPTED

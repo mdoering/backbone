@@ -1,5 +1,4 @@
-Rhodoarrhenia solomonensis Corner, 1991 SPECIES
-=======
+# Rhodoarrhenia solomonensis Corner, 1991 SPECIES
 
 #### Status
 ACCEPTED

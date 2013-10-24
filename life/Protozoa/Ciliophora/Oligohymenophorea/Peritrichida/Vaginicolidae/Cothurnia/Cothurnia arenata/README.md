@@ -1,5 +1,4 @@
-Cothurnia arenata SPECIES
-=======
+# Cothurnia arenata SPECIES
 
 #### Status
 ACCEPTED

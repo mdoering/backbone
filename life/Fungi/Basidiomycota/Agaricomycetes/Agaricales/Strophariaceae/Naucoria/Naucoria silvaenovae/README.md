@@ -1,14 +1,13 @@
-Alnicola silvaenovae (D.A. Reid) Courtec., 1985 SPECIES
-=======
+# Naucoria silvaenovae D.A. Reid, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. 16(no. 61): 48 (1985)
+Trans. Br. mycol. Soc. 82(2): 206 (1984)
 
 #### Original name
 Naucoria silvaenovae D.A. Reid, 1984

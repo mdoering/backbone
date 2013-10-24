@@ -1,5 +1,4 @@
-Porocyphus lignyotus (Wahlenb.) P.M. Jørg. SPECIES
-=======
+# Porocyphus lignyotus (Wahlenb.) P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

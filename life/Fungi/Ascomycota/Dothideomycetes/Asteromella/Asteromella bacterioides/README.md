@@ -1,5 +1,4 @@
-Asteromella bacterioides (Vuill.) Moesz SPECIES
-=======
+# Asteromella bacterioides (Vuill.) Moesz SPECIES
 
 #### Status
 ACCEPTED

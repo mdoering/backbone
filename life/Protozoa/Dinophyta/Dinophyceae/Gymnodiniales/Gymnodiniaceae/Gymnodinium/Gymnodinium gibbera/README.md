@@ -1,5 +1,4 @@
-Gymnodinium gibbera Schiller SPECIES
-=======
+# Gymnodinium gibbera Schiller SPECIES
 
 #### Status
 ACCEPTED

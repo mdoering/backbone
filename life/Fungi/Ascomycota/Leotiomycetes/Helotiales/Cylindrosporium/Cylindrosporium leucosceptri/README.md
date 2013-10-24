@@ -1,5 +1,4 @@
-Cylindrosporium leucosceptri Keissl. SPECIES
-=======
+# Cylindrosporium leucosceptri Keissl. SPECIES
 
 #### Status
 ACCEPTED

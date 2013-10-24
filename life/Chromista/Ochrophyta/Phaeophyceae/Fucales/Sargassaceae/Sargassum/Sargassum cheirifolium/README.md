@@ -1,5 +1,4 @@
-Sargassum cheirifolium Kützing SPECIES
-=======
+# Sargassum cheirifolium Kützing SPECIES
 
 #### Status
 ACCEPTED

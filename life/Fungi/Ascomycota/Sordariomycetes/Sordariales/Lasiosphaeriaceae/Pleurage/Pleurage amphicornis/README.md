@@ -1,5 +1,4 @@
-Pleurage amphicornis (Ellis) Kuntze SPECIES
-=======
+# Pleurage amphicornis (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

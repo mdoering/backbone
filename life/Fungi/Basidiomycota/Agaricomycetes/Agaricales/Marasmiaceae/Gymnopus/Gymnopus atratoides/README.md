@@ -1,5 +1,4 @@
-Gymnopus atratoides (Peck) Murrill SPECIES
-=======
+# Gymnopus atratoides (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

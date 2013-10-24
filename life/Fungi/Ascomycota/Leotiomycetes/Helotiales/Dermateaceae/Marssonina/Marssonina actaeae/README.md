@@ -1,5 +1,4 @@
-Marssonina actaeae (Bres.) Magnus SPECIES
-=======
+# Marssonina actaeae (Bres.) Magnus SPECIES
 
 #### Status
 ACCEPTED

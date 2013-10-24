@@ -1,5 +1,4 @@
-Boletus katui Ehrenb. SPECIES
-=======
+# Boletus katui Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

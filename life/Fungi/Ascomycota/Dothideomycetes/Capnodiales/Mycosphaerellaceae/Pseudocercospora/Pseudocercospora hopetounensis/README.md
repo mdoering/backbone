@@ -1,5 +1,4 @@
-Pseudocercospora hopetounensis Beilharz & Pascoe SPECIES
-=======
+# Pseudocercospora hopetounensis Beilharz & Pascoe SPECIES
 
 #### Status
 ACCEPTED

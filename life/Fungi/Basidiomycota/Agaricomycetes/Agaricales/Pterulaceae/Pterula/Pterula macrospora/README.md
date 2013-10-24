@@ -1,5 +1,4 @@
-Pterula macrospora (Pat.) Corner SPECIES
-=======
+# Pterula macrospora (Pat.) Corner SPECIES
 
 #### Status
 ACCEPTED

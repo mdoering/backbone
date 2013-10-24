@@ -1,5 +1,4 @@
-Diplosporium selenosporioides Preuss SPECIES
-=======
+# Diplosporium selenosporioides Preuss SPECIES
 
 #### Status
 ACCEPTED

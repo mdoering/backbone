@@ -1,14 +1,13 @@
-Pocillaria berteroi (Fr.) Kuntze SPECIES
-=======
+# Lentinus bertieri (Fr.) Fr., 1825 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. orb. veg. (Lundae) 1: 77 (1825)
 
 #### Original name
 Agaricus bertieri Fr., 1821

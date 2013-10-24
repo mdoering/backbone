@@ -1,5 +1,4 @@
-Phialea coccinella (Fr.) Sacc. SPECIES
-=======
+# Phialea coccinella (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

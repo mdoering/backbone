@@ -1,5 +1,4 @@
-Cercospora dahliae Hara SPECIES
-=======
+# Cercospora dahliae Hara SPECIES
 
 #### Status
 ACCEPTED

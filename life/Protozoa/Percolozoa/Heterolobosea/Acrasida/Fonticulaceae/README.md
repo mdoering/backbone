@@ -1,17 +1,16 @@
-Fonticulidae FAMILY
-=======
+# Fonticulaceae Worley, Raper & M. Hohl FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 71(4): 747 (1979)
 
 #### Original name
-null
+Fonticulaceae Worley, Raper & M. Hohl
 
 ### Remarks
 null

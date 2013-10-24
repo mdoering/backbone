@@ -1,5 +1,4 @@
-Lophosphaeridium aequicuspidatum Playford & Martin, 1984 SPECIES
-=======
+# Lophosphaeridium aequicuspidatum Playford & Martin, 1984 SPECIES
 
 #### Status
 ACCEPTED

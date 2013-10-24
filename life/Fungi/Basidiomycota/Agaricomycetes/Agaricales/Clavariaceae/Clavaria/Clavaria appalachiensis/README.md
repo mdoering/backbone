@@ -1,5 +1,4 @@
-Clavaria appalachiensis Coker SPECIES
-=======
+# Clavaria appalachiensis Coker SPECIES
 
 #### Status
 ACCEPTED

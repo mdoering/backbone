@@ -1,5 +1,4 @@
-Gloeosporium ebuli Allesch. SPECIES
-=======
+# Gloeosporium ebuli Allesch. SPECIES
 
 #### Status
 ACCEPTED

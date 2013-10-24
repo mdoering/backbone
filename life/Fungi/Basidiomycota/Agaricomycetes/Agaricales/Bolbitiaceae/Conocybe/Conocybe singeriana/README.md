@@ -1,5 +1,4 @@
-Conocybe singeriana Hauskn. SPECIES
-=======
+# Conocybe singeriana Hauskn. SPECIES
 
 #### Status
 ACCEPTED

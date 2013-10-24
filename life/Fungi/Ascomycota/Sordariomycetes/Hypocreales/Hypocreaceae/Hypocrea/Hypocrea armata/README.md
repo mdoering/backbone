@@ -1,5 +1,4 @@
-Hypocrea armata Fr. SPECIES
-=======
+# Hypocrea armata Fr. SPECIES
 
 #### Status
 ACCEPTED

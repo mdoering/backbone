@@ -1,5 +1,4 @@
-Cyathicula crystallina (Quél.) Sacc. SPECIES
-=======
+# Cyathicula crystallina (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

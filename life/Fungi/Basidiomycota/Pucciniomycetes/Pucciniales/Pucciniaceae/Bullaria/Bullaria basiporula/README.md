@@ -1,5 +1,4 @@
-Bullaria basiporula (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
-=======
+# Bullaria basiporula (H.S. Jacks. & Holw.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

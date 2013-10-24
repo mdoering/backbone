@@ -1,8 +1,7 @@
-Moniliformia nodularia (Mertens) Decaisne SPECIES
-=======
+# Hormophysa cuneiformis (J.F. Gmelin) P.C. Silva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

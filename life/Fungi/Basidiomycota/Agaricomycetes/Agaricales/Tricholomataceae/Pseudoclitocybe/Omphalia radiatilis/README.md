@@ -1,5 +1,4 @@
-Omphalia radiatilis (Berk.) Sacc. SPECIES
-=======
+# Omphalia radiatilis (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

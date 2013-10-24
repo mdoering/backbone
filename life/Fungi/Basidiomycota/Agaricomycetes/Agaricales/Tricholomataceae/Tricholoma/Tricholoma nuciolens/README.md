@@ -1,5 +1,4 @@
-Tricholoma nuciolens Murrill SPECIES
-=======
+# Tricholoma nuciolens Murrill SPECIES
 
 #### Status
 ACCEPTED

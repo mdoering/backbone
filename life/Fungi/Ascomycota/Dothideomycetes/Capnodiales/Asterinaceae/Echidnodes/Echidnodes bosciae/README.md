@@ -1,5 +1,4 @@
-Echidnodes bosciae Hansf. SPECIES
-=======
+# Echidnodes bosciae Hansf. SPECIES
 
 #### Status
 ACCEPTED

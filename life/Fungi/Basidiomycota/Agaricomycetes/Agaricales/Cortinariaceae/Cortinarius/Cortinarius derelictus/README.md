@@ -1,5 +1,4 @@
-Cortinarius derelictus Reumaux SPECIES
-=======
+# Cortinarius derelictus Reumaux SPECIES
 
 #### Status
 ACCEPTED

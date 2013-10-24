@@ -1,5 +1,4 @@
-Glomus warcupii McGee, 1986 SPECIES
-=======
+# Glomus warcupii McGee, 1986 SPECIES
 
 #### Status
 ACCEPTED

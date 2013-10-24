@@ -1,5 +1,4 @@
-Scutellinia ahmadiopsis W.Y. Zhuang SPECIES
-=======
+# Scutellinia ahmadiopsis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

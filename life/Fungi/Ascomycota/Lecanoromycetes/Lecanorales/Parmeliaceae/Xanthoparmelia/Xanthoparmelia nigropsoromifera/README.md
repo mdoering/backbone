@@ -1,5 +1,4 @@
-Xanthoparmelia nigropsoromifera (T. H. Nash) Egan SPECIES
-=======
+# Xanthoparmelia nigropsoromifera (T. H. Nash) Egan SPECIES
 
 #### Status
 ACCEPTED

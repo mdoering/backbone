@@ -1,5 +1,4 @@
-Coniothyrium panici Syd. SPECIES
-=======
+# Coniothyrium panici Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe notodryina Singer, I.J. Araujo & Ivory SPECIES
-=======
+# Inocybe notodryina Singer, I.J. Araujo & Ivory SPECIES
 
 #### Status
 ACCEPTED

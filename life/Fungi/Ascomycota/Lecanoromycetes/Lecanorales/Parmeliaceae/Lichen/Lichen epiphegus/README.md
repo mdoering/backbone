@@ -1,5 +1,4 @@
-Lichen epiphegus Ach. SPECIES
-=======
+# Lichen epiphegus Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium lacus Turenne et al., 2002 SPECIES
-=======
+# Mycobacterium lacus Turenne et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

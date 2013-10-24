@@ -1,14 +1,13 @@
-Leptopuccinia lygodesmiae (Ellis & Everh.) Syd., 1922 SPECIES
-=======
+# Puccinia lygodesmiae Ellis & Everh., 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 20(3): 120 (1922)
+Proc. Acad. nat. Sci. Philad. , 1893 45: 154 (1893)
 
 #### Original name
 Puccinia lygodesmiae Ellis & Everh., 1893

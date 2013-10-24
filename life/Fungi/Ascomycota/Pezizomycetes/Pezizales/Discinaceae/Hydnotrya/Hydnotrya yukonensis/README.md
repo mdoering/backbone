@@ -1,5 +1,4 @@
-Hydnotrya yukonensis Gilkey SPECIES
-=======
+# Hydnotrya yukonensis Gilkey SPECIES
 
 #### Status
 ACCEPTED

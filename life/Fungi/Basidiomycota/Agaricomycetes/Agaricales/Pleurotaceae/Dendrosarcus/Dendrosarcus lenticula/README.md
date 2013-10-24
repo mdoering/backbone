@@ -1,5 +1,4 @@
-Dendrosarcus lenticula (Kalchbr.) Kuntze SPECIES
-=======
+# Dendrosarcus lenticula (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

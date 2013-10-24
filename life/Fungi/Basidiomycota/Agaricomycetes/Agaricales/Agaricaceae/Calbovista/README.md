@@ -1,5 +1,4 @@
-Calbovista Morse, 1935 GENUS
-=======
+# Calbovista Morse, 1935 GENUS
 
 #### Status
 ACCEPTED

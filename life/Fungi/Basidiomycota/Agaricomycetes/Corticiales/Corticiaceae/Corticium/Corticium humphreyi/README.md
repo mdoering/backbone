@@ -1,5 +1,4 @@
-Corticium humphreyi Burt SPECIES
-=======
+# Corticium humphreyi Burt SPECIES
 
 #### Status
 ACCEPTED

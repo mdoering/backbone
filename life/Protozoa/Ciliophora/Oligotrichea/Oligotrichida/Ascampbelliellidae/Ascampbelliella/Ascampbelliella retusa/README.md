@@ -1,8 +1,7 @@
-Craterella retusa Hada, 1935 SPECIES
-=======
+# Ascampbelliella retusa (Hada, 1935) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

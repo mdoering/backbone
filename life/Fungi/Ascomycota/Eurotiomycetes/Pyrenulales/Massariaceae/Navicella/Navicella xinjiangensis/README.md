@@ -1,5 +1,4 @@
-Navicella xinjiangensis Z.Q. Yuan SPECIES
-=======
+# Navicella xinjiangensis Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

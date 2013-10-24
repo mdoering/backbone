@@ -1,5 +1,4 @@
-Asteridium novum Fautrey & Lambotte SPECIES
-=======
+# Asteridium novum Fautrey & Lambotte SPECIES
 
 #### Status
 ACCEPTED

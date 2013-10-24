@@ -1,5 +1,4 @@
-Lecidea expallescens Nyl. SPECIES
-=======
+# Lecidea expallescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

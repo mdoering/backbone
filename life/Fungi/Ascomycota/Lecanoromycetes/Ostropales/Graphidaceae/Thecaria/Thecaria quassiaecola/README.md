@@ -1,17 +1,16 @@
-Graphis quassiaecola (Fée) Vain. SPECIES
-=======
+# Thecaria quassiaecola Fée SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Essai Crypt. Exot. (Paris) 1: (1825)
 
 #### Original name
-Fissurina quassiaecola Fée
+Thecaria quassiaecola Fée
 
 ### Remarks
 null

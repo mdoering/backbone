@@ -1,5 +1,4 @@
-Propionigenium Schink & Pfennig, 1983 GENUS
-=======
+# Propionigenium Schink & Pfennig, 1983 GENUS
 
 #### Status
 ACCEPTED

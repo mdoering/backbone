@@ -1,5 +1,4 @@
-Diaporthe silvestris Sacc. & Berl. SPECIES
-=======
+# Diaporthe silvestris Sacc. & Berl. SPECIES
 
 #### Status
 ACCEPTED

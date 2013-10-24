@@ -1,5 +1,4 @@
-Atractobolus decolorans (Wallr.) Kuntze SPECIES
-=======
+# Atractobolus decolorans (Wallr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

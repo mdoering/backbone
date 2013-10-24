@@ -1,5 +1,4 @@
-Sarcosoma godronioides Rick SPECIES
-=======
+# Sarcosoma godronioides Rick SPECIES
 
 #### Status
 ACCEPTED

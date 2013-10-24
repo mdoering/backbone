@@ -1,5 +1,4 @@
-Hydnum spongiosum Rick SPECIES
-=======
+# Hydnum spongiosum Rick SPECIES
 
 #### Status
 ACCEPTED

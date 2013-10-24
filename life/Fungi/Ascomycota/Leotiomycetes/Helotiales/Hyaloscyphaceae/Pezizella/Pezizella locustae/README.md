@@ -1,5 +1,4 @@
-Pezizella locustae Velen. SPECIES
-=======
+# Pezizella locustae Velen. SPECIES
 
 #### Status
 ACCEPTED

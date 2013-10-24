@@ -1,5 +1,4 @@
-Graphina subcontorta Müll. Arg. SPECIES
-=======
+# Graphina subcontorta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

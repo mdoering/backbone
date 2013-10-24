@@ -1,5 +1,4 @@
-Sphaeria variolaria Schwein. SPECIES
-=======
+# Sphaeria variolaria Schwein. SPECIES
 
 #### Status
 ACCEPTED

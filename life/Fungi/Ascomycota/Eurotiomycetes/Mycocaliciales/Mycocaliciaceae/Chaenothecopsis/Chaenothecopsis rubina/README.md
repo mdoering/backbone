@@ -1,5 +1,4 @@
-Chaenothecopsis rubina Tibell SPECIES
-=======
+# Chaenothecopsis rubina Tibell SPECIES
 
 #### Status
 ACCEPTED

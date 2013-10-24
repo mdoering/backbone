@@ -1,5 +1,4 @@
-Parmelia allardii Hale SPECIES
-=======
+# Parmelia allardii Hale SPECIES
 
 #### Status
 ACCEPTED

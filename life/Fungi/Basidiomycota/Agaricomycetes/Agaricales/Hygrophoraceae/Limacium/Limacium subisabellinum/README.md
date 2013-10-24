@@ -1,5 +1,4 @@
-Limacium subisabellinum (A.H. Sm. & Hesler) Singer SPECIES
-=======
+# Limacium subisabellinum (A.H. Sm. & Hesler) Singer SPECIES
 
 #### Status
 ACCEPTED

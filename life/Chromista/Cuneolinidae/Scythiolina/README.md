@@ -1,5 +1,4 @@
-Scythiolina Neagu, 2000 GENUS
-=======
+# Scythiolina Neagu, 2000 GENUS
 
 #### Status
 ACCEPTED

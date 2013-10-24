@@ -1,5 +1,4 @@
-Acanthodinium Kofoid, 1907 GENUS
-=======
+# Acanthodinium Kofoid, 1907 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodoassansia khandalensis (S.D. Patil & Gandhe) Vánky SPECIES
-=======
+# Heterodoassansia khandalensis (S.D. Patil & Gandhe) Vánky SPECIES
 
 #### Status
 ACCEPTED

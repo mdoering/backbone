@@ -1,5 +1,4 @@
-Mycomedusa GENUS
-=======
+# Mycomedusa GENUS
 
 #### Status
 ACCEPTED

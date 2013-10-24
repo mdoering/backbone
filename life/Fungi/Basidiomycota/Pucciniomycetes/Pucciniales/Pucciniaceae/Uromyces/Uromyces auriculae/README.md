@@ -1,5 +1,4 @@
-Uromyces auriculae (Magnus) A. Buchheim SPECIES
-=======
+# Uromyces auriculae (Magnus) A. Buchheim SPECIES
 
 #### Status
 ACCEPTED

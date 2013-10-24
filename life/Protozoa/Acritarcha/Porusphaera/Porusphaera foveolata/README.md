@@ -1,5 +1,4 @@
-Porusphaera foveolata Yu Jingxian et al., 1981 SPECIES
-=======
+# Porusphaera foveolata Yu Jingxian et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

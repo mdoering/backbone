@@ -1,5 +1,4 @@
-Catillaria trichroa (Nyl.) Zahlbr. SPECIES
-=======
+# Catillaria trichroa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

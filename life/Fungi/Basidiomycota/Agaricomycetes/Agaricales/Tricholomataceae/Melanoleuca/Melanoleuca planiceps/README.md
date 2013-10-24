@@ -1,5 +1,4 @@
-Melanoleuca planiceps (Peck) Singer SPECIES
-=======
+# Melanoleuca planiceps (Peck) Singer SPECIES
 
 #### Status
 ACCEPTED

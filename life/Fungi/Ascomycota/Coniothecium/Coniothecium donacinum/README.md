@@ -1,5 +1,4 @@
-Coniothecium donacinum Sacc. SPECIES
-=======
+# Coniothecium donacinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

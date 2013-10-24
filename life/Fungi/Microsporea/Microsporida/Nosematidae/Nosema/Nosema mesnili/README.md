@@ -1,5 +1,4 @@
-Nosema mesnili (Paillot) Paillot SPECIES
-=======
+# Nosema mesnili (Paillot) Paillot SPECIES
 
 #### Status
 ACCEPTED

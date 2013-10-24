@@ -1,5 +1,4 @@
-Thelotrema exsertum (Stirt.) Zahlbr. SPECIES
-=======
+# Thelotrema exsertum (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Nonionina subturgida Cushman, 1924 SPECIES
-=======
+# Nonion subturgidum (Cushman, 1924) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

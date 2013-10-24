@@ -1,17 +1,16 @@
-Melanotus phillipsii f. phillipsii FORM
-=======
+# Melanotus phillipsii (Berk. & Broome) Singer, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Sydowia 7: 84 (1973)
 
 #### Original name
-Melanotus phillipsii f. phillipsii
+Agaricus phillipsii Berk. & Broome, 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Symploca cartilaginea Gomont ex Gomont, 1892 SPECIES
-=======
+# Symploca cartilaginea Gomont ex Gomont, 1892 SPECIES
 
 #### Status
 ACCEPTED

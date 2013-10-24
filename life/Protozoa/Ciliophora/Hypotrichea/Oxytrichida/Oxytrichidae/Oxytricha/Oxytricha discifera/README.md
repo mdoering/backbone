@@ -1,5 +1,4 @@
-Oxytricha discifera Kahl, 1932 SPECIES
-=======
+# Oxytricha discifera Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

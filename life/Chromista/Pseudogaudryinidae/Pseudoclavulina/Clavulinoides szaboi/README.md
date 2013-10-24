@@ -1,5 +1,4 @@
-Clavulinoides szaboi (Hantken) SPECIES
-=======
+# Clavulinoides szaboi (Hantken) SPECIES
 
 #### Status
 DOUBTFUL

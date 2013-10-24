@@ -1,5 +1,4 @@
-Tremella orbicularis Schrank SPECIES
-=======
+# Tremella orbicularis Schrank SPECIES
 
 #### Status
 ACCEPTED

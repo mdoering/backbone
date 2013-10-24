@@ -1,5 +1,4 @@
-Alternaria pruni McAlpine SPECIES
-=======
+# Alternaria pruni McAlpine SPECIES
 
 #### Status
 ACCEPTED

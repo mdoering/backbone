@@ -1,5 +1,4 @@
-Hyphodiscosia queenslandica Matsush. SPECIES
-=======
+# Hyphodiscosia queenslandica Matsush. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomycena corticola (Schumach.) Cejp SPECIES
-=======
+# Pseudomycena corticola (Schumach.) Cejp SPECIES
 
 #### Status
 ACCEPTED

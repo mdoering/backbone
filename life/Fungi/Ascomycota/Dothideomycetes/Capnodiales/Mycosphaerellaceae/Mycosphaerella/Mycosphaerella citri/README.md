@@ -1,17 +1,16 @@
-Zasmidium citri (Whiteside) Crous, 2009 SPECIES
-=======
+# Mycosphaerella citri Whiteside, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 62: 263 (1972)
 
 #### Original name
-null
+Mycosphaerella citri Whiteside, 1972
 
 ### Remarks
 null

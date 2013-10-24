@@ -1,5 +1,4 @@
-Sphaerophyra stentoris SPECIES
-=======
+# Sphaerophyra stentoris SPECIES
 
 #### Status
 ACCEPTED

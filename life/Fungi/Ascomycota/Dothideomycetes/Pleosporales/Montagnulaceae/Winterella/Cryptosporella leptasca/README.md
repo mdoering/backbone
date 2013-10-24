@@ -1,5 +1,4 @@
-Cryptosporella leptasca var. leptasca VARIETY
-=======
+# Cryptosporella leptasca (Peck & Clinton) Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cryptosporella leptasca var. leptasca
+Valsa leptasca Peck & Clinton
 
 ### Remarks
 null

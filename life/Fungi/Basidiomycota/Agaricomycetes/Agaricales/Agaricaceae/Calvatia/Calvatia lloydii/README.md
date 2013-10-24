@@ -1,5 +1,4 @@
-Calvatia lloydii Zeller & Coker SPECIES
-=======
+# Calvatia lloydii Zeller & Coker SPECIES
 
 #### Status
 ACCEPTED

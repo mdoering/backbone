@@ -1,5 +1,4 @@
-Pleurotus aggregatus Bres. SPECIES
-=======
+# Pleurotus aggregatus Bres. SPECIES
 
 #### Status
 ACCEPTED

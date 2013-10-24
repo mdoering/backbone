@@ -1,5 +1,4 @@
-Buellia heterospora Erichsen SPECIES
-=======
+# Buellia heterospora Erichsen SPECIES
 
 #### Status
 ACCEPTED

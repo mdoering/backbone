@@ -1,5 +1,4 @@
-Botryosphaeria pasaniae Hara SPECIES
-=======
+# Botryosphaeria pasaniae Hara SPECIES
 
 #### Status
 ACCEPTED

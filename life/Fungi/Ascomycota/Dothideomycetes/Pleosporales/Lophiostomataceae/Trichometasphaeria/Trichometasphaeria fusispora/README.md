@@ -1,5 +1,4 @@
-Trichometasphaeria fusispora (Scheuer) Scheuer SPECIES
-=======
+# Trichometasphaeria fusispora (Scheuer) Scheuer SPECIES
 
 #### Status
 ACCEPTED

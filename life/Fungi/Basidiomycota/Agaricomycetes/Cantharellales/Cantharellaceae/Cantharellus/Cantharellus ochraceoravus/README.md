@@ -1,5 +1,4 @@
-Cantharellus ochraceoravus Grgur. SPECIES
-=======
+# Cantharellus ochraceoravus Grgur. SPECIES
 
 #### Status
 ACCEPTED

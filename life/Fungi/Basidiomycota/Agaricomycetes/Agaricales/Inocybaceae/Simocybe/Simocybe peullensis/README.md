@@ -1,5 +1,4 @@
-Simocybe peullensis Singer SPECIES
-=======
+# Simocybe peullensis Singer SPECIES
 
 #### Status
 ACCEPTED

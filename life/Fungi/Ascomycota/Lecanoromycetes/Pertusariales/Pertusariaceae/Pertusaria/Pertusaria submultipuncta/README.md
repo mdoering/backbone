@@ -1,5 +1,4 @@
-Pertusaria submultipuncta Nyl. SPECIES
-=======
+# Pertusaria submultipuncta Nyl. SPECIES
 
 #### Status
 ACCEPTED

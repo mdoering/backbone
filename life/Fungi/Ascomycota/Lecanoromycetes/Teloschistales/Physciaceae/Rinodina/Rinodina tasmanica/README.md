@@ -1,5 +1,4 @@
-Rinodina tasmanica H. Mayrhofer SPECIES
-=======
+# Rinodina tasmanica H. Mayrhofer SPECIES
 
 #### Status
 ACCEPTED

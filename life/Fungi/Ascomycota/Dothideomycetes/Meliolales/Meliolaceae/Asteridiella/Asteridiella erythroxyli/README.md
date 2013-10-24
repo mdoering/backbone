@@ -1,14 +1,13 @@
-Asteridiella erythroxylonis (Cif.) Hansf. SPECIES
-=======
+# Asteridiella erythroxyli (Cif.) Hansf. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 198 (1961)
 
 #### Original name
 Meliola erythroxyli Cif.

@@ -1,5 +1,4 @@
-Pyrenopeziza lini (Rostr.) Petr. & Syd. SPECIES
-=======
+# Pyrenopeziza lini (Rostr.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

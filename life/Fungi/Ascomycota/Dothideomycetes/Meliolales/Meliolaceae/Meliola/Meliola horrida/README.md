@@ -1,5 +1,4 @@
-Meliola horrida Ellis & Everh. SPECIES
-=======
+# Meliola horrida Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe alachuana Murrill SPECIES
-=======
+# Inocybe alachuana Murrill SPECIES
 
 #### Status
 ACCEPTED

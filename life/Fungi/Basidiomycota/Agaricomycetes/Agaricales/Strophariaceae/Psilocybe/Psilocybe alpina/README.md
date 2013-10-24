@@ -1,5 +1,4 @@
-Psilocybe alpina Guzmán, Tapia & Nav.-Ros. SPECIES
-=======
+# Psilocybe alpina Guzmán, Tapia & Nav.-Ros. SPECIES
 
 #### Status
 ACCEPTED

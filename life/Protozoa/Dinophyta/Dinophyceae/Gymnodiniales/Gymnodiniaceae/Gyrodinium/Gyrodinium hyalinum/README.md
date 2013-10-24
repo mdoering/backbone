@@ -1,8 +1,7 @@
-Spirodinium hyalinum (Schilling) Lemmermann SPECIES
-=======
+# Gyrodinium hyalinum (Schilling) Kofoid & Swezy SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

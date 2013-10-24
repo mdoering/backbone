@@ -1,5 +1,4 @@
-Caliciopsis Peck GENUS
-=======
+# Caliciopsis Peck GENUS
 
 #### Status
 ACCEPTED

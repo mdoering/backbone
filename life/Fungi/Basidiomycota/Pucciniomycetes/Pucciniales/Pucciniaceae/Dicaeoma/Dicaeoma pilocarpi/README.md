@@ -1,5 +1,4 @@
-Dicaeoma pilocarpi (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma pilocarpi (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

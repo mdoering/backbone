@@ -1,5 +1,4 @@
-Asteromella staphyleicola (Oudem.) Petr. SPECIES
-=======
+# Asteromella staphyleicola (Oudem.) Petr. SPECIES
 
 #### Status
 ACCEPTED

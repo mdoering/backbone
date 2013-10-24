@@ -1,5 +1,4 @@
-Ceriomyces subpallidus Murrill SPECIES
-=======
+# Ceriomyces subpallidus Murrill SPECIES
 
 #### Status
 ACCEPTED

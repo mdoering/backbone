@@ -1,5 +1,4 @@
-Dermatocarpon mairei Werner SPECIES
-=======
+# Dermatocarpon mairei Werner SPECIES
 
 #### Status
 ACCEPTED

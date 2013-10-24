@@ -1,5 +1,4 @@
-Lecidea caliginosa Stirt. ex Vain. SPECIES
-=======
+# Lecidea caliginosa Stirt. ex Vain. SPECIES
 
 #### Status
 ACCEPTED

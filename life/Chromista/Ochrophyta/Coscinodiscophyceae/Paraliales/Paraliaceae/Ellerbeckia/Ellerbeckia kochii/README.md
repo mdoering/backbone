@@ -1,5 +1,4 @@
-Ellerbeckia kochii var. antiqua G.K. Khursevich VARIETY
-=======
+# Ellerbeckia kochii (Pantocsek) D. Temniskova-Topalova, M. Valeva, & N. Ognjanova-Rumenova SPECIES
 
 #### Status
 ACCEPTED

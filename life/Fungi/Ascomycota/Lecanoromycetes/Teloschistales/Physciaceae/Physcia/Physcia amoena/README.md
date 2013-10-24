@@ -1,5 +1,4 @@
-Physcia amoena f. amoena FORM
-=======
+# Physcia amoena (Zahlbr.) Nádv. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Physcia amoena f. amoena
+null
 
 ### Remarks
 null

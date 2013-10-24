@@ -1,5 +1,4 @@
-Gyrophora papulosa Ach. SPECIES
-=======
+# Gyrophora papulosa Ach. SPECIES
 
 #### Status
 ACCEPTED

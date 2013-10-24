@@ -1,5 +1,4 @@
-Corticium pubescens Romell SPECIES
-=======
+# Corticium pubescens Romell SPECIES
 
 #### Status
 ACCEPTED

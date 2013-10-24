@@ -1,5 +1,4 @@
-Stereocaulon dusenii I.M. Lamb SPECIES
-=======
+# Stereocaulon dusenii I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

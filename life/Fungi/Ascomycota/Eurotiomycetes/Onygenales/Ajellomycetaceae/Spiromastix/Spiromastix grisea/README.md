@@ -1,5 +1,4 @@
-Spiromastix grisea Currah & Locq.-Lin., 1988 SPECIES
-=======
+# Spiromastix grisea Currah & Locq.-Lin., 1988 SPECIES
 
 #### Status
 ACCEPTED

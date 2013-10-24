@@ -1,5 +1,4 @@
-Frondicularia trimorpha Goddard & Jensen, 1907 SPECIES
-=======
+# Frondicularia trimorpha Goddard & Jensen, 1907 SPECIES
 
 #### Status
 ACCEPTED

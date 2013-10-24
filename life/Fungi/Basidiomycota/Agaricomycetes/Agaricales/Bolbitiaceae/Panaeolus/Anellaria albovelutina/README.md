@@ -1,5 +1,4 @@
-Anellaria albovelutina Rick SPECIES
-=======
+# Anellaria albovelutina Rick SPECIES
 
 #### Status
 ACCEPTED

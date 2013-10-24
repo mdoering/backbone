@@ -1,14 +1,13 @@
-Cetraria juniperina var. viridis (Schwein.) Räsänen VARIETY
-=======
+# Vulpicida viridis (Schwein.) J.-E. Mattsson & M. J. Lai SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 46: 428 (1993)
 
 #### Original name
 Cetraria viridis Schwein.

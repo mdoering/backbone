@@ -1,5 +1,4 @@
-Mycoderma kieta Mattlet SPECIES
-=======
+# Mycoderma kieta Mattlet SPECIES
 
 #### Status
 ACCEPTED

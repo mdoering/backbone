@@ -1,5 +1,4 @@
-Zonaria inarticulata (J.V. Lamouroux) Papenfuss SPECIES
-=======
+# Zonaria inarticulata (J.V. Lamouroux) Papenfuss SPECIES
 
 #### Status
 ACCEPTED

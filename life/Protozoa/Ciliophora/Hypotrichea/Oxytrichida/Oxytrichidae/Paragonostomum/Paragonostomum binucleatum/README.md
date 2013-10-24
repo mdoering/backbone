@@ -1,5 +1,4 @@
-Paragonostomum binucleatum Foissner, Agatha & Berger, 2002 SPECIES
-=======
+# Paragonostomum binucleatum Foissner, Agatha & Berger, 2002 SPECIES
 
 #### Status
 ACCEPTED

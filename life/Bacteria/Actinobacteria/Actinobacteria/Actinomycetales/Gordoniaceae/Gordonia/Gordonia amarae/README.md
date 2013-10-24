@@ -1,5 +1,4 @@
-Gordonia amarae (Lechevalier & Lechevalier, 1974) Ruimy et al., 1995 SPECIES
-=======
+# Gordonia amarae (Lechevalier & Lechevalier, 1974) Ruimy et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia nardosmiae Ellis & Everh. SPECIES
-=======
+# Puccinia nardosmiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

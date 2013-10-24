@@ -1,5 +1,4 @@
-Gyalolechia andicola Zahlbr. SPECIES
-=======
+# Gyalolechia andicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

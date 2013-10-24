@@ -1,17 +1,16 @@
-Entoloma porengi Corner & E. Horak SPECIES
-=======
+# Entoloma porengii Corner & E. Horak SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Horak, Beih. Nova Hedwigia 65: 232 (1980)
 
 #### Original name
-Entoloma porengi Corner & E. Horak
+Entoloma porengii Corner & E. Horak
 
 ### Remarks
 null

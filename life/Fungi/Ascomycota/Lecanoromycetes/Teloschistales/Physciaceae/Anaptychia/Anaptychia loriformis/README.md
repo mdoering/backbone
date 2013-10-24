@@ -1,5 +1,4 @@
-Anaptychia loriformis Kurok. SPECIES
-=======
+# Anaptychia loriformis Kurok. SPECIES
 
 #### Status
 ACCEPTED

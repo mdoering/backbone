@@ -1,5 +1,4 @@
-Arthonia intermedia Matzer SPECIES
-=======
+# Arthonia intermedia Matzer SPECIES
 
 #### Status
 ACCEPTED

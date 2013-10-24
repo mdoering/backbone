@@ -1,5 +1,4 @@
-Cortinarius sclerospermus Peintner & M.M. Moser, 2002 SPECIES
-=======
+# Cortinarius sclerospermus Peintner & M.M. Moser, 2002 SPECIES
 
 #### Status
 ACCEPTED

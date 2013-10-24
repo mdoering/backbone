@@ -1,5 +1,4 @@
-Ellisiodothis coccoicola Sivan. & W.H. Hsieh SPECIES
-=======
+# Ellisiodothis coccoicola Sivan. & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

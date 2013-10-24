@@ -1,5 +1,4 @@
-Tyromyces allantoideus M.P. Christ. SPECIES
-=======
+# Tyromyces allantoideus M.P. Christ. SPECIES
 
 #### Status
 ACCEPTED

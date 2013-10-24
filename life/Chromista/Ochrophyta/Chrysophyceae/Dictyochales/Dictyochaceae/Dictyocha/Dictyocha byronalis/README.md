@@ -1,5 +1,4 @@
-Dictyocha byronalis D. Bukry SPECIES
-=======
+# Dictyocha byronalis D. Bukry SPECIES
 
 #### Status
 ACCEPTED

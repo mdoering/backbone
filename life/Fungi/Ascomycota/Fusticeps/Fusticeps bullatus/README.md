@@ -1,5 +1,4 @@
-Fusticeps bullatus J. Webster & R.A. Davey, 1980 SPECIES
-=======
+# Fusticeps bullatus J. Webster & R.A. Davey, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma yuccicola Pat. SPECIES
-=======
+# Phoma yuccicola Pat. SPECIES
 
 #### Status
 ACCEPTED

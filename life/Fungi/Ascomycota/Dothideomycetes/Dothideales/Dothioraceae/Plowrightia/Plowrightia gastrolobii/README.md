@@ -1,5 +1,4 @@
-Plowrightia gastrolobii (Henn.) Höhn. SPECIES
-=======
+# Plowrightia gastrolobii (Henn.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

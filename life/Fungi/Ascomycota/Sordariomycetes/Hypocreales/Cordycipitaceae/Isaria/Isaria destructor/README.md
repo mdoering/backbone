@@ -1,5 +1,4 @@
-Isaria destructor Metschn. SPECIES
-=======
+# Isaria destructor Metschn. SPECIES
 
 #### Status
 ACCEPTED

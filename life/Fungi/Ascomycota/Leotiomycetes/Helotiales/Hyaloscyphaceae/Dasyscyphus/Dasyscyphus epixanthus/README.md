@@ -1,8 +1,7 @@
-Dasyscypha epixanthus (Cooke) Sacc. SPECIES
-=======
+# Dasyscyphus epixanthus (Cooke) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

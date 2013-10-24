@@ -1,5 +1,4 @@
-Rosellinites schusteri Rehm SPECIES
-=======
+# Rosellinites schusteri Rehm SPECIES
 
 #### Status
 ACCEPTED

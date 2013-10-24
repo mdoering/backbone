@@ -1,8 +1,7 @@
-Uvigerina ampullacea var. nuda Campbell, 1935 VARIETY
-=======
+# Siphouvigerina ampullacea (Brady, 1884) SPECIES
 
 #### Status
-DOUBTFUL
+ACCEPTED
 
 #### According to
 World Register of Marine Species

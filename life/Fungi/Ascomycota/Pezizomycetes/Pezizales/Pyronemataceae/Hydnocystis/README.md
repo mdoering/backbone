@@ -1,17 +1,16 @@
-Protogenea Kobayasi GENUS
-=======
+# Hydnocystis Tul. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 4(5): 119 (1964)
+G. bot. ital. 2(1): 59 (1844)
 
 #### Original name
-Protogenea Kobayasi
+Hydnocystis Tul.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Niebla palmeri Spjut SPECIES
-=======
+# Niebla palmeri Spjut SPECIES
 
 #### Status
 ACCEPTED

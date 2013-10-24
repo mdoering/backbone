@@ -1,5 +1,4 @@
-Micronectria agharkarii Ananthan. SPECIES
-=======
+# Micronectria agharkarii Ananthan. SPECIES
 
 #### Status
 ACCEPTED

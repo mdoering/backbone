@@ -1,5 +1,4 @@
-Calonectria balanseana Berl. & Roum. SPECIES
-=======
+# Calonectria balanseana Berl. & Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichonectria syzygii Z.Q. Yuan & M.E. Barr SPECIES
-=======
+# Trichonectria syzygii Z.Q. Yuan & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

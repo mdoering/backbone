@@ -1,5 +1,4 @@
-Anellaria sepulchralis (Berk.) Singer SPECIES
-=======
+# Anellaria sepulchralis (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

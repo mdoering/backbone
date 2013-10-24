@@ -1,5 +1,4 @@
-Ditremis epiphylla (Vezda) Makhija & Patw. SPECIES
-=======
+# Ditremis epiphylla (Vezda) Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

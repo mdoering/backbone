@@ -1,5 +1,4 @@
-Lepiota kammala Grgur. SPECIES
-=======
+# Lepiota kammala Grgur. SPECIES
 
 #### Status
 ACCEPTED

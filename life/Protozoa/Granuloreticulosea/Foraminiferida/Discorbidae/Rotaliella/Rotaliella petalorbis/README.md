@@ -1,5 +1,4 @@
-Rotaliella petalorbis Sellier de Civrieux, 1991 SPECIES
-=======
+# Rotaliella petalorbis Sellier de Civrieux, 1991 SPECIES
 
 #### Status
 ACCEPTED

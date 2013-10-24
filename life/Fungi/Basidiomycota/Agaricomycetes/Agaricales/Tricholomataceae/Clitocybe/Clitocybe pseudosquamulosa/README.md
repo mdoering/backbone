@@ -1,5 +1,4 @@
-Clitocybe pseudosquamulosa Singer ex Bon SPECIES
-=======
+# Clitocybe pseudosquamulosa Singer ex Bon SPECIES
 
 #### Status
 ACCEPTED

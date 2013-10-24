@@ -1,14 +1,13 @@
-Tremella disciformis Fr., 1822 SPECIES
-=======
+# Platygloea disciformis (Fr.) Neuhoff, 1936 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(1): 216 (1822)
+Ark. Bot. 28A(1): 56 (1936)
 
 #### Original name
 Tremella disciformis Fr., 1822

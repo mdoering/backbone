@@ -1,5 +1,4 @@
-Pluteus termitum Henn. SPECIES
-=======
+# Pluteus termitum Henn. SPECIES
 
 #### Status
 ACCEPTED

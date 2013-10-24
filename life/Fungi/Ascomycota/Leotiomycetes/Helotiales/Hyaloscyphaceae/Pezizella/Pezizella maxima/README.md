@@ -1,5 +1,4 @@
-Pezizella maxima Velen. SPECIES
-=======
+# Pezizella maxima Velen. SPECIES
 
 #### Status
 ACCEPTED

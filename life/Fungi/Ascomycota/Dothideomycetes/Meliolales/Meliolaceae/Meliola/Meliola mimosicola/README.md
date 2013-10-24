@@ -1,5 +1,4 @@
-Meliola mimosicola Speg. SPECIES
-=======
+# Meliola mimosicola Speg. SPECIES
 
 #### Status
 ACCEPTED

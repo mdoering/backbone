@@ -1,5 +1,4 @@
-Podosphaera papaveris (Simonyan) U. Braun & S. Takam. SPECIES
-=======
+# Podosphaera papaveris (Simonyan) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

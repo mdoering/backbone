@@ -1,14 +1,13 @@
-Tremellodendropsis semivestitum (Berk. & M.A. Curtis) R.H. Petersen SPECIES
-=======
+# Tremellodendropsis semivestita (Berk. & M.A. Curtis) R.H. Petersen, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 29: 64 (1987)
 
 #### Original name
 Lachnocladium semivestitum Berk. & M.A. Curtis, 1873

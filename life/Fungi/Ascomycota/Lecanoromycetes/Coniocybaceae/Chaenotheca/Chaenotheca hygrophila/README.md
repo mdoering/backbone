@@ -1,5 +1,4 @@
-Chaenotheca hygrophila Tibell SPECIES
-=======
+# Chaenotheca hygrophila Tibell SPECIES
 
 #### Status
 ACCEPTED

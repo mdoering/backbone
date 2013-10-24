@@ -1,5 +1,4 @@
-Buellia xylographella (Nyl.) Zahlbr. SPECIES
-=======
+# Buellia xylographella (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

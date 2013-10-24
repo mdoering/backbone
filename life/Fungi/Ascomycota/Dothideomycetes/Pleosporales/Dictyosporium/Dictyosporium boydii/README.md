@@ -1,5 +1,4 @@
-Dictyosporium boydii A.L. Sm. & Ramsb. SPECIES
-=======
+# Dictyosporium boydii A.L. Sm. & Ramsb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dacrymyces ancoratus Lowy SPECIES
-=======
+# Dacrymyces ancoratus Lowy SPECIES
 
 #### Status
 ACCEPTED

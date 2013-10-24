@@ -1,5 +1,4 @@
-Caeomurus alpinus (J. Schröt.) Kuntze SPECIES
-=======
+# Caeomurus alpinus (J. Schröt.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

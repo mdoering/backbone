@@ -1,5 +1,4 @@
-Merulius alutaceus (Bull.) J.F. Gmel. SPECIES
-=======
+# Merulius alutaceus (Bull.) J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

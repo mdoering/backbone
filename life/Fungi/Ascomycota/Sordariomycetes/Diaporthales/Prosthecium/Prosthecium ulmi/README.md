@@ -1,5 +1,4 @@
-Prosthecium ulmi Wehm. SPECIES
-=======
+# Prosthecium ulmi Wehm. SPECIES
 
 #### Status
 ACCEPTED

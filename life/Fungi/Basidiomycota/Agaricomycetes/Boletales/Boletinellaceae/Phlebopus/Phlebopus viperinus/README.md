@@ -1,5 +1,4 @@
-Phlebopus viperinus Singer, 1947 SPECIES
-=======
+# Phlebopus viperinus Singer, 1947 SPECIES
 
 #### Status
 ACCEPTED

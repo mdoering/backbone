@@ -1,5 +1,4 @@
-Eimeria pneumatophori Dogel', 1948 SPECIES
-=======
+# Eimeria pneumatophori Dogel', 1948 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fungus aureus (Bull.) Kuntze SPECIES
-=======
+# Fungus aureus (Bull.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

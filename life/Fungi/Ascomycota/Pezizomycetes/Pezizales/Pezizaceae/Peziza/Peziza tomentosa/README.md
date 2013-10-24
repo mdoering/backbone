@@ -1,5 +1,4 @@
-Peziza tomentosa Schumach. SPECIES
-=======
+# Peziza tomentosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

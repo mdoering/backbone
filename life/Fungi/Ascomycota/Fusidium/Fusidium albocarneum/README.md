@@ -1,5 +1,4 @@
-Fusidium albocarneum Cooke & Harkn. SPECIES
-=======
+# Fusidium albocarneum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

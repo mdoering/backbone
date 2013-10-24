@@ -1,5 +1,4 @@
-Puccinia ferruginea Lév. SPECIES
-=======
+# Puccinia ferruginea Lév. SPECIES
 
 #### Status
 ACCEPTED

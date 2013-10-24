@@ -1,5 +1,4 @@
-Euplotes indentatus Carter, 1972 SPECIES
-=======
+# Euplotes indentatus Carter, 1972 SPECIES
 
 #### Status
 ACCEPTED

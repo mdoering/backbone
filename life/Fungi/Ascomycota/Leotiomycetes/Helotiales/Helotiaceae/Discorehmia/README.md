@@ -1,5 +1,4 @@
-Discorehmia Kirschst. GENUS
-=======
+# Discorehmia Kirschst. GENUS
 
 #### Status
 ACCEPTED

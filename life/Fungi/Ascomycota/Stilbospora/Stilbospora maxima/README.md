@@ -1,5 +1,4 @@
-Stilbospora maxima Schwein. SPECIES
-=======
+# Stilbospora maxima Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Valsa alnicola Cooke & Massee SPECIES
-=======
+# Phragmoporthe conformis (Berk. & Broome) Petr., 1941 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 39: 285 (1941)
 
 #### Original name
-Valsa alnicola Cooke & Massee
+Sphaeria conformis Berk. & Broome, 1852
 
 ### Remarks
 null

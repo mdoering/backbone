@@ -1,5 +1,4 @@
-Diaporthe minastri Feltgen SPECIES
-=======
+# Diaporthe minastri Feltgen SPECIES
 
 #### Status
 ACCEPTED

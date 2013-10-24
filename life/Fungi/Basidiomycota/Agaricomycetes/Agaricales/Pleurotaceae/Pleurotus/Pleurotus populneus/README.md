@@ -1,5 +1,4 @@
-Pleurotus populneus Velen. SPECIES
-=======
+# Pleurotus populneus Velen. SPECIES
 
 #### Status
 ACCEPTED

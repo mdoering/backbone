@@ -1,5 +1,4 @@
-Mycothyridium boehmeriae (Speg.) Petr. SPECIES
-=======
+# Mycothyridium boehmeriae (Speg.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Gastroboletus molinai Nouhra, Castellano & Trappe SPECIES
-=======
+# Gastroboletus molinae Nouhra, Castellano & Trappe, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 410 (2002)
 
 #### Original name
-Gastroboletus molinai Nouhra, Castellano & Trappe
+Gastroboletus molinae Nouhra, Castellano & Trappe, 2002
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Thysanothecium Mont. & Berk. GENUS
-=======
+# Thysanothecium Mont. & Berk. GENUS
 
 #### Status
 ACCEPTED

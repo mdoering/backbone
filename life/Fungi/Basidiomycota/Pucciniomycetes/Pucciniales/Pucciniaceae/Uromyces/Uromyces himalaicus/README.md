@@ -1,5 +1,4 @@
-Uromyces himalaicus Y. Ono, Adhikari & Rajbh. SPECIES
-=======
+# Uromyces himalaicus Y. Ono, Adhikari & Rajbh. SPECIES
 
 #### Status
 ACCEPTED

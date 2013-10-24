@@ -1,5 +1,4 @@
-Pseudocercospora halleriae (Chupp & Doidge) Deighton SPECIES
-=======
+# Pseudocercospora halleriae (Chupp & Doidge) Deighton SPECIES
 
 #### Status
 ACCEPTED

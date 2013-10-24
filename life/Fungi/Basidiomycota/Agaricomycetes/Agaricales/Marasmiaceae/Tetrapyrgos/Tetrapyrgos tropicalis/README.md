@@ -1,5 +1,4 @@
-Tetrapyrgos tropicalis R.H. Petersen & S.A. Gordon, 1995 SPECIES
-=======
+# Tetrapyrgos tropicalis R.H. Petersen & S.A. Gordon, 1995 SPECIES
 
 #### Status
 ACCEPTED

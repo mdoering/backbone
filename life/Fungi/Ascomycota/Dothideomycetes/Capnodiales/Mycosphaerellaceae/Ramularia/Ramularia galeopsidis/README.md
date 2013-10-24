@@ -1,5 +1,4 @@
-Ramularia galeopsidis Bubák SPECIES
-=======
+# Ramularia galeopsidis Bubák SPECIES
 
 #### Status
 ACCEPTED

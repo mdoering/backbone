@@ -1,5 +1,4 @@
-Sphaerella fructinex Kirschst. SPECIES
-=======
+# Sphaerella fructinex Kirschst. SPECIES
 
 #### Status
 ACCEPTED

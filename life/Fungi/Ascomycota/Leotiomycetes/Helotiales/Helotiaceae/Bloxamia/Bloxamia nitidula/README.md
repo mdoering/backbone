@@ -1,5 +1,4 @@
-Bloxamia nitidula (Sacc.) Höhn. SPECIES
-=======
+# Bloxamia nitidula (Sacc.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

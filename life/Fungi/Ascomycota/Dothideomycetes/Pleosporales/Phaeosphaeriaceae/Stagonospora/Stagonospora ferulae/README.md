@@ -1,5 +1,4 @@
-Stagonospora ferulae Vasyag. SPECIES
-=======
+# Stagonospora ferulae Vasyag. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aulosira striata Woronichin SPECIES
-=======
+# Aulosira striata Woronichin SPECIES
 
 #### Status
 ACCEPTED

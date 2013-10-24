@@ -1,5 +1,4 @@
-Rhabdospora verbasci Gucevic SPECIES
-=======
+# Rhabdospora verbasci Gucevic SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicoccum fraxini (Kabát & Bubák) Sherb. SPECIES
-=======
+# Fusicoccum fraxini (Kabát & Bubák) Sherb. SPECIES
 
 #### Status
 ACCEPTED

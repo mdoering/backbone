@@ -1,5 +1,4 @@
-Dialonectria thelopsioides (P. Crouan & H. Crouan) Cooke SPECIES
-=======
+# Dialonectria thelopsioides (P. Crouan & H. Crouan) Cooke SPECIES
 
 #### Status
 ACCEPTED

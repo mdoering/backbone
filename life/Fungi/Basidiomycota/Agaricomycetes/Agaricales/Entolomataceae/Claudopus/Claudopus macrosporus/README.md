@@ -1,5 +1,4 @@
-Claudopus macrosporus Pat. & Doass. SPECIES
-=======
+# Claudopus macrosporus Pat. & Doass. SPECIES
 
 #### Status
 ACCEPTED

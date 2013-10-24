@@ -1,5 +1,4 @@
-Gorgonisphaeridium separatum Wicander, 1974 SPECIES
-=======
+# Gorgonisphaeridium separatum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

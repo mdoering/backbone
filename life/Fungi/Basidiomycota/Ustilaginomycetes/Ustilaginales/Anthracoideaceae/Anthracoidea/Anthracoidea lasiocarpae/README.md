@@ -1,5 +1,4 @@
-Anthracoidea lasiocarpae B. Lindeb. SPECIES
-=======
+# Anthracoidea lasiocarpae B. Lindeb. SPECIES
 
 #### Status
 ACCEPTED

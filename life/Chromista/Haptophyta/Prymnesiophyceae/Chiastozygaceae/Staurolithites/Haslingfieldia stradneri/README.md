@@ -1,5 +1,4 @@
-Haslingfieldia stradneri Black, 1973 SPECIES
-=======
+# Haslingfieldia stradneri Black, 1973 SPECIES
 
 #### Status
 DOUBTFUL

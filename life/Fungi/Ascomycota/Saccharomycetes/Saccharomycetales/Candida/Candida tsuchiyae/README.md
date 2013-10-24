@@ -1,5 +1,4 @@
-Candida tsuchiyae Nakase & M. Suzuki, 1985 SPECIES
-=======
+# Candida tsuchiyae Nakase & M. Suzuki, 1985 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sirococcus halesiae Ellis & Everh. SPECIES
-=======
+# Sirococcus halesiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

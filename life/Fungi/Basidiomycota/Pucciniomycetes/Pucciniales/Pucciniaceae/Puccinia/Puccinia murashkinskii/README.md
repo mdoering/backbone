@@ -1,5 +1,4 @@
-Puccinia murashkinskii Tranzschel SPECIES
-=======
+# Puccinia murashkinskii Tranzschel SPECIES
 
 #### Status
 ACCEPTED

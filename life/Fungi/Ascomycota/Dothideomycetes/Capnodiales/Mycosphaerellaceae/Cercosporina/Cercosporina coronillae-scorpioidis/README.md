@@ -1,5 +1,4 @@
-Cercosporina coronillae-scorpioidis (Ferraris) Sacc. SPECIES
-=======
+# Cercosporina coronillae-scorpioidis (Ferraris) Sacc. SPECIES
 
 #### Status
 ACCEPTED

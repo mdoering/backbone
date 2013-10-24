@@ -1,5 +1,4 @@
-Leptogium perminutum Fink ex J. Hedrick SPECIES
-=======
+# Leptogium perminutum Fink ex J. Hedrick SPECIES
 
 #### Status
 ACCEPTED

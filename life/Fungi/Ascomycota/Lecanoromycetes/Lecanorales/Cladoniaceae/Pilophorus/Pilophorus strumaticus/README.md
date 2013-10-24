@@ -1,17 +1,16 @@
-Pilophorus distans (Hulting) H. Magn. SPECIES
-=======
+# Pilophorus strumaticus Nyl. ex Cromb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 108: 298 (1955)
+J. Bot. 13: 140 (1875)
 
 #### Original name
-Pilophoron robustum f. distans Hulting
+Pilophorus strumaticus Nyl. ex Cromb.
 
 ### Remarks
 null

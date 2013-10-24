@@ -1,5 +1,4 @@
-Panus nigrifolius Peck SPECIES
-=======
+# Panus nigrifolius Peck SPECIES
 
 #### Status
 ACCEPTED

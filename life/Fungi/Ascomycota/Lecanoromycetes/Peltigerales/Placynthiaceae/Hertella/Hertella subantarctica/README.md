@@ -1,5 +1,4 @@
-Hertella subantarctica Henssen SPECIES
-=======
+# Hertella subantarctica Henssen SPECIES
 
 #### Status
 ACCEPTED

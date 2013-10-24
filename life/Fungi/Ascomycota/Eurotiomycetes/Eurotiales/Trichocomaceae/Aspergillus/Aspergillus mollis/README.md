@@ -1,5 +1,4 @@
-Aspergillus mollis Berk. SPECIES
-=======
+# Aspergillus mollis Berk. SPECIES
 
 #### Status
 ACCEPTED

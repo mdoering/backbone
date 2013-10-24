@@ -1,5 +1,4 @@
-Dictyota divaricata J.V. Lamouroux SPECIES
-=======
+# Dictyota divaricata J.V. Lamouroux SPECIES
 
 #### Status
 ACCEPTED

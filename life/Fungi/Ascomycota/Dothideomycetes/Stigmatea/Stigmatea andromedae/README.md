@@ -1,5 +1,4 @@
-Stigmatea andromedae Rehm SPECIES
-=======
+# Stigmatea andromedae Rehm SPECIES
 
 #### Status
 ACCEPTED

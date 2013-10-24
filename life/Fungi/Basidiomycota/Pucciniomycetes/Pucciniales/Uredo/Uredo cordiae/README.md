@@ -1,5 +1,4 @@
-Uredo cordiae Henn. SPECIES
-=======
+# Uredo cordiae Henn. SPECIES
 
 #### Status
 ACCEPTED

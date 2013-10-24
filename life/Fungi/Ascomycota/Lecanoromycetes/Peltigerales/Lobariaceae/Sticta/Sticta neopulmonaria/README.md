@@ -1,5 +1,4 @@
-Sticta neopulmonaria Gyeln. SPECIES
-=======
+# Sticta neopulmonaria Gyeln. SPECIES
 
 #### Status
 ACCEPTED

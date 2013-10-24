@@ -1,5 +1,4 @@
-Galerina subhypnorum (G.F. Atk.) Singer SPECIES
-=======
+# Galerina subhypnorum (G.F. Atk.) Singer SPECIES
 
 #### Status
 ACCEPTED

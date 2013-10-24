@@ -1,5 +1,4 @@
-Lachnea brasiliensis (G. Winter) Sacc. SPECIES
-=======
+# Lachnea brasiliensis (G. Winter) Sacc. SPECIES
 
 #### Status
 ACCEPTED

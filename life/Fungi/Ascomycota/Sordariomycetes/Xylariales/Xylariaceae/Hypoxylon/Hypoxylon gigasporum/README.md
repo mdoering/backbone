@@ -1,5 +1,4 @@
-Hypoxylon gigasporum (Ellis & Everh.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon gigasporum (Ellis & Everh.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tholoma metallasson Haeckel, 1887 SPECIES
-=======
+# Tholoma metallasson Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

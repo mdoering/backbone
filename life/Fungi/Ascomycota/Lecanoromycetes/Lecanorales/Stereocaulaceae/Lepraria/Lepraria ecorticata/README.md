@@ -1,17 +1,16 @@
-Lecanora coriensis (Hue) J.R. Laundon SPECIES
-=======
+# Lepraria ecorticata (J. R. Laundon) Kukwa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 76(1-2): 97 (2003)
+Mycotaxon 97: 64 (2006)
 
 #### Original name
-Lecanora coriensis (Hue) J.R. Laundon
+Lecanora ecorticata J. R. Laundon
 
 ### Remarks
 null

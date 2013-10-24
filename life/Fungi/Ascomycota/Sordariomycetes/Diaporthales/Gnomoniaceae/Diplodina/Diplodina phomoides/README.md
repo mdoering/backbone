@@ -1,5 +1,4 @@
-Diplodina phomoides Sacc. SPECIES
-=======
+# Diplodina phomoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

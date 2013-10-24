@@ -1,5 +1,4 @@
-Bordnamonas tropicana Larsen & Patterson, 1990 SPECIES
-=======
+# Bordnamonas tropicana Larsen & Patterson, 1990 SPECIES
 
 #### Status
 ACCEPTED

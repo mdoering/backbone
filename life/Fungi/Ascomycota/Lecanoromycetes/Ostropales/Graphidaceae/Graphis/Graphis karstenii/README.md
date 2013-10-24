@@ -1,5 +1,4 @@
-Graphis karstenii SPECIES
-=======
+# Graphis karstenii SPECIES
 
 #### Status
 ACCEPTED

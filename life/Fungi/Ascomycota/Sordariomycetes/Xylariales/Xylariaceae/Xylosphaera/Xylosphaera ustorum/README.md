@@ -1,5 +1,4 @@
-Xylosphaera ustorum (Pat.) Dennis SPECIES
-=======
+# Xylosphaera ustorum (Pat.) Dennis SPECIES
 
 #### Status
 ACCEPTED

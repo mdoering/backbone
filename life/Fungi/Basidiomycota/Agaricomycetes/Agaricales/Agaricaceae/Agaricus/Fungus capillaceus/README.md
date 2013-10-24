@@ -1,5 +1,4 @@
-Fungus capillaceus (Gillet) Kuntze SPECIES
-=======
+# Fungus capillaceus (Gillet) Kuntze SPECIES
 
 #### Status
 ACCEPTED

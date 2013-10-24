@@ -1,5 +1,4 @@
-Chlorocloster inaequalis Pascher SPECIES
-=======
+# Chlorocloster inaequalis Pascher SPECIES
 
 #### Status
 ACCEPTED

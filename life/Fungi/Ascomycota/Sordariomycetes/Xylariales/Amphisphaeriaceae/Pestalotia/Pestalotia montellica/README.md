@@ -1,5 +1,4 @@
-Pestalotia montellica Sacc. & Voglino SPECIES
-=======
+# Pestalotia montellica Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

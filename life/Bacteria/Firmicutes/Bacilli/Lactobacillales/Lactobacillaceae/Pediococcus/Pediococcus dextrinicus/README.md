@@ -1,5 +1,4 @@
-Pediococcus dextrinicus (Coster and White, 1964) Back, 1978 (Approved Lists, 1980) SPECIES
-=======
+# Pediococcus dextrinicus (Coster and White, 1964) Back, 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

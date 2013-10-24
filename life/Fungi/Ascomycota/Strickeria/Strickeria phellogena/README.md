@@ -1,14 +1,13 @@
-Strickera phellogena (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Strickeria phellogena (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3(2): 534 (1898)
 
 #### Original name
 Sphaeria phellogena Berk. & M.A. Curtis

@@ -1,5 +1,4 @@
-Ramgea annulispora Brumm., 1992 SPECIES
-=======
+# Ramgea annulispora Brumm., 1992 SPECIES
 
 #### Status
 ACCEPTED

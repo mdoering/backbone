@@ -1,5 +1,4 @@
-Puccinia incarcerata Lév. SPECIES
-=======
+# Puccinia incarcerata Lév. SPECIES
 
 #### Status
 ACCEPTED

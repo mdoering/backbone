@@ -1,5 +1,4 @@
-Amanita eburnea Tulloss SPECIES
-=======
+# Amanita eburnea Tulloss SPECIES
 
 #### Status
 ACCEPTED

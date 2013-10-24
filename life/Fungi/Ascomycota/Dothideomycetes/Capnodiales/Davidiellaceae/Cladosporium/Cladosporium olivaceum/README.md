@@ -1,5 +1,4 @@
-Cladosporium olivaceum (Corda) Bonord. SPECIES
-=======
+# Cladosporium olivaceum (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

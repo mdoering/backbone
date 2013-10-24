@@ -1,5 +1,4 @@
-Melanotus heteroloma Singer SPECIES
-=======
+# Melanotus heteroloma Singer SPECIES
 
 #### Status
 ACCEPTED

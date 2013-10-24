@@ -1,5 +1,4 @@
-Kaistia adipata Im et al., 2005 SPECIES
-=======
+# Kaistia adipata Im et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

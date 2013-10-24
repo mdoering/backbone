@@ -1,5 +1,4 @@
-Sarcoscypha melanopus (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Sarcoscypha melanopus (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

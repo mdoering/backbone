@@ -1,17 +1,16 @@
-Pezizella hungarica var. hungarica VARIETY
-=======
+# Cistella hungarica (Rehm) Raitv., 1978 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sistematiki i Rasprostranenie Gribov (Tartu) 151 (1978)
 
 #### Original name
-Pezizella hungarica var. hungarica
+Pezizella hungarica Rehm
 
 ### Remarks
 null

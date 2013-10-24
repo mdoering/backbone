@@ -1,17 +1,16 @@
-Trichia cascadensis H.C. Gilbert, 1932 SPECIES
-=======
+# Trichia alpina (R.E. Fr.) Meyl., 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Diagn. Mycoth. Univ. Cent. 53: 460 (1921)
 
 #### Original name
-null
+Trichia contorta alpina R.E. Fr., 1906
 
 ### Remarks
 null

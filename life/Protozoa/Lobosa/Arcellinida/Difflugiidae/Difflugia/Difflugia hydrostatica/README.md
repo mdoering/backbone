@@ -1,5 +1,4 @@
-Difflugia hydrostatica SPECIES
-=======
+# Difflugia hydrostatica SPECIES
 
 #### Status
 ACCEPTED

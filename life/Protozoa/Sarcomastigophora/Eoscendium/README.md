@@ -1,5 +1,4 @@
-Eoscendium Wang Naiwen, 1989 GENUS
-=======
+# Eoscendium Wang Naiwen, 1989 GENUS
 
 #### Status
 ACCEPTED

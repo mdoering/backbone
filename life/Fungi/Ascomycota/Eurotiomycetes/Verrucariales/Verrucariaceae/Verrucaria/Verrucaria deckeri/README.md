@@ -1,5 +1,4 @@
-Verrucaria deckeri O. Behr SPECIES
-=======
+# Verrucaria deckeri O. Behr SPECIES
 
 #### Status
 ACCEPTED

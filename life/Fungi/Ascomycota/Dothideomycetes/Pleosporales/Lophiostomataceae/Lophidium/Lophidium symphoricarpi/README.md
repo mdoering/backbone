@@ -1,5 +1,4 @@
-Lophidium symphoricarpi Brenckle SPECIES
-=======
+# Lophidium symphoricarpi Brenckle SPECIES
 
 #### Status
 ACCEPTED

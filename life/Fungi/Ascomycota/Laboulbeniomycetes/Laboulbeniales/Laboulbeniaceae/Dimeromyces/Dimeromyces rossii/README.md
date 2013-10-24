@@ -1,5 +1,4 @@
-Dimeromyces rossii Santam. SPECIES
-=======
+# Dimeromyces rossii Santam. SPECIES
 
 #### Status
 ACCEPTED

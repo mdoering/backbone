@@ -1,5 +1,4 @@
-Humaria subfusispora Maire SPECIES
-=======
+# Humaria subfusispora Maire SPECIES
 
 #### Status
 ACCEPTED

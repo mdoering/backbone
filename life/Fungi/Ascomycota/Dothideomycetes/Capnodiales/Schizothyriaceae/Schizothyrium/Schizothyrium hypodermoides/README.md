@@ -1,5 +1,4 @@
-Schizothyrium hypodermoides Rehm SPECIES
-=======
+# Schizothyrium hypodermoides Rehm SPECIES
 
 #### Status
 ACCEPTED

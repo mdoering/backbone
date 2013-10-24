@@ -1,5 +1,4 @@
-Parmelia frostii Tuck. SPECIES
-=======
+# Parmelia frostii Tuck. SPECIES
 
 #### Status
 ACCEPTED

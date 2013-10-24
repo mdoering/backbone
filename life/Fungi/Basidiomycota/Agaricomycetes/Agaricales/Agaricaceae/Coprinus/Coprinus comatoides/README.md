@@ -1,5 +1,4 @@
-Coprinus comatoides Dennis SPECIES
-=======
+# Coprinus comatoides Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptococcus festucosus Golubev & J.P. Samp. SPECIES
-=======
+# Cryptococcus festucosus Golubev & J.P. Samp. SPECIES
 
 #### Status
 ACCEPTED

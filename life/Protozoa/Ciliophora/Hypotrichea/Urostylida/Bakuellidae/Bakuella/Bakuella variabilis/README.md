@@ -1,5 +1,4 @@
-Bakuella variabilis SPECIES
-=======
+# Bakuella variabilis SPECIES
 
 #### Status
 ACCEPTED

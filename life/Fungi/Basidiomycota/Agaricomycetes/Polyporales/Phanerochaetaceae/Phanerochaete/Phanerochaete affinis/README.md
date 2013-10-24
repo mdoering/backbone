@@ -1,14 +1,13 @@
-Peniophora affinis Burt, 1926 SPECIES
-=======
+# Phanerochaete affinis (Burt) Parmasto, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 12: 266 (1926)
+Consp. System. Corticiac. (Tartu) 84 (1968)
 
 #### Original name
 Peniophora affinis Burt, 1926

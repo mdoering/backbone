@@ -1,5 +1,4 @@
-Plicaria salicina Velen. SPECIES
-=======
+# Plicaria salicina Velen. SPECIES
 
 #### Status
 ACCEPTED

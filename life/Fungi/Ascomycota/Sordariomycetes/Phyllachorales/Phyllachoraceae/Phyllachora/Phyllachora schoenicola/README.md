@@ -1,5 +1,4 @@
-Phyllachora schoenicola Syd. & P. Syd., 1913 SPECIES
-=======
+# Phyllachora schoenicola Syd. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

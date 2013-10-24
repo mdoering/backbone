@@ -1,17 +1,16 @@
-Asterothyrites konkanesis (R.K. Saxena & N.K. Misra) Kalgutkar & Janson. SPECIES
-=======
+# Asterothyrites konkanensis (R.K. Saxena & N.K. Misra) Kalgutkar & Janson. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+AASP Contributions Series (Dallas) 39: 34 (2000)
 
 #### Original name
-Paramicrothallites konkanensis R.K. Saxena & N.K. Misra
+Asterothyrites konkanensis (R.K. Saxena & N.K. Misra) Kalgutkar & Janson.
 
 ### Remarks
 null

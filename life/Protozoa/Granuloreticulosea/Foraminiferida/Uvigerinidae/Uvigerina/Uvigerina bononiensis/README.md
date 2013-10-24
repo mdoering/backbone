@@ -1,5 +1,4 @@
-Uvigerina bononiensis Fornasini, 1888 SPECIES
-=======
+# Uvigerina bononiensis Fornasini, 1888 SPECIES
 
 #### Status
 ACCEPTED

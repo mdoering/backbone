@@ -1,5 +1,4 @@
-Arthothelium atrorufum Müll. Arg. SPECIES
-=======
+# Arthothelium atrorufum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

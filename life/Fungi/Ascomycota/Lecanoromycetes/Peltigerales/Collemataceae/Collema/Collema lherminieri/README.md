@@ -1,5 +1,4 @@
-Collema lherminieri Hue SPECIES
-=======
+# Collema lherminieri Hue SPECIES
 
 #### Status
 ACCEPTED

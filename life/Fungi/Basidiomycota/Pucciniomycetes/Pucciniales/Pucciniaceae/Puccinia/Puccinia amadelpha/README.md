@@ -1,5 +1,4 @@
-Puccinia amadelpha Syd. SPECIES
-=======
+# Puccinia amadelpha Syd. SPECIES
 
 #### Status
 ACCEPTED

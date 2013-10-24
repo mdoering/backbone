@@ -1,5 +1,4 @@
-Archaeofavosina sinuta P. K. Maithy SPECIES
-=======
+# Archaeofavosina sinuta P. K. Maithy SPECIES
 
 #### Status
 ACCEPTED

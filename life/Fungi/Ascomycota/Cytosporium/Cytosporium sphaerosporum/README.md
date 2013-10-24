@@ -1,5 +1,4 @@
-Cytosporium sphaerosporum Peck SPECIES
-=======
+# Cytosporium sphaerosporum Peck SPECIES
 
 #### Status
 ACCEPTED

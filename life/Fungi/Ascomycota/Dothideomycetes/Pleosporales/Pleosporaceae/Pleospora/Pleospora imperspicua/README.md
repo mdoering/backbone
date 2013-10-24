@@ -1,5 +1,4 @@
-Pleospora imperspicua Pat. SPECIES
-=======
+# Pleospora imperspicua Pat. SPECIES
 
 #### Status
 ACCEPTED

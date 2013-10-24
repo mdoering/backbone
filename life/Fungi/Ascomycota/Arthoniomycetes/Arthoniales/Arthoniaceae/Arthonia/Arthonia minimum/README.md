@@ -1,5 +1,4 @@
-Arthonia minimum Vain. ex Van der Byl SPECIES
-=======
+# Arthonia minimum Vain. ex Van der Byl SPECIES
 
 #### Status
 ACCEPTED

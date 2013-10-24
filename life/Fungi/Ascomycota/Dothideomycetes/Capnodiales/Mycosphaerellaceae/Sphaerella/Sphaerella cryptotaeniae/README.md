@@ -1,5 +1,4 @@
-Sphaerella cryptotaeniae Henn. SPECIES
-=======
+# Sphaerella cryptotaeniae Henn. SPECIES
 
 #### Status
 ACCEPTED

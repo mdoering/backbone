@@ -1,5 +1,4 @@
-Agaricus albidoumbrinus Schumach. SPECIES
-=======
+# Agaricus albidoumbrinus Schumach. SPECIES
 
 #### Status
 ACCEPTED

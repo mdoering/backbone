@@ -1,5 +1,4 @@
-Glaucoma viridis Dujardin, 1841 SPECIES
-=======
+# Glaucoma viridis Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

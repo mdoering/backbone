@@ -1,5 +1,4 @@
-Stylopage lepte Drechsler, 1935 SPECIES
-=======
+# Stylopage lepte Drechsler, 1935 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stilbospora graminicola M. Shukla SPECIES
-=======
+# Stilbospora graminicola M. Shukla SPECIES
 
 #### Status
 ACCEPTED

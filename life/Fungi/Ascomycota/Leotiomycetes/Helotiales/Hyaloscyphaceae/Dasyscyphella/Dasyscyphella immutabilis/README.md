@@ -1,17 +1,16 @@
-Dasyscyphella inmutabilis R. Galán, A. Ortega & G. Moreno SPECIES
-=======
+# Dasyscyphella immutabilis R. Galán, A. Ortega & G. Moreno SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 1(3): 253 (1984)
 
 #### Original name
-Dasyscyphella inmutabilis R. Galán, A. Ortega & G. Moreno
+Dasyscyphella immutabilis R. Galán, A. Ortega & G. Moreno
 
 ### Remarks
 null

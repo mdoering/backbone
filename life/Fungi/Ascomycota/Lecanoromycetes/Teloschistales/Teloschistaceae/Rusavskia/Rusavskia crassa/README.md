@@ -1,5 +1,4 @@
-Rusavskia crassa (Malme) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Rusavskia crassa (Malme) S.Y. Kondr. & Kärnefelt SPECIES
 
 #### Status
 ACCEPTED

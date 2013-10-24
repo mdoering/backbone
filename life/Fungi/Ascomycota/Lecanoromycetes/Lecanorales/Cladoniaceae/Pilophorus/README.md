@@ -1,17 +1,16 @@
-Pilophorum Nyl. GENUS
-=======
+# Pilophorus Th. Fries, 1857 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Notiser 167 (1857)
+Stereoc. Piloph. Comm. 40 (1857)
 
 #### Original name
-Pilophorum Nyl.
+Pilophorus Th. Fries, 1857
 
 ### Remarks
 null

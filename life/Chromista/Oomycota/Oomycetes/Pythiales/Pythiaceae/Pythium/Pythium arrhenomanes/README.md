@@ -1,17 +1,16 @@
-Nematosporangium arrhenomanes var. hawaiiense Sideris, 1931 VARIETY
-=======
+# Pythium arrhenomanes Drechsler, 1928 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopathology 18(10): 874 (1928)
 
 #### Original name
-null
+Pythium arrhenomanes Drechsler, 1928
 
 ### Remarks
 null

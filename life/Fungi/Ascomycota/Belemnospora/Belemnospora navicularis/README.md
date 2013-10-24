@@ -1,17 +1,16 @@
-Belemnospora navicularia R.F. Castañeda & Heredia SPECIES
-=======
+# Belemnospora navicularis R.F. Castañeda & Heredia, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Cryptog. Mycol. 21(4): 221 (2000)
 
 #### Original name
-Belemnospora navicularia R.F. Castañeda & Heredia
+Belemnospora navicularis R.F. Castañeda & Heredia, 2000
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora occidentalis (Lynge) Lynge SPECIES
-=======
+# Lecanora occidentalis (Lynge) Lynge SPECIES
 
 #### Status
 ACCEPTED

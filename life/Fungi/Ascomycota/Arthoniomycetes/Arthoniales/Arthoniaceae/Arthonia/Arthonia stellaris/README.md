@@ -1,5 +1,4 @@
-Arthonia stellaris Kremp. SPECIES
-=======
+# Arthonia stellaris Kremp. SPECIES
 
 #### Status
 ACCEPTED

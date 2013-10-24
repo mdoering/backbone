@@ -1,5 +1,4 @@
-Septobasidium tomentosum Couch SPECIES
-=======
+# Septobasidium tomentosum Couch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora conferta (Duby ex Fr.) Grognot SPECIES
-=======
+# Lecanora conferta (Duby ex Fr.) Grognot SPECIES
 
 #### Status
 ACCEPTED

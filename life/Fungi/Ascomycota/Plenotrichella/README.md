@@ -1,5 +1,4 @@
-Plenotrichella GENUS
-=======
+# Plenotrichella GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta punica Sacc. & Speg. SPECIES
-=======
+# Phyllosticta punica Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

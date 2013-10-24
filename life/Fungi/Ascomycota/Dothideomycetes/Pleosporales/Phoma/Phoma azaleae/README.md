@@ -1,5 +1,4 @@
-Phoma azaleae Zerova SPECIES
-=======
+# Phoma azaleae Zerova SPECIES
 
 #### Status
 ACCEPTED

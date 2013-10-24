@@ -1,5 +1,4 @@
-Sphaerographium microperae (Cooke) Sacc. SPECIES
-=======
+# Sphaerographium microperae (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

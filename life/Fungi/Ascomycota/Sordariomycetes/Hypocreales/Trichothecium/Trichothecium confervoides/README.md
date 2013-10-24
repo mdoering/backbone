@@ -1,5 +1,4 @@
-Trichothecium confervoides Bonord. SPECIES
-=======
+# Trichothecium confervoides Bonord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diderma spumaroides (Fr.) Fr. SPECIES
-=======
+# Diderma spumaroides (Fr.) Fr. SPECIES
 
 #### Status
 ACCEPTED

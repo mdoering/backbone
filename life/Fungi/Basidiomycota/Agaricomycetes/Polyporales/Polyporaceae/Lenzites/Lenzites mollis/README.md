@@ -1,5 +1,4 @@
-Lenzites mollis Heufl. ex Kalchbr. SPECIES
-=======
+# Lenzites mollis Heufl. ex Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

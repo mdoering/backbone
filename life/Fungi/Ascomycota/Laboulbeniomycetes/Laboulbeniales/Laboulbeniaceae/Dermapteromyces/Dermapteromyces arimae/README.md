@@ -1,5 +1,4 @@
-Dermapteromyces arimae Thaxt., 1931 SPECIES
-=======
+# Dermapteromyces arimae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

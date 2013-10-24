@@ -1,5 +1,4 @@
-Sphaerella subostiolica Aggéry SPECIES
-=======
+# Sphaerella subostiolica Aggéry SPECIES
 
 #### Status
 ACCEPTED

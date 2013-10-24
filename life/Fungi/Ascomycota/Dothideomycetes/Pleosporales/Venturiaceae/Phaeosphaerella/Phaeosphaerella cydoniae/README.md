@@ -1,5 +1,4 @@
-Phaeosphaerella cydoniae Marcich SPECIES
-=======
+# Phaeosphaerella cydoniae Marcich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Vibrio ichthyodermis (Wells & ZoBell, 1934) Shewan et al., 1960 SPECIES
-=======
+# Vibrio anguillarum Bergeman, 1909 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

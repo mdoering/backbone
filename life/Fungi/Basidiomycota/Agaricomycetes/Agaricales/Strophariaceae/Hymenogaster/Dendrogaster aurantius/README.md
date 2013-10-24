@@ -1,5 +1,4 @@
-Dendrogaster aurantius Corner & Hawker SPECIES
-=======
+# Dendrogaster aurantius Corner & Hawker SPECIES
 
 #### Status
 ACCEPTED

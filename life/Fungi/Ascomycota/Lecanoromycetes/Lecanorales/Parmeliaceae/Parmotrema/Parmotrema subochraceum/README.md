@@ -1,5 +1,4 @@
-Parmotrema subochraceum Hale SPECIES
-=======
+# Parmotrema subochraceum Hale SPECIES
 
 #### Status
 ACCEPTED

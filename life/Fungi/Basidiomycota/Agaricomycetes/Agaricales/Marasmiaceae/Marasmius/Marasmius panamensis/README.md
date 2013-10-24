@@ -1,5 +1,4 @@
-Marasmius panamensis Singer SPECIES
-=======
+# Marasmius panamensis Singer SPECIES
 
 #### Status
 ACCEPTED

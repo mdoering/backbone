@@ -1,5 +1,4 @@
-Leptosphaeria incruenta Kirschst. SPECIES
-=======
+# Leptosphaeria incruenta Kirschst. SPECIES
 
 #### Status
 ACCEPTED

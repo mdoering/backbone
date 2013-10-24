@@ -1,17 +1,16 @@
-Dimerinopsis luzoniensis Syd. & P. Syd. SPECIES
-=======
+# Dimerinopsis luzonensis Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 15(3/4): 202 (1917)
 
 #### Original name
-Dimerinopsis luzoniensis Syd. & P. Syd.
+Dimerinopsis luzonensis Syd. & P. Syd.
 
 ### Remarks
 null

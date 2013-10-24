@@ -1,5 +1,4 @@
-Lunospora suboxyspora (Lobik) Frandsen SPECIES
-=======
+# Lunospora suboxyspora (Lobik) Frandsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bullera grandispora Derx SPECIES
-=======
+# Bullera grandispora Derx SPECIES
 
 #### Status
 ACCEPTED

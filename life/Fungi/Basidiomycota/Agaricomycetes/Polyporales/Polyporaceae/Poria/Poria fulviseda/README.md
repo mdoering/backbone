@@ -1,5 +1,4 @@
-Poria fulviseda Bres. SPECIES
-=======
+# Poria fulviseda Bres. SPECIES
 
 #### Status
 ACCEPTED

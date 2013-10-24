@@ -1,5 +1,4 @@
-Cetobacterium somerae Finegold et al., 2003 SPECIES
-=======
+# Cetobacterium somerae Finegold et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

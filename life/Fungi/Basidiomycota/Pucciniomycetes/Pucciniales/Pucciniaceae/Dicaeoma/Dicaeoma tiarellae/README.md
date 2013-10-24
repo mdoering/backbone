@@ -1,5 +1,4 @@
-Dicaeoma tiarellae (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dicaeoma tiarellae (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

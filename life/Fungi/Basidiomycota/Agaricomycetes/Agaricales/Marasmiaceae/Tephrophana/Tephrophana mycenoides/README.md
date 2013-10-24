@@ -1,5 +1,4 @@
-Tephrophana mycenoides Métrod SPECIES
-=======
+# Tephrophana mycenoides Métrod SPECIES
 
 #### Status
 ACCEPTED

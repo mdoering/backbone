@@ -1,8 +1,7 @@
-Bolivina catanensis Seguenza, 1862 SPECIES
-=======
+# Brizalina catanensis (Seguenza, 1862) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

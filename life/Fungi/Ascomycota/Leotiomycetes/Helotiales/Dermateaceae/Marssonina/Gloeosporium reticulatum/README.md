@@ -1,5 +1,4 @@
-Gloeosporium reticulatum Roum. SPECIES
-=======
+# Gloeosporium reticulatum Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leiosphaeridia nalderaensis Nautiyal, 1985 SPECIES
-=======
+# Leiosphaeridia nalderaensis Nautiyal, 1985 SPECIES
 
 #### Status
 ACCEPTED

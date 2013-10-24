@@ -1,5 +1,4 @@
-Norrlinia peltigericola (Nyl.) Theiss. & Syd. SPECIES
-=======
+# Norrlinia peltigericola (Nyl.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

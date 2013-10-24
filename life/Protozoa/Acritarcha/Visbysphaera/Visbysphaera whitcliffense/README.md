@@ -1,5 +1,4 @@
-Visbysphaera whitcliffense Dorning, 1981 SPECIES
-=======
+# Visbysphaera whitcliffense Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Hemiophrys punctata Kahl, 1926 SPECIES
-=======
+# Amphileptus punctatus (Kahl, 1926) Foissner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

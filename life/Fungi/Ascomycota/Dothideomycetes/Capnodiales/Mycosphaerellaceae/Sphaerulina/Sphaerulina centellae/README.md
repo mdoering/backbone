@@ -1,5 +1,4 @@
-Sphaerulina centellae Sawada SPECIES
-=======
+# Sphaerulina centellae Sawada SPECIES
 
 #### Status
 ACCEPTED

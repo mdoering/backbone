@@ -1,5 +1,4 @@
-Roseivivax halotolerans Suzuki et al., 1999 SPECIES
-=======
+# Roseivivax halotolerans Suzuki et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

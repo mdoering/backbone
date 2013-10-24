@@ -1,5 +1,4 @@
-Heppia impressula H. Magn. SPECIES
-=======
+# Heppia impressula H. Magn. SPECIES
 
 #### Status
 ACCEPTED

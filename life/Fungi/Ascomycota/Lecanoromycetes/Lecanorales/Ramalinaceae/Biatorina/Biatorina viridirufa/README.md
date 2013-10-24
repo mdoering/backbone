@@ -1,5 +1,4 @@
-Biatorina viridirufa (Ach.) Hazsl. SPECIES
-=======
+# Biatorina viridirufa (Ach.) Hazsl. SPECIES
 
 #### Status
 ACCEPTED

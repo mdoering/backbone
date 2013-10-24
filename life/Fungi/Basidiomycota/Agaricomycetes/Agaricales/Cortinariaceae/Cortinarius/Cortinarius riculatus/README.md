@@ -1,5 +1,4 @@
-Cortinarius riculatus Fr. SPECIES
-=======
+# Cortinarius riculatus Fr. SPECIES
 
 #### Status
 ACCEPTED

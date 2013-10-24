@@ -1,5 +1,4 @@
-Stictochorella fraxini (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Stictochorella fraxini (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

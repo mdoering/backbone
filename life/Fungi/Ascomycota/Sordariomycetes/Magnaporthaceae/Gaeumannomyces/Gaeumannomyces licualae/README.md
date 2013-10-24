@@ -1,5 +1,4 @@
-Gaeumannomyces licualae J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Gaeumannomyces licualae J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

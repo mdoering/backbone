@@ -1,5 +1,4 @@
-Daldinia sacchari Dargan & K.S. Thind, 1985 SPECIES
-=======
+# Daldinia sacchari Dargan & K.S. Thind, 1985 SPECIES
 
 #### Status
 ACCEPTED

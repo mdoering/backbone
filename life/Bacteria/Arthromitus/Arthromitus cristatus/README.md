@@ -1,5 +1,4 @@
-Arthromitus cristatus Leidy SPECIES
-=======
+# Arthromitus cristatus Leidy SPECIES
 
 #### Status
 ACCEPTED

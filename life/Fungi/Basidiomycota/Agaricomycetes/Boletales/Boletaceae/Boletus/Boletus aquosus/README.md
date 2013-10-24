@@ -1,5 +1,4 @@
-Boletus aquosus Krombh. SPECIES
-=======
+# Boletus aquosus Krombh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Microporus subpellucidus (Berk.) Kuntze, 1898 SPECIES
-=======
+# Trametes pocas (Berk.) Ryvarden, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 497 (1898)
+Mycotaxon 20(2): 351 (1984)
 
 #### Original name
-Polyporus subpellucidus Berk., 1878
+Polyporus pocas Berk., 1878
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Trametes cincta Bose SPECIES
-=======
+# Trametes cincta Bose SPECIES
 
 #### Status
 ACCEPTED

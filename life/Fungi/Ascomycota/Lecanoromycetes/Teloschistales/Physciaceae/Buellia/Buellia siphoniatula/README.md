@@ -1,5 +1,4 @@
-Buellia siphoniatula Zahlbr. SPECIES
-=======
+# Buellia siphoniatula Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

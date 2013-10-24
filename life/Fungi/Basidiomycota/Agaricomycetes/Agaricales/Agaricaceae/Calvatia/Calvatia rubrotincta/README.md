@@ -1,5 +1,4 @@
-Calvatia rubrotincta Zeller SPECIES
-=======
+# Calvatia rubrotincta Zeller SPECIES
 
 #### Status
 ACCEPTED

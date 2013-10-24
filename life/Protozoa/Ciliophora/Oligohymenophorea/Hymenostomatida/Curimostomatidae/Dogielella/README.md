@@ -1,5 +1,4 @@
-Dogielella Poljanskii, 1925 GENUS
-=======
+# Dogielella Poljanskii, 1925 GENUS
 
 #### Status
 ACCEPTED

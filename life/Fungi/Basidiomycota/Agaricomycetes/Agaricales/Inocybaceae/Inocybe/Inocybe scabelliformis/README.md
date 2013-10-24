@@ -1,5 +1,4 @@
-Inocybe scabelliformis Malençon SPECIES
-=======
+# Inocybe scabelliformis Malençon SPECIES
 
 #### Status
 ACCEPTED

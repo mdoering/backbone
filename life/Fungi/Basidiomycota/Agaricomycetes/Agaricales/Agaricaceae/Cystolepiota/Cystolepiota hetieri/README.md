@@ -1,14 +1,13 @@
-Cystoderma hetieri (Boud.) Singer, 1939 SPECIES
-=======
+# Cystolepiota hetieri (Boud.) Singer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 17: 53 (1939)
+Beih. Sydowia 7: 67 (1973)
 
 #### Original name
 Lepiota hetieri Boud., 1902

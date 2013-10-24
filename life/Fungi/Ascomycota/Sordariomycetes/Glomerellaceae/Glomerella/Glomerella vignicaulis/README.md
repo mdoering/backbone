@@ -1,5 +1,4 @@
-Glomerella vignicaulis Tehon SPECIES
-=======
+# Glomerella vignicaulis Tehon SPECIES
 
 #### Status
 ACCEPTED

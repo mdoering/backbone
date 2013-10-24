@@ -1,5 +1,4 @@
-Calicium picastrellum Ach. SPECIES
-=======
+# Calicium picastrellum Ach. SPECIES
 
 #### Status
 ACCEPTED

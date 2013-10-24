@@ -1,5 +1,4 @@
-Pandanicola calocarpa (Syd. & P. Syd.) K.D. Hyde, 1994 SPECIES
-=======
+# Pandanicola calocarpa (Syd. & P. Syd.) K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

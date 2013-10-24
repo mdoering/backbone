@@ -1,5 +1,4 @@
-Marasmiellus trichodermialis Singer SPECIES
-=======
+# Marasmiellus trichodermialis Singer SPECIES
 
 #### Status
 ACCEPTED

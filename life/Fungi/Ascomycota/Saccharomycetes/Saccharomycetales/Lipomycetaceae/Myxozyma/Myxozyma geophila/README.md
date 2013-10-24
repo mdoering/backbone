@@ -1,5 +1,4 @@
-Myxozyma geophila Van der Walt, Y. Yamada & Nakase, 1987 SPECIES
-=======
+# Myxozyma geophila Van der Walt, Y. Yamada & Nakase, 1987 SPECIES
 
 #### Status
 ACCEPTED

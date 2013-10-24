@@ -1,5 +1,4 @@
-Eponides wrighti SPECIES
-=======
+# Eponides wrighti SPECIES
 
 #### Status
 ACCEPTED

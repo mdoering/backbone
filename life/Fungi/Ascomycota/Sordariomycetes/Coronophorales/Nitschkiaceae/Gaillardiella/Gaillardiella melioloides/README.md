@@ -1,5 +1,4 @@
-Gaillardiella melioloides Rehm SPECIES
-=======
+# Gaillardiella melioloides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lactarius nothofagi R. Heim, 1951 SPECIES
-=======
+# Lactarius nothofagi R. Heim, 1951 SPECIES
 
 #### Status
 ACCEPTED

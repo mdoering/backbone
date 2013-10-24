@@ -1,5 +1,4 @@
-Praecalpionellites Pop, 1986 GENUS
-=======
+# Praecalpionellites Pop, 1986 GENUS
 
 #### Status
 ACCEPTED

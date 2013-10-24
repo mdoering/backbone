@@ -1,5 +1,4 @@
-Trichococcus palustris (Zhilina et al., 1997) Liu et al., 2002 SPECIES
-=======
+# Trichococcus palustris (Zhilina et al., 1997) Liu et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

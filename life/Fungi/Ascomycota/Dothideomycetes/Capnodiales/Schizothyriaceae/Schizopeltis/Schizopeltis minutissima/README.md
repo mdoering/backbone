@@ -1,5 +1,4 @@
-Schizopeltis minutissima (Speg.) Bat. SPECIES
-=======
+# Schizopeltis minutissima (Speg.) Bat. SPECIES
 
 #### Status
 ACCEPTED

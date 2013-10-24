@@ -1,5 +1,4 @@
-Talaromyces barcinensis Yaguchi & Udagawa, 1993 SPECIES
-=======
+# Talaromyces barcinensis Yaguchi & Udagawa, 1993 SPECIES
 
 #### Status
 ACCEPTED

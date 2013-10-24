@@ -1,11 +1,10 @@
-Streptomyces erythreus (Waksman, 1923), Waksman & Henrici, 1948 SPECIES
-=======
+# Saccharopolyspora erythraea (Waksman, 1923) Labeda, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

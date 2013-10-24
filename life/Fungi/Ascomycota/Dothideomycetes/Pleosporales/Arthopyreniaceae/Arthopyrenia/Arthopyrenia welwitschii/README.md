@@ -1,5 +1,4 @@
-Arthopyrenia welwitschii (A.L. Sm.) Aptroot SPECIES
-=======
+# Arthopyrenia welwitschii (A.L. Sm.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

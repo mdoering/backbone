@@ -1,5 +1,4 @@
-Penicillium maltum M. Hori & T. Yamam. SPECIES
-=======
+# Penicillium maltum M. Hori & T. Yamam. SPECIES
 
 #### Status
 ACCEPTED

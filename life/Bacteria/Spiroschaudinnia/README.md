@@ -1,5 +1,4 @@
-Spiroschaudinnia Sambon, 1907 GENUS
-=======
+# Spiroschaudinnia Sambon, 1907 GENUS
 
 #### Status
 ACCEPTED

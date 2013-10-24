@@ -1,5 +1,4 @@
-Odontia cinnamomea Mont. SPECIES
-=======
+# Odontia cinnamomea Mont. SPECIES
 
 #### Status
 ACCEPTED

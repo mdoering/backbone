@@ -1,5 +1,4 @@
-Sphaeria cicutae Lasch SPECIES
-=======
+# Sphaeria cicutae Lasch SPECIES
 
 #### Status
 ACCEPTED

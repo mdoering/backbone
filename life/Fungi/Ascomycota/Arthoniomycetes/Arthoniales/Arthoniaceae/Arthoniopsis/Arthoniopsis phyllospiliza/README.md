@@ -1,5 +1,4 @@
-Arthoniopsis phyllospiliza (Nyl.) Zahlbr. SPECIES
-=======
+# Arthoniopsis phyllospiliza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

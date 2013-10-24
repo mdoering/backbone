@@ -1,5 +1,4 @@
-Lecidea robusta Fée SPECIES
-=======
+# Lecidea robusta Fée SPECIES
 
 #### Status
 ACCEPTED

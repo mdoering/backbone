@@ -1,17 +1,16 @@
-Beloides Labbé, 1899 GENUS
-=======
+# Pyxinia Hammerschmidt, 1838 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Tierreich, 5, 26.
+Isis (Oken), 1838, 357.
 
 #### Original name
-Xiphorhynchus Léger, 1893
+null
 
 ### Remarks
 null

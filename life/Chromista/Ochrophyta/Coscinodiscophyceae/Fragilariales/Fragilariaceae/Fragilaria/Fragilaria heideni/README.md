@@ -1,5 +1,4 @@
-Fragilaria heideni var. istvanffyi (Pantocsek) Hustedt VARIETY
-=======
+# Fragilaria heideni Østrup SPECIES
 
 #### Status
 ACCEPTED

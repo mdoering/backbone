@@ -1,5 +1,4 @@
-Endocarpon polyphyllizum Nyl. SPECIES
-=======
+# Endocarpon polyphyllizum Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hymenogaster pusillus Berk. & Broome, 1846 SPECIES
-=======
+# Hymenogaster arenarius Tul. & C. Tul., 1845 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 1 18: 75 (1846)
+G. bot. ital. 2(1): 55 (1844)
 
 #### Original name
-Hymenogaster pusillus Berk. & Broome, 1846
+Hymenogaster arenarius Tul. & C. Tul., 1845
 
 ### Remarks
 null

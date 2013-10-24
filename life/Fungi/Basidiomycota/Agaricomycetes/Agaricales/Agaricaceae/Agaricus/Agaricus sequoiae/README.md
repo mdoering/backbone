@@ -1,5 +1,4 @@
-Agaricus sequoiae Kerrigan SPECIES
-=======
+# Agaricus sequoiae Kerrigan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria veselskyi Auersw. SPECIES
-=======
+# Leptosphaeria veselskyi Auersw. SPECIES
 
 #### Status
 ACCEPTED

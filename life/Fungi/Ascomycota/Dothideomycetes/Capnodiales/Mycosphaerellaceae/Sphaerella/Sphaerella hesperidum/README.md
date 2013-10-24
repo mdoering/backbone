@@ -1,5 +1,4 @@
-Sphaerella hesperidum Penz. SPECIES
-=======
+# Sphaerella hesperidum Penz. SPECIES
 
 #### Status
 ACCEPTED

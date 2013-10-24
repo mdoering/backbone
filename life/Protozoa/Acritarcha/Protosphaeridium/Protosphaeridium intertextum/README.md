@@ -1,5 +1,4 @@
-Protosphaeridium intertextum Andreeva, 1973 SPECIES
-=======
+# Protosphaeridium intertextum Andreeva, 1973 SPECIES
 
 #### Status
 ACCEPTED

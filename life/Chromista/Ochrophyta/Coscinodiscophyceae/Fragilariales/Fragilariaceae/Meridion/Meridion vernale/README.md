@@ -1,5 +1,4 @@
-Meridion vernale C. Agardh SPECIES
-=======
+# Meridion vernale C. Agardh SPECIES
 
 #### Status
 ACCEPTED

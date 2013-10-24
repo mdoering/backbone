@@ -1,5 +1,4 @@
-Heterosphaeria laserpitii Gucevic SPECIES
-=======
+# Heterosphaeria laserpitii Gucevic SPECIES
 
 #### Status
 ACCEPTED

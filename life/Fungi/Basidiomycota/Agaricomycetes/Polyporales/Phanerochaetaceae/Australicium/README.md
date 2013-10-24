@@ -1,5 +1,4 @@
-Australicium Hjortstam & Ryvarden GENUS
-=======
+# Australicium Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

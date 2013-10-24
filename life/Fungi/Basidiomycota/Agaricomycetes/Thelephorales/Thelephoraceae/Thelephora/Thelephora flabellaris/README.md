@@ -1,5 +1,4 @@
-Thelephora flabellaris var. flabellaris VARIETY
-=======
+# Thelephora flabellaris (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

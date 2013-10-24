@@ -1,5 +1,4 @@
-Didymella winteri Petr. SPECIES
-=======
+# Didymella winteri Petr. SPECIES
 
 #### Status
 ACCEPTED

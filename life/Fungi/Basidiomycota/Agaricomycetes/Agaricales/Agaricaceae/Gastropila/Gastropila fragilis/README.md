@@ -1,14 +1,13 @@
-Pila fragilis (Lév.) Speg., 1923 SPECIES
-=======
+# Gastropila fragilis (Lév.) Homrich & J.E. Wright, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revista Chilena Hist. Nat. (1923)
+Mycologia 65(4): 781 (1973)
 
 #### Original name
 Mycenastrum fragile Lév., 1844

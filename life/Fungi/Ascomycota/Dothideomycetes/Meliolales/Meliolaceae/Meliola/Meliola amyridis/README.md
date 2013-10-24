@@ -1,5 +1,4 @@
-Meliola amyridis (Hansf.) Minter SPECIES
-=======
+# Meliola amyridis (Hansf.) Minter SPECIES
 
 #### Status
 ACCEPTED

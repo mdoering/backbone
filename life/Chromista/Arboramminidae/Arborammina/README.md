@@ -1,5 +1,4 @@
-Arborammina Shires, Gooday & Jones, 1994 GENUS
-=======
+# Arborammina Shires, Gooday & Jones, 1994 GENUS
 
 #### Status
 ACCEPTED

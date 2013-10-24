@@ -1,5 +1,4 @@
-Gyalecta epiphylloides Vain. SPECIES
-=======
+# Gyalecta epiphylloides Vain. SPECIES
 
 #### Status
 ACCEPTED

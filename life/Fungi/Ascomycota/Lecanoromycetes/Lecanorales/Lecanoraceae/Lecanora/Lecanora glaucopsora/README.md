@@ -1,5 +1,4 @@
-Lecanora glaucopsora (Nyl.) Vain. SPECIES
-=======
+# Lecanora glaucopsora (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

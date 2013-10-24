@@ -1,5 +1,4 @@
-Aplosporella guttifera (G.H. Otth) Petr. SPECIES
-=======
+# Aplosporella guttifera (G.H. Otth) Petr. SPECIES
 
 #### Status
 ACCEPTED

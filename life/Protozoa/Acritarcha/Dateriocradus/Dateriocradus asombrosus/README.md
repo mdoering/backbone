@@ -1,5 +1,4 @@
-Dateriocradus asombrosus (Cramer & Díez, 1976) Sarjeant & Vavrdová SPECIES
-=======
+# Dateriocradus asombrosus (Cramer & Díez, 1976) Sarjeant & Vavrdová SPECIES
 
 #### Status
 ACCEPTED

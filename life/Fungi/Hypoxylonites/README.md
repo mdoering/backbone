@@ -1,5 +1,4 @@
-Hypoxylonites Elsik GENUS
-=======
+# Hypoxylonites Elsik GENUS
 
 #### Status
 ACCEPTED

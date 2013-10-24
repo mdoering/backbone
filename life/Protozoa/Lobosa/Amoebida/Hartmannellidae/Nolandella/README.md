@@ -1,5 +1,4 @@
-Nolandella Page, 1983 GENUS
-=======
+# Nolandella Page, 1983 GENUS
 
 #### Status
 ACCEPTED

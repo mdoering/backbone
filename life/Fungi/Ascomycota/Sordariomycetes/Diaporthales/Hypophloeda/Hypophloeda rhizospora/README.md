@@ -1,5 +1,4 @@
-Hypophloeda rhizospora K.D. Hyde & E.B.G. Jones, 1989 SPECIES
-=======
+# Hypophloeda rhizospora K.D. Hyde & E.B.G. Jones, 1989 SPECIES
 
 #### Status
 ACCEPTED

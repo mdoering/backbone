@@ -1,5 +1,4 @@
-Aecidium manettiae F. Kern & Whetzel SPECIES
-=======
+# Aecidium manettiae F. Kern & Whetzel SPECIES
 
 #### Status
 ACCEPTED

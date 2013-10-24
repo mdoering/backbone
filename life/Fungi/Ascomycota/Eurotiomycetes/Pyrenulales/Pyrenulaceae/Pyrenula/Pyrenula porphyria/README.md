@@ -1,5 +1,4 @@
-Pyrenula porphyria G. Mey. SPECIES
-=======
+# Pyrenula porphyria G. Mey. SPECIES
 
 #### Status
 ACCEPTED

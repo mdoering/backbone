@@ -1,5 +1,4 @@
-Centrocubus octostylus Haeckel, 1887 SPECIES
-=======
+# Centrocubus octostylus Haeckel, 1887 SPECIES
 
 #### Status
 ACCEPTED

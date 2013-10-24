@@ -1,5 +1,4 @@
-Ascochyta pulmonariae Fuckel SPECIES
-=======
+# Ascochyta pulmonariae Fuckel SPECIES
 
 #### Status
 ACCEPTED

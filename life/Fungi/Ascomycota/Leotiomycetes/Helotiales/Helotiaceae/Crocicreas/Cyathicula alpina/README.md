@@ -1,5 +1,4 @@
-Cyathicula alpina Ellis & Everh. SPECIES
-=======
+# Cyathicula alpina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

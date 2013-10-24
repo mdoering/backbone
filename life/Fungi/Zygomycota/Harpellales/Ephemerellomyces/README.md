@@ -1,5 +1,4 @@
-Ephemerellomyces M.M. White & Lichtw. GENUS
-=======
+# Ephemerellomyces M.M. White & Lichtw. GENUS
 
 #### Status
 ACCEPTED

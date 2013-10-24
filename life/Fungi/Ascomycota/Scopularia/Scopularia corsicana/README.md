@@ -1,5 +1,4 @@
-Scopularia corsicana J.F.H. Beyma, 1945 SPECIES
-=======
+# Scopularia corsicana J.F.H. Beyma, 1945 SPECIES
 
 #### Status
 ACCEPTED

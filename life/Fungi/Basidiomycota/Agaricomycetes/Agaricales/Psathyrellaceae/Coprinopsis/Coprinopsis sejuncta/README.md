@@ -1,5 +1,4 @@
-Coprinopsis sejuncta Keirle, Hemmes & Desjardin SPECIES
-=======
+# Coprinopsis sejuncta Keirle, Hemmes & Desjardin SPECIES
 
 #### Status
 ACCEPTED

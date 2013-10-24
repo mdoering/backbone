@@ -1,5 +1,4 @@
-Omphalina brunnescens Murrill SPECIES
-=======
+# Omphalina brunnescens Murrill SPECIES
 
 #### Status
 ACCEPTED

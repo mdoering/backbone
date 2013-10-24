@@ -1,5 +1,4 @@
-Lecidea caulophylla (Tuck.) Zahlbr. SPECIES
-=======
+# Lecidea caulophylla (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

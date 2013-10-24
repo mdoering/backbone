@@ -1,5 +1,4 @@
-Echinocalpis Haeckel, 1881 GENUS
-=======
+# Echinocalpis Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

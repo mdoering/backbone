@@ -1,5 +1,4 @@
-Flammula decurrens Peck SPECIES
-=======
+# Flammula decurrens Peck SPECIES
 
 #### Status
 ACCEPTED

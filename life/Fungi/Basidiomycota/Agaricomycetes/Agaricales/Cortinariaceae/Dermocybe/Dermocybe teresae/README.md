@@ -1,5 +1,4 @@
-Dermocybe teresae Garrido SPECIES
-=======
+# Dermocybe teresae Garrido SPECIES
 
 #### Status
 ACCEPTED

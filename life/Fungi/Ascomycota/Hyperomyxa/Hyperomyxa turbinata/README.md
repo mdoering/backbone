@@ -1,5 +1,4 @@
-Hyperomyxa turbinata Bonord. SPECIES
-=======
+# Hyperomyxa turbinata Bonord. SPECIES
 
 #### Status
 ACCEPTED

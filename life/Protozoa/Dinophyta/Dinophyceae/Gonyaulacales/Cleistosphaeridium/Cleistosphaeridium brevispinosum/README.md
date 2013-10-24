@@ -1,5 +1,4 @@
-Cleistosphaeridium brevispinosum K. P. Jain & P. Millepied SPECIES
-=======
+# Cleistosphaeridium brevispinosum K. P. Jain & P. Millepied SPECIES
 
 #### Status
 ACCEPTED

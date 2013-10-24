@@ -1,5 +1,4 @@
-Pertusaria uralensis SPECIES
-=======
+# Pertusaria uralensis SPECIES
 
 #### Status
 ACCEPTED

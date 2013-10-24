@@ -1,5 +1,4 @@
-Fastigiella caroliniana (Bosc) Benedix SPECIES
-=======
+# Fastigiella caroliniana (Bosc) Benedix SPECIES
 
 #### Status
 ACCEPTED

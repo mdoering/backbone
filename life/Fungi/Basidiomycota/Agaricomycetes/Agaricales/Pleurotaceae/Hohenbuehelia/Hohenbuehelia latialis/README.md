@@ -1,5 +1,4 @@
-Hohenbuehelia latialis Angeli & Contu SPECIES
-=======
+# Hohenbuehelia latialis Angeli & Contu SPECIES
 
 #### Status
 ACCEPTED

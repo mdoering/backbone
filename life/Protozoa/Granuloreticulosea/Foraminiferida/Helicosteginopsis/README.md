@@ -1,5 +1,4 @@
-Helicosteginopsis Caudri, 1975 GENUS
-=======
+# Helicosteginopsis Caudri, 1975 GENUS
 
 #### Status
 ACCEPTED

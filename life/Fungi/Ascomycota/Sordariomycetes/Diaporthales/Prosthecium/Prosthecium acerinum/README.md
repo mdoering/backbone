@@ -1,5 +1,4 @@
-Prosthecium acerinum Voglmayr & Jakl. SPECIES
-=======
+# Prosthecium acerinum Voglmayr & Jakl. SPECIES
 
 #### Status
 ACCEPTED

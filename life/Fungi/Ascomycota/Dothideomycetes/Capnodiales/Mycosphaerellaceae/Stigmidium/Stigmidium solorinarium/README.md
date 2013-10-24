@@ -1,17 +1,16 @@
-Stigmidium solorinaria (Vain.) D. Hawksw. SPECIES
-=======
+# Stigmidium solorinarium (Vain.) D. Hawksw., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lichenologist 15(1): 14 (1983)
 
 #### Original name
-Pharcidia conioides var. solorinaria Vain.
+Pharcidia coniodes var. solorinaria Vain., 1918
 
 ### Remarks
 null

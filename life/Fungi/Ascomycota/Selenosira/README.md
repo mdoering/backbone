@@ -1,5 +1,4 @@
-Selenosira Petr. GENUS
-=======
+# Selenosira Petr. GENUS
 
 #### Status
 ACCEPTED

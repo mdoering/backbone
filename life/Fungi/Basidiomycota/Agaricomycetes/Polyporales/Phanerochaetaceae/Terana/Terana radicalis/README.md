@@ -1,5 +1,4 @@
-Terana radicalis (Berk.) Kuntze SPECIES
-=======
+# Terana radicalis (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Lanarcalpis Bütschli in Bronn, 1889 GENUS
-=======
+# Larnacalpis Haeckel, 1887 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-in Bronn, Klass. Ordn. Tierr. , 1 (3), 1966.
+Rep. Voy. Challenger, Zool. , 18 (1), 620.
 
 #### Original name
 null

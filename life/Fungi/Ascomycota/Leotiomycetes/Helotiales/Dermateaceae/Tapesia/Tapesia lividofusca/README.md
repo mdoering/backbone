@@ -1,14 +1,13 @@
-Peziza lividofusca Fr. SPECIES
-=======
+# Tapesia lividofusca (Fr.) Rehm, 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 2(1): 147 (1822)
+in Rabenhorst, Rabenh. Krypt. -Fl. (Leipzig) 1(3): 576 (1891)
 
 #### Original name
 Peziza lividofusca Fr.

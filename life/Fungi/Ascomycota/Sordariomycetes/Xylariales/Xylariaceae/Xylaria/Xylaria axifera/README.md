@@ -1,5 +1,4 @@
-Xylaria axifera Mont. SPECIES
-=======
+# Xylaria axifera Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Microthyrium disjunctum Rehm SPECIES
-=======
+# Microthyrium disjunctum Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladonia congesta Ahti SPECIES
-=======
+# Cladonia congesta Ahti SPECIES
 
 #### Status
 ACCEPTED

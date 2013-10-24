@@ -1,5 +1,4 @@
-Agaricus praefoliatus Peck SPECIES
-=======
+# Agaricus praefoliatus Peck SPECIES
 
 #### Status
 ACCEPTED

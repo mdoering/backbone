@@ -1,5 +1,4 @@
-Zoogloea Itzigsohn, 1868 GENUS
-=======
+# Zoogloea Itzigsohn, 1868 GENUS
 
 #### Status
 ACCEPTED

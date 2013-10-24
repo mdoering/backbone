@@ -1,14 +1,13 @@
-Poronia leporina Ellis & Everh., 1890 SPECIES
-=======
+# Podosordaria leporina (Ellis & Everh.) Dennis, 1957 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Acad. nat. Sci. Philad. , 1890 42: 229 (1890)
+Kew Bull. 306 (1957)
 
 #### Original name
 Poronia leporina Ellis & Everh., 1890

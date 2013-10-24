@@ -1,5 +1,4 @@
-Andriella Bolli, 1974 GENUS
-=======
+# Andriella Bolli, 1974 GENUS
 
 #### Status
 ACCEPTED

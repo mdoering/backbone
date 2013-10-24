@@ -1,5 +1,4 @@
-Oxytricha lanceolata Shibuya, 1930 SPECIES
-=======
+# Oxytricha lanceolata Shibuya, 1930 SPECIES
 
 #### Status
 ACCEPTED

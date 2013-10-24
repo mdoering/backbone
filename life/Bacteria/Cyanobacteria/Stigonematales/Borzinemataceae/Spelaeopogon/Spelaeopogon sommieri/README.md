@@ -1,5 +1,4 @@
-Spelaeopogon sommieri Borzi SPECIES
-=======
+# Spelaeopogon sommieri Borzi SPECIES
 
 #### Status
 ACCEPTED

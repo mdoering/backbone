@@ -1,5 +1,4 @@
-Penicillium album Epstein {?} SPECIES
-=======
+# Penicillium album Epstein {?} SPECIES
 
 #### Status
 ACCEPTED

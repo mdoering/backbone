@@ -1,8 +1,7 @@
-Stephanolithion biogotii Deflandre, 1939 SPECIES
-=======
+# Stephanolithion bigotii Deflandre, 1939 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

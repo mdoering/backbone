@@ -1,14 +1,13 @@
-Lecidea hyalinescens (Müll. Arg.) R.W. Rogers SPECIES
-=======
+# Lecanora hyalinescens Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Muelleria 5(1): 33 (1982)
+Flora, Jena 65: 484 (1882)
 
 #### Original name
 Lecanora hyalinescens Müll. Arg.

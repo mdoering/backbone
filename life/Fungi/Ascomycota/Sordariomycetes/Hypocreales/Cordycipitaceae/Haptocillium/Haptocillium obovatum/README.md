@@ -1,14 +1,13 @@
-Verticillium obovatum (Drechsler) Subram., 1977 SPECIES
-=======
+# Haptocillium obovatum (Drechsler) Glockling, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Kavaka 5: 98 (1977)
+Mycologist 19(1): 4 (2005)
 
 #### Original name
 Acrostalagmus obovatus Drechsler, 1941

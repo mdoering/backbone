@@ -1,5 +1,4 @@
-Podophrya fallax SPECIES
-=======
+# Podophrya fallax SPECIES
 
 #### Status
 ACCEPTED

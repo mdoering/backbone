@@ -1,5 +1,4 @@
-Parmeliella borbonica P. M. Jørg. & F. Schumm SPECIES
-=======
+# Parmeliella borbonica P. M. Jørg. & F. Schumm SPECIES
 
 #### Status
 ACCEPTED

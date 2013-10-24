@@ -1,5 +1,4 @@
-Teichospora trabicola Fuckel SPECIES
-=======
+# Teichospora trabicola Fuckel SPECIES
 
 #### Status
 ACCEPTED

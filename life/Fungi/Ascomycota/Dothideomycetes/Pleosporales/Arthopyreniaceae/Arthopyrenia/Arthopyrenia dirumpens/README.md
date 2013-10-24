@@ -1,5 +1,4 @@
-Arthopyrenia dirumpens Müll. Arg. SPECIES
-=======
+# Arthopyrenia dirumpens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma fuegianum Speg. SPECIES
-=======
+# Anthostoma fuegianum Speg. SPECIES
 
 #### Status
 ACCEPTED

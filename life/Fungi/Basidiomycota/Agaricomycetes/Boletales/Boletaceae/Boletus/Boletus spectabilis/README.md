@@ -1,5 +1,4 @@
-Boletus spectabilis Peck SPECIES
-=======
+# Boletus spectabilis Peck SPECIES
 
 #### Status
 ACCEPTED

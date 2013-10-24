@@ -1,17 +1,16 @@
-Gelatinosporium stillwelli A. Funk SPECIES
-=======
+# Gelatinosporium stillwellii A. Funk SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Can. J. Bot. 57(7): 767 (1979)
 
 #### Original name
-Gelatinosporium stillwelli A. Funk
+Gelatinosporium stillwellii A. Funk
 
 ### Remarks
 null

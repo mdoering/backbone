@@ -1,5 +1,4 @@
-Allodus microica (Ellis) Orton SPECIES
-=======
+# Allodus microica (Ellis) Orton SPECIES
 
 #### Status
 ACCEPTED

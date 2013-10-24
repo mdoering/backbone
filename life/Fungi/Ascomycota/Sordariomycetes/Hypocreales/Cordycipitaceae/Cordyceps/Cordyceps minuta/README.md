@@ -1,5 +1,4 @@
-Cordyceps minuta Kobayasi SPECIES
-=======
+# Cordyceps minuta Kobayasi SPECIES
 
 #### Status
 ACCEPTED

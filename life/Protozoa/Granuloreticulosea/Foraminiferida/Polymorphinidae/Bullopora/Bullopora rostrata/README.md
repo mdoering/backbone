@@ -1,5 +1,4 @@
-Bullopora rostrata Quenstedt SPECIES
-=======
+# Bullopora rostrata Quenstedt SPECIES
 
 #### Status
 ACCEPTED

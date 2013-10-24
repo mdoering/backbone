@@ -1,5 +1,4 @@
-Paradermamoeba Smirnov & Goodkov, 1993 GENUS
-=======
+# Paradermamoeba Smirnov & Goodkov, 1993 GENUS
 
 #### Status
 ACCEPTED

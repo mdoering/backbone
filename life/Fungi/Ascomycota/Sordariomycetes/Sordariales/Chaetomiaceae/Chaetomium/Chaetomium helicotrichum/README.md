@@ -1,5 +1,4 @@
-Chaetomium helicotrichum J.P. Tewari & P.D. Agrawal SPECIES
-=======
+# Chaetomium helicotrichum J.P. Tewari & P.D. Agrawal SPECIES
 
 #### Status
 ACCEPTED

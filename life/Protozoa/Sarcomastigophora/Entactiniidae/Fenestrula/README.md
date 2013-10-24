@@ -1,5 +1,4 @@
-Fenestrula Yeh, 1995 GENUS
-=======
+# Fenestrula Yeh, 1995 GENUS
 
 #### Status
 ACCEPTED

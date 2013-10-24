@@ -1,5 +1,4 @@
-Puccinia fashamensis Ershad & Gjaerum SPECIES
-=======
+# Puccinia fashamensis Ershad & Gjaerum SPECIES
 
 #### Status
 ACCEPTED

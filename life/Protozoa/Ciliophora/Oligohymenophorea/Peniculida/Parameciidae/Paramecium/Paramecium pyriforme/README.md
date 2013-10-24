@@ -1,5 +1,4 @@
-Paramecium pyriforme Gourret & Roeser, 1886 SPECIES
-=======
+# Paramecium pyriforme Gourret & Roeser, 1886 SPECIES
 
 #### Status
 ACCEPTED

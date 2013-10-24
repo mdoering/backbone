@@ -1,5 +1,4 @@
-Sphaceloma cardamomi Muthappa SPECIES
-=======
+# Sphaceloma cardamomi Muthappa SPECIES
 
 #### Status
 ACCEPTED

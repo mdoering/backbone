@@ -1,5 +1,4 @@
-Psora aromatica (Turner) Boistel SPECIES
-=======
+# Psora aromatica (Turner) Boistel SPECIES
 
 #### Status
 ACCEPTED

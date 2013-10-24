@@ -1,5 +1,4 @@
-Chamaeceras badius (Peck) Kuntze SPECIES
-=======
+# Chamaeceras badius (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

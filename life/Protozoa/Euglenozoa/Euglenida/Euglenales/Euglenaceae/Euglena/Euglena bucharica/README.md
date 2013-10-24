@@ -1,5 +1,4 @@
-Euglena bucharica I. Kisselev SPECIES
-=======
+# Euglena bucharica I. Kisselev SPECIES
 
 #### Status
 ACCEPTED

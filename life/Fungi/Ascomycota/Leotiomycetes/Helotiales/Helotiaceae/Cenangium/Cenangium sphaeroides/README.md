@@ -1,5 +1,4 @@
-Cenangium sphaeroides (Pers.) SPECIES
-=======
+# Cenangium sphaeroides (Pers.) SPECIES
 
 #### Status
 ACCEPTED

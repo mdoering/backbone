@@ -1,5 +1,4 @@
-Auricularia ornata Pers. SPECIES
-=======
+# Auricularia ornata Pers. SPECIES
 
 #### Status
 ACCEPTED

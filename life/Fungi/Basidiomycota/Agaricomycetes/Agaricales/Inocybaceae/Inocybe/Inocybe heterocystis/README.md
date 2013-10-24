@@ -1,5 +1,4 @@
-Inocybe heterocystis Kühner SPECIES
-=======
+# Inocybe heterocystis Kühner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Galerina cedretorum var. cedretorum VARIETY
-=======
+# Galerina badipes (Fr.) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Inst. bot. Komarov. Acad. Sci. , Pl. Crypt, ser. 2 6: 470 (1950)
+Encyclop. Mycol. 7: 222 (1935)
 
 #### Original name
-Galerina cedretorum var. cedretorum
+Agaricus badipes Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Loxodes cucullio subsp. cucullio Dujardin, 1841 SUBSPECIES
-=======
+# Loxodes cucullio Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Passalora dioscoreiicola Y.L. Guo SPECIES
-=======
+# Passalora dioscoreicola Y.L. Guo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycosystema 20(3): 302 (2001)
 
 #### Original name
-Passalora dioscoreiicola Y.L. Guo
+Passalora dioscoreicola Y.L. Guo
 
 ### Remarks
 null

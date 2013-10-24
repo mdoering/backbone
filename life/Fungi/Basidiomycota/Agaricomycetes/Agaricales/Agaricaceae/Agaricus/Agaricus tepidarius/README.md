@@ -1,5 +1,4 @@
-Agaricus tepidarius Weinm. SPECIES
-=======
+# Agaricus tepidarius Weinm. SPECIES
 
 #### Status
 ACCEPTED

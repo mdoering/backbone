@@ -1,5 +1,4 @@
-Hydrocybe diluta SPECIES
-=======
+# Hydrocybe diluta SPECIES
 
 #### Status
 ACCEPTED

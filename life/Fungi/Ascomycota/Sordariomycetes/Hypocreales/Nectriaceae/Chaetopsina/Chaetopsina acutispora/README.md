@@ -1,5 +1,4 @@
-Chaetopsina acutispora Zucconi & Rambelli, 1993 SPECIES
-=======
+# Chaetopsina acutispora Zucconi & Rambelli, 1993 SPECIES
 
 #### Status
 ACCEPTED

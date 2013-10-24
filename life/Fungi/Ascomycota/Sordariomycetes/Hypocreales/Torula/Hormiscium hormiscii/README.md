@@ -1,5 +1,4 @@
-Hormiscium hormiscii (Corda) Bonord. SPECIES
-=======
+# Hormiscium hormiscii (Corda) Bonord. SPECIES
 
 #### Status
 ACCEPTED

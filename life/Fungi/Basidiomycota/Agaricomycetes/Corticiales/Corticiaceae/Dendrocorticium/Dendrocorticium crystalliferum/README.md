@@ -1,5 +1,4 @@
-Dendrocorticium crystalliferum Boidin & Gilles SPECIES
-=======
+# Dendrocorticium crystalliferum Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

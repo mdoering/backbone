@@ -1,5 +1,4 @@
-Nucellosphaeridium minutum Timofeev, 1966 SPECIES
-=======
+# Nucellosphaeridium minutum Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

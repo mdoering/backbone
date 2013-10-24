@@ -1,5 +1,4 @@
-Cortinarius tomasii Melot SPECIES
-=======
+# Cortinarius tomasii Melot SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Desulfovibrio acrylicus van der Maarel et al., 1997 SPECIES
-=======
+# Desulfovibrio acrylicus van der Maarel et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

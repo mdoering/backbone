@@ -1,5 +1,4 @@
-Microthyrium sprucei Cooke SPECIES
-=======
+# Microthyrium sprucei Cooke SPECIES
 
 #### Status
 ACCEPTED

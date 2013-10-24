@@ -1,5 +1,4 @@
-Puccinia myosotidis-alpestris Korbonsk. SPECIES
-=======
+# Puccinia myosotidis-alpestris Korbonsk. SPECIES
 
 #### Status
 ACCEPTED

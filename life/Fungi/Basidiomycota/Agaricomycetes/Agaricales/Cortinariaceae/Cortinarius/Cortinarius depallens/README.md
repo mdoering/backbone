@@ -1,5 +1,4 @@
-Cortinarius depallens (M.M. Moser) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius depallens (M.M. Moser) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Camarosporium henningsianum Kabát & Bubák SPECIES
-=======
+# Camarosporium henningsianum Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

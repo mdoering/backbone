@@ -1,5 +1,4 @@
-Trichosporum echeveriae Tassi SPECIES
-=======
+# Trichosporum echeveriae Tassi SPECIES
 
 #### Status
 ACCEPTED

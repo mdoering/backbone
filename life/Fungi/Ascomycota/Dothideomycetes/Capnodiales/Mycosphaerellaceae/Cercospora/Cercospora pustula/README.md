@@ -1,5 +1,4 @@
-Cercospora pustula Cooke SPECIES
-=======
+# Cercospora pustula Cooke SPECIES
 
 #### Status
 ACCEPTED

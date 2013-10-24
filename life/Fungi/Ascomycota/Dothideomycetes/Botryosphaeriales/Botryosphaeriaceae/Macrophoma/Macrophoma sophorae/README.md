@@ -1,5 +1,4 @@
-Macrophoma sophorae L.A. Kantsch. SPECIES
-=======
+# Macrophoma sophorae L.A. Kantsch. SPECIES
 
 #### Status
 ACCEPTED

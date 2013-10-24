@@ -1,5 +1,4 @@
-Trichodina baltica Quennerstedt, 1869 SPECIES
-=======
+# Trichodina baltica Quennerstedt, 1869 SPECIES
 
 #### Status
 ACCEPTED

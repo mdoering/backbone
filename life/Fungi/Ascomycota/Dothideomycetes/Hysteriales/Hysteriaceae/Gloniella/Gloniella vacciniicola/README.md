@@ -1,8 +1,7 @@
-Gloniella vaccinicola Dearn. & House SPECIES
-=======
+# Gloniella vacciniicola Dearn. & House SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gloniella vaccinicola Dearn. & House
+Gloniella vacciniicola Dearn. & House
 
 ### Remarks
 null

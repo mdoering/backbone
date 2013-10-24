@@ -1,17 +1,16 @@
-Caulochytrium protostelioides var. vulgaris L.S. Olive VARIETY
-=======
+# Caulochytrium protostelioides L.S. Olive, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Am. J. Bot. 67(4): 569 (1980)
 
 #### Original name
-Caulochytrium protostelioides var. vulgaris L.S. Olive
+Caulochytrium protostelioides L.S. Olive, 1980
 
 ### Remarks
 null

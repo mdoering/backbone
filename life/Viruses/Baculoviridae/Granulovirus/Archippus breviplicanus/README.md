@@ -1,5 +1,4 @@
-Archippus breviplicanus GV SPECIES
-=======
+# Archippus breviplicanus GV SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Claudopus pandanicola E. Horak SPECIES
-=======
+# Claudopus pandanicola E. Horak SPECIES
 
 #### Status
 ACCEPTED

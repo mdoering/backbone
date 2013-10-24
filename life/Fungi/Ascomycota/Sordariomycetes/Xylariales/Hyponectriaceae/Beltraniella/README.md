@@ -1,5 +1,4 @@
-Beltraniella Subram. GENUS
-=======
+# Beltraniella Subram. GENUS
 
 #### Status
 ACCEPTED

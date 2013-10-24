@@ -1,5 +1,4 @@
-Microthelia palmarum SPECIES
-=======
+# Microthelia palmarum SPECIES
 
 #### Status
 ACCEPTED

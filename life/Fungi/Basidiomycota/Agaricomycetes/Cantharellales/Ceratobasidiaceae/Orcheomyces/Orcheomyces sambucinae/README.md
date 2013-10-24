@@ -1,5 +1,4 @@
-Orcheomyces sambucinae Burgeff SPECIES
-=======
+# Orcheomyces sambucinae Burgeff SPECIES
 
 #### Status
 ACCEPTED

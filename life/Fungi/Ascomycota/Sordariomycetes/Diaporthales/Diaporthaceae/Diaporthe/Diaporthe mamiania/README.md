@@ -1,5 +1,4 @@
-Diaporthe mamiania Sacc. SPECIES
-=======
+# Diaporthe mamiania Sacc. SPECIES
 
 #### Status
 ACCEPTED

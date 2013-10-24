@@ -1,5 +1,4 @@
-Trypetheliomyces GENUS
-=======
+# Trypetheliomyces GENUS
 
 #### Status
 ACCEPTED

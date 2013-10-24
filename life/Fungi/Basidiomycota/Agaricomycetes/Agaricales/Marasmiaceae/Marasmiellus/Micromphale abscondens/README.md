@@ -1,5 +1,4 @@
-Micromphale abscondens (Peck) Murrill SPECIES
-=======
+# Micromphale abscondens (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

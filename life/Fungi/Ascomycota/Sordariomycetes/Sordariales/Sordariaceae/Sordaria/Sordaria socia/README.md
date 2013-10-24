@@ -1,5 +1,4 @@
-Sordaria socia De Not. SPECIES
-=======
+# Sordaria socia De Not. SPECIES
 
 #### Status
 ACCEPTED

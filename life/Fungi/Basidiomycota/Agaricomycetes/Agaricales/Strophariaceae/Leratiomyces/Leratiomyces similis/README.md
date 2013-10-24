@@ -1,17 +1,16 @@
-Le similis Pat., 1907 SPECIES
-=======
+# Leratiomyces similis (Pat. ex Sacc. & Trotter) Bresinsky & Manfr. Binder ex Redhead & McNeill, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 23(1): 52 (1907)
+Mycotaxon 105: 485 (2008)
 
 #### Original name
-Le similis Pat., 1907
+Le-Ratia similis Pat. ex Sacc. & Trotter
 
 ### Remarks
 null

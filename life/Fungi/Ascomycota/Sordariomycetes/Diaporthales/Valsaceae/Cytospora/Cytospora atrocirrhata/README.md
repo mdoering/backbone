@@ -1,5 +1,4 @@
-Cytospora atrocirrhata Gvrit. SPECIES
-=======
+# Cytospora atrocirrhata Gvrit. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryodiplodia marantae Speg. SPECIES
-=======
+# Botryodiplodia marantae Speg. SPECIES
 
 #### Status
 ACCEPTED

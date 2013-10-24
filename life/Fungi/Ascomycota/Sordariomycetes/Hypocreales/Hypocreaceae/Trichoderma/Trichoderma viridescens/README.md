@@ -1,5 +1,4 @@
-Trichoderma viridescens (A.S. Horne & H.S. Will.) Jaklitsch & Samuels SPECIES
-=======
+# Trichoderma viridescens (A.S. Horne & H.S. Will.) Jaklitsch & Samuels SPECIES
 
 #### Status
 ACCEPTED

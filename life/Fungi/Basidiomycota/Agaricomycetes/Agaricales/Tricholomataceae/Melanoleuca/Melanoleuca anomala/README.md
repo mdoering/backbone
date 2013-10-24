@@ -1,5 +1,4 @@
-Melanoleuca anomala Murrill SPECIES
-=======
+# Melanoleuca anomala Murrill SPECIES
 
 #### Status
 ACCEPTED

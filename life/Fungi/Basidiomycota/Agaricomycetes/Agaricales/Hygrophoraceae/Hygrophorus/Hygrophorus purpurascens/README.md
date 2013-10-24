@@ -1,5 +1,4 @@
-Hygrophorus purpurascens var. cedretorum Maire VARIETY
-=======
+# Hygrophorus purpurascens (Alb. & Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hygrophorus purpurascens var. cedretorum Maire
+Agaricus purpurascens Fr., 1818
 
 ### Remarks
 null

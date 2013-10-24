@@ -1,5 +1,4 @@
-Graphina tuberculosa (Stirt.) Zahlbr. SPECIES
-=======
+# Graphina tuberculosa (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

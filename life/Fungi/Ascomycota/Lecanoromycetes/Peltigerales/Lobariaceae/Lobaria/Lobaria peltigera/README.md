@@ -1,5 +1,4 @@
-Lobaria peltigera var. peltigera VARIETY
-=======
+# Lobaria peltigera (Delile) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lobaria peltigera var. peltigera
+Sticta peltigera Delile
 
 ### Remarks
 null

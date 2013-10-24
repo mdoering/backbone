@@ -1,5 +1,4 @@
-Rhizomorpha divergens Grev. SPECIES
-=======
+# Rhizomorpha divergens Grev. SPECIES
 
 #### Status
 ACCEPTED

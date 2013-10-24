@@ -1,5 +1,4 @@
-Dictyochorella andropogonis Doidge SPECIES
-=======
+# Dictyochorella andropogonis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria molybdina (Mont. & Moug.) Sacc. SPECIES
-=======
+# Leptosphaeria molybdina (Mont. & Moug.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

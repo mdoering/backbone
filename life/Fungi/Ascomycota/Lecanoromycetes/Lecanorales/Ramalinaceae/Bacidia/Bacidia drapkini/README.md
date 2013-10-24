@@ -1,5 +1,4 @@
-Bacidia drapkini B. de Lesd. SPECIES
-=======
+# Bacidia drapkini B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

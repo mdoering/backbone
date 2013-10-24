@@ -1,5 +1,4 @@
-Fusidium farina Schwein. SPECIES
-=======
+# Fusidium farina Schwein. SPECIES
 
 #### Status
 ACCEPTED

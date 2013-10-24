@@ -1,5 +1,4 @@
-Septocylindrium scirpinum Peck SPECIES
-=======
+# Septocylindrium scirpinum Peck SPECIES
 
 #### Status
 ACCEPTED

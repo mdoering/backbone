@@ -1,5 +1,4 @@
-Inocybe rosella Velen. SPECIES
-=======
+# Inocybe rosella Velen. SPECIES
 
 #### Status
 ACCEPTED

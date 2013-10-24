@@ -1,5 +1,4 @@
-Collema condensatum (Arnold) SPECIES
-=======
+# Collema condensatum (Arnold) SPECIES
 
 #### Status
 ACCEPTED

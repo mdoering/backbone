@@ -1,5 +1,4 @@
-Oscillatoria chrysothrix Skuja ex T. Willén SPECIES
-=======
+# Oscillatoria chrysothrix Skuja ex T. Willén SPECIES
 
 #### Status
 ACCEPTED

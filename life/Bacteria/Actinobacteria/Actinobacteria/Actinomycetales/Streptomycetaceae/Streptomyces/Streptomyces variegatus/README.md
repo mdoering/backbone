@@ -1,5 +1,4 @@
-Streptomyces variegatus Sveshnikova & Timuk, 1986 SPECIES
-=======
+# Streptomyces variegatus Sveshnikova & Timuk, 1986 SPECIES
 
 #### Status
 ACCEPTED

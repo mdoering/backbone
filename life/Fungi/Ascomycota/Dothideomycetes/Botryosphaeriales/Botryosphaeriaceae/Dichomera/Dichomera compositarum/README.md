@@ -1,5 +1,4 @@
-Dichomera compositarum Cooke & Harkn. SPECIES
-=======
+# Dichomera compositarum Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

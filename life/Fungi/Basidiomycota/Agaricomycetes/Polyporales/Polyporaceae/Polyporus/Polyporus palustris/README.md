@@ -1,5 +1,4 @@
-Polyporus palustris Murrill SPECIES
-=======
+# Polyporus palustris Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmiellus setipes (Fr.) Singer SPECIES
-=======
+# Marasmiellus setipes (Fr.) Singer SPECIES
 
 #### Status
 ACCEPTED

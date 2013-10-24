@@ -1,5 +1,4 @@
-Ustilago poae-bulbosae Savul. SPECIES
-=======
+# Ustilago poae-bulbosae Savul. SPECIES
 
 #### Status
 ACCEPTED

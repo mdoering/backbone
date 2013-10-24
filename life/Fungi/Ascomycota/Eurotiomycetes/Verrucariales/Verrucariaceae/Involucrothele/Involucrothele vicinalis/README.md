@@ -1,5 +1,4 @@
-Involucrothele vicinalis (Arnold) Servít SPECIES
-=======
+# Involucrothele vicinalis (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia morthieri Fuckel SPECIES
-=======
+# Rosellinia morthieri Fuckel SPECIES
 
 #### Status
 ACCEPTED

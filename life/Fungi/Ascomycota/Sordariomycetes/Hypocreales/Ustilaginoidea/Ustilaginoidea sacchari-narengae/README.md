@@ -1,5 +1,4 @@
-Ustilaginoidea sacchari-narengae Sawada SPECIES
-=======
+# Ustilaginoidea sacchari-narengae Sawada SPECIES
 
 #### Status
 ACCEPTED

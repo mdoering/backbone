@@ -1,5 +1,4 @@
-Mycena decembrina Velen. SPECIES
-=======
+# Mycena decembrina Velen. SPECIES
 
 #### Status
 ACCEPTED

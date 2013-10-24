@@ -1,5 +1,4 @@
-Megalospora javanica Untari SPECIES
-=======
+# Megalospora javanica Untari SPECIES
 
 #### Status
 ACCEPTED

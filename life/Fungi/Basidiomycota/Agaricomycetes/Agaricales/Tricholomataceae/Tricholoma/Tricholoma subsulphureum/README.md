@@ -1,5 +1,4 @@
-Tricholoma subsulphureum (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Tricholoma subsulphureum (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

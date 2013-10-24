@@ -1,17 +1,16 @@
-Phacopsis lesdaini Vouaux SPECIES
-=======
+# Echinodiscus lesdainii (Vouaux) Etayo & Diederich, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Soc. Nat. luxemb. 64 (2000)
 
 #### Original name
-Phacopsis lesdaini Vouaux
+Phacopsis lesdainii Vouaux
 
 ### Remarks
 null

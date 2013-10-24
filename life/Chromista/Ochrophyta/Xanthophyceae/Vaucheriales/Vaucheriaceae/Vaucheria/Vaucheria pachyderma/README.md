@@ -1,5 +1,4 @@
-Vaucheria pachyderma var. cerebrina P. González VARIETY
-=======
+# Vaucheria pachyderma Walz SPECIES
 
 #### Status
 ACCEPTED

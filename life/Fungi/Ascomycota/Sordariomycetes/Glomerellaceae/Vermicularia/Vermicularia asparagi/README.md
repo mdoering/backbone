@@ -1,5 +1,4 @@
-Vermicularia asparagi Delacr. SPECIES
-=======
+# Vermicularia asparagi Delacr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis centrifuga Räsänen SPECIES
-=======
+# Graphis centrifuga Räsänen SPECIES
 
 #### Status
 ACCEPTED

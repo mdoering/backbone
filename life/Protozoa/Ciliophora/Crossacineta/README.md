@@ -1,5 +1,4 @@
-Crossacineta Yankovskii, 1978 GENUS
-=======
+# Crossacineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

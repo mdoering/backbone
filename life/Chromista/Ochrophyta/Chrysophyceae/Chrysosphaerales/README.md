@@ -1,5 +1,4 @@
-Chrysosphaerales ORDER
-=======
+# Chrysosphaerales ORDER
 
 #### Status
 ACCEPTED

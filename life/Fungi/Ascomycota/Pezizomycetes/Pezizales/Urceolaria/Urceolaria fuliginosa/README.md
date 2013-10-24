@@ -1,5 +1,4 @@
-Urceolaria fuliginosa Motyka SPECIES
-=======
+# Urceolaria fuliginosa Motyka SPECIES
 
 #### Status
 ACCEPTED

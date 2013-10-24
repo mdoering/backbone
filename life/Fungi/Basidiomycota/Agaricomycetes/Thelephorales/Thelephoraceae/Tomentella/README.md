@@ -1,17 +1,16 @@
-Cyphellina Rick GENUS
-=======
+# Tomentella Johan-Olsen, 1888 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Rambo (Ed. ), Iheringia, Sér. Bot. 4: 124 (1959)
+Hyménomyc. Eur. (Paris) 154 (1887)
 
 #### Original name
-Cyphellina Rick
+Tomentella Johan-Olsen, 1888
 
 ### Remarks
 null

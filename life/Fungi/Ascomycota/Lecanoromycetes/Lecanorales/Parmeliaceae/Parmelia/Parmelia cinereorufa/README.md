@@ -1,5 +1,4 @@
-Parmelia cinereorufa Spreng. SPECIES
-=======
+# Parmelia cinereorufa Spreng. SPECIES
 
 #### Status
 ACCEPTED

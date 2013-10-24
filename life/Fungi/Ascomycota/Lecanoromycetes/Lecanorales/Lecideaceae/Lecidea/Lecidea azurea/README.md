@@ -1,5 +1,4 @@
-Lecidea azurea Kremp. SPECIES
-=======
+# Lecidea azurea Kremp. SPECIES
 
 #### Status
 ACCEPTED

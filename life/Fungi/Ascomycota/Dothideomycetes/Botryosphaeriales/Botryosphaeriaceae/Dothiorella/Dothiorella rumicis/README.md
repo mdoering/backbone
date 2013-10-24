@@ -1,5 +1,4 @@
-Dothiorella rumicis (Petr.) Petr. SPECIES
-=======
+# Dothiorella rumicis (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aleurina tahitensis (Pat.) Sacc. & P. Syd. SPECIES
-=======
+# Aleurina tahitensis (Pat.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

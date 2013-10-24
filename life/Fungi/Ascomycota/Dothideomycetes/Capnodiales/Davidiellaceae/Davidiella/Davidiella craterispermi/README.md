@@ -1,5 +1,4 @@
-Davidiella craterispermi (Hansf.) Aptroot, 2006 SPECIES
-=======
+# Davidiella craterispermi (Hansf.) Aptroot, 2006 SPECIES
 
 #### Status
 ACCEPTED

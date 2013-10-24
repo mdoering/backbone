@@ -1,14 +1,13 @@
-Mycena tesselata (Mont.) Dennis SPECIES
-=======
+# Mycena tessellata (Mont.) Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. , Addit. Ser. 3: 39 (1970)
 
 #### Original name
 Marasmius tessellatus Mont.

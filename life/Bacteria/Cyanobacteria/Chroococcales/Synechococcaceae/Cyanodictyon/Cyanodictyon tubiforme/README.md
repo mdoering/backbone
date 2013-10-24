@@ -1,5 +1,4 @@
-Cyanodictyon tubiforme Cronberg SPECIES
-=======
+# Cyanodictyon tubiforme Cronberg SPECIES
 
 #### Status
 ACCEPTED

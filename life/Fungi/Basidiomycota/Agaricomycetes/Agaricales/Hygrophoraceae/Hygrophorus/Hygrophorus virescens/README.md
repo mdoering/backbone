@@ -1,5 +1,4 @@
-Hygrophorus virescens Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus virescens Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ellipsoidion Pascher, 1937 GENUS
-=======
+# Ellipsoidion Pascher, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Fungus evonymoides Scop. SPECIES
-=======
+# Fungus euonymoides Scop. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Dissertationes ad scientiam naturalem pertinentes 116 (1772)
 
 #### Original name
-Fungus evonymoides Scop.
+Fungus euonymoides Scop.
 
 ### Remarks
 null

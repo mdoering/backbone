@@ -1,5 +1,4 @@
-Syracolithus roscoffensis SPECIES
-=======
+# Syracolithus roscoffensis SPECIES
 
 #### Status
 ACCEPTED

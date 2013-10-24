@@ -1,5 +1,4 @@
-Heterosporium dianellae Sawada SPECIES
-=======
+# Heterosporium dianellae Sawada SPECIES
 
 #### Status
 ACCEPTED

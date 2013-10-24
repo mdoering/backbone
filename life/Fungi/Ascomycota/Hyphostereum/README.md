@@ -1,5 +1,4 @@
-Hyphostereum Pat. GENUS
-=======
+# Hyphostereum Pat. GENUS
 
 #### Status
 ACCEPTED

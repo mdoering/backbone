@@ -1,5 +1,4 @@
-Pertusisphaeridium dispar Turner, 1986 SPECIES
-=======
+# Pertusisphaeridium dispar Turner, 1986 SPECIES
 
 #### Status
 ACCEPTED

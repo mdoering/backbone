@@ -1,5 +1,4 @@
-Chamaeceras tener (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Chamaeceras tener (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

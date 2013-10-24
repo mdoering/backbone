@@ -1,5 +1,4 @@
-Conocybe cettoiana Hauskn. & Enderle SPECIES
-=======
+# Conocybe cettoiana Hauskn. & Enderle SPECIES
 
 #### Status
 ACCEPTED

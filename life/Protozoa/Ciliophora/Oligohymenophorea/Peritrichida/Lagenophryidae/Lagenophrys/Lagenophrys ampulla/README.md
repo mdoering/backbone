@@ -1,8 +1,7 @@
-Circolagenophrys ampulla (Stein, 1851) Jankowski, 1980 SPECIES
-=======
+# Lagenophrys ampulla Stein, 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Sporoblastia pulicaris (A. Massal.) Trevis. SPECIES
-=======
+# Sporoblastia pulicaris (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

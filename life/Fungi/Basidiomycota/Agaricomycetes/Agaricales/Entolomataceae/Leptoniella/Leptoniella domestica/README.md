@@ -1,5 +1,4 @@
-Leptoniella domestica (Murrill) Murrill SPECIES
-=======
+# Leptoniella domestica (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

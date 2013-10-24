@@ -1,5 +1,4 @@
-Pluteus praestabilis (Britzelm.) Sacc. SPECIES
-=======
+# Pluteus praestabilis (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

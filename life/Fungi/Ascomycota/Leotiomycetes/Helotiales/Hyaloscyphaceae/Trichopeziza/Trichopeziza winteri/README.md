@@ -1,5 +1,4 @@
-Trichopeziza winteri (Cooke) Sacc. SPECIES
-=======
+# Trichopeziza winteri (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

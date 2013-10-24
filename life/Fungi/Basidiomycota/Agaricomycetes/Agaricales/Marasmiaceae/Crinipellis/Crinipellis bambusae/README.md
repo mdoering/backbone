@@ -1,5 +1,4 @@
-Crinipellis bambusae Pat. SPECIES
-=======
+# Crinipellis bambusae Pat. SPECIES
 
 #### Status
 ACCEPTED

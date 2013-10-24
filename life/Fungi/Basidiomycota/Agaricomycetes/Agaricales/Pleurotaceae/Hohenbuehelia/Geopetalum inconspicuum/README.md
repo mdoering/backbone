@@ -1,5 +1,4 @@
-Geopetalum inconspicuum (Massee) Murrill SPECIES
-=======
+# Geopetalum inconspicuum (Massee) Murrill SPECIES
 
 #### Status
 ACCEPTED

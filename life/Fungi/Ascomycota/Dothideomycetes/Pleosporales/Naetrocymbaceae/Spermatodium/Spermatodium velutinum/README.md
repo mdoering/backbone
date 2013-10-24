@@ -1,5 +1,4 @@
-Spermatodium velutinum (Bernh.) Trevis. SPECIES
-=======
+# Spermatodium velutinum (Bernh.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

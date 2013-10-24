@@ -1,5 +1,4 @@
-Valsa conostoma Mont. SPECIES
-=======
+# Valsa conostoma Mont. SPECIES
 
 #### Status
 ACCEPTED

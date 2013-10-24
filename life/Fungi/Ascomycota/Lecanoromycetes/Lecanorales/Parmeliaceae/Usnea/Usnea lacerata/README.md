@@ -1,5 +1,4 @@
-Usnea lacerata Motyka SPECIES
-=======
+# Usnea lacerata Motyka SPECIES
 
 #### Status
 ACCEPTED

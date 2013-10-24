@@ -1,5 +1,4 @@
-Meliolaster mackenzii Doidge SPECIES
-=======
+# Meliolaster mackenzii Doidge SPECIES
 
 #### Status
 ACCEPTED

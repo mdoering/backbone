@@ -1,5 +1,4 @@
-Involucrothele disjuncta (Arnold) Servít SPECIES
-=======
+# Involucrothele disjuncta (Arnold) Servít SPECIES
 
 #### Status
 ACCEPTED

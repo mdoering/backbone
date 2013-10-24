@@ -1,5 +1,4 @@
-Lyngbya penicillata (Gomont) Hoffmann SPECIES
-=======
+# Lyngbya penicillata (Gomont) Hoffmann SPECIES
 
 #### Status
 ACCEPTED

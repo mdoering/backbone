@@ -1,5 +1,4 @@
-Cladosporium casei (Johan-Olsen) Sacc. & Traverso SPECIES
-=======
+# Cladosporium casei (Johan-Olsen) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

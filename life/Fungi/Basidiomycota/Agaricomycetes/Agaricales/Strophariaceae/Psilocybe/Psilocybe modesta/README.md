@@ -1,5 +1,4 @@
-Psilocybe modesta (Peck) A.H. Sm. SPECIES
-=======
+# Psilocybe modesta (Peck) A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora ramosii Räsänen ex Sbarbaro SPECIES
-=======
+# Lecanora ramosii Räsänen ex Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

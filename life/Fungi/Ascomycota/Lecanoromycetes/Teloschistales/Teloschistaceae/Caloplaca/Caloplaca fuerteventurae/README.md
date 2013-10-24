@@ -1,5 +1,4 @@
-Caloplaca fuerteventurae van den Boom & Etayo SPECIES
-=======
+# Caloplaca fuerteventurae van den Boom & Etayo SPECIES
 
 #### Status
 ACCEPTED

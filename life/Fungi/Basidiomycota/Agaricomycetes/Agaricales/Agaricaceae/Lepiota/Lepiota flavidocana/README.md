@@ -1,5 +1,4 @@
-Lepiota flavidocana Pegler SPECIES
-=======
+# Lepiota flavidocana Pegler SPECIES
 
 #### Status
 ACCEPTED

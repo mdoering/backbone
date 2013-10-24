@@ -1,5 +1,4 @@
-Duosporium cyperi K.S. Thind & Rawla, 1961 SPECIES
-=======
+# Duosporium cyperi K.S. Thind & Rawla, 1961 SPECIES
 
 #### Status
 ACCEPTED

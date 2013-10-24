@@ -1,5 +1,4 @@
-Ceraiomyces minusculus Thaxt. SPECIES
-=======
+# Ceraiomyces minusculus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

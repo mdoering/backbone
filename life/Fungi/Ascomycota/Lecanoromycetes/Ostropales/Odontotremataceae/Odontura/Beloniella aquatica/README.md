@@ -1,5 +1,4 @@
-Beloniella aquatica Norman SPECIES
-=======
+# Beloniella aquatica Norman SPECIES
 
 #### Status
 ACCEPTED

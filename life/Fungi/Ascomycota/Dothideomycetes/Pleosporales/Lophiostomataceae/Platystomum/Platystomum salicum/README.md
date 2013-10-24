@@ -1,5 +1,4 @@
-Platystomum salicum Tracy & Earle SPECIES
-=======
+# Platystomum salicum Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED

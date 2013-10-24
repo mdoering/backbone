@@ -1,5 +1,4 @@
-Triposporium gardneri Berk. SPECIES
-=======
+# Triposporium gardneri Berk. SPECIES
 
 #### Status
 ACCEPTED

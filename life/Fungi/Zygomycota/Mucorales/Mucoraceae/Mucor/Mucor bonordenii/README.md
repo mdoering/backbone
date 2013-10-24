@@ -1,5 +1,4 @@
-Mucor bonordenii Berl. & De Toni SPECIES
-=======
+# Mucor bonordenii Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

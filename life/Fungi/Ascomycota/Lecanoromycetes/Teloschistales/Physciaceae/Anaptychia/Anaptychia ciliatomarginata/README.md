@@ -1,5 +1,4 @@
-Anaptychia ciliatomarginata Linder SPECIES
-=======
+# Anaptychia ciliatomarginata Linder SPECIES
 
 #### Status
 ACCEPTED

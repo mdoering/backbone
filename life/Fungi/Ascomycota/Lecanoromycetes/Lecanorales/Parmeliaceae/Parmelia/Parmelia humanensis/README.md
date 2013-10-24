@@ -1,5 +1,4 @@
-Parmelia humanensis SPECIES
-=======
+# Parmelia humanensis SPECIES
 
 #### Status
 ACCEPTED

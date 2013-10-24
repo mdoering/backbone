@@ -1,5 +1,4 @@
-Puccinia pratensis A. Blytt, 1896 SPECIES
-=======
+# Puccinia pratensis A. Blytt, 1896 SPECIES
 
 #### Status
 ACCEPTED

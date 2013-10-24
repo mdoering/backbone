@@ -1,14 +1,13 @@
-Trabutia danthoniae Chardón, 1946 SPECIES
-=======
+# Phyllachora danthoniae (Chardón) Cif., 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Farlowia 2: 460 (1946)
+Quaderno Ist. Bot. Univ. Pavia 19: 119 (1961)
 
 #### Original name
 Trabutia danthoniae Chardón, 1946

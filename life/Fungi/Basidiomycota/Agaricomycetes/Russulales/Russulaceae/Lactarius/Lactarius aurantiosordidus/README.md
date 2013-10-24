@@ -1,5 +1,4 @@
-Lactarius aurantiosordidus Nuytinck & S.L. Mill. SPECIES
-=======
+# Lactarius aurantiosordidus Nuytinck & S.L. Mill. SPECIES
 
 #### Status
 ACCEPTED

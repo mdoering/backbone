@@ -1,5 +1,4 @@
-Sporisorium zundelianum Vánky SPECIES
-=======
+# Sporisorium zundelianum Vánky SPECIES
 
 #### Status
 ACCEPTED

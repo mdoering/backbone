@@ -1,5 +1,4 @@
-Dictyocysta helenae SPECIES
-=======
+# Dictyocysta helenae SPECIES
 
 #### Status
 ACCEPTED

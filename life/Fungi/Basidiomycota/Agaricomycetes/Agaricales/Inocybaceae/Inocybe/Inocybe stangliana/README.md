@@ -1,5 +1,4 @@
-Inocybe stangliana Kuyper SPECIES
-=======
+# Inocybe stangliana Kuyper SPECIES
 
 #### Status
 ACCEPTED

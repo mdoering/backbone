@@ -1,5 +1,4 @@
-Clitocybe arnoldii Boud. SPECIES
-=======
+# Clitocybe arnoldii Boud. SPECIES
 
 #### Status
 ACCEPTED

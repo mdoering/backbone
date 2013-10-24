@@ -1,5 +1,4 @@
-Inocybe spinosae Velen. SPECIES
-=======
+# Inocybe spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

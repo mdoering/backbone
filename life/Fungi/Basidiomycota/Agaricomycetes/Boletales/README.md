@@ -1,5 +1,4 @@
-Boletales E.-J. Gilbert ORDER
-=======
+# Boletales E.-J. Gilbert ORDER
 
 #### Status
 ACCEPTED

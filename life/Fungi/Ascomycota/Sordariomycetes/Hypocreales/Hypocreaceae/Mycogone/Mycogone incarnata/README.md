@@ -1,5 +1,4 @@
-Mycogone incarnata Pers. SPECIES
-=======
+# Mycogone incarnata Pers. SPECIES
 
 #### Status
 ACCEPTED

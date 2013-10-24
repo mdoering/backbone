@@ -1,5 +1,4 @@
-Cortinarius carabus Kytöv., Niskanen & Liimat. SPECIES
-=======
+# Cortinarius carabus Kytöv., Niskanen & Liimat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium irrigatum Berk. & M.A. Curtis SPECIES
-=======
+# Corticium irrigatum Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypomyces sepultariae Ade SPECIES
-=======
+# Hypomyces sepultariae Ade SPECIES
 
 #### Status
 ACCEPTED

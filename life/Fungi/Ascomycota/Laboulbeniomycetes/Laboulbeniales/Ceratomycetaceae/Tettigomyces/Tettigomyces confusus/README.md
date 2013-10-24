@@ -1,5 +1,4 @@
-Tettigomyces confusus Thaxt. SPECIES
-=======
+# Tettigomyces confusus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

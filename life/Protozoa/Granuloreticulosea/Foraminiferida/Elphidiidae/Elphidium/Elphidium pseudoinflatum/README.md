@@ -1,5 +1,4 @@
-Elphidium pseudoinflatum Cushman SPECIES
-=======
+# Elphidium pseudoinflatum Cushman SPECIES
 
 #### Status
 ACCEPTED

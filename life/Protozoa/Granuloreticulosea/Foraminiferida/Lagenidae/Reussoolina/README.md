@@ -1,5 +1,4 @@
-Reussoolina Colom, 1956 GENUS
-=======
+# Reussoolina Colom, 1956 GENUS
 
 #### Status
 ACCEPTED

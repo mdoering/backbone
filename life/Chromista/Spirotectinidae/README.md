@@ -1,5 +1,4 @@
-Spirotectinidae Saidova, 1981 FAMILY
-=======
+# Spirotectinidae Saidova, 1981 FAMILY
 
 #### Status
 ACCEPTED

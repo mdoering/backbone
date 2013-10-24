@@ -1,5 +1,4 @@
-Pseudacidovorax intermedius Peter Kämpfer, 2008 SPECIES
-=======
+# Pseudacidovorax intermedius Peter Kämpfer, 2008 SPECIES
 
 #### Status
 ACCEPTED

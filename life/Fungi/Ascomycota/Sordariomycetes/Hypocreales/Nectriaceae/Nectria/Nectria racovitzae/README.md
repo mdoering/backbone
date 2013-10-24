@@ -1,5 +1,4 @@
-Nectria racovitzae Döbbeler SPECIES
-=======
+# Nectria racovitzae Döbbeler SPECIES
 
 #### Status
 ACCEPTED

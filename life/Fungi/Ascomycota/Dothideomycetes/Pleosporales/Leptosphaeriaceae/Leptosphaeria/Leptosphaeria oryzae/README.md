@@ -1,5 +1,4 @@
-Leptosphaeria oryzae Catt. SPECIES
-=======
+# Leptosphaeria oryzae Catt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia thuemenii McAlpine, 1906 SPECIES
-=======
+# Puccinia thuemenii McAlpine, 1906 SPECIES
 
 #### Status
 ACCEPTED

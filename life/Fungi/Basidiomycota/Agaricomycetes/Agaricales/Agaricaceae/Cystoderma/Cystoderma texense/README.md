@@ -1,17 +1,16 @@
-Cystoderma texensis Thiers SPECIES
-=======
+# Cystoderma texense Thiers SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 49: 721 (1957)
 
 #### Original name
-Cystoderma texensis Thiers
+Cystoderma texense Thiers
 
 ### Remarks
 null

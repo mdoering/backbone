@@ -1,5 +1,4 @@
-Catillaria corymbosa (Hue) I.M. Lamb SPECIES
-=======
+# Catillaria corymbosa (Hue) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

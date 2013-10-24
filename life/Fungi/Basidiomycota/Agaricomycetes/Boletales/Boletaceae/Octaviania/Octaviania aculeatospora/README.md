@@ -1,5 +1,4 @@
-Octaviania aculeatospora (Soehner) Svrcek SPECIES
-=======
+# Octaviania aculeatospora (Soehner) Svrcek SPECIES
 
 #### Status
 ACCEPTED

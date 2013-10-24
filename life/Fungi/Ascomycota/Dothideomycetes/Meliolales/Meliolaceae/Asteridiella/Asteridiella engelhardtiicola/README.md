@@ -1,5 +1,4 @@
-Asteridiella engelhardtiicola H. Hu SPECIES
-=======
+# Asteridiella engelhardtiicola H. Hu SPECIES
 
 #### Status
 ACCEPTED

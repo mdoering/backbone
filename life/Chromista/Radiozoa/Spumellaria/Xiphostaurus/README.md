@@ -1,5 +1,4 @@
-Xiphostaurus Haeckel, 1862 GENUS
-=======
+# Xiphostaurus Haeckel, 1862 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tichothecium zahlbrucknerellae Henssen SPECIES
-=======
+# Tichothecium zahlbrucknerellae Henssen SPECIES
 
 #### Status
 ACCEPTED

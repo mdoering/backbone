@@ -1,5 +1,4 @@
-Rickia tessellata Thaxt. SPECIES
-=======
+# Rickia tessellata Thaxt. SPECIES
 
 #### Status
 ACCEPTED

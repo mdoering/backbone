@@ -1,5 +1,4 @@
-Gloeosporium merrillii Syd. SPECIES
-=======
+# Gloeosporium merrillii Syd. SPECIES
 
 #### Status
 ACCEPTED

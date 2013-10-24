@@ -1,5 +1,4 @@
-Cercospora pruni-persicae Sawada SPECIES
-=======
+# Cercospora pruni-persicae Sawada SPECIES
 
 #### Status
 ACCEPTED

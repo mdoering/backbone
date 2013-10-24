@@ -1,5 +1,4 @@
-Biatora disjecta (Nyl.) Arnold SPECIES
-=======
+# Biatora disjecta (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

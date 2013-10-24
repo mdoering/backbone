@@ -1,5 +1,4 @@
-Biddulphia balaena (Ehrenberg) T.Brightwell, 1859 SPECIES
-=======
+# Biddulphia balaena (Ehrenberg) T.Brightwell, 1859 SPECIES
 
 #### Status
 ACCEPTED

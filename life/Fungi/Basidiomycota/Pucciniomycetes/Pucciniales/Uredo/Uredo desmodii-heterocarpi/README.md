@@ -1,5 +1,4 @@
-Uredo desmodii-heterocarpi Petch SPECIES
-=======
+# Uredo desmodii-heterocarpi Petch SPECIES
 
 #### Status
 ACCEPTED

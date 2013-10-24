@@ -1,5 +1,4 @@
-Biscogniauxia ambiens Y.M. Ju & J.D. Rogers, 2001 SPECIES
-=======
+# Biscogniauxia ambiens Y.M. Ju & J.D. Rogers, 2001 SPECIES
 
 #### Status
 ACCEPTED

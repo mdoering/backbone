@@ -1,5 +1,4 @@
-Dendrothele globulispora Boidin & Lanq., 1996 SPECIES
-=======
+# Dendrothele globulispora Boidin & Lanq., 1996 SPECIES
 
 #### Status
 ACCEPTED

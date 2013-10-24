@@ -1,5 +1,4 @@
-Nectria vagabunda Speg. SPECIES
-=======
+# Nectria vagabunda Speg. SPECIES
 
 #### Status
 ACCEPTED

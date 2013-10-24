@@ -1,5 +1,4 @@
-Dictyothyriella semecarpi (Syd.) F. Stevens & Manter SPECIES
-=======
+# Dictyothyriella semecarpi (Syd.) F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

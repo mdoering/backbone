@@ -1,5 +1,4 @@
-Usnea crassula Motyka SPECIES
-=======
+# Usnea crassula Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycothyridium syringae (Ellis & Everh.) Petr. SPECIES
-=======
+# Mycothyridium syringae (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

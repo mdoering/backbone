@@ -1,5 +1,4 @@
-Puccinia lactucae-repentis Miyabe & T. Miyake SPECIES
-=======
+# Puccinia lactucae-repentis Miyabe & T. Miyake SPECIES
 
 #### Status
 ACCEPTED

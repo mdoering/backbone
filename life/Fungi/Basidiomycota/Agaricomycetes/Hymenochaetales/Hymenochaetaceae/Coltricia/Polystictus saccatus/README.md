@@ -1,5 +1,4 @@
-Polystictus saccatus Pers. SPECIES
-=======
+# Polystictus saccatus Pers. SPECIES
 
 #### Status
 ACCEPTED

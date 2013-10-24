@@ -1,5 +1,4 @@
-Peziza dichroa Pers. SPECIES
-=======
+# Peziza dichroa Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia repens subsp. repens SUBSPECIES
-=======
+# Collybia repens Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Collybia repens subsp. repens
+Collybia repens Fr.
 
 ### Remarks
 null

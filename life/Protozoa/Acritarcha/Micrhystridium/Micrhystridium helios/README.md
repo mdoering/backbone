@@ -1,5 +1,4 @@
-Micrhystridium helios (Valensi, 1953) Courtinat, 1983 SPECIES
-=======
+# Micrhystridium helios (Valensi, 1953) Courtinat, 1983 SPECIES
 
 #### Status
 ACCEPTED

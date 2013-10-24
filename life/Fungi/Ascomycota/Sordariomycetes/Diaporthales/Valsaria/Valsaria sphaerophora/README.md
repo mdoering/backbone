@@ -1,5 +1,4 @@
-Valsaria sphaerophora (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Valsaria sphaerophora (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudopyrenula endochrysea Vain. SPECIES
-=======
+# Pseudopyrenula endochrysea Vain. SPECIES
 
 #### Status
 ACCEPTED

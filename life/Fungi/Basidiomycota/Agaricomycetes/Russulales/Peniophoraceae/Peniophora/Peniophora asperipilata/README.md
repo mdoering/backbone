@@ -1,5 +1,4 @@
-Peniophora asperipilata Burt SPECIES
-=======
+# Peniophora asperipilata Burt SPECIES
 
 #### Status
 ACCEPTED

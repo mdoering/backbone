@@ -1,5 +1,4 @@
-Ceratuim bucephalum (Ckeve) Cleve SPECIES
-=======
+# Ceratuim bucephalum (Ckeve) Cleve SPECIES
 
 #### Status
 ACCEPTED

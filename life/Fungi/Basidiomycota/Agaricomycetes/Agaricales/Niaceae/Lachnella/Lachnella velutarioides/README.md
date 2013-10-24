@@ -1,5 +1,4 @@
-Lachnella velutarioides Speg. SPECIES
-=======
+# Lachnella velutarioides Speg. SPECIES
 
 #### Status
 ACCEPTED

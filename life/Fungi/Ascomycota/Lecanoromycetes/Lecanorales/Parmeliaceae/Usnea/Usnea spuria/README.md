@@ -1,5 +1,4 @@
-Usnea spuria (Motyka) Bystrek SPECIES
-=======
+# Usnea spuria (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

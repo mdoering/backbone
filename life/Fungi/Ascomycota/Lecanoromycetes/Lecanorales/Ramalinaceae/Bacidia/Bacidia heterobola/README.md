@@ -1,5 +1,4 @@
-Bacidia heterobola (Cromb.) Zahlbr. SPECIES
-=======
+# Bacidia heterobola (Cromb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

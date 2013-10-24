@@ -1,8 +1,7 @@
-Protoperidinium parvum Abé, 1981 SPECIES
-=======
+# Protoperidinium cruciferum (Balech, 1971) Balech, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

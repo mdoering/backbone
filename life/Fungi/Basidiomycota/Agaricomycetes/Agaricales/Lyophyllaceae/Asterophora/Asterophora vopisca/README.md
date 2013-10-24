@@ -1,5 +1,4 @@
-Asterophora vopisca (Fr.) Kuntze SPECIES
-=======
+# Asterophora vopisca (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

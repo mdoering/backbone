@@ -1,5 +1,4 @@
-Gloeosporium bergeniae Koval SPECIES
-=======
+# Gloeosporium bergeniae Koval SPECIES
 
 #### Status
 ACCEPTED

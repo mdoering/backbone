@@ -1,5 +1,4 @@
-Lecanactis pallens Zahlbr. SPECIES
-=======
+# Lecanactis pallens Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

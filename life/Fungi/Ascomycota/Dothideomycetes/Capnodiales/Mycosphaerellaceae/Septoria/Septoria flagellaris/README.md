@@ -1,5 +1,4 @@
-Septoria flagellaris Ellis & Everh. SPECIES
-=======
+# Septoria flagellaris Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

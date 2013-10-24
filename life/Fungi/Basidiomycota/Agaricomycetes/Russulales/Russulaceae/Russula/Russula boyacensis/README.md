@@ -1,5 +1,4 @@
-Russula boyacensis Singer SPECIES
-=======
+# Russula boyacensis Singer SPECIES
 
 #### Status
 ACCEPTED

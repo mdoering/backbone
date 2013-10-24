@@ -1,5 +1,4 @@
-Biatora commutata (Ach.) Rabenh. SPECIES
-=======
+# Biatora commutata (Ach.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED

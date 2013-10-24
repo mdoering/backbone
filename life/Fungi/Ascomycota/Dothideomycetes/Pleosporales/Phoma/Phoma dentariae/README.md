@@ -1,5 +1,4 @@
-Phoma dentariae (Westend.) Sacc. SPECIES
-=======
+# Phoma dentariae (Westend.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

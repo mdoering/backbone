@@ -1,5 +1,4 @@
-Agaricus theiochrous Berk. & Broome SPECIES
-=======
+# Agaricus theiochrous Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

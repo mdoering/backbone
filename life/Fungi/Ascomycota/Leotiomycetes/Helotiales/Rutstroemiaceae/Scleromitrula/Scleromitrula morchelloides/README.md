@@ -1,5 +1,4 @@
-Scleromitrula morchelloides (Mains) T. Schumach. & Holst-Jensen SPECIES
-=======
+# Scleromitrula morchelloides (Mains) T. Schumach. & Holst-Jensen SPECIES
 
 #### Status
 ACCEPTED

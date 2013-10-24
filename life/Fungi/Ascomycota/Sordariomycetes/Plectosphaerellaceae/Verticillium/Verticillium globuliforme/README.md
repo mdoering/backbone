@@ -1,5 +1,4 @@
-Verticillium globuliforme Bonord. SPECIES
-=======
+# Verticillium globuliforme Bonord. SPECIES
 
 #### Status
 ACCEPTED

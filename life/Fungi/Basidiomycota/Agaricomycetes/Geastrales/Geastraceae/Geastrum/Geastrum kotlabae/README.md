@@ -1,5 +1,4 @@
-Geastrum kotlabae V.J. Stanek SPECIES
-=======
+# Geastrum kotlabae V.J. Stanek SPECIES
 
 #### Status
 ACCEPTED

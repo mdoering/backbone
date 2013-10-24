@@ -1,5 +1,4 @@
-Odontia ambigua P. Karst. SPECIES
-=======
+# Odontia ambigua P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia urtasuni Chaves, Umaña & Sipman SPECIES
-=======
+# Heterodermia urtasuni Chaves, Umaña & Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus albiflavus Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus albiflavus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

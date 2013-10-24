@@ -1,5 +1,4 @@
-Chlorarachnion reptans Geitler SPECIES
-=======
+# Chlorarachnion reptans Geitler SPECIES
 
 #### Status
 ACCEPTED

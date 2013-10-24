@@ -1,17 +1,16 @@
-Achlya bisexualis var. bisexualis Coker & Couch, 1927 VARIETY
-=======
+# Achlya bisexualis Coker & Couch, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 42(1-2): 207 (1927)
 
 #### Original name
-null
+Achlya bisexualis Coker & Couch, 1927
 
 ### Remarks
 null

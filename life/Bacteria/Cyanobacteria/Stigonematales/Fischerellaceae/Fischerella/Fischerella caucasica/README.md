@@ -1,5 +1,4 @@
-Fischerella caucasica Woronichin SPECIES
-=======
+# Fischerella caucasica Woronichin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia diaphana (Sw.) Ach. SPECIES
-=======
+# Parmelia diaphana (Sw.) Ach. SPECIES
 
 #### Status
 ACCEPTED

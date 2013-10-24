@@ -1,5 +1,4 @@
-Collema atroplumbeum Hue SPECIES
-=======
+# Collema atroplumbeum Hue SPECIES
 
 #### Status
 ACCEPTED

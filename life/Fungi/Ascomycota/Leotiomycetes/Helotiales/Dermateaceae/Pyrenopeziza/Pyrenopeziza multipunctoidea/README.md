@@ -1,5 +1,4 @@
-Pyrenopeziza multipunctoidea Dearn. & House SPECIES
-=======
+# Pyrenopeziza multipunctoidea Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

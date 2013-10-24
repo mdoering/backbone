@@ -1,5 +1,4 @@
-Lecidea croceicola Vain. SPECIES
-=======
+# Lecidea croceicola Vain. SPECIES
 
 #### Status
 ACCEPTED

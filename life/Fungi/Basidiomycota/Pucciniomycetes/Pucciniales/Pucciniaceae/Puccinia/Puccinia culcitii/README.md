@@ -1,5 +1,4 @@
-Puccinia culcitii Syd. SPECIES
-=======
+# Puccinia culcitii Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudosphaerella cryptomeriae Sawada SPECIES
-=======
+# Pseudosphaerella cryptomeriae Sawada SPECIES
 
 #### Status
 ACCEPTED

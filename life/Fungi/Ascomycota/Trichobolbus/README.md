@@ -1,5 +1,4 @@
-Trichobolbus Bat. GENUS
-=======
+# Trichobolbus Bat. GENUS
 
 #### Status
 ACCEPTED

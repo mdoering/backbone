@@ -1,5 +1,4 @@
-Parmelia jamaicensis Vain. SPECIES
-=======
+# Parmelia jamaicensis Vain. SPECIES
 
 #### Status
 ACCEPTED

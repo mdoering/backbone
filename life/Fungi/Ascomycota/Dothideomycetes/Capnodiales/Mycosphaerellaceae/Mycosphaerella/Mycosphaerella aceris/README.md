@@ -1,5 +1,4 @@
-Mycosphaerella aceris Woron. SPECIES
-=======
+# Mycosphaerella aceris Woron. SPECIES
 
 #### Status
 ACCEPTED

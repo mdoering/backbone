@@ -1,5 +1,4 @@
-Phyllosticta fici-wightianae Sawada SPECIES
-=======
+# Phyllosticta fici-wightianae Sawada SPECIES
 
 #### Status
 ACCEPTED

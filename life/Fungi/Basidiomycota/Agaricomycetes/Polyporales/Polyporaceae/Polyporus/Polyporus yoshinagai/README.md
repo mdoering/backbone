@@ -1,5 +1,4 @@
-Polyporus yoshinagai Lloyd SPECIES
-=======
+# Polyporus yoshinagai Lloyd SPECIES
 
 #### Status
 ACCEPTED

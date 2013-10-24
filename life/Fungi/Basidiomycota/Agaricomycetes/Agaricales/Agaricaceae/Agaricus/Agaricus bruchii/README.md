@@ -1,5 +1,4 @@
-Agaricus bruchii Speg. SPECIES
-=======
+# Agaricus bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

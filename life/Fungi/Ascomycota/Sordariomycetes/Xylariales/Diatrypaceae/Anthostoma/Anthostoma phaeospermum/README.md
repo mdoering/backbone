@@ -1,5 +1,4 @@
-Anthostoma phaeospermum (Ellis) Sacc. SPECIES
-=======
+# Anthostoma phaeospermum (Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

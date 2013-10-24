@@ -1,5 +1,4 @@
-Hainesia castaneae Oudem. SPECIES
-=======
+# Hainesia castaneae Oudem. SPECIES
 
 #### Status
 ACCEPTED

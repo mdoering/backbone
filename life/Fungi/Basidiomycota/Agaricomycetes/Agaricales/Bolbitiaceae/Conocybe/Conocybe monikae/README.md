@@ -1,17 +1,16 @@
-Conocybe monicae Hauskn. SPECIES
-=======
+# Conocybe monikae Hauskn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Hausknecht & Krisai-Greilhuber, Öst. Z. Pilzk. 12: 111 (2003)
 
 #### Original name
-Conocybe monicae Hauskn.
+Conocybe monikae Hauskn.
 
 ### Remarks
 null

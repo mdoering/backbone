@@ -1,5 +1,4 @@
-Caloplaca interfulgens (Nyl.) J. Steiner SPECIES
-=======
+# Caloplaca interfulgens (Nyl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

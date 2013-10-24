@@ -1,5 +1,4 @@
-Microcoleus irriguus (Kützing) F.E. Drouet SPECIES
-=======
+# Microcoleus irriguus (Kützing) F.E. Drouet SPECIES
 
 #### Status
 ACCEPTED

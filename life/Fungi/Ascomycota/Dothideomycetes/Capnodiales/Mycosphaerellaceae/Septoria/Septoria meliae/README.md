@@ -1,5 +1,4 @@
-Septoria meliae Lebedeva SPECIES
-=======
+# Septoria meliae Lebedeva SPECIES
 
 #### Status
 ACCEPTED

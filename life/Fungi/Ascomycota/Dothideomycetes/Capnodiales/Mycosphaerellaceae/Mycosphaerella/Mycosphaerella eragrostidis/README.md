@@ -1,5 +1,4 @@
-Mycosphaerella eragrostidis Castell. & Ciccar. SPECIES
-=======
+# Mycosphaerella eragrostidis Castell. & Ciccar. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phalacroma vastum Schütt, 1895 SPECIES
-=======
+# Phalacroma vastum Schütt, 1895 SPECIES
 
 #### Status
 DOUBTFUL

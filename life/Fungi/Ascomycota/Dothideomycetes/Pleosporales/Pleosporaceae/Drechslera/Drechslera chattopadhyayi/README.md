@@ -1,5 +1,4 @@
-Drechslera chattopadhyayi N.C. Mandal & M.K. Dasgupta SPECIES
-=======
+# Drechslera chattopadhyayi N.C. Mandal & M.K. Dasgupta SPECIES
 
 #### Status
 ACCEPTED

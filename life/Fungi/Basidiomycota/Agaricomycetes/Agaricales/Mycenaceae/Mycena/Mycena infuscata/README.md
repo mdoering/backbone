@@ -1,5 +1,4 @@
-Mycena infuscata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena infuscata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Proterospongia choanojuncta SPECIES
-=======
+# Proterospongia choanojuncta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Glomospora D.M. Henderson, 1961 GENUS
-=======
+# Glomospora D.M. Henderson, 1961 GENUS
 
 #### Status
 ACCEPTED

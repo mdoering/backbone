@@ -1,5 +1,4 @@
-Cylindrocolla diffluens Ellis & Everh. SPECIES
-=======
+# Cylindrocolla diffluens Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

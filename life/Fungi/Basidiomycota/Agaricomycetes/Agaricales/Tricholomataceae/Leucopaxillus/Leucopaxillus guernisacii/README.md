@@ -1,5 +1,4 @@
-Leucopaxillus guernisacii (P. Crouan & H. Crouan) Bon SPECIES
-=======
+# Leucopaxillus guernisacii (P. Crouan & H. Crouan) Bon SPECIES
 
 #### Status
 ACCEPTED

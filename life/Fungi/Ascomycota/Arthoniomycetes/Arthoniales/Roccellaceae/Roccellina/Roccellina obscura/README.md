@@ -1,5 +1,4 @@
-Roccellina obscura Tehler SPECIES
-=======
+# Roccellina obscura Tehler SPECIES
 
 #### Status
 ACCEPTED

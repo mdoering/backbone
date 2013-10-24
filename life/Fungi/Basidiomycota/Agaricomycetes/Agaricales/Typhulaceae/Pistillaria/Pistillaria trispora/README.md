@@ -1,17 +1,16 @@
-Pistillaria trispora var. epilobii Corner VARIETY
-=======
+# Pistillaria trispora Corner, 1953 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Nova Hedwigia 33: 124 (1970)
+Ann. Bot. , Lond. , n. s. 17: 358 (1953)
 
 #### Original name
-Pistillaria trispora var. epilobii Corner
+Pistillaria trispora Corner, 1953
 
 ### Remarks
 null

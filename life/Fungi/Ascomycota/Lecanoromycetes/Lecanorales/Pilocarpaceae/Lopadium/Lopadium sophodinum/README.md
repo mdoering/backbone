@@ -1,5 +1,4 @@
-Lopadium sophodinum (Nyl.) Zahlbr. SPECIES
-=======
+# Lopadium sophodinum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

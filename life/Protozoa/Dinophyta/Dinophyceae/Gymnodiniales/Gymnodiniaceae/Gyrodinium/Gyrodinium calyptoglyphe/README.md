@@ -1,5 +1,4 @@
-Gyrodinium calyptoglyphe Lebour, 1925 SPECIES
-=======
+# Gyrodinium calyptoglyphe Lebour, 1925 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Porina declivum (Bagl. & Carestia) Lettau SPECIES
-=======
+# Porina declivum (Bagl. & Carestia) Lettau SPECIES
 
 #### Status
 ACCEPTED

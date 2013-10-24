@@ -1,5 +1,4 @@
-Podosporium chlorophaeum Speg. SPECIES
-=======
+# Podosporium chlorophaeum Speg. SPECIES
 
 #### Status
 ACCEPTED

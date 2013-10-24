@@ -1,17 +1,16 @@
-Setchelliogaster tetrasporum Singer SPECIES
-=======
+# Setchelliogaster tetrasporus Singer, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Evolution in the higher Basidiomycetes (International Symposium) 467 (1971)
 
 #### Original name
-Setchelliogaster tetrasporum Singer
+Setchelliogaster tetrasporus Singer, 1971
 
 ### Remarks
 null

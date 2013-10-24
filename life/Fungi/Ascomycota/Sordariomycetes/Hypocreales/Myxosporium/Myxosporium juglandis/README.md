@@ -1,5 +1,4 @@
-Myxosporium juglandis Allesch. SPECIES
-=======
+# Myxosporium juglandis Allesch. SPECIES
 
 #### Status
 ACCEPTED

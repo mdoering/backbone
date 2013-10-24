@@ -1,5 +1,4 @@
-Baeomyces subgranosus Stirt. SPECIES
-=======
+# Baeomyces subgranosus Stirt. SPECIES
 
 #### Status
 ACCEPTED

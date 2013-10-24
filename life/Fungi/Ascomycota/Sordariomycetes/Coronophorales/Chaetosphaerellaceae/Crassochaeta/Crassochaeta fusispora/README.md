@@ -1,14 +1,13 @@
-Chaetosphaerella fusispora Sivan., 1977 SPECIES
-=======
+# Crassochaeta fusispora (Sivan.) Réblová, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 67(3): 475 (1976)
+Mycotaxon 71: 54 (1999)
 
 #### Original name
 Chaetosphaerella fusispora Sivan., 1977

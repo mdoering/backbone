@@ -1,5 +1,4 @@
-Phyllosticta lycopodis Ellis & Everh. SPECIES
-=======
+# Phyllosticta lycopodis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

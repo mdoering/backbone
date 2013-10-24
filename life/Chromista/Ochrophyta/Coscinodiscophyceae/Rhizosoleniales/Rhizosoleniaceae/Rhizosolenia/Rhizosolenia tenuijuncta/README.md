@@ -1,5 +1,4 @@
-Rhizosolenia tenuijuncta E.E.Manguin SPECIES
-=======
+# Rhizosolenia tenuijuncta E.E.Manguin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Detonia foveata (Fuckel) Sacc. SPECIES
-=======
+# Detonia foveata (Fuckel) Sacc. SPECIES
 
 #### Status
 ACCEPTED

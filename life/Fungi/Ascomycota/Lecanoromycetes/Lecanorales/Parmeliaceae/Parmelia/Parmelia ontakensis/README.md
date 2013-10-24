@@ -1,5 +1,4 @@
-Parmelia ontakensis Asahina SPECIES
-=======
+# Parmelia ontakensis Asahina SPECIES
 
 #### Status
 ACCEPTED

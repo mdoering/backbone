@@ -1,5 +1,4 @@
-Xylosphaera fastigiata (Fr.) Dennis SPECIES
-=======
+# Xylosphaera fastigiata (Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria tephrothele Berk. SPECIES
-=======
+# Nectria tephrothele Berk. SPECIES
 
 #### Status
 ACCEPTED

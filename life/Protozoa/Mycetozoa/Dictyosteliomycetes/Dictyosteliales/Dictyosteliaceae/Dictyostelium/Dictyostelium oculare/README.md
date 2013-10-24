@@ -1,5 +1,4 @@
-Dictyostelium oculare Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
-=======
+# Dictyostelium oculare Cavender, Vadell, J.C. Landolt & S.L. Stephenson, 2005 SPECIES
 
 #### Status
 ACCEPTED

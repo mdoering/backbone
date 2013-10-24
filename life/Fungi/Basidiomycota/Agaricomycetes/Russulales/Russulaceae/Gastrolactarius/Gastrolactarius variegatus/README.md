@@ -1,5 +1,4 @@
-Gastrolactarius variegatus (Thiers) J.M. Vidal SPECIES
-=======
+# Gastrolactarius variegatus (Thiers) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

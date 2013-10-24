@@ -1,5 +1,4 @@
-Erysiphe brachystegiae Doidge SPECIES
-=======
+# Erysiphe brachystegiae Doidge SPECIES
 
 #### Status
 ACCEPTED

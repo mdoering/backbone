@@ -1,5 +1,4 @@
-Rimularia maculata Fryday SPECIES
-=======
+# Rimularia maculata Fryday SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrea prodigula (Nyl.) Zahlbr. SPECIES
-=======
+# Thyrea prodigula (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

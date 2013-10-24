@@ -1,5 +1,4 @@
-Buellia halophiloides var. pruinosula Zahlbr. VARIETY
-=======
+# Buellia halophiloides Zahlbr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. , 2 (Bot. ) 4(13): 455 (1926)
+in Skottsberg, Nat. Hist. Juan Fernandez Easter Isl. , 2 (Bot. ) 4(13): 459 (1926)
 
 #### Original name
-Buellia halophiloides var. pruinosula Zahlbr.
+Buellia halophiloides Zahlbr.
 
 ### Remarks
 null

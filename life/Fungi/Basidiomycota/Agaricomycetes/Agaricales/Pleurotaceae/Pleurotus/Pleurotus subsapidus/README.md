@@ -1,5 +1,4 @@
-Pleurotus subsapidus Murrill SPECIES
-=======
+# Pleurotus subsapidus Murrill SPECIES
 
 #### Status
 ACCEPTED

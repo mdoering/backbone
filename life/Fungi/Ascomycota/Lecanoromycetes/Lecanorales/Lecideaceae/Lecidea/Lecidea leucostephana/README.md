@@ -1,5 +1,4 @@
-Lecidea leucostephana Stizenb. SPECIES
-=======
+# Lecidea leucostephana Stizenb. SPECIES
 
 #### Status
 ACCEPTED

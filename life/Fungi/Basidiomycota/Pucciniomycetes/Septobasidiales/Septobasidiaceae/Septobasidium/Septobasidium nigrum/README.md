@@ -1,5 +1,4 @@
-Septobasidium nigrum W. Yamam. SPECIES
-=======
+# Septobasidium nigrum W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,11 +1,10 @@
-Actinomyces aureocirculatus Krasil'nikov & Yuan, 1965 SPECIES
-=======
+# Streptomyces aureocirculatus (Krasil'nikov and Yuan, 1965) Pridham, 1970 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

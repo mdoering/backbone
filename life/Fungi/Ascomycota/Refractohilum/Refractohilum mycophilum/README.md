@@ -1,5 +1,4 @@
-Refractohilum mycophilum R.F. Castañeda, W.B. Kendr. & Guarro SPECIES
-=======
+# Refractohilum mycophilum R.F. Castañeda, W.B. Kendr. & Guarro SPECIES
 
 #### Status
 ACCEPTED

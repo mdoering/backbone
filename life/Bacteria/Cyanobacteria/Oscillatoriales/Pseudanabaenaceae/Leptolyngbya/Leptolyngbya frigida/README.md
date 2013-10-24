@@ -1,8 +1,7 @@
-Phormidium frigidum F.E. Fritsch SPECIES
-=======
+# Leptolyngbya frigida (F.E. Fritsch) Anagnostidis & Komárek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

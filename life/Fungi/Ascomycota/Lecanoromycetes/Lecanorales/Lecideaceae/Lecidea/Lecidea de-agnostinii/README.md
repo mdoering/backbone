@@ -1,5 +1,4 @@
-Lecidea de-agnostinii Sambo SPECIES
-=======
+# Lecidea de-agnostinii Sambo SPECIES
 
 #### Status
 ACCEPTED

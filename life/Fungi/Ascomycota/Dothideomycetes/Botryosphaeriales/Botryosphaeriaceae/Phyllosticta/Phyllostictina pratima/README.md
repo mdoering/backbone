@@ -1,5 +1,4 @@
-Phyllostictina pratima S. Chowdhury SPECIES
-=======
+# Phyllostictina pratima S. Chowdhury SPECIES
 
 #### Status
 ACCEPTED

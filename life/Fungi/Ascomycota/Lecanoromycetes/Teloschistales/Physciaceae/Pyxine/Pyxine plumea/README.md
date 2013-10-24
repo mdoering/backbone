@@ -1,5 +1,4 @@
-Pyxine plumea Kalb SPECIES
-=======
+# Pyxine plumea Kalb SPECIES
 
 #### Status
 ACCEPTED

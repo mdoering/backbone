@@ -1,5 +1,4 @@
-Helicosphaera papillata Bukry & Bramlette, 1969 SPECIES
-=======
+# Helicosphaera papillata Bukry & Bramlette, 1969 SPECIES
 
 #### Status
 ACCEPTED

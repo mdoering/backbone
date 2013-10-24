@@ -1,5 +1,4 @@
-Kofoidinium pavillardii Cachon & Cachon SPECIES
-=======
+# Kofoidinium pavillardii Cachon & Cachon SPECIES
 
 #### Status
 ACCEPTED

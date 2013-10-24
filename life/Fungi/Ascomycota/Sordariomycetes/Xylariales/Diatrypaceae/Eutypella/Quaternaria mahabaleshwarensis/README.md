@@ -1,5 +1,4 @@
-Quaternaria mahabaleshwarensis Srinivasulu & P.G. Sathe SPECIES
-=======
+# Quaternaria mahabaleshwarensis Srinivasulu & P.G. Sathe SPECIES
 
 #### Status
 ACCEPTED

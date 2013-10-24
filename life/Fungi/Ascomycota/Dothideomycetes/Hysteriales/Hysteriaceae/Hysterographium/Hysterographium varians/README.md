@@ -1,5 +1,4 @@
-Hysterographium varians Vouaux SPECIES
-=======
+# Hysterographium varians Vouaux SPECIES
 
 #### Status
 ACCEPTED

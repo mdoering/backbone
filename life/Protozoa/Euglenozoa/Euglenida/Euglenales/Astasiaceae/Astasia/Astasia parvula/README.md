@@ -1,5 +1,4 @@
-Astasia parvula Skuja SPECIES
-=======
+# Astasia parvula Skuja SPECIES
 
 #### Status
 ACCEPTED

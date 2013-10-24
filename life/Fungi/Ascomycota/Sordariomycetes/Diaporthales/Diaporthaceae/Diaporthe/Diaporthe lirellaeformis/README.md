@@ -1,5 +1,4 @@
-Diaporthe lirellaeformis Pat. SPECIES
-=======
+# Diaporthe lirellaeformis Pat. SPECIES
 
 #### Status
 ACCEPTED

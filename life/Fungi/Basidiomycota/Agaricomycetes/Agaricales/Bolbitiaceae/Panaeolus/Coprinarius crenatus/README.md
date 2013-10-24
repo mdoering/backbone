@@ -1,5 +1,4 @@
-Coprinarius crenatus (Lasch) P. Kumm. SPECIES
-=======
+# Coprinarius crenatus (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

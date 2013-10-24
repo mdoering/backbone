@@ -1,17 +1,16 @@
-Peniophora livida f. lactinea (Bourdot & Galzin) FORM
-=======
+# Cabalodontia livida (Fr. ex Burt) Piatek, 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Polish Botanical Journal 49(1): 3 (2004)
 
 #### Original name
-Peniophora livida subsp. lactinea Bourdot & Galzin
+Peniophora livida Fr. ex Burt, 1926
 
 ### Remarks
 null

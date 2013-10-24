@@ -1,5 +1,4 @@
-Rinodina diplinthia (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina diplinthia (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

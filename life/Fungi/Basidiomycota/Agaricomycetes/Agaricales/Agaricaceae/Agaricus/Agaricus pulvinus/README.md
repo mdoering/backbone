@@ -1,5 +1,4 @@
-Agaricus pulvinus Berk. & Broome SPECIES
-=======
+# Agaricus pulvinus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

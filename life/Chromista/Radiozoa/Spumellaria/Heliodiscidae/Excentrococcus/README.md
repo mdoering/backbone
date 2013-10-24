@@ -1,5 +1,4 @@
-Excentrococcus GENUS
-=======
+# Excentrococcus GENUS
 
 #### Status
 ACCEPTED

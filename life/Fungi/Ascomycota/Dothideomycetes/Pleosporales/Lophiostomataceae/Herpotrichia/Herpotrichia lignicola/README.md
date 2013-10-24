@@ -1,5 +1,4 @@
-Herpotrichia lignicola (Mouton) S.K. Bose SPECIES
-=======
+# Herpotrichia lignicola (Mouton) S.K. Bose SPECIES
 
 #### Status
 ACCEPTED

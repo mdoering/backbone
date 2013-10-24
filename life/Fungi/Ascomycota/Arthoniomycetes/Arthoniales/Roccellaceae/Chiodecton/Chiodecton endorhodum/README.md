@@ -1,5 +1,4 @@
-Chiodecton endorhodum Vain. SPECIES
-=======
+# Chiodecton endorhodum Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calvatia complutensis G. Moreno, Kreisel & Altés SPECIES
-=======
+# Calvatia complutensis G. Moreno, Kreisel & Altés SPECIES
 
 #### Status
 ACCEPTED

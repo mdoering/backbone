@@ -1,5 +1,4 @@
-Urocystis sichuanensis L. Guo, 2003 SPECIES
-=======
+# Urocystis sichuanensis L. Guo, 2003 SPECIES
 
 #### Status
 ACCEPTED

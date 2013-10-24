@@ -1,5 +1,4 @@
-Xylographa attenuata Durieu & Mont. SPECIES
-=======
+# Xylographa attenuata Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

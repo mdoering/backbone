@@ -1,5 +1,4 @@
-Chrysothallaceae FAMILY
-=======
+# Chrysothallaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudomonas abietaniphila Mohn et al., 1999 SPECIES
-=======
+# Pseudomonas abietaniphila Mohn et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teratosphaeria profusa Crous & Carnegie, 2009 SPECIES
-=======
+# Teratosphaeria profusa Crous & Carnegie, 2009 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Volvariella glandiformis (Berk. & Broome) Pegler SPECIES
-=======
+# Volvariella glandiformis (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccharomyces anguillulae P.A. Dang. SPECIES
-=======
+# Saccharomyces anguillulae P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exophiala crusticola S.T. Bates, G.S.N. Reddy & Garcia-Pichel SPECIES
-=======
+# Exophiala crusticola S.T. Bates, G.S.N. Reddy & Garcia-Pichel SPECIES
 
 #### Status
 ACCEPTED

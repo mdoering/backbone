@@ -1,5 +1,4 @@
-Phyllosticta polygalae Dobrozr. SPECIES
-=======
+# Phyllosticta polygalae Dobrozr. SPECIES
 
 #### Status
 ACCEPTED

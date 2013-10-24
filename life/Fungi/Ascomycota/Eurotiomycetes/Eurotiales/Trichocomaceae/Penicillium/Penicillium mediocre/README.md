@@ -1,5 +1,4 @@
-Penicillium mediocre Stapp & Bortels SPECIES
-=======
+# Penicillium mediocre Stapp & Bortels SPECIES
 
 #### Status
 ACCEPTED

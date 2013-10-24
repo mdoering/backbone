@@ -1,5 +1,4 @@
-Nosema onophelis R. Kudo SPECIES
-=======
+# Nosema onophelis R. Kudo SPECIES
 
 #### Status
 ACCEPTED

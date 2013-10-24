@@ -1,5 +1,4 @@
-Pluteus ugandensis Pegler SPECIES
-=======
+# Pluteus ugandensis Pegler SPECIES
 
 #### Status
 ACCEPTED

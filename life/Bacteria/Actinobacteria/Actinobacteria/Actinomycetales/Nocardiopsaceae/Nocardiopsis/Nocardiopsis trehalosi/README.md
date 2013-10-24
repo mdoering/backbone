@@ -1,5 +1,4 @@
-Nocardiopsis trehalosi (ex Dolak et al., 1981) Evtushenko et al., 2000 SPECIES
-=======
+# Nocardiopsis trehalosi (ex Dolak et al., 1981) Evtushenko et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

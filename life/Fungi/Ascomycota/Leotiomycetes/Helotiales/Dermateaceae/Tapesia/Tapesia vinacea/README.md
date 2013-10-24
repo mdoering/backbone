@@ -1,5 +1,4 @@
-Tapesia vinacea (Rabenh.) Sacc. SPECIES
-=======
+# Tapesia vinacea (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

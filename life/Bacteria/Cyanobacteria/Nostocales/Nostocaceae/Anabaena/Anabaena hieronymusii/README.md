@@ -1,5 +1,4 @@
-Anabaena hieronymusii Lemmermann SPECIES
-=======
+# Anabaena hieronymusii Lemmermann SPECIES
 
 #### Status
 ACCEPTED

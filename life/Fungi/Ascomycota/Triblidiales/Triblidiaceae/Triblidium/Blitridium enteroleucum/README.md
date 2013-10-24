@@ -1,5 +1,4 @@
-Blitridium enteroleucum Pass. SPECIES
-=======
+# Blitridium enteroleucum Pass. SPECIES
 
 #### Status
 ACCEPTED

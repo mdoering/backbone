@@ -1,5 +1,4 @@
-Ceratostomella subdenudata (Peck) M.E. Barr SPECIES
-=======
+# Ceratostomella subdenudata (Peck) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

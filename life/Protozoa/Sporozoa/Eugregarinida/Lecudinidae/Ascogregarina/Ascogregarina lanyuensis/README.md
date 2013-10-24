@@ -1,5 +1,4 @@
-Ascogregarina lanyuensis Lien & Levine, 1980 SPECIES
-=======
+# Ascogregarina lanyuensis Lien & Levine, 1980 SPECIES
 
 #### Status
 ACCEPTED

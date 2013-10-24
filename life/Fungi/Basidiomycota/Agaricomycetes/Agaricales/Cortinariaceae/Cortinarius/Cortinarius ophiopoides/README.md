@@ -1,5 +1,4 @@
-Cortinarius ophiopoides Moënne-Locc. SPECIES
-=======
+# Cortinarius ophiopoides Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

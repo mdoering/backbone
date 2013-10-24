@@ -1,5 +1,4 @@
-Ectocarpus affinis Setchell & N.L. Gardner SPECIES
-=======
+# Ectocarpus affinis Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

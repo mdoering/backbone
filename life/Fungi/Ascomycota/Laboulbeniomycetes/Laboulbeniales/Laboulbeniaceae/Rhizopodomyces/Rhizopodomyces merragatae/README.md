@@ -1,5 +1,4 @@
-Rhizopodomyces merragatae Thaxt., 1931 SPECIES
-=======
+# Rhizopodomyces merragatae Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

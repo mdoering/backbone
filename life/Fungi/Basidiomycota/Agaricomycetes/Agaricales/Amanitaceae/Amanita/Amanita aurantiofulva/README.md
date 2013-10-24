@@ -1,5 +1,4 @@
-Amanita aurantiofulva E.-J. Gilbert SPECIES
-=======
+# Amanita aurantiofulva E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrosphaeria collabens (Mont.) Corda SPECIES
-=======
+# Acrosphaeria collabens (Mont.) Corda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea leprosa Motyka SPECIES
-=======
+# Usnea leprosa Motyka SPECIES
 
 #### Status
 ACCEPTED

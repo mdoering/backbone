@@ -1,5 +1,4 @@
-Fischerella ambigua (Nägeli) Gomont SPECIES
-=======
+# Fischerella ambigua (Nägeli) Gomont SPECIES
 
 #### Status
 ACCEPTED

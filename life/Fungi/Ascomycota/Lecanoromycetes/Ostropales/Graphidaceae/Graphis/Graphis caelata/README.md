@@ -1,5 +1,4 @@
-Graphis caelata Fée SPECIES
-=======
+# Graphis caelata Fée SPECIES
 
 #### Status
 ACCEPTED

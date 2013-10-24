@@ -1,5 +1,4 @@
-Catenaria auxiliaris (Kuehn) Tribe, 1977 SPECIES
-=======
+# Catenaria auxiliaris (Kuehn) Tribe, 1977 SPECIES
 
 #### Status
 ACCEPTED

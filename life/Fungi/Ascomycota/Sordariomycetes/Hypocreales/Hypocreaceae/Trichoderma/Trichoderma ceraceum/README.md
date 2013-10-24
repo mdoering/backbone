@@ -1,5 +1,4 @@
-Trichoderma ceraceum P. Chaverri & Samuels SPECIES
-=======
+# Trichoderma ceraceum P. Chaverri & Samuels SPECIES
 
 #### Status
 ACCEPTED

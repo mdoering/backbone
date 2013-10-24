@@ -1,5 +1,4 @@
-Phoma cladoniae (Allesch. & Schnabl) Keissl. SPECIES
-=======
+# Phoma cladoniae (Allesch. & Schnabl) Keissl. SPECIES
 
 #### Status
 ACCEPTED

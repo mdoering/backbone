@@ -1,5 +1,4 @@
-Meliola peddiicola W. Yamam. SPECIES
-=======
+# Meliola peddiicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

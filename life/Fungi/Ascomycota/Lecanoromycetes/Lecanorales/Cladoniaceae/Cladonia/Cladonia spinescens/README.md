@@ -1,5 +1,4 @@
-Cladonia spinescens Hoffm. SPECIES
-=======
+# Cladonia spinescens Hoffm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Singerocybe Harmaja GENUS
-=======
+# Clitocybe (Fr.) Staude GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Karstenia 27(2): 71 (1988)
+Schwämme Mitteldeutschl. xxviii, 122 (1857)
 
 #### Original name
-Singerocybe Harmaja
+Agaricus Linnaeus, 1753
 
 ### Remarks
 null

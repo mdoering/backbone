@@ -1,5 +1,4 @@
-Coenogonium gertrudianum Hosseus & Gyeln. SPECIES
-=======
+# Coenogonium gertrudianum Hosseus & Gyeln. SPECIES
 
 #### Status
 ACCEPTED

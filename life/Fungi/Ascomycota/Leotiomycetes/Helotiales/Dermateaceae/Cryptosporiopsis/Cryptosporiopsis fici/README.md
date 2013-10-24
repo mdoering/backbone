@@ -1,5 +1,4 @@
-Cryptosporiopsis fici S.P. Lal & J.N. Kapoor SPECIES
-=======
+# Cryptosporiopsis fici S.P. Lal & J.N. Kapoor SPECIES
 
 #### Status
 ACCEPTED

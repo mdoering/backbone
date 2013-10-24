@@ -1,5 +1,4 @@
-Rutilaria hyalina R. Ross SPECIES
-=======
+# Rutilaria hyalina R. Ross SPECIES
 
 #### Status
 ACCEPTED

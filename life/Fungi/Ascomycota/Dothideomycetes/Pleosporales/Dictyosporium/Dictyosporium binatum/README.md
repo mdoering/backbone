@@ -1,5 +1,4 @@
-Dictyosporium binatum (Sacc.) S. Hughes SPECIES
-=======
+# Dictyosporium binatum (Sacc.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

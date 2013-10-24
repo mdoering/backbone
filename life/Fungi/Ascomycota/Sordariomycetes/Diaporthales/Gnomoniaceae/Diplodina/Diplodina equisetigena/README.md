@@ -1,5 +1,4 @@
-Diplodina equisetigena Kirschst. SPECIES
-=======
+# Diplodina equisetigena Kirschst. SPECIES
 
 #### Status
 ACCEPTED

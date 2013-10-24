@@ -1,5 +1,4 @@
-Glomus spinuliferum Sieverd. & Oehl SPECIES
-=======
+# Glomus spinuliferum Sieverd. & Oehl SPECIES
 
 #### Status
 ACCEPTED

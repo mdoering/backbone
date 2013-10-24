@@ -1,5 +1,4 @@
-Spumaria minuta Schumach. SPECIES
-=======
+# Spumaria minuta Schumach. SPECIES
 
 #### Status
 ACCEPTED

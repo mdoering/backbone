@@ -1,5 +1,4 @@
-Trichothelium cestrense (E. Michener) R.C. Harris SPECIES
-=======
+# Trichothelium cestrense (E. Michener) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

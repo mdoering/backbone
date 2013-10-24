@@ -1,5 +1,4 @@
-Hyaloscypha minima Velen. SPECIES
-=======
+# Hyaloscypha minima Velen. SPECIES
 
 #### Status
 ACCEPTED

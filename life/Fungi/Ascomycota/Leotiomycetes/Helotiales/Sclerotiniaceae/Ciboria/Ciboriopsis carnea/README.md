@@ -1,5 +1,4 @@
-Ciboriopsis carnea A.K. Kar & K.P. Pal SPECIES
-=======
+# Ciboriopsis carnea A.K. Kar & K.P. Pal SPECIES
 
 #### Status
 ACCEPTED

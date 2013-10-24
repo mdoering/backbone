@@ -1,5 +1,4 @@
-Micromonospora brunnea Sveshnikova et al., 1969 (Approved Lists, 1980) SPECIES
-=======
+# Micromonospora brunnea Sveshnikova et al., 1969 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

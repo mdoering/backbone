@@ -1,5 +1,4 @@
-Mollisia auricula (Garov.) Sacc. SPECIES
-=======
+# Mollisia auricula (Garov.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

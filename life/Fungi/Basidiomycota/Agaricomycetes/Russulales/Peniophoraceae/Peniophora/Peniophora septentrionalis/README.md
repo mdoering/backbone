@@ -1,5 +1,4 @@
-Peniophora septentrionalis Laurila, 1939 SPECIES
-=======
+# Peniophora septentrionalis Laurila, 1939 SPECIES
 
 #### Status
 ACCEPTED

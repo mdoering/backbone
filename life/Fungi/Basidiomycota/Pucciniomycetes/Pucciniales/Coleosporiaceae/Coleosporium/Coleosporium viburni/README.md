@@ -1,5 +1,4 @@
-Coleosporium viburni Arthur SPECIES
-=======
+# Coleosporium viburni Arthur SPECIES
 
 #### Status
 ACCEPTED

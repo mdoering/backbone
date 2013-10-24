@@ -1,5 +1,4 @@
-Lecidea subacervata Müll. Arg. SPECIES
-=======
+# Lecidea subacervata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

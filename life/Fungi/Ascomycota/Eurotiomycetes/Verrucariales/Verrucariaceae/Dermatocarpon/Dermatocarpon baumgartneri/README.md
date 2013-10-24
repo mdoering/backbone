@@ -1,5 +1,4 @@
-Dermatocarpon baumgartneri (Zahlbr.) Zahlbr. SPECIES
-=======
+# Dermatocarpon baumgartneri (Zahlbr.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

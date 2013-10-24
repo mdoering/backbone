@@ -1,5 +1,4 @@
-Trichosphaeropsis crescentiae Bat. & Nascim., 1960 SPECIES
-=======
+# Trichosphaeropsis crescentiae Bat. & Nascim., 1960 SPECIES
 
 #### Status
 ACCEPTED

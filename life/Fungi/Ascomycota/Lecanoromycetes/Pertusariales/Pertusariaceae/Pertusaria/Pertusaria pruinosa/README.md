@@ -1,5 +1,4 @@
-Pertusaria pruinosa Kremp. SPECIES
-=======
+# Pertusaria pruinosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

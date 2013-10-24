@@ -1,5 +1,4 @@
-Parmelia mussooriensis D.D. Awasthi SPECIES
-=======
+# Parmelia mussooriensis D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

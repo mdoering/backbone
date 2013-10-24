@@ -1,5 +1,4 @@
-Placodium cartilagineum (Ach.) Körb. SPECIES
-=======
+# Placodium cartilagineum (Ach.) Körb. SPECIES
 
 #### Status
 ACCEPTED

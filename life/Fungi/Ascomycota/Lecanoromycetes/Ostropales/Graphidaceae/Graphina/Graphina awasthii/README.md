@@ -1,5 +1,4 @@
-Graphina awasthii Dharne & Roych. SPECIES
-=======
+# Graphina awasthii Dharne & Roych. SPECIES
 
 #### Status
 ACCEPTED

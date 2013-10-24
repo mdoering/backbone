@@ -1,5 +1,4 @@
-Delicatula picea Velen. SPECIES
-=======
+# Delicatula picea Velen. SPECIES
 
 #### Status
 ACCEPTED

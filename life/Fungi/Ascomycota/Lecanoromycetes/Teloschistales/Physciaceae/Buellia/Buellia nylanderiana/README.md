@@ -1,5 +1,4 @@
-Buellia nylanderiana Zahlbr. SPECIES
-=======
+# Buellia nylanderiana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

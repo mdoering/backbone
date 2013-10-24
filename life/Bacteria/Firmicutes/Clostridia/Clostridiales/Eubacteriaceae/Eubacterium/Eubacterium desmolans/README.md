@@ -1,5 +1,4 @@
-Eubacterium desmolans Morris et al., 1986 SPECIES
-=======
+# Eubacterium desmolans Morris et al., 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeosphaerobolus usneae D. Hawksw. & Hafellner SPECIES
-=======
+# Phaeosphaerobolus usneae D. Hawksw. & Hafellner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cossothigma Yankovski, 1978 GENUS
-=======
+# Cossothigma Yankovski, 1978 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeromyces G. Arnaud, 1954 GENUS
-=======
+# Sphaeromyces G. Arnaud, 1954 GENUS
 
 #### Status
 ACCEPTED

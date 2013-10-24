@@ -1,5 +1,4 @@
-Propolis rubi Rehm SPECIES
-=======
+# Propolis rubi Rehm SPECIES
 
 #### Status
 ACCEPTED

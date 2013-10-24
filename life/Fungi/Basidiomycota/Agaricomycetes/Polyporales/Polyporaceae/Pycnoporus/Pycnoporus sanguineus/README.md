@@ -1,17 +1,16 @@
-Polystictus sanguineus f. sanguineus FORM
-=======
+# Pycnoporus sanguineus (L.) Murrill, 1904 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 1 1: 75 (1818)
+Bull. Torrey bot. Club 31(8): 421 (1904)
 
 #### Original name
-Polystictus sanguineus f. sanguineus
+Boletus sanguineus With., 1792
 
 ### Remarks
 null

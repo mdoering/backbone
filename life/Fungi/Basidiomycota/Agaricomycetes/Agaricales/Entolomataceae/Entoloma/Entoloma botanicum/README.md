@@ -1,5 +1,4 @@
-Entoloma botanicum G. Stev. SPECIES
-=======
+# Entoloma botanicum G. Stev. SPECIES
 
 #### Status
 ACCEPTED

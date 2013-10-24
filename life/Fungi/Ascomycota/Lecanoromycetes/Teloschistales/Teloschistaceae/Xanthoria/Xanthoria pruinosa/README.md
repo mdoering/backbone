@@ -1,5 +1,4 @@
-Xanthoria pruinosa Hillmann SPECIES
-=======
+# Xanthoria pruinosa Hillmann SPECIES
 
 #### Status
 ACCEPTED

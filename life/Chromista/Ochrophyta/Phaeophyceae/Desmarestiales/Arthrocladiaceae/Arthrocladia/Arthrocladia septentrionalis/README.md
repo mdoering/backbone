@@ -1,5 +1,4 @@
-Arthrocladia septentrionalis SPECIES
-=======
+# Arthrocladia septentrionalis SPECIES
 
 #### Status
 ACCEPTED

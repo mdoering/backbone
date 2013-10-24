@@ -1,5 +1,4 @@
-Verrucaria polycarpa (Körb.) Flörke SPECIES
-=======
+# Verrucaria polycarpa (Körb.) Flörke SPECIES
 
 #### Status
 ACCEPTED

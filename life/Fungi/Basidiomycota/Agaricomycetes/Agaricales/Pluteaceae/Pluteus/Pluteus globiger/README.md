@@ -1,5 +1,4 @@
-Pluteus globiger Singer SPECIES
-=======
+# Pluteus globiger Singer SPECIES
 
 #### Status
 ACCEPTED

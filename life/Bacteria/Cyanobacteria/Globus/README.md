@@ -1,5 +1,4 @@
-Globus Vidal in Moczydlowska & Vidal, 1988 GENUS
-=======
+# Globus Vidal in Moczydlowska & Vidal, 1988 GENUS
 
 #### Status
 ACCEPTED

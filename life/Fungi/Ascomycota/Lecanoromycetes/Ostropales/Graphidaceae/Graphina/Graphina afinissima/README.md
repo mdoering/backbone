@@ -1,5 +1,4 @@
-Graphina afinissima (Nyl.) Zahlbr. SPECIES
-=======
+# Graphina afinissima (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

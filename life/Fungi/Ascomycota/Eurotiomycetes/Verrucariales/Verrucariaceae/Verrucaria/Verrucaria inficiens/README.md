@@ -1,5 +1,4 @@
-Verrucaria inficiens Breuss SPECIES
-=======
+# Verrucaria inficiens Breuss SPECIES
 
 #### Status
 ACCEPTED

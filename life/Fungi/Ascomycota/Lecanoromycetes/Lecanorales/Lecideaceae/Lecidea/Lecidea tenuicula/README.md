@@ -1,5 +1,4 @@
-Lecidea tenuicula Nyl. SPECIES
-=======
+# Lecidea tenuicula Nyl. SPECIES
 
 #### Status
 ACCEPTED

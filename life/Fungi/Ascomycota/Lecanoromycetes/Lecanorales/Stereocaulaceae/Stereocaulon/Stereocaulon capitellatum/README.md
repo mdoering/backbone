@@ -1,5 +1,4 @@
-Stereocaulon capitellatum H. Magn. SPECIES
-=======
+# Stereocaulon capitellatum H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria gleditschiae Schwein. SPECIES
-=======
+# Sphaeria gleditschiae Schwein. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stereum centrifugum (Weinm.) Fr. SPECIES
-=======
+# Stereum centrifugum (Weinm.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceramothyrium globosum (L.R. Fraser) Bat. SPECIES
-=======
+# Ceramothyrium globosum (L.R. Fraser) Bat. SPECIES
 
 #### Status
 ACCEPTED

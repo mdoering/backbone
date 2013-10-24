@@ -1,5 +1,4 @@
-Hypocrella luteo-olivacea G. Winter SPECIES
-=======
+# Hypocrella luteo-olivacea G. Winter SPECIES
 
 #### Status
 ACCEPTED

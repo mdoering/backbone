@@ -1,5 +1,4 @@
-Syncesia mollis (Müll. Arg.) Tehler SPECIES
-=======
+# Syncesia mollis (Müll. Arg.) Tehler SPECIES
 
 #### Status
 ACCEPTED

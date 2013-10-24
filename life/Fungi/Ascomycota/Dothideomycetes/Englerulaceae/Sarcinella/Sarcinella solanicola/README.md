@@ -1,5 +1,4 @@
-Sarcinella solanicola Speg. SPECIES
-=======
+# Sarcinella solanicola Speg. SPECIES
 
 #### Status
 ACCEPTED

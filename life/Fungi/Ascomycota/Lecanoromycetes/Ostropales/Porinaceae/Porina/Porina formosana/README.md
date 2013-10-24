@@ -1,5 +1,4 @@
-Porina formosana Zahlbr. SPECIES
-=======
+# Porina formosana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

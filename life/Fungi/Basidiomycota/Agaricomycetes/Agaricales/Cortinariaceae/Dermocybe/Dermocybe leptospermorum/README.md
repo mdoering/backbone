@@ -1,5 +1,4 @@
-Dermocybe leptospermorum E. Horak, 1988 SPECIES
-=======
+# Dermocybe leptospermorum E. Horak, 1988 SPECIES
 
 #### Status
 ACCEPTED

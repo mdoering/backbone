@@ -1,5 +1,4 @@
-Protoleiosphaeridium sigillarum Andreeva, 1966 SPECIES
-=======
+# Protoleiosphaeridium sigillarum Andreeva, 1966 SPECIES
 
 #### Status
 ACCEPTED

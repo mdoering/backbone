@@ -1,5 +1,4 @@
-Coscinodiscus concinniformis Simonsen, 1974 SPECIES
-=======
+# Coscinodiscus concinniformis Simonsen, 1974 SPECIES
 
 #### Status
 ACCEPTED

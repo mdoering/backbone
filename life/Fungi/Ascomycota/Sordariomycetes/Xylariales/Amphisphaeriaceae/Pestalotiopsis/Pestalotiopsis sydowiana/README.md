@@ -1,14 +1,13 @@
-Pestalotia sydowiana Bres., 1895 SPECIES
-=======
+# Pestalotiopsis sydowiana (Bres.) B. Sutton, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotheca marchia 44: no. 4372 (1895)
+Mycol. Pap. 80: 14 (1961)
 
 #### Original name
 Pestalotia sydowiana Bres., 1895

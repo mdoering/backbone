@@ -1,5 +1,4 @@
-Dacrymyces purpureus Tul. SPECIES
-=======
+# Dacrymyces purpureus Tul. SPECIES
 
 #### Status
 ACCEPTED

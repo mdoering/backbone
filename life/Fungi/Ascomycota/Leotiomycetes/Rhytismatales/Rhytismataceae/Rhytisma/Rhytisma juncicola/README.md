@@ -1,5 +1,4 @@
-Rhytisma juncicola Rehm SPECIES
-=======
+# Rhytisma juncicola Rehm SPECIES
 
 #### Status
 ACCEPTED

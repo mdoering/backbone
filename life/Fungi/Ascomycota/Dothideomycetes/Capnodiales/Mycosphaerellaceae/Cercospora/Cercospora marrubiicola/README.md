@@ -1,5 +1,4 @@
-Cercospora marrubiicola Vassiljevsky SPECIES
-=======
+# Cercospora marrubiicola Vassiljevsky SPECIES
 
 #### Status
 ACCEPTED

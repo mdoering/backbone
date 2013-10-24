@@ -1,5 +1,4 @@
-Macroplodia smyrnii (Pass.) Kuntze SPECIES
-=======
+# Macroplodia smyrnii (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

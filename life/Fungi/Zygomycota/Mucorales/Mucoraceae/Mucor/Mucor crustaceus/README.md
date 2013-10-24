@@ -1,5 +1,4 @@
-Mucor crustaceus L. SPECIES
-=======
+# Mucor crustaceus L. SPECIES
 
 #### Status
 ACCEPTED

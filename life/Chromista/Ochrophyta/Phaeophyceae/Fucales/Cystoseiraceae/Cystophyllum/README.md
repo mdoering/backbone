@@ -1,5 +1,4 @@
-Cystophyllum J.G. Agardh, 1848 GENUS
-=======
+# Cystophyllum J.G. Agardh, 1848 GENUS
 
 #### Status
 ACCEPTED

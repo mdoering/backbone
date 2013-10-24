@@ -1,5 +1,4 @@
-Peziza eclecta anon. SPECIES
-=======
+# Peziza eclecta anon. SPECIES
 
 #### Status
 ACCEPTED

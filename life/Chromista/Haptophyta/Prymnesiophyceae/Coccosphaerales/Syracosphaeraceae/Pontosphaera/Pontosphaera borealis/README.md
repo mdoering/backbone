@@ -1,5 +1,4 @@
-Pontosphaera borealis Ostenfeld SPECIES
-=======
+# Pontosphaera borealis Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

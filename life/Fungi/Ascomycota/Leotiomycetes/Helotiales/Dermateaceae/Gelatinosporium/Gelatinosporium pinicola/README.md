@@ -1,5 +1,4 @@
-Gelatinosporium pinicola (Linder) A. Funk SPECIES
-=======
+# Gelatinosporium pinicola (Linder) A. Funk SPECIES
 
 #### Status
 ACCEPTED

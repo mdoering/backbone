@@ -1,5 +1,4 @@
-Mycosphaerella hypodermellae Wehm. SPECIES
-=======
+# Mycosphaerella hypodermellae Wehm. SPECIES
 
 #### Status
 ACCEPTED

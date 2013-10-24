@@ -1,5 +1,4 @@
-Phoma agaves Sacc. SPECIES
-=======
+# Phoma agaves Sacc. SPECIES
 
 #### Status
 ACCEPTED

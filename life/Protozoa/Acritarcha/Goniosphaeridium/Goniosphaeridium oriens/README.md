@@ -1,5 +1,4 @@
-Goniosphaeridium oriens Welsch, 1986 SPECIES
-=======
+# Goniosphaeridium oriens Welsch, 1986 SPECIES
 
 #### Status
 ACCEPTED

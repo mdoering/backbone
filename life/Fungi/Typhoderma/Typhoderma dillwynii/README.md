@@ -1,5 +1,4 @@
-Typhoderma dillwynii Gray SPECIES
-=======
+# Typhoderma dillwynii Gray SPECIES
 
 #### Status
 ACCEPTED

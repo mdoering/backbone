@@ -1,5 +1,4 @@
-Micramphora atlantica Chardez & Thomas, 1980 SPECIES
-=======
+# Micramphora atlantica Chardez & Thomas, 1980 SPECIES
 
 #### Status
 ACCEPTED

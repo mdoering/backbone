@@ -1,5 +1,4 @@
-Puccinia imperspicua P. Syd. & Syd. SPECIES
-=======
+# Puccinia imperspicua P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exoascus lapponicus (Juel) Jacz. SPECIES
-=======
+# Exoascus lapponicus (Juel) Jacz. SPECIES
 
 #### Status
 ACCEPTED

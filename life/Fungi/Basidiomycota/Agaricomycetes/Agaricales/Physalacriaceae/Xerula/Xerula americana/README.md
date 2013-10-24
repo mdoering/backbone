@@ -1,5 +1,4 @@
-Xerula americana Dörfelt SPECIES
-=======
+# Xerula americana Dörfelt SPECIES
 
 #### Status
 ACCEPTED

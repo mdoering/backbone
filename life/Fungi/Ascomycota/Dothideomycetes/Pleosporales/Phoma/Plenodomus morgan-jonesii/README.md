@@ -1,17 +1,16 @@
-Plenodomus morganjonesii M.S. Torres & J.F. White SPECIES
-=======
+# Plenodomus morgan-jonesii M.S. Torres & J.F. White SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 93: 336 (2005)
 
 #### Original name
-Plenodomus morganjonesii M.S. Torres & J.F. White
+Plenodomus morgan-jonesii M.S. Torres & J.F. White
 
 ### Remarks
 null

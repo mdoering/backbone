@@ -1,8 +1,7 @@
-Sphaerella perforans (Roberge ex Desm.) Sacc., 1882 SPECIES
-=======
+# Montagnula perforans (Roberge ex Desm.) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

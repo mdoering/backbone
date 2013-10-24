@@ -1,5 +1,4 @@
-Cercospora ardisiae C.C. Chen SPECIES
-=======
+# Cercospora ardisiae C.C. Chen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enchelyodon vermicularis SPECIES
-=======
+# Enchelyodon vermicularis SPECIES
 
 #### Status
 ACCEPTED

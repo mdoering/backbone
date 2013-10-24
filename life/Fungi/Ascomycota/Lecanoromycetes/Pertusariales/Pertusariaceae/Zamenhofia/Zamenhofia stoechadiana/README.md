@@ -1,5 +1,4 @@
-Zamenhofia stoechadiana (F. Rose & Cl. Roux) Clauzade & Cl. Roux SPECIES
-=======
+# Zamenhofia stoechadiana (F. Rose & Cl. Roux) Clauzade & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

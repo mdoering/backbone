@@ -1,5 +1,4 @@
-Dicaeoma alliatum (Link) Kuntze SPECIES
-=======
+# Dicaeoma alliatum (Link) Kuntze SPECIES
 
 #### Status
 ACCEPTED

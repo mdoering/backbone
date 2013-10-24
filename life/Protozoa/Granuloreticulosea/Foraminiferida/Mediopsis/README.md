@@ -1,5 +1,4 @@
-Mediopsis Bogush in Bushmina, Bogush & Kononova, 1984 GENUS
-=======
+# Mediopsis Bogush in Bushmina, Bogush & Kononova, 1984 GENUS
 
 #### Status
 ACCEPTED

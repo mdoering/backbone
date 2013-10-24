@@ -1,5 +1,4 @@
-Puccinia bassiae Samuel SPECIES
-=======
+# Puccinia bassiae Samuel SPECIES
 
 #### Status
 ACCEPTED

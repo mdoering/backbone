@@ -1,11 +1,10 @@
-Cytophaga xantha Inoue & Komagata, 1976 SPECIES
-=======
+# Flavobacterium xanthum (ex Inoue & Komagata, 1976) McCammon & Bowman, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

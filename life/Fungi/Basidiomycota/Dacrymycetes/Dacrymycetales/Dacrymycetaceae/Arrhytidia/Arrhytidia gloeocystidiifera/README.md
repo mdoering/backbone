@@ -1,8 +1,7 @@
-Arrhytidia gloeocystidifera Rick SPECIES
-=======
+# Arrhytidia gloeocystidiifera Rick SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Arrhytidia gloeocystidifera Rick
+Arrhytidia gloeocystidiifera Rick
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Massariella yerbae Speg. SPECIES
-=======
+# Massariella yerbae Speg. SPECIES
 
 #### Status
 ACCEPTED

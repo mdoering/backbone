@@ -1,5 +1,4 @@
-Emarcea Duong, Jeewon & K.D. Hyde GENUS
-=======
+# Emarcea Duong, Jeewon & K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

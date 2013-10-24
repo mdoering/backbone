@@ -1,5 +1,4 @@
-Aecidium kuntzii-friderici Magnus SPECIES
-=======
+# Aecidium kuntzii-friderici Magnus SPECIES
 
 #### Status
 ACCEPTED

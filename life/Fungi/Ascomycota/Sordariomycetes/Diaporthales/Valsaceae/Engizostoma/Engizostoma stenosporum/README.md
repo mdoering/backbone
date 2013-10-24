@@ -1,5 +1,4 @@
-Engizostoma stenosporum (Tul. & C. Tul.) Kuntze SPECIES
-=======
+# Engizostoma stenosporum (Tul. & C. Tul.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

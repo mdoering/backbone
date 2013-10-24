@@ -1,5 +1,4 @@
-Atopodinium prostatum Drugg, 1978 SPECIES
-=======
+# Atopodinium prostatum Drugg, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus calvinii A.H. Sm. & Thiers SPECIES
-=======
+# Boletus calvinii A.H. Sm. & Thiers SPECIES
 
 #### Status
 ACCEPTED

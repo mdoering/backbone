@@ -1,5 +1,4 @@
-Lasallia asiae-orientalis f. asiae-orientalis FORM
-=======
+# Lasallia asiae-orientalis Asahina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lasallia asiae-orientalis f. asiae-orientalis
+Lasallia asiae-orientalis Asahina
 
 ### Remarks
 null

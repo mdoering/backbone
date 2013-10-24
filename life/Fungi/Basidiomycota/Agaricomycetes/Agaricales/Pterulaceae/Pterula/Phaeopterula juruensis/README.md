@@ -1,5 +1,4 @@
-Phaeopterula juruensis Henn. SPECIES
-=======
+# Phaeopterula juruensis Henn. SPECIES
 
 #### Status
 ACCEPTED

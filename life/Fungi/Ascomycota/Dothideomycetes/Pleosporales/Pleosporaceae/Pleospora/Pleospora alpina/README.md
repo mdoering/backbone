@@ -1,5 +1,4 @@
-Pleospora alpina Rostr. SPECIES
-=======
+# Pleospora alpina Rostr. SPECIES
 
 #### Status
 ACCEPTED

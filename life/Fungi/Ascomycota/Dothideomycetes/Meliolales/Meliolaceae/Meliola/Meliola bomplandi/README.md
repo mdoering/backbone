@@ -1,17 +1,16 @@
-Meliola bonplandii Speg. SPECIES
-=======
+# Meliola bomplandi Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Anal. Mus. nac. Hist. nat. B. Aires 23: 39 (1912)
 
 #### Original name
-Meliola bonplandii Speg.
+Meliola bomplandi Speg.
 
 ### Remarks
 null

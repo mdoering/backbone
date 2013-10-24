@@ -1,5 +1,4 @@
-Spiroloculina corrugata Cushman & Todd SPECIES
-=======
+# Spiroloculina corrugata Cushman & Todd SPECIES
 
 #### Status
 ACCEPTED

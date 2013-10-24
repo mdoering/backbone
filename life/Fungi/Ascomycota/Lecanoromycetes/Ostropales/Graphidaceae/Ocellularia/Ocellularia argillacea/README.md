@@ -1,5 +1,4 @@
-Ocellularia argillacea Müll. Arg. SPECIES
-=======
+# Ocellularia argillacea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

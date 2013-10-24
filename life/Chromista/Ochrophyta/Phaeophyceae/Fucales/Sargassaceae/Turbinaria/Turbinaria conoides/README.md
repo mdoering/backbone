@@ -1,5 +1,4 @@
-Turbinaria conoides f. laticuspidata W.R. Taylor FORM
-=======
+# Turbinaria conoides (J. Agardh) Kützing SPECIES
 
 #### Status
 ACCEPTED

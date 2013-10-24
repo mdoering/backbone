@@ -1,5 +1,4 @@
-Calostoma miniata M. Zang SPECIES
-=======
+# Calostoma miniata M. Zang SPECIES
 
 #### Status
 ACCEPTED

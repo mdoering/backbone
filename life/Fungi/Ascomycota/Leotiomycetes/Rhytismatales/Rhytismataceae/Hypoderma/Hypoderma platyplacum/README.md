@@ -1,5 +1,4 @@
-Hypoderma platyplacum (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Hypoderma platyplacum (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

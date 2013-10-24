@@ -1,5 +1,4 @@
-Corynebacterium auriscanis Collins et al., 2000 SPECIES
-=======
+# Corynebacterium auriscanis Collins et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

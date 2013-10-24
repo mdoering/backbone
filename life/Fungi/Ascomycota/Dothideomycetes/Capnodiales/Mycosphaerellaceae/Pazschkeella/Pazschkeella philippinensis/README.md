@@ -1,5 +1,4 @@
-Pazschkeella philippinensis H.S. Yates SPECIES
-=======
+# Pazschkeella philippinensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

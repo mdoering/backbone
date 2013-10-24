@@ -1,5 +1,4 @@
-Macrosporium maydis Cooke & Ellis SPECIES
-=======
+# Macrosporium maydis Cooke & Ellis SPECIES
 
 #### Status
 ACCEPTED

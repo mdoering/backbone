@@ -1,5 +1,4 @@
-Cyphina GENUS
-=======
+# Cyphina GENUS
 
 #### Status
 ACCEPTED

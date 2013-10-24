@@ -1,5 +1,4 @@
-Diatrypella coffaeicola Speg. SPECIES
-=======
+# Diatrypella coffaeicola Speg. SPECIES
 
 #### Status
 ACCEPTED

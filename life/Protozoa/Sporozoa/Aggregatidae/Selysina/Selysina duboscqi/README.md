@@ -1,5 +1,4 @@
-Selysina duboscqi Harant, 1931 SPECIES
-=======
+# Selysina duboscqi Harant, 1931 SPECIES
 
 #### Status
 ACCEPTED

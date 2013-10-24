@@ -1,17 +1,16 @@
-Phomopsis dulcamarae (Sacc.) Traverso, 1906 SPECIES
-=======
+# Diaporthe dulcamarae Nitschke, 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fl. ital. crypt. (Florence), Pyrenomycetae 2(1): 247 (1906)
+Pyrenomycetes Germanici 250 (1870)
 
 #### Original name
-Phyllosticta dulcamarae Sacc., 1878
+Diaporthe dulcamarae Nitschke, 1870
 
 ### Remarks
 null

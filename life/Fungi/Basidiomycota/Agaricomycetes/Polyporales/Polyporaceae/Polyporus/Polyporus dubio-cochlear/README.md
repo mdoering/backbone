@@ -1,5 +1,4 @@
-Polyporus dubio-cochlear Lloyd SPECIES
-=======
+# Polyporus dubio-cochlear Lloyd SPECIES
 
 #### Status
 ACCEPTED

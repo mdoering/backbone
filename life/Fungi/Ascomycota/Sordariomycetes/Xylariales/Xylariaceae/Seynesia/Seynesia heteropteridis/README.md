@@ -1,5 +1,4 @@
-Seynesia heteropteridis Theiss. SPECIES
-=======
+# Seynesia heteropteridis Theiss. SPECIES
 
 #### Status
 ACCEPTED

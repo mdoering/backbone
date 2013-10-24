@@ -1,5 +1,4 @@
-Helotium africanum Redhead SPECIES
-=======
+# Helotium africanum Redhead SPECIES
 
 #### Status
 ACCEPTED

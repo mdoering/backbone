@@ -1,5 +1,4 @@
-Plasmopara angustiterminalis Novot. SPECIES
-=======
+# Plasmopara angustiterminalis Novot. SPECIES
 
 #### Status
 ACCEPTED

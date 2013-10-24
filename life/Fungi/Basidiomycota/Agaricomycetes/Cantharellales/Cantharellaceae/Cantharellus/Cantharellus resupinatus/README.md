@@ -1,5 +1,4 @@
-Cantharellus resupinatus Pers. SPECIES
-=======
+# Cantharellus resupinatus Pers. SPECIES
 
 #### Status
 ACCEPTED

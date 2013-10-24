@@ -1,5 +1,4 @@
-Helminthosporium gleicheniae F. Stevens & Glick SPECIES
-=======
+# Helminthosporium gleicheniae F. Stevens & Glick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armillaria olida Thiers & Sundb. SPECIES
-=======
+# Armillaria olida Thiers & Sundb. SPECIES
 
 #### Status
 ACCEPTED

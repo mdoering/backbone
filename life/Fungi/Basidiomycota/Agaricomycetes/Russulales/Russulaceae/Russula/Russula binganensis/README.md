@@ -1,5 +1,4 @@
-Russula binganensis Beeli SPECIES
-=======
+# Russula binganensis Beeli SPECIES
 
 #### Status
 ACCEPTED

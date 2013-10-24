@@ -1,5 +1,4 @@
-Lecidea umbonatula Nyl. SPECIES
-=======
+# Lecidea umbonatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

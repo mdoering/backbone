@@ -1,5 +1,4 @@
-Chionosphaera coppinsii P. Roberts, 1997 SPECIES
-=======
+# Chionosphaera coppinsii P. Roberts, 1997 SPECIES
 
 #### Status
 ACCEPTED

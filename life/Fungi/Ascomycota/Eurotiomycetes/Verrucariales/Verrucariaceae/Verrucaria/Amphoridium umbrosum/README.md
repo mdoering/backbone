@@ -1,5 +1,4 @@
-Amphoridium umbrosum A. Massal. SPECIES
-=======
+# Amphoridium umbrosum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium carneolum P. Karst. SPECIES
-=======
+# Fusarium carneolum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

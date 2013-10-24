@@ -1,5 +1,4 @@
-Hendersonia rhizophila Ferraris SPECIES
-=======
+# Hendersonia rhizophila Ferraris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elaeomyxa olei Krichner SPECIES
-=======
+# Elaeomyxa olei Krichner SPECIES
 
 #### Status
 ACCEPTED

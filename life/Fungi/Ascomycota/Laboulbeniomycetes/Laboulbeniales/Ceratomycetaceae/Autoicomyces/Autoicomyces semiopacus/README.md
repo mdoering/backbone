@@ -1,5 +1,4 @@
-Autoicomyces semiopacus (Thaxt.) I.I. Tav. SPECIES
-=======
+# Autoicomyces semiopacus (Thaxt.) I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

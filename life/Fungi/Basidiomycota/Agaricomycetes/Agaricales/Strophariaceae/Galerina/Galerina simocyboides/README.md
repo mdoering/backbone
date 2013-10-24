@@ -1,5 +1,4 @@
-Galerina simocyboides Singer SPECIES
-=======
+# Galerina simocyboides Singer SPECIES
 
 #### Status
 ACCEPTED

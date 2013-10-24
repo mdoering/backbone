@@ -1,5 +1,4 @@
-Physalospora sapii Doidge SPECIES
-=======
+# Physalospora sapii Doidge SPECIES
 
 #### Status
 ACCEPTED

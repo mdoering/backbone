@@ -1,17 +1,16 @@
-Stereum spadiceum var. spadiceum VARIETY
-=======
+# Stereum gausapatum (Fr.) Fr., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hymenomyc. eur. (Upsaliae) 638 (1874)
 
 #### Original name
-Stereum spadiceum var. spadiceum
+Thelephora gausapata Fr., 1828
 
 ### Remarks
 null

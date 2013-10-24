@@ -1,5 +1,4 @@
-Rhizocalyx abietis Petr., 1928 SPECIES
-=======
+# Rhizocalyx abietis Petr., 1928 SPECIES
 
 #### Status
 ACCEPTED

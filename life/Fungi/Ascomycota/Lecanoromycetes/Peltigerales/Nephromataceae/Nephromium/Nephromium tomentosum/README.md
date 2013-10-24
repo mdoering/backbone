@@ -1,5 +1,4 @@
-Nephromium tomentosum var. tomentosum VARIETY
-=======
+# Nephromium tomentosum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Nephromium tomentosum var. tomentosum
+null
 
 ### Remarks
 null

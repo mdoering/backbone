@@ -1,5 +1,4 @@
-Calostoma oriruber Massee SPECIES
-=======
+# Calostoma oriruber Massee SPECIES
 
 #### Status
 ACCEPTED

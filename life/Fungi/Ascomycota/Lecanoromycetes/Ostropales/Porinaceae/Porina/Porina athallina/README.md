@@ -1,5 +1,4 @@
-Porina athallina (Bagl. & Carestia) Lettau SPECIES
-=======
+# Porina athallina (Bagl. & Carestia) Lettau SPECIES
 
 #### Status
 ACCEPTED

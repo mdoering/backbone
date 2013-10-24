@@ -1,5 +1,4 @@
-Macrosporium caepicola Speg. SPECIES
-=======
+# Macrosporium caepicola Speg. SPECIES
 
 #### Status
 ACCEPTED

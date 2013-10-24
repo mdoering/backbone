@@ -1,5 +1,4 @@
-Uredo populi H. Mart. SPECIES
-=======
+# Uredo populi H. Mart. SPECIES
 
 #### Status
 ACCEPTED

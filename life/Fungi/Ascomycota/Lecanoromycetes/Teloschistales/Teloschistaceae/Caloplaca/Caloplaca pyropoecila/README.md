@@ -1,5 +1,4 @@
-Caloplaca pyropoecila (Nyl.) Zahlbr. SPECIES
-=======
+# Caloplaca pyropoecila (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

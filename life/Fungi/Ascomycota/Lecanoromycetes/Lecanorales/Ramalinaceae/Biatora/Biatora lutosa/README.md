@@ -1,5 +1,4 @@
-Biatora lutosa (A. Massal.) Hepp SPECIES
-=======
+# Biatora lutosa (A. Massal.) Hepp SPECIES
 
 #### Status
 ACCEPTED

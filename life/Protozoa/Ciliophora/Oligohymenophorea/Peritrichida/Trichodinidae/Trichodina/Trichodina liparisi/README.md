@@ -1,5 +1,4 @@
-Trichodina liparisi Zhukov, 1964 SPECIES
-=======
+# Trichodina liparisi Zhukov, 1964 SPECIES
 
 #### Status
 ACCEPTED

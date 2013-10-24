@@ -1,5 +1,4 @@
-Diplodina ascochytoides (Sacc.) Sacc. SPECIES
-=======
+# Diplodina ascochytoides (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

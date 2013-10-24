@@ -1,5 +1,4 @@
-Entyloma lobeliae Farl. SPECIES
-=======
+# Entyloma lobeliae Farl. SPECIES
 
 #### Status
 ACCEPTED

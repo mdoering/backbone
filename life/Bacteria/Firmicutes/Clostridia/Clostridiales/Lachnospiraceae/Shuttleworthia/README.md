@@ -1,5 +1,4 @@
-Shuttleworthia Downes et al., 2002 GENUS
-=======
+# Shuttleworthia Downes et al., 2002 GENUS
 
 #### Status
 ACCEPTED

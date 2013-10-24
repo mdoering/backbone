@@ -1,5 +1,4 @@
-Providencia rettgeri (Hadley, 1918) Brenner et al., 1978 (Approved Lists, 1980) SPECIES
-=======
+# Providencia rettgeri (Hadley, 1918) Brenner et al., 1978 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

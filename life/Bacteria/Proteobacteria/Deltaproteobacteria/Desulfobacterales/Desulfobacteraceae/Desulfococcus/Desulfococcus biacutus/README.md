@@ -1,5 +1,4 @@
-Desulfococcus biacutus Platen et al., 1991 SPECIES
-=======
+# Desulfococcus biacutus Platen et al., 1991 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza vitis-viniferae Kirchn. SPECIES
-=======
+# Peziza vitis-viniferae Kirchn. SPECIES
 
 #### Status
 ACCEPTED

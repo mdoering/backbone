@@ -1,5 +1,4 @@
-Lecidea pleiotera Nyl. SPECIES
-=======
+# Lecidea pleiotera Nyl. SPECIES
 
 #### Status
 ACCEPTED

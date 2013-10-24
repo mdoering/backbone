@@ -1,14 +1,13 @@
-Poeltia miconiae (F. Stevens) Petr., 1972 SPECIES
-=======
+# Paranectriella miconiae (F. Stevens) Rossman, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 25(1-6): 178 (1972)
+Mycol. Pap. 157: 27 (1987)
 
 #### Original name
 Paranectria miconiae F. Stevens, 1918

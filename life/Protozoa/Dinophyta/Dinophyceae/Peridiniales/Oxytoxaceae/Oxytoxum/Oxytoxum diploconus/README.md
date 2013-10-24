@@ -1,5 +1,4 @@
-Oxytoxum diploconus Stein SPECIES
-=======
+# Oxytoxum diploconus Stein SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Taeniophora acerina P. Karst. SPECIES
-=======
+# Taeniophora acerina P. Karst. SPECIES
 
 #### Status
 ACCEPTED

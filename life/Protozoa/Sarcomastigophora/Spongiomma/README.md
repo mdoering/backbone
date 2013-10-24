@@ -1,5 +1,4 @@
-Spongiomma Haeckel, 1887 GENUS
-=======
+# Spongiomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

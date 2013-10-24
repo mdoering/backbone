@@ -1,5 +1,4 @@
-Corethromyces pulchellus Speg. SPECIES
-=======
+# Corethromyces pulchellus Speg. SPECIES
 
 #### Status
 ACCEPTED

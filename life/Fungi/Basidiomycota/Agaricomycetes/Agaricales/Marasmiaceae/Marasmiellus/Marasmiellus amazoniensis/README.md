@@ -1,5 +1,4 @@
-Marasmiellus amazoniensis Singer SPECIES
-=======
+# Marasmiellus amazoniensis Singer SPECIES
 
 #### Status
 ACCEPTED

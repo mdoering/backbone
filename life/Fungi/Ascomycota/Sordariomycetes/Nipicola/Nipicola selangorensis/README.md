@@ -1,5 +1,4 @@
-Nipicola selangorensis K.D. Hyde, 1994 SPECIES
-=======
+# Nipicola selangorensis K.D. Hyde, 1994 SPECIES
 
 #### Status
 ACCEPTED

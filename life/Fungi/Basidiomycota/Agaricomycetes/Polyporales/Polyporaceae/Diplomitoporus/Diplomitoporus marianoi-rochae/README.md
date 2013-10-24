@@ -1,5 +1,4 @@
-Diplomitoporus marianoi-rochae G. Coelho SPECIES
-=======
+# Diplomitoporus marianoi-rochae G. Coelho SPECIES
 
 #### Status
 ACCEPTED

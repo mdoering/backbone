@@ -1,5 +1,4 @@
-Ciboria carbonaria Feltgen SPECIES
-=======
+# Ciboria carbonaria Feltgen SPECIES
 
 #### Status
 ACCEPTED

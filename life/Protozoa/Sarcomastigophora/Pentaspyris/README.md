@@ -1,5 +1,4 @@
-Pentaspyris Haeckel, 1881 GENUS
-=======
+# Pentaspyris Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

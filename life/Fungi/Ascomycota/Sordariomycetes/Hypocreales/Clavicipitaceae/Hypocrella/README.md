@@ -1,17 +1,16 @@
-Perisporiella Henn. GENUS
-=======
+# Hypocrella Sacc. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michelia 1(no. 3): 322 (1878)
 
 #### Original name
-Perisporiella Henn.
+Hypocrella Sacc.
 
 ### Remarks
 null

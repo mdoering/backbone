@@ -1,8 +1,7 @@
-Ophrydium pictum (Kent, 1881) Kahl, 1935 SPECIES
-=======
+# Gerda picta Kent, 1881 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

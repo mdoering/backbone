@@ -1,5 +1,4 @@
-Graphina adscribens (Nyl.) Müll. Arg. SPECIES
-=======
+# Graphina adscribens (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

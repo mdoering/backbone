@@ -1,5 +1,4 @@
-Amazonia sideroxyli Hansf. SPECIES
-=======
+# Amazonia sideroxyli Hansf. SPECIES
 
 #### Status
 ACCEPTED

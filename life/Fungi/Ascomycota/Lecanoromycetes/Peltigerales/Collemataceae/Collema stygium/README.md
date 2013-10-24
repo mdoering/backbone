@@ -1,5 +1,4 @@
-Collema stygium Schaer. SPECIES
-=======
+# Collema stygium Schaer. SPECIES
 
 #### Status
 ACCEPTED

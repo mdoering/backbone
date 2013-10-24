@@ -1,5 +1,4 @@
-Cystolepiota purpureoconia (G.F. Atk.) Bon SPECIES
-=======
+# Cystolepiota purpureoconia (G.F. Atk.) Bon SPECIES
 
 #### Status
 ACCEPTED

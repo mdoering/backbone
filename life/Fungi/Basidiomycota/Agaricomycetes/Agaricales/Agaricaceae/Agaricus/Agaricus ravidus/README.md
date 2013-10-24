@@ -1,5 +1,4 @@
-Agaricus ravidus Fr. SPECIES
-=======
+# Agaricus ravidus Fr. SPECIES
 
 #### Status
 ACCEPTED

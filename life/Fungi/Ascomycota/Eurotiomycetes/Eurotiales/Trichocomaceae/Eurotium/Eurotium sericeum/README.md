@@ -1,5 +1,4 @@
-Eurotium sericeum Kuntze SPECIES
-=======
+# Eurotium sericeum Kuntze SPECIES
 
 #### Status
 ACCEPTED

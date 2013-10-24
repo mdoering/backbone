@@ -1,14 +1,13 @@
-Laestadia verbesinae Pat. & Gaillard, 1888 SPECIES
-=======
+# Phyllachora verbesinae (Pat. & Gaillard) Petr., 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 4: 111 (1888)
+Annls mycol. 25(3/4): 309 (1927)
 
 #### Original name
 Laestadia verbesinae Pat. & Gaillard, 1888

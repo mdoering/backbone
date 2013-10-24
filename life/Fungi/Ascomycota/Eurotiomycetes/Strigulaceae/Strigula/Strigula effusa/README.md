@@ -1,5 +1,4 @@
-Strigula effusa Fr. SPECIES
-=======
+# Strigula effusa Fr. SPECIES
 
 #### Status
 ACCEPTED

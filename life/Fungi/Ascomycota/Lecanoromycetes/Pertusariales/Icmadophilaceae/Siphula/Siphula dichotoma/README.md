@@ -1,5 +1,4 @@
-Siphula dichotoma Vain. SPECIES
-=======
+# Siphula dichotoma Vain. SPECIES
 
 #### Status
 ACCEPTED

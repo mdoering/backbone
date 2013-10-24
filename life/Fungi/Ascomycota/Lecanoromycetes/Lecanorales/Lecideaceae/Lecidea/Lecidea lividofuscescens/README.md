@@ -1,5 +1,4 @@
-Lecidea lividofuscescens Nyl. SPECIES
-=======
+# Lecidea lividofuscescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

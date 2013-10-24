@@ -1,14 +1,13 @@
-Actinopeltis palustris J.P. Ellis, 1977 SPECIES
-=======
+# Lichenopeltella palustris (J.P. Ellis) P.M. Kirk & Minter, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 68(2): 153 (1977)
+IMI Descr. Fungi Bact. 174(nos 1731-1740): [2] (2007)
 
 #### Original name
 Actinopeltis palustris J.P. Ellis, 1977

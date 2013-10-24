@@ -1,5 +1,4 @@
-Maireina leonina (Speg.) W.B. Cooke SPECIES
-=======
+# Maireina leonina (Speg.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

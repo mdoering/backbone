@@ -1,5 +1,4 @@
-Flavoparmelia secalonica Elix & J. Johnst. SPECIES
-=======
+# Flavoparmelia secalonica Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

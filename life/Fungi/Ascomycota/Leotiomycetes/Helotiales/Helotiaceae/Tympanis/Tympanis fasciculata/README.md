@@ -1,5 +1,4 @@
-Tympanis fasciculata Schwein., 1832 SPECIES
-=======
+# Tympanis fasciculata Schwein., 1832 SPECIES
 
 #### Status
 ACCEPTED

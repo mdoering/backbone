@@ -1,5 +1,4 @@
-Celidium stictarum var. stictarum VARIETY
-=======
+# Celidium stictarum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Celidium stictarum var. stictarum
+null
 
 ### Remarks
 null

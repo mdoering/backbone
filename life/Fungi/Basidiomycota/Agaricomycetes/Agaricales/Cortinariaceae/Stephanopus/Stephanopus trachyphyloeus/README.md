@@ -1,5 +1,4 @@
-Stephanopus trachyphyloeus (M.M. Moser & E. Horak) E. Horak, 1980 SPECIES
-=======
+# Stephanopus trachyphyloeus (M.M. Moser & E. Horak) E. Horak, 1980 SPECIES
 
 #### Status
 ACCEPTED

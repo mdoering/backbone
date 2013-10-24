@@ -1,5 +1,4 @@
-Tulostoma submembranaceum G. Moreno, C. Ochoa & J.E. Wright SPECIES
-=======
+# Tulostoma submembranaceum G. Moreno, C. Ochoa & J.E. Wright SPECIES
 
 #### Status
 ACCEPTED

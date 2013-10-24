@@ -1,5 +1,4 @@
-Pleospora sheperdiae House SPECIES
-=======
+# Pleospora sheperdiae House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polarisella Mamet & Pinard, 1992 GENUS
-=======
+# Polarisella Mamet & Pinard, 1992 GENUS
 
 #### Status
 ACCEPTED

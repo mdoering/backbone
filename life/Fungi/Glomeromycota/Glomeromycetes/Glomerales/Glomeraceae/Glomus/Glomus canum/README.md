@@ -1,5 +1,4 @@
-Glomus canum McGee, 2002 SPECIES
-=======
+# Glomus canum McGee, 2002 SPECIES
 
 #### Status
 ACCEPTED

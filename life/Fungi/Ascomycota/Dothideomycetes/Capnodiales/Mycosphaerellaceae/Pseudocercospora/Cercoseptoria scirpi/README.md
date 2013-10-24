@@ -1,5 +1,4 @@
-Cercoseptoria scirpi H.C. Greene SPECIES
-=======
+# Cercoseptoria scirpi H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

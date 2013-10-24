@@ -1,5 +1,4 @@
-Secoliga bacidiospora Eitner SPECIES
-=======
+# Secoliga bacidiospora Eitner SPECIES
 
 #### Status
 ACCEPTED

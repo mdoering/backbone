@@ -1,5 +1,4 @@
-Peridermium minutum Hedgc. SPECIES
-=======
+# Peridermium minutum Hedgc. SPECIES
 
 #### Status
 ACCEPTED

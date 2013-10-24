@@ -1,5 +1,4 @@
-Aecidium convolvuli Sacc. SPECIES
-=======
+# Aecidium convolvuli Sacc. SPECIES
 
 #### Status
 ACCEPTED

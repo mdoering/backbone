@@ -1,5 +1,4 @@
-Lasiosphaeria caryophylli T.S. Ramakr. & Sundaram SPECIES
-=======
+# Lasiosphaeria caryophylli T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

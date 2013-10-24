@@ -1,14 +1,13 @@
-Verrucaria singularis Kremp. SPECIES
-=======
+# Polyblastia singularis (Kremp.) Arnold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Denkschriften Kgl. Bayer. Bot. Ges. , Abteilung 2 4: 291 (1861)
+Verh. zool. -bot. Ges. Wein 18: 949 (1868)
 
 #### Original name
 Verrucaria singularis Kremp.

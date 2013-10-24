@@ -1,5 +1,4 @@
-Uredopeltis flavae Mennicken, W. Maier & Oberw., 2005 SPECIES
-=======
+# Uredopeltis flavae Mennicken, W. Maier & Oberw., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella minutisperma A.H. Sm. SPECIES
-=======
+# Psathyrella minutisperma A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

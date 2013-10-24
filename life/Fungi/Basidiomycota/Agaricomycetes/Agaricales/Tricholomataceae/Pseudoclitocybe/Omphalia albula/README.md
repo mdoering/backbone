@@ -1,5 +1,4 @@
-Omphalia albula (Quél.) Sacc. SPECIES
-=======
+# Omphalia albula (Quél.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

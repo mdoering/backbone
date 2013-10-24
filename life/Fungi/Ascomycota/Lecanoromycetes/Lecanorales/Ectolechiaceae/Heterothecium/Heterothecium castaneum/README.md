@@ -1,5 +1,4 @@
-Heterothecium castaneum Meyen & Flot. SPECIES
-=======
+# Heterothecium castaneum Meyen & Flot. SPECIES
 
 #### Status
 ACCEPTED

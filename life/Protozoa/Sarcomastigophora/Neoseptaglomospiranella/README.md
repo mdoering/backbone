@@ -1,5 +1,4 @@
-Neoseptaglomospiranella Lipina, 1963 GENUS
-=======
+# Neoseptaglomospiranella Lipina, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia caudata Barclay SPECIES
-=======
+# Puccinia caudata Barclay SPECIES
 
 #### Status
 ACCEPTED

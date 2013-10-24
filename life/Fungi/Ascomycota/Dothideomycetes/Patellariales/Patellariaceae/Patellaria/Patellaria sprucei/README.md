@@ -1,5 +1,4 @@
-Patellaria sprucei Müll. Arg. SPECIES
-=======
+# Patellaria sprucei Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

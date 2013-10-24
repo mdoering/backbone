@@ -1,5 +1,4 @@
-Alisum magnum Górka, 1965 SPECIES
-=======
+# Alisum magnum Górka, 1965 SPECIES
 
 #### Status
 ACCEPTED

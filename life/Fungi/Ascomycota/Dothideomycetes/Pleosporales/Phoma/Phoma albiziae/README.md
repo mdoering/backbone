@@ -1,5 +1,4 @@
-Phoma albiziae C. Moreau SPECIES
-=======
+# Phoma albiziae C. Moreau SPECIES
 
 #### Status
 ACCEPTED

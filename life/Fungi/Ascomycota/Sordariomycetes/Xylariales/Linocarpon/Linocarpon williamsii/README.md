@@ -1,5 +1,4 @@
-Linocarpon williamsii Hansf. SPECIES
-=======
+# Linocarpon williamsii Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza cerasi ß cerasi Pers. SPECIES
-=======
+# Peziza cerasi ß cerasi Pers. SPECIES
 
 #### Status
 ACCEPTED

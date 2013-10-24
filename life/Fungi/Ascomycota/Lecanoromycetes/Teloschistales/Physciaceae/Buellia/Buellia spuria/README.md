@@ -1,17 +1,16 @@
-Buellia italica var. italica VARIETY
-=======
+# Buellia spuria (Schaer.) Anzi SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Catal. Lich. Sondr. 87 (1860)
 
 #### Original name
-Buellia italica var. italica
+Lecidea spuria Schaer.
 
 ### Remarks
 null

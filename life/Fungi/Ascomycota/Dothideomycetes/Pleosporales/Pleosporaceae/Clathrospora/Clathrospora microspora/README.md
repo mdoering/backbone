@@ -1,5 +1,4 @@
-Clathrospora microspora Wehm. SPECIES
-=======
+# Clathrospora microspora Wehm. SPECIES
 
 #### Status
 ACCEPTED

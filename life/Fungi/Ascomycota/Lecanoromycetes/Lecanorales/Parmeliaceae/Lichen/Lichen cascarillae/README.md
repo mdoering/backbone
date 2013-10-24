@@ -1,5 +1,4 @@
-Lichen cascarillae Schrank SPECIES
-=======
+# Lichen cascarillae Schrank SPECIES
 
 #### Status
 ACCEPTED

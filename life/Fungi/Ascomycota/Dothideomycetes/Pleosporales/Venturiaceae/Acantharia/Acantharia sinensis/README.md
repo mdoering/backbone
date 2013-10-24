@@ -1,17 +1,16 @@
-Stigmina quercina (Wakef.) M.B. Ellis, 1959 SPECIES
-=======
+# Acantharia sinensis (Petr.) Arx, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 72: 61 (1959)
+Acta bot. neerl. 3: 87 (1954)
 
 #### Original name
-Pucciniopsis quercina Wakef., 1931
+Neogibbera sinensis Petr., 1947
 
 ### Remarks
 null

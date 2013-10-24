@@ -1,5 +1,4 @@
-Pseudopezizites derasmoi Fiore SPECIES
-=======
+# Pseudopezizites derasmoi Fiore SPECIES
 
 #### Status
 ACCEPTED

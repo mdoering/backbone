@@ -1,5 +1,4 @@
-Trichella longa Maessen SPECIES
-=======
+# Trichella longa Maessen SPECIES
 
 #### Status
 ACCEPTED

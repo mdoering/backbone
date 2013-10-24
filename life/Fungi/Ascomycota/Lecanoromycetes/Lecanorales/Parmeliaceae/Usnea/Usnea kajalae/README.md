@@ -1,5 +1,4 @@
-Usnea kajalae SPECIES
-=======
+# Usnea kajalae SPECIES
 
 #### Status
 ACCEPTED

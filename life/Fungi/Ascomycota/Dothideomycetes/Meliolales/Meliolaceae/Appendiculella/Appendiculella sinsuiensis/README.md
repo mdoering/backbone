@@ -1,5 +1,4 @@
-Appendiculella sinsuiensis (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella sinsuiensis (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

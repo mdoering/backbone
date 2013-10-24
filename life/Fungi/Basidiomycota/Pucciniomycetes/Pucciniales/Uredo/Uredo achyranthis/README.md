@@ -1,5 +1,4 @@
-Uredo achyranthis Henn. SPECIES
-=======
+# Uredo achyranthis Henn. SPECIES
 
 #### Status
 ACCEPTED

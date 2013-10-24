@@ -1,5 +1,4 @@
-Cryptococcus bestiolae Thanh, Hai & Lachance SPECIES
-=======
+# Cryptococcus bestiolae Thanh, Hai & Lachance SPECIES
 
 #### Status
 ACCEPTED

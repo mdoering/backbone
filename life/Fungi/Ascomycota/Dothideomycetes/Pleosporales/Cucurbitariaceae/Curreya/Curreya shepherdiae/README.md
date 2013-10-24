@@ -1,5 +1,4 @@
-Curreya shepherdiae Ellis & Everh. SPECIES
-=======
+# Curreya shepherdiae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

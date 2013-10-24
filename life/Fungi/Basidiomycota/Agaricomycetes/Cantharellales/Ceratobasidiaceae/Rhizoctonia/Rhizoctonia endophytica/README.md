@@ -1,5 +1,4 @@
-Rhizoctonia endophytica var. endophytica VARIETY
-=======
+# Rhizoctonia endophytica H.K. Saksena & Vaartaja SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 38: 936 (1960)
 
 #### Original name
-Rhizoctonia endophytica var. endophytica
+Rhizoctonia endophytica H.K. Saksena & Vaartaja
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus fuscifrons Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus fuscifrons Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

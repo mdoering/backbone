@@ -1,5 +1,4 @@
-Lasiosphaeria cylindrospora Lar.N. Vassiljeva SPECIES
-=======
+# Lasiosphaeria cylindrospora Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

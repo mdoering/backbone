@@ -1,5 +1,4 @@
-Sphaeronaema colorata P.N. Mathur & Thirum. SPECIES
-=======
+# Sphaeronaema colorata P.N. Mathur & Thirum. SPECIES
 
 #### Status
 ACCEPTED

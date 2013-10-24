@@ -1,5 +1,4 @@
-Ditoxidae FAMILY
-=======
+# Ditoxidae FAMILY
 
 #### Status
 ACCEPTED

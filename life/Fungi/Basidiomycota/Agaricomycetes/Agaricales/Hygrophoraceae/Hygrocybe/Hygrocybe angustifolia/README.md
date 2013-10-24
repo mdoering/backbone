@@ -1,14 +1,13 @@
-Hygrophorus angustifolius (Murrill) Sacc., 1925 SPECIES
-=======
+# Hygrocybe angustifolia (Murrill) Candusso, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 23: 123 (1925)
+Fungi europ. (Alassio) 6: 357 (1997)
 
 #### Original name
 Camarophyllus angustifolius Murrill, 1916

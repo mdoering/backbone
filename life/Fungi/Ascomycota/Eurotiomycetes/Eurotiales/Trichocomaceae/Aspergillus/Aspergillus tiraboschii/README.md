@@ -1,5 +1,4 @@
-Aspergillus tiraboschii Carbone SPECIES
-=======
+# Aspergillus tiraboschii Carbone SPECIES
 
 #### Status
 ACCEPTED

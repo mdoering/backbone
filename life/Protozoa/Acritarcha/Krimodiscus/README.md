@@ -1,5 +1,4 @@
-Krimodiscus Aristiva, 1971 GENUS
-=======
+# Krimodiscus Aristiva, 1971 GENUS
 
 #### Status
 ACCEPTED

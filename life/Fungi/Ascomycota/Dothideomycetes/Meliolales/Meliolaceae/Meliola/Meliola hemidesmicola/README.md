@@ -1,17 +1,16 @@
-Meliola hemidesmicola var. hemidesmicola VARIETY
-=======
+# Meliola hemidesmicola Hosag. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Meliolales of India (Calcutta) 212 (1996)
 
 #### Original name
-null
+Meliola hemidesmicola Hosag.
 
 ### Remarks
 null

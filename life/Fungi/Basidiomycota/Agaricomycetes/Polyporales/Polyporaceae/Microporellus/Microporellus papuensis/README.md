@@ -1,5 +1,4 @@
-Microporellus papuensis Decock SPECIES
-=======
+# Microporellus papuensis Decock SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola cyclobalanopsina var. cyclobalanopsina VARIETY
-=======
+# Meliola cyclobalanopsina W. Yamam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Nat. Hist. Soc. Formosa 31: 226 (1941)
 
 #### Original name
-Meliola cyclobalanopsina var. cyclobalanopsina
+Meliola cyclobalanopsina W. Yamam.
 
 ### Remarks
 null

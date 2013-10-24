@@ -1,5 +1,4 @@
-Lactarius austrotorminosus H.T. Le & Verbeken SPECIES
-=======
+# Lactarius austrotorminosus H.T. Le & Verbeken SPECIES
 
 #### Status
 ACCEPTED

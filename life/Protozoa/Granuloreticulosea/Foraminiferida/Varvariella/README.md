@@ -1,5 +1,4 @@
-Varvariella Orlova, 1996 GENUS
-=======
+# Varvariella Orlova, 1996 GENUS
 
 #### Status
 ACCEPTED

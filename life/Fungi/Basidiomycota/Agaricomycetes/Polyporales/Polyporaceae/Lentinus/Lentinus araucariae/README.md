@@ -1,17 +1,16 @@
-Panus verruciceps Hongo, 1976 SPECIES
-=======
+# Lentinus araucariae Har. & Pat., 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rep. Tottori Mycol. Inst. 14: 95 (1976)
+J. Bot. Morot 17: 11 (1903)
 
 #### Original name
-Panus verruciceps Hongo, 1976
+Lentinus araucariae Har. & Pat., 1903
 
 ### Remarks
 null

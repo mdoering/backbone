@@ -1,5 +1,4 @@
-Leathesia globosa Takamatsu, 1939 SPECIES
-=======
+# Leathesia globosa Takamatsu, 1939 SPECIES
 
 #### Status
 ACCEPTED

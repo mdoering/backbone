@@ -1,5 +1,4 @@
-Winteria intermedia Sacc. & Fautrey SPECIES
-=======
+# Winteria intermedia Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

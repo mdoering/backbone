@@ -1,5 +1,4 @@
-Meliola ghesquierei Hansf. SPECIES
-=======
+# Meliola ghesquierei Hansf. SPECIES
 
 #### Status
 ACCEPTED

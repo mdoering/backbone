@@ -1,5 +1,4 @@
-Ustilago paraguayensis Speg. SPECIES
-=======
+# Ustilago paraguayensis Speg. SPECIES
 
 #### Status
 ACCEPTED

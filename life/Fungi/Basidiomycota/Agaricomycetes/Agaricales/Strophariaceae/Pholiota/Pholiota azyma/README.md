@@ -1,5 +1,4 @@
-Pholiota azyma (Fr.) M.M. Moser SPECIES
-=======
+# Pholiota azyma (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

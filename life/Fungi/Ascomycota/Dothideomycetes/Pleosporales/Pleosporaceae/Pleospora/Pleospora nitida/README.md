@@ -1,5 +1,4 @@
-Pleospora nitida (Ellis & Everh.) Wehm. SPECIES
-=======
+# Pleospora nitida (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

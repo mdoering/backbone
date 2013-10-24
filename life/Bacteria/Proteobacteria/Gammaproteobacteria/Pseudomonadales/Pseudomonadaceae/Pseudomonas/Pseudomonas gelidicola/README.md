@@ -1,5 +1,4 @@
-Pseudomonas gelidicola Kadota, 1951 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas gelidicola Kadota, 1951 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

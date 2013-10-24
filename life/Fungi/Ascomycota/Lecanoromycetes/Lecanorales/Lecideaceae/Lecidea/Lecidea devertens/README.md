@@ -1,5 +1,4 @@
-Lecidea devertens Nyl. SPECIES
-=======
+# Lecidea devertens Nyl. SPECIES
 
 #### Status
 ACCEPTED

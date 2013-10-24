@@ -1,5 +1,4 @@
-Tubaria substagnina Rick SPECIES
-=======
+# Tubaria substagnina Rick SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus badiceps Peck SPECIES
-=======
+# Boletus badiceps Peck SPECIES
 
 #### Status
 ACCEPTED

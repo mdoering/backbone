@@ -1,5 +1,4 @@
-Physarum piceum Fr. SPECIES
-=======
+# Physarum piceum Fr. SPECIES
 
 #### Status
 ACCEPTED

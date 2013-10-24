@@ -1,5 +1,4 @@
-Collybia subhyalina A. Blytt SPECIES
-=======
+# Collybia subhyalina A. Blytt SPECIES
 
 #### Status
 ACCEPTED

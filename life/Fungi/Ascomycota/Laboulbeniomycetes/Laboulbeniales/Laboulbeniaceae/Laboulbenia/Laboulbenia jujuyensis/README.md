@@ -1,5 +1,4 @@
-Laboulbenia jujuyensis Speg. SPECIES
-=======
+# Laboulbenia jujuyensis Speg. SPECIES
 
 #### Status
 ACCEPTED

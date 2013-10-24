@@ -1,17 +1,16 @@
-Ascobolus gamundii Dokm. & Ranalli SPECIES
-=======
+# Ascobolus gamundiae Dokm. & Ranalli SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Physis, Buenos Aires, C 50((no. 118-119)): 3 (1995)
 
 #### Original name
-Ascobolus gamundii Dokm. & Ranalli
+Ascobolus gamundiae Dokm. & Ranalli
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pyrenophora brizae Massee SPECIES
-=======
+# Pyrenophora brizae Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pluteus perroseus E. Horak, 1983 SPECIES
-=======
+# Pluteus perroseus E. Horak, 1983 SPECIES
 
 #### Status
 ACCEPTED

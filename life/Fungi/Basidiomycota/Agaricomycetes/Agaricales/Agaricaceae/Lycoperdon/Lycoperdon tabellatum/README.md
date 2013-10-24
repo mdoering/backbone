@@ -1,5 +1,4 @@
-Lycoperdon tabellatum Kalchbr. SPECIES
-=======
+# Lycoperdon tabellatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

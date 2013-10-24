@@ -1,5 +1,4 @@
-Thyrospora astragali Yoshii SPECIES
-=======
+# Thyrospora astragali Yoshii SPECIES
 
 #### Status
 ACCEPTED

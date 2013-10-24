@@ -1,5 +1,4 @@
-Puccinia aequinoctialis Holw. SPECIES
-=======
+# Puccinia aequinoctialis Holw. SPECIES
 
 #### Status
 ACCEPTED

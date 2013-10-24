@@ -1,5 +1,4 @@
-Phellinus mori Y.C. Dai & B.K. Cui SPECIES
-=======
+# Phellinus mori Y.C. Dai & B.K. Cui SPECIES
 
 #### Status
 ACCEPTED

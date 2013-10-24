@@ -1,5 +1,4 @@
-Laschia staudtii (Henn.) Sacc. SPECIES
-=======
+# Laschia staudtii (Henn.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

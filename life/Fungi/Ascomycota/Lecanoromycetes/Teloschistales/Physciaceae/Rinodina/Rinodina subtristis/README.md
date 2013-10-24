@@ -1,17 +1,16 @@
-Buellia subtristis (Nyl.) Zahlbr. SPECIES
-=======
+# Rinodina subtristis (Nyl.) H. Mayrhofer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Hattori bot. Lab. 55: 464 (1984)
 
 #### Original name
-null
+Lecidea subtristis Nyl.
 
 ### Remarks
 null

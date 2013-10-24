@@ -1,8 +1,7 @@
-Nodosaria filiformis d'Orbigny, 1826 SPECIES
-=======
+# Laevidentalina filiformis (d'Orbigny, 1826) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

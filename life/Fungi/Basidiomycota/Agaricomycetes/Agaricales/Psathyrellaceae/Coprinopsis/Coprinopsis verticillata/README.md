@@ -1,5 +1,4 @@
-Coprinopsis verticillata (Schulz-Wedd.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis verticillata (Schulz-Wedd.) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

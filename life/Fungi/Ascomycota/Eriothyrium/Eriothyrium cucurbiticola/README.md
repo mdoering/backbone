@@ -1,5 +1,4 @@
-Eriothyrium cucurbiticola Speg. SPECIES
-=======
+# Eriothyrium cucurbiticola Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galerina pellucida (Murrill) A.H. Sm. & Singer SPECIES
-=======
+# Galerina pellucida (Murrill) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena verna Maas Geest. SPECIES
-=======
+# Mycena verna Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella andina Speg. SPECIES
-=======
+# Sphaerella andina Speg. SPECIES
 
 #### Status
 ACCEPTED

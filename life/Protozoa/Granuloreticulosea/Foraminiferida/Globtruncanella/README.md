@@ -1,5 +1,4 @@
-Globtruncanella GENUS
-=======
+# Globtruncanella GENUS
 
 #### Status
 ACCEPTED

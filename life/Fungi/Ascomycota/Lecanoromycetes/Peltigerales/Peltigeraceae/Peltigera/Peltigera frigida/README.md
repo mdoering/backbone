@@ -1,5 +1,4 @@
-Peltigera frigida R. Sant. SPECIES
-=======
+# Peltigera frigida R. Sant. SPECIES
 
 #### Status
 ACCEPTED

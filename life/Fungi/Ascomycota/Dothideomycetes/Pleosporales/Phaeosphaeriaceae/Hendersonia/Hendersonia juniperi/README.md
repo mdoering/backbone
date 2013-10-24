@@ -1,5 +1,4 @@
-Hendersonia juniperi Richon SPECIES
-=======
+# Hendersonia juniperi Richon SPECIES
 
 #### Status
 ACCEPTED

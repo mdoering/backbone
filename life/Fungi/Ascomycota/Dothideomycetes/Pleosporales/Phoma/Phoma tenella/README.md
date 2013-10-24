@@ -1,5 +1,4 @@
-Phoma tenella Sacc. SPECIES
-=======
+# Phoma tenella Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haliangium tepidum Fudou et al., 2002 SPECIES
-=======
+# Haliangium tepidum Fudou et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

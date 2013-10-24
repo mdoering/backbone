@@ -1,5 +1,4 @@
-Opegrapha platycarpa (Nyl.) Nyl. SPECIES
-=======
+# Opegrapha platycarpa (Nyl.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

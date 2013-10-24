@@ -1,5 +1,4 @@
-Uromyces sisyrinchii Mont. SPECIES
-=======
+# Uromyces sisyrinchii Mont. SPECIES
 
 #### Status
 ACCEPTED

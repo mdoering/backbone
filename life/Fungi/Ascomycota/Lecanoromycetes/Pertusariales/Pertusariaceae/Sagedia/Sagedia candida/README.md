@@ -1,5 +1,4 @@
-Sagedia candida Anzi SPECIES
-=======
+# Sagedia candida Anzi SPECIES
 
 #### Status
 ACCEPTED

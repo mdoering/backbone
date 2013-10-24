@@ -1,5 +1,4 @@
-Protomyces wodziczkoi Sculcz. SPECIES
-=======
+# Protomyces wodziczkoi Sculcz. SPECIES
 
 #### Status
 ACCEPTED

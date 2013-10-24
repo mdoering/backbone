@@ -1,5 +1,4 @@
-Aspicilia americana B. de Lesd. SPECIES
-=======
+# Aspicilia americana B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

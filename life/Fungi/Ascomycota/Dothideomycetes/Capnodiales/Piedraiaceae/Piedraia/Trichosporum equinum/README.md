@@ -1,5 +1,4 @@
-Trichosporum equinum Fambach ex Fonseca SPECIES
-=======
+# Trichosporum equinum Fambach ex Fonseca SPECIES
 
 #### Status
 ACCEPTED

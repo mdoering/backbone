@@ -1,5 +1,4 @@
-Pholiota fieldiana Y.S. Chang & A.K. Mills SPECIES
-=======
+# Pholiota fieldiana Y.S. Chang & A.K. Mills SPECIES
 
 #### Status
 ACCEPTED

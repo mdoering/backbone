@@ -1,5 +1,4 @@
-Rhabdamminidae Brady, 1884 FAMILY
-=======
+# Rhabdamminidae Brady, 1884 FAMILY
 
 #### Status
 ACCEPTED

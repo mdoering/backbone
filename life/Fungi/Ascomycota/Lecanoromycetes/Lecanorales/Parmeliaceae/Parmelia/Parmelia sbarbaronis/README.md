@@ -1,5 +1,4 @@
-Parmelia sbarbaronis B. de Lesd. SPECIES
-=======
+# Parmelia sbarbaronis B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

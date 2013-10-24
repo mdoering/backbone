@@ -1,5 +1,4 @@
-Gastrocirrhus stentoreus Bullington, 1940 SPECIES
-=======
+# Gastrocirrhus stentoreus Bullington, 1940 SPECIES
 
 #### Status
 ACCEPTED

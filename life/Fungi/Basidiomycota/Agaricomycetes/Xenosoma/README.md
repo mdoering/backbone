@@ -1,17 +1,16 @@
-Paulia Lloyd, 1916 GENUS
-=======
+# Xenosoma Sydow & P. Sydow, 1921 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Mycol. Writ. 5: 595 (1916)
+Annls mycol. 18(4/6): 180 (1921)
 
 #### Original name
-Paulia Lloyd, 1916
+Xenosoma Sydow & P. Sydow, 1921
 
 ### Remarks
 null

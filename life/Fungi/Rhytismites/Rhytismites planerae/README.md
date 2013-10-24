@@ -1,5 +1,4 @@
-Rhytismites planerae (Ettingsh.) Mesch. SPECIES
-=======
+# Rhytismites planerae (Ettingsh.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cryptosphaeria rubrocincta (Schwein.) Sacc. SPECIES
-=======
+# Cryptosphaeria rubrocincta (Schwein.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

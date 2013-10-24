@@ -1,5 +1,4 @@
-Agaricus muticolor Berk. & Broome SPECIES
-=======
+# Agaricus muticolor Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

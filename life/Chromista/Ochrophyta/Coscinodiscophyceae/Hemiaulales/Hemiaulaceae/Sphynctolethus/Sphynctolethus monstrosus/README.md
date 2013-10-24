@@ -1,5 +1,4 @@
-Sphynctolethus monstrosus Hanna SPECIES
-=======
+# Sphynctolethus monstrosus Hanna SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictis foveolaris Rehm SPECIES
-=======
+# Stictis foveolaris Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria rejecta Th. Fr. SPECIES
-=======
+# Verrucaria rejecta Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

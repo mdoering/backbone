@@ -1,5 +1,4 @@
-Leucoagaricus jubilaei (Joss.) Bon SPECIES
-=======
+# Leucoagaricus jubilaei (Joss.) Bon SPECIES
 
 #### Status
 ACCEPTED

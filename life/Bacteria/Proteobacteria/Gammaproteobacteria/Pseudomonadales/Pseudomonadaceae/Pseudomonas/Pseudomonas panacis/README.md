@@ -1,5 +1,4 @@
-Pseudomonas panacis Park et al., 2005 SPECIES
-=======
+# Pseudomonas panacis Park et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

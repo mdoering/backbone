@@ -1,5 +1,4 @@
-Lecanora effigurascens Nyl. SPECIES
-=======
+# Lecanora effigurascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galatheammina irregularis Gooday, 1991 SPECIES
-=======
+# Galatheammina irregularis Gooday, 1991 SPECIES
 
 #### Status
 ACCEPTED

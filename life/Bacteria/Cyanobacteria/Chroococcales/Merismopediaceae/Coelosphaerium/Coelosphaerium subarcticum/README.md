@@ -1,5 +1,4 @@
-Coelosphaerium subarcticum J. Komárek & J. Komárková-Legnerová SPECIES
-=======
+# Coelosphaerium subarcticum J. Komárek & J. Komárková-Legnerová SPECIES
 
 #### Status
 ACCEPTED

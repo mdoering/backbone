@@ -1,5 +1,4 @@
-Leucopaxillus pseudoacerbus (Costantin & L.M. Dufour) Boursier SPECIES
-=======
+# Leucopaxillus pseudoacerbus (Costantin & L.M. Dufour) Boursier SPECIES
 
 #### Status
 ACCEPTED

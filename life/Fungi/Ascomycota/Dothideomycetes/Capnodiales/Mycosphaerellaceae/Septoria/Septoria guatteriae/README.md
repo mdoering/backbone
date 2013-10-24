@@ -1,5 +1,4 @@
-Septoria guatteriae Syd. SPECIES
-=======
+# Septoria guatteriae Syd. SPECIES
 
 #### Status
 ACCEPTED

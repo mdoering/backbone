@@ -1,5 +1,4 @@
-Globoconella Bandy, 1975 GENUS
-=======
+# Globoconella Bandy, 1975 GENUS
 
 #### Status
 ACCEPTED

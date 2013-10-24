@@ -1,5 +1,4 @@
-Parmelia kauaiensis Zahlbr. SPECIES
-=======
+# Parmelia kauaiensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora allophyli Hansf. SPECIES
-=======
+# Cercospora allophyli Hansf. SPECIES
 
 #### Status
 ACCEPTED

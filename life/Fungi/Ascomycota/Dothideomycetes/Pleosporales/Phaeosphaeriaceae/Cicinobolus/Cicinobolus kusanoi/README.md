@@ -1,8 +1,7 @@
-Cicinnobolus kusanoi Henn. SPECIES
-=======
+# Cicinobolus kusanoi Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cicinnobolus kusanoi Henn.
+Cicinobolus kusanoi Henn.
 
 ### Remarks
 null

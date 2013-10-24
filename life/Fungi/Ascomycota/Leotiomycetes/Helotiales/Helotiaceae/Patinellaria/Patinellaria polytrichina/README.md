@@ -1,5 +1,4 @@
-Patinellaria polytrichina P. Karst. & Starbäck SPECIES
-=======
+# Patinellaria polytrichina P. Karst. & Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corticium deflectens var. cremeo-ochraceum Bourdot & Galzin VARIETY
-=======
+# Corticium deflectens Bres. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 1(1/2): 94 (1903)
 
 #### Original name
-Corticium deflectens var. cremeo-ochraceum Bourdot & Galzin
+Corticium deflectens Bres.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecidea soredizodes f. soredizodes FORM
-=======
+# Porpidia soredizodes (Lamy ex Nyl.) J.R. Laundon SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 101(1): 104 (1989)
 
 #### Original name
-Lecidea soredizodes f. soredizodes
+Lecidea crustulata subsp. soredizodes (Lamy ex Nyl.)
 
 ### Remarks
 null

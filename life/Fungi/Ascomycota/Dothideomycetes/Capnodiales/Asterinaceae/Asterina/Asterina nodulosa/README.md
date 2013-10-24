@@ -1,5 +1,4 @@
-Asterina nodulosa Speg., 1889 SPECIES
-=======
+# Asterina nodulosa Speg., 1889 SPECIES
 
 #### Status
 ACCEPTED

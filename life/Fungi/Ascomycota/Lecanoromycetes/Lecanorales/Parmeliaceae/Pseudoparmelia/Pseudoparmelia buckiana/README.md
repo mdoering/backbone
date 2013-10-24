@@ -1,5 +1,4 @@
-Pseudoparmelia buckiana Elix & T. H. Nash SPECIES
-=======
+# Pseudoparmelia buckiana Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

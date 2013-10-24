@@ -1,5 +1,4 @@
-Cercospora toreniae Henn. SPECIES
-=======
+# Cercospora toreniae Henn. SPECIES
 
 #### Status
 ACCEPTED

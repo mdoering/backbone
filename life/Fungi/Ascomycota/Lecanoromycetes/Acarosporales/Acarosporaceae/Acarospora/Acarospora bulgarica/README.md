@@ -1,5 +1,4 @@
-Acarospora bulgarica H. Magn. & Szatala SPECIES
-=======
+# Acarospora bulgarica H. Magn. & Szatala SPECIES
 
 #### Status
 ACCEPTED

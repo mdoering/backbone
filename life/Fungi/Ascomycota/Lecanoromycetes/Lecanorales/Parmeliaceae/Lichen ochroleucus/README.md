@@ -1,5 +1,4 @@
-Lichen ochroleucus Lam. SPECIES
-=======
+# Lichen ochroleucus Lam. SPECIES
 
 #### Status
 ACCEPTED

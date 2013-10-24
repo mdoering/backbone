@@ -1,5 +1,4 @@
-Arecomyces foliicola Hidayat & K.D. Hyde SPECIES
-=======
+# Arecomyces foliicola Hidayat & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

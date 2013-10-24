@@ -1,5 +1,4 @@
-Anthostomella palmacea (Cooke) Sacc. SPECIES
-=======
+# Anthostomella palmacea (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

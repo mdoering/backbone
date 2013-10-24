@@ -1,5 +1,4 @@
-Pseudocercosporella spiraeigena U. Braun & C.F. Hill, 2004 SPECIES
-=======
+# Pseudocercosporella spiraeigena U. Braun & C.F. Hill, 2004 SPECIES
 
 #### Status
 ACCEPTED

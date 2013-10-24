@@ -1,5 +1,4 @@
-Uredo tillaeae McAlpine SPECIES
-=======
+# Uredo tillaeae McAlpine SPECIES
 
 #### Status
 ACCEPTED

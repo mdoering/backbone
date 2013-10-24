@@ -1,5 +1,4 @@
-Verrucaria leioplacella Müll. Arg. SPECIES
-=======
+# Verrucaria leioplacella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

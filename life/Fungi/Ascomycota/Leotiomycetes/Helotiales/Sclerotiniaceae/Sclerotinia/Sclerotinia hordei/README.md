@@ -1,5 +1,4 @@
-Sclerotinia hordei Schellenb. SPECIES
-=======
+# Sclerotinia hordei Schellenb. SPECIES
 
 #### Status
 ACCEPTED

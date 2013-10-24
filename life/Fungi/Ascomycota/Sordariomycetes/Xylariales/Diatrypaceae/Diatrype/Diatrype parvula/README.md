@@ -1,5 +1,4 @@
-Diatrype parvula Berl. & Peglion SPECIES
-=======
+# Diatrype parvula Berl. & Peglion SPECIES
 
 #### Status
 ACCEPTED

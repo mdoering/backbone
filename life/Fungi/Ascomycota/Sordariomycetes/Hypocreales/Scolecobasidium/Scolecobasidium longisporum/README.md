@@ -1,5 +1,4 @@
-Scolecobasidium longisporum H.Q. Pan & T.Y. Zhang SPECIES
-=======
+# Scolecobasidium longisporum H.Q. Pan & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

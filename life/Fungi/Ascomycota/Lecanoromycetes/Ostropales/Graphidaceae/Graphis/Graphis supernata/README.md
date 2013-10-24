@@ -1,5 +1,4 @@
-Graphis supernata Vain. SPECIES
-=======
+# Graphis supernata Vain. SPECIES
 
 #### Status
 ACCEPTED

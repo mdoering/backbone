@@ -1,5 +1,4 @@
-Trichoconis antillana R.F. Castañeda, W.B. Kendr. & Guarro SPECIES
-=======
+# Trichoconis antillana R.F. Castañeda, W.B. Kendr. & Guarro SPECIES
 
 #### Status
 ACCEPTED

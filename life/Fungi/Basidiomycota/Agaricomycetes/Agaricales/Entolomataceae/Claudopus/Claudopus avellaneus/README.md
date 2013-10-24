@@ -1,5 +1,4 @@
-Claudopus avellaneus Murrill SPECIES
-=======
+# Claudopus avellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

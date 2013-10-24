@@ -1,5 +1,4 @@
-Bolbitius broadwayi (Murrill) Dennis SPECIES
-=======
+# Bolbitius broadwayi (Murrill) Dennis SPECIES
 
 #### Status
 ACCEPTED

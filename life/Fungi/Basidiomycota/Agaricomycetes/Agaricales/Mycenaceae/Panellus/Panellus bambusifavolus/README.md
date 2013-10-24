@@ -1,5 +1,4 @@
-Panellus bambusifavolus Corner, 1986 SPECIES
-=======
+# Panellus bambusifavolus Corner, 1986 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosoma astaci SPECIES
-=======
+# Dendrosoma astaci SPECIES
 
 #### Status
 ACCEPTED

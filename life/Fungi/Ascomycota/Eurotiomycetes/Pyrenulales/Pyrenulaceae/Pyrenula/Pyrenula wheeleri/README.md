@@ -1,5 +1,4 @@
-Pyrenula wheeleri R.C. Harris SPECIES
-=======
+# Pyrenula wheeleri R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

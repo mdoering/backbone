@@ -1,5 +1,4 @@
-Asterina pandae Hansf. SPECIES
-=======
+# Asterina pandae Hansf. SPECIES
 
 #### Status
 ACCEPTED

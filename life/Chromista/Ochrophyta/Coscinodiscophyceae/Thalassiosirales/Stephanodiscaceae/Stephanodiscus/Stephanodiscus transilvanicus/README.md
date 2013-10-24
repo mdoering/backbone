@@ -1,5 +1,4 @@
-Stephanodiscus transilvanicus Pant. SPECIES
-=======
+# Stephanodiscus transilvanicus Pant. SPECIES
 
 #### Status
 ACCEPTED

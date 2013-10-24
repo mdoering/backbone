@@ -1,17 +1,16 @@
-Melanops tamaricis (Cooke) Weese, 1919 SPECIES
-=======
+# Leptosphaeria tamaricis (Grev.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 2: 26 (1883)
 
 #### Original name
-null
+Sphaeria tamaricis Grev., 1823
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Puccinia withaniae Lázaro Ibiza SPECIES
-=======
+# Puccinia withaniae Lázaro Ibiza SPECIES
 
 #### Status
 ACCEPTED

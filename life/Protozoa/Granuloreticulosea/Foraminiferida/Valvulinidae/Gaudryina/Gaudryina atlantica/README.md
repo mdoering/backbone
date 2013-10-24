@@ -1,5 +1,4 @@
-Gaudryina atlantica SPECIES
-=======
+# Gaudryina atlantica SPECIES
 
 #### Status
 ACCEPTED

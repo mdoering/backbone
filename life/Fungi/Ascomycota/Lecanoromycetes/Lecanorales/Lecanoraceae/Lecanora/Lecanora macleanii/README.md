@@ -1,17 +1,16 @@
-Lecanora mcleani C.W. Dodge SPECIES
-=======
+# Lecanora macleanii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+B. A. N. Z. Antarct. Exped. Res. Rep. 7: 173 (1948)
 
 #### Original name
-Lecanora mcleani C.W. Dodge
+Lecanora macleanii C.W. Dodge
 
 ### Remarks
 null

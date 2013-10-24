@@ -1,5 +1,4 @@
-Lecanora lemokensis SPECIES
-=======
+# Lecanora lemokensis SPECIES
 
 #### Status
 ACCEPTED

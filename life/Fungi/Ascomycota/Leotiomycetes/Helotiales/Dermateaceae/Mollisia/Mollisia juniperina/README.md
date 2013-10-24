@@ -1,5 +1,4 @@
-Mollisia juniperina K. Holm & L. Holm SPECIES
-=======
+# Mollisia juniperina K. Holm & L. Holm SPECIES
 
 #### Status
 ACCEPTED

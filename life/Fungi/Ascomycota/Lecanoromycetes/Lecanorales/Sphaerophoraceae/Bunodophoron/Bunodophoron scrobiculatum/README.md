@@ -1,14 +1,13 @@
-Sphaerophorus australis var. scrobiculatus C. Bab. VARIETY
-=======
+# Bunodophoron scrobiculatum (C. Bab.) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Hooker, Botany Antarctic Voyage 2(2): 304 (1855)
+Pl. Syst. Evol. 187(1-4): 234 (1993)
 
 #### Original name
 Sphaerophorus australis var. scrobiculatus C. Bab.

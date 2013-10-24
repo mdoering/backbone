@@ -1,5 +1,4 @@
-Heliodiscidae Haeckel, 1881 FAMILY
-=======
+# Heliodiscidae Haeckel, 1881 FAMILY
 
 #### Status
 ACCEPTED

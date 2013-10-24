@@ -1,14 +1,13 @@
-Phyllosticta ribicola (Fr.) Sacc., 1884 SPECIES
-=======
+# Sphaeria ribicola Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 530 (1823)
 
 #### Original name
 Sphaeria ribicola Fr., 1823

@@ -1,5 +1,4 @@
-Pocillaria denticulata (Schwein.) Kuntze SPECIES
-=======
+# Pocillaria denticulata (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

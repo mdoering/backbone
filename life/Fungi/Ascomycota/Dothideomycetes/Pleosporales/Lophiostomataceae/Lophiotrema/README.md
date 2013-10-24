@@ -1,5 +1,4 @@
-Lophiotrema Sacc. GENUS
-=======
+# Lophiotrema Sacc. GENUS
 
 #### Status
 ACCEPTED

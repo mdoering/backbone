@@ -1,5 +1,4 @@
-Antromycopsis fuscosquamulosa D.A. Reid & Eicker, 1998 SPECIES
-=======
+# Antromycopsis fuscosquamulosa D.A. Reid & Eicker, 1998 SPECIES
 
 #### Status
 ACCEPTED

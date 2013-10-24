@@ -1,5 +1,4 @@
-Agaricostilbaceae Oberw. & R. Bauer FAMILY
-=======
+# Agaricostilbaceae Oberw. & R. Bauer FAMILY
 
 #### Status
 ACCEPTED

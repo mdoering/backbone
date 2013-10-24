@@ -1,5 +1,4 @@
-Agaricus fumigatus Pers. SPECIES
-=======
+# Agaricus fumigatus Pers. SPECIES
 
 #### Status
 ACCEPTED

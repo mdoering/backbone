@@ -1,5 +1,4 @@
-Inocybe fuscata Singer SPECIES
-=======
+# Inocybe fuscata Singer SPECIES
 
 #### Status
 ACCEPTED

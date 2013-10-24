@@ -1,5 +1,4 @@
-Lamprospora De Notaris, 1863 GENUS
-=======
+# Lamprospora De Notaris, 1863 GENUS
 
 #### Status
 ACCEPTED

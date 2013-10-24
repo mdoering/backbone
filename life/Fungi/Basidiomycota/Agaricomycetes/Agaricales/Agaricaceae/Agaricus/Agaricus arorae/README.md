@@ -1,5 +1,4 @@
-Agaricus arorae Kerrigan SPECIES
-=======
+# Agaricus arorae Kerrigan SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenozonoligotriletes dedaleus Timofeev, 1959 SPECIES
-=======
+# Stenozonoligotriletes dedaleus Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

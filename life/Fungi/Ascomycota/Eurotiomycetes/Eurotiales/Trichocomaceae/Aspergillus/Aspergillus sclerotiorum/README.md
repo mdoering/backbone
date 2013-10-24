@@ -1,5 +1,4 @@
-Aspergillus sclerotiorum G.A. Huber, 1933 SPECIES
-=======
+# Aspergillus sclerotiorum G.A. Huber, 1933 SPECIES
 
 #### Status
 ACCEPTED

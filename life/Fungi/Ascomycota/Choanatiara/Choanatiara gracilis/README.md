@@ -1,5 +1,4 @@
-Choanatiara gracilis Nag Raj, 1984 SPECIES
-=======
+# Choanatiara gracilis Nag Raj, 1984 SPECIES
 
 #### Status
 ACCEPTED

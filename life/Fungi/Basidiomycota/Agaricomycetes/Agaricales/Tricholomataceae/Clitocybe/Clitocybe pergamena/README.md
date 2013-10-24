@@ -1,5 +1,4 @@
-Clitocybe pergamena (Cooke) Sacc. SPECIES
-=======
+# Clitocybe pergamena (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

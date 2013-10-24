@@ -1,5 +1,4 @@
-Cercospora saururicola Sawada SPECIES
-=======
+# Cercospora saururicola Sawada SPECIES
 
 #### Status
 ACCEPTED

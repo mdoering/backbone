@@ -1,5 +1,4 @@
-Lecanora erubescens Werner SPECIES
-=======
+# Lecanora erubescens Werner SPECIES
 
 #### Status
 ACCEPTED

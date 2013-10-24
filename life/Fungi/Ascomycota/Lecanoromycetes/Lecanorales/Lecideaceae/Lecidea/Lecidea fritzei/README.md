@@ -1,5 +1,4 @@
-Lecidea fritzei (Stein) Navás SPECIES
-=======
+# Lecidea fritzei (Stein) Navás SPECIES
 
 #### Status
 ACCEPTED

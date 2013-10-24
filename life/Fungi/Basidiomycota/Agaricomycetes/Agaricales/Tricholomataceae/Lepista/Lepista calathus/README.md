@@ -1,5 +1,4 @@
-Lepista calathus (Fr.) Bon SPECIES
-=======
+# Lepista calathus (Fr.) Bon SPECIES
 
 #### Status
 ACCEPTED

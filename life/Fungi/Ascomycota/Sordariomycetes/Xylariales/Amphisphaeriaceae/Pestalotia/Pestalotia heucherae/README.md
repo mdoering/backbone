@@ -1,5 +1,4 @@
-Pestalotia heucherae Tehon & E.Y. Daniels SPECIES
-=======
+# Pestalotia heucherae Tehon & E.Y. Daniels SPECIES
 
 #### Status
 ACCEPTED

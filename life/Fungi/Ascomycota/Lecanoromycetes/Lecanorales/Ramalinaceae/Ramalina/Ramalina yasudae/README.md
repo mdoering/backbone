@@ -1,5 +1,4 @@
-Ramalina yasudae Räsänen SPECIES
-=======
+# Ramalina yasudae Räsänen SPECIES
 
 #### Status
 ACCEPTED

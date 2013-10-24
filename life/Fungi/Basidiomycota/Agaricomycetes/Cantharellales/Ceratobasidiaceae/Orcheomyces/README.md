@@ -1,5 +1,4 @@
-Orcheomyces Burgeff GENUS
-=======
+# Orcheomyces Burgeff GENUS
 
 #### Status
 ACCEPTED

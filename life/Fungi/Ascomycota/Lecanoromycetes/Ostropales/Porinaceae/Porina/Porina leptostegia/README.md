@@ -1,5 +1,4 @@
-Porina leptostegia (C. Knight) Müll. Arg. SPECIES
-=======
+# Porina leptostegia (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

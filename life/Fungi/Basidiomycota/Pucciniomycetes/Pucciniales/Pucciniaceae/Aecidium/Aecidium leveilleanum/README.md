@@ -1,5 +1,4 @@
-Aecidium leveilleanum Magnus SPECIES
-=======
+# Aecidium leveilleanum Magnus SPECIES
 
 #### Status
 ACCEPTED

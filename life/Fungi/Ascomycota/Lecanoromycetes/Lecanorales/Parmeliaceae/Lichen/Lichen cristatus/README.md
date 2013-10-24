@@ -1,5 +1,4 @@
-Lichen cristatus Huds. SPECIES
-=======
+# Lichen cristatus Huds. SPECIES
 
 #### Status
 ACCEPTED

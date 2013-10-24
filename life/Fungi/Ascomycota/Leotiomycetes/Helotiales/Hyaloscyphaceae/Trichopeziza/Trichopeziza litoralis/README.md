@@ -1,5 +1,4 @@
-Trichopeziza litoralis (Raitv.) Raitv. SPECIES
-=======
+# Trichopeziza litoralis (Raitv.) Raitv. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma glacialis Speg. SPECIES
-=======
+# Phoma glacialis Speg. SPECIES
 
 #### Status
 ACCEPTED

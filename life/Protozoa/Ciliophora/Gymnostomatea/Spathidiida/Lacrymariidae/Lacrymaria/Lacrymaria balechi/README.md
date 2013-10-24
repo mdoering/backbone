@@ -1,5 +1,4 @@
-Lacrymaria balechi Dragesco, 1954 SPECIES
-=======
+# Lacrymaria balechi Dragesco, 1954 SPECIES
 
 #### Status
 ACCEPTED

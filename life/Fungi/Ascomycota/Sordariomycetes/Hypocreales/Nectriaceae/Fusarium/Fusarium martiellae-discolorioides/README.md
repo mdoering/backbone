@@ -1,5 +1,4 @@
-Fusarium martiellae-discolorioides Batikyan SPECIES
-=======
+# Fusarium martiellae-discolorioides Batikyan SPECIES
 
 #### Status
 ACCEPTED

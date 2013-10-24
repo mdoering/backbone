@@ -1,5 +1,4 @@
-Passalora plectranthicola (Chidd.) U. Braun & Crous SPECIES
-=======
+# Passalora plectranthicola (Chidd.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

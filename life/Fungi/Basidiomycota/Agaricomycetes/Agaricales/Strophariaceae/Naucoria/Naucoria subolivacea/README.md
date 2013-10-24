@@ -1,5 +1,4 @@
-Naucoria subolivacea Murrill SPECIES
-=======
+# Naucoria subolivacea Murrill SPECIES
 
 #### Status
 ACCEPTED

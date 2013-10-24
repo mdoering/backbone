@@ -1,5 +1,4 @@
-Uredo alibertiae Henn. SPECIES
-=======
+# Uredo alibertiae Henn. SPECIES
 
 #### Status
 ACCEPTED

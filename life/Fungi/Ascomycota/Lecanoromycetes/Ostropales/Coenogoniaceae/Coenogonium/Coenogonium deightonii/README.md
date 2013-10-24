@@ -1,8 +1,7 @@
-Coenogonium deightoni C.W. Dodge SPECIES
-=======
+# Coenogonium deightonii C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coenogonium deightoni C.W. Dodge
+Coenogonium deightonii C.W. Dodge
 
 ### Remarks
 null

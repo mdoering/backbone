@@ -1,5 +1,4 @@
-Sphaeria arctica Heer SPECIES
-=======
+# Sphaeria arctica Heer SPECIES
 
 #### Status
 ACCEPTED

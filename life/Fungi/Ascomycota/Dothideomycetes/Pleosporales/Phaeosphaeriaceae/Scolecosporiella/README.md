@@ -1,17 +1,16 @@
-Brencklea Petr. GENUS
-=======
+# Scolecosporiella Petrak, 1921 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 21(3/4): 326 (1923)
+Annls mycol. 19(1/2): 30 (1921)
 
 #### Original name
-Brencklea Petr.
+Scolecosporiella Petrak, 1921
 
 ### Remarks
 null

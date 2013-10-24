@@ -1,5 +1,4 @@
-Opegrapha viridis f. viridis FORM
-=======
+# Opegrapha viridis Eckfeldt SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha viridis f. viridis
+Opegrapha viridis Eckfeldt
 
 ### Remarks
 null

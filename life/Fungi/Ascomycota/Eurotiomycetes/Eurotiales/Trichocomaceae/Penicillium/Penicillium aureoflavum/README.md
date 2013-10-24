@@ -1,5 +1,4 @@
-Penicillium aureoflavum Biourge SPECIES
-=======
+# Penicillium aureoflavum Biourge SPECIES
 
 #### Status
 ACCEPTED

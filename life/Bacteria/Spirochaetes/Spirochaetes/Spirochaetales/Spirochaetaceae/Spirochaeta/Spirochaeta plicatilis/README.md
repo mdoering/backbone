@@ -1,5 +1,4 @@
-Spirochaeta plicatilis Ehrenberg, 1835 (Approved Lists, 1980) SPECIES
-=======
+# Spirochaeta plicatilis Ehrenberg, 1835 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

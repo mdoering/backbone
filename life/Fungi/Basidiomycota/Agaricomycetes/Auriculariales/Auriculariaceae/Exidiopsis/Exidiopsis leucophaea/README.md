@@ -1,5 +1,4 @@
-Exidiopsis leucophaea (Bres.) K. Wells SPECIES
-=======
+# Exidiopsis leucophaea (Bres.) K. Wells SPECIES
 
 #### Status
 ACCEPTED

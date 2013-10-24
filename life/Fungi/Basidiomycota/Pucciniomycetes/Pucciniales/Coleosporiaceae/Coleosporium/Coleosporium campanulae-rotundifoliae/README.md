@@ -1,5 +1,4 @@
-Coleosporium campanulae-rotundifoliae Kleb. SPECIES
-=======
+# Coleosporium campanulae-rotundifoliae Kleb. SPECIES
 
 #### Status
 ACCEPTED

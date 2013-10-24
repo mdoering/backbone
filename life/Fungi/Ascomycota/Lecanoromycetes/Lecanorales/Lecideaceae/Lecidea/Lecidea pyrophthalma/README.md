@@ -1,5 +1,4 @@
-Lecidea pyrophthalma (Mont.) Nyl. SPECIES
-=======
+# Lecidea pyrophthalma (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo gentianae-formosanae Hirats. f. SPECIES
-=======
+# Uredo gentianae-formosanae Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

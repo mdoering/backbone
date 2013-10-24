@@ -1,5 +1,4 @@
-Thelococcum polysporum (Tomin) Tomin SPECIES
-=======
+# Thelococcum polysporum (Tomin) Tomin SPECIES
 
 #### Status
 ACCEPTED

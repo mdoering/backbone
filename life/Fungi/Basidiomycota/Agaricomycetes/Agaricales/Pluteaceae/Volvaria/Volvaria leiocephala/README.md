@@ -1,8 +1,7 @@
-Volvaria lejocephala Fr. SPECIES
-=======
+# Volvaria leiocephala Fr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Volvaria lejocephala Fr.
+Volvaria leiocephala Fr.
 
 ### Remarks
 null

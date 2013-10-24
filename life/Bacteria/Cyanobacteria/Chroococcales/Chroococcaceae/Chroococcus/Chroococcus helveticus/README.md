@@ -1,5 +1,4 @@
-Chroococcus helveticus var. consociato-dispersus Elenkin VARIETY
-=======
+# Chroococcus helveticus Nägeli SPECIES
 
 #### Status
 ACCEPTED

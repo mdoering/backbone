@@ -1,5 +1,4 @@
-Clisosporium lycii (Brunaud) Kuntze SPECIES
-=======
+# Clisosporium lycii (Brunaud) Kuntze SPECIES
 
 #### Status
 ACCEPTED

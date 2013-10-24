@@ -1,5 +1,4 @@
-Camarosporulum negundinis (Ellis & Everh.) Tassi SPECIES
-=======
+# Camarosporulum negundinis (Ellis & Everh.) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophrydium naumanni Pejler, 1962 SPECIES
-=======
+# Ophrydium naumanni Pejler, 1962 SPECIES
 
 #### Status
 ACCEPTED

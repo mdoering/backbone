@@ -1,5 +1,4 @@
-Parmelia cazengensis C.W. Dodge SPECIES
-=======
+# Parmelia cazengensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

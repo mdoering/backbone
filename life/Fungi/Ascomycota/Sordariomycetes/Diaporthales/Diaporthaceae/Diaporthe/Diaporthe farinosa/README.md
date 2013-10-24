@@ -1,5 +1,4 @@
-Diaporthe farinosa Peck SPECIES
-=======
+# Diaporthe farinosa Peck SPECIES
 
 #### Status
 ACCEPTED

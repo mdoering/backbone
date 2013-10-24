@@ -1,5 +1,4 @@
-Psalliota cervinifolia Zeller SPECIES
-=======
+# Psalliota cervinifolia Zeller SPECIES
 
 #### Status
 ACCEPTED

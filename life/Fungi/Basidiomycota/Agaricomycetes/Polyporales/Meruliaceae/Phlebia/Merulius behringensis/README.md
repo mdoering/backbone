@@ -1,14 +1,13 @@
-Merulius behringiensis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Merulius behringensis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 2: 862 (1891)
 
 #### Original name
 Cantharellus behringensis Berk. & M.A. Curtis

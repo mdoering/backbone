@@ -1,5 +1,4 @@
-Lembosina cocculi (F. Stevens & R.W. Ryan) Arx SPECIES
-=======
+# Lembosina cocculi (F. Stevens & R.W. Ryan) Arx SPECIES
 
 #### Status
 ACCEPTED

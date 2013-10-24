@@ -1,5 +1,4 @@
-Phlegmacium cereifolium M.M. Moser SPECIES
-=======
+# Phlegmacium cereifolium M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

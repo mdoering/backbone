@@ -1,5 +1,4 @@
-Parmelia norvegica Vain. SPECIES
-=======
+# Parmelia norvegica Vain. SPECIES
 
 #### Status
 ACCEPTED

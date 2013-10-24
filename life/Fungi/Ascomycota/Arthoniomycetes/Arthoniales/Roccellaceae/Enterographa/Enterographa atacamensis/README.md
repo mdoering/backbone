@@ -1,5 +1,4 @@
-Enterographa atacamensis C.W. Dodge SPECIES
-=======
+# Enterographa atacamensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo vitellinae DC. SPECIES
-=======
+# Uredo vitellinae DC. SPECIES
 
 #### Status
 ACCEPTED

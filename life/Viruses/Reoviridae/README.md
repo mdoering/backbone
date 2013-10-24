@@ -1,5 +1,4 @@
-Reoviridae FAMILY
-=======
+# Reoviridae FAMILY
 
 #### Status
 ACCEPTED

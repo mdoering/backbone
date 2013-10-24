@@ -1,5 +1,4 @@
-Biscutum intermedium SPECIES
-=======
+# Biscutum intermedium SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectacantha oikiskos Joergensen, 1905 SPECIES
-=======
+# Plectacantha oikiskos Joergensen, 1905 SPECIES
 
 #### Status
 ACCEPTED

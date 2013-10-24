@@ -1,5 +1,4 @@
-Phoma gelsicola Ghirlanda {?} SPECIES
-=======
+# Phoma gelsicola Ghirlanda {?} SPECIES
 
 #### Status
 ACCEPTED

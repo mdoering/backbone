@@ -1,5 +1,4 @@
-Septopatella Petr. GENUS
-=======
+# Septopatella Petr. GENUS
 
 #### Status
 ACCEPTED

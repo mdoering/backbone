@@ -1,5 +1,4 @@
-Lachnea heterospora (Clem.) Sacc. & D. Sacc. SPECIES
-=======
+# Lachnea heterospora (Clem.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

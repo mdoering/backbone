@@ -1,17 +1,16 @@
-Termitomyces longiradicata Sathe & J.T. Daniel SPECIES
-=======
+# Termitomyces heimii Natarajan, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 71(4): 853 (1979)
 
 #### Original name
-Termitomyces longiradicata Sathe & J.T. Daniel
+Termitomyces heimii Natarajan, 1979
 
 ### Remarks
 null

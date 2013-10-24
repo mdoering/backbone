@@ -1,5 +1,4 @@
-Brevibacteriaceae FAMILY
-=======
+# Brevibacteriaceae FAMILY
 
 #### Status
 ACCEPTED

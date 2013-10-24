@@ -1,5 +1,4 @@
-Lantus Yeh, 1987 GENUS
-=======
+# Lantus Yeh, 1987 GENUS
 
 #### Status
 ACCEPTED

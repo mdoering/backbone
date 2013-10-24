@@ -1,5 +1,4 @@
-Lecanographa illecebrosula (Müll. Arg.) Egea & Torrente SPECIES
-=======
+# Lecanographa illecebrosula (Müll. Arg.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

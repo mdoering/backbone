@@ -1,5 +1,4 @@
-Ramaria mutabilis Schild & R.H. Petersen, 1981 SPECIES
-=======
+# Ramaria mutabilis Schild & R.H. Petersen, 1981 SPECIES
 
 #### Status
 ACCEPTED

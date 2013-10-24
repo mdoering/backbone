@@ -1,5 +1,4 @@
-Allarthonia carneorufa (Willey) Müll. Arg. SPECIES
-=======
+# Allarthonia carneorufa (Willey) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

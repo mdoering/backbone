@@ -1,5 +1,4 @@
-Septogloeum lathyri Lind SPECIES
-=======
+# Septogloeum lathyri Lind SPECIES
 
 #### Status
 ACCEPTED

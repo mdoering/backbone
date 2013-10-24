@@ -1,5 +1,4 @@
-Annulatascus hongkongensis W.H. Ho, Ranghoo, K.D. Hyde & Hodgkiss SPECIES
-=======
+# Annulatascus hongkongensis W.H. Ho, Ranghoo, K.D. Hyde & Hodgkiss SPECIES
 
 #### Status
 ACCEPTED

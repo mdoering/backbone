@@ -1,5 +1,4 @@
-Speira cistina Thüm. SPECIES
-=======
+# Speira cistina Thüm. SPECIES
 
 #### Status
 ACCEPTED

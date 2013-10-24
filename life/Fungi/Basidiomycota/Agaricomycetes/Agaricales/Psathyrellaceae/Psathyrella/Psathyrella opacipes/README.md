@@ -1,5 +1,4 @@
-Psathyrella opacipes A.H. Sm. SPECIES
-=======
+# Psathyrella opacipes A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Haidadinium ichthyophilum Buckland-Nicks, Reimchen & Garbary SPECIES
-=======
+# Haidadinium ichthyophilum Buckland-Nicks, Reimchen & Garbary SPECIES
 
 #### Status
 ACCEPTED

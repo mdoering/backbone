@@ -1,5 +1,4 @@
-Cyphelium atomarium Ach. SPECIES
-=======
+# Cyphelium atomarium Ach. SPECIES
 
 #### Status
 ACCEPTED

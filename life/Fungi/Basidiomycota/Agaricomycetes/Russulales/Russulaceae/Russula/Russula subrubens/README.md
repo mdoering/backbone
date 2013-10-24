@@ -1,17 +1,16 @@
-Russula chamiteae var. chamiteae VARIETY
-=======
+# Russula subrubens (J.E. Lange) Bon, 1972 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 91(3): 389 (1975)
+Docums Mycol. [2](no. 5): 33 (1972)
 
 #### Original name
-Russula chamiteae var. chamiteae
+Russula graveolens var. subrubens J.E. Lange, 1940
 
 ### Remarks
 null

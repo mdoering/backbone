@@ -1,5 +1,4 @@
-Ustilagopsis compactiuscula Speg. SPECIES
-=======
+# Ustilagopsis compactiuscula Speg. SPECIES
 
 #### Status
 ACCEPTED

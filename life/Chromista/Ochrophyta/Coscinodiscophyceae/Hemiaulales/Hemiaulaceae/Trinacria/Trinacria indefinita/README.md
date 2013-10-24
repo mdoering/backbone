@@ -1,5 +1,4 @@
-Trinacria indefinita A. P. Jousé SPECIES
-=======
+# Trinacria indefinita A. P. Jousé SPECIES
 
 #### Status
 ACCEPTED

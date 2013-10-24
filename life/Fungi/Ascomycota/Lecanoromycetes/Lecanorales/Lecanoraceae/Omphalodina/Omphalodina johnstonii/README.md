@@ -1,8 +1,7 @@
-Omphalodina johnstoni (C.W. Dodge) C.W. Dodge SPECIES
-=======
+# Omphalodina johnstonii (C.W. Dodge) C.W. Dodge SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

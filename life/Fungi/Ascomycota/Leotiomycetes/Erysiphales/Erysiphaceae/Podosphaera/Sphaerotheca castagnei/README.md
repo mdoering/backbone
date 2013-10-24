@@ -1,17 +1,16 @@
-Sphaerotheca castagnei subsp. castagnei SUBSPECIES
-=======
+# Sphaerotheca castagnei Lév., 1851 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 3 15: 139 (1851)
 
 #### Original name
-Sphaerotheca castagnei subsp. castagnei
+Sphaerotheca castagnei Lév., 1851
 
 ### Remarks
 null

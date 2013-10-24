@@ -1,5 +1,4 @@
-Psammosphaera parva SPECIES
-=======
+# Psammosphaera parva SPECIES
 
 #### Status
 ACCEPTED

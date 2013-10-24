@@ -1,5 +1,4 @@
-Anaptychia pectinata (Zahlbr.) R. Sant. SPECIES
-=======
+# Anaptychia pectinata (Zahlbr.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

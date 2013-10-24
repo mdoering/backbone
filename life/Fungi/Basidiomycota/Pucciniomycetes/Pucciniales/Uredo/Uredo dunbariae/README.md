@@ -1,5 +1,4 @@
-Uredo dunbariae Arthur & Cummins SPECIES
-=======
+# Uredo dunbariae Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

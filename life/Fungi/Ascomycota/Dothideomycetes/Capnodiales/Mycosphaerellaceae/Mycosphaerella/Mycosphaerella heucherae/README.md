@@ -1,5 +1,4 @@
-Mycosphaerella heucherae (Ellis & Everh.) Petr. SPECIES
-=======
+# Mycosphaerella heucherae (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

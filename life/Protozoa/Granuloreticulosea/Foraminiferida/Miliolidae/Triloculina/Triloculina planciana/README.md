@@ -1,5 +1,4 @@
-Triloculina planciana SPECIES
-=======
+# Triloculina planciana SPECIES
 
 #### Status
 ACCEPTED

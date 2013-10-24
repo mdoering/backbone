@@ -1,5 +1,4 @@
-Polychidium gennarii Bagl. SPECIES
-=======
+# Polychidium gennarii Bagl. SPECIES
 
 #### Status
 ACCEPTED

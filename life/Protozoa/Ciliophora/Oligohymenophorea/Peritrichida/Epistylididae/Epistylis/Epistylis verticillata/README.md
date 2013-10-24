@@ -1,5 +1,4 @@
-Epistylis verticillata Dumas, 1930 SPECIES
-=======
+# Epistylis verticillata Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora stigmaphylli (R.E.D. Baker & W.T. Dale) U. Braun & Crous SPECIES
-=======
+# Passalora stigmaphylli (R.E.D. Baker & W.T. Dale) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

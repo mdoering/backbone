@@ -1,5 +1,4 @@
-Acarospora desolata H. Magn. SPECIES
-=======
+# Acarospora desolata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

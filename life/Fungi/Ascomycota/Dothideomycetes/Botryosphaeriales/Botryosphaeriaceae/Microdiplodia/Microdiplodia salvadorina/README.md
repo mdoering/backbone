@@ -1,5 +1,4 @@
-Microdiplodia salvadorina S. Ahmad SPECIES
-=======
+# Microdiplodia salvadorina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

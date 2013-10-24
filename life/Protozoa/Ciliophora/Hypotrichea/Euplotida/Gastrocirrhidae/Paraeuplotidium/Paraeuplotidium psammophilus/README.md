@@ -1,5 +1,4 @@
-Paraeuplotidium psammophilus (Vacelet, 1961) Lei, Choi & Xu, 2002 SPECIES
-=======
+# Paraeuplotidium psammophilus (Vacelet, 1961) Lei, Choi & Xu, 2002 SPECIES
 
 #### Status
 ACCEPTED

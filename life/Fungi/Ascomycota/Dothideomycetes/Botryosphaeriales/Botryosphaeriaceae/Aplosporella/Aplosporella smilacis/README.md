@@ -1,5 +1,4 @@
-Aplosporella smilacis (Ellis & Everh.) Petr. & Syd. SPECIES
-=======
+# Aplosporella smilacis (Ellis & Everh.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichospora denudata (Feltgen) Sacc. & P. Syd. SPECIES
-=======
+# Teichospora denudata (Feltgen) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

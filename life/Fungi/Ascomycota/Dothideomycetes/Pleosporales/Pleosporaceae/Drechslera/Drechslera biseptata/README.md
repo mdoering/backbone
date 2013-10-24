@@ -1,17 +1,16 @@
-Drechslera biforme (E.W. Mason & S. Hughes) Subram. & B.L. Jain SPECIES
-=======
+# Drechslera biseptata (Sacc. & Roum.) M.J. Richardson & E.M. Fraser, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Trans. Br. mycol. Soc. 51(1): 148 (1968)
 
 #### Original name
-Helminthosporium biforme E.W. Mason & S. Hughes, 1948
+Helminthosporium biseptatum Sacc. & Roum., 1882
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hansfordiopeltis cupaniae Bat. & J.L. Bezerra SPECIES
-=======
+# Hansfordiopeltis cupaniae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leucocoprinus delicatulus T.K.A. Kumar & Manim. SPECIES
-=======
+# Leucocoprinus delicatulus T.K.A. Kumar & Manim. SPECIES
 
 #### Status
 ACCEPTED

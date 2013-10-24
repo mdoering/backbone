@@ -1,5 +1,4 @@
-Xeromphalina disseminata E. Horak SPECIES
-=======
+# Xeromphalina disseminata E. Horak SPECIES
 
 #### Status
 ACCEPTED

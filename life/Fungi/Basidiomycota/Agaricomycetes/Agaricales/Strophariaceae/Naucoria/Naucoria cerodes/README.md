@@ -1,14 +1,13 @@
-Agaricus cerodes Fr., 1838 SPECIES
-=======
+# Naucoria cerodes (Fr.) P. Kumm., 1872 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 195 (1838)
+Mém. Soc. Émul. Montbéliard, Sér. 2 5: 252 (1872)
 
 #### Original name
 Agaricus cerodes Fr., 1838

@@ -1,17 +1,16 @@
-Aspergillus phialiseptus Kwon-Chung SPECIES
-=======
+# Aspergillus phialiseptatus Kwon-Chung SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 67(4): 771 (1975)
 
 #### Original name
-Aspergillus phialiseptus Kwon-Chung
+Aspergillus phialiseptatus Kwon-Chung
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllactinia alni Y.N. Yu & S.J. Han SPECIES
-=======
+# Phyllactinia alni Y.N. Yu & S.J. Han SPECIES
 
 #### Status
 ACCEPTED

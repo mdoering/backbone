@@ -1,5 +1,4 @@
-Lacrymaria salinarium Kahl, 1928 SPECIES
-=======
+# Lacrymaria salinarium Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

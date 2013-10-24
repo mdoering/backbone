@@ -1,5 +1,4 @@
-Ellisiella hydrangeae Sousa da Câmara & Luz, 1941 SPECIES
-=======
+# Ellisiella hydrangeae Sousa da Câmara & Luz, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius concolor Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius concolor Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

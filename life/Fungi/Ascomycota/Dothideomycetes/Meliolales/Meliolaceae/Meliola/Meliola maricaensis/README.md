@@ -1,5 +1,4 @@
-Meliola maricaensis F. Stevens SPECIES
-=======
+# Meliola maricaensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entoloma gentile E. Horak SPECIES
-=======
+# Entoloma gentile E. Horak SPECIES
 
 #### Status
 ACCEPTED

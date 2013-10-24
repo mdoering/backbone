@@ -1,14 +1,13 @@
-Puiggarina amphilophii (Rehm) Speg. SPECIES
-=======
+# Puiggarina amphilobii (Rehm) Speg., 1919 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Boletín de la Academia Nacional de Ciencias de Córdoba 23: 486 (1919)
 
 #### Original name
 Physalospora amphilobii Rehm, 1909

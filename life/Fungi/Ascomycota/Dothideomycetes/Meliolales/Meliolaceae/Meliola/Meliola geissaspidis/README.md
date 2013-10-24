@@ -1,5 +1,4 @@
-Meliola geissaspidis Hosag. & Manojk. SPECIES
-=======
+# Meliola geissaspidis Hosag. & Manojk. SPECIES
 
 #### Status
 ACCEPTED

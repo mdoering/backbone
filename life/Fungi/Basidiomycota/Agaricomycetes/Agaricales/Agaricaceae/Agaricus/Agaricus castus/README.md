@@ -1,5 +1,4 @@
-Agaricus castus MacOwan SPECIES
-=======
+# Agaricus castus MacOwan SPECIES
 
 #### Status
 ACCEPTED

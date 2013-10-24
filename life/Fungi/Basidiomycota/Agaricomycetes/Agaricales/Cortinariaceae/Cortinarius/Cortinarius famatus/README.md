@@ -1,5 +1,4 @@
-Cortinarius famatus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius famatus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

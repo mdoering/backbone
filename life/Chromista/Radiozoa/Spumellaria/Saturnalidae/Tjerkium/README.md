@@ -1,5 +1,4 @@
-Tjerkium Dumitrica & Hungerbühler, 2007 GENUS
-=======
+# Tjerkium Dumitrica & Hungerbühler, 2007 GENUS
 
 #### Status
 ACCEPTED

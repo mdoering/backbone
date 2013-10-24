@@ -1,5 +1,4 @@
-Bryometopus triquetrus Foissner, 1993 SPECIES
-=======
+# Bryometopus triquetrus Foissner, 1993 SPECIES
 
 #### Status
 ACCEPTED

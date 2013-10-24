@@ -1,5 +1,4 @@
-Ceratolithina copis SPECIES
-=======
+# Ceratolithina copis SPECIES
 
 #### Status
 ACCEPTED

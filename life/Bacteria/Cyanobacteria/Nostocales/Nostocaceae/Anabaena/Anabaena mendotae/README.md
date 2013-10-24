@@ -1,5 +1,4 @@
-Anabaena mendotae W.Trelease SPECIES
-=======
+# Anabaena mendotae W.Trelease SPECIES
 
 #### Status
 ACCEPTED

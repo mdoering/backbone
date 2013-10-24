@@ -1,5 +1,4 @@
-Penicilliopsis bambusae Nag Raj & Govindu SPECIES
-=======
+# Penicilliopsis bambusae Nag Raj & Govindu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Deightonia rhombispora Petr. SPECIES
-=======
+# Deightonia rhombispora Petr. SPECIES
 
 #### Status
 ACCEPTED

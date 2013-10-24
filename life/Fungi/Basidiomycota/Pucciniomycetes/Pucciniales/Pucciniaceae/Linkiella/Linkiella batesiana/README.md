@@ -1,5 +1,4 @@
-Linkiella batesiana (Arthur) Syd. SPECIES
-=======
+# Linkiella batesiana (Arthur) Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanospora wentii Koord. SPECIES
-=======
+# Melanospora wentii Koord. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora catsbyana Chardón SPECIES
-=======
+# Phyllachora catesbyana Chardón, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Dept. Agric. Porto Rico 16: 182 (1932)
 
 #### Original name
-Phyllachora catsbyana Chardón
+Phyllachora catesbyana Chardón, 1932
 
 ### Remarks
 null

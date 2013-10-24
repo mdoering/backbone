@@ -1,14 +1,13 @@
-Hypoxylon gwyneddii Whalley, R.L. Edwards & S.M. Francis, 1983 SPECIES
-=======
+# Nemania gwyneddii (Whalley, R.L. Edwards & S.M. Francis) Pouzar, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 81(2): 389 (1983)
+Ceská Mykol. 39(1): 24 (1985)
 
 #### Original name
 Hypoxylon gwyneddii Whalley, R.L. Edwards & S.M. Francis, 1983

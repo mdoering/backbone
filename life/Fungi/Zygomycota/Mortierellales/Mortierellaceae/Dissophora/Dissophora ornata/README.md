@@ -1,14 +1,13 @@
-Mortierella ornata W. Gams, 1977 SPECIES
-=======
+# Dissophora ornata (W. Gams) W. Gams, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Persoonia 9(3): 384 (1977)
+in Gams & Carreiro, Stud. Mycol. 31: 91 (1989)
 
 #### Original name
 Mortierella ornata W. Gams, 1977

@@ -1,5 +1,4 @@
-Gloniella ambigua subsp. anceps Sacc. SUBSPECIES
-=======
+# Gloniella ambigua P. Karst. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Malpighia 11: 42 (1897)
+Meddn Soc. Fauna Flora fenn. 18: 73 (1891)
 
 #### Original name
-Gloniella ambigua subsp. anceps Sacc.
+Gloniella ambigua P. Karst.
 
 ### Remarks
 null

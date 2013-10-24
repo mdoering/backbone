@@ -1,5 +1,4 @@
-Actinobacillus muris Bisgaard, 1988 SPECIES
-=======
+# Actinobacillus muris Bisgaard, 1988 SPECIES
 
 #### Status
 ACCEPTED

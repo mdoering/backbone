@@ -1,5 +1,4 @@
-Flammula bicolor Speg. SPECIES
-=======
+# Flammula bicolor Speg. SPECIES
 
 #### Status
 ACCEPTED

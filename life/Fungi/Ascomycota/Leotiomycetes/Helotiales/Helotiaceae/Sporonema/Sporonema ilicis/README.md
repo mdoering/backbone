@@ -1,5 +1,4 @@
-Sporonema ilicis Earle SPECIES
-=======
+# Sporonema ilicis Earle SPECIES
 
 #### Status
 ACCEPTED

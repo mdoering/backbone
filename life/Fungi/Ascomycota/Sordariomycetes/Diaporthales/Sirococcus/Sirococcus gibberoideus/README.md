@@ -1,5 +1,4 @@
-Sirococcus gibberoideus Grove SPECIES
-=======
+# Sirococcus gibberoideus Grove SPECIES
 
 #### Status
 ACCEPTED

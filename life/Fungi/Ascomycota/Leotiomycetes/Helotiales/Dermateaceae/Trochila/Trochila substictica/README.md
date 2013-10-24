@@ -1,5 +1,4 @@
-Trochila substictica Rehm SPECIES
-=======
+# Trochila substictica Rehm SPECIES
 
 #### Status
 ACCEPTED

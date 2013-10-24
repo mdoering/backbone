@@ -1,5 +1,4 @@
-Globulina microspora Velen. SPECIES
-=======
+# Globulina microspora Velen. SPECIES
 
 #### Status
 ACCEPTED

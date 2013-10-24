@@ -1,5 +1,4 @@
-Cercospora furfurella Speg., 1888 SPECIES
-=======
+# Cercospora furfurella Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hysterographium stygium (Cooke) Sacc. SPECIES
-=======
+# Hysterographium stygium (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

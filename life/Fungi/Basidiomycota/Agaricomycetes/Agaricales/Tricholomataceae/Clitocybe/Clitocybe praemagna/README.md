@@ -1,5 +1,4 @@
-Clitocybe praemagna (Murrill) H.E. Bigelow & A.H. Sm. SPECIES
-=======
+# Clitocybe praemagna (Murrill) H.E. Bigelow & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

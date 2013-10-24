@@ -1,5 +1,4 @@
-Geotrichum coccophilum Speg. SPECIES
-=======
+# Geotrichum coccophilum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Corynebacterium oortii Saaltink & Maas Geesteranus, 1969 SPECIES
-=======
+# Corynebacterium oortii Saaltink & Maas Geesteranus, 1969 SPECIES
 
 #### Status
 ACCEPTED

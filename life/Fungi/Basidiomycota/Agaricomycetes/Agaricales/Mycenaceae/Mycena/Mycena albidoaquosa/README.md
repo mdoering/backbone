@@ -1,5 +1,4 @@
-Mycena albidoaquosa Robich SPECIES
-=======
+# Mycena albidoaquosa Robich SPECIES
 
 #### Status
 ACCEPTED

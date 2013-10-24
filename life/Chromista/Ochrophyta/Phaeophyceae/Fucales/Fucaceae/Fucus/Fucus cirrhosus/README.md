@@ -1,5 +1,4 @@
-Fucus cirrhosus Turner SPECIES
-=======
+# Fucus cirrhosus Turner SPECIES
 
 #### Status
 ACCEPTED

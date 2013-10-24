@@ -1,17 +1,16 @@
-Stereum neuwirthi Velen. SPECIES
-=======
+# Stereum neuwirthii Velen. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceské Houby 4-5: 760 (1922)
 
 #### Original name
-Stereum neuwirthi Velen.
+Stereum neuwirthii Velen.
 
 ### Remarks
 null

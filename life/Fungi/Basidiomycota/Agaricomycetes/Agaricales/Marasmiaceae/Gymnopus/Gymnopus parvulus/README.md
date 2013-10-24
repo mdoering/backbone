@@ -1,5 +1,4 @@
-Gymnopus parvulus J.L. Mata, R.H. Petersen & K.W. Hughes SPECIES
-=======
+# Gymnopus parvulus J.L. Mata, R.H. Petersen & K.W. Hughes SPECIES
 
 #### Status
 ACCEPTED

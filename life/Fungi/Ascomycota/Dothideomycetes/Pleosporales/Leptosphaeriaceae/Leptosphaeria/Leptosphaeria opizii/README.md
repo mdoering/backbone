@@ -1,5 +1,4 @@
-Leptosphaeria opizii Nitschke SPECIES
-=======
+# Leptosphaeria opizii Nitschke SPECIES
 
 #### Status
 ACCEPTED

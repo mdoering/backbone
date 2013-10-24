@@ -1,5 +1,4 @@
-Zoothamnium alrasheidi Ji, Choi & Song, 2009 SPECIES
-=======
+# Zoothamnium alrasheidi Ji, Choi & Song, 2009 SPECIES
 
 #### Status
 ACCEPTED

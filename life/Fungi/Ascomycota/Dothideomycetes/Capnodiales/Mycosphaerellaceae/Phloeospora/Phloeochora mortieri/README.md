@@ -1,5 +1,4 @@
-Phloeochora mortieri Höhn. SPECIES
-=======
+# Phloeochora mortieri Höhn. SPECIES
 
 #### Status
 ACCEPTED

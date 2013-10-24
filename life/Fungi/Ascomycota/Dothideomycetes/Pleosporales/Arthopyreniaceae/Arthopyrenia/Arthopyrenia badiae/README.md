@@ -1,5 +1,4 @@
-Arthopyrenia badiae Arnold SPECIES
-=======
+# Arthopyrenia badiae Arnold SPECIES
 
 #### Status
 ACCEPTED

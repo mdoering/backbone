@@ -1,5 +1,4 @@
-Anisomeridium ambiguum (Zahlbr.) R. C. Harris SPECIES
-=======
+# Anisomeridium ambiguum (Zahlbr.) R. C. Harris SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothidella sphaerelloides Dearn. SPECIES
-=======
+# Dothidella sphaerelloides Dearn. SPECIES
 
 #### Status
 ACCEPTED

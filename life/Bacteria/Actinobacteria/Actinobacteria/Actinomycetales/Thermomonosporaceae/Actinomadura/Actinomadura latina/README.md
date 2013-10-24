@@ -1,5 +1,4 @@
-Actinomadura latina Trujillo & Goodfellow, 1997 SPECIES
-=======
+# Actinomadura latina Trujillo & Goodfellow, 1997 SPECIES
 
 #### Status
 ACCEPTED

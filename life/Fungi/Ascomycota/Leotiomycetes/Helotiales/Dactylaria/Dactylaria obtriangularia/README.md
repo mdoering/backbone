@@ -1,5 +1,4 @@
-Dactylaria obtriangularia Matsush., 1975 SPECIES
-=======
+# Dactylaria obtriangularia Matsush., 1975 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspicilia marmoricola Hue SPECIES
-=======
+# Aspicilia marmoricola Hue SPECIES
 
 #### Status
 ACCEPTED

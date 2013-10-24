@@ -1,5 +1,4 @@
-Lopadium exiguellum (Vain.) SPECIES
-=======
+# Lopadium exiguellum (Vain.) SPECIES
 
 #### Status
 ACCEPTED

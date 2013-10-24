@@ -1,5 +1,4 @@
-Phaeomarasmius oligosporus Singer SPECIES
-=======
+# Phaeomarasmius oligosporus Singer SPECIES
 
 #### Status
 ACCEPTED

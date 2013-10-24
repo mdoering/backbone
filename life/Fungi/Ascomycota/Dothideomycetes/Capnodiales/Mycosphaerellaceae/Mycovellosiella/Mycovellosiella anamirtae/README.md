@@ -1,5 +1,4 @@
-Mycovellosiella anamirtae Bhalla, Kavita Srivast. & A.K. Srivast. SPECIES
-=======
+# Mycovellosiella anamirtae Bhalla, Kavita Srivast. & A.K. Srivast. SPECIES
 
 #### Status
 ACCEPTED

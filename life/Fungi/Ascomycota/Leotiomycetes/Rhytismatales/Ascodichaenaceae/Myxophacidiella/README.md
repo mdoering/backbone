@@ -1,5 +1,4 @@
-Myxophacidiella GENUS
-=======
+# Myxophacidiella GENUS
 
 #### Status
 ACCEPTED

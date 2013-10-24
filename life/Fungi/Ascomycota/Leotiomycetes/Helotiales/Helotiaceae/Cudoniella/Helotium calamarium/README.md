@@ -1,5 +1,4 @@
-Helotium calamarium Velen. SPECIES
-=======
+# Helotium calamarium Velen. SPECIES
 
 #### Status
 ACCEPTED

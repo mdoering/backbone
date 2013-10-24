@@ -1,5 +1,4 @@
-Agaricus laschii Fr. SPECIES
-=======
+# Agaricus laschii Fr. SPECIES
 
 #### Status
 ACCEPTED

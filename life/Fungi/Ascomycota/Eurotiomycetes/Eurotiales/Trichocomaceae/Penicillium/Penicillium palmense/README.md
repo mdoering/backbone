@@ -1,17 +1,16 @@
-Penicillium palmensis C. Ramírez, A.T. Martínez & Ferrer SPECIES
-=======
+# Penicillium palmense C. Ramírez, A.T. Martínez & Ferrer, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycopath. Mycol. appl. 66(1-2): 80 (1978)
 
 #### Original name
-Penicillium palmensis C. Ramírez, A.T. Martínez & Ferrer
+Penicillium palmense C. Ramírez, A.T. Martínez & Ferrer, 1978
 
 ### Remarks
 null

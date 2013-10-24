@@ -1,5 +1,4 @@
-Verrucaria minutissima C. Knight SPECIES
-=======
+# Verrucaria minutissima C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bombyliosporomyces tuberculosae Cif. & Tomas. SPECIES
-=======
+# Bombyliosporomyces tuberculosae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

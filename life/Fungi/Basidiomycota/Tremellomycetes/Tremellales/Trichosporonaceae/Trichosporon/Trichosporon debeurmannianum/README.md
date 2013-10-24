@@ -1,5 +1,4 @@
-Trichosporon debeurmannianum Sugita, Takash., Nakase & Shinoda, 2001 SPECIES
-=======
+# Trichosporon debeurmannianum Sugita, Takash., Nakase & Shinoda, 2001 SPECIES
 
 #### Status
 ACCEPTED

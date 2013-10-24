@@ -1,5 +1,4 @@
-Mycoderma aceti Pasteur SPECIES
-=======
+# Mycoderma aceti Pasteur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina rimulosa Redinger SPECIES
-=======
+# Graphina rimulosa Redinger SPECIES
 
 #### Status
 ACCEPTED

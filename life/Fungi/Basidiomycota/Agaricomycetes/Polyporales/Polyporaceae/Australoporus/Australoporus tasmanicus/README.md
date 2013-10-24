@@ -1,17 +1,16 @@
-Polyporus suaderis Lloyd, 1919 SPECIES
-=======
+# Australoporus tasmanicus (Berk.) P.K. Buchanan & Ryvarden, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 5: 859 (1919)
+Mycotaxon 31(1): 5 (1988)
 
 #### Original name
-Polyporus suaderis Lloyd, 1919
+Polyporus tasmanicus Berk., 1859
 
 ### Remarks
 null

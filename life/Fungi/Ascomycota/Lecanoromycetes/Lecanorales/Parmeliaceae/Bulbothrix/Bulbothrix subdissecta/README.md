@@ -1,5 +1,4 @@
-Bulbothrix subdissecta (Nyl.) Hale SPECIES
-=======
+# Bulbothrix subdissecta (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED

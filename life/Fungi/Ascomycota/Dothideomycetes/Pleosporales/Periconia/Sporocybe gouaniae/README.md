@@ -1,5 +1,4 @@
-Sporocybe gouaniae Gonz. Frag. & Cif. SPECIES
-=======
+# Sporocybe gouaniae Gonz. Frag. & Cif. SPECIES
 
 #### Status
 ACCEPTED

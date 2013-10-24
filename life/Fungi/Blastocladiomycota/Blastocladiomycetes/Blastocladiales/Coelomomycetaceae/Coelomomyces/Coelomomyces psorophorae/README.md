@@ -1,5 +1,4 @@
-Coelomomyces psorophorae var. psorophorae VARIETY
-=======
+# Coelomomyces psorophorae Couch SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+J. Elisha Mitchell scient. Soc. 61: 129 (1945)
 
 #### Original name
-Coelomomyces psorophorae var. psorophorae
+Coelomomyces psorophorae Couch
 
 ### Remarks
 null

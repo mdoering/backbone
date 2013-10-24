@@ -1,5 +1,4 @@
-Telamonia autumnalis Velen. SPECIES
-=======
+# Telamonia autumnalis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea convallium Lynge SPECIES
-=======
+# Lecidea convallium Lynge SPECIES
 
 #### Status
 ACCEPTED

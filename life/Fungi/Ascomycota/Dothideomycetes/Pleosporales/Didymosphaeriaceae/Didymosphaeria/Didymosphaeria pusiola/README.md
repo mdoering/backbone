@@ -1,5 +1,4 @@
-Didymosphaeria pusiola (P. Karst.) Rehm SPECIES
-=======
+# Didymosphaeria pusiola (P. Karst.) Rehm SPECIES
 
 #### Status
 ACCEPTED

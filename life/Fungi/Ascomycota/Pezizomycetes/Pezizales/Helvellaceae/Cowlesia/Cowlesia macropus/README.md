@@ -1,5 +1,4 @@
-Cowlesia macropus (Pers.) Nieuwl. SPECIES
-=======
+# Cowlesia macropus (Pers.) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

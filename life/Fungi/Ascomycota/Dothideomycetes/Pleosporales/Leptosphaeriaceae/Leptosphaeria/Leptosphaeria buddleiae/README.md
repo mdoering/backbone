@@ -1,5 +1,4 @@
-Leptosphaeria buddleiae Gucevic SPECIES
-=======
+# Leptosphaeria buddleiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

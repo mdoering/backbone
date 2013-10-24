@@ -1,5 +1,4 @@
-Ovulariopsis haplophylli (Magnus) Traverso SPECIES
-=======
+# Ovulariopsis haplophylli (Magnus) Traverso SPECIES
 
 #### Status
 ACCEPTED

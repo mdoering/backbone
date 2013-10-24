@@ -1,17 +1,16 @@
-Cyphella filicola Cooke SPECIES
-=======
+# Badimiella pteridophila (Sacc.) Garn.-Jones & Malcolm SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. 14: 129 (1899)
+Biblthca Lichenol. 78: 66 (2001)
 
 #### Original name
-Cyphella filicola Cooke
+Cyphella pteridophila Sacc.
 
 ### Remarks
 null

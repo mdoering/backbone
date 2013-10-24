@@ -1,5 +1,4 @@
-Coronellaria amaena Boud., 1888 SPECIES
-=======
+# Coronellaria amaena Boud., 1888 SPECIES
 
 #### Status
 ACCEPTED

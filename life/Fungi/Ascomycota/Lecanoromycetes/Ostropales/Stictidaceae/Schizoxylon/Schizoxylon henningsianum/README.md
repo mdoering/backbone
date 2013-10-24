@@ -1,5 +1,4 @@
-Schizoxylon henningsianum Plöttn. SPECIES
-=======
+# Schizoxylon henningsianum Plöttn. SPECIES
 
 #### Status
 ACCEPTED

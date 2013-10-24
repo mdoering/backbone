@@ -1,5 +1,4 @@
-Hysterangium incognitum Castellano & J.J. Muchovej SPECIES
-=======
+# Hysterangium incognitum Castellano & J.J. Muchovej SPECIES
 
 #### Status
 ACCEPTED

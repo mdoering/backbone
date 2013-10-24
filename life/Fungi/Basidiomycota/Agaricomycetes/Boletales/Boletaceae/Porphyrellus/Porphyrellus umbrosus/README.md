@@ -1,5 +1,4 @@
-Porphyrellus umbrosus (G.F. Atk.) Singer, J. García & L.D. Gómez SPECIES
-=======
+# Porphyrellus umbrosus (G.F. Atk.) Singer, J. García & L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

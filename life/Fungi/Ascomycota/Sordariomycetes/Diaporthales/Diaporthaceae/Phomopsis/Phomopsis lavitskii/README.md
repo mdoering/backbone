@@ -1,5 +1,4 @@
-Phomopsis lavitskii Zerova SPECIES
-=======
+# Phomopsis lavitskii Zerova SPECIES
 
 #### Status
 ACCEPTED

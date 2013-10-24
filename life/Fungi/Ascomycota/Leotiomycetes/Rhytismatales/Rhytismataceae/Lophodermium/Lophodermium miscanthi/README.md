@@ -1,5 +1,4 @@
-Lophodermium miscanthi Tehon SPECIES
-=======
+# Lophodermium miscanthi Tehon SPECIES
 
 #### Status
 ACCEPTED

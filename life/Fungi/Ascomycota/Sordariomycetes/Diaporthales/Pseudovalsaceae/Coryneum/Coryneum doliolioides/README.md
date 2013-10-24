@@ -1,5 +1,4 @@
-Coryneum doliolioides Sousa da Câmara SPECIES
-=======
+# Coryneum doliolioides Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

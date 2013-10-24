@@ -1,5 +1,4 @@
-Agaricus apicii Sacc. SPECIES
-=======
+# Agaricus apicii Sacc. SPECIES
 
 #### Status
 ACCEPTED

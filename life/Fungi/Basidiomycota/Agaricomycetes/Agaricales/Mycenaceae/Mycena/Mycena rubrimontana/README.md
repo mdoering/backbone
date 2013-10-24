@@ -1,5 +1,4 @@
-Mycena rubrimontana Singer SPECIES
-=======
+# Mycena rubrimontana Singer SPECIES
 
 #### Status
 ACCEPTED

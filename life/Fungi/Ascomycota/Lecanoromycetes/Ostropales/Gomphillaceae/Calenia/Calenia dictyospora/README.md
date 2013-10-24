@@ -1,5 +1,4 @@
-Calenia dictyospora Lücking SPECIES
-=======
+# Calenia dictyospora Lücking SPECIES
 
 #### Status
 ACCEPTED

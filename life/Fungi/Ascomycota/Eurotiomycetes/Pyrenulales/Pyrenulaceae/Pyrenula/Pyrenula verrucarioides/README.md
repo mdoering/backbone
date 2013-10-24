@@ -1,5 +1,4 @@
-Pyrenula verrucarioides Fée SPECIES
-=======
+# Pyrenula verrucarioides Fée SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calyptrosphaera sanlucari P. González SPECIES
-=======
+# Calyptrosphaera sanlucari P. González SPECIES
 
 #### Status
 ACCEPTED

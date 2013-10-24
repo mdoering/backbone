@@ -1,5 +1,4 @@
-Puccinia subita H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia subita H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

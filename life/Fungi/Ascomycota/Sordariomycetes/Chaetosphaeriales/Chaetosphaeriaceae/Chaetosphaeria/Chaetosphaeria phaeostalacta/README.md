@@ -1,5 +1,4 @@
-Chaetosphaeria phaeostalacta Réblová, 2004 SPECIES
-=======
+# Chaetosphaeria phaeostalacta Réblová, 2004 SPECIES
 
 #### Status
 ACCEPTED

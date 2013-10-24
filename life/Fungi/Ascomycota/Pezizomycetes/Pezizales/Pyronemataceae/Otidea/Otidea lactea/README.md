@@ -1,5 +1,4 @@
-Otidea lactea J.Z. Cao & L. Fan SPECIES
-=======
+# Otidea lactea J.Z. Cao & L. Fan SPECIES
 
 #### Status
 ACCEPTED

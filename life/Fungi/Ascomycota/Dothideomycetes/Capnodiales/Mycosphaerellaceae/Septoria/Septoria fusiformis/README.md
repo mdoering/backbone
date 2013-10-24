@@ -1,5 +1,4 @@
-Septoria fusiformis Muthumary SPECIES
-=======
+# Septoria fusiformis Muthumary SPECIES
 
 #### Status
 ACCEPTED

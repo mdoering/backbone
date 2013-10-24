@@ -1,17 +1,16 @@
-Cladonia deformis f. deformis FORM
-=======
+# Cladonia deformis (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Deutschl. Fl. (Erlangen), Zweiter Theil 120 (1796)
 
 #### Original name
-Cladonia deformis f. deformis
+Lichen deformis L.
 
 ### Remarks
 null

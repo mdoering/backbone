@@ -1,5 +1,4 @@
-Hygrophorus opiparus (Fr.) Quél. SPECIES
-=======
+# Hygrophorus opiparus (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

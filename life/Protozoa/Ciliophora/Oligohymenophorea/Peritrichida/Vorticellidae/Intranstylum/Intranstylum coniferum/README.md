@@ -1,5 +1,4 @@
-Intranstylum coniferum Precht, 1935 SPECIES
-=======
+# Intranstylum coniferum Precht, 1935 SPECIES
 
 #### Status
 ACCEPTED

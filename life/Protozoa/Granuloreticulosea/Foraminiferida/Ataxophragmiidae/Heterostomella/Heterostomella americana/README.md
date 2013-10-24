@@ -1,5 +1,4 @@
-Heterostomella americana Cushman SPECIES
-=======
+# Heterostomella americana Cushman SPECIES
 
 #### Status
 ACCEPTED

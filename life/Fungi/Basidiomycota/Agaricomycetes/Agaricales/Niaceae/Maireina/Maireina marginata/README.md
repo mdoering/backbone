@@ -1,5 +1,4 @@
-Maireina marginata (McAlpine) W.B. Cooke SPECIES
-=======
+# Maireina marginata (McAlpine) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

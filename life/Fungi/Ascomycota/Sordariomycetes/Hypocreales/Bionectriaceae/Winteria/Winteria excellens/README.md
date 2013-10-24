@@ -1,5 +1,4 @@
-Winteria excellens (Rehm) Sacc. SPECIES
-=======
+# Winteria excellens (Rehm) Sacc. SPECIES
 
 #### Status
 ACCEPTED

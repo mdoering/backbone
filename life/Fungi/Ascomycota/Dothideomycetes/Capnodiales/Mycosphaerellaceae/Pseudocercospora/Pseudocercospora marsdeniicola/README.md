@@ -1,5 +1,4 @@
-Pseudocercospora marsdeniicola (A.K. Kar & M. Mandal) Deighton SPECIES
-=======
+# Pseudocercospora marsdeniicola (A.K. Kar & M. Mandal) Deighton SPECIES
 
 #### Status
 ACCEPTED

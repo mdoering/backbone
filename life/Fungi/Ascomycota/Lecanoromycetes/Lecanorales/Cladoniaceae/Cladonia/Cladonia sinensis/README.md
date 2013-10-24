@@ -1,5 +1,4 @@
-Cladonia sinensis S. Stenroos & J.B. Chen SPECIES
-=======
+# Cladonia sinensis S. Stenroos & J.B. Chen SPECIES
 
 #### Status
 ACCEPTED

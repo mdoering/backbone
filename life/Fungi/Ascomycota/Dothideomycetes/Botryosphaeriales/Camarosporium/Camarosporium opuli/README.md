@@ -1,5 +1,4 @@
-Camarosporium opuli Hollós SPECIES
-=======
+# Camarosporium opuli Hollós SPECIES
 
 #### Status
 ACCEPTED

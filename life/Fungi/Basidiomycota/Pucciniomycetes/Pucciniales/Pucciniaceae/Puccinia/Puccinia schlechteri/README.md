@@ -1,5 +1,4 @@
-Puccinia schlechteri Henn. SPECIES
-=======
+# Puccinia schlechteri Henn. SPECIES
 
 #### Status
 ACCEPTED

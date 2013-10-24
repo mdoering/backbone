@@ -1,5 +1,4 @@
-Trichosporum ovoides Behrend ex Guég. SPECIES
-=======
+# Trichosporum ovoides Behrend ex Guég. SPECIES
 
 #### Status
 ACCEPTED

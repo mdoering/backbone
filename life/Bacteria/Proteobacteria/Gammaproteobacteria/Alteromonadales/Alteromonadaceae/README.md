@@ -1,5 +1,4 @@
-Alteromonadaceae FAMILY
-=======
+# Alteromonadaceae FAMILY
 
 #### Status
 ACCEPTED

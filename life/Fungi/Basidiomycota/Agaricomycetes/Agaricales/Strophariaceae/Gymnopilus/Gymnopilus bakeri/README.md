@@ -1,5 +1,4 @@
-Gymnopilus bakeri Dennis SPECIES
-=======
+# Gymnopilus bakeri Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lithocia chlorotica Stein SPECIES
-=======
+# Lithocia chlorotica Stein SPECIES
 
 #### Status
 ACCEPTED

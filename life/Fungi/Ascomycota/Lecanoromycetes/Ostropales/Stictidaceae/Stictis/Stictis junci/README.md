@@ -1,5 +1,4 @@
-Stictis junci (P. Karst.) SPECIES
-=======
+# Stictis junci (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

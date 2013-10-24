@@ -1,5 +1,4 @@
-Lecidea immutans Nyl. SPECIES
-=======
+# Lecidea immutans Nyl. SPECIES
 
 #### Status
 ACCEPTED

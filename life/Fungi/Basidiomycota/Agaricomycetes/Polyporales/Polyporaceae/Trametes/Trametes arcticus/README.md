@@ -1,5 +1,4 @@
-Trametes arcticus Berk. SPECIES
-=======
+# Trametes arcticus Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stromatothelium Trevis. GENUS
-=======
+# Stromatothelium Trevis. GENUS
 
 #### Status
 ACCEPTED

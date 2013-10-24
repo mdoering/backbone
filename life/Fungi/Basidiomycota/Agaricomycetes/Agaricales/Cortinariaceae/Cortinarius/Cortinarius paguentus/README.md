@@ -1,5 +1,4 @@
-Cortinarius paguentus Garrido & E. Horak SPECIES
-=======
+# Cortinarius paguentus Garrido & E. Horak SPECIES
 
 #### Status
 ACCEPTED

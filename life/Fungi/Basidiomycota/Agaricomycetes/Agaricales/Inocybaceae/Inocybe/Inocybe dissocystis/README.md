@@ -1,5 +1,4 @@
-Inocybe dissocystis Singer SPECIES
-=======
+# Inocybe dissocystis Singer SPECIES
 
 #### Status
 ACCEPTED

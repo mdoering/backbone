@@ -1,5 +1,4 @@
-Anacystis cyanea (Kützing) F.E. Drouet & W.A. Daily SPECIES
-=======
+# Anacystis cyanea (Kützing) F.E. Drouet & W.A. Daily SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus insuavis Britzelm. SPECIES
-=======
+# Agaricus insuavis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Callistosporium xanthophyllum var. minor (Bon ex Verbeken & Walleyn) P. Roux, 2008 VARIETY
-=======
+# Callistosporium luteo-olivaceum (Berk. & M.A. Curtis) Singer, 1946 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lloydia 89: 117 (1946)
 
 #### Original name
-null
+Collybia luteo-olivacea Berk. & M.A. Curtis
 
 ### Remarks
 null

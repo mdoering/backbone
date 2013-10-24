@@ -1,5 +1,4 @@
-Teichosporella cervariensis (Sacc. & Berl.) Sacc. SPECIES
-=======
+# Teichosporella cervariensis (Sacc. & Berl.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

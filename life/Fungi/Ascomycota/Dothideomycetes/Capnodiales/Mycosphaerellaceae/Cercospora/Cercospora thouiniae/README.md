@@ -1,5 +1,4 @@
-Cercospora thouiniae F. Stevens SPECIES
-=======
+# Cercospora thouiniae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

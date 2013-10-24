@@ -1,5 +1,4 @@
-Rotalia deformis SPECIES
-=======
+# Rotalia deformis SPECIES
 
 #### Status
 ACCEPTED

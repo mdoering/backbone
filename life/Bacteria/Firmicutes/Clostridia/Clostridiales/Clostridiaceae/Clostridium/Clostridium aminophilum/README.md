@@ -1,5 +1,4 @@
-Clostridium aminophilum Paster et al., 1993 SPECIES
-=======
+# Clostridium aminophilum Paster et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

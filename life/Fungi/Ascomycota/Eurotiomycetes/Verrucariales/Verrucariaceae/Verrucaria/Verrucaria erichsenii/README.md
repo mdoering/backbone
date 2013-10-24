@@ -1,17 +1,16 @@
-Verrucaria erichsenii var. erichsenii VARIETY
-=======
+# Verrucaria erichsenii Zschacke SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Verh. bot. Ver. Prov. Brandenb. 70: 192 (1928)
 
 #### Original name
-Verrucaria erichsenii var. erichsenii
+Verrucaria erichsenii Zschacke
 
 ### Remarks
 null

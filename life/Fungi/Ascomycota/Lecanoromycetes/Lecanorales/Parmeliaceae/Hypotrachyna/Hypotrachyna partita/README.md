@@ -1,5 +1,4 @@
-Hypotrachyna partita Hale SPECIES
-=======
+# Hypotrachyna partita Hale SPECIES
 
 #### Status
 ACCEPTED

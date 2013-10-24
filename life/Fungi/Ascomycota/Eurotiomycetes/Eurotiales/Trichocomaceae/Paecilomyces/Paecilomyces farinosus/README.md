@@ -1,14 +1,13 @@
-Isaria farinosa var. farinosa VARIETY
-=======
+# Paecilomyces farinosus (Holmsk.) A.H.S. Br. & G. Sm., 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 271 (1832)
+Trans. Br. mycol. Soc. 40: 50 (1957)
 
 #### Original name
 null

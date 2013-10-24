@@ -1,5 +1,4 @@
-Boletus rex-veris Arora & Simonini SPECIES
-=======
+# Boletus rex-veris Arora & Simonini SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Scytosiphon simpliccima var. complanatus (Rosenvinge) Cremades VARIETY
-=======
+# Scytosiphon complanatus (Rosenvinge) Doty SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Fusiformisporites duenasii Kalgutkar & Janson. SPECIES
-=======
+# Fusiformisporites duenasii Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

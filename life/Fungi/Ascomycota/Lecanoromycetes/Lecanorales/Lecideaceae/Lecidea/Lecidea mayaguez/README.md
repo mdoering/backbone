@@ -1,5 +1,4 @@
-Lecidea mayaguez Zahlbr. SPECIES
-=======
+# Lecidea mayaguez Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

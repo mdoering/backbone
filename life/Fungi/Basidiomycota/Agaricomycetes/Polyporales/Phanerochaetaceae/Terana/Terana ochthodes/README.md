@@ -1,5 +1,4 @@
-Terana ochthodes (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana ochthodes (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

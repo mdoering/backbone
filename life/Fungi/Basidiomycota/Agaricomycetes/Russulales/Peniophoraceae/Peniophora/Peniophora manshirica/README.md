@@ -1,5 +1,4 @@
-Peniophora manshirica Parmasto, 1987 SPECIES
-=======
+# Peniophora manshirica Parmasto, 1987 SPECIES
 
 #### Status
 ACCEPTED

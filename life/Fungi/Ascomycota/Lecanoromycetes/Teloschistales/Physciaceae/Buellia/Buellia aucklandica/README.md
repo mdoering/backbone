@@ -1,5 +1,4 @@
-Buellia aucklandica C.W. Dodge SPECIES
-=======
+# Buellia aucklandica C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

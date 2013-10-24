@@ -1,5 +1,4 @@
-Sphaeria aucubae Westend. SPECIES
-=======
+# Sphaeria aucubae Westend. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecudina mammilata Tugawa (H Hoshide), 1944 SPECIES
-=======
+# Lecudina mammilata Tugawa (H Hoshide), 1944 SPECIES
 
 #### Status
 ACCEPTED

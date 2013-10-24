@@ -1,5 +1,4 @@
-Cortinarius geosmus M.M. Moser SPECIES
-=======
+# Cortinarius geosmus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

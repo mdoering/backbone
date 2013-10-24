@@ -1,5 +1,4 @@
-Thuchomyces lichenoides Hallbauer & Jahns SPECIES
-=======
+# Thuchomyces lichenoides Hallbauer & Jahns SPECIES
 
 #### Status
 ACCEPTED

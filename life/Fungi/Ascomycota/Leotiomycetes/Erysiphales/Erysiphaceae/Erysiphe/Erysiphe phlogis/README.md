@@ -1,5 +1,4 @@
-Erysiphe phlogis Schwein. SPECIES
-=======
+# Erysiphe phlogis Schwein. SPECIES
 
 #### Status
 ACCEPTED

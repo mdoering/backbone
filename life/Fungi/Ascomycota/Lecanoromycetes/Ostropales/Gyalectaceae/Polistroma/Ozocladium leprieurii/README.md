@@ -1,5 +1,4 @@
-Ozocladium leprieurii Mont. SPECIES
-=======
+# Ozocladium leprieurii Mont. SPECIES
 
 #### Status
 ACCEPTED

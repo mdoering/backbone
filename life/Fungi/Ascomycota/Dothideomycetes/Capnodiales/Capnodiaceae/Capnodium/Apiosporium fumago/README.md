@@ -1,5 +1,4 @@
-Apiosporium fumago Fuckel SPECIES
-=======
+# Apiosporium fumago Fuckel SPECIES
 
 #### Status
 ACCEPTED

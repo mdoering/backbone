@@ -1,5 +1,4 @@
-Physarum clavisporum G. Moreno, A. Sánchez, A. Castillo & Illana, 2009 SPECIES
-=======
+# Physarum clavisporum G. Moreno, A. Sánchez, A. Castillo & Illana, 2009 SPECIES
 
 #### Status
 ACCEPTED

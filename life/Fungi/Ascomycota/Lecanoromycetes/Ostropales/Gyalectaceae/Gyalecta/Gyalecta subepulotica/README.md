@@ -1,5 +1,4 @@
-Gyalecta subepulotica (Nyl.) Hue SPECIES
-=======
+# Gyalecta subepulotica (Nyl.) Hue SPECIES
 
 #### Status
 ACCEPTED

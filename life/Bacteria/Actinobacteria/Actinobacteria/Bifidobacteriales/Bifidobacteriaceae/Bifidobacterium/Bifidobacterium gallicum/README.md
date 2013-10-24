@@ -1,5 +1,4 @@
-Bifidobacterium gallicum Lauer, 1990 SPECIES
-=======
+# Bifidobacterium gallicum Lauer, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterodermia lamelligera (Taylor) Trass SPECIES
-=======
+# Heterodermia lamelligera (Taylor) Trass SPECIES
 
 #### Status
 ACCEPTED

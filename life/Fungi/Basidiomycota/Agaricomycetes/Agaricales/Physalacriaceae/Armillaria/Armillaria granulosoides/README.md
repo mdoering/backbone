@@ -1,5 +1,4 @@
-Armillaria granulosoides Zeller SPECIES
-=======
+# Armillaria granulosoides Zeller SPECIES
 
 #### Status
 ACCEPTED

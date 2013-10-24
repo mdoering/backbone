@@ -1,5 +1,4 @@
-Diplocolon Nägeli ex Bornet & Flahault, 1887 GENUS
-=======
+# Diplocolon Nägeli ex Bornet & Flahault, 1887 GENUS
 
 #### Status
 ACCEPTED

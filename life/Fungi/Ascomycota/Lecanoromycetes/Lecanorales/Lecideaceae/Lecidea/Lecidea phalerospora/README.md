@@ -1,5 +1,4 @@
-Lecidea phalerospora Vain. SPECIES
-=======
+# Lecidea phalerospora Vain. SPECIES
 
 #### Status
 ACCEPTED

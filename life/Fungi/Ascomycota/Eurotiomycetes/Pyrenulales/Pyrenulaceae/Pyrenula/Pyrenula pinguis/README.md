@@ -1,5 +1,4 @@
-Pyrenula pinguis var. pinguis VARIETY
-=======
+# Pyrenula pinguis Fée SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Essai Crypt. Exot. (Paris) 1: 75 (1825)
 
 #### Original name
-Pyrenula pinguis var. pinguis
+Pyrenula pinguis Fée
 
 ### Remarks
 null

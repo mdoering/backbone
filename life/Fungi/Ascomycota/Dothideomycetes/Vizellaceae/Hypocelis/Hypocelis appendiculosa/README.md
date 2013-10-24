@@ -1,5 +1,4 @@
-Hypocelis appendiculosa (Mont. & Berk.) Petr. SPECIES
-=======
+# Hypocelis appendiculosa (Mont. & Berk.) Petr. SPECIES
 
 #### Status
 ACCEPTED

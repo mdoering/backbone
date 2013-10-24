@@ -1,17 +1,16 @@
-Ustilago eleocharitis Sawada SPECIES
-=======
+# Jamesdicksonia eleocharidis (Sawada ex L. Ling) Vánky, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 89(1): 105 (2004)
 
 #### Original name
-Ustilago eleocharitis Sawada
+Entyloma eleocharidis (Sawada) L. Ling, 1949
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agrocybe occidentalis Watling & H.E. Bigelow SPECIES
-=======
+# Agrocybe occidentalis Watling & H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

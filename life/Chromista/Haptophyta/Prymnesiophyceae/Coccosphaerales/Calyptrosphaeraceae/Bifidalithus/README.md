@@ -1,5 +1,4 @@
-Bifidalithus O. Varol, 1991 GENUS
-=======
+# Bifidalithus O. Varol, 1991 GENUS
 
 #### Status
 ACCEPTED

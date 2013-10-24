@@ -1,5 +1,4 @@
-Korobkovella GENUS
-=======
+# Korobkovella GENUS
 
 #### Status
 ACCEPTED

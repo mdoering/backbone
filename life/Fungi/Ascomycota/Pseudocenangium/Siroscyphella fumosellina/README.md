@@ -1,5 +1,4 @@
-Siroscyphella fumosellina (Starbäck) Höhn. SPECIES
-=======
+# Siroscyphella fumosellina (Starbäck) Höhn. SPECIES
 
 #### Status
 ACCEPTED

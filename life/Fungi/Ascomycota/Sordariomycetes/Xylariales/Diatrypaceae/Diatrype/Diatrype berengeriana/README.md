@@ -1,5 +1,4 @@
-Diatrype berengeriana De Not. SPECIES
-=======
+# Diatrype berengeriana De Not. SPECIES
 
 #### Status
 ACCEPTED

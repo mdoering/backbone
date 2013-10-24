@@ -1,5 +1,4 @@
-Nectria rubrosulphurea (Seaver) J.A. Stev. SPECIES
-=======
+# Nectria rubrosulphurea (Seaver) J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

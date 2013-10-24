@@ -1,5 +1,4 @@
-Nummulites laevigatus Bruguière SPECIES
-=======
+# Nummulites laevigatus Bruguière SPECIES
 
 #### Status
 ACCEPTED

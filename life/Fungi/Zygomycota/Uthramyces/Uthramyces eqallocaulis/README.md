@@ -1,5 +1,4 @@
-Uthramyces eqallocaulis Boedijn SPECIES
-=======
+# Uthramyces eqallocaulis Boedijn SPECIES
 
 #### Status
 ACCEPTED

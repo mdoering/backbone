@@ -1,5 +1,4 @@
-Panellus cantharelloides (Mont.) SPECIES
-=======
+# Panellus cantharelloides (Mont.) SPECIES
 
 #### Status
 ACCEPTED

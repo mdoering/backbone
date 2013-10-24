@@ -1,5 +1,4 @@
-Stephanodiscus minor Reverdin SPECIES
-=======
+# Stephanodiscus minor Reverdin SPECIES
 
 #### Status
 ACCEPTED

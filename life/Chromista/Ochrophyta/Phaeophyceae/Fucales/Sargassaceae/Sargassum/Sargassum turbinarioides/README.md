@@ -1,5 +1,4 @@
-Sargassum turbinarioides Grunow SPECIES
-=======
+# Sargassum turbinarioides Grunow SPECIES
 
 #### Status
 ACCEPTED

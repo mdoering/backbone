@@ -1,5 +1,4 @@
-Scolicotrichum candidum Schwein. SPECIES
-=======
+# Scolicotrichum candidum Schwein. SPECIES
 
 #### Status
 ACCEPTED

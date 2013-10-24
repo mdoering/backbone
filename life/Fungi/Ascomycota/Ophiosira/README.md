@@ -1,5 +1,4 @@
-Ophiosira Petr. GENUS
-=======
+# Ophiosira Petr. GENUS
 
 #### Status
 ACCEPTED

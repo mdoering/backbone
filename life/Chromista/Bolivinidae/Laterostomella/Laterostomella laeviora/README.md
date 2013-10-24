@@ -1,5 +1,4 @@
-Laterostomella laeviora Saidova, 1975 SPECIES
-=======
+# Laterostomella laeviora Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

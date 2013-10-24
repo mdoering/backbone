@@ -1,5 +1,4 @@
-Hypogymnia subduplicata (Rass.) Rass. SPECIES
-=======
+# Hypogymnia subduplicata (Rass.) Rass. SPECIES
 
 #### Status
 ACCEPTED

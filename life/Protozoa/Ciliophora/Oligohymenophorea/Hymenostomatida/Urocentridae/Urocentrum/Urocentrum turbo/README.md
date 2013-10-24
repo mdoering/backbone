@@ -1,8 +1,7 @@
-Urocentrum mulleri SPECIES
-=======
+# Urocentrum turbo (Müller, 1786) Nitzsch, 1827 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

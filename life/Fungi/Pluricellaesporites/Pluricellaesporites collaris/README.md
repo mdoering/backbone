@@ -1,5 +1,4 @@
-Pluricellaesporites collaris Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Pluricellaesporites collaris Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
 ACCEPTED

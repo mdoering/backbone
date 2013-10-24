@@ -1,5 +1,4 @@
-Septoria pachypleuri Nann. SPECIES
-=======
+# Septoria pachypleuri Nann. SPECIES
 
 #### Status
 ACCEPTED

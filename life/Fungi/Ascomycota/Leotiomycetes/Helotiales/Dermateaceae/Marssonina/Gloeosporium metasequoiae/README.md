@@ -1,5 +1,4 @@
-Gloeosporium metasequoiae Gucevic SPECIES
-=======
+# Gloeosporium metasequoiae Gucevic SPECIES
 
 #### Status
 ACCEPTED

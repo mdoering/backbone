@@ -1,5 +1,4 @@
-Aecidium micrococcae Syd. SPECIES
-=======
+# Aecidium micrococcae Syd. SPECIES
 
 #### Status
 ACCEPTED

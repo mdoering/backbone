@@ -1,5 +1,4 @@
-Disparifusa hystricosa Loeblich, 1970 SPECIES
-=======
+# Disparifusa hystricosa Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

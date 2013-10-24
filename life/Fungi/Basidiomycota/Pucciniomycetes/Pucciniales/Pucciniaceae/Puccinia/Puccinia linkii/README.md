@@ -1,5 +1,4 @@
-Puccinia linkii Klotzsch SPECIES
-=======
+# Puccinia linkii Klotzsch SPECIES
 
 #### Status
 ACCEPTED

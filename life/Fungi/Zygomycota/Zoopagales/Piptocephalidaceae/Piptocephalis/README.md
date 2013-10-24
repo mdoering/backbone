@@ -1,17 +1,16 @@
-Mucoricola Nieuwl. GENUS
-=======
+# Piptocephalis de Bary, 1865 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Am. Midl. Nat. 4: 382 (1916)
+null
 
 #### Original name
-Mucoricola Nieuwl.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amylocorticium indicum K.S. Thind & S.S. Rattan, 1972 SPECIES
-=======
+# Amylocorticium indicum K.S. Thind & S.S. Rattan, 1972 SPECIES
 
 #### Status
 ACCEPTED

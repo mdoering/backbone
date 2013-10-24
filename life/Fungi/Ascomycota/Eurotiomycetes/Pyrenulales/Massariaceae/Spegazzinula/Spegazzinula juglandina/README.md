@@ -1,5 +1,4 @@
-Spegazzinula juglandina Höhn. SPECIES
-=======
+# Spegazzinula juglandina Höhn. SPECIES
 
 #### Status
 ACCEPTED

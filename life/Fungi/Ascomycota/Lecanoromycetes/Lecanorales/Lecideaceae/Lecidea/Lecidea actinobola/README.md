@@ -1,5 +1,4 @@
-Lecidea actinobola Hue SPECIES
-=======
+# Lecidea actinobola Hue SPECIES
 
 #### Status
 ACCEPTED

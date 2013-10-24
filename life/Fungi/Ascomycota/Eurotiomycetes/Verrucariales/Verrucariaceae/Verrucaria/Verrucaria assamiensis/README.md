@@ -1,5 +1,4 @@
-Verrucaria assamiensis Stirt. SPECIES
-=======
+# Verrucaria assamiensis Stirt. SPECIES
 
 #### Status
 ACCEPTED

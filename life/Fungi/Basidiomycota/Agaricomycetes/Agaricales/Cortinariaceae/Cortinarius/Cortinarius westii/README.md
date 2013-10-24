@@ -1,5 +1,4 @@
-Cortinarius westii (Murrill) Singer SPECIES
-=======
+# Cortinarius westii (Murrill) Singer SPECIES
 
 #### Status
 ACCEPTED

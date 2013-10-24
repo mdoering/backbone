@@ -1,17 +1,16 @@
-Ramonia kandlerii Kalb SPECIES
-=======
+# Ramonia kandleri Kalb SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenes Neotropici (Neumarkt), Fascicle <b>VI</b> (nos 201-250) no. 243 (1983)
 
 #### Original name
-Ramonia kandlerii Kalb
+Ramonia kandleri Kalb
 
 ### Remarks
 null

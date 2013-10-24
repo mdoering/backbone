@@ -1,5 +1,4 @@
-Tenuibacillus multivorans Ren & Zhou, 2005 SPECIES
-=======
+# Tenuibacillus multivorans Ren & Zhou, 2005 SPECIES
 
 #### Status
 ACCEPTED

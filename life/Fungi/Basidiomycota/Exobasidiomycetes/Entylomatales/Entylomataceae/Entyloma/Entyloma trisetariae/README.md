@@ -1,5 +1,4 @@
-Entyloma trisetariae Urries SPECIES
-=======
+# Entyloma trisetariae Urries SPECIES
 
 #### Status
 ACCEPTED

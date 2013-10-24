@@ -1,17 +1,16 @@
-Arnaudia Batista, 1960 GENUS
-=======
+# Acantharia Theissen & Sydow, 1918 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista & Maia, Publções Inst. Micol. Recife 226: 5 (1960)
+Annls mycol. 16(1/2): 15 (1918)
 
 #### Original name
-Arnaudia Batista, 1960
+Acantharia Theissen & Sydow, 1918
 
 ### Remarks
 null

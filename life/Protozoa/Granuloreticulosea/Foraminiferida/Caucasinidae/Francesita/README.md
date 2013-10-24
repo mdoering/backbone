@@ -1,5 +1,4 @@
-Francesita Loeblich & Tappan, 1963 GENUS
-=======
+# Francesita Loeblich & Tappan, 1963 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ochrosphaera neopolitana Schüssnig SPECIES
-=======
+# Ochrosphaera neopolitana Schüssnig SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium microsporum Sacc. SPECIES
-=======
+# Leptothyrium microsporum Sacc. SPECIES
 
 #### Status
 ACCEPTED

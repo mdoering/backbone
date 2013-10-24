@@ -1,17 +1,16 @@
-Inocybe corydalina f. corydalina FORM
-=======
+# Inocybe corydalina Quél. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mém. Soc. Émul. Montbéliard, Sér. 2 5: 543 (1872)
+null
 
 #### Original name
-Inocybe corydalina f. corydalina
+null
 
 ### Remarks
 null

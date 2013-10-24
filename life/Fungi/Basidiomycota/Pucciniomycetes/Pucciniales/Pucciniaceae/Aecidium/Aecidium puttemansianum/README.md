@@ -1,5 +1,4 @@
-Aecidium puttemansianum Henn. SPECIES
-=======
+# Aecidium puttemansianum Henn. SPECIES
 
 #### Status
 ACCEPTED

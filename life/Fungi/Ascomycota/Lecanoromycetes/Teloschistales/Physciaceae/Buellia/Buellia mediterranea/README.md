@@ -1,5 +1,4 @@
-Buellia mediterranea Giralt SPECIES
-=======
+# Buellia mediterranea Giralt SPECIES
 
 #### Status
 ACCEPTED

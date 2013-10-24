@@ -1,5 +1,4 @@
-Sphaerella lucillae Sacc. SPECIES
-=======
+# Sphaerella lucillae Sacc. SPECIES
 
 #### Status
 ACCEPTED

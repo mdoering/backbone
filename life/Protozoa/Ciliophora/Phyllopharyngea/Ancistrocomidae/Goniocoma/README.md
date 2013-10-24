@@ -1,5 +1,4 @@
-Goniocoma Chatton & Lwoff, 1950 GENUS
-=======
+# Goniocoma Chatton & Lwoff, 1950 GENUS
 
 #### Status
 ACCEPTED

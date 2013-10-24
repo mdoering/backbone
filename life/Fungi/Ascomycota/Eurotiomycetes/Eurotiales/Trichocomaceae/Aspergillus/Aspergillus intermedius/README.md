@@ -1,5 +1,4 @@
-Aspergillus intermedius Blaser SPECIES
-=======
+# Aspergillus intermedius Blaser SPECIES
 
 #### Status
 ACCEPTED

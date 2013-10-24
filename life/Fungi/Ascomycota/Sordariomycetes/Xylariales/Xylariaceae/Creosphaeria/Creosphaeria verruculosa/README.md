@@ -1,5 +1,4 @@
-Creosphaeria verruculosa Rick SPECIES
-=======
+# Creosphaeria verruculosa Rick SPECIES
 
 #### Status
 ACCEPTED

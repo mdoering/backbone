@@ -1,5 +1,4 @@
-Gemmamyces piceicola Z.Q. Yuan SPECIES
-=======
+# Gemmamyces piceicola Z.Q. Yuan SPECIES
 
 #### Status
 ACCEPTED

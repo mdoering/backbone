@@ -1,5 +1,4 @@
-Pleospora discoidea Feltgen SPECIES
-=======
+# Pleospora discoidea Feltgen SPECIES
 
 #### Status
 ACCEPTED

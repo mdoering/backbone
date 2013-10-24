@@ -1,5 +1,4 @@
-Botryosphaeria trabutiana (Henn.) Theiss. SPECIES
-=======
+# Botryosphaeria trabutiana (Henn.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

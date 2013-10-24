@@ -1,5 +1,4 @@
-Macrophoma oncidii Henn. SPECIES
-=======
+# Macrophoma oncidii Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ocellularia pycnophragmia (Nyl.) Zahlbr. SPECIES
-=======
+# Ocellularia pycnophragmia (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

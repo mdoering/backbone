@@ -1,5 +1,4 @@
-Meliola inermis var. inermis VARIETY
-=======
+# Meliola inermis Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Grevillea 9(no. 49): 34 (1880)
 
 #### Original name
-Meliola inermis var. inermis
+Meliola inermis Kalchbr. & Cooke
 
 ### Remarks
 null

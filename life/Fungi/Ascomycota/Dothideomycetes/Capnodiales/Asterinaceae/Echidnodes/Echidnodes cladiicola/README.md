@@ -1,5 +1,4 @@
-Echidnodes cladiicola M.B. Ellis SPECIES
-=======
+# Echidnodes cladiicola M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

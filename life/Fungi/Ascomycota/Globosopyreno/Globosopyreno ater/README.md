@@ -1,5 +1,4 @@
-Globosopyreno ater Lloyd SPECIES
-=======
+# Globosopyreno ater Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterina boletiformis Hue SPECIES
-=======
+# Heterina boletiformis Hue SPECIES
 
 #### Status
 ACCEPTED

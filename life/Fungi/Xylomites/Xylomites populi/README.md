@@ -1,5 +1,4 @@
-Xylomites populi (Fr.) Göpp. SPECIES
-=======
+# Xylomites populi (Fr.) Göpp. SPECIES
 
 #### Status
 ACCEPTED

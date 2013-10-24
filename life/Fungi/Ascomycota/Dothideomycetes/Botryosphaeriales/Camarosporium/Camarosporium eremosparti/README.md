@@ -1,5 +1,4 @@
-Camarosporium eremosparti Szembel SPECIES
-=======
+# Camarosporium eremosparti Szembel SPECIES
 
 #### Status
 ACCEPTED

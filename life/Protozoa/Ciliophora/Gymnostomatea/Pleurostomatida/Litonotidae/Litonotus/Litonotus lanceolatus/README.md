@@ -1,5 +1,4 @@
-Litonotus lanceolatus Svec SPECIES
-=======
+# Litonotus lanceolatus Svec SPECIES
 
 #### Status
 ACCEPTED

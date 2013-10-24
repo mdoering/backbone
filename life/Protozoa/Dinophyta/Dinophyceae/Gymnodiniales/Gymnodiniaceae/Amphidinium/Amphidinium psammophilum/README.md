@@ -1,5 +1,4 @@
-Amphidinium psammophilum Conrad & Kufferath SPECIES
-=======
+# Amphidinium psammophilum Conrad & Kufferath SPECIES
 
 #### Status
 ACCEPTED

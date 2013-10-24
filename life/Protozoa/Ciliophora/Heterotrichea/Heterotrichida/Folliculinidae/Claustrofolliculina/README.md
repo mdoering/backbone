@@ -1,5 +1,4 @@
-Claustrofolliculina Hadzi, 1951 GENUS
-=======
+# Claustrofolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

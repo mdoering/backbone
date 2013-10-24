@@ -1,5 +1,4 @@
-Parmelia homalea (Ach.) Spreng. SPECIES
-=======
+# Parmelia homalea (Ach.) Spreng. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Belonidium campanula SPECIES
-=======
+# Belonidium campanula SPECIES
 
 #### Status
 ACCEPTED

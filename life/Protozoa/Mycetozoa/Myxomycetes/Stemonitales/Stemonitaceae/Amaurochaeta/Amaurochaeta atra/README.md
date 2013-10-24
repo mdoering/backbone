@@ -1,5 +1,4 @@
-Amaurochaeta atra (Albeertini & Schw.) Rost. SPECIES
-=======
+# Amaurochaeta atra (Albeertini & Schw.) Rost. SPECIES
 
 #### Status
 ACCEPTED

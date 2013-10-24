@@ -1,5 +1,4 @@
-Xylomites polaris Heer SPECIES
-=======
+# Xylomites polaris Heer SPECIES
 
 #### Status
 ACCEPTED

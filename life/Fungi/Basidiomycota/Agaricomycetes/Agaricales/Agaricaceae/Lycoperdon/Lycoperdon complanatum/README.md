@@ -1,5 +1,4 @@
-Lycoperdon complanatum Desf. SPECIES
-=======
+# Lycoperdon complanatum Desf. SPECIES
 
 #### Status
 ACCEPTED

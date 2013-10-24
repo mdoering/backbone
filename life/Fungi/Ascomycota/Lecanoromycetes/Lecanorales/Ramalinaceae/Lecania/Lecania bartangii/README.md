@@ -1,5 +1,4 @@
-Lecania bartangii Akram. {?} SPECIES
-=======
+# Lecania bartangii Akram. {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola cavitensis H.S. Yates SPECIES
-=======
+# Meliola cavitensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

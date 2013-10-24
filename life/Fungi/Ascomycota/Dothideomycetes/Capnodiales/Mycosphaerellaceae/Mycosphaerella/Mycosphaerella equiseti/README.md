@@ -1,17 +1,16 @@
-Mycosphaerella equiseti f. equiseti FORM
-=======
+# Mycosphaerella equiseti (Fuckel) J. Schröt., 1894 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(3): 341 (1894)
 
 #### Original name
-null
+Sphaerella equiseti Fuckel, 1870
 
 ### Remarks
 null

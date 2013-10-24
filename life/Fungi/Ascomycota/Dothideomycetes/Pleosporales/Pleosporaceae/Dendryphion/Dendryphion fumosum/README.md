@@ -1,5 +1,4 @@
-Dendryphion fumosum (Corda) Fr. SPECIES
-=======
+# Dendryphion fumosum (Corda) Fr. SPECIES
 
 #### Status
 ACCEPTED

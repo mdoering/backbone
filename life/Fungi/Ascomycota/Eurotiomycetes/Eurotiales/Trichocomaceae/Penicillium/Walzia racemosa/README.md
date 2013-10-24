@@ -1,5 +1,4 @@
-Walzia racemosa Sorokin SPECIES
-=======
+# Walzia racemosa Sorokin SPECIES
 
 #### Status
 ACCEPTED

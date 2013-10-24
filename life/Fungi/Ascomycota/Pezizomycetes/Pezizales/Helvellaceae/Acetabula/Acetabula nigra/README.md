@@ -1,5 +1,4 @@
-Acetabula nigra Bánhegyi SPECIES
-=======
+# Acetabula nigra Bánhegyi SPECIES
 
 #### Status
 ACCEPTED

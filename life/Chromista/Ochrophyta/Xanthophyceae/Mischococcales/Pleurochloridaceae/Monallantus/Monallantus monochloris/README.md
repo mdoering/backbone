@@ -1,5 +1,4 @@
-Monallantus monochloris Gayral & Seizilles de Mazancourt SPECIES
-=======
+# Monallantus monochloris Gayral & Seizilles de Mazancourt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plectopycnis fimbriata SPECIES
-=======
+# Plectopycnis fimbriata SPECIES
 
 #### Status
 ACCEPTED

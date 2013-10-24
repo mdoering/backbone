@@ -1,5 +1,4 @@
-Cladonia athelia f. athelia FORM
-=======
+# Cladonia athelia Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia athelia f. athelia
+Cladonia athelia Nyl.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Leptogium inflexum var. inflexum VARIETY
-=======
+# Leptogium inflexum Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Flora, Jena 41: 377 (1858)
 
 #### Original name
-Leptogium inflexum var. inflexum
+Leptogium inflexum Nyl.
 
 ### Remarks
 null

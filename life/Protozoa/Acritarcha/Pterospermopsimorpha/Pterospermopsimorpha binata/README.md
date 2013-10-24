@@ -1,5 +1,4 @@
-Pterospermopsimorpha binata Timofeev, 1966 SPECIES
-=======
+# Pterospermopsimorpha binata Timofeev, 1966 SPECIES
 
 #### Status
 ACCEPTED

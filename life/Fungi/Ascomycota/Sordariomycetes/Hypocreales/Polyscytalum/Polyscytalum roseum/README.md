@@ -1,5 +1,4 @@
-Polyscytalum roseum Mosca SPECIES
-=======
+# Polyscytalum roseum Mosca SPECIES
 
 #### Status
 ACCEPTED

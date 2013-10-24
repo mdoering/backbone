@@ -1,5 +1,4 @@
-Tectitheca spinifera Burmann, 1968 SPECIES
-=======
+# Tectitheca spinifera Burmann, 1968 SPECIES
 
 #### Status
 ACCEPTED

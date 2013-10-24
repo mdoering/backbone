@@ -1,5 +1,4 @@
-Helicocephalum Thaxt. GENUS
-=======
+# Helicocephalum Thaxt. GENUS
 
 #### Status
 ACCEPTED

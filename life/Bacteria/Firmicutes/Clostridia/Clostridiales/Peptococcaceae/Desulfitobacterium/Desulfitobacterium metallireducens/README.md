@@ -1,5 +1,4 @@
-Desulfitobacterium metallireducens Finneran et al., 2002 SPECIES
-=======
+# Desulfitobacterium metallireducens Finneran et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

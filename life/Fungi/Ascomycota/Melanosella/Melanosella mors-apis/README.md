@@ -1,5 +1,4 @@
-Melanosella mors-apis Örösi-Pál, 1936 SPECIES
-=======
+# Melanosella mors-apis Örösi-Pál, 1936 SPECIES
 
 #### Status
 ACCEPTED

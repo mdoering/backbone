@@ -1,5 +1,4 @@
-Hastigerinidae Bolli, Loeblich & Tappan, 1957 FAMILY
-=======
+# Hastigerinidae Bolli, Loeblich & Tappan, 1957 FAMILY
 
 #### Status
 ACCEPTED

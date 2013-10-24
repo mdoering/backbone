@@ -1,5 +1,4 @@
-Lecanora augustinii Erichs. {?} SPECIES
-=======
+# Lecanora augustinii Erichs. {?} SPECIES
 
 #### Status
 ACCEPTED

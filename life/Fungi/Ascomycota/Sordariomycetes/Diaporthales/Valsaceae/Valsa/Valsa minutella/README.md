@@ -1,5 +1,4 @@
-Valsa minutella Peck SPECIES
-=======
+# Valsa minutella Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Leptosphaeria cassiaecola Ellis & Everh. SPECIES
-=======
+# Leptosphaeria cassiicola Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leptosphaeria cassiaecola Ellis & Everh.
+Leptosphaeria cassiicola Ellis & Everh.
 
 ### Remarks
 null

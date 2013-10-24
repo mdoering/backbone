@@ -1,17 +1,16 @@
-Asbolisia foeda (Sacc.) Cif. & Bat., 1963 SPECIES
-=======
+# Chaetophoma foeda Sacc., 1884 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 3: 200 (1884)
 
 #### Original name
-null
+Chaetophoma foeda Sacc., 1884
 
 ### Remarks
 null

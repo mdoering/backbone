@@ -1,5 +1,4 @@
-Lepiota brunneoannulata Rick SPECIES
-=======
+# Lepiota brunneoannulata Rick SPECIES
 
 #### Status
 ACCEPTED

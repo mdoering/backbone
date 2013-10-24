@@ -1,5 +1,4 @@
-Duplella apexadina SPECIES
-=======
+# Duplella apexadina SPECIES
 
 #### Status
 ACCEPTED

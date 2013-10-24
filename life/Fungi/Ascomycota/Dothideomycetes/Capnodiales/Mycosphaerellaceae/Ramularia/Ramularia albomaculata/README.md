@@ -1,5 +1,4 @@
-Ramularia albomaculata Peck SPECIES
-=======
+# Ramularia albomaculata Peck SPECIES
 
 #### Status
 ACCEPTED

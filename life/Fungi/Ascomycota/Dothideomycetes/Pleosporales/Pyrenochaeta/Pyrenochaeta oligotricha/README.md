@@ -1,5 +1,4 @@
-Pyrenochaeta oligotricha Dias & Sousa da Câmara SPECIES
-=======
+# Pyrenochaeta oligotricha Dias & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

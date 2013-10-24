@@ -1,5 +1,4 @@
-Boletus farinolens Corner SPECIES
-=======
+# Boletus farinolens Corner SPECIES
 
 #### Status
 ACCEPTED

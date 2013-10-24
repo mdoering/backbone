@@ -1,14 +1,13 @@
-Cyphella conglobata Burt, 1914 SPECIES
-=======
+# Stromatocyphella conglobata (Burt) W.B. Cooke, 1961 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 1: 375 (1914)
+Beih. Sydowia 4: 104 (1961)
 
 #### Original name
 Cyphella conglobata Burt, 1914

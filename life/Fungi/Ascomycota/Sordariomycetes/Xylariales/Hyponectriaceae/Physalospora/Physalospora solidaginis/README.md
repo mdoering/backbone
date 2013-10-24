@@ -1,5 +1,4 @@
-Physalospora solidaginis (Fr.) Malbr. SPECIES
-=======
+# Physalospora solidaginis (Fr.) Malbr. SPECIES
 
 #### Status
 ACCEPTED

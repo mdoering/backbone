@@ -1,5 +1,4 @@
-Valsa cejpii Z. Urb. SPECIES
-=======
+# Valsa cejpii Z. Urb. SPECIES
 
 #### Status
 ACCEPTED

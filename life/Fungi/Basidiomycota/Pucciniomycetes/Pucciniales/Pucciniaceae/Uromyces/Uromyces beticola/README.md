@@ -1,17 +1,16 @@
-Uredo betae var. betae VARIETY
-=======
+# Uromyces beticola (Bellynck) Boerema, Loer. & Hamers, 1987 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syn. meth. fung. (Göttingen) (1801)
+Neth. Jl Pl. Path. 93(suppl. ): 17 (1987)
 
 #### Original name
-Uredo betae var. betae
+Uredo beticola Westend., 1861
 
 ### Remarks
 null

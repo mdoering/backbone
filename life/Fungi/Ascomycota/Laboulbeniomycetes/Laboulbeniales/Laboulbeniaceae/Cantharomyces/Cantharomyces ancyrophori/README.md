@@ -1,5 +1,4 @@
-Cantharomyces ancyrophori F. Picard SPECIES
-=======
+# Cantharomyces ancyrophori F. Picard SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hergottella Ludbrook, 1966 GENUS
-=======
+# Hergottella Ludbrook, 1966 GENUS
 
 #### Status
 ACCEPTED

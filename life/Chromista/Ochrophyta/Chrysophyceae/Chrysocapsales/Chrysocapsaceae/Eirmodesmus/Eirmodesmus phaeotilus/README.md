@@ -1,5 +1,4 @@
-Eirmodesmus phaeotilus L.A. Whitford SPECIES
-=======
+# Eirmodesmus phaeotilus L.A. Whitford SPECIES
 
 #### Status
 ACCEPTED

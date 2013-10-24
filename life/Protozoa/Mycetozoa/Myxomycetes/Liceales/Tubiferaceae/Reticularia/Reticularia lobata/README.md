@@ -1,5 +1,4 @@
-Reticularia lobata Lister, 1894 SPECIES
-=======
+# Reticularia lobata Lister, 1894 SPECIES
 
 #### Status
 ACCEPTED

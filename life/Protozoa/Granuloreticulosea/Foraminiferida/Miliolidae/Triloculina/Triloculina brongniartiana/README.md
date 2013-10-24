@@ -1,5 +1,4 @@
-Triloculina brongniartiana SPECIES
-=======
+# Triloculina brongniartiana SPECIES
 
 #### Status
 ACCEPTED

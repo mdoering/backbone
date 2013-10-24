@@ -1,5 +1,4 @@
-Camarosporium eriocryptum Fairm. SPECIES
-=======
+# Camarosporium eriocryptum Fairm. SPECIES
 
 #### Status
 ACCEPTED

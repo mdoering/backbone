@@ -1,5 +1,4 @@
-Meliola corazoyensis Hansf. SPECIES
-=======
+# Meliola corazoyensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

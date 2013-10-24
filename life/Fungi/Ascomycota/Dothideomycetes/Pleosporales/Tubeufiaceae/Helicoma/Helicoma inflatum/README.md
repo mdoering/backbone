@@ -1,5 +1,4 @@
-Helicoma inflatum Linder SPECIES
-=======
+# Helicoma inflatum Linder SPECIES
 
 #### Status
 ACCEPTED

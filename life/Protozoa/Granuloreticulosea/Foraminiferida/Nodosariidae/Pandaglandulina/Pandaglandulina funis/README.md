@@ -1,5 +1,4 @@
-Pandaglandulina funis Saidova, 1975 SPECIES
-=======
+# Pandaglandulina funis Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

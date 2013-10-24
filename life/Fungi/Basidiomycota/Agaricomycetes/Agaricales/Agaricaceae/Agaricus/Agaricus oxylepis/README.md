@@ -1,5 +1,4 @@
-Agaricus oxylepis Berk. & Broome SPECIES
-=======
+# Agaricus oxylepis Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

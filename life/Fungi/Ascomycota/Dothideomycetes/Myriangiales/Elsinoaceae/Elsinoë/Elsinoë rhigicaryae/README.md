@@ -1,5 +1,4 @@
-Elsinoë rhigicaryae Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë rhigicaryae Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

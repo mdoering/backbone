@@ -1,5 +1,4 @@
-Aulographum melioloides Cooke & Massee SPECIES
-=======
+# Aulographum melioloides Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

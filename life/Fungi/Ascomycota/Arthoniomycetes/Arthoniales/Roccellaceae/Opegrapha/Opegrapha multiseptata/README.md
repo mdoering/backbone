@@ -1,5 +1,4 @@
-Opegrapha multiseptata f. multiseptata FORM
-=======
+# Opegrapha multiseptata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Opegrapha multiseptata f. multiseptata
+Opegrapha multiseptata Müll. Arg.
 
 ### Remarks
 null

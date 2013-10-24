@@ -1,17 +1,16 @@
-Adelomyces Thaxt. GENUS
-=======
+# Phaulomyces Thaxt. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mem. Amer. Acad. Arts, ser. 2 16: 306 (1931)
+Mem. Amer. Acad. Arts, ser. 2 16(1): 259 (1931)
 
 #### Original name
-Adelomyces Thaxt.
+Phaulomyces Thaxt.
 
 ### Remarks
 null

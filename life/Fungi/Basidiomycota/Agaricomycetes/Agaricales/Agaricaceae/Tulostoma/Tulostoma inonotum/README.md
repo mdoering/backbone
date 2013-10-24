@@ -1,5 +1,4 @@
-Tulostoma inonotum Long & S. Ahmad SPECIES
-=======
+# Tulostoma inonotum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

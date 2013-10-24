@@ -1,5 +1,4 @@
-Micrhystridium apiculatum Pykhova, 1973 SPECIES
-=======
+# Micrhystridium apiculatum Pykhova, 1973 SPECIES
 
 #### Status
 ACCEPTED

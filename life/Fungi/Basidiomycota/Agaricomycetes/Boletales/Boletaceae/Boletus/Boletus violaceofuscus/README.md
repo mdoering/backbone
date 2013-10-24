@@ -1,5 +1,4 @@
-Boletus violaceofuscus W.F. Chiu SPECIES
-=======
+# Boletus violaceofuscus W.F. Chiu SPECIES
 
 #### Status
 ACCEPTED

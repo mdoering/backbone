@@ -1,8 +1,7 @@
-Endopyrenium garovaglii (Mont.) Boistel SPECIES
-=======
+# Endopyrenium garovaglioi (Mont.) Boistel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

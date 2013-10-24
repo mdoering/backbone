@@ -1,5 +1,4 @@
-Pertusaria pruinifera Erichsen SPECIES
-=======
+# Pertusaria pruinifera Erichsen SPECIES
 
 #### Status
 ACCEPTED

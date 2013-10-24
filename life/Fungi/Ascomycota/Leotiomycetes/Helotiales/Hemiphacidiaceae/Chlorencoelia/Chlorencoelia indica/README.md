@@ -1,5 +1,4 @@
-Chlorencoelia indica (K.S. Thind, E.K. Cash & Pr. Singh) W.Y. Zhuang SPECIES
-=======
+# Chlorencoelia indica (K.S. Thind, E.K. Cash & Pr. Singh) W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

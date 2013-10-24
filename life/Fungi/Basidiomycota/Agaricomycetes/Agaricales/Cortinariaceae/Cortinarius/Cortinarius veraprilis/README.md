@@ -1,5 +1,4 @@
-Cortinarius veraprilis Chevassut, Rob. Henry & G. Riousset SPECIES
-=======
+# Cortinarius veraprilis Chevassut, Rob. Henry & G. Riousset SPECIES
 
 #### Status
 ACCEPTED

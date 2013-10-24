@@ -1,5 +1,4 @@
-Entyloma davisii Cif. SPECIES
-=======
+# Entyloma davisii Cif. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita foetens var. foetens VARIETY
-=======
+# Amanita foetens Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita foetens var. foetens
+Amanita foetens Singer
 
 ### Remarks
 null

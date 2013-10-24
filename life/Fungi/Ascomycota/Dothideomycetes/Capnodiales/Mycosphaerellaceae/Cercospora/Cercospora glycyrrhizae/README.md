@@ -1,5 +1,4 @@
-Cercospora glycyrrhizae Chupp SPECIES
-=======
+# Cercospora glycyrrhizae Chupp SPECIES
 
 #### Status
 ACCEPTED

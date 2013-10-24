@@ -1,5 +1,4 @@
-Myriotrema fragile (Hale) Hale SPECIES
-=======
+# Myriotrema fragile (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

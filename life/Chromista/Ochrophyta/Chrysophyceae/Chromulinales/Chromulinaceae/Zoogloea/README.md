@@ -1,5 +1,4 @@
-Zoogloea F. Cohn, 1854 GENUS
-=======
+# Zoogloea F. Cohn, 1854 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius braendlei Peck SPECIES
-=======
+# Cortinarius braendlei Peck SPECIES
 
 #### Status
 ACCEPTED

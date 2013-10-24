@@ -1,5 +1,4 @@
-Cyclotella elymaea A. Economou-Amilli SPECIES
-=======
+# Cyclotella elymaea A. Economou-Amilli SPECIES
 
 #### Status
 ACCEPTED

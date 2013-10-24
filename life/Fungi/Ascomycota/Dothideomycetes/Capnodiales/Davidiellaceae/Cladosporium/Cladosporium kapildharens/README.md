@@ -1,5 +1,4 @@
-Cladosporium kapildharens C.D. Sharma, Gadp., Firdousi, A.N. Rai & K.M. Vyas, 1998 SPECIES
-=======
+# Cladosporium kapildharens C.D. Sharma, Gadp., Firdousi, A.N. Rai & K.M. Vyas, 1998 SPECIES
 
 #### Status
 ACCEPTED

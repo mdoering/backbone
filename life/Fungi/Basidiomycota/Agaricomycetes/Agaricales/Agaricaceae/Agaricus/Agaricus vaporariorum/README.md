@@ -1,5 +1,4 @@
-Agaricus vaporariorum Weinm. SPECIES
-=======
+# Agaricus vaporariorum Weinm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo ehrhartae McAlpine SPECIES
-=======
+# Uredo ehrhartae McAlpine SPECIES
 
 #### Status
 ACCEPTED

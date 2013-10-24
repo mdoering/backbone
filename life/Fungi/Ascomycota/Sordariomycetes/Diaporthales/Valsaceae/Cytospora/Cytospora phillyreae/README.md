@@ -1,5 +1,4 @@
-Cytospora phillyreae Jaap SPECIES
-=======
+# Cytospora phillyreae Jaap SPECIES
 
 #### Status
 ACCEPTED

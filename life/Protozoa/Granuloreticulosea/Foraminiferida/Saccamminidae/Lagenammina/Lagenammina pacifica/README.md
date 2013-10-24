@@ -1,5 +1,4 @@
-Lagenammina pacifica Hofker, 1978 SPECIES
-=======
+# Lagenammina pacifica Hofker, 1978 SPECIES
 
 #### Status
 ACCEPTED

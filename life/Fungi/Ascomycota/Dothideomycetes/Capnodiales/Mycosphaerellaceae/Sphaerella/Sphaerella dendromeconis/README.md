@@ -1,5 +1,4 @@
-Sphaerella dendromeconis Cooke & Harkn. SPECIES
-=======
+# Sphaerella dendromeconis Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

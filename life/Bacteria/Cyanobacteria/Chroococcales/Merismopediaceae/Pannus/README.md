@@ -1,5 +1,4 @@
-Pannus B.Hickel, 1991 GENUS
-=======
+# Pannus B.Hickel, 1991 GENUS
 
 #### Status
 ACCEPTED

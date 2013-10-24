@@ -1,5 +1,4 @@
-Passalora buddlejae (Deighton) U. Braun & Crous SPECIES
-=======
+# Passalora buddlejae (Deighton) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

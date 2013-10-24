@@ -1,5 +1,4 @@
-Naucoria diversispora Petch SPECIES
-=======
+# Naucoria diversispora Petch SPECIES
 
 #### Status
 ACCEPTED

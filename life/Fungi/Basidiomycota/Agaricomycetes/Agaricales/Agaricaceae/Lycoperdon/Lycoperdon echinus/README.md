@@ -1,5 +1,4 @@
-Lycoperdon echinus Batsch SPECIES
-=======
+# Lycoperdon echinus Batsch SPECIES
 
 #### Status
 ACCEPTED

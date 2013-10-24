@@ -1,5 +1,4 @@
-Lecidea circumpurpurans Nyl. SPECIES
-=======
+# Lecidea circumpurpurans Nyl. SPECIES
 
 #### Status
 ACCEPTED

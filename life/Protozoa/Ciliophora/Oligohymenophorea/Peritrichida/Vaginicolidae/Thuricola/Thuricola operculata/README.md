@@ -1,5 +1,4 @@
-Thuricola operculata SPECIES
-=======
+# Thuricola operculata SPECIES
 
 #### Status
 ACCEPTED

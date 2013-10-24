@@ -1,5 +1,4 @@
-Dermosporium atrum Schwein. SPECIES
-=======
+# Dermosporium atrum Schwein. SPECIES
 
 #### Status
 ACCEPTED

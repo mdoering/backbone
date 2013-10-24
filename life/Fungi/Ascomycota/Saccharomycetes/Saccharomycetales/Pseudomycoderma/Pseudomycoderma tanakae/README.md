@@ -1,5 +1,4 @@
-Pseudomycoderma tanakae C.W. Dodge SPECIES
-=======
+# Pseudomycoderma tanakae C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

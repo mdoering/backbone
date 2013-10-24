@@ -1,5 +1,4 @@
-Calvatia booniana A.H. Sm. SPECIES
-=======
+# Calvatia booniana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

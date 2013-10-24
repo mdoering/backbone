@@ -1,5 +1,4 @@
-Cladonia pertexta Kremp. SPECIES
-=======
+# Cladonia pertexta Kremp. SPECIES
 
 #### Status
 ACCEPTED

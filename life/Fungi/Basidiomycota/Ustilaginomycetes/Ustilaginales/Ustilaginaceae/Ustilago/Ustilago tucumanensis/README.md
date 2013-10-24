@@ -1,5 +1,4 @@
-Ustilago tucumanensis (Hirschh.) Hirschh. SPECIES
-=======
+# Ustilago tucumanensis (Hirschh.) Hirschh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercoseptoria cajanicola Pavgi & R.A. Singh SPECIES
-=======
+# Cercoseptoria cajanicola Pavgi & R.A. Singh SPECIES
 
 #### Status
 ACCEPTED

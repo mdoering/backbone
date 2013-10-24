@@ -1,5 +1,4 @@
-Trachelomonas cingeri f. urna (Popova) Popova FORM
-=======
+# Trachelomonas cingeri Roll SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myrothecium scybalorum (Schumach.) Fr. SPECIES
-=======
+# Myrothecium scybalorum (Schumach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia kauffmanii Halling SPECIES
-=======
+# Collybia kauffmanii Halling SPECIES
 
 #### Status
 ACCEPTED

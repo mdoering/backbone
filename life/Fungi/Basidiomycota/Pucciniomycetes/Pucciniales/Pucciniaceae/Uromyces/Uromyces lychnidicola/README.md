@@ -1,5 +1,4 @@
-Uromyces lychnidicola Speg. SPECIES
-=======
+# Uromyces lychnidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

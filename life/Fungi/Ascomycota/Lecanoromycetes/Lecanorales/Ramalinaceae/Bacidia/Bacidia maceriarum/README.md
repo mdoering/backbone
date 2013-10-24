@@ -1,5 +1,4 @@
-Bacidia maceriarum B. de Lesd. SPECIES
-=======
+# Bacidia maceriarum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

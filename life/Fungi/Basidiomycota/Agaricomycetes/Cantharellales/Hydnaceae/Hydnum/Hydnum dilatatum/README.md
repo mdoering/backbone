@@ -1,5 +1,4 @@
-Hydnum dilatatum Schmalz SPECIES
-=======
+# Hydnum dilatatum Schmalz SPECIES
 
 #### Status
 ACCEPTED

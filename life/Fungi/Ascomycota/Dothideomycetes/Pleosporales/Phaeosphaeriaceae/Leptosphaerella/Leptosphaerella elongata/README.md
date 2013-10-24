@@ -1,17 +1,16 @@
-Leptosphaerella ellongata Hara SPECIES
-=======
+# Leptosphaerella elongata Hara SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Diseases of the Rice Plant (Japan) 146 (1918)
 
 #### Original name
-Leptosphaerella ellongata Hara
+Leptosphaerella elongata Hara
 
 ### Remarks
 null

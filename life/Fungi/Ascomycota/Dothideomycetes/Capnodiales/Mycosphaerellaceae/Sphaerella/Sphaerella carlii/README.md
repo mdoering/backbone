@@ -1,5 +1,4 @@
-Sphaerella carlii Fuckel SPECIES
-=======
+# Sphaerella carlii Fuckel SPECIES
 
 #### Status
 ACCEPTED

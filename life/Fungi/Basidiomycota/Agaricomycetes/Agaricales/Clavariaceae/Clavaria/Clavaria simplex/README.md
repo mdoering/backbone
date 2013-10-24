@@ -1,5 +1,4 @@
-Clavaria simplex P. Karst. SPECIES
-=======
+# Clavaria simplex P. Karst. SPECIES
 
 #### Status
 ACCEPTED

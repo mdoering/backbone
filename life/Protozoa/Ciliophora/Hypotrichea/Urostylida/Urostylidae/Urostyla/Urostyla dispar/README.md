@@ -1,5 +1,4 @@
-Urostyla dispar Kahl, 1932 SPECIES
-=======
+# Urostyla dispar Kahl, 1932 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dioicomyces pallidus Speg. SPECIES
-=======
+# Dioicomyces pallidus Speg. SPECIES
 
 #### Status
 ACCEPTED

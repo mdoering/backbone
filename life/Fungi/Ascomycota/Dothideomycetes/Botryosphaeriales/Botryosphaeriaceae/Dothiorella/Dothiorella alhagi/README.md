@@ -1,5 +1,4 @@
-Dothiorella alhagi S. Ahmad SPECIES
-=======
+# Dothiorella alhagi S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Soehngenia Parshina et al., 2003 GENUS
-=======
+# Soehngenia Parshina et al., 2003 GENUS
 
 #### Status
 ACCEPTED

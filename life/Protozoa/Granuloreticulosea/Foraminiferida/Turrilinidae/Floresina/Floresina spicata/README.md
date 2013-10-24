@@ -1,5 +1,4 @@
-Floresina spicata (Cushman & Parker, 1942) SPECIES
-=======
+# Floresina spicata (Cushman & Parker, 1942) SPECIES
 
 #### Status
 ACCEPTED

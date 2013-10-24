@@ -1,5 +1,4 @@
-Pleospora excelsa Gonz. Frag. SPECIES
-=======
+# Pleospora excelsa Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

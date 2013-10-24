@@ -1,5 +1,4 @@
-Hendersonia crastophila subsp. juncicola Sacc. SUBSPECIES
-=======
+# Hendersonia crastophila ß crastophila Sacc. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Michelia 2(no. 6): 112 (1880)
+Michelia 1(no. 2): 211 (1878)
 
 #### Original name
-Hendersonia crastophila subsp. juncicola Sacc.
+Hendersonia crastophila ß crastophila Sacc.
 
 ### Remarks
 null

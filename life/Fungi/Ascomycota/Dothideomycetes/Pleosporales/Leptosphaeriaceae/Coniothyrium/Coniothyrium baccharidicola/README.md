@@ -1,5 +1,4 @@
-Coniothyrium baccharidicola Speg. SPECIES
-=======
+# Coniothyrium baccharidicola Speg. SPECIES
 
 #### Status
 ACCEPTED

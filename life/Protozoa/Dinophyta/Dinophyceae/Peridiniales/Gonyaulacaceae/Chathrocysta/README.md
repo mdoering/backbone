@@ -1,5 +1,4 @@
-Chathrocysta F. Stein, 1883 GENUS
-=======
+# Chathrocysta F. Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

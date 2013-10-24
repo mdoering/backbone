@@ -1,5 +1,4 @@
-Mycosphaerella assimilata (J. Kunze) Lindau SPECIES
-=======
+# Mycosphaerella assimilata (J. Kunze) Lindau SPECIES
 
 #### Status
 ACCEPTED

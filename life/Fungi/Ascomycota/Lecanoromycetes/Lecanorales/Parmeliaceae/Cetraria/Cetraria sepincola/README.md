@@ -1,17 +1,16 @@
-Cetraria scutata f. scutata FORM
-=======
+# Cetraria sepincola (Ehrh.) Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Poetsch & Schiedermayr, Syst. Aufz. Krypt. Pfl. 262 (1872)
+Method. Lich. 297 (1803)
 
 #### Original name
-Cetraria scutata f. scutata
+Lichen sepincola Ehrh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycarthopyrenia subcerasi SPECIES
-=======
+# Mycarthopyrenia subcerasi SPECIES
 
 #### Status
 ACCEPTED

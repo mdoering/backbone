@@ -1,14 +1,13 @@
-Postia sequoiae (Bonar) M.J. Larsen & Lombard, 1986 SPECIES
-=======
+# Poria sequoiae Bonar, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 26: 272 (1986)
+J. For. 29: 377 (1931)
 
 #### Original name
 Poria sequoiae Bonar, 1931

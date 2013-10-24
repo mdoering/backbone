@@ -1,5 +1,4 @@
-Rhamphosphaeria capillata Kirschst., 1936 SPECIES
-=======
+# Rhamphosphaeria capillata Kirschst., 1936 SPECIES
 
 #### Status
 ACCEPTED

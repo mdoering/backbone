@@ -1,5 +1,4 @@
-Xerocomus rugosellus (W.F. Chiu) F.L. Tai SPECIES
-=======
+# Xerocomus rugosellus (W.F. Chiu) F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

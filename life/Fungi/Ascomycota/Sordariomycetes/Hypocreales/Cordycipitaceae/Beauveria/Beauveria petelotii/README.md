@@ -1,8 +1,7 @@
-Beauveria peteloti Vincens SPECIES
-=======
+# Beauveria petelotii Vincens SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Beauveria peteloti Vincens
+Beauveria petelotii Vincens
 
 ### Remarks
 null

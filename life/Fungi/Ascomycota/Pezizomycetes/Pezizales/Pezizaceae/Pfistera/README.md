@@ -1,5 +1,4 @@
-Pfistera GENUS
-=======
+# Pfistera GENUS
 
 #### Status
 ACCEPTED

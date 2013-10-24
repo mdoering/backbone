@@ -1,5 +1,4 @@
-Lasiostroma GENUS
-=======
+# Lasiostroma GENUS
 
 #### Status
 ACCEPTED

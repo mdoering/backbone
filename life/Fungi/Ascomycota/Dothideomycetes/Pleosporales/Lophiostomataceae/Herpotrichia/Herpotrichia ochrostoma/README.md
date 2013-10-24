@@ -1,5 +1,4 @@
-Herpotrichia ochrostoma Feltgen SPECIES
-=======
+# Herpotrichia ochrostoma Feltgen SPECIES
 
 #### Status
 ACCEPTED

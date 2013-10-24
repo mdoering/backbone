@@ -1,5 +1,4 @@
-Cyathicula urniformis G.W. Beaton & Weste SPECIES
-=======
+# Cyathicula urniformis G.W. Beaton & Weste SPECIES
 
 #### Status
 ACCEPTED

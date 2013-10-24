@@ -1,5 +1,4 @@
-Phormosphaera Haeckel, 1881 GENUS
-=======
+# Phormosphaera Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthrosporium candidum (Schwein.) S. Hughes SPECIES
-=======
+# Arthrosporium candidum (Schwein.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

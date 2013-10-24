@@ -1,5 +1,4 @@
-Chaetomium diversum Lodha SPECIES
-=======
+# Chaetomium diversum Lodha SPECIES
 
 #### Status
 ACCEPTED

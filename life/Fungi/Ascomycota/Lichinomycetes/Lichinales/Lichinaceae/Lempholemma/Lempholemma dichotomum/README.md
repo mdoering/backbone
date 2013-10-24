@@ -1,5 +1,4 @@
-Lempholemma dichotomum C.W. Dodge SPECIES
-=======
+# Lempholemma dichotomum C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

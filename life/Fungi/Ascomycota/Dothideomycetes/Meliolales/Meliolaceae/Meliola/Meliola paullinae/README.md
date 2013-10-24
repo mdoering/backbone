@@ -1,5 +1,4 @@
-Meliola paullinae F. Stevens SPECIES
-=======
+# Meliola paullinae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

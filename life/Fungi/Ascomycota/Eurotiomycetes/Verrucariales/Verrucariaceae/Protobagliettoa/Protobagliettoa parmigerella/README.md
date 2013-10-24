@@ -1,5 +1,4 @@
-Protobagliettoa parmigerella var. parmigerella VARIETY
-=======
+# Protobagliettoa parmigerella SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Protobagliettoa parmigerella var. parmigerella
+null
 
 ### Remarks
 null

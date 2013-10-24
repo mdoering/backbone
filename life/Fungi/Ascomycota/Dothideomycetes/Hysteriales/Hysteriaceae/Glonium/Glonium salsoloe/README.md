@@ -1,5 +1,4 @@
-Glonium salsoloe Reichert SPECIES
-=======
+# Glonium salsoloe Reichert SPECIES
 
 #### Status
 ACCEPTED

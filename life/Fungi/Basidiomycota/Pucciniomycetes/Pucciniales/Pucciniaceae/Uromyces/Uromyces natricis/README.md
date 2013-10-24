@@ -1,5 +1,4 @@
-Uromyces natricis A.L. Guyot SPECIES
-=======
+# Uromyces natricis A.L. Guyot SPECIES
 
 #### Status
 ACCEPTED

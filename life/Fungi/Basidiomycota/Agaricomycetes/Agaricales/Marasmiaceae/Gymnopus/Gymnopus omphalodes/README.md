@@ -1,5 +1,4 @@
-Gymnopus omphalodes (Berk.) Halling & J.L. Mata SPECIES
-=======
+# Gymnopus omphalodes (Berk.) Halling & J.L. Mata SPECIES
 
 #### Status
 ACCEPTED

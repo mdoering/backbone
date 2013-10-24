@@ -1,5 +1,4 @@
-Limacinula theae Syd. & E.J. Butler SPECIES
-=======
+# Limacinula theae Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

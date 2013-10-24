@@ -1,5 +1,4 @@
-Annulatascus biatriisporus K.D. Hyde SPECIES
-=======
+# Annulatascus biatriisporus K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

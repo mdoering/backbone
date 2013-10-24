@@ -1,5 +1,4 @@
-Phyllachora casterigena Ellis & Everh. SPECIES
-=======
+# Phyllachora casterigena Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

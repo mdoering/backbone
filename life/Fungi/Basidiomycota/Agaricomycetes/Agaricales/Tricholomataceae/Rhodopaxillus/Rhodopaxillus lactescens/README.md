@@ -1,5 +1,4 @@
-Rhodopaxillus lactescens Romagn. SPECIES
-=======
+# Rhodopaxillus lactescens Romagn. SPECIES
 
 #### Status
 ACCEPTED

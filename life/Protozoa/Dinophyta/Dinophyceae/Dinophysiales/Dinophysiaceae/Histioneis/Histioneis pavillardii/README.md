@@ -1,5 +1,4 @@
-Histioneis pavillardii Rampi SPECIES
-=======
+# Histioneis pavillardii Rampi SPECIES
 
 #### Status
 ACCEPTED

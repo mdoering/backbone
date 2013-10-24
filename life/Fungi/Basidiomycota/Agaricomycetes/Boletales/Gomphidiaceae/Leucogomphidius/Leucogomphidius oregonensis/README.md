@@ -1,5 +1,4 @@
-Leucogomphidius oregonensis (Peck) Kotl. & Pouzar SPECIES
-=======
+# Leucogomphidius oregonensis (Peck) Kotl. & Pouzar SPECIES
 
 #### Status
 ACCEPTED

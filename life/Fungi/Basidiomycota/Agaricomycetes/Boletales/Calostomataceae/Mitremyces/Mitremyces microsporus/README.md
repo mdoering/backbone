@@ -1,5 +1,4 @@
-Mitremyces microsporus (G.F. Atk.) Sacc. & D. Sacc. SPECIES
-=======
+# Mitremyces microsporus (G.F. Atk.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

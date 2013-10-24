@@ -1,5 +1,4 @@
-Cortinarius citrinophyllus Piane SPECIES
-=======
+# Cortinarius citrinophyllus Piane SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia fulvonitescens I.M. Lamb SPECIES
-=======
+# Buellia fulvonitescens I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

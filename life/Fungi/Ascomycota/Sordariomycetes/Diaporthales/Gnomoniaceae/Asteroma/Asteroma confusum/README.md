@@ -1,5 +1,4 @@
-Asteroma confusum Grognot SPECIES
-=======
+# Asteroma confusum Grognot SPECIES
 
 #### Status
 ACCEPTED

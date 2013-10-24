@@ -1,5 +1,4 @@
-Staurosira proboscoidea Lange-Bertalot & Rumrich SPECIES
-=======
+# Staurosira proboscoidea Lange-Bertalot & Rumrich SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum floridanum Berk. & Cooke ex Cooke SPECIES
-=======
+# Hydnum floridanum Berk. & Cooke ex Cooke SPECIES
 
 #### Status
 ACCEPTED

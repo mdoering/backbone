@@ -1,8 +1,7 @@
-Reticulofenestra placomorpha (Kamptner, 1948) Stradner in Haq, 1968 SPECIES
-=======
+# Reticulofenestra umbilica (Levin, 1965) Martini & Ritzkowski, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

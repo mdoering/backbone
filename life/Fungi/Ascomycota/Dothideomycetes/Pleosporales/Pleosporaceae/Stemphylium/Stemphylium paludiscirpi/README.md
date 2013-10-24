@@ -1,5 +1,4 @@
-Stemphylium paludiscirpi E.G. Simmons SPECIES
-=======
+# Stemphylium paludiscirpi E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

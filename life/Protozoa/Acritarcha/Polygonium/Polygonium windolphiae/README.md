@@ -1,5 +1,4 @@
-Polygonium windolphiae (Welsch, 1986) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Polygonium windolphiae (Welsch, 1986) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

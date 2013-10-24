@@ -1,5 +1,4 @@
-Cortinarius russii Bidaud & Moënne-Locc. SPECIES
-=======
+# Cortinarius russii Bidaud & Moënne-Locc. SPECIES
 
 #### Status
 ACCEPTED

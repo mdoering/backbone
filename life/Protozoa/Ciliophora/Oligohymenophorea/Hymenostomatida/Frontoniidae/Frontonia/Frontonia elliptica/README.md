@@ -1,5 +1,4 @@
-Frontonia elliptica Beardsley, 1902 SPECIES
-=======
+# Frontonia elliptica Beardsley, 1902 SPECIES
 
 #### Status
 ACCEPTED

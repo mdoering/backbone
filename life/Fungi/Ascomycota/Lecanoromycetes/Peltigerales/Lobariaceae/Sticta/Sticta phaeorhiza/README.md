@@ -1,5 +1,4 @@
-Sticta phaeorhiza (Vain.) Zahlbr. SPECIES
-=======
+# Sticta phaeorhiza (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Diatrype caricae De Not., 1863 SPECIES
-=======
+# Eutypella caricae (De Not.) Berl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

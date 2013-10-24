@@ -1,5 +1,4 @@
-Graphina sorediella Müll. Arg. SPECIES
-=======
+# Graphina sorediella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

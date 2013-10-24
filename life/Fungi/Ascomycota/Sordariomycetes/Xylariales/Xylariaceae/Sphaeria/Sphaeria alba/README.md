@@ -1,5 +1,4 @@
-Sphaeria alba Schumach. SPECIES
-=======
+# Sphaeria alba Schumach. SPECIES
 
 #### Status
 ACCEPTED

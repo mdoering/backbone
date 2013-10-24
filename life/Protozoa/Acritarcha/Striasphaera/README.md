@@ -1,5 +1,4 @@
-Striasphaera Liu in Gao, Xing & Liui, 1995 GENUS
-=======
+# Striasphaera Liu in Gao, Xing & Liui, 1995 GENUS
 
 #### Status
 ACCEPTED

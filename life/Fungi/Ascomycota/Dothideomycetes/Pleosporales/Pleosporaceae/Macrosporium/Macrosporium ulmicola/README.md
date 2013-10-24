@@ -1,17 +1,16 @@
-Macrosporium ulmicolum Sandu SPECIES
-=======
+# Macrosporium ulmicola Sandu SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Stud. Cercet Stiint. Iasi, Biol. Stiinte agric. 11(Fasc. 1): 11 (1960)
 
 #### Original name
-Macrosporium ulmicolum Sandu
+Macrosporium ulmicola Sandu
 
 ### Remarks
 null

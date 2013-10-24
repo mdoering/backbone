@@ -1,5 +1,4 @@
-Coleitidae Loeblich & Tappan, 1984 FAMILY
-=======
+# Coleitidae Loeblich & Tappan, 1984 FAMILY
 
 #### Status
 ACCEPTED

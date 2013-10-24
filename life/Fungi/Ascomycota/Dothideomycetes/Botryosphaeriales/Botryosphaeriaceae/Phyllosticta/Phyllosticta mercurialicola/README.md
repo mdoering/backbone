@@ -1,5 +1,4 @@
-Phyllosticta mercurialicola C. Massal. SPECIES
-=======
+# Phyllosticta mercurialicola C. Massal. SPECIES
 
 #### Status
 ACCEPTED

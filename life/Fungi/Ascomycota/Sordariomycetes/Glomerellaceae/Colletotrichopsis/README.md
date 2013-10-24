@@ -1,5 +1,4 @@
-Colletotrichopsis GENUS
-=======
+# Colletotrichopsis GENUS
 
 #### Status
 ACCEPTED

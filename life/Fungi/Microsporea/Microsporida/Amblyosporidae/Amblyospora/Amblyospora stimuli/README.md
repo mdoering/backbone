@@ -1,5 +1,4 @@
-Amblyospora stimuli SPECIES
-=======
+# Amblyospora stimuli SPECIES
 
 #### Status
 ACCEPTED

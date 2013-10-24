@@ -1,5 +1,4 @@
-Alternaria forsythiae Harter SPECIES
-=======
+# Alternaria forsythiae Harter SPECIES
 
 #### Status
 ACCEPTED

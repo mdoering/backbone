@@ -1,5 +1,4 @@
-Lecanora aomoriana (Hue) Zahlbr. SPECIES
-=======
+# Lecanora aomoriana (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hohenbuehelia calongei Singer SPECIES
-=======
+# Hohenbuehelia calongei Singer SPECIES
 
 #### Status
 ACCEPTED

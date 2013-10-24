@@ -1,5 +1,4 @@
-Xanthoria ramulosa (Tuck.) Herre SPECIES
-=======
+# Xanthoria ramulosa (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

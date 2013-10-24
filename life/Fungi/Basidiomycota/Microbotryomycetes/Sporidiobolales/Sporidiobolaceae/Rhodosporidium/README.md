@@ -1,5 +1,4 @@
-Rhodosporidium Banno GENUS
-=======
+# Rhodosporidium Banno GENUS
 
 #### Status
 ACCEPTED

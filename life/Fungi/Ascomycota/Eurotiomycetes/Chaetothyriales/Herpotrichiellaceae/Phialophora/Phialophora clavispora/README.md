@@ -1,5 +1,4 @@
-Phialophora clavispora W. Gams, 1976 SPECIES
-=======
+# Phialophora clavispora W. Gams, 1976 SPECIES
 
 #### Status
 ACCEPTED

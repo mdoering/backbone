@@ -1,5 +1,4 @@
-Lactifluus obliquus (Fr.) Kuntze SPECIES
-=======
+# Lactifluus obliquus (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

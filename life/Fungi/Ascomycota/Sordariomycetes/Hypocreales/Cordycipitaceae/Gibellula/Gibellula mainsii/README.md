@@ -1,5 +1,4 @@
-Gibellula mainsii Samson & H.C. Evans, 1992 SPECIES
-=======
+# Gibellula mainsii Samson & H.C. Evans, 1992 SPECIES
 
 #### Status
 ACCEPTED

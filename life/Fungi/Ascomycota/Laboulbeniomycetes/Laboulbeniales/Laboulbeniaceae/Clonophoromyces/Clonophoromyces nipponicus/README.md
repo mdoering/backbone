@@ -1,5 +1,4 @@
-Clonophoromyces nipponicus Terada & I.I. Tav. SPECIES
-=======
+# Clonophoromyces nipponicus Terada & I.I. Tav. SPECIES
 
 #### Status
 ACCEPTED

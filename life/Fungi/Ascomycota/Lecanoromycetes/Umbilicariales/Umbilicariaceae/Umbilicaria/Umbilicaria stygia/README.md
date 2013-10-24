@@ -1,5 +1,4 @@
-Umbilicaria stygia (Hook. & Taylor) Nyl. SPECIES
-=======
+# Umbilicaria stygia (Hook. & Taylor) Nyl. SPECIES
 
 #### Status
 ACCEPTED

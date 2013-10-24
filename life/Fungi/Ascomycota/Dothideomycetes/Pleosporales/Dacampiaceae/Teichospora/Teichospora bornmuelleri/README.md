@@ -1,5 +1,4 @@
-Teichospora bornmuelleri Magnus SPECIES
-=======
+# Teichospora bornmuelleri Magnus SPECIES
 
 #### Status
 ACCEPTED

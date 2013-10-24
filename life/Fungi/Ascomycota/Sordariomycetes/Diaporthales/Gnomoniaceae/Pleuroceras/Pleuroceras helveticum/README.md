@@ -1,14 +1,13 @@
-Pleuroceras helvetica (Rehm) M.E. Barr SPECIES
-=======
+# Pleuroceras helveticum (Rehm) M.E. Barr SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycol. Mem. 7: 121 (1978)
 
 #### Original name
 Ophiognomonia helvetica Rehm

@@ -1,5 +1,4 @@
-Sarcodon glaucopus Maas Geest. & Nannf., 1969 SPECIES
-=======
+# Sarcodon glaucopus Maas Geest. & Nannf., 1969 SPECIES
 
 #### Status
 ACCEPTED

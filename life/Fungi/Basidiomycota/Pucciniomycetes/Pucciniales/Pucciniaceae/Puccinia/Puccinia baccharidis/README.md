@@ -1,5 +1,4 @@
-Puccinia baccharidis Dietel & Holw. SPECIES
-=======
+# Puccinia baccharidis Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED

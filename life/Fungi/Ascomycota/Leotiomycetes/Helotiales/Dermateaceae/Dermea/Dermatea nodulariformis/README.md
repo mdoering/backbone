@@ -1,5 +1,4 @@
-Dermatea nodulariformis SPECIES
-=======
+# Dermatea nodulariformis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plagiopyla simplex Wetzel, 1928 SPECIES
-=======
+# Plagiopyla simplex Wetzel, 1928 SPECIES
 
 #### Status
 ACCEPTED

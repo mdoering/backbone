@@ -1,5 +1,4 @@
-Ciboria velhaensis Henn. SPECIES
-=======
+# Ciboria velhaensis Henn. SPECIES
 
 #### Status
 ACCEPTED

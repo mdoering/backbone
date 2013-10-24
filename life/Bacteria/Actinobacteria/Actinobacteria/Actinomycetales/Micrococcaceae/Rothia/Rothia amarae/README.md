@@ -1,5 +1,4 @@
-Rothia amarae Fan et al., 2002 SPECIES
-=======
+# Rothia amarae Fan et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

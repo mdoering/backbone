@@ -1,5 +1,4 @@
-Sporotrichum ferrugineum Fr. SPECIES
-=======
+# Sporotrichum ferrugineum Fr. SPECIES
 
 #### Status
 ACCEPTED

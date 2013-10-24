@@ -1,5 +1,4 @@
-Buellia darwini J. Steiner & Zahlbr. SPECIES
-=======
+# Buellia darwini J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

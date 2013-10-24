@@ -1,5 +1,4 @@
-Lembosina pittospori (Hansf.) Arx SPECIES
-=======
+# Lembosina pittospori (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

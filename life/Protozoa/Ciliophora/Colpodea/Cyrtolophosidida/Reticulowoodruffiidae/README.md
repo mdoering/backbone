@@ -1,5 +1,4 @@
-Reticulowoodruffiidae FAMILY
-=======
+# Reticulowoodruffiidae FAMILY
 
 #### Status
 ACCEPTED

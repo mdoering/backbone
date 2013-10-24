@@ -1,5 +1,4 @@
-Streptomyces sulfonofaciens Miyadoh et al., 1983 SPECIES
-=======
+# Streptomyces sulfonofaciens Miyadoh et al., 1983 SPECIES
 
 #### Status
 ACCEPTED

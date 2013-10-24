@@ -1,5 +1,4 @@
-Camarosporium stipae Died. SPECIES
-=======
+# Camarosporium stipae Died. SPECIES
 
 #### Status
 ACCEPTED

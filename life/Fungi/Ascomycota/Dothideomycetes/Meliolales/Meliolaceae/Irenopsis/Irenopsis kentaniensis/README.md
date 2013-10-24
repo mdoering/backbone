@@ -1,5 +1,4 @@
-Irenopsis kentaniensis (Doidge) F. Stevens SPECIES
-=======
+# Irenopsis kentaniensis (Doidge) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Enchelys vermicularis Smith, 1899 SPECIES
-=======
+# Enchelyomorpha vermicularis (Smith, 1899) Kahl, 1930 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

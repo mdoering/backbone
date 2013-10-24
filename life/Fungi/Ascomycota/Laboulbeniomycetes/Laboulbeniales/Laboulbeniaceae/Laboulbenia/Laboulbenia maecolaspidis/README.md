@@ -1,5 +1,4 @@
-Laboulbenia maecolaspidis W. Rossi & Cesari SPECIES
-=======
+# Laboulbenia maecolaspidis W. Rossi & Cesari SPECIES
 
 #### Status
 ACCEPTED

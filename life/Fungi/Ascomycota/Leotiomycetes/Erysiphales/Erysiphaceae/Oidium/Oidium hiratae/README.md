@@ -1,5 +1,4 @@
-Oidium hiratae U. Braun SPECIES
-=======
+# Oidium hiratae U. Braun SPECIES
 
 #### Status
 ACCEPTED

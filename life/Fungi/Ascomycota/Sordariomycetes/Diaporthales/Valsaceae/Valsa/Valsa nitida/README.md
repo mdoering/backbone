@@ -1,5 +1,4 @@
-Valsa nitida Nitschke SPECIES
-=======
+# Valsa nitida Nitschke SPECIES
 
 #### Status
 ACCEPTED

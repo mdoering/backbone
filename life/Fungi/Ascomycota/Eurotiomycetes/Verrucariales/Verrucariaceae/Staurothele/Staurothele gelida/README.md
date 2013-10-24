@@ -1,5 +1,4 @@
-Staurothele gelida (Hook. f. & Taylor) I.M. Lamb SPECIES
-=======
+# Staurothele gelida (Hook. f. & Taylor) I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED

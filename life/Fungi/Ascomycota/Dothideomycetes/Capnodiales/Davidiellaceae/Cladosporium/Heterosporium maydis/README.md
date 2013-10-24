@@ -1,5 +1,4 @@
-Heterosporium maydis Lobik SPECIES
-=======
+# Heterosporium maydis Lobik SPECIES
 
 #### Status
 ACCEPTED

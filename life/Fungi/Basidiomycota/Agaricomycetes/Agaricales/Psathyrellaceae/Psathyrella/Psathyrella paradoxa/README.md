@@ -1,5 +1,4 @@
-Psathyrella paradoxa A.H. Sm. SPECIES
-=======
+# Psathyrella paradoxa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

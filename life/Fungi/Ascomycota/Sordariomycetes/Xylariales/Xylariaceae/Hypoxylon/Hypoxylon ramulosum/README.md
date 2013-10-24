@@ -1,5 +1,4 @@
-Hypoxylon ramulosum (Schwein. ex Berk.) Sacc. SPECIES
-=======
+# Hypoxylon ramulosum (Schwein. ex Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

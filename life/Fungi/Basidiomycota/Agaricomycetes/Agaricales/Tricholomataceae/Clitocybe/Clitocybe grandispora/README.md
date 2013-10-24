@@ -1,5 +1,4 @@
-Clitocybe grandispora Sosin SPECIES
-=======
+# Clitocybe grandispora Sosin SPECIES
 
 #### Status
 ACCEPTED

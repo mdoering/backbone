@@ -1,5 +1,4 @@
-Schizosphaerella punctulata Deflandre & Dangeard, 1938 SPECIES
-=======
+# Schizosphaerella punctulata Deflandre & Dangeard, 1938 SPECIES
 
 #### Status
 ACCEPTED

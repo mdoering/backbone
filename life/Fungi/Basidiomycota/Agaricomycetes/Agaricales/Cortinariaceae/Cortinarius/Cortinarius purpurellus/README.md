@@ -1,5 +1,4 @@
-Cortinarius purpurellus M.M. Moser, E. Horak, Peintner & Vilgalys SPECIES
-=======
+# Cortinarius purpurellus M.M. Moser, E. Horak, Peintner & Vilgalys SPECIES
 
 #### Status
 ACCEPTED

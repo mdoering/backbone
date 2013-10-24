@@ -1,5 +1,4 @@
-Polyrhina GENUS
-=======
+# Polyrhina GENUS
 
 #### Status
 ACCEPTED

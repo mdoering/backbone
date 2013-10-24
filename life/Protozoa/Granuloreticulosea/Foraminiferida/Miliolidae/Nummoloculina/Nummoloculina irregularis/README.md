@@ -1,5 +1,4 @@
-Nummoloculina irregularis SPECIES
-=======
+# Nummoloculina irregularis SPECIES
 
 #### Status
 ACCEPTED

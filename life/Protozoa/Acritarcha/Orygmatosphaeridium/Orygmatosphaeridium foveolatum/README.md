@@ -1,5 +1,4 @@
-Orygmatosphaeridium foveolatum Ouyang Shu, Yin Leiming & Li Zaiping SPECIES
-=======
+# Orygmatosphaeridium foveolatum Ouyang Shu, Yin Leiming & Li Zaiping SPECIES
 
 #### Status
 ACCEPTED

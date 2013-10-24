@@ -1,5 +1,4 @@
-Buellia jorgei Samp. SPECIES
-=======
+# Buellia jorgei Samp. SPECIES
 
 #### Status
 ACCEPTED

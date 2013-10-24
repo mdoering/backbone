@@ -1,5 +1,4 @@
-Mastigamoeba simplex SPECIES
-=======
+# Mastigamoeba simplex SPECIES
 
 #### Status
 ACCEPTED

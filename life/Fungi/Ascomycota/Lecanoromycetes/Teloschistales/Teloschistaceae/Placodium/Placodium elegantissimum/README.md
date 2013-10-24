@@ -1,5 +1,4 @@
-Placodium elegantissimum (Nyl.) Vain. SPECIES
-=======
+# Placodium elegantissimum (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

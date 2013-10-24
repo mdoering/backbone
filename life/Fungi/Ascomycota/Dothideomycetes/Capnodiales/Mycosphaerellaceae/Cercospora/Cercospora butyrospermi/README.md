@@ -1,5 +1,4 @@
-Cercospora butyrospermi Hansf. SPECIES
-=======
+# Cercospora butyrospermi Hansf. SPECIES
 
 #### Status
 ACCEPTED

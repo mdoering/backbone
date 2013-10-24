@@ -1,8 +1,7 @@
-Chroodiscus asteliae Kantvilas & Vezda SPECIES
-=======
+# Chapsa asteliae (Kantvilas & Vezda) Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

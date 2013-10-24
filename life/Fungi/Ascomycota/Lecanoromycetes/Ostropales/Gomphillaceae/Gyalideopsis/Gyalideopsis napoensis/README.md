@@ -1,5 +1,4 @@
-Gyalideopsis napoensis Kalb & Vezda SPECIES
-=======
+# Gyalideopsis napoensis Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

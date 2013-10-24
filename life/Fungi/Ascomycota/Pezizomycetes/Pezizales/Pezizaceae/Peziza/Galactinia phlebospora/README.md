@@ -1,5 +1,4 @@
-Galactinia phlebospora Le Gal SPECIES
-=======
+# Galactinia phlebospora Le Gal SPECIES
 
 #### Status
 ACCEPTED

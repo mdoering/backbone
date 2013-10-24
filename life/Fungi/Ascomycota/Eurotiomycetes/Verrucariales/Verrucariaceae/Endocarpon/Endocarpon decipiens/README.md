@@ -1,5 +1,4 @@
-Endocarpon decipiens A. Massal. SPECIES
-=======
+# Endocarpon decipiens A. Massal. SPECIES
 
 #### Status
 ACCEPTED

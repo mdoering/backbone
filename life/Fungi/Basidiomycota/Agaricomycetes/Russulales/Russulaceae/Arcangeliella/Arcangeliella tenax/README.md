@@ -1,5 +1,4 @@
-Arcangeliella tenax A.H. Sm. & Wiebe {?} SPECIES
-=======
+# Arcangeliella tenax A.H. Sm. & Wiebe {?} SPECIES
 
 #### Status
 ACCEPTED

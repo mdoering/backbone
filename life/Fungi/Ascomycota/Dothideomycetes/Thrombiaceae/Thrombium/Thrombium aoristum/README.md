@@ -1,5 +1,4 @@
-Thrombium aoristum (Nyl.) Arnold SPECIES
-=======
+# Thrombium aoristum (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

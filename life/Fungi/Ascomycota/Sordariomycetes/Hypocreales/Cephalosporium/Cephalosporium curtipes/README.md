@@ -1,5 +1,4 @@
-Cephalosporium curtipes Sacc. SPECIES
-=======
+# Cephalosporium curtipes Sacc. SPECIES
 
 #### Status
 ACCEPTED

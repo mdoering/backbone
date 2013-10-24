@@ -1,5 +1,4 @@
-Hymenogaster microsporus Berk. SPECIES
-=======
+# Hymenogaster microsporus Berk. SPECIES
 
 #### Status
 ACCEPTED

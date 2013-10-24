@@ -1,5 +1,4 @@
-Kabatia fragariae Solheim SPECIES
-=======
+# Kabatia fragariae Solheim SPECIES
 
 #### Status
 ACCEPTED

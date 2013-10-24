@@ -1,5 +1,4 @@
-Acanthothecomyces pachygraphoidis Cif. & Tomas. SPECIES
-=======
+# Acanthothecomyces pachygraphoidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

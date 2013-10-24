@@ -1,5 +1,4 @@
-Lecanora subglabrata Werner SPECIES
-=======
+# Lecanora subglabrata Werner SPECIES
 
 #### Status
 ACCEPTED

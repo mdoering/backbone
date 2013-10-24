@@ -1,5 +1,4 @@
-Laestadia jasmini Petch SPECIES
-=======
+# Laestadia jasmini Petch SPECIES
 
 #### Status
 ACCEPTED

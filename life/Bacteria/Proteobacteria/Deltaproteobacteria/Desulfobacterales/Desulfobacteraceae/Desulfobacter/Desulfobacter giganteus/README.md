@@ -1,5 +1,4 @@
-Desulfobacter giganteus SPECIES
-=======
+# Desulfobacter giganteus SPECIES
 
 #### Status
 ACCEPTED

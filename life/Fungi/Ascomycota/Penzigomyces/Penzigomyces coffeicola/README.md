@@ -1,5 +1,4 @@
-Penzigomyces coffeicola (M.B. Ellis) Subram. SPECIES
-=======
+# Penzigomyces coffeicola (M.B. Ellis) Subram. SPECIES
 
 #### Status
 ACCEPTED

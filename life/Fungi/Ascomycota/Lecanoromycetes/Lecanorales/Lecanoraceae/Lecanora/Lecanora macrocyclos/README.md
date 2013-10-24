@@ -1,5 +1,4 @@
-Lecanora macrocyclos (H. Magn.) Degel. SPECIES
-=======
+# Lecanora macrocyclos (H. Magn.) Degel. SPECIES
 
 #### Status
 ACCEPTED

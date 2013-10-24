@@ -1,5 +1,4 @@
-Ophiognomonia padi Jaap SPECIES
-=======
+# Ophiognomonia padi Jaap SPECIES
 
 #### Status
 ACCEPTED

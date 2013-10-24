@@ -1,5 +1,4 @@
-Calloria lithospermi (Ellis & Everh.) Seaver SPECIES
-=======
+# Calloria lithospermi (Ellis & Everh.) Seaver SPECIES
 
 #### Status
 ACCEPTED

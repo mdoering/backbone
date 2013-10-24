@@ -1,5 +1,4 @@
-Lampriscus kittonii A. Schmidt SPECIES
-=======
+# Lampriscus kittonii A. Schmidt SPECIES
 
 #### Status
 ACCEPTED

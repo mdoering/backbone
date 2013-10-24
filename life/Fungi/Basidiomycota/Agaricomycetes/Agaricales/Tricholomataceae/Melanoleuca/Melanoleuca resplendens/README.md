@@ -1,5 +1,4 @@
-Melanoleuca resplendens (Fr.) Murrill SPECIES
-=======
+# Melanoleuca resplendens (Fr.) Murrill SPECIES
 
 #### Status
 ACCEPTED

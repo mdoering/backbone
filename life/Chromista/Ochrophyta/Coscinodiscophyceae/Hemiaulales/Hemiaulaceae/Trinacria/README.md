@@ -1,5 +1,4 @@
-Trinacria Heiberg, 1863 GENUS
-=======
+# Trinacria Heiberg, 1863 GENUS
 
 #### Status
 ACCEPTED

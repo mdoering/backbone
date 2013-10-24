@@ -1,5 +1,4 @@
-Azpeitia biannulata P. A. Sims SPECIES
-=======
+# Azpeitia biannulata P. A. Sims SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Infundibulicybe glareosa (Röllin & Monthoux) Harmaja SPECIES
-=======
+# Infundibulicybe glareosa (Röllin & Monthoux) Harmaja SPECIES
 
 #### Status
 ACCEPTED

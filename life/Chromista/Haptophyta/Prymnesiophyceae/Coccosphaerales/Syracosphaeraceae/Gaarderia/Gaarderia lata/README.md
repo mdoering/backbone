@@ -1,5 +1,4 @@
-Gaarderia lata Carbonell-Moore, 1994 SPECIES
-=======
+# Gaarderia lata Carbonell-Moore, 1994 SPECIES
 
 #### Status
 ACCEPTED

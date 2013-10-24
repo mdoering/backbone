@@ -1,14 +1,13 @@
-Calyptrotricha GENUS
-=======
+# Calyptotricha Phillips, 1882 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+J. Linn. Soc. London, Zool. , 16, 476.
 
 #### Original name
 null

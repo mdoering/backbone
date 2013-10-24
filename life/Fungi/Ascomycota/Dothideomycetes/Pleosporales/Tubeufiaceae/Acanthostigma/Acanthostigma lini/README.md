@@ -1,5 +1,4 @@
-Acanthostigma lini Gucevic SPECIES
-=======
+# Acanthostigma lini Gucevic SPECIES
 
 #### Status
 ACCEPTED

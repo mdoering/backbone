@@ -1,5 +1,4 @@
-Ganoderma limushanese Zhao & Zhang, 1986 SPECIES
-=======
+# Ganoderma limushanese Zhao & Zhang, 1986 SPECIES
 
 #### Status
 ACCEPTED

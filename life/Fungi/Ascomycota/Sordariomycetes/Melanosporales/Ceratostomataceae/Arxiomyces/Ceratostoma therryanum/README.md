@@ -1,5 +1,4 @@
-Ceratostoma therryanum Ravenel & Sacc. SPECIES
-=======
+# Ceratostoma therryanum Ravenel & Sacc. SPECIES
 
 #### Status
 ACCEPTED

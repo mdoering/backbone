@@ -1,5 +1,4 @@
-Agaricus jugis Fr. SPECIES
-=======
+# Agaricus jugis Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma squalidellum (Peck) Sacc. SPECIES
-=======
+# Hypholoma squalidellum (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

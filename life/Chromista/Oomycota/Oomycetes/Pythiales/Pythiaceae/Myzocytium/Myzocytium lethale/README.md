@@ -1,5 +1,4 @@
-Myzocytium lethale (Sorokin) Cejp SPECIES
-=======
+# Myzocytium lethale (Sorokin) Cejp SPECIES
 
 #### Status
 ACCEPTED

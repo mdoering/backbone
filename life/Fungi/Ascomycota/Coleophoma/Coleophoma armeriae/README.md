@@ -1,5 +1,4 @@
-Coleophoma armeriae (Allesch.) Aa SPECIES
-=======
+# Coleophoma armeriae (Allesch.) Aa SPECIES
 
 #### Status
 ACCEPTED

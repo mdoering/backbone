@@ -1,5 +1,4 @@
-Lecanora polytropa var. polytropa VARIETY
-=======
+# Lecanora polytropa (Ehrh.) Rabenh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Deutschl. Krypt. -Fl. (Leipzig) 37 (1845)
+Deutschl. Krypt. -Fl. (Leipzig) 2: 37 (1845)
 
 #### Original name
-Lecanora polytropa var. polytropa
+Verrucaria polytropa Ehrh.
 
 ### Remarks
 null

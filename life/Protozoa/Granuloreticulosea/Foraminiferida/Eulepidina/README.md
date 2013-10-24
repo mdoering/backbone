@@ -1,5 +1,4 @@
-Eulepidina Douvillé, 1911 GENUS
-=======
+# Eulepidina Douvillé, 1911 GENUS
 
 #### Status
 ACCEPTED

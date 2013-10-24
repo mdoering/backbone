@@ -1,5 +1,4 @@
-Inocybe glutinosa P. Karst. SPECIES
-=======
+# Inocybe glutinosa P. Karst. SPECIES
 
 #### Status
 ACCEPTED

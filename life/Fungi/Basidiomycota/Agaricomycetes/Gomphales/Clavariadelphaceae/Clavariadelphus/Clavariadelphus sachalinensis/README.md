@@ -1,14 +1,13 @@
-Clavaria sachalinensis S. Imai, 1930 SPECIES
-=======
+# Clavariadelphus sachalinensis (S. Imai) Corner, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Sapporo nat. Hist. Soc. 11: 73 (1930)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 282 (1950)
 
 #### Original name
 Clavaria sachalinensis S. Imai, 1930

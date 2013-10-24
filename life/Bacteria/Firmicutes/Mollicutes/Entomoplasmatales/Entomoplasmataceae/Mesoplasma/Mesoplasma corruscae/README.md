@@ -1,5 +1,4 @@
-Mesoplasma corruscae Tully et al., 1994 SPECIES
-=======
+# Mesoplasma corruscae Tully et al., 1994 SPECIES
 
 #### Status
 ACCEPTED

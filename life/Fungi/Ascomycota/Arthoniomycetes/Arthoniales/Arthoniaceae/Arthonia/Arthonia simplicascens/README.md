@@ -1,5 +1,4 @@
-Arthonia simplicascens Nyl. SPECIES
-=======
+# Arthonia simplicascens Nyl. SPECIES
 
 #### Status
 ACCEPTED

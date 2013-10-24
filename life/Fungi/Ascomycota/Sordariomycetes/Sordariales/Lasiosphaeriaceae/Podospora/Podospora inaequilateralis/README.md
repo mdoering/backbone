@@ -1,5 +1,4 @@
-Podospora inaequilateralis (Cain) Cain SPECIES
-=======
+# Podospora inaequilateralis (Cain) Cain SPECIES
 
 #### Status
 ACCEPTED

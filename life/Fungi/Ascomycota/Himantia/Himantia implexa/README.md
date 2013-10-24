@@ -1,5 +1,4 @@
-Himantia implexa Pers. SPECIES
-=======
+# Himantia implexa Pers. SPECIES
 
 #### Status
 ACCEPTED

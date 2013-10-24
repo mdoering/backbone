@@ -1,5 +1,4 @@
-Euplotes rariseta Curds, West & Dorahy, 1974 SPECIES
-=======
+# Euplotes rariseta Curds, West & Dorahy, 1974 SPECIES
 
 #### Status
 ACCEPTED

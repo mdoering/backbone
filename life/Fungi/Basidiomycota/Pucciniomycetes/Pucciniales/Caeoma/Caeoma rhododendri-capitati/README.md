@@ -1,5 +1,4 @@
-Caeoma rhododendri-capitati (Z.M. Cao & Z.Qi Li) P.E. Crane SPECIES
-=======
+# Caeoma rhododendri-capitati (Z.M. Cao & Z.Qi Li) P.E. Crane SPECIES
 
 #### Status
 ACCEPTED

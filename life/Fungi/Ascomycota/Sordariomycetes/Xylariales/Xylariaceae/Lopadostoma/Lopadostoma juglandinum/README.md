@@ -1,5 +1,4 @@
-Lopadostoma juglandinum var. juglandinum VARIETY
-=======
+# Lopadostoma juglandinum (Rehm) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 22: 374 (1913)
 
 #### Original name
-Lopadostoma juglandinum var. juglandinum
+Anthostoma juglandinum Rehm
 
 ### Remarks
 null

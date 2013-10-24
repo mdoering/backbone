@@ -1,5 +1,4 @@
-Harknessia weresubiae Nag Raj, DiCosmo & W.B. Kendr. SPECIES
-=======
+# Harknessia weresubiae Nag Raj, DiCosmo & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

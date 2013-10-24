@@ -1,5 +1,4 @@
-Apherulina amicta SPECIES
-=======
+# Apherulina amicta SPECIES
 
 #### Status
 ACCEPTED

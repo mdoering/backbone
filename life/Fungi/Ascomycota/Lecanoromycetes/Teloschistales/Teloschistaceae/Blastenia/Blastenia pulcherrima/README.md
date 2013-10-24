@@ -1,14 +1,13 @@
-Caloplaca pulcherrima (Müll. Arg.) S.Y. Kondr. & Kärnefelt SPECIES
-=======
+# Blastenia pulcherrima Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Flora, Jena 71: 141 (1888)
 
 #### Original name
 Blastenia pulcherrima Müll. Arg.

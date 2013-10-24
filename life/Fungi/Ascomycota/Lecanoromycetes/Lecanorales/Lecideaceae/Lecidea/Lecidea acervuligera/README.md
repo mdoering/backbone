@@ -1,5 +1,4 @@
-Lecidea acervuligera Darb. SPECIES
-=======
+# Lecidea acervuligera Darb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Phialea constantini (Boud.) Sacc. SPECIES
-=======
+# Phialea constantinii (Boud.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

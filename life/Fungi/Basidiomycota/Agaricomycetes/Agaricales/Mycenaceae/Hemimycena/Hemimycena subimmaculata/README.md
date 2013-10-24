@@ -1,14 +1,13 @@
-Omphalopsis subimmaculata Murrill, 1916 SPECIES
-=======
+# Hemimycena subimmaculata (Murrill) Elborne & Laessøe, 1991 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Knudsen & Hansen, Nordic Jl Bot. 11(4): 478 (1991)
 
 #### Original name
 Omphalopsis subimmaculata Murrill, 1916

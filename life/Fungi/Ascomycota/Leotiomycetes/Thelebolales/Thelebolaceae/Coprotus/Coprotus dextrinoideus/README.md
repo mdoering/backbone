@@ -1,5 +1,4 @@
-Coprotus dextrinoideus Kimbr., Luck-Allen & Cain SPECIES
-=======
+# Coprotus dextrinoideus Kimbr., Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthocistidae FAMILY
-=======
+# Acanthocistidae FAMILY
 
 #### Status
 ACCEPTED

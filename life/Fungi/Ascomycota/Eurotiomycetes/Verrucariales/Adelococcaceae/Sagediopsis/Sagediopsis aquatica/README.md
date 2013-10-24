@@ -1,14 +1,13 @@
-Gongylia aquatica Stein SPECIES
-=======
+# Sagediopsis aquatica (Stein) Triebel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Jber. schles. Ges. vaterl. Kultur 50: 172 (1873)
+Biblthca Lichenol. 35: 112 (1989)
 
 #### Original name
 Gongylia aquatica Stein

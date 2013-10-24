@@ -1,5 +1,4 @@
-Cortinarius fistularis Britzelm. SPECIES
-=======
+# Cortinarius fistularis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

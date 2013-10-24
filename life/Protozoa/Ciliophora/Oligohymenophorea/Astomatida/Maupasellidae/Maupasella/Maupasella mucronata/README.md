@@ -1,5 +1,4 @@
-Maupasella mucronata (Cépède, 1910) Puytorac, 1954 SPECIES
-=======
+# Maupasella mucronata (Cépède, 1910) Puytorac, 1954 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia ficariae (Schumach.) SPECIES
-=======
+# Puccinia ficariae (Schumach.) SPECIES
 
 #### Status
 ACCEPTED

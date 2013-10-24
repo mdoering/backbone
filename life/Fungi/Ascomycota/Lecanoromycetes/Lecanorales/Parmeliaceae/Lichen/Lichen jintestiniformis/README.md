@@ -1,5 +1,4 @@
-Lichen jintestiniformis Vill. SPECIES
-=======
+# Lichen jintestiniformis Vill. SPECIES
 
 #### Status
 ACCEPTED

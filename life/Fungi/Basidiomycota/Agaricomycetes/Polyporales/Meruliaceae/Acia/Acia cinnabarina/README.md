@@ -1,5 +1,4 @@
-Acia cinnabarina (Schwein.) P. Karst. SPECIES
-=======
+# Acia cinnabarina (Schwein.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

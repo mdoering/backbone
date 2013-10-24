@@ -1,5 +1,4 @@
-Dactylella fusariispora (Mekht.) K.Q. Zhang, Xing Z. Liu & L. Cao SPECIES
-=======
+# Dactylella fusariispora (Mekht.) K.Q. Zhang, Xing Z. Liu & L. Cao SPECIES
 
 #### Status
 ACCEPTED

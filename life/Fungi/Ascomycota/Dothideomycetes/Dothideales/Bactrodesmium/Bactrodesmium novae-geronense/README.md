@@ -1,17 +1,16 @@
-Bactrodesmium novageronensis R.F. Castañeda SPECIES
-=======
+# Bactrodesmium novae-geronense R.F. Castañeda SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Deuteromycotina de Cuba (La Habana), Hyphomycetes 2: 2 (1985)
 
 #### Original name
-Bactrodesmium novageronensis R.F. Castañeda
+Bactrodesmium novae-geronense R.F. Castañeda
 
 ### Remarks
 null

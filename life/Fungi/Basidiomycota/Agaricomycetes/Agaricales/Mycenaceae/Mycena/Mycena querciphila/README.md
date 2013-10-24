@@ -1,17 +1,16 @@
-Mycena quercophila Esteve-Rav. & M. Villarreal SPECIES
-=======
+# Mycena querciphila Esteve-Rav. & M. Villarreal SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Öst. Z. Pilzk. 6: 67 (1997)
 
 #### Original name
-Mycena quercophila Esteve-Rav. & M. Villarreal
+Mycena querciphila Esteve-Rav. & M. Villarreal
 
 ### Remarks
 null

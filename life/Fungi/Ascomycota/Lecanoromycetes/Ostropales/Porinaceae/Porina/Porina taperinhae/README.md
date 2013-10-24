@@ -1,5 +1,4 @@
-Porina taperinhae Redinger SPECIES
-=======
+# Porina taperinhae Redinger SPECIES
 
 #### Status
 ACCEPTED

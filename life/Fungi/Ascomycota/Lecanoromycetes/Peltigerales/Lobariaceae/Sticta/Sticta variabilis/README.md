@@ -1,17 +1,16 @@
-Sticta variabilis var. cinerata Zahlbr. VARIETY
-=======
+# Sticta variabilis Ach. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Lich. univ. 455 (1810)
 
 #### Original name
-Sticta variabilis var. cinerata Zahlbr.
+Lichen variabilis Bory
 
 ### Remarks
 null

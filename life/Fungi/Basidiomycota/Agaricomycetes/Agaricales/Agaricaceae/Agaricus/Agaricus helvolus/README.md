@@ -1,5 +1,4 @@
-Agaricus helvolus J.F. Gmel. SPECIES
-=======
+# Agaricus helvolus J.F. Gmel. SPECIES
 
 #### Status
 ACCEPTED

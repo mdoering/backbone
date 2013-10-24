@@ -1,5 +1,4 @@
-Desmazieria cephalota (Tuck.) Follmann & Huneck SPECIES
-=======
+# Desmazieria cephalota (Tuck.) Follmann & Huneck SPECIES
 
 #### Status
 ACCEPTED

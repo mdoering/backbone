@@ -1,5 +1,4 @@
-Mazosia sorediifera Lücking & Matzer SPECIES
-=======
+# Mazosia sorediifera Lücking & Matzer SPECIES
 
 #### Status
 ACCEPTED

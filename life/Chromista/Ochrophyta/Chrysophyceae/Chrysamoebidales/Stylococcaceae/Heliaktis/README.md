@@ -1,5 +1,4 @@
-Heliaktis Pascher, 1940 GENUS
-=======
+# Heliaktis Pascher, 1940 GENUS
 
 #### Status
 SYNONYM

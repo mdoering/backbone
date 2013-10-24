@@ -1,5 +1,4 @@
-Arthonia subnebulosa Zahlbr. SPECIES
-=======
+# Arthonia subnebulosa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

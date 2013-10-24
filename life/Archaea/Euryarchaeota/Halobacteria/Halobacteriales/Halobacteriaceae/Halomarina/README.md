@@ -1,5 +1,4 @@
-Halomarina Inoue, Itoh, Ohkuma & Kogure, 2011 GENUS
-=======
+# Halomarina Inoue, Itoh, Ohkuma & Kogure, 2011 GENUS
 
 #### Status
 ACCEPTED

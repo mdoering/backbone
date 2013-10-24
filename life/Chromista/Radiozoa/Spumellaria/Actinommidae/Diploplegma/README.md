@@ -1,5 +1,4 @@
-Diploplegma Hinde, 1890 GENUS
-=======
+# Diploplegma Hinde, 1890 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanomphalia globulifera Singer, Ovrebo & D.P. Lewis SPECIES
-=======
+# Melanomphalia globulifera Singer, Ovrebo & D.P. Lewis SPECIES
 
 #### Status
 ACCEPTED

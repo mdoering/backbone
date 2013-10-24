@@ -1,5 +1,4 @@
-Lobaria ciliata SPECIES
-=======
+# Lobaria ciliata SPECIES
 
 #### Status
 ACCEPTED

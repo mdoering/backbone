@@ -1,5 +1,4 @@
-Lecidea teichiodes Stirt. SPECIES
-=======
+# Lecidea teichiodes Stirt. SPECIES
 
 #### Status
 ACCEPTED

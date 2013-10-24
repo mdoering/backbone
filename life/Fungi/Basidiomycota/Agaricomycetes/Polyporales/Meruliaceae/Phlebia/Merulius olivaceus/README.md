@@ -1,5 +1,4 @@
-Merulius olivaceus (Schwein.) Kuntze SPECIES
-=======
+# Merulius olivaceus (Schwein.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

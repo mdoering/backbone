@@ -1,5 +1,4 @@
-Phalloboletus undosus P. Micheli SPECIES
-=======
+# Phalloboletus undosus P. Micheli SPECIES
 
 #### Status
 ACCEPTED

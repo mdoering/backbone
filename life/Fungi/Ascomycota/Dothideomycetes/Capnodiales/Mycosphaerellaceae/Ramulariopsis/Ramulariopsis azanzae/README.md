@@ -1,5 +1,4 @@
-Ramulariopsis azanzae Deighton SPECIES
-=======
+# Ramulariopsis azanzae Deighton SPECIES
 
 #### Status
 ACCEPTED

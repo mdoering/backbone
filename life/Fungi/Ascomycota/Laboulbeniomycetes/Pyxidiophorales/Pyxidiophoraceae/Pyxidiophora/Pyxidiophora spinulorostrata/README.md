@@ -1,5 +1,4 @@
-Pyxidiophora spinulorostrata J. Webster & D. Hawksw., 1986 SPECIES
-=======
+# Pyxidiophora spinulorostrata J. Webster & D. Hawksw., 1986 SPECIES
 
 #### Status
 ACCEPTED

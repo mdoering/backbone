@@ -1,5 +1,4 @@
-Patellaria rosellina Müll. Arg. SPECIES
-=======
+# Patellaria rosellina Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

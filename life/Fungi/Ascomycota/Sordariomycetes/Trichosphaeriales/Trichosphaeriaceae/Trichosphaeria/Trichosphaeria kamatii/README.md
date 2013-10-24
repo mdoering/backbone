@@ -1,5 +1,4 @@
-Trichosphaeria kamatii A.S. Patil & V.G. Rao SPECIES
-=======
+# Trichosphaeria kamatii A.S. Patil & V.G. Rao SPECIES
 
 #### Status
 ACCEPTED

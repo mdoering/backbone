@@ -1,5 +1,4 @@
-Chaetothiersia B.A. Perry & Pfister GENUS
-=======
+# Chaetothiersia B.A. Perry & Pfister GENUS
 
 #### Status
 ACCEPTED

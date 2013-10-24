@@ -1,5 +1,4 @@
-Nectria missouriensis Ellis & Everh. SPECIES
-=======
+# Nectria missouriensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

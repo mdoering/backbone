@@ -1,5 +1,4 @@
-Ocellularia krathingensis Homchant. & Coppins SPECIES
-=======
+# Ocellularia krathingensis Homchant. & Coppins SPECIES
 
 #### Status
 ACCEPTED

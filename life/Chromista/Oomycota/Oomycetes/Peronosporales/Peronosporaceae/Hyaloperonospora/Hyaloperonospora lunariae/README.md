@@ -1,14 +1,13 @@
-Peronospora lunariae Gäum., 1918 SPECIES
-=======
+# Hyaloperonospora lunariae (Gäum.) Constant., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. bot. Zbl. , Abt. 1 35(1): 526 (1918)
+in Constantinescu & Fatehi, Nova Hedwigia 74(3-4): 319 (2002)
 
 #### Original name
 Peronospora lunariae Gäum., 1918

@@ -1,5 +1,4 @@
-Dimerosporium spartinae Ellis & Everh. SPECIES
-=======
+# Dimerosporium spartinae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

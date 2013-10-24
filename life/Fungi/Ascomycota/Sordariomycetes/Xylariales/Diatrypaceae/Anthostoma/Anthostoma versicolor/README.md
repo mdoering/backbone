@@ -1,5 +1,4 @@
-Anthostoma versicolor Starbäck SPECIES
-=======
+# Anthostoma versicolor Starbäck SPECIES
 
 #### Status
 ACCEPTED

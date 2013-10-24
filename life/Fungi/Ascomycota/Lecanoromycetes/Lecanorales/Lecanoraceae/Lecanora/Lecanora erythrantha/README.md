@@ -1,5 +1,4 @@
-Lecanora erythrantha Tuck. SPECIES
-=======
+# Lecanora erythrantha Tuck. SPECIES
 
 #### Status
 ACCEPTED

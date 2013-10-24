@@ -1,5 +1,4 @@
-Cymatiogalea jiangshanensis He Shengce & Yin Leiming, 1993 SPECIES
-=======
+# Cymatiogalea jiangshanensis He Shengce & Yin Leiming, 1993 SPECIES
 
 #### Status
 ACCEPTED

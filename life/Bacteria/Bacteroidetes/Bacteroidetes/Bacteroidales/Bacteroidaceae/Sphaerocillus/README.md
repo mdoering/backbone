@@ -1,5 +1,4 @@
-Sphaerocillus GENUS
-=======
+# Sphaerocillus GENUS
 
 #### Status
 ACCEPTED

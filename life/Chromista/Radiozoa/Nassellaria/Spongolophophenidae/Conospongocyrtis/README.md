@@ -1,5 +1,4 @@
-Conospongocyrtis Kozur & Mostler, 1994 GENUS
-=======
+# Conospongocyrtis Kozur & Mostler, 1994 GENUS
 
 #### Status
 ACCEPTED

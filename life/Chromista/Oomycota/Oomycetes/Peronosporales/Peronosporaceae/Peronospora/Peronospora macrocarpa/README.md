@@ -1,5 +1,4 @@
-Peronospora macrocarpa Corda SPECIES
-=======
+# Peronospora macrocarpa Corda SPECIES
 
 #### Status
 ACCEPTED

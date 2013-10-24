@@ -1,5 +1,4 @@
-Ectocarpus hornericola Noda SPECIES
-=======
+# Ectocarpus hornericola Noda SPECIES
 
 #### Status
 ACCEPTED

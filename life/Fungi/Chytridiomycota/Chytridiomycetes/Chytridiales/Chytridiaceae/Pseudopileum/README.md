@@ -1,5 +1,4 @@
-Pseudopileum Canter GENUS
-=======
+# Pseudopileum Canter GENUS
 
 #### Status
 ACCEPTED

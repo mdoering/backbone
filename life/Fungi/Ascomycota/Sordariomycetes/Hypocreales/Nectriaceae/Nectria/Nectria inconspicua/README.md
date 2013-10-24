@@ -1,5 +1,4 @@
-Nectria inconspicua Starbäck SPECIES
-=======
+# Nectria inconspicua Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Regiocrella P. Chaverri & K.T. Hodge GENUS
-=======
+# Regiocrella P. Chaverri & K.T. Hodge GENUS
 
 #### Status
 ACCEPTED

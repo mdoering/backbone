@@ -1,5 +1,4 @@
-Lepiota quintanaroensis Guzm.-Dáv. & Guzmán SPECIES
-=======
+# Lepiota quintanaroensis Guzm.-Dáv. & Guzmán SPECIES
 
 #### Status
 ACCEPTED

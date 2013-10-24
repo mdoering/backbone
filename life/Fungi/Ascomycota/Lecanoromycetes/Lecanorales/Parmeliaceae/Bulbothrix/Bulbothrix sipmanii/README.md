@@ -1,5 +1,4 @@
-Bulbothrix sipmanii Aptroot & Aubel SPECIES
-=======
+# Bulbothrix sipmanii Aptroot & Aubel SPECIES
 
 #### Status
 ACCEPTED

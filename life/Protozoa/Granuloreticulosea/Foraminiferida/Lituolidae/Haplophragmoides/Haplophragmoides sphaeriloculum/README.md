@@ -1,5 +1,4 @@
-Haplophragmoides sphaeriloculum SPECIES
-=======
+# Haplophragmoides sphaeriloculum SPECIES
 
 #### Status
 ACCEPTED

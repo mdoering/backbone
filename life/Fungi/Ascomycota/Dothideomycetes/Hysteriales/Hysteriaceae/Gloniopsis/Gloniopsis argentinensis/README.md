@@ -1,5 +1,4 @@
-Gloniopsis argentinensis Speg. SPECIES
-=======
+# Gloniopsis argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

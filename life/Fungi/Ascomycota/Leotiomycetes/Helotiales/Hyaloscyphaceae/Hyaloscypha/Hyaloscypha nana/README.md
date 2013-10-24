@@ -1,5 +1,4 @@
-Hyaloscypha nana (Sacc.) Boud. SPECIES
-=======
+# Hyaloscypha nana (Sacc.) Boud. SPECIES
 
 #### Status
 ACCEPTED

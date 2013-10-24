@@ -1,5 +1,4 @@
-Lepiota sulphopenita P.W. Graff SPECIES
-=======
+# Lepiota sulphopenita P.W. Graff SPECIES
 
 #### Status
 ACCEPTED

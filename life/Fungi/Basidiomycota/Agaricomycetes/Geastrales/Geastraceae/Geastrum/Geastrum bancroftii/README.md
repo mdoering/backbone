@@ -1,17 +1,16 @@
-Geaster bancroftii Ellis & Everh. SPECIES
-=======
+# Geastrum bancroftii Ellis & Everh. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the Inst. Jamaica 1: 220 (1893)
 
 #### Original name
-Geaster bancroftii Ellis & Everh.
+Geastrum bancroftii Ellis & Everh.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nigredo bouvardiae (Syd. & P. Syd.) Arthur SPECIES
-=======
+# Nigredo bouvardiae (Syd. & P. Syd.) Arthur SPECIES
 
 #### Status
 ACCEPTED

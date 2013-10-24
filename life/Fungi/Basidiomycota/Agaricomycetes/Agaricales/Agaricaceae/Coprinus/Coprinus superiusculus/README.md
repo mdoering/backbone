@@ -1,5 +1,4 @@
-Coprinus superiusculus Britzelm. SPECIES
-=======
+# Coprinus superiusculus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

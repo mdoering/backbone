@@ -1,17 +1,16 @@
-Polystictus occidentalis var. occidentalis VARIETY
-=======
+# Coriolopsis occidentalis (Klotzsch) Murrill, 1905 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 6: 274 (1888)
+Bull. Torrey bot. Club 32(7): 358 (1905)
 
 #### Original name
-Polystictus occidentalis var. occidentalis
+Polyporus occidentalis (Murrill) Sacc. & Trotter, 1912
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Guepiniopsis pedunculatus (Berk. & M.A. Curtis) Raitv. SPECIES
-=======
+# Guepiniopsis pedunculata (Berk. & M.A. Curtis) Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

@@ -1,5 +1,4 @@
-Strophariaceae Singer & A.H. Sm. FAMILY
-=======
+# Strophariaceae Singer & A.H. Sm. FAMILY
 
 #### Status
 ACCEPTED

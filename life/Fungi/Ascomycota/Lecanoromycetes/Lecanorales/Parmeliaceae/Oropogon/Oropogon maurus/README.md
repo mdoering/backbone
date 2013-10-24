@@ -1,5 +1,4 @@
-Oropogon maurus Essl. SPECIES
-=======
+# Oropogon maurus Essl. SPECIES
 
 #### Status
 ACCEPTED

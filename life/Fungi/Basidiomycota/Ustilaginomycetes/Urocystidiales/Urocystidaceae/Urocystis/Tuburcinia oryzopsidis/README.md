@@ -1,5 +1,4 @@
-Tuburcinia oryzopsidis (Padwick & Azmatullah) Cif. SPECIES
-=======
+# Tuburcinia oryzopsidis (Padwick & Azmatullah) Cif. SPECIES
 
 #### Status
 ACCEPTED

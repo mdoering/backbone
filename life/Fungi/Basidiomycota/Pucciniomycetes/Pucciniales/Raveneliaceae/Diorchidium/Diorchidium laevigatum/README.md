@@ -1,5 +1,4 @@
-Diorchidium laevigatum Syd., P. Syd. & E.J. Butler SPECIES
-=======
+# Diorchidium laevigatum Syd., P. Syd. & E.J. Butler SPECIES
 
 #### Status
 ACCEPTED

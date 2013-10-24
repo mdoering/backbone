@@ -1,17 +1,16 @@
-Macrosporium clavatum f. clavatum FORM
-=======
+# Macrosporium clavatum Bonord. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Macrosporium clavatum Bonord.
 
 ### Remarks
 null

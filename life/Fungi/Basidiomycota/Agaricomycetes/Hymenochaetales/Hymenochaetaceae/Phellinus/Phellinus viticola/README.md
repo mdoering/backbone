@@ -1,17 +1,16 @@
-Polyporus viticola var. viticola Schwein. VARIETY
-=======
+# Phellinus viticola (Schwein.) Donk, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 1: 115 (1828)
+Persoonia 4(3): 342 (1966)
 
 #### Original name
-Polyporus viticola var. viticola Schwein.
+Polyporus viticola Schwein., 1828
 
 ### Remarks
 null

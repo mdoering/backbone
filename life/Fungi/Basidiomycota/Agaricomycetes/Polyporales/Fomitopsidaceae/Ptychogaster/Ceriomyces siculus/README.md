@@ -1,5 +1,4 @@
-Ceriomyces siculus Cavara SPECIES
-=======
+# Ceriomyces siculus Cavara SPECIES
 
 #### Status
 ACCEPTED

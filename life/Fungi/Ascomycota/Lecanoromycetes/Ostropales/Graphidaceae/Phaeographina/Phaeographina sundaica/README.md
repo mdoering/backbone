@@ -1,5 +1,4 @@
-Phaeographina sundaica Zahlbr. SPECIES
-=======
+# Phaeographina sundaica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

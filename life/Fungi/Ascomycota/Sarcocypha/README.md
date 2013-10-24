@@ -1,5 +1,4 @@
-Sarcocypha GENUS
-=======
+# Sarcocypha GENUS
 
 #### Status
 ACCEPTED

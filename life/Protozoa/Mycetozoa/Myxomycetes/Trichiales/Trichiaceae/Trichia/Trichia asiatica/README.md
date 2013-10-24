@@ -1,5 +1,4 @@
-Trichia asiatica Skvortsov SPECIES
-=======
+# Trichia asiatica Skvortsov SPECIES
 
 #### Status
 ACCEPTED

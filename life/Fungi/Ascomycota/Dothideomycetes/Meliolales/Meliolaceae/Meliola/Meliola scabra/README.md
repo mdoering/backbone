@@ -1,5 +1,4 @@
-Meliola scabra Doidge SPECIES
-=======
+# Meliola scabra Doidge SPECIES
 
 #### Status
 ACCEPTED

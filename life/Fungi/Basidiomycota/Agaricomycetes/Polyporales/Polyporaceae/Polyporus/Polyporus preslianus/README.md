@@ -1,5 +1,4 @@
-Polyporus preslianus Velen. SPECIES
-=======
+# Polyporus preslianus Velen. SPECIES
 
 #### Status
 ACCEPTED

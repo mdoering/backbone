@@ -1,5 +1,4 @@
-Parmotrema sorediosulphuratum Eliasaro & Donha SPECIES
-=======
+# Parmotrema sorediosulphuratum Eliasaro & Donha SPECIES
 
 #### Status
 ACCEPTED

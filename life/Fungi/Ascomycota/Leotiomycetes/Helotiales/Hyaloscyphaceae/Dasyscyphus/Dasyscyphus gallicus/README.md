@@ -1,8 +1,7 @@
-Dasyscypha gallicus (P. Karst. & Har.) Sacc. SPECIES
-=======
+# Dasyscyphus gallicus (P. Karst. & Har.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

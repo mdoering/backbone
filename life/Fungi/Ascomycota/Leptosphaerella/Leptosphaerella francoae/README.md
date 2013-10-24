@@ -1,5 +1,4 @@
-Leptosphaerella francoae Speg. SPECIES
-=======
+# Leptosphaerella francoae Speg. SPECIES
 
 #### Status
 ACCEPTED

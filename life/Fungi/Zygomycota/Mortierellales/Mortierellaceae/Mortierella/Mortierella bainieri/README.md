@@ -1,17 +1,16 @@
-Mortierella bainieri var. bainieri Costantin VARIETY
-=======
+# Mortierella bainieri Costantin, 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. mycol. Fr. 4: 152 (1889)
 
 #### Original name
-Mortierella bainieri var. bainieri Costantin
+Mortierella bainieri Costantin, 1889
 
 ### Remarks
 null

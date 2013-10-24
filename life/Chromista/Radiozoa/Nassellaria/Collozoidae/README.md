@@ -1,5 +1,4 @@
-Collozoidae Haeckel, 1862 FAMILY
-=======
+# Collozoidae Haeckel, 1862 FAMILY
 
 #### Status
 ACCEPTED

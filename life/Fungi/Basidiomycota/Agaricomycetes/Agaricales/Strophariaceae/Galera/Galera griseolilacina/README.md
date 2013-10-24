@@ -1,5 +1,4 @@
-Galera griseolilacina Herp. SPECIES
-=======
+# Galera griseolilacina Herp. SPECIES
 
 #### Status
 ACCEPTED

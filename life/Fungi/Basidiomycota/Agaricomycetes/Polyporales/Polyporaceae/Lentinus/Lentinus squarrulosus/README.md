@@ -1,5 +1,4 @@
-Lentinus squarrulosus SPECIES
-=======
+# Lentinus squarrulosus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycovellosiella hariotii (Speg.) Deighton SPECIES
-=======
+# Mycovellosiella hariotii (Speg.) Deighton SPECIES
 
 #### Status
 ACCEPTED

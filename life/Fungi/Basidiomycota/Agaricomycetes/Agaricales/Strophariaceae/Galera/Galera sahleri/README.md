@@ -1,5 +1,4 @@
-Galera sahleri Quél. SPECIES
-=======
+# Galera sahleri Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus turfosus var. turfosus VARIETY
-=======
+# Agaricus turfosus Schumach. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Col. fig. Engl. Fung. Mushr. (London) 2: pl. 210 (1799)
+Enum. pl. (Kjbenhavn) 2: 305 (1803)
 
 #### Original name
-Agaricus turfosus var. turfosus
+Agaricus turfosus Schumach.
 
 ### Remarks
 null

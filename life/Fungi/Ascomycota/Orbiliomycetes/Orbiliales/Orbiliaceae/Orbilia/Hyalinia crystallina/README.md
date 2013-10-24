@@ -1,5 +1,4 @@
-Hyalinia crystallina (Quél.) Boud. SPECIES
-=======
+# Hyalinia crystallina (Quél.) Boud. SPECIES
 
 #### Status
 ACCEPTED

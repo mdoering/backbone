@@ -1,5 +1,4 @@
-Gloeosporium fusarioides Ellis & Kellerm. SPECIES
-=======
+# Gloeosporium fusarioides Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

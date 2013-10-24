@@ -1,5 +1,4 @@
-Lecidea andesita Nyl. SPECIES
-=======
+# Lecidea andesita Nyl. SPECIES
 
 #### Status
 ACCEPTED

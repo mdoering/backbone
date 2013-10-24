@@ -1,5 +1,4 @@
-Agarico-carnis malum Paulet SPECIES
-=======
+# Agarico-carnis malum Paulet SPECIES
 
 #### Status
 ACCEPTED

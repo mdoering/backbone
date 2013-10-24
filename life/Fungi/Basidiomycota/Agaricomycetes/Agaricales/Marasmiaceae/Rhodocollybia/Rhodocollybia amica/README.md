@@ -1,5 +1,4 @@
-Rhodocollybia amica J.L. Mata & Halling SPECIES
-=======
+# Rhodocollybia amica J.L. Mata & Halling SPECIES
 
 #### Status
 ACCEPTED

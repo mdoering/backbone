@@ -1,5 +1,4 @@
-Asterolibertia megathyria var. megathyria VARIETY
-=======
+# Asterolibertia megathyria (Doidge) Doidge SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bothalia 4: 314 (1942)
 
 #### Original name
-Asterolibertia megathyria var. megathyria
+Asterina gibbosa var. megathyria Doidge
 
 ### Remarks
 null

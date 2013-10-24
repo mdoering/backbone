@@ -1,5 +1,4 @@
-Multicellaesporites pandus Sheffy & Dilcher SPECIES
-=======
+# Multicellaesporites pandus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

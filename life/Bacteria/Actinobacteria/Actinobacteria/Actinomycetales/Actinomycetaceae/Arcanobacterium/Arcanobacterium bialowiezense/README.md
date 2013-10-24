@@ -1,5 +1,4 @@
-Arcanobacterium bialowiezense Lehnen et al., 2006 SPECIES
-=======
+# Arcanobacterium bialowiezense Lehnen et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

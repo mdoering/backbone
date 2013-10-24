@@ -1,5 +1,4 @@
-Macrophoma ranunculi J.V. Almeida & Sousa da Câmara SPECIES
-=======
+# Macrophoma ranunculi J.V. Almeida & Sousa da Câmara SPECIES
 
 #### Status
 ACCEPTED

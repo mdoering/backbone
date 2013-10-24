@@ -1,5 +1,4 @@
-Rhizoctonia silvestris Melin, 1923 SPECIES
-=======
+# Rhizoctonia silvestris Melin, 1923 SPECIES
 
 #### Status
 ACCEPTED

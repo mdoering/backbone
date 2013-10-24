@@ -1,5 +1,4 @@
-Chlorosplenium hypochlorum (Berk. & Cooke ex W. Phillips) J.R. Dixon SPECIES
-=======
+# Chlorosplenium hypochlorum (Berk. & Cooke ex W. Phillips) J.R. Dixon SPECIES
 
 #### Status
 ACCEPTED

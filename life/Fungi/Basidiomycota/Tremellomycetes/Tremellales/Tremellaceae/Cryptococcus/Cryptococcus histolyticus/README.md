@@ -1,5 +1,4 @@
-Cryptococcus histolyticus (J.L. Stoddart & Cutler) Castell. SPECIES
-=======
+# Cryptococcus histolyticus (J.L. Stoddart & Cutler) Castell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xanthoparmelia laciniata Hale SPECIES
-=======
+# Xanthoparmelia laciniata Hale SPECIES
 
 #### Status
 ACCEPTED

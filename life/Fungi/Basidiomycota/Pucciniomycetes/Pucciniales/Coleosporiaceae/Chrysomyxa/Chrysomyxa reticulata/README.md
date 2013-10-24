@@ -1,5 +1,4 @@
-Chrysomyxa reticulata P.E. Crane, 2001 SPECIES
-=======
+# Chrysomyxa reticulata P.E. Crane, 2001 SPECIES
 
 #### Status
 ACCEPTED

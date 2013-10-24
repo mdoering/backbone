@@ -1,5 +1,4 @@
-Amerosporium vagans Höhn. SPECIES
-=======
+# Amerosporium vagans Höhn. SPECIES
 
 #### Status
 ACCEPTED

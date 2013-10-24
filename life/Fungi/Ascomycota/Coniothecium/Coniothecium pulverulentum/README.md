@@ -1,5 +1,4 @@
-Coniothecium pulverulentum P. Karst. SPECIES
-=======
+# Coniothecium pulverulentum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

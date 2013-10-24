@@ -1,5 +1,4 @@
-Lecanora archaea SPECIES
-=======
+# Lecanora archaea SPECIES
 
 #### Status
 ACCEPTED

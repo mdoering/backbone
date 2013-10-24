@@ -1,5 +1,4 @@
-Phacus gracilis Pochmann SPECIES
-=======
+# Phacus gracilis Pochmann SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocenomyce sierrae Timdal SPECIES
-=======
+# Hypocenomyce sierrae Timdal SPECIES
 
 #### Status
 ACCEPTED

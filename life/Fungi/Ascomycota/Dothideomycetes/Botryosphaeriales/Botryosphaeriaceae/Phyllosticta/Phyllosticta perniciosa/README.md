@@ -1,5 +1,4 @@
-Phyllosticta perniciosa Kabát & Bubák SPECIES
-=======
+# Phyllosticta perniciosa Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

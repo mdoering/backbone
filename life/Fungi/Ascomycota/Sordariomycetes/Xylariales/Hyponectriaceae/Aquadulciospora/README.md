@@ -1,5 +1,4 @@
-Aquadulciospora Fallah & Shearer GENUS
-=======
+# Aquadulciospora Fallah & Shearer GENUS
 
 #### Status
 ACCEPTED

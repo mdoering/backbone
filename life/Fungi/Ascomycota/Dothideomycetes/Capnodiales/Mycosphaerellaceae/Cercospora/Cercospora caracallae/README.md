@@ -1,5 +1,4 @@
-Cercospora caracallae (Speg.) H.C. Greene SPECIES
-=======
+# Cercospora caracallae (Speg.) H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

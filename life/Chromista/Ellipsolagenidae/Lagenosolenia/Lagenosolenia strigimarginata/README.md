@@ -1,5 +1,4 @@
-Lagenosolenia strigimarginata Loeblich & Tappan, 1994 SPECIES
-=======
+# Lagenosolenia strigimarginata Loeblich & Tappan, 1994 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus perscrutatus Britzelm. SPECIES
-=======
+# Agaricus perscrutatus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

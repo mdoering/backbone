@@ -1,5 +1,4 @@
-Peziza utriculus Berk. SPECIES
-=======
+# Peziza utriculus Berk. SPECIES
 
 #### Status
 ACCEPTED

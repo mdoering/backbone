@@ -1,5 +1,4 @@
-Rhizomorpha corticata Fr. SPECIES
-=======
+# Rhizomorpha corticata Fr. SPECIES
 
 #### Status
 ACCEPTED

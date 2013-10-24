@@ -1,5 +1,4 @@
-Wrangellium Pessagno & Whalen, 1982 GENUS
-=======
+# Wrangellium Pessagno & Whalen, 1982 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus pyrrocephalus J. Otto SPECIES
-=======
+# Agaricus pyrrocephalus J. Otto SPECIES
 
 #### Status
 ACCEPTED

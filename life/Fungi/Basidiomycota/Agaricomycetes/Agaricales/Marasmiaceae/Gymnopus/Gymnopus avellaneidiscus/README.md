@@ -1,5 +1,4 @@
-Gymnopus avellaneidiscus Murrill SPECIES
-=======
+# Gymnopus avellaneidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

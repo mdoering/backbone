@@ -1,5 +1,4 @@
-Schizonella intercedens Vánky & A. Nagler, 1998 SPECIES
-=======
+# Schizonella intercedens Vánky & A. Nagler, 1998 SPECIES
 
 #### Status
 ACCEPTED

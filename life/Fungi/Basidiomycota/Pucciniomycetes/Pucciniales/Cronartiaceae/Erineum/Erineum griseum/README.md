@@ -1,5 +1,4 @@
-Erineum griseum Pers. SPECIES
-=======
+# Erineum griseum Pers. SPECIES
 
 #### Status
 ACCEPTED

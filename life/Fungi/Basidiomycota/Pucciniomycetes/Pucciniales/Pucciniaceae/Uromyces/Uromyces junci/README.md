@@ -1,14 +1,13 @@
-Caeomurus junci (Tul. & C. Tul.) Kuntze, 1898 SPECIES
-=======
+# Uromyces junci Tul. & C. Tul., 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 450 (1898)
+Annls Sci. Nat. , Bot. , sér. 4 2: 146 (1854)
 
 #### Original name
 Puccinia junci (F. Strauss) G. Winter, 1880

@@ -1,5 +1,4 @@
-Cyathus sinensis Imazeki SPECIES
-=======
+# Cyathus sinensis Imazeki SPECIES
 
 #### Status
 ACCEPTED

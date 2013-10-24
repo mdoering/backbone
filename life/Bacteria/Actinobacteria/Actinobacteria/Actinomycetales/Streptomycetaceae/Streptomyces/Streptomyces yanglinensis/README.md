@@ -1,5 +1,4 @@
-Streptomyces yanglinensis Xu et al., 2006 SPECIES
-=======
+# Streptomyces yanglinensis Xu et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Erinella variegata Pat. SPECIES
-=======
+# Erinella variegata Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea piperina Zahlbr. SPECIES
-=======
+# Lecidea piperina Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Campanella mexicana Guzmán & Guzm.-Dáv. SPECIES
-=======
+# Campanella mexicana Guzmán & Guzm.-Dáv. SPECIES
 
 #### Status
 ACCEPTED

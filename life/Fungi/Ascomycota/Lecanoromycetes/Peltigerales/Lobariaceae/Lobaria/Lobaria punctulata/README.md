@@ -1,5 +1,4 @@
-Lobaria punctulata (Nyl.) Kuntze SPECIES
-=======
+# Lobaria punctulata (Nyl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

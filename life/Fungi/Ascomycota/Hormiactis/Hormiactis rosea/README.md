@@ -1,5 +1,4 @@
-Hormiactis rosea Petch SPECIES
-=======
+# Hormiactis rosea Petch SPECIES
 
 #### Status
 ACCEPTED

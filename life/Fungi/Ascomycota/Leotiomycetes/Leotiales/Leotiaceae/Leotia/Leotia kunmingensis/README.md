@@ -1,5 +1,4 @@
-Leotia kunmingensis F.L. Tai SPECIES
-=======
+# Leotia kunmingensis F.L. Tai SPECIES
 
 #### Status
 ACCEPTED

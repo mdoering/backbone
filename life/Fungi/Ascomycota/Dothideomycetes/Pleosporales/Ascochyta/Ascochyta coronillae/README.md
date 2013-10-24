@@ -1,5 +1,4 @@
-Ascochyta coronillae M.I. Nikol. SPECIES
-=======
+# Ascochyta coronillae M.I. Nikol. SPECIES
 
 #### Status
 ACCEPTED

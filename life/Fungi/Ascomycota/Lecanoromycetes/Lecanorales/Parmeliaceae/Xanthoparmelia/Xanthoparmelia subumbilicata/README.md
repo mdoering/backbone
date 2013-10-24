@@ -1,5 +1,4 @@
-Xanthoparmelia subumbilicata Elix & U. Becker SPECIES
-=======
+# Xanthoparmelia subumbilicata Elix & U. Becker SPECIES
 
 #### Status
 ACCEPTED

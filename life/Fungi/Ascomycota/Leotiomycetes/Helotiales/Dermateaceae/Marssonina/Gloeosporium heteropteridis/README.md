@@ -1,5 +1,4 @@
-Gloeosporium heteropteridis Bond.-Mont. SPECIES
-=======
+# Gloeosporium heteropteridis Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

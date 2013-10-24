@@ -1,5 +1,4 @@
-Lichenostigma rugosa G. Thor SPECIES
-=======
+# Lichenostigma rugosa G. Thor SPECIES
 
 #### Status
 ACCEPTED

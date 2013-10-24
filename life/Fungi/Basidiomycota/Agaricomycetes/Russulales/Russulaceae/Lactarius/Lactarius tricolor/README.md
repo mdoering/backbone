@@ -1,5 +1,4 @@
-Lactarius tricolor Massee SPECIES
-=======
+# Lactarius tricolor Massee SPECIES
 
 #### Status
 ACCEPTED

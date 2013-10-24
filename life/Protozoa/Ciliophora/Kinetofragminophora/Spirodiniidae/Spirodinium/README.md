@@ -1,5 +1,4 @@
-Spirodinium Fiorentini, 1890 GENUS
-=======
+# Spirodinium Fiorentini, 1890 GENUS
 
 #### Status
 ACCEPTED

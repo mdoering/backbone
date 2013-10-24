@@ -1,5 +1,4 @@
-Enterococcus gilvus Tyrrell et al., 2002 SPECIES
-=======
+# Enterococcus gilvus Tyrrell et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

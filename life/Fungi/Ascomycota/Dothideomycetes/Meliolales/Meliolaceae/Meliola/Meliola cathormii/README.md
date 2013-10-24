@@ -1,14 +1,13 @@
-Meliola cathomionis (Hansf. & Deighton) Cif. SPECIES
-=======
+# Meliola cathormii (Hansf. & Deighton) Cif. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 7: 89 (1954)
 
 #### Original name
 Irenopsis cathormii Hansf. & Deighton

@@ -1,5 +1,4 @@
-Physcia fibrosa (Fr.) Nyl. SPECIES
-=======
+# Physcia fibrosa (Fr.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

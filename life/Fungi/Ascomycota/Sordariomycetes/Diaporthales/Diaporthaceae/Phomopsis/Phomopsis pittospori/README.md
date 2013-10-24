@@ -1,14 +1,13 @@
-Phomopsis archeri B. Sutton, 1980 SPECIES
-=======
+# Phomopsis pittospori S.A. Archer, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-The Coelomycetes (Kew) 571 (1980)
+Trans. Br. mycol. Soc. 61(2): 221 (1973)
 
 #### Original name
 Phomopsis pittospori S.A. Archer, 1973

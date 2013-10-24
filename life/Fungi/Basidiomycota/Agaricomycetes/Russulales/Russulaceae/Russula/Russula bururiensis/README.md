@@ -1,5 +1,4 @@
-Russula bururiensis Buyck SPECIES
-=======
+# Russula bururiensis Buyck SPECIES
 
 #### Status
 ACCEPTED

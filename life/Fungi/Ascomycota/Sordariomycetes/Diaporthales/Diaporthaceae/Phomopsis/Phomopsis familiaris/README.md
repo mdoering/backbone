@@ -1,5 +1,4 @@
-Phomopsis familiaris (Sacc.) Gutner SPECIES
-=======
+# Phomopsis familiaris (Sacc.) Gutner SPECIES
 
 #### Status
 ACCEPTED

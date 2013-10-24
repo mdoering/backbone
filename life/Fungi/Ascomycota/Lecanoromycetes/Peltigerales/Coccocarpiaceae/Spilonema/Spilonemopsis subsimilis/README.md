@@ -1,5 +1,4 @@
-Spilonemopsis subsimilis (Vain.) Vain. SPECIES
-=======
+# Spilonemopsis subsimilis (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

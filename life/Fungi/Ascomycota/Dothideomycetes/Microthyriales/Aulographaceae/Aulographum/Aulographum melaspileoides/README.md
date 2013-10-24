@@ -1,5 +1,4 @@
-Aulographum melaspileoides Rehm SPECIES
-=======
+# Aulographum melaspileoides Rehm SPECIES
 
 #### Status
 ACCEPTED

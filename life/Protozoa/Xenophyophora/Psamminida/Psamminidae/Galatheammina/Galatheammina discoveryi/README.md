@@ -1,5 +1,4 @@
-Galatheammina discoveryi Gooday & Tendal, 1988 SPECIES
-=======
+# Galatheammina discoveryi Gooday & Tendal, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotiopsis indica T.S. Ramakr. & Sriniv. SPECIES
-=======
+# Sclerotiopsis indica T.S. Ramakr. & Sriniv. SPECIES
 
 #### Status
 ACCEPTED

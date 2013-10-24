@@ -1,5 +1,4 @@
-Marasmius panelloides Corner SPECIES
-=======
+# Marasmius panelloides Corner SPECIES
 
 #### Status
 ACCEPTED

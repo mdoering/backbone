@@ -1,5 +1,4 @@
-Dichothrix penicillata Zanardini SPECIES
-=======
+# Dichothrix penicillata Zanardini SPECIES
 
 #### Status
 ACCEPTED

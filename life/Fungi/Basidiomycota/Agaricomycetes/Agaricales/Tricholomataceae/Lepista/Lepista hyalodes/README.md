@@ -1,5 +1,4 @@
-Lepista hyalodes (Berk. & Broome) Pegler SPECIES
-=======
+# Lepista hyalodes (Berk. & Broome) Pegler SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichenochora bellemerei Nav.-Ros., Cl. Roux & Diederich, 1998 SPECIES
-=======
+# Lichenochora bellemerei Nav.-Ros., Cl. Roux & Diederich, 1998 SPECIES
 
 #### Status
 ACCEPTED

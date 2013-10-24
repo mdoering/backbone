@@ -1,5 +1,4 @@
-Achaetomium variosporum Sultana, Malik & L.R. Batra SPECIES
-=======
+# Achaetomium variosporum Sultana, Malik & L.R. Batra SPECIES
 
 #### Status
 ACCEPTED

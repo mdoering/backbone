@@ -1,5 +1,4 @@
-Clitocybula paropsis Raithelh. SPECIES
-=======
+# Clitocybula paropsis Raithelh. SPECIES
 
 #### Status
 ACCEPTED

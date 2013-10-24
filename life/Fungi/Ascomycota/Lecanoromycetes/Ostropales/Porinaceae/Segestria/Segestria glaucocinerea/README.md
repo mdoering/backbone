@@ -1,5 +1,4 @@
-Segestria glaucocinerea (Nyl.) Blomb. & Forssel SPECIES
-=======
+# Segestria glaucocinerea (Nyl.) Blomb. & Forssel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenangium pezizoides Peck SPECIES
-=======
+# Cenangium pezizoides Peck SPECIES
 
 #### Status
 ACCEPTED

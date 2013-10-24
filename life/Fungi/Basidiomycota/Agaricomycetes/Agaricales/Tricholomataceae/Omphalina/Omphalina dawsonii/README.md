@@ -1,5 +1,4 @@
-Omphalina dawsonii Murrill SPECIES
-=======
+# Omphalina dawsonii Murrill SPECIES
 
 #### Status
 ACCEPTED

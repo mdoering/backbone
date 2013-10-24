@@ -1,5 +1,4 @@
-Darwiniella globulosa (Cooke & Massee) Sacc. SPECIES
-=======
+# Darwiniella globulosa (Cooke & Massee) Sacc. SPECIES
 
 #### Status
 ACCEPTED

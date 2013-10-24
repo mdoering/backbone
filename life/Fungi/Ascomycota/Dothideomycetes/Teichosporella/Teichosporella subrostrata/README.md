@@ -1,5 +1,4 @@
-Teichosporella subrostrata Teng SPECIES
-=======
+# Teichosporella subrostrata Teng SPECIES
 
 #### Status
 ACCEPTED

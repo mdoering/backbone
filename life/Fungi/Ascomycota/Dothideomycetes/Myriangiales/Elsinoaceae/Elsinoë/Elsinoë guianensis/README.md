@@ -1,5 +1,4 @@
-Elsinoë guianensis Bitanc. & Jenkins SPECIES
-=======
+# Elsinoë guianensis Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmotrema permaculatum (Hale) Kurok. SPECIES
-=======
+# Parmotrema permaculatum (Hale) Kurok. SPECIES
 
 #### Status
 ACCEPTED

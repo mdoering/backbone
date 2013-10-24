@@ -1,5 +1,4 @@
-Acrotheca caulium (Sacc.) Sacc. SPECIES
-=======
+# Acrotheca caulium (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

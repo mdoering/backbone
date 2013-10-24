@@ -1,5 +1,4 @@
-Omphalopsis serotina (Peck) Murrill SPECIES
-=======
+# Omphalopsis serotina (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

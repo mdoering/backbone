@@ -1,17 +1,16 @@
-Parmelia retrospinosa Kurok. & Kashiw. SPECIES
-=======
+# Relicina retrospinosa (Kurok. & Kashiw.) Streimann SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Biblthca Lichenol. 22: 115 (1986)
 
 #### Original name
-null
+Parmelia retrospinosa Kurok. & Kashiw.
 
 ### Remarks
 null

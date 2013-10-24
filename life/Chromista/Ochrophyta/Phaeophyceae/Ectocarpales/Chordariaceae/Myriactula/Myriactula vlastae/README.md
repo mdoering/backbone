@@ -1,5 +1,4 @@
-Myriactula vlastae Feldmann SPECIES
-=======
+# Myriactula vlastae Feldmann SPECIES
 
 #### Status
 ACCEPTED

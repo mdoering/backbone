@@ -1,5 +1,4 @@
-Mesophellia arenaria Berk., 1857 SPECIES
-=======
+# Mesophellia arenaria Berk., 1857 SPECIES
 
 #### Status
 ACCEPTED

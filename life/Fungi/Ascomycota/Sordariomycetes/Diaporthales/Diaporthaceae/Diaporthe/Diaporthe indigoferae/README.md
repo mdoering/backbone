@@ -1,5 +1,4 @@
-Diaporthe indigoferae E. Müll. & S. Ahmad SPECIES
-=======
+# Diaporthe indigoferae E. Müll. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

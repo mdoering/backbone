@@ -1,5 +1,4 @@
-Didymostilbe obovoidea Matsush. SPECIES
-=======
+# Didymostilbe obovoidea Matsush. SPECIES
 
 #### Status
 ACCEPTED

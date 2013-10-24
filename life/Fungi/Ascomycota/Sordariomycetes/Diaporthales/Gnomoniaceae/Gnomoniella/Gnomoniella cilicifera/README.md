@@ -1,5 +1,4 @@
-Gnomoniella cilicifera (Fr.) Starbäck SPECIES
-=======
+# Gnomoniella cilicifera (Fr.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

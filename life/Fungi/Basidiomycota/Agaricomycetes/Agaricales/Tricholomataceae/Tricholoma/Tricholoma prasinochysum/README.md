@@ -1,5 +1,4 @@
-Tricholoma prasinochysum Cetto SPECIES
-=======
+# Tricholoma prasinochysum Cetto SPECIES
 
 #### Status
 ACCEPTED

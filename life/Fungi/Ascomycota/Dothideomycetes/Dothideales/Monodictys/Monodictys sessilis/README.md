@@ -1,5 +1,4 @@
-Monodictys sessilis Hol.-Jech. SPECIES
-=======
+# Monodictys sessilis Hol.-Jech. SPECIES
 
 #### Status
 ACCEPTED

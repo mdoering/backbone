@@ -1,5 +1,4 @@
-Philocopra coprophila Bat. & Pontual SPECIES
-=======
+# Philocopra coprophila Bat. & Pontual SPECIES
 
 #### Status
 ACCEPTED

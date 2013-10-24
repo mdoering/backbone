@@ -1,5 +1,4 @@
-Sporisorium maranguense (Henn.) Vánky SPECIES
-=======
+# Sporisorium maranguense (Henn.) Vánky SPECIES
 
 #### Status
 ACCEPTED

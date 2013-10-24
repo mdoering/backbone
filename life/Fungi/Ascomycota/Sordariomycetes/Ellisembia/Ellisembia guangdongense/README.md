@@ -1,5 +1,4 @@
-Ellisembia guangdongense W.P. Wu SPECIES
-=======
+# Ellisembia guangdongense W.P. Wu SPECIES
 
 #### Status
 ACCEPTED

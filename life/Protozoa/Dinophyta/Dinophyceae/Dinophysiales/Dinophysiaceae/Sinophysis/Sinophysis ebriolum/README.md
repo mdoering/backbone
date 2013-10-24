@@ -1,8 +1,7 @@
-Phalacroma ebriolum Lebour SPECIES
-=======
+# Sinophysis ebriolum (E.C. Herdman) Balech SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

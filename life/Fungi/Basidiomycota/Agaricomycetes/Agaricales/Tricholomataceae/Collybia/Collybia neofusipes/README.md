@@ -1,5 +1,4 @@
-Collybia neofusipes Hongo SPECIES
-=======
+# Collybia neofusipes Hongo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Collybia admissa Britzelm. SPECIES
-=======
+# Collybia admissa Britzelm. SPECIES
 
 #### Status
 ACCEPTED

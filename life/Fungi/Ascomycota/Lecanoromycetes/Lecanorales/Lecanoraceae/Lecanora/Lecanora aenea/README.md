@@ -1,5 +1,4 @@
-Lecanora aenea (Dufour) SPECIES
-=======
+# Lecanora aenea (Dufour) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordosphaeridium funiculatum Morgenroth, 1966 SPECIES
-=======
+# Cordosphaeridium funiculatum Morgenroth, 1966 SPECIES
 
 #### Status
 ACCEPTED

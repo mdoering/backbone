@@ -1,5 +1,4 @@
-Didymella tupae Speg. SPECIES
-=======
+# Didymella tupae Speg. SPECIES
 
 #### Status
 ACCEPTED

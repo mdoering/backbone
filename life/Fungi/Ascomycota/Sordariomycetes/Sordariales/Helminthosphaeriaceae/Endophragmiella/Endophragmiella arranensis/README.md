@@ -1,5 +1,4 @@
-Endophragmiella arranensis P.M. Kirk, 1984 SPECIES
-=======
+# Endophragmiella arranensis P.M. Kirk, 1984 SPECIES
 
 #### Status
 ACCEPTED

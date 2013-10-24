@@ -1,5 +1,4 @@
-Inocybe exigua (Cleland) Grgur. SPECIES
-=======
+# Inocybe exigua (Cleland) Grgur. SPECIES
 
 #### Status
 ACCEPTED

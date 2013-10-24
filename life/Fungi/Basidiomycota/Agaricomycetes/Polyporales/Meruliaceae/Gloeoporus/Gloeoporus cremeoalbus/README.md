@@ -1,5 +1,4 @@
-Gloeoporus cremeoalbus Corner, 1989 SPECIES
-=======
+# Gloeoporus cremeoalbus Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xerocomus hemixanthus Singer SPECIES
-=======
+# Xerocomus hemixanthus Singer SPECIES
 
 #### Status
 ACCEPTED

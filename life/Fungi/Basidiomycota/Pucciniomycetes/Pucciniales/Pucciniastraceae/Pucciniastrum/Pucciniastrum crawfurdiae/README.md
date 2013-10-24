@@ -1,5 +1,4 @@
-Pucciniastrum crawfurdiae SPECIES
-=======
+# Pucciniastrum crawfurdiae SPECIES
 
 #### Status
 ACCEPTED

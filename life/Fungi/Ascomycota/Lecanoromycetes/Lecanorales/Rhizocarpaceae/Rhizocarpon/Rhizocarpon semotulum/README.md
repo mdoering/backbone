@@ -1,5 +1,4 @@
-Rhizocarpon semotulum (Nyl.) Zahlbr. SPECIES
-=======
+# Rhizocarpon semotulum (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

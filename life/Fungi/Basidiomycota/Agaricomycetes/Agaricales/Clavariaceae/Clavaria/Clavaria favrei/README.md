@@ -1,5 +1,4 @@
-Clavaria favrei (Quél.) Sacc. & Traverso SPECIES
-=======
+# Clavaria favrei (Quél.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

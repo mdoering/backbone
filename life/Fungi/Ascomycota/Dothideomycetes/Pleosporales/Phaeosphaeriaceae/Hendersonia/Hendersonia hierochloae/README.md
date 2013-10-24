@@ -1,5 +1,4 @@
-Hendersonia hierochloae (Speg.) Sacc. & Trotter SPECIES
-=======
+# Hendersonia hierochloae (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

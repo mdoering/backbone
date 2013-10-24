@@ -1,5 +1,4 @@
-Agaricus maluvium Battarra SPECIES
-=======
+# Agaricus maluvium Battarra SPECIES
 
 #### Status
 ACCEPTED

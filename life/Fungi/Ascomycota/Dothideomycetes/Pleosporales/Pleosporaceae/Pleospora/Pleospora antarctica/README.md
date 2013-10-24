@@ -1,5 +1,4 @@
-Pleospora antarctica Speg. SPECIES
-=======
+# Pleospora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

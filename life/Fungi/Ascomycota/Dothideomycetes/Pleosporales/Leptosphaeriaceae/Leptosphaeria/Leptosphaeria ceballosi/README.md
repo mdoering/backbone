@@ -1,5 +1,4 @@
-Leptosphaeria ceballosi Unamuno SPECIES
-=======
+# Leptosphaeria ceballosi Unamuno SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parrelloides Hofker, 1956 GENUS
-=======
+# Parrelloides Hofker, 1956 GENUS
 
 #### Status
 ACCEPTED

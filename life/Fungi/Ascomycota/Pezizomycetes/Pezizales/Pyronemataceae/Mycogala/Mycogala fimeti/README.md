@@ -1,5 +1,4 @@
-Mycogala fimeti Died. SPECIES
-=======
+# Mycogala fimeti Died. SPECIES
 
 #### Status
 ACCEPTED

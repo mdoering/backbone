@@ -1,5 +1,4 @@
-Haematommatomyces ventosi Cif. & Tomas. SPECIES
-=======
+# Haematommatomyces ventosi Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

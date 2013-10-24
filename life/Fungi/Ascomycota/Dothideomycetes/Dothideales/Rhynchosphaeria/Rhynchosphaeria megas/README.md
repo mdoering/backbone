@@ -1,5 +1,4 @@
-Rhynchosphaeria megas Rehm SPECIES
-=======
+# Rhynchosphaeria megas Rehm SPECIES
 
 #### Status
 ACCEPTED

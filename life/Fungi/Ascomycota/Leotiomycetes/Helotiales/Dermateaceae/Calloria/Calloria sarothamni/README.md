@@ -1,5 +1,4 @@
-Calloria sarothamni Fuckel SPECIES
-=======
+# Calloria sarothamni Fuckel SPECIES
 
 #### Status
 ACCEPTED

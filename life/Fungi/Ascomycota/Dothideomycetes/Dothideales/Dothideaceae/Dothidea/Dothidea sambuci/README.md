@@ -1,17 +1,16 @@
-Systremma natans var. natans VARIETY
-=======
+# Dothidea sambuci (Pers.) Fr., 1823 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 551 (1823)
 
 #### Original name
-Systremma natans var. natans
+Sphaeria sambuci Pers., 1801
 
 ### Remarks
 null

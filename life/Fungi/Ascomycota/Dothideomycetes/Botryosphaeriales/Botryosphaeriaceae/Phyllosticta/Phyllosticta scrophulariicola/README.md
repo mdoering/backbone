@@ -1,5 +1,4 @@
-Phyllosticta scrophulariicola Petr. SPECIES
-=======
+# Phyllosticta scrophulariicola Petr. SPECIES
 
 #### Status
 ACCEPTED

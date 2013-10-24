@@ -1,5 +1,4 @@
-Schizoxylon berkeleyanum subsp. berkeleyanum SUBSPECIES
-=======
+# Schizoxylon berkeleyanum (Durieu & Lév.) Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 23-24: 251 (1870)
 
 #### Original name
-Schizoxylon berkeleyanum subsp. berkeleyanum
+Stictis berkeleyanum Durieu & Lév.
 
 ### Remarks
 null

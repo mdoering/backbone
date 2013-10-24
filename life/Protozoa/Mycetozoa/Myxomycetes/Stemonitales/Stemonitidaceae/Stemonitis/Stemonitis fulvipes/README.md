@@ -1,5 +1,4 @@
-Stemonitis fulvipes Fr. SPECIES
-=======
+# Stemonitis fulvipes Fr. SPECIES
 
 #### Status
 ACCEPTED

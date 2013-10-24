@@ -1,5 +1,4 @@
-Gibberinula GENUS
-=======
+# Gibberinula GENUS
 
 #### Status
 ACCEPTED

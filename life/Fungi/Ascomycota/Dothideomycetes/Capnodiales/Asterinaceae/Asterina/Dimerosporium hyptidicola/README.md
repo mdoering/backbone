@@ -1,5 +1,4 @@
-Dimerosporium hyptidicola Henn. SPECIES
-=======
+# Dimerosporium hyptidicola Henn. SPECIES
 
 #### Status
 ACCEPTED

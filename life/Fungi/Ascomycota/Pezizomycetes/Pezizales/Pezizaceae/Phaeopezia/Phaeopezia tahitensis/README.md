@@ -1,5 +1,4 @@
-Phaeopezia tahitensis Pat. SPECIES
-=======
+# Phaeopezia tahitensis Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanographa subcalcarea (Müll. Arg.) Egea & Torrente SPECIES
-=======
+# Lecanographa subcalcarea (Müll. Arg.) Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

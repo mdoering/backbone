@@ -1,5 +1,4 @@
-Parmeliella grisea (Hue) Kurok. SPECIES
-=======
+# Parmeliella grisea (Hue) Kurok. SPECIES
 
 #### Status
 ACCEPTED

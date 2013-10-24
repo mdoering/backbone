@@ -1,5 +1,4 @@
-Pseudodiplodia zygophylli Syd., 1988 SPECIES
-=======
+# Pseudodiplodia zygophylli Syd., 1988 SPECIES
 
 #### Status
 ACCEPTED

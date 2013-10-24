@@ -1,5 +1,4 @@
-Trachytriletes eguisetiformis Kara-Murza, 1958 SPECIES
-=======
+# Trachytriletes eguisetiformis Kara-Murza, 1958 SPECIES
 
 #### Status
 ACCEPTED

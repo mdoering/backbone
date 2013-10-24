@@ -1,5 +1,4 @@
-Lactarius braunii Rick SPECIES
-=======
+# Lactarius braunii Rick SPECIES
 
 #### Status
 ACCEPTED

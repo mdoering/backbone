@@ -1,5 +1,4 @@
-Bacidia vegeta Vain. SPECIES
-=======
+# Bacidia vegeta Vain. SPECIES
 
 #### Status
 ACCEPTED

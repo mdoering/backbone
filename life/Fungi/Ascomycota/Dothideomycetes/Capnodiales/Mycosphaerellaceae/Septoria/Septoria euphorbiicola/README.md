@@ -1,17 +1,16 @@
-Septoria euphorbicola Hollós SPECIES
-=======
+# Septoria euphorbiicola Hollós SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annls hist. -nat. Mus. natn. hung. 8: 5 (1910)
 
 #### Original name
-Septoria euphorbicola Hollós
+Septoria euphorbiicola Hollós
 
 ### Remarks
 null

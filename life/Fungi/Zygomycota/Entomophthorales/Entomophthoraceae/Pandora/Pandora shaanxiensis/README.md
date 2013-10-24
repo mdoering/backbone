@@ -1,5 +1,4 @@
-Pandora shaanxiensis M.Z. Fan & Z.Z. Li, 1994 SPECIES
-=======
+# Pandora shaanxiensis M.Z. Fan & Z.Z. Li, 1994 SPECIES
 
 #### Status
 ACCEPTED

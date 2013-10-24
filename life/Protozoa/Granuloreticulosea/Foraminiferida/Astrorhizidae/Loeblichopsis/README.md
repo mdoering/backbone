@@ -1,5 +1,4 @@
-Loeblichopsis Hofker, 1969 GENUS
-=======
+# Loeblichopsis Hofker, 1969 GENUS
 
 #### Status
 ACCEPTED

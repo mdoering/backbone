@@ -1,5 +1,4 @@
-Marasmius calami Petch SPECIES
-=======
+# Marasmius calami Petch SPECIES
 
 #### Status
 ACCEPTED

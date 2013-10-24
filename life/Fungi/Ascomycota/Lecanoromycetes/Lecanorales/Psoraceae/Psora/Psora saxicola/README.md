@@ -1,5 +1,4 @@
-Psora saxicola Hoffm. SPECIES
-=======
+# Psora saxicola Hoffm. SPECIES
 
 #### Status
 ACCEPTED

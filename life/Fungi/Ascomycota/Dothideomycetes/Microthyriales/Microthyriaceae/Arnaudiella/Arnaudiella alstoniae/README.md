@@ -1,5 +1,4 @@
-Arnaudiella alstoniae (Rehm) Bat. & M.L. Farr SPECIES
-=======
+# Arnaudiella alstoniae (Rehm) Bat. & M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

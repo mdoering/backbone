@@ -1,5 +1,4 @@
-Melanaspicilia crystallifera SPECIES
-=======
+# Melanaspicilia crystallifera SPECIES
 
 #### Status
 ACCEPTED

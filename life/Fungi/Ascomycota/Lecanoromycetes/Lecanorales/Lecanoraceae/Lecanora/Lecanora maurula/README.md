@@ -1,5 +1,4 @@
-Lecanora maurula (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora maurula (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

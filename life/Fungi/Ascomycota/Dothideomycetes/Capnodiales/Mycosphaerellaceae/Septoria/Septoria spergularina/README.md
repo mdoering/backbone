@@ -1,5 +1,4 @@
-Septoria spergularina Alcalde SPECIES
-=======
+# Septoria spergularina Alcalde SPECIES
 
 #### Status
 ACCEPTED

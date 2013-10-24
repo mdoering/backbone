@@ -1,5 +1,4 @@
-Aecidium herniariae Scalia SPECIES
-=======
+# Aecidium herniariae Scalia SPECIES
 
 #### Status
 ACCEPTED

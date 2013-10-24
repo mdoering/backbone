@@ -1,5 +1,4 @@
-Palaeosordaria Sahni & H.S. Rao GENUS
-=======
+# Palaeosordaria Sahni & H.S. Rao GENUS
 
 #### Status
 ACCEPTED

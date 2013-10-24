@@ -1,5 +1,4 @@
-Diaporthe artospora Dearn. & House SPECIES
-=======
+# Diaporthe artospora Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

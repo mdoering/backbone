@@ -1,5 +1,4 @@
-Codonella ecaudata SPECIES
-=======
+# Codonella ecaudata SPECIES
 
 #### Status
 ACCEPTED

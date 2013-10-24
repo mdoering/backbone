@@ -1,5 +1,4 @@
-Bartramella Verville, Thompson & Lokke, 1956 GENUS
-=======
+# Bartramella Verville, Thompson & Lokke, 1956 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus nigricans Pat. & C.F. Baker, 1918 SPECIES
-=======
+# Boletus nigricans Pat. & C.F. Baker, 1918 SPECIES
 
 #### Status
 ACCEPTED

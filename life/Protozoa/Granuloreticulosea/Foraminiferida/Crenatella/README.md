@@ -1,5 +1,4 @@
-Crenatella Luczkowska, 1972 GENUS
-=======
+# Crenatella Luczkowska, 1972 GENUS
 
 #### Status
 ACCEPTED

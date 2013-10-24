@@ -1,14 +1,13 @@
-Mycophycophila gymnogongri (Feldmann) Cribb & J.W. Cribb, 1960 SPECIES
-=======
+# Chadefaudia gymnogongri (Feldmann) Kohlm., 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Pap. Dept. Bot. (formerly Biol. ) Univ. Qd. 4(3): 43 (1960)
+Bot. Mar. 16(4): 202 (1973)
 
 #### Original name
 Macrophoma gymnogongri Feldmann, 1941

@@ -1,5 +1,4 @@
-Lepiota colorada A.B. Pereira SPECIES
-=======
+# Lepiota colorada A.B. Pereira SPECIES
 
 #### Status
 ACCEPTED

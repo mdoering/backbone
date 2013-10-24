@@ -1,5 +1,4 @@
-Microxyphiomyces GENUS
-=======
+# Microxyphiomyces GENUS
 
 #### Status
 ACCEPTED

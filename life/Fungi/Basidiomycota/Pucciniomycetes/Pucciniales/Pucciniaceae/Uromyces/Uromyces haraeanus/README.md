@@ -1,5 +1,4 @@
-Uromyces haraeanus Syd. & P. Syd. SPECIES
-=======
+# Uromyces haraeanus Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sclerotites dryadum (Heer) Mesch. SPECIES
-=======
+# Sclerotites dryadum (Heer) Mesch. SPECIES
 
 #### Status
 ACCEPTED

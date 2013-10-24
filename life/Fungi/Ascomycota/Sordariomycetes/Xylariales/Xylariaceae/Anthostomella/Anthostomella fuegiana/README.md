@@ -1,14 +1,13 @@
-Entosordaria fuegiana (Speg.) Höhn., 1920 SPECIES
-=======
+# Anthostomella fuegiana Speg., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 129: 166 (1920)
+Boletín de la Academia Nacional de Ciencias de Córdoba 11(2): 194 (1888)
 
 #### Original name
 Anthostomella fuegiana Speg., 1888

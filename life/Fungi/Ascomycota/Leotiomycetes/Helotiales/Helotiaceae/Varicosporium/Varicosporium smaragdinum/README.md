@@ -1,5 +1,4 @@
-Varicosporium smaragdinum Descals SPECIES
-=======
+# Varicosporium smaragdinum Descals SPECIES
 
 #### Status
 ACCEPTED

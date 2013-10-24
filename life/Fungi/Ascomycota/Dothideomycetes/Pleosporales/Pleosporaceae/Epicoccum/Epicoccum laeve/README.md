@@ -1,5 +1,4 @@
-Epicoccum laeve Corda SPECIES
-=======
+# Epicoccum laeve Corda SPECIES
 
 #### Status
 ACCEPTED

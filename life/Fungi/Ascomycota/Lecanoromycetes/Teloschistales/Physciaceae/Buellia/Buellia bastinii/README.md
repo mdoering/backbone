@@ -1,5 +1,4 @@
-Buellia bastinii C.W. Dodge SPECIES
-=======
+# Buellia bastinii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

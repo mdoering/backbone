@@ -1,5 +1,4 @@
-Calicium adaequatum Nyl. SPECIES
-=======
+# Calicium adaequatum Nyl. SPECIES
 
 #### Status
 ACCEPTED

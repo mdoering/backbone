@@ -1,5 +1,4 @@
-Baeospora pruinatipes (Singer) Singer SPECIES
-=======
+# Baeospora pruinatipes (Singer) Singer SPECIES
 
 #### Status
 ACCEPTED

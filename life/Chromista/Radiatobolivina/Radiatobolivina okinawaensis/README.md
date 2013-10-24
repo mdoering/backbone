@@ -1,5 +1,4 @@
-Radiatobolivina okinawaensis Hatta in Hatta & Ujiié, 1992 SPECIES
-=======
+# Radiatobolivina okinawaensis Hatta in Hatta & Ujiié, 1992 SPECIES
 
 #### Status
 ACCEPTED

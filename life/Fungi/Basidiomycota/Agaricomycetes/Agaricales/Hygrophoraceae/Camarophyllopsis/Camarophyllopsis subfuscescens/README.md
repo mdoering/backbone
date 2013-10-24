@@ -1,17 +1,16 @@
-Hygrophorus subfuscescens var. subfuscescens VARIETY
-=======
+# Camarophyllopsis subfuscescens (A.H. Sm. & Hesler) Arnolds, 1986 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 8: 317 (1954)
+Mycotaxon 25(2): 643 (1986)
 
 #### Original name
-Hygrophorus subfuscescens var. subfuscescens
+Hygrophorus subfuscescens A.H. Sm. & Hesler, 1954
 
 ### Remarks
 null

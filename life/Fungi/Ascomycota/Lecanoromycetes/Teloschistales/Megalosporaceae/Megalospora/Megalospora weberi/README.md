@@ -1,5 +1,4 @@
-Megalospora weberi Sipman SPECIES
-=======
+# Megalospora weberi Sipman SPECIES
 
 #### Status
 ACCEPTED

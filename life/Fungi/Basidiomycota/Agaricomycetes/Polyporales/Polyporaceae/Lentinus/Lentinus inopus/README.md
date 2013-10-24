@@ -1,5 +1,4 @@
-Lentinus inopus Lév. SPECIES
-=======
+# Lentinus inopus Lév. SPECIES
 
 #### Status
 ACCEPTED

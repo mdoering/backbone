@@ -1,5 +1,4 @@
-Tricholoma isabellinum Pat. SPECIES
-=======
+# Tricholoma isabellinum Pat. SPECIES
 
 #### Status
 ACCEPTED

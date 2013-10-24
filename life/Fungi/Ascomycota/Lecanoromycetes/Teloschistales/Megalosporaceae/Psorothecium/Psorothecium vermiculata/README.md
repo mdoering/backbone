@@ -1,5 +1,4 @@
-Psorothecium vermiculata (Nyl.) Forssell SPECIES
-=======
+# Psorothecium vermiculata (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

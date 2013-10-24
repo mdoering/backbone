@@ -1,5 +1,4 @@
-Leucothecium emdemii Arx & Samson SPECIES
-=======
+# Leucothecium emdemii Arx & Samson SPECIES
 
 #### Status
 ACCEPTED

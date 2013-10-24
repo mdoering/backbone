@@ -1,5 +1,4 @@
-Lophiostoma praeandinum Speg. SPECIES
-=======
+# Lophiostoma praeandinum Speg. SPECIES
 
 #### Status
 ACCEPTED

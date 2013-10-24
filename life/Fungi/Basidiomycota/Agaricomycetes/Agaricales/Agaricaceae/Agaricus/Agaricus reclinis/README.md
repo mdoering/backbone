@@ -1,5 +1,4 @@
-Agaricus reclinis Fr. SPECIES
-=======
+# Agaricus reclinis Fr. SPECIES
 
 #### Status
 ACCEPTED

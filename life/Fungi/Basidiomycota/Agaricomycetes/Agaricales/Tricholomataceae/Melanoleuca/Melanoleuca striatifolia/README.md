@@ -1,5 +1,4 @@
-Melanoleuca striatifolia (Peck) Murrill SPECIES
-=======
+# Melanoleuca striatifolia (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

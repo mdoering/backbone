@@ -1,5 +1,4 @@
-Asterina cupheae Syd. SPECIES
-=======
+# Asterina cupheae Syd. SPECIES
 
 #### Status
 ACCEPTED

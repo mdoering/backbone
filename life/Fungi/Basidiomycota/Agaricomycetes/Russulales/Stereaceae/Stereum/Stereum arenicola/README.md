@@ -1,5 +1,4 @@
-Stereum arenicola Berk. SPECIES
-=======
+# Stereum arenicola Berk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spilopodia vogelii Syd. SPECIES
-=======
+# Spilopodia vogelii Syd. SPECIES
 
 #### Status
 ACCEPTED

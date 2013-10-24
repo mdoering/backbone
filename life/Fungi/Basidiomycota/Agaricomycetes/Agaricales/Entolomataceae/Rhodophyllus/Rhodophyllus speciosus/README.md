@@ -1,5 +1,4 @@
-Rhodophyllus speciosus (Romagn.) Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus speciosus (Romagn.) Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

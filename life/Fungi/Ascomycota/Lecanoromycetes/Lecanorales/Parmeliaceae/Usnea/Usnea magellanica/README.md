@@ -1,5 +1,4 @@
-Usnea magellanica (Mont.) Motyka SPECIES
-=======
+# Usnea magellanica (Mont.) Motyka SPECIES
 
 #### Status
 ACCEPTED

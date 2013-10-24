@@ -1,5 +1,4 @@
-Carothecis palearum (Richon) Clem. SPECIES
-=======
+# Carothecis palearum (Richon) Clem. SPECIES
 
 #### Status
 ACCEPTED

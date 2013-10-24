@@ -1,5 +1,4 @@
-Cortinarius xanthosuavis Bon & Trescol SPECIES
-=======
+# Cortinarius xanthosuavis Bon & Trescol SPECIES
 
 #### Status
 ACCEPTED

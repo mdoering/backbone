@@ -1,5 +1,4 @@
-Isaria briquettii SPECIES
-=======
+# Isaria briquettii SPECIES
 
 #### Status
 ACCEPTED

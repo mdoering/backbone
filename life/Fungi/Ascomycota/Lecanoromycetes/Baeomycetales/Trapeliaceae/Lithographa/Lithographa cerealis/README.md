@@ -1,5 +1,4 @@
-Lithographa cerealis Stizenb. SPECIES
-=======
+# Lithographa cerealis Stizenb. SPECIES
 
 #### Status
 ACCEPTED

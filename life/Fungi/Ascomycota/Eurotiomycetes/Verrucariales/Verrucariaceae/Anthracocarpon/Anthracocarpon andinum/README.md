@@ -1,5 +1,4 @@
-Anthracocarpon andinum M. Prieto, Aragón & Breuss SPECIES
-=======
+# Anthracocarpon andinum M. Prieto, Aragón & Breuss SPECIES
 
 #### Status
 ACCEPTED

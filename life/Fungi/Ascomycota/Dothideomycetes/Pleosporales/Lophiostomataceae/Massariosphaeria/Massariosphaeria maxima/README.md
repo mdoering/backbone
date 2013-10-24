@@ -1,5 +1,4 @@
-Massariosphaeria maxima Kaz. Tanaka, Sat. Hatak. & Y. Harada, 2005 SPECIES
-=======
+# Massariosphaeria maxima Kaz. Tanaka, Sat. Hatak. & Y. Harada, 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Adelosina intricata (Terquem, 1878) SPECIES
-=======
+# Adelosina intricata (Terquem, 1878) SPECIES
 
 #### Status
 ACCEPTED

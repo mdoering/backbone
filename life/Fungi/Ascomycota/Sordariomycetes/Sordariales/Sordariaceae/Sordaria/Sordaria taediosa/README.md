@@ -1,5 +1,4 @@
-Sordaria taediosa Speg. SPECIES
-=======
+# Sordaria taediosa Speg. SPECIES
 
 #### Status
 ACCEPTED

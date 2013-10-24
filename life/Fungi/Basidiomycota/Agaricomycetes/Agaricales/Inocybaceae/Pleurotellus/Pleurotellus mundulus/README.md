@@ -1,5 +1,4 @@
-Pleurotellus mundulus (Lasch) SPECIES
-=======
+# Pleurotellus mundulus (Lasch) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ecteinomyces rhytidopus Speg. SPECIES
-=======
+# Ecteinomyces rhytidopus Speg. SPECIES
 
 #### Status
 ACCEPTED

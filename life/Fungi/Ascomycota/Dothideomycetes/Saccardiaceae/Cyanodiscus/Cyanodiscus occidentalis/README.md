@@ -1,5 +1,4 @@
-Cyanodiscus occidentalis E. Müll. & M.L. Farr, 1971 SPECIES
-=======
+# Cyanodiscus occidentalis E. Müll. & M.L. Farr, 1971 SPECIES
 
 #### Status
 ACCEPTED

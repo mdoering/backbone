@@ -1,5 +1,4 @@
-Septogloeum oxysporum E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
-=======
+# Septogloeum oxysporum E. Bommer, M. Rousseau & Sacc., 1891 SPECIES
 
 #### Status
 ACCEPTED

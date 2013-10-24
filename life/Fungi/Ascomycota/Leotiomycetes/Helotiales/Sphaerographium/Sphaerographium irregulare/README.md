@@ -1,5 +1,4 @@
-Sphaerographium irregulare Arthur & Cummins SPECIES
-=======
+# Sphaerographium irregulare Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

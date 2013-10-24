@@ -1,5 +1,4 @@
-Lepiota microscopica Speg. SPECIES
-=======
+# Lepiota microscopica Speg. SPECIES
 
 #### Status
 ACCEPTED

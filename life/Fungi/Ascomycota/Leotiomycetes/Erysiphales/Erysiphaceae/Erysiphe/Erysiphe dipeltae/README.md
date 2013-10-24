@@ -1,5 +1,4 @@
-Erysiphe dipeltae (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe dipeltae (Y.N. Yu & Y.Q. Lai) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

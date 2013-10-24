@@ -1,5 +1,4 @@
-Lactarius dennisii Singer SPECIES
-=======
+# Lactarius dennisii Singer SPECIES
 
 #### Status
 ACCEPTED

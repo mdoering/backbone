@@ -1,5 +1,4 @@
-Phylloporus sulcatus (Pat.) E.-J. Gilbert SPECIES
-=======
+# Phylloporus sulcatus (Pat.) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

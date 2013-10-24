@@ -1,5 +1,4 @@
-Hypholoma rugocephalum G.F. Atk. SPECIES
-=======
+# Hypholoma rugocephalum G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

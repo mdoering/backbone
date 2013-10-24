@@ -1,5 +1,4 @@
-Porina chionea Ach. SPECIES
-=======
+# Porina chionea Ach. SPECIES
 
 #### Status
 ACCEPTED

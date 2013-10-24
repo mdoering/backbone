@@ -1,5 +1,4 @@
-Euplotes worcesteri Griffin, 1910 SPECIES
-=======
+# Euplotes worcesteri Griffin, 1910 SPECIES
 
 #### Status
 ACCEPTED

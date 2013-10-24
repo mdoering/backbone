@@ -1,5 +1,4 @@
-Coelosphaeria crustacea P. Karst. SPECIES
-=======
+# Coelosphaeria crustacea P. Karst. SPECIES
 
 #### Status
 ACCEPTED

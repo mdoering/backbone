@@ -1,5 +1,4 @@
-Pseudoolina R.W. Jones, 1984 GENUS
-=======
+# Pseudoolina R.W. Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

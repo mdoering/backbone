@@ -1,5 +1,4 @@
-Aecidium peyritschianum Magnus SPECIES
-=======
+# Aecidium peyritschianum Magnus SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micropeltis pogonophorae Bat. SPECIES
-=======
+# Micropeltis pogonophorae Bat. SPECIES
 
 #### Status
 ACCEPTED

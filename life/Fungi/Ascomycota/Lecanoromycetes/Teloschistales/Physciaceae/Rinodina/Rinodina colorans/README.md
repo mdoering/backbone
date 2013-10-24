@@ -1,5 +1,4 @@
-Rinodina colorans Vain. SPECIES
-=======
+# Rinodina colorans Vain. SPECIES
 
 #### Status
 ACCEPTED

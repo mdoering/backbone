@@ -1,5 +1,4 @@
-Asterina jahnii Syd., 1930 SPECIES
-=======
+# Asterina jahnii Syd., 1930 SPECIES
 
 #### Status
 ACCEPTED

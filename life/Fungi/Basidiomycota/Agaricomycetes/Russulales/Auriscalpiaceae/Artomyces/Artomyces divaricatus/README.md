@@ -1,5 +1,4 @@
-Artomyces divaricatus (Leathers & A.H. Sm.) Jülich, 1982 SPECIES
-=======
+# Artomyces divaricatus (Leathers & A.H. Sm.) Jülich, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syncephalis ramosa Tiegh., 1875 SPECIES
-=======
+# Syncephalis ramosa Tiegh., 1875 SPECIES
 
 #### Status
 ACCEPTED

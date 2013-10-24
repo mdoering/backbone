@@ -1,5 +1,4 @@
-Scleroderma pileolatum Kalchbr. SPECIES
-=======
+# Scleroderma pileolatum Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

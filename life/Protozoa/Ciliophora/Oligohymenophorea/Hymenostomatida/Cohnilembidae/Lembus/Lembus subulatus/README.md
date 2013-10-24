@@ -1,5 +1,4 @@
-Lembus subulatus Kent, 1881 SPECIES
-=======
+# Lembus subulatus Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

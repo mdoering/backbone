@@ -1,8 +1,7 @@
-Myriocladia grandis Howe SPECIES
-=======
+# Myriogloea grandis (Howe) Levring SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

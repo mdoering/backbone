@@ -1,5 +1,4 @@
-Striglia aulaxina (Lév.) Kuntze SPECIES
-=======
+# Striglia aulaxina (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

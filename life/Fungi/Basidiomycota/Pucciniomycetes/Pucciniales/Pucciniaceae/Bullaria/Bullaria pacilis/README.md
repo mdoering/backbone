@@ -1,5 +1,4 @@
-Bullaria pacilis (Arthur) Arthur & Mains SPECIES
-=======
+# Bullaria pacilis (Arthur) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

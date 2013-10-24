@@ -1,5 +1,4 @@
-Phoma welwitschiae Massee SPECIES
-=======
+# Phoma welwitschiae Massee SPECIES
 
 #### Status
 ACCEPTED

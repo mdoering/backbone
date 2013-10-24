@@ -1,5 +1,4 @@
-Agaricus thejogalus SPECIES
-=======
+# Agaricus thejogalus SPECIES
 
 #### Status
 ACCEPTED

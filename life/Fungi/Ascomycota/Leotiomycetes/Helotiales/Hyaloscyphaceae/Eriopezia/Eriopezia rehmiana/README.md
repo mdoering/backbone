@@ -1,5 +1,4 @@
-Eriopezia rehmiana (Sacc., E. Bommer & M. Rousseau) Rehm SPECIES
-=======
+# Eriopezia rehmiana (Sacc., E. Bommer & M. Rousseau) Rehm SPECIES
 
 #### Status
 ACCEPTED

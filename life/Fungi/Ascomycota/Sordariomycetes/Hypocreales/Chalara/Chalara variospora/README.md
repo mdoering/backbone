@@ -1,5 +1,4 @@
-Chalara variospora (R.W. Davidson) G. Arnaud SPECIES
-=======
+# Chalara variospora (R.W. Davidson) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

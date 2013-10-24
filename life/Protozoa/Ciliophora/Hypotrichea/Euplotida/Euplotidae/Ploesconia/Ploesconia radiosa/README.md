@@ -1,5 +1,4 @@
-Ploesconia radiosa Dujardin, 1841 SPECIES
-=======
+# Ploesconia radiosa Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclotella glomerata H. Bachmann SPECIES
-=======
+# Cyclotella glomerata H. Bachmann SPECIES
 
 #### Status
 ACCEPTED

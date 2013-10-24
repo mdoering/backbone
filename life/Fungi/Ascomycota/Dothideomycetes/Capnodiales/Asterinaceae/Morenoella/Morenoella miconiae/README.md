@@ -1,5 +1,4 @@
-Morenoella miconiae R.W. Ryan SPECIES
-=======
+# Morenoella miconiae R.W. Ryan SPECIES
 
 #### Status
 ACCEPTED

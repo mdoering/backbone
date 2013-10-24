@@ -1,5 +1,4 @@
-Adriogloia adriatica Ercegovic SPECIES
-=======
+# Adriogloia adriatica Ercegovic SPECIES
 
 #### Status
 ACCEPTED

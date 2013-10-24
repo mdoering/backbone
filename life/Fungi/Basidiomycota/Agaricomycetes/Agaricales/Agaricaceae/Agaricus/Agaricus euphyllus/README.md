@@ -1,5 +1,4 @@
-Agaricus euphyllus Berk. SPECIES
-=======
+# Agaricus euphyllus Berk. SPECIES
 
 #### Status
 ACCEPTED

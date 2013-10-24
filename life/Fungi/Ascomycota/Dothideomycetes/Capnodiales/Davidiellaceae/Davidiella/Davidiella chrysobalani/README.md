@@ -1,14 +1,13 @@
-Sphaerella chrysobalani (Miles) Sacc., 1928 SPECIES
-=======
+# Davidiella chrysobalani (Miles) Aptroot, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 24(2): 882 (1928)
+Mycosphaerella and its anamorphs: 2. Conspectus of Mycosphaerella 61 (2006)
 
 #### Original name
 Mycosphaerella chrysobalani Miles, 1917

@@ -1,5 +1,4 @@
-Pleurotus calyx (Speg.) Singer SPECIES
-=======
+# Pleurotus calyx (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

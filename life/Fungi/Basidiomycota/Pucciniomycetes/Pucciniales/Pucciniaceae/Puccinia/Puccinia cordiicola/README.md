@@ -1,5 +1,4 @@
-Puccinia cordiicola Pardo-Card. SPECIES
-=======
+# Puccinia cordiicola Pardo-Card. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizosphaera macrospora Gourb. & M. Morelet, 1979 SPECIES
-=======
+# Rhizosphaera macrospora Gourb. & M. Morelet, 1979 SPECIES
 
 #### Status
 ACCEPTED

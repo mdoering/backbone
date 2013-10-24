@@ -1,5 +1,4 @@
-Amanitopsis GENUS
-=======
+# Amanitopsis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium valdecompressum Campbell SPECIES
-=======
+# Gymnodinium valdecompressum Campbell SPECIES
 
 #### Status
 ACCEPTED

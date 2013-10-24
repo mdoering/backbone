@@ -1,5 +1,4 @@
-Moellerodiscus capillepes (Quél.) M.P. Sharma SPECIES
-=======
+# Moellerodiscus capillepes (Quél.) M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spirophacus Lemmermann, 1901 GENUS
-=======
+# Spirophacus Lemmermann, 1901 GENUS
 
 #### Status
 ACCEPTED

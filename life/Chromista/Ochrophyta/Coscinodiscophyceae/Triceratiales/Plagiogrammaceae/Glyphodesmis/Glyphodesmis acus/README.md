@@ -1,5 +1,4 @@
-Glyphodesmis acus Mann SPECIES
-=======
+# Glyphodesmis acus Mann SPECIES
 
 #### Status
 ACCEPTED

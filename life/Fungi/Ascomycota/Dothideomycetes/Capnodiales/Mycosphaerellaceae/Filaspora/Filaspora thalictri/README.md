@@ -1,5 +1,4 @@
-Filaspora thalictri (Har. & P. Karst.) Kuntze SPECIES
-=======
+# Filaspora thalictri (Har. & P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

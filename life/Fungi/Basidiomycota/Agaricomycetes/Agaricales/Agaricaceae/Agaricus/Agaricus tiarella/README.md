@@ -1,5 +1,4 @@
-Agaricus tiarella Berk. & Broome SPECIES
-=======
+# Agaricus tiarella Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

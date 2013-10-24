@@ -1,5 +1,4 @@
-Phyllachora banisteriae F. Stevens & Dalbey, 1919 SPECIES
-=======
+# Phyllachora banisteriae F. Stevens & Dalbey, 1919 SPECIES
 
 #### Status
 ACCEPTED

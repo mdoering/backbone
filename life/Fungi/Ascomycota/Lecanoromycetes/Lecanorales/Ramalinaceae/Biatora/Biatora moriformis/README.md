@@ -1,5 +1,4 @@
-Biatora moriformis (Ach.) Tuck. SPECIES
-=======
+# Biatora moriformis (Ach.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

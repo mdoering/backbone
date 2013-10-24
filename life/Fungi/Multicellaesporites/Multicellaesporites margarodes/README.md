@@ -1,5 +1,4 @@
-Multicellaesporites margarodes Z.C. Song SPECIES
-=======
+# Multicellaesporites margarodes Z.C. Song SPECIES
 
 #### Status
 ACCEPTED

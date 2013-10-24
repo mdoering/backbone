@@ -1,5 +1,4 @@
-Phyllosticta pseudotsugae L.E. Petrini, Petrini, Leuchtm. & G.C. Carroll SPECIES
-=======
+# Phyllosticta pseudotsugae L.E. Petrini, Petrini, Leuchtm. & G.C. Carroll SPECIES
 
 #### Status
 ACCEPTED

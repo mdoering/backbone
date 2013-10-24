@@ -1,5 +1,4 @@
-Favolaschia pustulata (Berk. & Broome) Kuntze SPECIES
-=======
+# Favolaschia pustulata (Berk. & Broome) Kuntze SPECIES
 
 #### Status
 ACCEPTED

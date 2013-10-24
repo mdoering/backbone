@@ -1,5 +1,4 @@
-Metarhizium truncatum (Briard) Petch SPECIES
-=======
+# Metarhizium truncatum (Briard) Petch SPECIES
 
 #### Status
 ACCEPTED

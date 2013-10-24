@@ -1,5 +1,4 @@
-Phoma fumaginoides Peyronel SPECIES
-=======
+# Phoma fumaginoides Peyronel SPECIES
 
 #### Status
 ACCEPTED

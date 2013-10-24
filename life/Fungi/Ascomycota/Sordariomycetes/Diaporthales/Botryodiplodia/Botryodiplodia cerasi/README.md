@@ -1,5 +1,4 @@
-Botryodiplodia cerasi Jaap SPECIES
-=======
+# Botryodiplodia cerasi Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Entomophthora caroliniana (Thaxt.) S. Keller, 1979 SPECIES
-=======
+# Eryniopsis caroliniana (Thaxt.) Humber, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 31(1-6): 88 (1979)
+Mycotaxon 21: 259 (1984)
 
 #### Original name
 Empusa caroliniana Thaxt., 1888

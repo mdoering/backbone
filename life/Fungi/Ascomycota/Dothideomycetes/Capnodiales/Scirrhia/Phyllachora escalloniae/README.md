@@ -1,5 +1,4 @@
-Phyllachora escalloniae Pat., 1891 SPECIES
-=======
+# Phyllachora escalloniae Pat., 1891 SPECIES
 
 #### Status
 ACCEPTED

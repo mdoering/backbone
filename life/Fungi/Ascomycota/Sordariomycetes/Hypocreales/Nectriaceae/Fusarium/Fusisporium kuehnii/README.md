@@ -1,5 +1,4 @@
-Fusisporium kuehnii Fuckel SPECIES
-=======
+# Fusisporium kuehnii Fuckel SPECIES
 
 #### Status
 ACCEPTED

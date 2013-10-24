@@ -1,5 +1,4 @@
-Pampolysporium GENUS
-=======
+# Pampolysporium GENUS
 
 #### Status
 ACCEPTED

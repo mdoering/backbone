@@ -1,5 +1,4 @@
-Mycena acicula (Schaeff. Fr.) P. Kumm. SPECIES
-=======
+# Mycena acicula (Schaeff. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

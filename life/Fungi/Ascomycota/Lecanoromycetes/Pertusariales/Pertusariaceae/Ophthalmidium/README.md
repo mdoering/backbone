@@ -1,5 +1,4 @@
-Ophthalmidium GENUS
-=======
+# Ophthalmidium GENUS
 
 #### Status
 ACCEPTED

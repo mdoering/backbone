@@ -1,5 +1,4 @@
-Daedalea jamaicensis Henn. SPECIES
-=======
+# Daedalea jamaicensis Henn. SPECIES
 
 #### Status
 ACCEPTED

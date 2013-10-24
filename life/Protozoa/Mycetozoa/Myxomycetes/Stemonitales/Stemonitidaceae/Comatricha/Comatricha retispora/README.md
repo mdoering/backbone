@@ -1,17 +1,16 @@
-Collaria retispora Dhillon & Nann.-Bremek., 1977 SPECIES
-=======
+# Comatricha retispora (Dhillon & Nann.-Bremek.) H. Neubert, Nowotny & K. Baumann, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. K. Ned. Akad. Wet. , Ser. C, Biol. Med. Sci. 80(4): 262 (1977)
+null
 
 #### Original name
-Collaria retispora Dhillon & Nann.-Bremek., 1977
+null
 
 ### Remarks
 null

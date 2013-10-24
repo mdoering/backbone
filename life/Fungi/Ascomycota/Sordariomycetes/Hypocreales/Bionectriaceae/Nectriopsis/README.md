@@ -1,17 +1,16 @@
-Dasyphthora Clem. GENUS
-=======
+# Nectriopsis Maire, 1911 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Gen. fung. (Minneapolis) 45, 173 (1909)
+null
 
 #### Original name
-Dasyphthora Clem.
+null
 
 ### Remarks
 null

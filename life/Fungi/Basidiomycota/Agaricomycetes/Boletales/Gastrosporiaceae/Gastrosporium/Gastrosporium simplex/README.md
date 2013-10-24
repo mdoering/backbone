@@ -1,5 +1,4 @@
-Gastrosporium simplex Mattir., 1903 SPECIES
-=======
+# Gastrosporium simplex Mattir., 1903 SPECIES
 
 #### Status
 ACCEPTED

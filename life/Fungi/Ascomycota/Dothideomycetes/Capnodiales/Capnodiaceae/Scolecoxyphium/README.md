@@ -1,5 +1,4 @@
-Scolecoxyphium Cif. & Bat. GENUS
-=======
+# Scolecoxyphium Cif. & Bat. GENUS
 
 #### Status
 ACCEPTED

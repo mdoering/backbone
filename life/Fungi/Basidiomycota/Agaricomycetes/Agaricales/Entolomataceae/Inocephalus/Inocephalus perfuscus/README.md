@@ -1,5 +1,4 @@
-Inocephalus perfuscus (Largent) Largent SPECIES
-=======
+# Inocephalus perfuscus (Largent) Largent SPECIES
 
 #### Status
 ACCEPTED

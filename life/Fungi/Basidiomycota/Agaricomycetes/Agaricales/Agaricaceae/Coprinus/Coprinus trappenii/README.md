@@ -1,5 +1,4 @@
-Coprinus trappenii Oudem. SPECIES
-=======
+# Coprinus trappenii Oudem. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucor microcephalus Wallr. SPECIES
-=======
+# Mucor microcephalus Wallr. SPECIES
 
 #### Status
 ACCEPTED

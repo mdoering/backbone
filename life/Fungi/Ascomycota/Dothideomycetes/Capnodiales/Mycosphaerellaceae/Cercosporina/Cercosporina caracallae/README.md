@@ -1,5 +1,4 @@
-Cercosporina caracallae Speg. SPECIES
-=======
+# Cercosporina caracallae Speg. SPECIES
 
 #### Status
 ACCEPTED

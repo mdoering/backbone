@@ -1,5 +1,4 @@
-Cladosporium heliotropii Erikss., 1891 SPECIES
-=======
+# Cladosporium heliotropii Erikss., 1891 SPECIES
 
 #### Status
 ACCEPTED

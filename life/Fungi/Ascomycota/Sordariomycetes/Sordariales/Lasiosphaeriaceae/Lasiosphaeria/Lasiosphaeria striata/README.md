@@ -1,5 +1,4 @@
-Lasiosphaeria striata Ellis & Everh. SPECIES
-=======
+# Lasiosphaeria striata Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

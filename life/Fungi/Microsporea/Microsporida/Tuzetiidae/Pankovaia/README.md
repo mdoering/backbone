@@ -1,5 +1,4 @@
-Pankovaia Simakova, Tokarev & Issi, 2009 GENUS
-=======
+# Pankovaia Simakova, Tokarev & Issi, 2009 GENUS
 
 #### Status
 ACCEPTED

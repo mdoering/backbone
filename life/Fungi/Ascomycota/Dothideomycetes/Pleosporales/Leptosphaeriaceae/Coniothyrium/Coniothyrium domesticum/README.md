@@ -1,5 +1,4 @@
-Coniothyrium domesticum Henn. SPECIES
-=======
+# Coniothyrium domesticum Henn. SPECIES
 
 #### Status
 ACCEPTED

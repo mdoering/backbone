@@ -1,17 +1,16 @@
-Podoscypha philippinensis var. philippinensis D.A. Reid VARIETY
-=======
+# Podoscypha philippinensis D.A. Reid, 1965 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Beih. Nova Hedwigia 18: 240 (1965)
 
 #### Original name
-Podoscypha philippinensis var. philippinensis D.A. Reid
+Podoscypha philippinensis D.A. Reid, 1965
 
 ### Remarks
 null

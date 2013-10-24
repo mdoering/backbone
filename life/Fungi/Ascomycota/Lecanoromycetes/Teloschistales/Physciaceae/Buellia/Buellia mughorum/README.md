@@ -1,5 +1,4 @@
-Buellia mughorum Anzi SPECIES
-=======
+# Buellia mughorum Anzi SPECIES
 
 #### Status
 ACCEPTED

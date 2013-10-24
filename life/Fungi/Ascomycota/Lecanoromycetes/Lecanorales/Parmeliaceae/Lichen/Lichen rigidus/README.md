@@ -1,5 +1,4 @@
-Lichen rigidus Wulfen SPECIES
-=======
+# Lichen rigidus Wulfen SPECIES
 
 #### Status
 ACCEPTED

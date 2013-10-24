@@ -1,5 +1,4 @@
-Physcia subnuda Novruzov SPECIES
-=======
+# Physcia subnuda Novruzov SPECIES
 
 #### Status
 ACCEPTED

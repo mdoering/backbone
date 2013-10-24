@@ -1,5 +1,4 @@
-Coprinus subaquaticus Bogart SPECIES
-=======
+# Coprinus subaquaticus Bogart SPECIES
 
 #### Status
 ACCEPTED

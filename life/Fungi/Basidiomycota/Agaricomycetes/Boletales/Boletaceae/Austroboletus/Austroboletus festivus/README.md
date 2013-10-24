@@ -1,5 +1,4 @@
-Austroboletus festivus (Singer) Wolfe SPECIES
-=======
+# Austroboletus festivus (Singer) Wolfe SPECIES
 
 #### Status
 ACCEPTED

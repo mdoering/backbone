@@ -1,5 +1,4 @@
-Physcia hirtuosa Kremp. SPECIES
-=======
+# Physcia hirtuosa Kremp. SPECIES
 
 #### Status
 ACCEPTED

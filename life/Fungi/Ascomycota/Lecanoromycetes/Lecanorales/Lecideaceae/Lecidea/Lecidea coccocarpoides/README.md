@@ -1,17 +1,16 @@
-Lecidea coccocarpioides Nyl. SPECIES
-=======
+# Lecidea coccocarpoides Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Crombie, J. Bot. , London 14: 264 (1876)
 
 #### Original name
-Lecidea coccocarpioides Nyl.
+Lecidea coccocarpoides Nyl.
 
 ### Remarks
 null

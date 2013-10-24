@@ -1,5 +1,4 @@
-Inocybe corcontica Velen. SPECIES
-=======
+# Inocybe corcontica Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthostoma endoxyloides Mouton SPECIES
-=======
+# Anthostoma endoxyloides Mouton SPECIES
 
 #### Status
 ACCEPTED

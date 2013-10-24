@@ -1,5 +1,4 @@
-Aecidium stobeae Kalchbr. & Cooke SPECIES
-=======
+# Aecidium stobeae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

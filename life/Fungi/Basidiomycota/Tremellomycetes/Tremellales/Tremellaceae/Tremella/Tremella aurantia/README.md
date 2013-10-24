@@ -1,5 +1,4 @@
-Tremella aurantia Schwein., 1822 SPECIES
-=======
+# Tremella aurantia Schwein., 1822 SPECIES
 
 #### Status
 ACCEPTED

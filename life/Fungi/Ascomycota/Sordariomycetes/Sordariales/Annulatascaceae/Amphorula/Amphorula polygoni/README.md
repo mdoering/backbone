@@ -1,5 +1,4 @@
-Amphorula polygoni (Ellis & Everh.) Petr. SPECIES
-=======
+# Amphorula polygoni (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

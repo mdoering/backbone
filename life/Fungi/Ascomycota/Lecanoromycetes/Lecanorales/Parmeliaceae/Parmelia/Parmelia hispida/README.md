@@ -1,5 +1,4 @@
-Parmelia hispida SPECIES
-=======
+# Parmelia hispida SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Peronospora lepidii-perfoliati Savul. & Rayss, 1932 SPECIES
-=======
+# Hyaloperonospora lepidii-perfoliati (Savul. & Rayss) Constant., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 30(3/4): 367 (1932)
+in Constantinescu & Fatehi, Nova Hedwigia 74(3-4): 317 (2002)
 
 #### Original name
 Peronospora lepidii-perfoliati Savul. & Rayss, 1932

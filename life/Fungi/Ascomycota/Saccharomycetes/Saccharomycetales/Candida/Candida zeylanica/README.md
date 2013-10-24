@@ -1,5 +1,4 @@
-Candida zeylanica (Castell.) Basgal SPECIES
-=======
+# Candida zeylanica (Castell.) Basgal SPECIES
 
 #### Status
 ACCEPTED

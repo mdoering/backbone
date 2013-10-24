@@ -1,5 +1,4 @@
-Peniophora dubia Litsch. SPECIES
-=======
+# Peniophora dubia Litsch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurolemma dussii (Vain.) P.M. Jørg. & Henssen SPECIES
-=======
+# Staurolemma dussii (Vain.) P.M. Jørg. & Henssen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Didymosphaeria maculans Vouaux SPECIES
-=======
+# Didymosphaeria maculans Vouaux SPECIES
 
 #### Status
 ACCEPTED

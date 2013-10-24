@@ -1,5 +1,4 @@
-Lecanora trevisanii A. Massal. SPECIES
-=======
+# Lecanora trevisanii A. Massal. SPECIES
 
 #### Status
 ACCEPTED

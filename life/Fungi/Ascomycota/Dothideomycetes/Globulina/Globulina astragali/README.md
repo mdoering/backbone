@@ -1,5 +1,4 @@
-Globulina astragali Velen. SPECIES
-=======
+# Globulina astragali Velen. SPECIES
 
 #### Status
 ACCEPTED

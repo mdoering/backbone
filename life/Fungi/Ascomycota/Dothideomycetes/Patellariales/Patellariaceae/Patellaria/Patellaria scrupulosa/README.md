@@ -1,5 +1,4 @@
-Patellaria scrupulosa (Ach.) Trevis. SPECIES
-=======
+# Patellaria scrupulosa (Ach.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

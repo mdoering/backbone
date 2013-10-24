@@ -1,5 +1,4 @@
-Stereum archeri Berk. SPECIES
-=======
+# Stereum archeri Berk. SPECIES
 
 #### Status
 ACCEPTED

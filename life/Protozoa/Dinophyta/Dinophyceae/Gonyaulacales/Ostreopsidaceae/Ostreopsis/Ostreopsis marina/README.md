@@ -1,5 +1,4 @@
-Ostreopsis marina M. A. Faust SPECIES
-=======
+# Ostreopsis marina M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

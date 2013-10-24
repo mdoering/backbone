@@ -1,5 +1,4 @@
-Zonarina Ørsted GENUS
-=======
+# Zonarina Ørsted GENUS
 
 #### Status
 ACCEPTED

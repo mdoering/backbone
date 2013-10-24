@@ -1,5 +1,4 @@
-Meliola comocladiae F. Stevens SPECIES
-=======
+# Meliola comocladiae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

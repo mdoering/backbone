@@ -1,5 +1,4 @@
-Bombyliospora stictica (Fée) A. Massal. SPECIES
-=======
+# Bombyliospora stictica (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella tetraspora Feltgen SPECIES
-=======
+# Pezizella tetraspora Feltgen SPECIES
 
 #### Status
 ACCEPTED

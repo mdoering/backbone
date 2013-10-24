@@ -1,5 +1,4 @@
-Planomonospora Thiemann, Pagani & Beretta GENUS
-=======
+# Planomonospora Thiemann, Pagani & Beretta GENUS
 
 #### Status
 ACCEPTED

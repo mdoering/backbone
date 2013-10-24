@@ -1,5 +1,4 @@
-Biatora E.M. Fries, 1817 GENUS
-=======
+# Biatora E.M. Fries, 1817 GENUS
 
 #### Status
 ACCEPTED

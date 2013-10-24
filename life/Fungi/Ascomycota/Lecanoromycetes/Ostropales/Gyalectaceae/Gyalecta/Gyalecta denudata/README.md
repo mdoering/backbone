@@ -1,5 +1,4 @@
-Gyalecta denudata Th. Fr. SPECIES
-=======
+# Gyalecta denudata Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia acervata Lév. SPECIES
-=======
+# Diplodia acervata Lév. SPECIES
 
 #### Status
 ACCEPTED

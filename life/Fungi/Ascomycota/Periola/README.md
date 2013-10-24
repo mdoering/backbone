@@ -1,17 +1,16 @@
-Placentaria Auersw. ex Rabenh. GENUS
-=======
+# Periola E.M. Fries, 1822 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Klotzschii Herbarium Vivum Mycologicum, Editio novo. Century 1446 (1851)
+null
 
 #### Original name
-Placentaria Auersw. ex Rabenh.
+null
 
 ### Remarks
 null

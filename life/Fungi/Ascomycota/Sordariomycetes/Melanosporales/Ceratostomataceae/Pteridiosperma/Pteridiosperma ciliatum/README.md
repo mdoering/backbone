@@ -1,14 +1,13 @@
-Microthecium ciliatum Udagawa & Takada, 1974 SPECIES
-=======
+# Pteridiosperma ciliatum (Udagawa & Y. Takeda) J.C. Krug & Jeng, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Mycol. Soc. Japan 15: 23 (1974)
+Mycotaxon 10(1): 45 (1979)
 
 #### Original name
 Microthecium ciliatum Udagawa & Takada, 1974

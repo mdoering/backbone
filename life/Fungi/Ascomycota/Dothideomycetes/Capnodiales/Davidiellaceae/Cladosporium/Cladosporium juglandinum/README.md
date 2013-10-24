@@ -1,5 +1,4 @@
-Cladosporium juglandinum Cooke SPECIES
-=======
+# Cladosporium juglandinum Cooke SPECIES
 
 #### Status
 ACCEPTED

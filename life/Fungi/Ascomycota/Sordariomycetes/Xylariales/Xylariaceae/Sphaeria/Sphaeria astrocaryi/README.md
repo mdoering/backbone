@@ -1,5 +1,4 @@
-Sphaeria astrocaryi Cooke SPECIES
-=======
+# Sphaeria astrocaryi Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus hasseltii Lév. SPECIES
-=======
+# Polyporus hasseltii Lév. SPECIES
 
 #### Status
 ACCEPTED

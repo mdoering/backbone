@@ -1,5 +1,4 @@
-Diplodia paradisiaca (Mont.) Wollenw. SPECIES
-=======
+# Diplodia paradisiaca (Mont.) Wollenw. SPECIES
 
 #### Status
 ACCEPTED

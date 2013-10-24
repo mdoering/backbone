@@ -1,5 +1,4 @@
-Melanophora sorbi (Rostr.) Arx SPECIES
-=======
+# Melanophora sorbi (Rostr.) Arx SPECIES
 
 #### Status
 ACCEPTED

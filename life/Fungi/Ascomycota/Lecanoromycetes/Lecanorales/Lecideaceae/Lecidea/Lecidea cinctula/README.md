@@ -1,5 +1,4 @@
-Lecidea cinctula Nyl. SPECIES
-=======
+# Lecidea cinctula Nyl. SPECIES
 
 #### Status
 ACCEPTED

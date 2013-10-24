@@ -1,5 +1,4 @@
-Psilodiporites hammenii C.P. Varma & Rawat SPECIES
-=======
+# Psilodiporites hammenii C.P. Varma & Rawat SPECIES
 
 #### Status
 ACCEPTED

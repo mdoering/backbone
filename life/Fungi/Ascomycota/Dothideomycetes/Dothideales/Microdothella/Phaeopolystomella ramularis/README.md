@@ -1,5 +1,4 @@
-Phaeopolystomella ramularis (Ellis) Bat. & H. Maia SPECIES
-=======
+# Phaeopolystomella ramularis (Ellis) Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favolaschia fujisanensis Kobayasi, 1952 SPECIES
-=======
+# Favolaschia fujisanensis Kobayasi, 1952 SPECIES
 
 #### Status
 ACCEPTED

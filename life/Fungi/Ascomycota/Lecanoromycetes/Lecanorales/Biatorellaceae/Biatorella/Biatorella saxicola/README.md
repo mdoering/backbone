@@ -1,5 +1,4 @@
-Biatorella saxicola Aptroot & Sipman SPECIES
-=======
+# Biatorella saxicola Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

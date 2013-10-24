@@ -1,5 +1,4 @@
-Geastraceae Corda FAMILY
-=======
+# Geastraceae Corda FAMILY
 
 #### Status
 ACCEPTED

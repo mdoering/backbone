@@ -1,5 +1,4 @@
-Arthrospira major Kutzing (Crow) SPECIES
-=======
+# Arthrospira major Kutzing (Crow) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothecium subfulvum Ellis & Everh. SPECIES
-=======
+# Trichothecium subfulvum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

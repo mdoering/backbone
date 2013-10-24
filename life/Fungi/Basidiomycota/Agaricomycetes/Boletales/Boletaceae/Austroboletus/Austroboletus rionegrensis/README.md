@@ -1,5 +1,4 @@
-Austroboletus rionegrensis (Singer & I.J. Araujo) Singer SPECIES
-=======
+# Austroboletus rionegrensis (Singer & I.J. Araujo) Singer SPECIES
 
 #### Status
 ACCEPTED

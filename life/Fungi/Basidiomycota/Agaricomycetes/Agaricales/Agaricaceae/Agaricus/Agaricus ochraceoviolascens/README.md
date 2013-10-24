@@ -1,5 +1,4 @@
-Agaricus ochraceoviolascens Britzelm. SPECIES
-=======
+# Agaricus ochraceoviolascens Britzelm. SPECIES
 
 #### Status
 ACCEPTED

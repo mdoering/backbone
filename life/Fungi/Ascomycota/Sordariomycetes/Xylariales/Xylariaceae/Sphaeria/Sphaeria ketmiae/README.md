@@ -1,5 +1,4 @@
-Sphaeria ketmiae Ces. SPECIES
-=======
+# Sphaeria ketmiae Ces. SPECIES
 
 #### Status
 ACCEPTED

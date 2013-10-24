@@ -1,5 +1,4 @@
-Dialonectria duplicella (Nyl.) Cooke SPECIES
-=======
+# Dialonectria duplicella (Nyl.) Cooke SPECIES
 
 #### Status
 ACCEPTED

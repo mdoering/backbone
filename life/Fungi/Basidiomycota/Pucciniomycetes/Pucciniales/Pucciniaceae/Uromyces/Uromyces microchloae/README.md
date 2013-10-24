@@ -1,5 +1,4 @@
-Uromyces microchloae Syd. & P. Syd. SPECIES
-=======
+# Uromyces microchloae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

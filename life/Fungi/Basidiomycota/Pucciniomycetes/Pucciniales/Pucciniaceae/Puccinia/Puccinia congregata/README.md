@@ -1,5 +1,4 @@
-Puccinia congregata Ellis & Harkn. SPECIES
-=======
+# Puccinia congregata Ellis & Harkn. SPECIES
 
 #### Status
 ACCEPTED

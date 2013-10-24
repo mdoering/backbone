@@ -1,5 +1,4 @@
-Goniochloris sculpta Geitler SPECIES
-=======
+# Goniochloris sculpta Geitler SPECIES
 
 #### Status
 ACCEPTED

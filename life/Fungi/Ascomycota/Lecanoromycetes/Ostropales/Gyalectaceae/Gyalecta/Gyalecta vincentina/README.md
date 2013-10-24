@@ -1,5 +1,4 @@
-Gyalecta vincentina Vain. SPECIES
-=======
+# Gyalecta vincentina Vain. SPECIES
 
 #### Status
 ACCEPTED

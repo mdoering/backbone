@@ -1,5 +1,4 @@
-Agaricus madidus Pers. SPECIES
-=======
+# Agaricus madidus Pers. SPECIES
 
 #### Status
 ACCEPTED

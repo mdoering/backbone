@@ -1,5 +1,4 @@
-Patellaria cerina SPECIES
-=======
+# Patellaria cerina SPECIES
 
 #### Status
 ACCEPTED

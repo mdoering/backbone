@@ -1,5 +1,4 @@
-Russula pruinosa Velen. SPECIES
-=======
+# Russula pruinosa Velen. SPECIES
 
 #### Status
 ACCEPTED

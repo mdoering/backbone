@@ -1,5 +1,4 @@
-Catastoma hyalothrix (Cooke & Massee) Lloyd SPECIES
-=======
+# Catastoma hyalothrix (Cooke & Massee) Lloyd SPECIES
 
 #### Status
 ACCEPTED

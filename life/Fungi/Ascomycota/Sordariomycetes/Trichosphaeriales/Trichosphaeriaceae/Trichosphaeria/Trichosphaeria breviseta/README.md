@@ -1,5 +1,4 @@
-Trichosphaeria breviseta Dearn. SPECIES
-=======
+# Trichosphaeria breviseta Dearn. SPECIES
 
 #### Status
 ACCEPTED

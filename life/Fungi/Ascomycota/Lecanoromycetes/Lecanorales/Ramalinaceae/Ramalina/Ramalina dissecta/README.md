@@ -1,5 +1,4 @@
-Ramalina dissecta Kashiw. SPECIES
-=======
+# Ramalina dissecta Kashiw. SPECIES
 
 #### Status
 ACCEPTED

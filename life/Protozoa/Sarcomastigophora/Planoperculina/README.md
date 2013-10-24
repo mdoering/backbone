@@ -1,5 +1,4 @@
-Planoperculina Hottinger, 1977 GENUS
-=======
+# Planoperculina Hottinger, 1977 GENUS
 
 #### Status
 ACCEPTED

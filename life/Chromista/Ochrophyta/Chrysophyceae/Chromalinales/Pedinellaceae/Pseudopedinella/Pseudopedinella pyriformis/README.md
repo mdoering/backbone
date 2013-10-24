@@ -1,11 +1,10 @@
-Pseudopedinella variabilis Rouchijajnen, 1968 SPECIES
-=======
+# Pseudopedinella pyriformis Carter, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+Integrated Taxonomic Information System
 
 #### Published in
 null

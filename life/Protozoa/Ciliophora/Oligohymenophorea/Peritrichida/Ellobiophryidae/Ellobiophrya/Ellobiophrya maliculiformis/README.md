@@ -1,5 +1,4 @@
-Ellobiophrya maliculiformis Peters, Van As, Basson & Van As, 2004 SPECIES
-=======
+# Ellobiophrya maliculiformis Peters, Van As, Basson & Van As, 2004 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Bryonora curvescens f. sp FORM
-=======
+# Bryonora curvescens (Mudd) Poelt SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 38: 94 (1983)
+Nova Hedwigia 38: 93 (1983)
 
 #### Original name
-Bryonora curvescens f. sp
+Pannaria curvescens Mudd
 
 ### Remarks
 null

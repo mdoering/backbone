@@ -1,5 +1,4 @@
-Chroomonas salina f. carterae (Wislouch) Butcher FORM
-=======
+# Chroomonas salina Butcher SPECIES
 
 #### Status
 ACCEPTED

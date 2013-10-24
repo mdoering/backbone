@@ -1,5 +1,4 @@
-Phyllosticta koelreuteriae Hollós SPECIES
-=======
+# Phyllosticta koelreuteriae Hollós SPECIES
 
 #### Status
 ACCEPTED

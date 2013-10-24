@@ -1,5 +1,4 @@
-Sulfurisphaera ohwakuensis Kurosawa et al., 1998 SPECIES
-=======
+# Sulfurisphaera ohwakuensis Kurosawa et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

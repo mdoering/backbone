@@ -1,5 +1,4 @@
-Stigmatomyces tetrandrus Thaxt. SPECIES
-=======
+# Stigmatomyces tetrandrus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

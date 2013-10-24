@@ -1,5 +1,4 @@
-Granuliferella Zeller, 1957 GENUS
-=======
+# Granuliferella Zeller, 1957 GENUS
 
 #### Status
 ACCEPTED

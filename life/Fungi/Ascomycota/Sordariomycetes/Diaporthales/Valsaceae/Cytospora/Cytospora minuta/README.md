@@ -1,17 +1,16 @@
-Cytospora minuta f. americana Sacc. FORM
-=======
+# Cytospora minuta Thüm., 1885 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycoth. Univ. no. 890 (1885)
 
 #### Original name
-Cytospora minuta f. americana Sacc.
+Cytospora minuta Thüm., 1885
 
 ### Remarks
 null

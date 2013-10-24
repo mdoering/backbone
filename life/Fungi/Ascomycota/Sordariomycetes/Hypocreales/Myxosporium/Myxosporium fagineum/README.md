@@ -1,5 +1,4 @@
-Myxosporium fagineum Corda SPECIES
-=======
+# Myxosporium fagineum Corda SPECIES
 
 #### Status
 ACCEPTED

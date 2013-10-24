@@ -1,5 +1,4 @@
-Paecilomyces fimetarius (Moesz) A.H.S. Br. & G. Sm. SPECIES
-=======
+# Paecilomyces fimetarius (Moesz) A.H.S. Br. & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

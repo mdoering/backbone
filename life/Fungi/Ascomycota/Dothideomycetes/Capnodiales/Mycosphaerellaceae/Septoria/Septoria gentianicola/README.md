@@ -1,5 +1,4 @@
-Septoria gentianicola Baudy & Picb. SPECIES
-=======
+# Septoria gentianicola Baudy & Picb. SPECIES
 
 #### Status
 ACCEPTED

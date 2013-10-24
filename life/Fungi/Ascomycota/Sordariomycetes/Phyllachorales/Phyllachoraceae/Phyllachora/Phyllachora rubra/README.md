@@ -1,5 +1,4 @@
-Phyllachora rubra (Stev.) Petr. SPECIES
-=======
+# Phyllachora rubra (Stev.) Petr. SPECIES
 
 #### Status
 ACCEPTED

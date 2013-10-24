@@ -1,5 +1,4 @@
-Opegrapha sporopodiae R. Sant. SPECIES
-=======
+# Opegrapha sporopodiae R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypotrachyna flavospinulosa Sipman, Elix & T. H. Nash SPECIES
-=======
+# Hypotrachyna flavospinulosa Sipman, Elix & T. H. Nash SPECIES
 
 #### Status
 ACCEPTED

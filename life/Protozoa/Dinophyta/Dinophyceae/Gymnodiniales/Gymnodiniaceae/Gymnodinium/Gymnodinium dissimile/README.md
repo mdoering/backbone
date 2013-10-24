@@ -1,5 +1,4 @@
-Gymnodinium dissimile Kofoid & Swezy, 1921 SPECIES
-=======
+# Gymnodinium dissimile Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthocladiella mougeotii (Lév.) Vassilkov SPECIES
-=======
+# Arthocladiella mougeotii (Lév.) Vassilkov SPECIES
 
 #### Status
 ACCEPTED

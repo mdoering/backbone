@@ -1,5 +1,4 @@
-Clitocybe basirosea (Rick) Singer SPECIES
-=======
+# Clitocybe basirosea (Rick) Singer SPECIES
 
 #### Status
 ACCEPTED

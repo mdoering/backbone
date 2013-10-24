@@ -1,5 +1,4 @@
-Pyrenopsis (Nyl.) Nyl. GENUS
-=======
+# Pyrenopsis (Nyl.) Nyl. GENUS
 
 #### Status
 ACCEPTED

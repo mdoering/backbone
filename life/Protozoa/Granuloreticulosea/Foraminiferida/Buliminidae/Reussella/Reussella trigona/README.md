@@ -1,5 +1,4 @@
-Reussella trigona (Chapman) SPECIES
-=======
+# Reussella trigona (Chapman) SPECIES
 
 #### Status
 ACCEPTED

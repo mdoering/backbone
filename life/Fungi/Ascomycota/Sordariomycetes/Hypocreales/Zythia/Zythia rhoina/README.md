@@ -1,5 +1,4 @@
-Zythia rhoina Ellis & Everh. SPECIES
-=======
+# Zythia rhoina Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

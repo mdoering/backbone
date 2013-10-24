@@ -1,5 +1,4 @@
-Tuburcinia rytzii Massenot SPECIES
-=======
+# Tuburcinia rytzii Massenot SPECIES
 
 #### Status
 ACCEPTED

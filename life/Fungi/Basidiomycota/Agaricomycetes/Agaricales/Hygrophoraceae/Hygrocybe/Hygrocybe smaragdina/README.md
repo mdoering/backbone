@@ -1,5 +1,4 @@
-Hygrocybe smaragdina Leelav., Manim. & Arnolds SPECIES
-=======
+# Hygrocybe smaragdina Leelav., Manim. & Arnolds SPECIES
 
 #### Status
 ACCEPTED

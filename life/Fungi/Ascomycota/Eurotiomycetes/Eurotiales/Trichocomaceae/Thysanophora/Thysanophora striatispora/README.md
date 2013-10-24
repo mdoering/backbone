@@ -1,5 +1,4 @@
-Thysanophora striatispora G.L. Barron & W.B. Cooke, 1970 SPECIES
-=======
+# Thysanophora striatispora G.L. Barron & W.B. Cooke, 1970 SPECIES
 
 #### Status
 ACCEPTED

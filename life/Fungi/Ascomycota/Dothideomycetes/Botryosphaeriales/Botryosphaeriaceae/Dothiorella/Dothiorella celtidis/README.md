@@ -1,5 +1,4 @@
-Dothiorella celtidis Peck SPECIES
-=======
+# Dothiorella celtidis Peck SPECIES
 
 #### Status
 ACCEPTED

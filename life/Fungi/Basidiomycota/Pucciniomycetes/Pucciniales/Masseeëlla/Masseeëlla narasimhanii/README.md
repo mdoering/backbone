@@ -1,14 +1,13 @@
-Kamatomyces narasimhanii (Thirum.) Sathe, 1966 SPECIES
-=======
+# Masseeëlla narasimhanii Thirum., 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 19: 189 (1966)
+Proc. Indian Acad. Sci. , Sect. B 18: 39 (1943)
 
 #### Original name
 Masseeëlla narasimhanii Thirum., 1943

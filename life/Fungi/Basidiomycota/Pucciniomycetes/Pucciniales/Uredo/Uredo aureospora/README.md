@@ -1,5 +1,4 @@
-Uredo aureospora Cummins SPECIES
-=======
+# Uredo aureospora Cummins SPECIES
 
 #### Status
 ACCEPTED

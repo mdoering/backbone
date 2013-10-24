@@ -1,14 +1,13 @@
-Echinoderma perplexum (Knudsen) Bon, 1991 SPECIES
-=======
+# Lepiota perplexa Knudsen, 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Docums Mycol. , mém. hors sér. 21(no. 82): 63 (1991)
+Bot. Tidsskr. 75(2-3): 137 (1981)
 
 #### Original name
 Lepiota perplexa Knudsen, 1981

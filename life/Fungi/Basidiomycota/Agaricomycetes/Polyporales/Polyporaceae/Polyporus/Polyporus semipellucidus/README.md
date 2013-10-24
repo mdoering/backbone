@@ -1,5 +1,4 @@
-Polyporus semipellucidus Zoll. SPECIES
-=======
+# Polyporus semipellucidus Zoll. SPECIES
 
 #### Status
 ACCEPTED

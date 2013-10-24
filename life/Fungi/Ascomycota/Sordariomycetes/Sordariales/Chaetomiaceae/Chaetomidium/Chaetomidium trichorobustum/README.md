@@ -1,14 +1,13 @@
-Thielavia trichorobusta (Seth) Malloch & Cain, 1973 SPECIES
-=======
+# Chaetomidium trichorobustum Seth, 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 65(5): 1071 (1973)
+Nova Hedwigia 16: 430 (1968)
 
 #### Original name
 Chaetomidium trichorobustum Seth, 1968

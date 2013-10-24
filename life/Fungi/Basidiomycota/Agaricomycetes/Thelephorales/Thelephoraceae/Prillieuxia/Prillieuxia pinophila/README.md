@@ -1,5 +1,4 @@
-Prillieuxia pinophila (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Prillieuxia pinophila (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria floerkei Trevis. SPECIES
-=======
+# Verrucaria floerkei Trevis. SPECIES
 
 #### Status
 ACCEPTED

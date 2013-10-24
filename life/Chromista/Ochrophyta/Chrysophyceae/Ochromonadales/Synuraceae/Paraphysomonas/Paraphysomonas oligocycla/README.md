@@ -1,5 +1,4 @@
-Paraphysomonas oligocycla SPECIES
-=======
+# Paraphysomonas oligocycla SPECIES
 
 #### Status
 ACCEPTED

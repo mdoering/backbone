@@ -1,5 +1,4 @@
-Microsphaera sedi (Pospelov) Y.N. Yu SPECIES
-=======
+# Microsphaera sedi (Pospelov) Y.N. Yu SPECIES
 
 #### Status
 ACCEPTED

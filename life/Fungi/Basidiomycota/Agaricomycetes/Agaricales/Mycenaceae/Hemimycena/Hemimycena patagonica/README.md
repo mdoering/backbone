@@ -1,5 +1,4 @@
-Hemimycena patagonica Singer SPECIES
-=======
+# Hemimycena patagonica Singer SPECIES
 
 #### Status
 ACCEPTED

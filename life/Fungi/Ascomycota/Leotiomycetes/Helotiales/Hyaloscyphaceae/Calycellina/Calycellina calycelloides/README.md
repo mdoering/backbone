@@ -1,5 +1,4 @@
-Calycellina calycelloides Dennis & Spooner, 1993 SPECIES
-=======
+# Calycellina calycelloides Dennis & Spooner, 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tectimyces leptophlebiidarum L.G. Valle & Santam., 2002 SPECIES
-=======
+# Tectimyces leptophlebiidarum L.G. Valle & Santam., 2002 SPECIES
 
 #### Status
 ACCEPTED

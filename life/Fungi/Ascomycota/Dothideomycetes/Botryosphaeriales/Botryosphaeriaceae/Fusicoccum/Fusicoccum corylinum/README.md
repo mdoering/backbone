@@ -1,5 +1,4 @@
-Fusicoccum corylinum Sacc. SPECIES
-=======
+# Fusicoccum corylinum Sacc. SPECIES
 
 #### Status
 ACCEPTED

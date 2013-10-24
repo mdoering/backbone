@@ -1,5 +1,4 @@
-Lecidea silenii Vain. SPECIES
-=======
+# Lecidea silenii Vain. SPECIES
 
 #### Status
 ACCEPTED

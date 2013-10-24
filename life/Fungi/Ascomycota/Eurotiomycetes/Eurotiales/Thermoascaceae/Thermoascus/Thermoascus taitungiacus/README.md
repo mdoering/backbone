@@ -1,5 +1,4 @@
-Thermoascus taitungiacus K.Y. Chen & Z.C. Chen, 1996 SPECIES
-=======
+# Thermoascus taitungiacus K.Y. Chen & Z.C. Chen, 1996 SPECIES
 
 #### Status
 ACCEPTED

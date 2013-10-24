@@ -1,17 +1,16 @@
-Botrytis porri N.F. Buchw., 1949 SPECIES
-=======
+# Botryotinia porri (J.F.H. Beyma) Whetzel, 1945 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. VetHojsk. Aarsskr. 32: 147 (1949)
+Mycologia 37(6): 680 (1945)
 
 #### Original name
-Botrytis porri N.F. Buchw., 1949
+Sclerotinia porri J.F.H. Beyma, 1927
 
 ### Remarks
 null

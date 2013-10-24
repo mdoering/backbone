@@ -1,5 +1,4 @@
-Asterina xymalodicola Hansf. SPECIES
-=======
+# Asterina xymalodicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

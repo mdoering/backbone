@@ -1,5 +1,4 @@
-Stropharia punctulata (Kalchbr.) Sacc. SPECIES
-=======
+# Stropharia punctulata (Kalchbr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

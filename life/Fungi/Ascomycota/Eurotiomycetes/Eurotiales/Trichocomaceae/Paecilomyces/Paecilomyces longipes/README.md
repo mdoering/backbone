@@ -1,5 +1,4 @@
-Paecilomyces longipes (Petch) A.H.S. Br. & G. Sm. SPECIES
-=======
+# Paecilomyces longipes (Petch) A.H.S. Br. & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplotomma Flotow, 1849 GENUS
-=======
+# Diplotomma Flotow, 1849 GENUS
 
 #### Status
 ACCEPTED

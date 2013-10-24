@@ -1,5 +1,4 @@
-Cryptovalsa platensis Speg. SPECIES
-=======
+# Cryptovalsa platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

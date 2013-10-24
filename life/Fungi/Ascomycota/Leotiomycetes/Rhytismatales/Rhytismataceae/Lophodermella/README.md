@@ -1,5 +1,4 @@
-Lophodermella Höhn. GENUS
-=======
+# Lophodermella Höhn. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora synothea (Ach.) Fr. SPECIES
-=======
+# Biatora synothea (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

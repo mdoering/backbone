@@ -1,5 +1,4 @@
-Xylaria reinkingii Lloyd SPECIES
-=======
+# Xylaria reinkingii Lloyd SPECIES
 
 #### Status
 ACCEPTED

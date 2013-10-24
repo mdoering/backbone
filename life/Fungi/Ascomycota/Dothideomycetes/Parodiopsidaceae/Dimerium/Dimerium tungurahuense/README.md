@@ -1,5 +1,4 @@
-Dimerium tungurahuense Petr. SPECIES
-=======
+# Dimerium tungurahuense Petr. SPECIES
 
 #### Status
 ACCEPTED

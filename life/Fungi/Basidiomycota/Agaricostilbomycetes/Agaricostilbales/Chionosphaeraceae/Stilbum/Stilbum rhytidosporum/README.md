@@ -1,5 +1,4 @@
-Stilbum rhytidosporum Berk. & Broome SPECIES
-=======
+# Stilbum rhytidosporum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe tenbricoides Kühner SPECIES
-=======
+# Inocybe tenbricoides Kühner SPECIES
 
 #### Status
 ACCEPTED

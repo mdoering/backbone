@@ -1,5 +1,4 @@
-Septoria planiuscula Died. SPECIES
-=======
+# Septoria planiuscula Died. SPECIES
 
 #### Status
 ACCEPTED

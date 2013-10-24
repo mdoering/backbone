@@ -1,14 +1,13 @@
-Ascobious GENUS
-=======
+# Ascobius Henneguy, 1884 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Arch. Zool. exp. gén. Paris, (2) 2, 412.
 
 #### Original name
 null

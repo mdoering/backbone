@@ -1,5 +1,4 @@
-Candida khmerensis Nagats., H. Kawas., Mikata & Tats. Seki SPECIES
-=======
+# Candida khmerensis Nagats., H. Kawas., Mikata & Tats. Seki SPECIES
 
 #### Status
 ACCEPTED

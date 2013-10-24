@@ -1,5 +1,4 @@
-Lecanora espinosae Zahlbr. SPECIES
-=======
+# Lecanora espinosae Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

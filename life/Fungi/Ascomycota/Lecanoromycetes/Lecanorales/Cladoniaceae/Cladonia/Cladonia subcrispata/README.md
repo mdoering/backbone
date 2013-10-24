@@ -1,5 +1,4 @@
-Cladonia subcrispata f. subcrispata FORM
-=======
+# Cladonia subcrispata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Cladonia subcrispata f. subcrispata
+null
 
 ### Remarks
 null

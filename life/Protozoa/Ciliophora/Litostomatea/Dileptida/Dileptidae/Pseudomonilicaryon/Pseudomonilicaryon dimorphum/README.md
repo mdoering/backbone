@@ -1,8 +1,7 @@
-Dileptus dimorphus Wang, 1940 SPECIES
-=======
+# Pseudomonilicaryon dimorphum (Wang, 1940) Vdacny & Foissner, 2011 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

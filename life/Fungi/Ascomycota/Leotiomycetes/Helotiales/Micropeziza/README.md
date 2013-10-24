@@ -1,17 +1,16 @@
-Niesslella Höhn. GENUS
-=======
+# Micropeziza Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Ber. dt. bot. Ges. 36: 468 (1919)
+null
 
 #### Original name
-Niesslella Höhn.
+null
 
 ### Remarks
 null

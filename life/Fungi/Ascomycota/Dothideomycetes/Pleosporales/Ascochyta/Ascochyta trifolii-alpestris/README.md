@@ -1,5 +1,4 @@
-Ascochyta trifolii-alpestris Dominik SPECIES
-=======
+# Ascochyta trifolii-alpestris Dominik SPECIES
 
 #### Status
 ACCEPTED

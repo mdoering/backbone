@@ -1,5 +1,4 @@
-Clathrus argentinus L.S. Domínguez SPECIES
-=======
+# Clathrus argentinus L.S. Domínguez SPECIES
 
 #### Status
 ACCEPTED

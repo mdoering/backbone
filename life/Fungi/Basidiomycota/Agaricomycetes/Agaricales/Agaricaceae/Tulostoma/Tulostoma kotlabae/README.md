@@ -1,5 +1,4 @@
-Tulostoma kotlabae Pouzar SPECIES
-=======
+# Tulostoma kotlabae Pouzar SPECIES
 
 #### Status
 ACCEPTED

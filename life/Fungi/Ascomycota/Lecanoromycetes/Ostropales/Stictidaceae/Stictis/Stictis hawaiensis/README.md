@@ -1,5 +1,4 @@
-Stictis hawaiensis E.K. Cash SPECIES
-=======
+# Stictis hawaiensis E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

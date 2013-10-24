@@ -1,5 +1,4 @@
-Massalongiella ligustica Pollacci SPECIES
-=======
+# Massalongiella ligustica Pollacci SPECIES
 
 #### Status
 ACCEPTED

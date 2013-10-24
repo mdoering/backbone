@@ -1,5 +1,4 @@
-Endophragmiella rigidiuscula R.F. Castañeda SPECIES
-=======
+# Endophragmiella rigidiuscula R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

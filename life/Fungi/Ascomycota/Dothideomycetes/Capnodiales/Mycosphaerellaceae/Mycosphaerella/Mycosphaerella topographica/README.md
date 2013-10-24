@@ -1,14 +1,13 @@
-Carlia topographica (Sacc. & Speg.) Weese, 1930 SPECIES
-=======
+# Mycosphaerella topographica (Sacc. & Speg.) Lindau, 1903 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Eumycetes Selecti Exsiccati no. 405 (1930)
+Hilfsbuch fur das Sammeln der Ascomyceten (Berlin) 115 (1903)
 
 #### Original name
 Sphaerella topographica Sacc. & Speg., 1878

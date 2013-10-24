@@ -1,5 +1,4 @@
-Bacidia coerulea Körb. SPECIES
-=======
+# Bacidia coerulea Körb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chalciporus pierrhuguesii (Boud.) Bon SPECIES
-=======
+# Chalciporus pierrhuguesii (Boud.) Bon SPECIES
 
 #### Status
 ACCEPTED

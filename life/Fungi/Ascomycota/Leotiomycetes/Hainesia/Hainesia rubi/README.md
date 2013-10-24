@@ -1,5 +1,4 @@
-Hainesia rubi (Westend.) Sacc., 1884 SPECIES
-=======
+# Hainesia rubi (Westend.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus atrorubens Berk. SPECIES
-=======
+# Agaricus atrorubens Berk. SPECIES
 
 #### Status
 ACCEPTED

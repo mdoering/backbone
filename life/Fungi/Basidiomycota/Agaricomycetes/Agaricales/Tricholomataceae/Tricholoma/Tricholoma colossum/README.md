@@ -1,5 +1,4 @@
-Tricholoma colossum (Fr.) Quél. SPECIES
-=======
+# Tricholoma colossum (Fr.) Quél. SPECIES
 
 #### Status
 ACCEPTED

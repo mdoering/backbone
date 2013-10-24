@@ -1,5 +1,4 @@
-Pertusaria doradorensis Elix & A. W. Archer SPECIES
-=======
+# Pertusaria doradorensis Elix & A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

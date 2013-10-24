@@ -1,5 +1,4 @@
-Catillaria kansuensis H. Magn. SPECIES
-=======
+# Catillaria kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

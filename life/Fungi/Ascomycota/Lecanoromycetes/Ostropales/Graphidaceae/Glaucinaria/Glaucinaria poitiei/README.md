@@ -1,5 +1,4 @@
-Glaucinaria poitiei (Fée) A. Massal. SPECIES
-=======
+# Glaucinaria poitiei (Fée) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

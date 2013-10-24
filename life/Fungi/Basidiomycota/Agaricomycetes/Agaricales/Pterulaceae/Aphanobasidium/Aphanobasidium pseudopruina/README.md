@@ -1,5 +1,4 @@
-Aphanobasidium pseudopruina Boidin & Gilles SPECIES
-=======
+# Aphanobasidium pseudopruina Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

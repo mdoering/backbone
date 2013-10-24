@@ -1,5 +1,4 @@
-Ascotricha novae-caledoniae Udagawa, Uchiy. & Kamiya, 1994 SPECIES
-=======
+# Ascotricha novae-caledoniae Udagawa, Uchiy. & Kamiya, 1994 SPECIES
 
 #### Status
 ACCEPTED

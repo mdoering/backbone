@@ -1,5 +1,4 @@
-Peziza coronilla Pers. SPECIES
-=======
+# Peziza coronilla Pers. SPECIES
 
 #### Status
 ACCEPTED

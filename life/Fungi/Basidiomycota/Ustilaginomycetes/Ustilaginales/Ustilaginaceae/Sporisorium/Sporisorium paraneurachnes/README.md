@@ -1,5 +1,4 @@
-Sporisorium paraneurachnes R.G. Shivas & Vánky SPECIES
-=======
+# Sporisorium paraneurachnes R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

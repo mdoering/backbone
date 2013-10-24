@@ -1,5 +1,4 @@
-Methanothermococcus Whitman, 2002 GENUS
-=======
+# Methanothermococcus Whitman, 2002 GENUS
 
 #### Status
 ACCEPTED

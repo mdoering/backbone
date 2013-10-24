@@ -1,5 +1,4 @@
-Marasmius halimunensis Desjardin, Retn. & E. Horak SPECIES
-=======
+# Marasmius halimunensis Desjardin, Retn. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

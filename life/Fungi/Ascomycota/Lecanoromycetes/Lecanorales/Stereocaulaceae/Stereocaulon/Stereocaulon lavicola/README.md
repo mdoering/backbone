@@ -1,5 +1,4 @@
-Stereocaulon lavicola H. Magn. SPECIES
-=======
+# Stereocaulon lavicola H. Magn. SPECIES
 
 #### Status
 ACCEPTED

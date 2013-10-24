@@ -1,5 +1,4 @@
-Rhizocarpon wulffianum Räsänen SPECIES
-=======
+# Rhizocarpon wulffianum Räsänen SPECIES
 
 #### Status
 ACCEPTED

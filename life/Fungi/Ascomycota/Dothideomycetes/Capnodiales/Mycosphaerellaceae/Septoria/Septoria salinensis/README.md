@@ -1,5 +1,4 @@
-Septoria salinensis Hamant SPECIES
-=======
+# Septoria salinensis Hamant SPECIES
 
 #### Status
 ACCEPTED

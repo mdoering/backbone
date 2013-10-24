@@ -1,5 +1,4 @@
-Sargassum pseudocystocarpum Grunow SPECIES
-=======
+# Sargassum pseudocystocarpum Grunow SPECIES
 
 #### Status
 ACCEPTED

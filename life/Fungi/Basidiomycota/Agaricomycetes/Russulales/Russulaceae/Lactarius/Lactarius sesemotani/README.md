@@ -1,5 +1,4 @@
-Lactarius sesemotani (Beeli) Buyck SPECIES
-=======
+# Lactarius sesemotani (Beeli) Buyck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola cibaoensis Hansf. SPECIES
-=======
+# Meliola cibaoensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

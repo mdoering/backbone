@@ -1,5 +1,4 @@
-Streptomyces cystargineus (Kusakabe & Isono, 1992) Nakagaito et al., 1993 SPECIES
-=======
+# Streptomyces cystargineus (Kusakabe & Isono, 1992) Nakagaito et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

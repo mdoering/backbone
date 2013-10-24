@@ -1,5 +1,4 @@
-Leptogium fulvidum Harm. SPECIES
-=======
+# Leptogium fulvidum Harm. SPECIES
 
 #### Status
 ACCEPTED

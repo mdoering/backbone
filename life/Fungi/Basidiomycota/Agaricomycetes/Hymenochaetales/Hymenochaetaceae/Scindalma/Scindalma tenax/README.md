@@ -1,5 +1,4 @@
-Scindalma tenax (Lév.) Kuntze SPECIES
-=======
+# Scindalma tenax (Lév.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

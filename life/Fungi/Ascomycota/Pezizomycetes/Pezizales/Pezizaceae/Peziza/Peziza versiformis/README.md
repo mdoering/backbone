@@ -1,17 +1,16 @@
-Peziza versiformis var. versiformis VARIETY
-=======
+# Peziza versiformis SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Peziza versiformis
 
 ### Remarks
 null

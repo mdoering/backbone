@@ -1,5 +1,4 @@
-Cortinarius ombrophilus M.M. Moser SPECIES
-=======
+# Cortinarius ombrophilus M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

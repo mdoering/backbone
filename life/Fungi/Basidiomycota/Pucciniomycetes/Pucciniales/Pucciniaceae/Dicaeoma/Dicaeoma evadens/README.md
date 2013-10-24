@@ -1,5 +1,4 @@
-Dicaeoma evadens (Harkn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Dicaeoma evadens (Harkn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

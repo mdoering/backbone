@@ -1,5 +1,4 @@
-Graphis turgida Fée SPECIES
-=======
+# Graphis turgida Fée SPECIES
 
 #### Status
 ACCEPTED

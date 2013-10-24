@@ -1,5 +1,4 @@
-Sphaerella nicotianae Ellis & Everh. SPECIES
-=======
+# Sphaerella nicotianae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

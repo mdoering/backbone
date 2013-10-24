@@ -1,5 +1,4 @@
-Clitocybe humosa Fr. SPECIES
-=======
+# Clitocybe humosa Fr. SPECIES
 
 #### Status
 ACCEPTED

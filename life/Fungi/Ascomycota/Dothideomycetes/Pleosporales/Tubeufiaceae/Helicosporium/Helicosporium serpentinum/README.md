@@ -1,5 +1,4 @@
-Helicosporium serpentinum Linder SPECIES
-=======
+# Helicosporium serpentinum Linder SPECIES
 
 #### Status
 ACCEPTED

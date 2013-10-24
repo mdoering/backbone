@@ -1,5 +1,4 @@
-Septoria alopecuri var. alopecuri VARIETY
-=======
+# Septoria alopecuri (P. Karst.) Syd. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-Septoria alopecuri var. alopecuri
+null
 
 ### Remarks
 null

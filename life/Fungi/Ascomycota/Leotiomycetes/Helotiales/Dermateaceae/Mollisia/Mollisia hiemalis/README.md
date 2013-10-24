@@ -1,5 +1,4 @@
-Mollisia hiemalis Rehm SPECIES
-=======
+# Mollisia hiemalis Rehm SPECIES
 
 #### Status
 ACCEPTED

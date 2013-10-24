@@ -1,5 +1,4 @@
-Helminthosporium theobromae Turconi SPECIES
-=======
+# Helminthosporium theobromae Turconi SPECIES
 
 #### Status
 ACCEPTED

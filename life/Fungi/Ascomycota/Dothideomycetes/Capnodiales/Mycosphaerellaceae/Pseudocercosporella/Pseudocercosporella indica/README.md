@@ -1,5 +1,4 @@
-Pseudocercosporella indica A.N. Rai, B. Rai & Kamal SPECIES
-=======
+# Pseudocercosporella indica A.N. Rai, B. Rai & Kamal SPECIES
 
 #### Status
 ACCEPTED

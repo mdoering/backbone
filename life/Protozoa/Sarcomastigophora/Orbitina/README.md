@@ -1,5 +1,4 @@
-Orbitina Sellier de Civrieux, 1977 GENUS
-=======
+# Orbitina Sellier de Civrieux, 1977 GENUS
 
 #### Status
 ACCEPTED

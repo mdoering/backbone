@@ -1,5 +1,4 @@
-Tintinnopsis bottnica SPECIES
-=======
+# Tintinnopsis bottnica SPECIES
 
 #### Status
 ACCEPTED

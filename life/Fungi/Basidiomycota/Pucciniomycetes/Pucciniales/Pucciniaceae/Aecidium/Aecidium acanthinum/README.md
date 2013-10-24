@@ -1,5 +1,4 @@
-Aecidium acanthinum Speg. SPECIES
-=======
+# Aecidium acanthinum Speg. SPECIES
 
 #### Status
 ACCEPTED

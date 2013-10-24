@@ -1,5 +1,4 @@
-Juferevella Zadorozhnyj, 1987 GENUS
-=======
+# Juferevella Zadorozhnyj, 1987 GENUS
 
 #### Status
 ACCEPTED

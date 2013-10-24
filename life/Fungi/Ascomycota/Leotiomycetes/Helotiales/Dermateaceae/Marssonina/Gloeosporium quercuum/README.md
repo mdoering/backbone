@@ -1,5 +1,4 @@
-Gloeosporium quercuum Miura SPECIES
-=======
+# Gloeosporium quercuum Miura SPECIES
 
 #### Status
 ACCEPTED

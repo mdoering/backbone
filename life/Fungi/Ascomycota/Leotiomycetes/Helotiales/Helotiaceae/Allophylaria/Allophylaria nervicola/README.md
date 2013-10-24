@@ -1,5 +1,4 @@
-Allophylaria nervicola (Velen.) Baral SPECIES
-=======
+# Allophylaria nervicola (Velen.) Baral SPECIES
 
 #### Status
 ACCEPTED

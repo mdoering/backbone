@@ -1,5 +1,4 @@
-Perichaena syncarpon T.E. Brooks, 1946 SPECIES
-=======
+# Perichaena syncarpon T.E. Brooks, 1946 SPECIES
 
 #### Status
 ACCEPTED

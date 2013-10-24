@@ -1,5 +1,4 @@
-Peziza ochroleuca Bolton SPECIES
-=======
+# Peziza ochroleuca Bolton SPECIES
 
 #### Status
 ACCEPTED

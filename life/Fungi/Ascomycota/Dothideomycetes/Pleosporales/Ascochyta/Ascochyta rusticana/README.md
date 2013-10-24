@@ -1,5 +1,4 @@
-Ascochyta rusticana Kabát & Bubák SPECIES
-=======
+# Ascochyta rusticana Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

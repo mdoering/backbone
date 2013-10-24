@@ -1,5 +1,4 @@
-Diaporthe castrensis Sacc. & Speg. SPECIES
-=======
+# Diaporthe castrensis Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED

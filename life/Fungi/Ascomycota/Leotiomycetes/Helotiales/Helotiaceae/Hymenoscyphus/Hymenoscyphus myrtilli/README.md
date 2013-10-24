@@ -1,14 +1,13 @@
-Helotium myrtilli Velen., 1934 SPECIES
-=======
+# Hymenoscyphus myrtilli (Velen.) Svrcek, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 191 (1934)
+Sb. nár. Mus. Praze 40B(3-4): 162 (1985)
 
 #### Original name
 Helotium myrtilli Velen., 1934

@@ -1,5 +1,4 @@
-Cortinarius perannulatus Bidaud SPECIES
-=======
+# Cortinarius perannulatus Bidaud SPECIES
 
 #### Status
 ACCEPTED

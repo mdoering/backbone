@@ -1,5 +1,4 @@
-Helotium tectum Rick SPECIES
-=======
+# Helotium tectum Rick SPECIES
 
 #### Status
 ACCEPTED

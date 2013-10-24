@@ -1,5 +1,4 @@
-Lophodiacrodium obversum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
-=======
+# Lophodiacrodium obversum (Timofeev, 1959) Downie & Sarjeant, 1965 SPECIES
 
 #### Status
 ACCEPTED

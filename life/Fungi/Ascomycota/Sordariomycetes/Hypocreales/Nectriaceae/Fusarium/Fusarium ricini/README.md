@@ -1,5 +1,4 @@
-Fusarium ricini (Berenger) Bizz. SPECIES
-=======
+# Fusarium ricini (Berenger) Bizz. SPECIES
 
 #### Status
 ACCEPTED

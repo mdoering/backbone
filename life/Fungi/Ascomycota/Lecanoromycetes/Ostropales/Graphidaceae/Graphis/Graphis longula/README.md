@@ -1,5 +1,4 @@
-Graphis longula Kremp. SPECIES
-=======
+# Graphis longula Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ascodinium parvum (Cookson & Eisenack, 1958) Cookson & Eisenack, 1960 SPECIES
-=======
+# Ascodinium parvum (Cookson & Eisenack, 1958) Cookson & Eisenack, 1960 SPECIES
 
 #### Status
 ACCEPTED

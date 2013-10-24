@@ -1,5 +1,4 @@
-Actidium crotalariae Schwein. SPECIES
-=======
+# Actidium crotalariae Schwein. SPECIES
 
 #### Status
 ACCEPTED

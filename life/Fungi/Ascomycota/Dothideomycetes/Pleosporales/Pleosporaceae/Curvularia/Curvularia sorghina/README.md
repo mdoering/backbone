@@ -1,5 +1,4 @@
-Curvularia sorghina R.G. Shivas & Sivan., 1987 SPECIES
-=======
+# Curvularia sorghina R.G. Shivas & Sivan., 1987 SPECIES
 
 #### Status
 ACCEPTED

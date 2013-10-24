@@ -1,5 +1,4 @@
-Clitocybe salmonilamella H.E. Bigelow SPECIES
-=======
+# Clitocybe salmonilamella H.E. Bigelow SPECIES
 
 #### Status
 ACCEPTED

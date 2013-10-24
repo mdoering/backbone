@@ -1,5 +1,4 @@
-Cordyceps klenei Pat. SPECIES
-=======
+# Cordyceps klenei Pat. SPECIES
 
 #### Status
 ACCEPTED

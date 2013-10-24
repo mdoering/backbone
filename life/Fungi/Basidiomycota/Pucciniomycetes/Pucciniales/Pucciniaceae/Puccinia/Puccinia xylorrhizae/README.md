@@ -1,5 +1,4 @@
-Puccinia xylorrhizae Arthur SPECIES
-=======
+# Puccinia xylorrhizae Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmidium johnii Halici & D. Hawksw., 2007 SPECIES
-=======
+# Stigmidium johnii Halici & D. Hawksw., 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acervus lusakianus J. Moravec SPECIES
-=======
+# Acervus lusakianus J. Moravec SPECIES
 
 #### Status
 ACCEPTED

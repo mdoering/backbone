@@ -1,5 +1,4 @@
-Catolechia pulchella (Schrad.) Th. Fr. SPECIES
-=======
+# Catolechia pulchella (Schrad.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

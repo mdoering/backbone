@@ -1,5 +1,4 @@
-Helminthosporium cibotii F. Stevens & Weedon SPECIES
-=======
+# Helminthosporium cibotii F. Stevens & Weedon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo danthoniae Henn. SPECIES
-=======
+# Uredo danthoniae Henn. SPECIES
 
 #### Status
 ACCEPTED

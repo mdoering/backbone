@@ -1,5 +1,4 @@
-Pseudohygrophorus Velen. GENUS
-=======
+# Pseudohygrophorus Velen. GENUS
 
 #### Status
 ACCEPTED

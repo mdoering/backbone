@@ -1,5 +1,4 @@
-Homostegia durissima (Berk.) Sacc. SPECIES
-=======
+# Homostegia durissima (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

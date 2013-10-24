@@ -1,5 +1,4 @@
-Spirillum areum SPECIES
-=======
+# Spirillum areum SPECIES
 
 #### Status
 ACCEPTED

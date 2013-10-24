@@ -1,5 +1,4 @@
-Favolus preussii Henn. SPECIES
-=======
+# Favolus preussii Henn. SPECIES
 
 #### Status
 ACCEPTED

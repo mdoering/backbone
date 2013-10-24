@@ -1,5 +1,4 @@
-Tilletia paradoxa Jacz. SPECIES
-=======
+# Tilletia paradoxa Jacz. SPECIES
 
 #### Status
 ACCEPTED

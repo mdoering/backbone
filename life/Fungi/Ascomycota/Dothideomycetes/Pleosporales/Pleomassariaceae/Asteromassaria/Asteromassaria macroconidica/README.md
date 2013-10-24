@@ -1,5 +1,4 @@
-Asteromassaria macroconidica Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
-=======
+# Asteromassaria macroconidica Kaz. Tanaka, Y. Harada & M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Busuanga Yeh, 1990 GENUS
-=======
+# Busuanga Yeh, 1990 GENUS
 
 #### Status
 ACCEPTED

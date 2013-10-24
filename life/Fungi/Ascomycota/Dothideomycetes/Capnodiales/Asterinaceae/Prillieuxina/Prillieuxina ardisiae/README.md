@@ -1,5 +1,4 @@
-Prillieuxina ardisiae (Hansf.) Arx SPECIES
-=======
+# Prillieuxina ardisiae (Hansf.) Arx SPECIES
 
 #### Status
 ACCEPTED

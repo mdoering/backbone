@@ -1,5 +1,4 @@
-Bondarzewiaceae FAMILY
-=======
+# Bondarzewiaceae FAMILY
 
 #### Status
 ACCEPTED

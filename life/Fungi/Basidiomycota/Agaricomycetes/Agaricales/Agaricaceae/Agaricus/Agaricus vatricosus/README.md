@@ -1,5 +1,4 @@
-Agaricus vatricosus Fr. SPECIES
-=======
+# Agaricus vatricosus Fr. SPECIES
 
 #### Status
 ACCEPTED

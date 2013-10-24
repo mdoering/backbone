@@ -1,5 +1,4 @@
-Leucopaxillus macrorhizus (Lasch) Sacconi & Lazzari SPECIES
-=======
+# Leucopaxillus macrorhizus (Lasch) Sacconi & Lazzari SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acladium fimbriatum Rudakov SPECIES
-=======
+# Acladium fimbriatum Rudakov SPECIES
 
 #### Status
 ACCEPTED

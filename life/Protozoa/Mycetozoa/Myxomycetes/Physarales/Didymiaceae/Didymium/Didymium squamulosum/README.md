@@ -1,17 +1,16 @@
-Didymium squamulosum var. claviforme Sturgis VARIETY
-=======
+# Didymium squamulosum (Alb. & Schwein.) Fr., 1818 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Symb. gasteromyc. (Lund) 1-3: 19 (1818)
 
 #### Original name
-Didymium squamulosum var. claviforme Sturgis
+Diderma squamulosum Alb. & Schwein., 1805
 
 ### Remarks
 null

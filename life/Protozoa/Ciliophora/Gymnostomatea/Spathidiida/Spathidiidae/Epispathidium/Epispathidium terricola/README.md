@@ -1,5 +1,4 @@
-Epispathidium terricola Foissner, 1987 SPECIES
-=======
+# Epispathidium terricola Foissner, 1987 SPECIES
 
 #### Status
 ACCEPTED

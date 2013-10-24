@@ -1,5 +1,4 @@
-Agaricus proletarius Fr. SPECIES
-=======
+# Agaricus proletarius Fr. SPECIES
 
 #### Status
 ACCEPTED

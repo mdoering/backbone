@@ -1,5 +1,4 @@
-Schizosphaerella astraea Moshkovitz, 1979 SPECIES
-=======
+# Schizosphaerella astraea Moshkovitz, 1979 SPECIES
 
 #### Status
 ACCEPTED

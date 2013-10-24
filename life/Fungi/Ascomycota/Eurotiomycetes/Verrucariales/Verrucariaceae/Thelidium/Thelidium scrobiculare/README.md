@@ -1,5 +1,4 @@
-Thelidium scrobiculare (Garov.) Arnold SPECIES
-=======
+# Thelidium scrobiculare (Garov.) Arnold SPECIES
 
 #### Status
 ACCEPTED

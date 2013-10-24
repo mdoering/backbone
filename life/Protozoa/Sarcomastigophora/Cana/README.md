@@ -1,5 +1,4 @@
-Cana Mekik, 2000 GENUS
-=======
+# Cana Mekik, 2000 GENUS
 
 #### Status
 ACCEPTED

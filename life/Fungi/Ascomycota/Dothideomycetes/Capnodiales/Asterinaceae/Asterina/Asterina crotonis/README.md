@@ -1,5 +1,4 @@
-Asterina crotonis Syd. & P. Syd. SPECIES
-=======
+# Asterina crotonis Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

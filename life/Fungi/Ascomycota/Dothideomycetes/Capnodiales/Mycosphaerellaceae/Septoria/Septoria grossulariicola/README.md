@@ -1,8 +1,7 @@
-Septoria grossularicola C. Massal. SPECIES
-=======
+# Septoria grossulariicola C. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria grossularicola C. Massal.
+Septoria grossulariicola C. Massal.
 
 ### Remarks
 null

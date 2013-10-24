@@ -1,5 +1,4 @@
-Sphaerulina trapae-bispinosae Nag Raj & Govindu SPECIES
-=======
+# Sphaerulina trapae-bispinosae Nag Raj & Govindu SPECIES
 
 #### Status
 ACCEPTED

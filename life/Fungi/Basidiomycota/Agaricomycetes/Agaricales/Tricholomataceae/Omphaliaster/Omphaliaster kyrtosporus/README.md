@@ -1,14 +1,13 @@
-Hygroaster kyrtosporus E. Horak, 1966 SPECIES
-=======
+# Omphaliaster kyrtosporus (E. Horak) Noordel., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schweiz. Z. Pilzk. 44: 91 (1966)
+Persoonia 12(1): 47 (1983)
 
 #### Original name
 Hygroaster kyrtosporus E. Horak, 1966

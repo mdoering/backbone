@@ -1,5 +1,4 @@
-Amylis Speg. GENUS
-=======
+# Amylis Speg. GENUS
 
 #### Status
 ACCEPTED

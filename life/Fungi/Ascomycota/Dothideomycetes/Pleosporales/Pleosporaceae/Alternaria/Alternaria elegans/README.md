@@ -1,5 +1,4 @@
-Alternaria elegans E.G. Simmons & J.C. David, 2000 SPECIES
-=======
+# Alternaria elegans E.G. Simmons & J.C. David, 2000 SPECIES
 
 #### Status
 ACCEPTED

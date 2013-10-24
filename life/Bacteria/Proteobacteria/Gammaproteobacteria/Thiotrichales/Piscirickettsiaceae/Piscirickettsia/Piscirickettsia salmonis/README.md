@@ -1,5 +1,4 @@
-Piscirickettsia salmonis Fryer et al., 1992 SPECIES
-=======
+# Piscirickettsia salmonis Fryer et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

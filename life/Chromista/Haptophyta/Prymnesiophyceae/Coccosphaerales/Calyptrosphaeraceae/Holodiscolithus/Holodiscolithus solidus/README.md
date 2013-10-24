@@ -1,5 +1,4 @@
-Holodiscolithus solidus (Deflandre in Deflandre & Fert, 1954) Roth, 1970 SPECIES
-=======
+# Holodiscolithus solidus (Deflandre in Deflandre & Fert, 1954) Roth, 1970 SPECIES
 
 #### Status
 ACCEPTED

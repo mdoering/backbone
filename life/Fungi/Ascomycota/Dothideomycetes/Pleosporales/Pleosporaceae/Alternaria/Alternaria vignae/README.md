@@ -1,5 +1,4 @@
-Alternaria vignae Sawada SPECIES
-=======
+# Alternaria vignae Sawada SPECIES
 
 #### Status
 ACCEPTED

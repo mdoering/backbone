@@ -1,5 +1,4 @@
-Cortinarius cephalixoides M.M. Moser & Thiers SPECIES
-=======
+# Cortinarius cephalixoides M.M. Moser & Thiers SPECIES
 
 #### Status
 ACCEPTED

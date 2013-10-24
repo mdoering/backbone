@@ -1,5 +1,4 @@
-Eutypella pongamiae G.P. Agarwal & S. Gupta SPECIES
-=======
+# Eutypella pongamiae G.P. Agarwal & S. Gupta SPECIES
 
 #### Status
 ACCEPTED

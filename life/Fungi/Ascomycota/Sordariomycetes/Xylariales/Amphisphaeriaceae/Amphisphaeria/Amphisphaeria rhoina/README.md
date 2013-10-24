@@ -1,5 +1,4 @@
-Amphisphaeria rhoina Tassi SPECIES
-=======
+# Amphisphaeria rhoina Tassi SPECIES
 
 #### Status
 ACCEPTED

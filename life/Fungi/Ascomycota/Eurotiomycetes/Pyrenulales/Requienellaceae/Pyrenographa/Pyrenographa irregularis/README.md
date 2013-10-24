@@ -1,5 +1,4 @@
-Pyrenographa irregularis (Wehm.) R.C. Harris SPECIES
-=======
+# Pyrenographa irregularis (Wehm.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

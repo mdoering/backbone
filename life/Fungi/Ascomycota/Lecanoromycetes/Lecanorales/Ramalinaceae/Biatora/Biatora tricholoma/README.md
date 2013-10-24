@@ -1,5 +1,4 @@
-Biatora tricholoma Mont. SPECIES
-=======
+# Biatora tricholoma Mont. SPECIES
 
 #### Status
 ACCEPTED

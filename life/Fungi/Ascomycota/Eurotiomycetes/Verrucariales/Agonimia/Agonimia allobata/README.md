@@ -1,14 +1,13 @@
-Verrucaria allobata Stizenb. SPECIES
-=======
+# Agonimia allobata (Stizenb.) P. James SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ber. naturw. Ges. St. Gallen, 1880-1 501 (1882)
+Lichenologist 24(4): 366 (1992)
 
 #### Original name
 Verrucaria allobata Stizenb.

@@ -1,5 +1,4 @@
-Coniothyrium clandestinum P. Karst. SPECIES
-=======
+# Coniothyrium clandestinum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

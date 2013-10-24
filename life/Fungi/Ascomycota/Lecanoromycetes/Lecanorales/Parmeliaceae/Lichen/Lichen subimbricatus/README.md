@@ -1,5 +1,4 @@
-Lichen subimbricatus Relhan SPECIES
-=======
+# Lichen subimbricatus Relhan SPECIES
 
 #### Status
 ACCEPTED

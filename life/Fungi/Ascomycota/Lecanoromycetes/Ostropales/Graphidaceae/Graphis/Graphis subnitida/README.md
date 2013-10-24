@@ -1,5 +1,4 @@
-Graphis subnitida Nyl. SPECIES
-=======
+# Graphis subnitida Nyl. SPECIES
 
 #### Status
 ACCEPTED

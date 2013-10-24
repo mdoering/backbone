@@ -1,5 +1,4 @@
-Ilytheomyces major Thaxt. SPECIES
-=======
+# Ilytheomyces major Thaxt. SPECIES
 
 #### Status
 ACCEPTED

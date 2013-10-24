@@ -1,5 +1,4 @@
-Trametes salina Corner SPECIES
-=======
+# Trametes salina Corner SPECIES
 
 #### Status
 ACCEPTED

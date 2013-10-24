@@ -1,5 +1,4 @@
-Tubaria minima J.E. Lange SPECIES
-=======
+# Tubaria minima J.E. Lange SPECIES
 
 #### Status
 ACCEPTED

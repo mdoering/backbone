@@ -1,5 +1,4 @@
-Lecidea rittokensis (Hellb.) SPECIES
-=======
+# Lecidea rittokensis (Hellb.) SPECIES
 
 #### Status
 ACCEPTED

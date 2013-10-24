@@ -1,5 +1,4 @@
-Calonectria rutila Kirschst. SPECIES
-=======
+# Calonectria rutila Kirschst. SPECIES
 
 #### Status
 ACCEPTED

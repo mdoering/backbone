@@ -1,5 +1,4 @@
-Macrosporium internum McAlpine SPECIES
-=======
+# Macrosporium internum McAlpine SPECIES
 
 #### Status
 ACCEPTED

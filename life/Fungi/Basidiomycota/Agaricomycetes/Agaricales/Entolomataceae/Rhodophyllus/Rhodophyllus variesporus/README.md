@@ -1,5 +1,4 @@
-Rhodophyllus variesporus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus variesporus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

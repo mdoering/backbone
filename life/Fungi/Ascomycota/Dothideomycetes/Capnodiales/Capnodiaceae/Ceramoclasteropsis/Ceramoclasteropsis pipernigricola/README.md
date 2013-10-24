@@ -1,5 +1,4 @@
-Ceramoclasteropsis pipernigricola Bat. & Peres SPECIES
-=======
+# Ceramoclasteropsis pipernigricola Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

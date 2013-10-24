@@ -1,5 +1,4 @@
-Meliola sanguinea Ellis & Everh. SPECIES
-=======
+# Meliola sanguinea Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

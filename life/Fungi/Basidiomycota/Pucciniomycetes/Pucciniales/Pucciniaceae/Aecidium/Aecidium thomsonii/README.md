@@ -1,8 +1,7 @@
-Aecidium thomsoni Berk. SPECIES
-=======
+# Aecidium thomsonii Berk. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Aecidium thomsoni Berk.
+Aecidium thomsonii Berk.
 
 ### Remarks
 null

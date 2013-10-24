@@ -1,5 +1,4 @@
-Nosema portugal SPECIES
-=======
+# Nosema portugal SPECIES
 
 #### Status
 ACCEPTED

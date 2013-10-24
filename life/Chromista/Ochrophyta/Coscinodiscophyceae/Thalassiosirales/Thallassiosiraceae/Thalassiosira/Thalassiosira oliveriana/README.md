@@ -1,5 +1,4 @@
-Thalassiosira oliveriana (O'Meara) Makarova & Nikolajev, 1983 SPECIES
-=======
+# Thalassiosira oliveriana (O'Meara) Makarova & Nikolajev, 1983 SPECIES
 
 #### Status
 ACCEPTED

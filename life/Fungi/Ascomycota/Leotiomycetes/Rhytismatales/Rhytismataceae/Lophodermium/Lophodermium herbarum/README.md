@@ -1,14 +1,13 @@
-Aporia herbarum (Fr.) Duby, 1862 SPECIES
-=======
+# Lophodermium herbarum (Fr.) Fuckel, 1826 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 1): 53 (1877)
+Jb. nassau. Ver. Naturk. 1: 437 (1826)
 
 #### Original name
 Hysterium herbarum Fr., 1823

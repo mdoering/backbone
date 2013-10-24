@@ -1,5 +1,4 @@
-Opegrapha vermelhana Vain. SPECIES
-=======
+# Opegrapha vermelhana Vain. SPECIES
 
 #### Status
 ACCEPTED

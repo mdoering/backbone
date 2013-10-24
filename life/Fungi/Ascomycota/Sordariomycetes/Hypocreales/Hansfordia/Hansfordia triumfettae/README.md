@@ -1,14 +1,13 @@
-Sporotrichum triumfettae Hansf., 1943 SPECIES
-=======
+# Hansfordia triumfettae (Hansf.) S. Hughes, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. Linn. Soc. London 155: 41 (1943)
+Mycol. Pap. 43: 16 (1951)
 
 #### Original name
 Sporotrichum triumfettae Hansf., 1943

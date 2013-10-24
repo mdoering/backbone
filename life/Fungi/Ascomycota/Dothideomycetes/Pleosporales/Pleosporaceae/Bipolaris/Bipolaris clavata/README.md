@@ -1,5 +1,4 @@
-Bipolaris clavata Alcorn, 1982 SPECIES
-=======
+# Bipolaris clavata Alcorn, 1982 SPECIES
 
 #### Status
 ACCEPTED

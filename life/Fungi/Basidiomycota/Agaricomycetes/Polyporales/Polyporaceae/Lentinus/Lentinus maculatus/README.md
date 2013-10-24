@@ -1,5 +1,4 @@
-Lentinus maculatus Berk. SPECIES
-=======
+# Lentinus maculatus Berk. SPECIES
 
 #### Status
 ACCEPTED

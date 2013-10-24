@@ -1,5 +1,4 @@
-Linospora tetraspora G.E. Thomps. SPECIES
-=======
+# Linospora tetraspora G.E. Thomps. SPECIES
 
 #### Status
 ACCEPTED

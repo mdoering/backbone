@@ -1,5 +1,4 @@
-Agrocybe salicacicola Zhu L. Yang, M. Zang & X.X. Liu SPECIES
-=======
+# Agrocybe salicacicola Zhu L. Yang, M. Zang & X.X. Liu SPECIES
 
 #### Status
 ACCEPTED

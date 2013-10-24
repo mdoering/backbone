@@ -1,5 +1,4 @@
-Gloeosporium diospyri Ellis & Everh. SPECIES
-=======
+# Gloeosporium diospyri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

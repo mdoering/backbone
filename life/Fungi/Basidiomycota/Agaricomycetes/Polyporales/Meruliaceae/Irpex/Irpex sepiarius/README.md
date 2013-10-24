@@ -1,5 +1,4 @@
-Irpex sepiarius Lloyd SPECIES
-=======
+# Irpex sepiarius Lloyd SPECIES
 
 #### Status
 ACCEPTED

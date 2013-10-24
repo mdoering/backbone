@@ -1,5 +1,4 @@
-Phyllachora lindmannii Starbäck, 1905 SPECIES
-=======
+# Phyllachora lindmannii Starbäck, 1905 SPECIES
 
 #### Status
 DOUBTFUL

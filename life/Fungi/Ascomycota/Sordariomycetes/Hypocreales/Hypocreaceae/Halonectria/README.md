@@ -1,5 +1,4 @@
-Halonectria E.B.G. Jones GENUS
-=======
+# Halonectria E.B.G. Jones GENUS
 
 #### Status
 ACCEPTED

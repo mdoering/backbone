@@ -1,5 +1,4 @@
-Uromyces glycyrrhizae var. glycyrrhizae VARIETY
-=======
+# Uromyces glycyrrhizae (Rabenh.) Magnus SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Ber. dt. bot. Ges. 8: 383 (1890)
 
 #### Original name
-Uromyces glycyrrhizae var. glycyrrhizae
+Puccinia glycyrrhizae Rabenh.
 
 ### Remarks
 null

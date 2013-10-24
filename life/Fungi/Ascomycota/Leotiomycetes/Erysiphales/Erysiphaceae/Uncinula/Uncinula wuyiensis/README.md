@@ -1,5 +1,4 @@
-Uncinula wuyiensis (Zhi X. Chen & R.X. Gao) U. Braun SPECIES
-=======
+# Uncinula wuyiensis (Zhi X. Chen & R.X. Gao) U. Braun SPECIES
 
 #### Status
 ACCEPTED

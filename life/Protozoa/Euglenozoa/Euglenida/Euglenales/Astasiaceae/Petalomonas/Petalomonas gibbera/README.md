@@ -1,5 +1,4 @@
-Petalomonas gibbera Christen SPECIES
-=======
+# Petalomonas gibbera Christen SPECIES
 
 #### Status
 ACCEPTED

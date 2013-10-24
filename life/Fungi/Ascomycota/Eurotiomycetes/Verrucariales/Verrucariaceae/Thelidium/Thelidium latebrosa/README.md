@@ -1,5 +1,4 @@
-Thelidium latebrosa Körb. SPECIES
-=======
+# Thelidium latebrosa Körb. SPECIES
 
 #### Status
 ACCEPTED

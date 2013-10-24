@@ -1,5 +1,4 @@
-Mycosphaerella ipomoeae (Ferraris) Dunin ex Tomilin SPECIES
-=======
+# Mycosphaerella ipomoeae (Ferraris) Dunin ex Tomilin SPECIES
 
 #### Status
 ACCEPTED

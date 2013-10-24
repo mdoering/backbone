@@ -1,5 +1,4 @@
-Verrucaria toscanica Servít SPECIES
-=======
+# Verrucaria toscanica Servít SPECIES
 
 #### Status
 ACCEPTED

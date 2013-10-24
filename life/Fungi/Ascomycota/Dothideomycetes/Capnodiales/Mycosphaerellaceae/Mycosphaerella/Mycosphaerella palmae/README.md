@@ -1,5 +1,4 @@
-Mycosphaerella palmae Miles SPECIES
-=======
+# Mycosphaerella palmae Miles SPECIES
 
 #### Status
 ACCEPTED

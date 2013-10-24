@@ -1,5 +1,4 @@
-Discella macrosperma Peck SPECIES
-=======
+# Discella macrosperma Peck SPECIES
 
 #### Status
 ACCEPTED

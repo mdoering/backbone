@@ -1,8 +1,7 @@
-Anarma brevis Goodrich & Jahn, 1943 SPECIES
-=======
+# Trichophrya brevis (Goodrich & Jahn, 1943) Matthes, 1988 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

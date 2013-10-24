@@ -1,5 +1,4 @@
-Acarospora terrigena K. Knudsen, Elix & Reeb SPECIES
-=======
+# Acarospora terrigena K. Knudsen, Elix & Reeb SPECIES
 
 #### Status
 ACCEPTED

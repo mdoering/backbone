@@ -1,5 +1,4 @@
-Cruciplacolithus tarquinius Roth & Hay in Hay et al., 1967 SPECIES
-=======
+# Cruciplacolithus tarquinius Roth & Hay in Hay et al., 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria cetrariicola Nyl. SPECIES
-=======
+# Verrucaria cetrariicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

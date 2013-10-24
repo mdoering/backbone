@@ -1,5 +1,4 @@
-Fohsella Bandy, 1972 GENUS
-=======
+# Fohsella Bandy, 1972 GENUS
 
 #### Status
 ACCEPTED

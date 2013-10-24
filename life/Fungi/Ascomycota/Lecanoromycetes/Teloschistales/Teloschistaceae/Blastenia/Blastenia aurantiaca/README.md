@@ -1,5 +1,4 @@
-Blastenia aurantiaca (Lightf.) Trevis. SPECIES
-=======
+# Blastenia aurantiaca (Lightf.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo poiophila Speg. SPECIES
-=======
+# Uredo poiophila Speg. SPECIES
 
 #### Status
 ACCEPTED

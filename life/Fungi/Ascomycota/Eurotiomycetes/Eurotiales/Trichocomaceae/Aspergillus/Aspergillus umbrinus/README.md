@@ -1,5 +1,4 @@
-Aspergillus umbrinus F. Patt. SPECIES
-=======
+# Aspergillus umbrinus F. Patt. SPECIES
 
 #### Status
 ACCEPTED

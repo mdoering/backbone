@@ -1,5 +1,4 @@
-Euceratium Gran, 1902 GENUS
-=======
+# Euceratium Gran, 1902 GENUS
 
 #### Status
 ACCEPTED

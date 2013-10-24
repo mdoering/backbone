@@ -1,5 +1,4 @@
-Coniothecium olivaceum McAlpine SPECIES
-=======
+# Coniothecium olivaceum McAlpine SPECIES
 
 #### Status
 ACCEPTED

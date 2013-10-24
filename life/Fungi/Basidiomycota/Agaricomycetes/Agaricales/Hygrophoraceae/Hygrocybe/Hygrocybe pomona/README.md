@@ -1,5 +1,4 @@
-Hygrocybe pomona (Berk.) Manjula SPECIES
-=======
+# Hygrocybe pomona (Berk.) Manjula SPECIES
 
 #### Status
 ACCEPTED

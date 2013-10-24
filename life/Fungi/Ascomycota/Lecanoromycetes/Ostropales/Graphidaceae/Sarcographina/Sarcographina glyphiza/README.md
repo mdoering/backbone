@@ -1,14 +1,13 @@
-Graphis glyphiza Nyl. SPECIES
-=======
+# Sarcographina glyphiza (Nyl.) Kr.P. Singh & D.D. Awasthi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 4 19: 374 (1863)
+Bull. bot. Surv. India 20(1-4): 139 (1979)
 
 #### Original name
 Graphis glyphiza Nyl.

@@ -1,5 +1,4 @@
-Graphina bakeri Zahlbr. SPECIES
-=======
+# Graphina bakeri Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

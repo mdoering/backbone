@@ -1,5 +1,4 @@
-Polyblastiopsis fulva (Vain.) C.W. Dodge SPECIES
-=======
+# Polyblastiopsis fulva (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

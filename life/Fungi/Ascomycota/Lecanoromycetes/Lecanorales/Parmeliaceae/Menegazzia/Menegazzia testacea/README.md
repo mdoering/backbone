@@ -1,5 +1,4 @@
-Menegazzia testacea P. James & D. J. Galloway SPECIES
-=======
+# Menegazzia testacea P. James & D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED

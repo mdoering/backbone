@@ -1,5 +1,4 @@
-Pragmopora macrospora Bagl. & Carestia SPECIES
-=======
+# Pragmopora macrospora Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

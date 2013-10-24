@@ -1,17 +1,16 @@
-Parmelia sublaevigata f. sublaevigata FORM
-=======
+# Hypotrachyna sublaevigata (Nyl.) Hale SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 5 7: 306 (1867)
+Smithson. Contr. bot. 25: 66 (1975)
 
 #### Original name
-Parmelia sublaevigata f. sublaevigata
+Parmelia tiliacea var. sublaevigata Nyl.
 
 ### Remarks
 null

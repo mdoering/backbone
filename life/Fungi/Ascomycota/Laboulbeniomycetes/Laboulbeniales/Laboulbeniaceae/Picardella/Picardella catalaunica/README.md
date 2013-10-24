@@ -1,14 +1,13 @@
-Dimeromyces catalaunicus (Santam.) Santam., 1994 SPECIES
-=======
+# Picardella catalaunica Santam., 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 58(1-2): 180 (1994)
+Revta Ibér. Micol. 6(1): 14 (1989)
 
 #### Original name
 Picardella catalaunica Santam., 1989

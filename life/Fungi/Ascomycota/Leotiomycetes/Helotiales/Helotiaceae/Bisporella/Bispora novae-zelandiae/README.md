@@ -1,5 +1,4 @@
-Bispora novae-zelandiae Matsushima SPECIES
-=======
+# Bispora novae-zelandiae Matsushima SPECIES
 
 #### Status
 DOUBTFUL

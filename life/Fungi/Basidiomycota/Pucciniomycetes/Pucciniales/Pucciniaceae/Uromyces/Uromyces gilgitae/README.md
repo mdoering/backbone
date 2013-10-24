@@ -1,5 +1,4 @@
-Uromyces gilgitae S. Ahmad SPECIES
-=======
+# Uromyces gilgitae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

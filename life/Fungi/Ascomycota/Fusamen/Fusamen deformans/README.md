@@ -1,5 +1,4 @@
-Fusamen deformans (J. Schröt.) P. Karst. SPECIES
-=======
+# Fusamen deformans (J. Schröt.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusicladium caulicola U. Braun & K. Schub. SPECIES
-=======
+# Fusicladium caulicola U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

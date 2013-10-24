@@ -1,5 +1,4 @@
-Parmelia pilulifera (Pers.) Mont. & Bosch SPECIES
-=======
+# Parmelia pilulifera (Pers.) Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

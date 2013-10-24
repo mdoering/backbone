@@ -1,5 +1,4 @@
-Thelephora luzonensis (Bres.) Bres. SPECIES
-=======
+# Thelephora luzonensis (Bres.) Bres. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha consors Vain. SPECIES
-=======
+# Opegrapha consors Vain. SPECIES
 
 #### Status
 ACCEPTED

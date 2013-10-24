@@ -1,5 +1,4 @@
-Schizophyllum leprieurii Linder SPECIES
-=======
+# Schizophyllum leprieurii Linder SPECIES
 
 #### Status
 ACCEPTED

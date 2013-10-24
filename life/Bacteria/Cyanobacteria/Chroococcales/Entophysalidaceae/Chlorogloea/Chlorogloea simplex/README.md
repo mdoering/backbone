@@ -1,5 +1,4 @@
-Chlorogloea simplex M. Watanabe & Komárek SPECIES
-=======
+# Chlorogloea simplex M. Watanabe & Komárek SPECIES
 
 #### Status
 ACCEPTED

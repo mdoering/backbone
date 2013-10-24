@@ -1,5 +1,4 @@
-Marasmius cremoriceps Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius cremoriceps Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

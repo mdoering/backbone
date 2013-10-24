@@ -1,5 +1,4 @@
-Agaricus microspermus Henn. SPECIES
-=======
+# Agaricus microspermus Henn. SPECIES
 
 #### Status
 ACCEPTED

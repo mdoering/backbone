@@ -1,5 +1,4 @@
-Clavaria barbensis L.D. Gómez SPECIES
-=======
+# Clavaria barbensis L.D. Gómez SPECIES
 
 #### Status
 ACCEPTED

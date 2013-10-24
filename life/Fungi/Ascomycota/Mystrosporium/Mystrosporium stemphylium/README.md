@@ -1,5 +1,4 @@
-Mystrosporium stemphylium var. stemphylium VARIETY
-=======
+# Mystrosporium stemphylium Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Mystrosporium stemphylium var. stemphylium
+Mystrosporium stemphylium Corda
 
 ### Remarks
 null

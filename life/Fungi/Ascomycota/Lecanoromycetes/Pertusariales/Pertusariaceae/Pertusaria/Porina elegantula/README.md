@@ -1,5 +1,4 @@
-Porina elegantula Müll. Arg., 1893 SPECIES
-=======
+# Porina elegantula Müll. Arg., 1893 SPECIES
 
 #### Status
 DOUBTFUL

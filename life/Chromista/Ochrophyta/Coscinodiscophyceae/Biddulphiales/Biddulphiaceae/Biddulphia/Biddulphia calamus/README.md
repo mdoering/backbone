@@ -1,5 +1,4 @@
-Biddulphia calamus Tempère & Brun SPECIES
-=======
+# Biddulphia calamus Tempère & Brun SPECIES
 
 #### Status
 ACCEPTED

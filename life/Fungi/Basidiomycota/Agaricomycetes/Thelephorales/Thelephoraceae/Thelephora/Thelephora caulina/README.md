@@ -1,5 +1,4 @@
-Thelephora caulina Schwein. SPECIES
-=======
+# Thelephora caulina Schwein. SPECIES
 
 #### Status
 ACCEPTED

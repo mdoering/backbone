@@ -1,5 +1,4 @@
-Foveoletisporonites indicus Ramanujam & Srisailam SPECIES
-=======
+# Foveoletisporonites indicus Ramanujam & Srisailam SPECIES
 
 #### Status
 ACCEPTED

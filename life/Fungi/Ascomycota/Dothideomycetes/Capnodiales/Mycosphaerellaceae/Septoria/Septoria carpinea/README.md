@@ -1,5 +1,4 @@
-Septoria carpinea (Schwein.) Davis SPECIES
-=======
+# Septoria carpinea (Schwein.) Davis SPECIES
 
 #### Status
 ACCEPTED

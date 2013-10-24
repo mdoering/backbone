@@ -1,5 +1,4 @@
-Lanzia ulmariae L.G. Krieglst. & Baral SPECIES
-=======
+# Lanzia ulmariae L.G. Krieglst. & Baral SPECIES
 
 #### Status
 ACCEPTED

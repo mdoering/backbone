@@ -1,5 +1,4 @@
-Irenina angustispora var. angustispora VARIETY
-=======
+# Irenina angustispora (F. Stevens & Roldan) SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Irenina angustispora var. angustispora
+Irenina angustispora (F. Stevens & Roldan)
 
 ### Remarks
 null

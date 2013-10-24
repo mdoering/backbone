@@ -1,14 +1,13 @@
-Bryopogon jubatus var. vrangianus (Gyeln.) Dombr. VARIETY
-=======
+# Bryoria vrangiana (Gyeln.) Brodo & D. Hawksw. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Op. bot. 42: 97 (1977)
 
 #### Original name
 Alectoria vrangiana Gyeln.

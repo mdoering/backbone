@@ -1,5 +1,4 @@
-Lecidea permutata Stirt. SPECIES
-=======
+# Lecidea permutata Stirt. SPECIES
 
 #### Status
 ACCEPTED

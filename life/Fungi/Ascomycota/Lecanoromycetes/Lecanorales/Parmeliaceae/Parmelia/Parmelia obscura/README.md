@@ -1,5 +1,4 @@
-Parmelia obscura var. obscura VARIETY
-=======
+# Parmelia obscura SPECIES
 
 #### Status
 ACCEPTED

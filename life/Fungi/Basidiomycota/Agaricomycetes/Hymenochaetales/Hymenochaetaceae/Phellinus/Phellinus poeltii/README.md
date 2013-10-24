@@ -1,17 +1,16 @@
-Pseudoinonotus poeltii (Ryvarden) Zmitr., Malysheva & Spirin, 2006 SPECIES
-=======
+# Phellinus poeltii Ryvarden, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Khumbu Himal 6: 381 (1977)
 
 #### Original name
-null
+Phellinus poeltii Ryvarden, 1977
 
 ### Remarks
 null

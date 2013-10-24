@@ -1,5 +1,4 @@
-Peziza dryophila var. dryophila VARIETY
-=======
+# Peziza dryophila Pers. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. eur. (Erlanga) 1: 265 (1822)
 
 #### Original name
-Peziza dryophila var. dryophila
+Peziza dryophila Pers.
 
 ### Remarks
 null

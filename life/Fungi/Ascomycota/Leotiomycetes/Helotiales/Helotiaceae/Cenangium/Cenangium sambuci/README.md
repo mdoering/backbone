@@ -1,5 +1,4 @@
-Cenangium sambuci (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Cenangium sambuci (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

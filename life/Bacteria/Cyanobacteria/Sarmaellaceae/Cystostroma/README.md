@@ -1,5 +1,4 @@
-Cystostroma A.G. Vologdin, 1962 GENUS
-=======
+# Cystostroma A.G. Vologdin, 1962 GENUS
 
 #### Status
 ACCEPTED

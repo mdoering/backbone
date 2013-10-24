@@ -1,5 +1,4 @@
-Peziza stygia Berk. & M.A. Curtis SPECIES
-=======
+# Peziza stygia Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

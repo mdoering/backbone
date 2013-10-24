@@ -1,5 +1,4 @@
-Leptothyrium cameliae Henn. SPECIES
-=======
+# Leptothyrium cameliae Henn. SPECIES
 
 #### Status
 ACCEPTED

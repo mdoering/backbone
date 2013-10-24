@@ -1,5 +1,4 @@
-Lactifluus viridis (Paulet) Kuntze SPECIES
-=======
+# Lactifluus viridis (Paulet) Kuntze SPECIES
 
 #### Status
 ACCEPTED

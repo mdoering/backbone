@@ -1,5 +1,4 @@
-Plicaria congregata Wakef. SPECIES
-=======
+# Plicaria congregata Wakef. SPECIES
 
 #### Status
 ACCEPTED

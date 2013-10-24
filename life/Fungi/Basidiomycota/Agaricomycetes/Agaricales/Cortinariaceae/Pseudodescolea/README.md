@@ -1,5 +1,4 @@
-Pseudodescolea GENUS
-=======
+# Pseudodescolea GENUS
 
 #### Status
 ACCEPTED

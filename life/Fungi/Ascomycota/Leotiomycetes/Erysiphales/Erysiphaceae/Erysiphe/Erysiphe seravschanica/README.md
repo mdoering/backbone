@@ -1,5 +1,4 @@
-Erysiphe seravschanica (Korbonsk.) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe seravschanica (Korbonsk.) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

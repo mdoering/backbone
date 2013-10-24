@@ -1,5 +1,4 @@
-Corticium platani Ces. SPECIES
-=======
+# Corticium platani Ces. SPECIES
 
 #### Status
 ACCEPTED

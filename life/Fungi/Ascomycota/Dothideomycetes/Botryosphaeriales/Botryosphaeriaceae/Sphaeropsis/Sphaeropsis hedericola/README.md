@@ -1,5 +1,4 @@
-Sphaeropsis hedericola (Speg.) Sacc., 1884 SPECIES
-=======
+# Sphaeropsis hedericola (Speg.) Sacc., 1884 SPECIES
 
 #### Status
 ACCEPTED

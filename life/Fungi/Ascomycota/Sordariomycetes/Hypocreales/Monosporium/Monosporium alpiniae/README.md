@@ -1,5 +1,4 @@
-Monosporium alpiniae Sawada SPECIES
-=======
+# Monosporium alpiniae Sawada SPECIES
 
 #### Status
 ACCEPTED

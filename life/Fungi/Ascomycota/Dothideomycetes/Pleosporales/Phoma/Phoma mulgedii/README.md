@@ -1,5 +1,4 @@
-Phoma mulgedii Naumov SPECIES
-=======
+# Phoma mulgedii Naumov SPECIES
 
 #### Status
 ACCEPTED

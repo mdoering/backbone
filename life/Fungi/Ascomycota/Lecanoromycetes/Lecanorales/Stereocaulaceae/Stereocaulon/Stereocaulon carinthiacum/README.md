@@ -1,5 +1,4 @@
-Stereocaulon carinthiacum Frey SPECIES
-=======
+# Stereocaulon carinthiacum Frey SPECIES
 
 #### Status
 ACCEPTED

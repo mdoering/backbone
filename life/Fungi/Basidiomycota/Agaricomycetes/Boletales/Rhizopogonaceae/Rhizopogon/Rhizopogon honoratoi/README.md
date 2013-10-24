@@ -1,5 +1,4 @@
-Rhizopogon honoratoi Speg. SPECIES
-=======
+# Rhizopogon honoratoi Speg. SPECIES
 
 #### Status
 ACCEPTED

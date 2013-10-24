@@ -1,17 +1,16 @@
-Dictyodothis jasminae Subhedar & V.G. Rao SPECIES
-=======
+# Dictyodothis jasmini Subhedar & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Botanique, Nagpur 9(1-4): 63 (1980)
 
 #### Original name
-Dictyodothis jasminae Subhedar & V.G. Rao
+Dictyodothis jasmini Subhedar & V.G. Rao
 
 ### Remarks
 null

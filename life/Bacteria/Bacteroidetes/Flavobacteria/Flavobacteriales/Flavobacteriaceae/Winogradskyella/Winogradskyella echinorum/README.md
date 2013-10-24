@@ -1,5 +1,4 @@
-Winogradskyella echinorum Nedashkovskaya, Vancanneyt, Kim, Zhukova, 2009 SPECIES
-=======
+# Winogradskyella echinorum Nedashkovskaya, Vancanneyt, Kim, Zhukova, 2009 SPECIES
 
 #### Status
 ACCEPTED

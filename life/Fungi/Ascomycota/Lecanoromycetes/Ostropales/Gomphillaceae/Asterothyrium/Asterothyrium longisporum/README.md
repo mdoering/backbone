@@ -1,5 +1,4 @@
-Asterothyrium longisporum Lücking SPECIES
-=======
+# Asterothyrium longisporum Lücking SPECIES
 
 #### Status
 ACCEPTED

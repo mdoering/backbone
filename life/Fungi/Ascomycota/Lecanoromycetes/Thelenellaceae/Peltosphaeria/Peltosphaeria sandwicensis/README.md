@@ -1,5 +1,4 @@
-Peltosphaeria sandwicensis Petr. SPECIES
-=======
+# Peltosphaeria sandwicensis Petr. SPECIES
 
 #### Status
 ACCEPTED

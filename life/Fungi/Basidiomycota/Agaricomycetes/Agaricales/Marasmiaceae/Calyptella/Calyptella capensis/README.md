@@ -1,5 +1,4 @@
-Calyptella capensis W.B. Cooke & P.H.B. Talbot SPECIES
-=======
+# Calyptella capensis W.B. Cooke & P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

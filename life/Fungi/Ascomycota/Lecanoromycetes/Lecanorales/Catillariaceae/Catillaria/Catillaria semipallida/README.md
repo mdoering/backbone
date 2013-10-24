@@ -1,5 +1,4 @@
-Catillaria semipallida (Nyl. ex C. Knight) Zahlbr. SPECIES
-=======
+# Catillaria semipallida (Nyl. ex C. Knight) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

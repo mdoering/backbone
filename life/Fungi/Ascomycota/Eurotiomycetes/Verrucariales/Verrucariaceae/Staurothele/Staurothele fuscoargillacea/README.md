@@ -1,5 +1,4 @@
-Staurothele fuscoargillacea (Britzelm.) Zschacke SPECIES
-=======
+# Staurothele fuscoargillacea (Britzelm.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

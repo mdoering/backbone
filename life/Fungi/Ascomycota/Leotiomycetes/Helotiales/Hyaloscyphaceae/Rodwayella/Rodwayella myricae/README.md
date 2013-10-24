@@ -1,5 +1,4 @@
-Rodwayella myricae Spooner, 1986 SPECIES
-=======
+# Rodwayella myricae Spooner, 1986 SPECIES
 
 #### Status
 ACCEPTED

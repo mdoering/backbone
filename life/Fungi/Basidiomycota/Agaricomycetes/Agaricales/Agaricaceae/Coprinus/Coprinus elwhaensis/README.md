@@ -1,5 +1,4 @@
-Coprinus elwhaensis Bogart SPECIES
-=======
+# Coprinus elwhaensis Bogart SPECIES
 
 #### Status
 ACCEPTED

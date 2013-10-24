@@ -1,5 +1,4 @@
-Coronophora rosarum (P. Crouan & H. Crouan) Sacc. SPECIES
-=======
+# Coronophora rosarum (P. Crouan & H. Crouan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

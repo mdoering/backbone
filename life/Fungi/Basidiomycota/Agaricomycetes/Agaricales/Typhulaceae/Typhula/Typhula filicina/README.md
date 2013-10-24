@@ -1,5 +1,4 @@
-Typhula filicina Peck, 1875 SPECIES
-=======
+# Typhula filicina Peck, 1875 SPECIES
 
 #### Status
 ACCEPTED

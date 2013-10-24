@@ -1,5 +1,4 @@
-Graphis reticulata (Fée) Kremp. SPECIES
-=======
+# Graphis reticulata (Fée) Kremp. SPECIES
 
 #### Status
 ACCEPTED

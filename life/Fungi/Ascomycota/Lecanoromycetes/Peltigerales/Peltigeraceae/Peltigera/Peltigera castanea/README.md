@@ -1,5 +1,4 @@
-Peltigera castanea Goward, Goffinet & Miadl. SPECIES
-=======
+# Peltigera castanea Goward, Goffinet & Miadl. SPECIES
 
 #### Status
 ACCEPTED

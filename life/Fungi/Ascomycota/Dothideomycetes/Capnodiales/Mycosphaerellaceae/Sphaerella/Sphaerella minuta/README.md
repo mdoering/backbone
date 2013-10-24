@@ -1,5 +1,4 @@
-Sphaerella minuta Auersw. SPECIES
-=======
+# Sphaerella minuta Auersw. SPECIES
 
 #### Status
 ACCEPTED

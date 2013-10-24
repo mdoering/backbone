@@ -1,5 +1,4 @@
-Hygrophorus chamaeleon Cibula SPECIES
-=======
+# Hygrophorus chamaeleon Cibula SPECIES
 
 #### Status
 ACCEPTED

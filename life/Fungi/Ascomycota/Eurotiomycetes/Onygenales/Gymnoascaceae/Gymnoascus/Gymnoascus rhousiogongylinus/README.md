@@ -1,5 +1,4 @@
-Gymnoascus rhousiogongylinus Wener {?} & Cain SPECIES
-=======
+# Gymnoascus rhousiogongylinus Wener {?} & Cain SPECIES
 
 #### Status
 ACCEPTED

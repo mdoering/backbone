@@ -1,8 +1,7 @@
-Oolina melosquamosa McCulloch, 1977 SPECIES
-=======
+# Favulina melosquamosa (McCulloch, 1977) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

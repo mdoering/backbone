@@ -1,5 +1,4 @@
-Stylopage cephalote Drechsler, 1938 SPECIES
-=======
+# Stylopage cephalote Drechsler, 1938 SPECIES
 
 #### Status
 ACCEPTED

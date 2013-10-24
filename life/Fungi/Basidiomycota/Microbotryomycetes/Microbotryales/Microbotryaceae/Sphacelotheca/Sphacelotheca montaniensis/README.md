@@ -1,5 +1,4 @@
-Sphacelotheca montaniensis (Ellis & Holw.) G.P. Clinton SPECIES
-=======
+# Sphacelotheca montaniensis (Ellis & Holw.) G.P. Clinton SPECIES
 
 #### Status
 ACCEPTED

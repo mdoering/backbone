@@ -1,5 +1,4 @@
-Eurotium semi-immersum Marchal SPECIES
-=======
+# Eurotium semi-immersum Marchal SPECIES
 
 #### Status
 ACCEPTED

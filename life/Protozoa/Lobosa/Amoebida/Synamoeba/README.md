@@ -1,5 +1,4 @@
-Synamoeba Grell, 1994 GENUS
-=======
+# Synamoeba Grell, 1994 GENUS
 
 #### Status
 ACCEPTED

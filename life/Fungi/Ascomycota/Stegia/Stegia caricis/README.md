@@ -1,5 +1,4 @@
-Stegia caricis Peck SPECIES
-=======
+# Stegia caricis Peck SPECIES
 
 #### Status
 ACCEPTED

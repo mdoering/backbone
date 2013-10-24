@@ -1,5 +1,4 @@
-Sistotrema pyrisporum Hauerslev, 1975 SPECIES
-=======
+# Sistotrema pyrisporum Hauerslev, 1975 SPECIES
 
 #### Status
 ACCEPTED

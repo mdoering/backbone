@@ -1,17 +1,16 @@
-Alectoria subcana var. subcana VARIETY
-=======
+# Bryoria subcana (Nyl. ex Stizenb.) Brodo & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Op. bot. 42: 91 (1977)
 
 #### Original name
-Alectoria subcana var. subcana
+Alectoria prolixa var. subcana Stizenb.
 
 ### Remarks
 null

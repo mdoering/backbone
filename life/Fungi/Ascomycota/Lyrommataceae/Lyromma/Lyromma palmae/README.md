@@ -1,5 +1,4 @@
-Lyromma palmae (Cavalc. & A. A. Silva) Lücking & Sérus. SPECIES
-=======
+# Lyromma palmae (Cavalc. & A. A. Silva) Lücking & Sérus. SPECIES
 
 #### Status
 ACCEPTED

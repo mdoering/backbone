@@ -1,5 +1,4 @@
-Mycena trachyspora Rea SPECIES
-=======
+# Mycena trachyspora Rea SPECIES
 
 #### Status
 ACCEPTED

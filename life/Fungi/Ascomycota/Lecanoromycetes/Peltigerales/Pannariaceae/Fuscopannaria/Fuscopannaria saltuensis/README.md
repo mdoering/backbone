@@ -1,5 +1,4 @@
-Fuscopannaria saltuensis P.M. Jørg. SPECIES
-=======
+# Fuscopannaria saltuensis P.M. Jørg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hebeloma laevatum (Britzelm.) Sacc. SPECIES
-=======
+# Hebeloma laevatum (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

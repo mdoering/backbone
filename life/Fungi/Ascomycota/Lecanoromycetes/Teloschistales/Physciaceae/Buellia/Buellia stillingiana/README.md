@@ -1,5 +1,4 @@
-Buellia stillingiana Stirt. SPECIES
-=======
+# Buellia stillingiana Stirt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schismatosphaeridium similis N. Umnova, 1975 SPECIES
-=======
+# Schismatosphaeridium similis N. Umnova, 1975 SPECIES
 
 #### Status
 ACCEPTED

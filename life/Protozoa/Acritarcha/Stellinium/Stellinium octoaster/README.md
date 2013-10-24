@@ -1,5 +1,4 @@
-Stellinium octoaster (Staplin, 1961) Jardiné et al., 1972 SPECIES
-=======
+# Stellinium octoaster (Staplin, 1961) Jardiné et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

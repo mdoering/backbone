@@ -1,5 +1,4 @@
-Cubanina polyphragma SPECIES
-=======
+# Cubanina polyphragma SPECIES
 
 #### Status
 ACCEPTED

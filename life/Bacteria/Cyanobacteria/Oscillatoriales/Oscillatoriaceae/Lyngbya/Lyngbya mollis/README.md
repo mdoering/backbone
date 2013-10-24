@@ -1,5 +1,4 @@
-Lyngbya mollis (Gomont) Compère, 1974 SPECIES
-=======
+# Lyngbya mollis (Gomont) Compère, 1974 SPECIES
 
 #### Status
 ACCEPTED

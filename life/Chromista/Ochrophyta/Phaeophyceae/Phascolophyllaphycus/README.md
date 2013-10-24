@@ -1,5 +1,4 @@
-Phascolophyllaphycus Leary GENUS
-=======
+# Phascolophyllaphycus Leary GENUS
 
 #### Status
 ACCEPTED

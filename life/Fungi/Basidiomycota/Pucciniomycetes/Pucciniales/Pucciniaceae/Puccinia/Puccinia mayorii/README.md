@@ -1,5 +1,4 @@
-Puccinia mayorii E. Fisch. SPECIES
-=======
+# Puccinia mayorii E. Fisch. SPECIES
 
 #### Status
 ACCEPTED

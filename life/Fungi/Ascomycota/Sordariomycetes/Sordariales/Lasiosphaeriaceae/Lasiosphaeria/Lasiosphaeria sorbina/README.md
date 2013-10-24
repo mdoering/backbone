@@ -1,14 +1,13 @@
-Bizzozeria sorbina (Nyl.) Höhn., 1918 SPECIES
-=======
+# Lasiosphaeria sorbina (Nyl.) P. Karst., 1873 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 16: 76 (1918)
+Mycoth. fenn. (Helsinki) 2: 164 (1873)
 
 #### Original name
 Sphaeria sorbina Nyl., 1863

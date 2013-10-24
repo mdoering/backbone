@@ -1,5 +1,4 @@
-Puccinia caricis-shimidzensis Homma SPECIES
-=======
+# Puccinia caricis-shimidzensis Homma SPECIES
 
 #### Status
 ACCEPTED

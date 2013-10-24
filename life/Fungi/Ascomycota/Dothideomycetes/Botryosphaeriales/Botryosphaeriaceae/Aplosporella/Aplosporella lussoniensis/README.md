@@ -1,5 +1,4 @@
-Aplosporella lussoniensis Sacc. SPECIES
-=======
+# Aplosporella lussoniensis Sacc. SPECIES
 
 #### Status
 ACCEPTED

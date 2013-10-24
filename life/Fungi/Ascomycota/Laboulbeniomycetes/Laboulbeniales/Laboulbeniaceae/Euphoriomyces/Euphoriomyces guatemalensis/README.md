@@ -1,5 +1,4 @@
-Euphoriomyces guatemalensis Thaxt. SPECIES
-=======
+# Euphoriomyces guatemalensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

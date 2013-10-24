@@ -1,5 +1,4 @@
-Candelariopsis GENUS
-=======
+# Candelariopsis GENUS
 
 #### Status
 ACCEPTED

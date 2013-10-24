@@ -1,5 +1,4 @@
-Symphaster ximeniae J.L. Bezerra, Drechsler-Santos & Jad. Pereira, 2010 SPECIES
-=======
+# Symphaster ximeniae J.L. Bezerra, Drechsler-Santos & Jad. Pereira, 2010 SPECIES
 
 #### Status
 ACCEPTED

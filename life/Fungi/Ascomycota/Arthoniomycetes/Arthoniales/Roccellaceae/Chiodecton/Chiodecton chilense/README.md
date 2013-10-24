@@ -1,5 +1,4 @@
-Chiodecton chilense Zahlbr. SPECIES
-=======
+# Chiodecton chilense Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

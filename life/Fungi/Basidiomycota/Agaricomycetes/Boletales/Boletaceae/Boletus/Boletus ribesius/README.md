@@ -1,5 +1,4 @@
-Boletus ribesius Pers. SPECIES
-=======
+# Boletus ribesius Pers. SPECIES
 
 #### Status
 ACCEPTED

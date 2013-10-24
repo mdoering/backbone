@@ -1,5 +1,4 @@
-Diplodinula veronicae (Brunaud) Tassi SPECIES
-=======
+# Diplodinula veronicae (Brunaud) Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nodobacularia lapidea var. adhaerens Wiesner, 1923 VARIETY
-=======
+# Nodobacularia lapidea Wiesner, 1923 SPECIES
 
 #### Status
 ACCEPTED

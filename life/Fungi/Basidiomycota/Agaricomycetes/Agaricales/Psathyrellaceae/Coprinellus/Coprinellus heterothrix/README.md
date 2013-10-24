@@ -1,5 +1,4 @@
-Coprinellus heterothrix (Kühner) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinellus heterothrix (Kühner) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

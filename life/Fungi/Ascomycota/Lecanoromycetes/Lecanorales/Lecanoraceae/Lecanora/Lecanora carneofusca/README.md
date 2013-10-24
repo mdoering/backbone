@@ -1,5 +1,4 @@
-Lecanora carneofusca Nyl. SPECIES
-=======
+# Lecanora carneofusca Nyl. SPECIES
 
 #### Status
 ACCEPTED

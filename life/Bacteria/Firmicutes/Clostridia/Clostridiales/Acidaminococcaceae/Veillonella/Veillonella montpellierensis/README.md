@@ -1,5 +1,4 @@
-Veillonella montpellierensis Jumas-Bilak et al., 2004 SPECIES
-=======
+# Veillonella montpellierensis Jumas-Bilak et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

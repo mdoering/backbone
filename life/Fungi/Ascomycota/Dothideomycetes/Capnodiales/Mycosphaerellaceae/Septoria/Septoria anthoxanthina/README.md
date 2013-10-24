@@ -1,5 +1,4 @@
-Septoria anthoxanthina Gonz. Frag. SPECIES
-=======
+# Septoria anthoxanthina Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

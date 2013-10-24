@@ -1,5 +1,4 @@
-Aecidium manilense Arthur & Cummins SPECIES
-=======
+# Aecidium manilense Arthur & Cummins SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Helotium pseudocrispulum (Kühner) Redhead, 1982 SPECIES
-=======
+# Hemimycena pseudocrispula (Kühner) Singer, 1943 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 60(10): 2005 (1982)
+Annls mycol. 41(4/6): 298 (1943)
 
 #### Original name
 Mycena pseudocrispula Kühner, 1938

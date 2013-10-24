@@ -1,5 +1,4 @@
-Microthyriella palicoureae Bat. & I.H. Lima SPECIES
-=======
+# Microthyriella palicoureae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

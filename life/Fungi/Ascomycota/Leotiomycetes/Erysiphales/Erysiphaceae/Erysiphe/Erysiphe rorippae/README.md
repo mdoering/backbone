@@ -1,5 +1,4 @@
-Erysiphe rorippae G.Q. Chen & R.Y. Zheng SPECIES
-=======
+# Erysiphe rorippae G.Q. Chen & R.Y. Zheng SPECIES
 
 #### Status
 ACCEPTED

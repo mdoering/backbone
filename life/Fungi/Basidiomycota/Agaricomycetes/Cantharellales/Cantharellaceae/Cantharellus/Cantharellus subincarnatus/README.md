@@ -1,14 +1,13 @@
-Cantharellus incarnatus (Beeli) Heinem., 1958 SPECIES
-=======
+# Cantharellus subincarnatus Eyssart. & Buyck, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Am. phil. Soc. , New Series 4(2): 153 (1832)
+Docums Mycol. 31(no. 121): 55 (2001)
 
 #### Original name
 Lentinus incarnatus Beeli, 1928

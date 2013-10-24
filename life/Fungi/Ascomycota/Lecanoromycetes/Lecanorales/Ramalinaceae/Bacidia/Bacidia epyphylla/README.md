@@ -1,5 +1,4 @@
-Bacidia epyphylla SPECIES
-=======
+# Bacidia epyphylla SPECIES
 
 #### Status
 ACCEPTED

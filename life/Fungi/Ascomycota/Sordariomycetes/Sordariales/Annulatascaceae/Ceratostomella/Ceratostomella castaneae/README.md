@@ -1,5 +1,4 @@
-Ceratostomella castaneae Vanine {?} & Solovjev SPECIES
-=======
+# Ceratostomella castaneae Vanine {?} & Solovjev SPECIES
 
 #### Status
 ACCEPTED

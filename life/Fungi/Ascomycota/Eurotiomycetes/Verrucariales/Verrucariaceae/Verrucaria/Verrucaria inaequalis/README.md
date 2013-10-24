@@ -1,5 +1,4 @@
-Verrucaria inaequalis H. Magn. SPECIES
-=======
+# Verrucaria inaequalis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

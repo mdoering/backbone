@@ -1,5 +1,4 @@
-Rhodophyllus sclerobasidiatus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus sclerobasidiatus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

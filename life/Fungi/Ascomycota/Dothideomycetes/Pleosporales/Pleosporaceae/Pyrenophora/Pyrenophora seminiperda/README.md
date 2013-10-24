@@ -1,17 +1,16 @@
-Pleosphaeria seminiperda Brittleb. & D.B. Adam, 1924 SPECIES
-=======
+# Pyrenophora seminiperda (Brittleb. & D.B. Adam) Shoemaker, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 44: 1451 (1966)
 
 #### Original name
-null
+Pleosphaeria semeniperda Brittleb. & D.B. Adam
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Agaricus centenarius Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus centenarius Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

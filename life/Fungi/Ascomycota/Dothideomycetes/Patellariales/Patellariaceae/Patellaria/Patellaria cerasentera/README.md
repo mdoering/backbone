@@ -1,5 +1,4 @@
-Patellaria cerasentera (C. Knight) SPECIES
-=======
+# Patellaria cerasentera (C. Knight) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyonema phyllogenum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Dictyonema phyllogenum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Crinipellis tenuipilosa Singer SPECIES
-=======
+# Crinipellis tenuipilosa Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus distans Pers. SPECIES
-=======
+# Agaricus distans Pers. SPECIES
 
 #### Status
 ACCEPTED

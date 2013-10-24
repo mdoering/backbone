@@ -1,5 +1,4 @@
-Puccinia stapfiana Petr. SPECIES
-=======
+# Puccinia stapfiana Petr. SPECIES
 
 #### Status
 ACCEPTED

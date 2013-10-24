@@ -1,5 +1,4 @@
-Cortinarius alcalinophilus Rob. Henry, 1952 SPECIES
-=======
+# Cortinarius alcalinophilus Rob. Henry, 1952 SPECIES
 
 #### Status
 ACCEPTED

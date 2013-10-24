@@ -1,5 +1,4 @@
-Catillaria A. Massal. GENUS
-=======
+# Catillaria A. Massal. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe heimii Bon SPECIES
-=======
+# Inocybe heimii Bon SPECIES
 
 #### Status
 ACCEPTED

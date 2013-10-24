@@ -1,5 +1,4 @@
-Trichocladium moenitum J.L. Crane & Shearer SPECIES
-=======
+# Trichocladium moenitum J.L. Crane & Shearer SPECIES
 
 #### Status
 ACCEPTED

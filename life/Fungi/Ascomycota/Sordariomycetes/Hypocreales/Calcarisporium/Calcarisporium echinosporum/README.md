@@ -1,5 +1,4 @@
-Calcarisporium echinosporum Deighton & Piroz. SPECIES
-=======
+# Calcarisporium echinosporum Deighton & Piroz. SPECIES
 
 #### Status
 ACCEPTED

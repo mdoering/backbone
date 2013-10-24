@@ -1,5 +1,4 @@
-Dothidella hualaniae Speg. SPECIES
-=======
+# Dothidella hualaniae Speg. SPECIES
 
 #### Status
 ACCEPTED

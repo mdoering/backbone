@@ -1,14 +1,13 @@
-Sirodesmium ramosum Sacc., 1900 SPECIES
-=======
+# Peyronelia ramosa (Sacc.) S. Hughes, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. 14: 1137 (1900)
+Can. J. Bot. 36: 795 (1958)
 
 #### Original name
 Sirodesmium ramosum Sacc., 1900

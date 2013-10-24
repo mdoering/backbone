@@ -1,5 +1,4 @@
-Plasmopara smyrnii Savul. & M. Bechet SPECIES
-=======
+# Plasmopara smyrnii Savul. & M. Bechet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phormidium luridum var. olivacea VARIETY
-=======
+# Phormidium luridum (Kützing) Gomont SPECIES
 
 #### Status
 ACCEPTED

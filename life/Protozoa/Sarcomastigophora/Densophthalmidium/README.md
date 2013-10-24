@@ -1,5 +1,4 @@
-Densophthalmidium Wang, 1986 GENUS
-=======
+# Densophthalmidium Wang, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Telamonia sordida Velen. SPECIES
-=======
+# Telamonia sordida Velen. SPECIES
 
 #### Status
 ACCEPTED

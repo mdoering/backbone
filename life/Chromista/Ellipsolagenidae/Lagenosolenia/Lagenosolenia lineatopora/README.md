@@ -1,5 +1,4 @@
-Lagenosolenia lineatopora McCulloch, 1977 SPECIES
-=======
+# Lagenosolenia lineatopora McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Occidentoschwagerina A.D. Miklukho-Maklay, 1959 GENUS
-=======
+# Occidentoschwagerina A.D. Miklukho-Maklay, 1959 GENUS
 
 #### Status
 ACCEPTED

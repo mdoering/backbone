@@ -1,5 +1,4 @@
-Coniothyrium adenocarpi (Gonz. Frag.) Petr. & Syd. SPECIES
-=======
+# Coniothyrium adenocarpi (Gonz. Frag.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

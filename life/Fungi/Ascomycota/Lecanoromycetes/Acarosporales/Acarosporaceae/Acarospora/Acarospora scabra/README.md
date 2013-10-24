@@ -1,5 +1,4 @@
-Acarospora scabra (Pers.) Th. Fr. SPECIES
-=======
+# Acarospora scabra (Pers.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

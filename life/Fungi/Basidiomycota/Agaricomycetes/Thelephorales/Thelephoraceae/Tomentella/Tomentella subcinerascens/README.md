@@ -1,5 +1,4 @@
-Tomentella subcinerascens Litsch., 1939 SPECIES
-=======
+# Tomentella subcinerascens Litsch., 1939 SPECIES
 
 #### Status
 ACCEPTED

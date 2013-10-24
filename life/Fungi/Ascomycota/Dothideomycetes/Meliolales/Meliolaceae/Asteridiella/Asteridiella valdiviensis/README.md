@@ -1,5 +1,4 @@
-Asteridiella valdiviensis var. valdiviensis VARIETY
-=======
+# Asteridiella valdiviensis (Speg.) Hansf. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Beih. Sydowia 2: 26 (1961)
 
 #### Original name
-Asteridiella valdiviensis var. valdiviensis
+Meliola valdiviensis Speg.
 
 ### Remarks
 null

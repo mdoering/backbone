@@ -1,5 +1,4 @@
-Napicladium cucurbiticola Speg. SPECIES
-=======
+# Napicladium cucurbiticola Speg. SPECIES
 
 #### Status
 ACCEPTED

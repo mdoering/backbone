@@ -1,5 +1,4 @@
-Phlyctis caesioalba Flot. SPECIES
-=======
+# Phlyctis caesioalba Flot. SPECIES
 
 #### Status
 ACCEPTED

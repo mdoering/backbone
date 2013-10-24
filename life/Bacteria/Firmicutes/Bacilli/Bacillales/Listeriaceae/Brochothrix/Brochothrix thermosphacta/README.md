@@ -1,11 +1,10 @@
-Microbacterium thermosphactum McLean & Sulzbacher, 1953 SPECIES
-=======
+# Brochothrix thermosphacta (McLean and Sulzbacher, 1953) Sneath and Jones, 1976 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

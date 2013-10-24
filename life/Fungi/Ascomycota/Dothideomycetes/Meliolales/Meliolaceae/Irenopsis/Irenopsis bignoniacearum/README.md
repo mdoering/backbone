@@ -1,5 +1,4 @@
-Irenopsis bignoniacearum F. Stevens SPECIES
-=======
+# Irenopsis bignoniacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spumososphaera Naumova GENUS
-=======
+# Spumososphaera Naumova GENUS
 
 #### Status
 ACCEPTED

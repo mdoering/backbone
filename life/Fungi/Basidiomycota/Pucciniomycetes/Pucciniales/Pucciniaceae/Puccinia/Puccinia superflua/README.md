@@ -1,5 +1,4 @@
-Puccinia superflua Holw. SPECIES
-=======
+# Puccinia superflua Holw. SPECIES
 
 #### Status
 ACCEPTED

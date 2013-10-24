@@ -1,5 +1,4 @@
-Titaeospora daphiphylli T.S. Ramakr. & Sundaram SPECIES
-=======
+# Titaeospora daphiphylli T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora sciodes Nyl. SPECIES
-=======
+# Lecanora sciodes Nyl. SPECIES
 
 #### Status
 ACCEPTED

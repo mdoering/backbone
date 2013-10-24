@@ -1,5 +1,4 @@
-Chaetomium fibripilium L.M. Ames SPECIES
-=======
+# Chaetomium fibripilium L.M. Ames SPECIES
 
 #### Status
 ACCEPTED

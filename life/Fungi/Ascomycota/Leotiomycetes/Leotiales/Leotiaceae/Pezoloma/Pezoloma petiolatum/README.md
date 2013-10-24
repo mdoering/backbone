@@ -1,5 +1,4 @@
-Pezoloma petiolatum R. Sharma & K.S. Thind, 1987 SPECIES
-=======
+# Pezoloma petiolatum R. Sharma & K.S. Thind, 1987 SPECIES
 
 #### Status
 ACCEPTED

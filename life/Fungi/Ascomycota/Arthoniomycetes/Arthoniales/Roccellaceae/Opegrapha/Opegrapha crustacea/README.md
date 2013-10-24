@@ -1,5 +1,4 @@
-Opegrapha crustacea Chevall. SPECIES
-=======
+# Opegrapha crustacea Chevall. SPECIES
 
 #### Status
 ACCEPTED

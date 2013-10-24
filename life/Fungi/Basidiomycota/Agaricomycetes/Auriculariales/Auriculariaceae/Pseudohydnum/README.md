@@ -1,17 +1,16 @@
-Hydnogloea Curr. GENUS
-=======
+# Pseudohydnum P. Karsten, 1868 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley & Broome, Ann. Mag. nat. Hist. , Ser. 4 7: 429 (1871)
+Not. Sällsk. Fauna et Fl. Fenn. Förh. 9: 374 (1868)
 
 #### Original name
-Hydnogloea Curr.
+Pseudohydnum P. Karsten, 1868
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fomes luridus Cooke SPECIES
-=======
+# Fomes luridus Cooke SPECIES
 
 #### Status
 ACCEPTED

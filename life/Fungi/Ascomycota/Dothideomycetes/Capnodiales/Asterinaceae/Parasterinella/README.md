@@ -1,5 +1,4 @@
-Parasterinella Speg. GENUS
-=======
+# Parasterinella Speg. GENUS
 
 #### Status
 ACCEPTED

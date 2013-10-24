@@ -1,5 +1,4 @@
-Diploeca placita Ellis, 1931 SPECIES
-=======
+# Diploeca placita Ellis, 1931 SPECIES
 
 #### Status
 ACCEPTED

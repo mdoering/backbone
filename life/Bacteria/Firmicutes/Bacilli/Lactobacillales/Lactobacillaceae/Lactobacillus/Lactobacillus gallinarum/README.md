@@ -1,5 +1,4 @@
-Lactobacillus gallinarum Fujisawa et al., 1992 SPECIES
-=======
+# Lactobacillus gallinarum Fujisawa et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

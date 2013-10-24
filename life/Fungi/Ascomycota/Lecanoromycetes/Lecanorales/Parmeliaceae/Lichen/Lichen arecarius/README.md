@@ -1,5 +1,4 @@
-Lichen arecarius Willd. SPECIES
-=======
+# Lichen arecarius Willd. SPECIES
 
 #### Status
 ACCEPTED

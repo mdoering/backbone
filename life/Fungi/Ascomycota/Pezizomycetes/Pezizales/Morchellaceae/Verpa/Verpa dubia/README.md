@@ -1,5 +1,4 @@
-Verpa dubia Lév. SPECIES
-=======
+# Verpa dubia Lév. SPECIES
 
 #### Status
 ACCEPTED

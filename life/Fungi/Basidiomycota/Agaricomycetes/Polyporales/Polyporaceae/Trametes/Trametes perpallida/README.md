@@ -1,5 +1,4 @@
-Trametes perpallida Corner SPECIES
-=======
+# Trametes perpallida Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora hippocrepidis Jaap SPECIES
-=======
+# Cercospora hippocrepidis Jaap SPECIES
 
 #### Status
 ACCEPTED

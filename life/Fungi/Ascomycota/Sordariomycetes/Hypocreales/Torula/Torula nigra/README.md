@@ -1,5 +1,4 @@
-Torula nigra (Marpmann) Guillierm. SPECIES
-=======
+# Torula nigra (Marpmann) Guillierm. SPECIES
 
 #### Status
 ACCEPTED

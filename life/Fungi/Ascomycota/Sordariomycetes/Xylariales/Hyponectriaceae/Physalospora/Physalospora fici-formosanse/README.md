@@ -1,5 +1,4 @@
-Physalospora fici-formosanse Sawada SPECIES
-=======
+# Physalospora fici-formosanse Sawada SPECIES
 
 #### Status
 ACCEPTED

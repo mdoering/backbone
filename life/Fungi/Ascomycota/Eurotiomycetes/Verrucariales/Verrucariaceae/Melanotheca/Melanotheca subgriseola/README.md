@@ -1,5 +1,4 @@
-Melanotheca subgriseola SPECIES
-=======
+# Melanotheca subgriseola SPECIES
 
 #### Status
 ACCEPTED

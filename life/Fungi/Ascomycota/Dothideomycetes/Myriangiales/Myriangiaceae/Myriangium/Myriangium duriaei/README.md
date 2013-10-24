@@ -1,17 +1,16 @@
-Myriangium duriaei var. thelephorina Starbäck VARIETY
-=======
+# Myriangium duriaei Mont. & Berk., 1845 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+London J. Bot. 4: 73 (1845)
 
 #### Original name
-Myriangium duriaei var. thelephorina Starbäck
+Myriangium duriaei Mont. & Berk., 1845
 
 ### Remarks
 null

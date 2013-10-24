@@ -1,5 +1,4 @@
-Pocillaria coadunata (Hook. f.) Kuntze SPECIES
-=======
+# Pocillaria coadunata (Hook. f.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

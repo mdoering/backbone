@@ -1,14 +1,13 @@
-Ascospora silvatica (Sacc.) Kuntze, 1898 SPECIES
-=======
+# Stigmatea sylvatica Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3: 444 (1898)
+Michelia 2(no. 8): 604 (1882)
 
 #### Original name
 Stigmatea sylvatica Sacc., 1882

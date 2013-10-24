@@ -1,5 +1,4 @@
-Sphacelia allii Voglino SPECIES
-=======
+# Sphacelia allii Voglino SPECIES
 
 #### Status
 ACCEPTED

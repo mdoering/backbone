@@ -1,5 +1,4 @@
-Uredo caricis-zuluensis Gjaerum SPECIES
-=======
+# Uredo caricis-zuluensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

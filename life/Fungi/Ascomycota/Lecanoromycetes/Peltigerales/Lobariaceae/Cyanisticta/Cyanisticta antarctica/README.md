@@ -1,5 +1,4 @@
-Cyanisticta antarctica Räsänen SPECIES
-=======
+# Cyanisticta antarctica Räsänen SPECIES
 
 #### Status
 ACCEPTED

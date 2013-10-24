@@ -1,5 +1,4 @@
-Clitocybe danica Raithelh. SPECIES
-=======
+# Clitocybe danica Raithelh. SPECIES
 
 #### Status
 ACCEPTED

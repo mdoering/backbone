@@ -1,5 +1,4 @@
-Russula crustosa Peck SPECIES
-=======
+# Russula crustosa Peck SPECIES
 
 #### Status
 ACCEPTED

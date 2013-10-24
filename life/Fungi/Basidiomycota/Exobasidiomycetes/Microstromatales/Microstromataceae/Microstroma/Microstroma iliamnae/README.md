@@ -1,5 +1,4 @@
-Microstroma iliamnae (W.B. Cooke & C.G. Shaw) W.B. Cooke SPECIES
-=======
+# Microstroma iliamnae (W.B. Cooke & C.G. Shaw) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

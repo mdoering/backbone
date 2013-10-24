@@ -1,5 +1,4 @@
-Mycena inopinata Maas Geest. SPECIES
-=======
+# Mycena inopinata Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

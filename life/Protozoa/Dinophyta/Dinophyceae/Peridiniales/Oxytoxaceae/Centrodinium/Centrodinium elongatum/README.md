@@ -1,5 +1,4 @@
-Centrodinium elongatum Kofoid SPECIES
-=======
+# Centrodinium elongatum Kofoid SPECIES
 
 #### Status
 ACCEPTED

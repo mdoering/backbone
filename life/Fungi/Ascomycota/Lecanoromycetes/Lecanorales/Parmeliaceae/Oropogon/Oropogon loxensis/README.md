@@ -1,5 +1,4 @@
-Oropogon loxensis f. loxensis FORM
-=======
+# Oropogon loxensis (Fée) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,7 +7,7 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Gen. Heterolich. Eur. 49 (1861)
 
 #### Original name
 Cornicularia loxensis Fée

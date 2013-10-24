@@ -1,5 +1,4 @@
-Kyaroikeus Sniezek, Coats & Small, 1995 GENUS
-=======
+# Kyaroikeus Sniezek, Coats & Small, 1995 GENUS
 
 #### Status
 ACCEPTED

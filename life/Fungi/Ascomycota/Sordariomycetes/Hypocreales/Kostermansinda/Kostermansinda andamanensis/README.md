@@ -1,5 +1,4 @@
-Kostermansinda andamanensis Bhat & W.B. Kendr. SPECIES
-=======
+# Kostermansinda andamanensis Bhat & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

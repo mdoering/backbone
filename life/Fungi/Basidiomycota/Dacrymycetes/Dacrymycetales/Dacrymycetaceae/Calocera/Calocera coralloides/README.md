@@ -1,5 +1,4 @@
-Calocera coralloides Kobayasi SPECIES
-=======
+# Calocera coralloides Kobayasi SPECIES
 
 #### Status
 ACCEPTED

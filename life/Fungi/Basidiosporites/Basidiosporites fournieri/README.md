@@ -1,17 +1,16 @@
-Basidiosporites fournierii Elsik SPECIES
-=======
+# Basidiosporites fournieri Elsik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pollen Spores 10(2): 273 and Pl. 2 (figs. 8 (1968)
 
 #### Original name
-Basidiosporites fournierii Elsik
+Basidiosporites fournieri Elsik
 
 ### Remarks
 null

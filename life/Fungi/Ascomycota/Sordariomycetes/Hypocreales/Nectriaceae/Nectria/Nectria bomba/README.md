@@ -1,5 +1,4 @@
-Nectria bomba Petch SPECIES
-=======
+# Nectria bomba Petch SPECIES
 
 #### Status
 ACCEPTED

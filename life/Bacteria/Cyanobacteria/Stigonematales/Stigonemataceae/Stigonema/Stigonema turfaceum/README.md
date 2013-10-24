@@ -1,5 +1,4 @@
-Stigonema turfaceum (Berk.) Cooke SPECIES
-=======
+# Stigonema turfaceum (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

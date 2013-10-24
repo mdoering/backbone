@@ -1,5 +1,4 @@
-Entoloma perzonatum E. Horak, 1973 SPECIES
-=======
+# Entoloma perzonatum E. Horak, 1973 SPECIES
 
 #### Status
 ACCEPTED

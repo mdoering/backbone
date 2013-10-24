@@ -1,5 +1,4 @@
-Clavaria pulcherrima Lj.N. Vassiljeva SPECIES
-=======
+# Clavaria pulcherrima Lj.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

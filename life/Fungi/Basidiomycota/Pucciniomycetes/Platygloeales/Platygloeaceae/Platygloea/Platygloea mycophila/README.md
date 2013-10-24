@@ -1,14 +1,13 @@
-Achroomyces mycophilus (Burds. & Gilb.) Wojewoda, 1981 SPECIES
-=======
+# Platygloea mycophila Burds. & Gilb., 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mala Flora Grzybów (Warszawa), <b>2</b> Basidiomycetes (Podstawczaki) Tremellales (Trzesakowe) Auriculariales (Uszakowe) 199 (1981)
+Mycologia 66(4): 703 (1974)
 
 #### Original name
 Platygloea mycophila Burds. & Gilb., 1974

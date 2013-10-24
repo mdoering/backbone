@@ -1,5 +1,4 @@
-Lachnum citrinum Velen. SPECIES
-=======
+# Lachnum citrinum Velen. SPECIES
 
 #### Status
 ACCEPTED

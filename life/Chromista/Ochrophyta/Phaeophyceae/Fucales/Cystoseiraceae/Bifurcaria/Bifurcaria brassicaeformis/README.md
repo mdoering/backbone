@@ -1,8 +1,7 @@
-Pycnophycus brassicaeformis Kützing SPECIES
-=======
+# Bifurcaria brassicaeformis (Kützing) Barton SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Leptothyrium costaricense Speg. SPECIES
-=======
+# Leptothyrium costaricense Speg. SPECIES
 
 #### Status
 ACCEPTED

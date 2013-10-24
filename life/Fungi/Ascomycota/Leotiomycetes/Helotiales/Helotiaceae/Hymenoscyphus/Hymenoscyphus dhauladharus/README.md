@@ -1,5 +1,4 @@
-Hymenoscyphus dhauladharus M.P. Sharma SPECIES
-=======
+# Hymenoscyphus dhauladharus M.P. Sharma SPECIES
 
 #### Status
 ACCEPTED

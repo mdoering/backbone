@@ -1,5 +1,4 @@
-Stonacladia GENUS
-=======
+# Stonacladia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chlorogloea epiphytica J. Komárek & G. Montejano SPECIES
-=======
+# Chlorogloea epiphytica J. Komárek & G. Montejano SPECIES
 
 #### Status
 ACCEPTED

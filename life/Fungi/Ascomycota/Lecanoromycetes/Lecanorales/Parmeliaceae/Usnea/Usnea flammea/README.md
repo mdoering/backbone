@@ -1,17 +1,16 @@
-Usnea ceratina var. scabrosa VARIETY
-=======
+# Usnea flammea Stirt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Scott. Natural. 6: 102 (1881)
 
 #### Original name
-Usnea ceratina var. scabrosa
+Usnea flammea Stirt.
 
 ### Remarks
 null

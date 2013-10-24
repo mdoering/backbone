@@ -1,5 +1,4 @@
-Phallogaster whitei Peck SPECIES
-=======
+# Phallogaster whitei Peck SPECIES
 
 #### Status
 ACCEPTED

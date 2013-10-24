@@ -1,5 +1,4 @@
-Marasmius echinatulus Singer SPECIES
-=======
+# Marasmius echinatulus Singer SPECIES
 
 #### Status
 ACCEPTED

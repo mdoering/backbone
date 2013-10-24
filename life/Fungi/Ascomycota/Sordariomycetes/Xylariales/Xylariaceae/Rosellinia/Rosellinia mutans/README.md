@@ -1,5 +1,4 @@
-Rosellinia mutans (Cooke & Peck) Sacc. SPECIES
-=======
+# Rosellinia mutans (Cooke & Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

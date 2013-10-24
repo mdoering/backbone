@@ -1,5 +1,4 @@
-Cercosporina helicteris Syd. & P. Syd. SPECIES
-=======
+# Cercosporina helicteris Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

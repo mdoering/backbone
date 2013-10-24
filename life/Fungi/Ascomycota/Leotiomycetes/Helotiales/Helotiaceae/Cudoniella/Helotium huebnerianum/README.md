@@ -1,5 +1,4 @@
-Helotium huebnerianum (Rabenh.) Sacc. SPECIES
-=======
+# Helotium huebnerianum (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tandonia M.D. Mehrotra, 1991 GENUS
-=======
+# Tandonia M.D. Mehrotra, 1991 GENUS
 
 #### Status
 ACCEPTED

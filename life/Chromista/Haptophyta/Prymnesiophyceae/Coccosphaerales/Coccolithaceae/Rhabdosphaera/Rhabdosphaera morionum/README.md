@@ -1,5 +1,4 @@
-Rhabdosphaera morionum (Deflandre in Deflandre & Fert, 1954) Bramlette & Sullivan, 1961 SPECIES
-=======
+# Rhabdosphaera morionum (Deflandre in Deflandre & Fert, 1954) Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

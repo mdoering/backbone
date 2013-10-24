@@ -1,5 +1,4 @@
-Thelidium tersum Kremp. SPECIES
-=======
+# Thelidium tersum Kremp. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Yeosuana Kwon, Lee, Jung, Kang & Kim, 2006 GENUS
-=======
+# Yeosuana Kwon, Lee, Jung, Kang & Kim, 2006 GENUS
 
 #### Status
 ACCEPTED

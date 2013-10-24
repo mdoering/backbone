@@ -1,14 +1,13 @@
-Odontia subgelatinosa Pat., 1924 SPECIES
-=======
+# Scopuloides subgelatinosa (Pat.) Nakasone, 2003 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. trimest. Soc. mycol. Fr. 40: 33 (1924)
+Cryptog. Mycol. 24(2): 143 (2003)
 
 #### Original name
 Odontia subgelatinosa Pat., 1924

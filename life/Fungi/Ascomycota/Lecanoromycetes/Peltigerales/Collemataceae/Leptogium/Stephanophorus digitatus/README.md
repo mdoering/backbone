@@ -1,5 +1,4 @@
-Stephanophorus digitatus A. Massal. SPECIES
-=======
+# Stephanophorus digitatus A. Massal. SPECIES
 
 #### Status
 ACCEPTED

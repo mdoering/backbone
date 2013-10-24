@@ -1,5 +1,4 @@
-Endophyllum ixorae Gäum. SPECIES
-=======
+# Endophyllum ixorae Gäum. SPECIES
 
 #### Status
 ACCEPTED

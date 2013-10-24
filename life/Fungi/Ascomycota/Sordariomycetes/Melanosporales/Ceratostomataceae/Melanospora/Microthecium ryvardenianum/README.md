@@ -1,5 +1,4 @@
-Microthecium ryvardenianum Aramb. & Gamundí SPECIES
-=======
+# Microthecium ryvardenianum Aramb. & Gamundí SPECIES
 
 #### Status
 ACCEPTED

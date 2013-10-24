@@ -1,5 +1,4 @@
-Hematodinium perezi SPECIES
-=======
+# Hematodinium perezi SPECIES
 
 #### Status
 ACCEPTED

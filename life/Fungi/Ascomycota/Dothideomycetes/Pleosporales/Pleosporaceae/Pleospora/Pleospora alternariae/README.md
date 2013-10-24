@@ -1,5 +1,4 @@
-Pleospora alternariae f. alternariae FORM
-=======
+# Pleospora alternariae SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora alternariae f. alternariae
+Pleospora alternariae
 
 ### Remarks
 null

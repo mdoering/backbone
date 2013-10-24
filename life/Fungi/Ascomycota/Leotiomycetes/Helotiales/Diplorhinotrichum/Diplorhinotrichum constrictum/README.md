@@ -1,5 +1,4 @@
-Diplorhinotrichum constrictum Hennebert SPECIES
-=======
+# Diplorhinotrichum constrictum Hennebert SPECIES
 
 #### Status
 ACCEPTED

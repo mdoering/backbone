@@ -1,5 +1,4 @@
-Hydropus sphaerosporus (Dennis) Dennis, 1970 SPECIES
-=======
+# Hydropus sphaerosporus (Dennis) Dennis, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Legionella fallonii Adeleke et al., 2001 SPECIES
-=======
+# Legionella fallonii Adeleke et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

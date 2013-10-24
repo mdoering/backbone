@@ -1,5 +1,4 @@
-Scolecopeltidium hormosporum F. Stevens & Manter SPECIES
-=======
+# Scolecopeltidium hormosporum F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED

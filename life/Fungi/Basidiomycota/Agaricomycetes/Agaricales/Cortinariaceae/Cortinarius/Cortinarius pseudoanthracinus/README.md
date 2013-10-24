@@ -1,5 +1,4 @@
-Cortinarius pseudoanthracinus Reumaux SPECIES
-=======
+# Cortinarius pseudoanthracinus Reumaux SPECIES
 
 #### Status
 ACCEPTED

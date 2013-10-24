@@ -1,17 +1,16 @@
-Lecidea geographica f. geographica FORM
-=======
+# Rhizocarpon geographicum (L.) DC. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Lamarck & de Candolle, Fl. franç. (Paris), Edn 3 2: 365 (1805)
 
 #### Original name
-Lecidea geographica f. geographica
+Lichen geographicus L.
 
 ### Remarks
 null

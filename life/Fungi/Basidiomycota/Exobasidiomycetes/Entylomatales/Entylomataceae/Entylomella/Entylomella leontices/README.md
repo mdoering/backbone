@@ -1,5 +1,4 @@
-Entylomella leontices N.P. Golovina SPECIES
-=======
+# Entylomella leontices N.P. Golovina SPECIES
 
 #### Status
 ACCEPTED

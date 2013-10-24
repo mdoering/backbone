@@ -1,5 +1,4 @@
-Puccinia modiolae P. Syd. & Syd. SPECIES
-=======
+# Puccinia modiolae P. Syd. & Syd. SPECIES
 
 #### Status
 ACCEPTED

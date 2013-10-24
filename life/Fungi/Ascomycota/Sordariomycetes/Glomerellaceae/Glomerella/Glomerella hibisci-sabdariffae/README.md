@@ -1,5 +1,4 @@
-Glomerella hibisci-sabdariffae (Sawada) Yamam. {?} SPECIES
-=======
+# Glomerella hibisci-sabdariffae (Sawada) Yamam. {?} SPECIES
 
 #### Status
 ACCEPTED

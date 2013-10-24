@@ -1,5 +1,4 @@
-Euzebya Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2010 GENUS
-=======
+# Euzebya Kurahashi, Fukunaga, Sakiyama, Harayama & Yokota, 2010 GENUS
 
 #### Status
 ACCEPTED

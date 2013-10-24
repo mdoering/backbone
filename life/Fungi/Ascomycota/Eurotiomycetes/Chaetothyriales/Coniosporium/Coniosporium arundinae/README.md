@@ -1,5 +1,4 @@
-Coniosporium arundinae var. arundinae VARIETY
-=======
+# Coniosporium arundinae SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniosporium arundinae var. arundinae
+Coniosporium arundinae
 
 ### Remarks
 null

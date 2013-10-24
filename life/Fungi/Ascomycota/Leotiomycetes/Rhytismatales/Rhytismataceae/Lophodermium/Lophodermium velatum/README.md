@@ -1,5 +1,4 @@
-Lophodermium velatum Berk. SPECIES
-=======
+# Lophodermium velatum Berk. SPECIES
 
 #### Status
 ACCEPTED

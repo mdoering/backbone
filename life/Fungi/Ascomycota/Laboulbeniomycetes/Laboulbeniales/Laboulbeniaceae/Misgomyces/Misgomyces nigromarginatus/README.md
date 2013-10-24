@@ -1,5 +1,4 @@
-Misgomyces nigromarginatus Thaxt. SPECIES
-=======
+# Misgomyces nigromarginatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diachea thomasii Rex, 1892 SPECIES
-=======
+# Diachea thomasii Rex, 1892 SPECIES
 
 #### Status
 ACCEPTED

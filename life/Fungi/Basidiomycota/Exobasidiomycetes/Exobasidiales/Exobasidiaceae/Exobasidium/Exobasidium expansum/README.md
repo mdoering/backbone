@@ -1,5 +1,4 @@
-Exobasidium expansum Nannf., 1981 SPECIES
-=======
+# Exobasidium expansum Nannf., 1981 SPECIES
 
 #### Status
 ACCEPTED

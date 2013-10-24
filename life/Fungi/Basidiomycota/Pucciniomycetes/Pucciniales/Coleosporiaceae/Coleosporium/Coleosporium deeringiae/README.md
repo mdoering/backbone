@@ -1,5 +1,4 @@
-Coleosporium deeringiae Pat. SPECIES
-=======
+# Coleosporium deeringiae Pat. SPECIES
 
 #### Status
 ACCEPTED

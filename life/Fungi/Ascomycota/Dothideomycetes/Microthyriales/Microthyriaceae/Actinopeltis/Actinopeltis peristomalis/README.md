@@ -1,5 +1,4 @@
-Actinopeltis peristomalis Höhn., 1907 SPECIES
-=======
+# Actinopeltis peristomalis Höhn., 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coilomyces schweinitzii Berk. & M.A. Curtis SPECIES
-=======
+# Coilomyces schweinitzii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

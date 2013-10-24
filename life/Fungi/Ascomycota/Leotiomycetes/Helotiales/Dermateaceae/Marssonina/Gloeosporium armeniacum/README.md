@@ -1,5 +1,4 @@
-Gloeosporium armeniacum Speg. SPECIES
-=======
+# Gloeosporium armeniacum Speg. SPECIES
 
 #### Status
 ACCEPTED

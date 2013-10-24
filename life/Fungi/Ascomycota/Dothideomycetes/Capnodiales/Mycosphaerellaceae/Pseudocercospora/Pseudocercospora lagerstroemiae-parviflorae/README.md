@@ -1,17 +1,16 @@
-Pseudocercospora lagerstroemiae-parviforae H.S.G. Rao, S. Narayan & Bhartiya SPECIES
-=======
+# Pseudocercospora lagerstroemiae-parviflorae H.S.G. Rao, S. Narayan & Bhartiya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Living World 3(2): 21 (1996)
 
 #### Original name
-Pseudocercospora lagerstroemiae-parviforae H.S.G. Rao, S. Narayan & Bhartiya
+Pseudocercospora lagerstroemiae-parviflorae H.S.G. Rao, S. Narayan & Bhartiya
 
 ### Remarks
 null

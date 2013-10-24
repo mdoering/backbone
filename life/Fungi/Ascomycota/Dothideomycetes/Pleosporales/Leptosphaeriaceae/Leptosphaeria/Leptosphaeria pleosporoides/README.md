@@ -1,5 +1,4 @@
-Leptosphaeria pleosporoides Auersw. SPECIES
-=======
+# Leptosphaeria pleosporoides Auersw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daedalea deplanata Link ex Fr. SPECIES
-=======
+# Daedalea deplanata Link ex Fr. SPECIES
 
 #### Status
 ACCEPTED

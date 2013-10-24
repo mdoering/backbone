@@ -1,5 +1,4 @@
-Cellypha clavata W.B. Cooke SPECIES
-=======
+# Cellypha clavata W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

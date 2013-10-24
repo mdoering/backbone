@@ -1,5 +1,4 @@
-Bonanseja mexicana Sacc., 1906 SPECIES
-=======
+# Bonanseja mexicana Sacc., 1906 SPECIES
 
 #### Status
 ACCEPTED

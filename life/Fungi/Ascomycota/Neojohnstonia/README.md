@@ -1,17 +1,16 @@
-Johnstonia M.B. Ellis GENUS
-=======
+# Neojohnstonia B. Sutton GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 125: 13 (1971)
+Trans. Br. mycol. Soc. 81(2): 407 (1983)
 
 #### Original name
-Johnstonia M.B. Ellis
+Neojohnstonia B. Sutton
 
 ### Remarks
 null

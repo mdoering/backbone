@@ -1,5 +1,4 @@
-Phormidium lignicola Fremy SPECIES
-=======
+# Phormidium lignicola Fremy SPECIES
 
 #### Status
 ACCEPTED

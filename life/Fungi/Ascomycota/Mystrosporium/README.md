@@ -1,5 +1,4 @@
-Mystrosporium Corda GENUS
-=======
+# Mystrosporium Corda GENUS
 
 #### Status
 ACCEPTED

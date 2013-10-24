@@ -1,5 +1,4 @@
-Massariella trevoae Speg. SPECIES
-=======
+# Massariella trevoae Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Granulocystis flabelliradiata (J. Erikss. & Hjortstam) Hjortstam, 1986 SPECIES
-=======
+# Odonticium flabelliradiatum (J. Erikss. & Hjortstam) Zmitr., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 25(1): 277 (1986)
+Mikol. Fitopatol. 35(6): 18 (2001)
 
 #### Original name
 Phanerochaete flabelliradiata J. Erikss. & Hjortstam, 1981

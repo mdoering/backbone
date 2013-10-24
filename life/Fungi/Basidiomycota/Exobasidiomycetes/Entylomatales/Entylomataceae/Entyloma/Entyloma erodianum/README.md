@@ -1,5 +1,4 @@
-Entyloma erodianum Sacc. SPECIES
-=======
+# Entyloma erodianum Sacc. SPECIES
 
 #### Status
 ACCEPTED

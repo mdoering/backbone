@@ -1,5 +1,4 @@
-Mycosphaerella sapiicola D.J. Soares, Parreira & R.W. Barreto, 2006 SPECIES
-=======
+# Mycosphaerella sapiicola D.J. Soares, Parreira & R.W. Barreto, 2006 SPECIES
 
 #### Status
 ACCEPTED

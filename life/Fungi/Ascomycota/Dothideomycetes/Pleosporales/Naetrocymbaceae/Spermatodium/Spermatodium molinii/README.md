@@ -1,5 +1,4 @@
-Spermatodium molinii (Beltr.) Trevis. SPECIES
-=======
+# Spermatodium molinii (Beltr.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

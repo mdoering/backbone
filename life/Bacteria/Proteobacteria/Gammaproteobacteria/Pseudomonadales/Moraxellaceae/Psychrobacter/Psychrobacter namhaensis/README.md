@@ -1,5 +1,4 @@
-Psychrobacter namhaensis Yoon et al., 2005 SPECIES
-=======
+# Psychrobacter namhaensis Yoon et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria vetustus Saporta SPECIES
-=======
+# Sphaeria vetustus Saporta SPECIES
 
 #### Status
 ACCEPTED

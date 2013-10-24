@@ -1,5 +1,4 @@
-Patella GENUS
-=======
+# Patella GENUS
 
 #### Status
 ACCEPTED

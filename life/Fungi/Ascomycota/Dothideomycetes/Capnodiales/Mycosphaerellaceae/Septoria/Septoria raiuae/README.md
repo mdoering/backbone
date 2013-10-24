@@ -1,5 +1,4 @@
-Septoria raiuae Syd. SPECIES
-=======
+# Septoria raiuae Syd. SPECIES
 
 #### Status
 ACCEPTED

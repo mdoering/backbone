@@ -1,5 +1,4 @@
-Thermoactinomyces thalpophilus (ex Waksman & Corke, 1953) Lacey & Cross, 1989 SPECIES
-=======
+# Thermoactinomyces thalpophilus (ex Waksman & Corke, 1953) Lacey & Cross, 1989 SPECIES
 
 #### Status
 ACCEPTED

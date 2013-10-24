@@ -1,11 +1,10 @@
-Trachelomonas superba subsp. superba SUBSPECIES
-=======
+# Trachelomonas superba Svirenko emend. Deflandre SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-The National Checklist of Taiwan
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

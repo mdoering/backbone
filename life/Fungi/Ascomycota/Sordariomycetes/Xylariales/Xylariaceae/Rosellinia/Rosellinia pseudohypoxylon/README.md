@@ -1,5 +1,4 @@
-Rosellinia pseudohypoxylon Speg. SPECIES
-=======
+# Rosellinia pseudohypoxylon Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lachnea livida Velen. SPECIES
-=======
+# Lachnea livida Velen. SPECIES
 
 #### Status
 ACCEPTED

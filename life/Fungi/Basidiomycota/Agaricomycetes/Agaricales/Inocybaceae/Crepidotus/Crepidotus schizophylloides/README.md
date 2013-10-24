@@ -1,5 +1,4 @@
-Crepidotus schizophylloides Henn. SPECIES
-=======
+# Crepidotus schizophylloides Henn. SPECIES
 
 #### Status
 ACCEPTED

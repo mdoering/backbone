@@ -1,5 +1,4 @@
-Sordaria oblectans Ces. SPECIES
-=======
+# Sordaria oblectans Ces. SPECIES
 
 #### Status
 ACCEPTED

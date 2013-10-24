@@ -1,5 +1,4 @@
-Cortinarius coeruleo-ochrascens Rob. Henry & Chevassut SPECIES
-=======
+# Cortinarius coeruleo-ochrascens Rob. Henry & Chevassut SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria gorzegnoënsis Servít SPECIES
-=======
+# Verrucaria gorzegnoënsis Servít SPECIES
 
 #### Status
 ACCEPTED

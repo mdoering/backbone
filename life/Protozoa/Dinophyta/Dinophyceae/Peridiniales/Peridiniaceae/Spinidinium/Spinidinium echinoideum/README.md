@@ -1,5 +1,4 @@
-Spinidinium echinoideum (Cookson & Eisenack, 1960) Lentin & Williams, 1976 SPECIES
-=======
+# Spinidinium echinoideum (Cookson & Eisenack, 1960) Lentin & Williams, 1976 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cypheliopsis wouauxii (Harm.) Nádv. SPECIES
-=======
+# Cypheliopsis vouauxii (Harm.) Nádv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

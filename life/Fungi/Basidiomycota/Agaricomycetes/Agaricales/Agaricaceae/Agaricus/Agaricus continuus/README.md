@@ -1,5 +1,4 @@
-Agaricus continuus Pers. SPECIES
-=======
+# Agaricus continuus Pers. SPECIES
 
 #### Status
 ACCEPTED

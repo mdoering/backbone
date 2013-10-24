@@ -1,5 +1,4 @@
-Arthonia accolens Stirt. SPECIES
-=======
+# Arthonia accolens Stirt. SPECIES
 
 #### Status
 ACCEPTED

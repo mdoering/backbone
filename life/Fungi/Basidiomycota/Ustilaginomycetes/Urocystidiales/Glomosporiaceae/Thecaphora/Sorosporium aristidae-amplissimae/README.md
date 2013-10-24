@@ -1,5 +1,4 @@
-Sorosporium aristidae-amplissimae Beeli SPECIES
-=======
+# Sorosporium aristidae-amplissimae Beeli SPECIES
 
 #### Status
 ACCEPTED

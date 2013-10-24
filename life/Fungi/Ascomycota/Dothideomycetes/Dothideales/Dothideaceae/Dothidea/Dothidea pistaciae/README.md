@@ -1,5 +1,4 @@
-Dothidea pistaciae Lév. SPECIES
-=======
+# Dothidea pistaciae Lév. SPECIES
 
 #### Status
 ACCEPTED

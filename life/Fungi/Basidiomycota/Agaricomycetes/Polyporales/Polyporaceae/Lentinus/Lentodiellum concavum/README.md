@@ -1,5 +1,4 @@
-Lentodiellum concavum (Berk.) Murrill SPECIES
-=======
+# Lentodiellum concavum (Berk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

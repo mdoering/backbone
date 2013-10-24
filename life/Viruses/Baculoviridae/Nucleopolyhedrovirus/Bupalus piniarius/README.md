@@ -1,5 +1,4 @@
-Bupalus piniarius Npv SPECIES
-=======
+# Bupalus piniarius Npv SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Bactridium lichenicolum (C. Massal.) Wollenw. SPECIES
-=======
+# Cylindrocarpon lichenicola (C. Massal.) D. Hawksw., 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Br. Mus. nat. Hist. , Bot. 6(3): 273 (1979)
 
 #### Original name
 Fusarium lichenicola C. Massal., 1903

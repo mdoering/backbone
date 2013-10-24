@@ -1,5 +1,4 @@
-Aecidium pasitheae Dietel & Neger SPECIES
-=======
+# Aecidium pasitheae Dietel & Neger SPECIES
 
 #### Status
 ACCEPTED

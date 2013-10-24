@@ -1,5 +1,4 @@
-Arthonia subbessalis Nyl. SPECIES
-=======
+# Arthonia subbessalis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anomalina farcta SPECIES
-=======
+# Anomalina farcta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniocybe beckhausii Körb. SPECIES
-=======
+# Coniocybe beckhausii Körb. SPECIES
 
 #### Status
 ACCEPTED

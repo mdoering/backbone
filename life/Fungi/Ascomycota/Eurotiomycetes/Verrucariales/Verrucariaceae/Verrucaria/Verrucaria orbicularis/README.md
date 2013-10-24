@@ -1,5 +1,4 @@
-Verrucaria orbicularis (Garov.) Cout. SPECIES
-=======
+# Verrucaria orbicularis (Garov.) Cout. SPECIES
 
 #### Status
 ACCEPTED

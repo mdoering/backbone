@@ -1,5 +1,4 @@
-Cribraria stellifera Nowotny & H. Neubert, 1993 SPECIES
-=======
+# Cribraria stellifera Nowotny & H. Neubert, 1993 SPECIES
 
 #### Status
 ACCEPTED

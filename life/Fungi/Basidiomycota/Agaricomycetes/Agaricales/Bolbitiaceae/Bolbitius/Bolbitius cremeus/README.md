@@ -1,5 +1,4 @@
-Bolbitius cremeus (Murrill) Watling SPECIES
-=======
+# Bolbitius cremeus (Murrill) Watling SPECIES
 
 #### Status
 ACCEPTED

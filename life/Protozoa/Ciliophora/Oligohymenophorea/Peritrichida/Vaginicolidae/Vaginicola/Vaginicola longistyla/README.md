@@ -1,5 +1,4 @@
-Vaginicola longistyla Shubernetzki, 1978 SPECIES
-=======
+# Vaginicola longistyla Shubernetzki, 1978 SPECIES
 
 #### Status
 ACCEPTED

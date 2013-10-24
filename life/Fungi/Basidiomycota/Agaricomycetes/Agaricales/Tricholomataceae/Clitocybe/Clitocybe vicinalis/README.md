@@ -1,5 +1,4 @@
-Clitocybe vicinalis Britzelm. SPECIES
-=======
+# Clitocybe vicinalis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

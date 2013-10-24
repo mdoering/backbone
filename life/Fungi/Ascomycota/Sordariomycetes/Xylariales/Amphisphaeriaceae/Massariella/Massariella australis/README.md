@@ -1,5 +1,4 @@
-Massariella australis (Cooke) Sacc. SPECIES
-=======
+# Massariella australis (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

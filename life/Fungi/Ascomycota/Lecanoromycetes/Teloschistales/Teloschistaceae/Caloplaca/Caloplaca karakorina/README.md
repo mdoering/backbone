@@ -1,5 +1,4 @@
-Caloplaca karakorina Poelt & Hinter. SPECIES
-=======
+# Caloplaca karakorina Poelt & Hinter. SPECIES
 
 #### Status
 ACCEPTED

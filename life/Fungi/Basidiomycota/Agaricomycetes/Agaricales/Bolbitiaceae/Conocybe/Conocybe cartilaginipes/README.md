@@ -1,5 +1,4 @@
-Conocybe cartilaginipes Watling SPECIES
-=======
+# Conocybe cartilaginipes Watling SPECIES
 
 #### Status
 ACCEPTED

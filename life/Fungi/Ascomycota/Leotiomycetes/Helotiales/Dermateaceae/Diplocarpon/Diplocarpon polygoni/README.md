@@ -1,5 +1,4 @@
-Diplocarpon polygoni E. Müll. SPECIES
-=======
+# Diplocarpon polygoni E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxophyllum crassum Dumas, 1937 SPECIES
-=======
+# Loxophyllum crassum Dumas, 1937 SPECIES
 
 #### Status
 ACCEPTED

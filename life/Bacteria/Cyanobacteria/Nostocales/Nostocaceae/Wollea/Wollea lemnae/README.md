@@ -1,5 +1,4 @@
-Wollea lemnae P.G. González-Guerrero, 1948 SPECIES
-=======
+# Wollea lemnae P.G. González-Guerrero, 1948 SPECIES
 
 #### Status
 ACCEPTED

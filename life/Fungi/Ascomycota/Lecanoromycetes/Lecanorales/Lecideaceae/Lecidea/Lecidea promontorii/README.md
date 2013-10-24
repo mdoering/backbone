@@ -1,5 +1,4 @@
-Lecidea promontorii Zahlbr. SPECIES
-=======
+# Lecidea promontorii Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

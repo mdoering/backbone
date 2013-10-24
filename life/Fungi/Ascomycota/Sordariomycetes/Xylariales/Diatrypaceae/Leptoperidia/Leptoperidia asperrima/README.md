@@ -1,14 +1,13 @@
-Peroneutypa asperrima Syd., 1909 SPECIES
-=======
+# Leptoperidia asperrima (Syd.) Rappaz, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. helv. 2(3): 546 (1987)
 
 #### Original name
 Peroneutypa asperrima Syd., 1909

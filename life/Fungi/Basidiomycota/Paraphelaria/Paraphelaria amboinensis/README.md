@@ -1,17 +1,16 @@
-Pterula amboinensis var. congoana Pat. VARIETY
-=======
+# Paraphelaria amboinensis (Lév.) Corner, 1966 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 9: 210 (1893)
+Persoonia 4(3): 346 (1966)
 
 #### Original name
-Pterula amboinensis var. congoana Pat.
+Thelephora amboinensis Lév., 1844
 
 ### Remarks
 null

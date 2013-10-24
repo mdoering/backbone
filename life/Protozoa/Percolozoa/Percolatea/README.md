@@ -1,5 +1,4 @@
-Percolatea CLASS
-=======
+# Percolatea CLASS
 
 #### Status
 ACCEPTED

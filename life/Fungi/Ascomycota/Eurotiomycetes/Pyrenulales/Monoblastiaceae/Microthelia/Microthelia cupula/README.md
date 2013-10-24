@@ -1,5 +1,4 @@
-Microthelia cupula (Ellis) Kuntze SPECIES
-=======
+# Microthelia cupula (Ellis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Depazea clematidis Rabenh. SPECIES
-=======
+# Depazea clematidis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

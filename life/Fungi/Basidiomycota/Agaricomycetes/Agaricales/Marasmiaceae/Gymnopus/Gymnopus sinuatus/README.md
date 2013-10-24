@@ -1,5 +1,4 @@
-Gymnopus sinuatus Murrill SPECIES
-=======
+# Gymnopus sinuatus Murrill SPECIES
 
 #### Status
 ACCEPTED

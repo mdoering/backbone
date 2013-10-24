@@ -1,5 +1,4 @@
-Entomocosma GENUS
-=======
+# Entomocosma GENUS
 
 #### Status
 ACCEPTED

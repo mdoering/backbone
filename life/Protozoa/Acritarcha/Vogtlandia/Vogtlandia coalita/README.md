@@ -1,5 +1,4 @@
-Vogtlandia coalita Martin in Dean & Martin, 1978 SPECIES
-=======
+# Vogtlandia coalita Martin in Dean & Martin, 1978 SPECIES
 
 #### Status
 ACCEPTED

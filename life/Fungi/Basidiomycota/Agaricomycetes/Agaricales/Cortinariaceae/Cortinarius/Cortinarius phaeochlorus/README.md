@@ -1,5 +1,4 @@
-Cortinarius phaeochlorus E. Horak, 1990 SPECIES
-=======
+# Cortinarius phaeochlorus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

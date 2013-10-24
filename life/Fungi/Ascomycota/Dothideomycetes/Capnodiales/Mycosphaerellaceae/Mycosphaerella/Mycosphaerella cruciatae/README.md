@@ -1,5 +1,4 @@
-Mycosphaerella cruciatae (F. Lamb. & Fautrey) M. Bechet, N. Coman & Szasz {?} SPECIES
-=======
+# Mycosphaerella cruciatae (F. Lamb. & Fautrey) M. Bechet, N. Coman & Szasz {?} SPECIES
 
 #### Status
 ACCEPTED

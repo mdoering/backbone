@@ -1,5 +1,4 @@
-Parmelia chrysantha Tuck. SPECIES
-=======
+# Parmelia chrysantha Tuck. SPECIES
 
 #### Status
 ACCEPTED

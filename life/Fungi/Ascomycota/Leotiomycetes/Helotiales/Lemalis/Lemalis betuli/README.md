@@ -1,5 +1,4 @@
-Lemalis betuli (Alb. & Schwein.) Schwein. SPECIES
-=======
+# Lemalis betuli (Alb. & Schwein.) Schwein. SPECIES
 
 #### Status
 ACCEPTED

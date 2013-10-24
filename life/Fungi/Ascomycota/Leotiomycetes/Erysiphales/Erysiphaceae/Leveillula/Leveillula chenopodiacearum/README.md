@@ -1,5 +1,4 @@
-Leveillula chenopodiacearum f. chenopodiacearum FORM
-=======
+# Leveillula chenopodiacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Acta Inst. bot. Komarov. Acad. Sci. , Pl. Crypt, ser. 2 10: 293 (1956)
 
 #### Original name
-Leveillula chenopodiacearum f. chenopodiacearum
+Leveillula chenopodiacearum Golovin
 
 ### Remarks
 null

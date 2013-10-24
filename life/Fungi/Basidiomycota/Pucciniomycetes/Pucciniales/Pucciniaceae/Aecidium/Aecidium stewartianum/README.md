@@ -1,5 +1,4 @@
-Aecidium stewartianum Cummins SPECIES
-=======
+# Aecidium stewartianum Cummins SPECIES
 
 #### Status
 ACCEPTED

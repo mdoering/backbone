@@ -1,5 +1,4 @@
-Heterococcus africanus Pitschmann SPECIES
-=======
+# Heterococcus africanus Pitschmann SPECIES
 
 #### Status
 ACCEPTED

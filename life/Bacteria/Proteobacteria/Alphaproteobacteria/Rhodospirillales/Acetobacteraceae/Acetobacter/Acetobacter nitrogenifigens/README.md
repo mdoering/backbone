@@ -1,5 +1,4 @@
-Acetobacter nitrogenifigens Dutta & Gachhui, 2006 SPECIES
-=======
+# Acetobacter nitrogenifigens Dutta & Gachhui, 2006 SPECIES
 
 #### Status
 ACCEPTED

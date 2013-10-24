@@ -1,5 +1,4 @@
-Puccinia actaeae-elymi Mayor SPECIES
-=======
+# Puccinia actaeae-elymi Mayor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrocybe ortoniana Bon SPECIES
-=======
+# Hygrocybe ortoniana Bon SPECIES
 
 #### Status
 ACCEPTED

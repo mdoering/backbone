@@ -1,5 +1,4 @@
-Sericeomyces cinereopallidus Contu SPECIES
-=======
+# Sericeomyces cinereopallidus Contu SPECIES
 
 #### Status
 ACCEPTED

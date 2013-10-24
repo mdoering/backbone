@@ -1,5 +1,4 @@
-Protodaedalea Imazeki GENUS
-=======
+# Protodaedalea Imazeki GENUS
 
 #### Status
 ACCEPTED

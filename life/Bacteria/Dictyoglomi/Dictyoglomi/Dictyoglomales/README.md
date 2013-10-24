@@ -1,5 +1,4 @@
-Dictyoglomales ORDER
-=======
+# Dictyoglomales ORDER
 
 #### Status
 ACCEPTED

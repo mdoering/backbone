@@ -1,5 +1,4 @@
-Cladonia imbricaria Kristinsson SPECIES
-=======
+# Cladonia imbricaria Kristinsson SPECIES
 
 #### Status
 ACCEPTED

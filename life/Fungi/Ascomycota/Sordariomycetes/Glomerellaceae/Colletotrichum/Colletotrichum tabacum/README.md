@@ -1,17 +1,16 @@
-Colletotrichum nicotianae Av.-Saccá, 1922 SPECIES
-=======
+# Colletotrichum tabacum Böning, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Prakt. Bl. Pflanzenbau Pflanzen-schutz 10: 89 (1932)
 
 #### Original name
-Colletotrichum nicotianae Av.-Saccá, 1922
+Colletotrichum tabacum Böning, 1932
 
 ### Remarks
 null

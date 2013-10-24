@@ -1,5 +1,4 @@
-Tetraedrixium B.V. Timofeev, 1973 GENUS
-=======
+# Tetraedrixium B.V. Timofeev, 1973 GENUS
 
 #### Status
 ACCEPTED

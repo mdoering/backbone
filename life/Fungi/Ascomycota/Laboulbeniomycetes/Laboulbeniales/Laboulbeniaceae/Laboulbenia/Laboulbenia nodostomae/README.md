@@ -1,5 +1,4 @@
-Laboulbenia nodostomae Thaxt. SPECIES
-=======
+# Laboulbenia nodostomae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

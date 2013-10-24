@@ -1,5 +1,4 @@
-Discoaster minimus Sullivan, 1964 SPECIES
-=======
+# Discoaster minimus Sullivan, 1964 SPECIES
 
 #### Status
 ACCEPTED

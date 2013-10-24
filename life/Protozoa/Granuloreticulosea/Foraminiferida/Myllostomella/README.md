@@ -1,5 +1,4 @@
-Myllostomella Hayward, 2002 GENUS
-=======
+# Myllostomella Hayward, 2002 GENUS
 
 #### Status
 ACCEPTED

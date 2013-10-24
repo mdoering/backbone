@@ -1,5 +1,4 @@
-Nodocapnuchosphaera Tekin, 1999 GENUS
-=======
+# Nodocapnuchosphaera Tekin, 1999 GENUS
 
 #### Status
 ACCEPTED

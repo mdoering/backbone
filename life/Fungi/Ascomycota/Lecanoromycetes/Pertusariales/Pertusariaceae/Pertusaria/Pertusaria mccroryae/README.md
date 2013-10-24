@@ -1,5 +1,4 @@
-Pertusaria mccroryae C. R. Björk., Goward & T. Sprib. SPECIES
-=======
+# Pertusaria mccroryae C. R. Björk., Goward & T. Sprib. SPECIES
 
 #### Status
 ACCEPTED

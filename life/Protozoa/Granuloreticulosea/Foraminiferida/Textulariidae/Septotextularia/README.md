@@ -1,5 +1,4 @@
-Septotextularia Chang & Zheng, 1978 GENUS
-=======
+# Septotextularia Chang & Zheng, 1978 GENUS
 
 #### Status
 ACCEPTED

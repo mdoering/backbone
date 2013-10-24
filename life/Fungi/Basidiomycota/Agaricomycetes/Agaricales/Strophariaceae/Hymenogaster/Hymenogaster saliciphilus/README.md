@@ -1,5 +1,4 @@
-Hymenogaster saliciphilus Frank Graf & E. Horak SPECIES
-=======
+# Hymenogaster saliciphilus Frank Graf & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amazonia stevensii Hansf. SPECIES
-=======
+# Amazonia stevensii Hansf. SPECIES
 
 #### Status
 ACCEPTED

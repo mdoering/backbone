@@ -1,5 +1,4 @@
-Callopisma neglectum (Körb.) J. Lahm SPECIES
-=======
+# Callopisma neglectum (Körb.) J. Lahm SPECIES
 
 #### Status
 ACCEPTED

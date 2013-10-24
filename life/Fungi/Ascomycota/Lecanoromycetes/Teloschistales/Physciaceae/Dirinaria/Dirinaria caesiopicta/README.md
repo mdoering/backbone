@@ -1,5 +1,4 @@
-Dirinaria caesiopicta (Nyl.) D.D. Awasthi SPECIES
-=======
+# Dirinaria caesiopicta (Nyl.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

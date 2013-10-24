@@ -1,5 +1,4 @@
-Leptosphaeria bractearum Sacc. SPECIES
-=======
+# Leptosphaeria bractearum Sacc. SPECIES
 
 #### Status
 ACCEPTED

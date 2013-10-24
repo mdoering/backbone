@@ -1,5 +1,4 @@
-Disparifusa quasibernesgae Le Herisse, 2002 SPECIES
-=======
+# Disparifusa quasibernesgae Le Herisse, 2002 SPECIES
 
 #### Status
 ACCEPTED

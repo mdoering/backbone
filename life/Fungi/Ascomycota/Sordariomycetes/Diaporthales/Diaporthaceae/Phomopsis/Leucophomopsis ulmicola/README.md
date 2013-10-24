@@ -1,5 +1,4 @@
-Leucophomopsis ulmicola (Richon) Petr. SPECIES
-=======
+# Leucophomopsis ulmicola (Richon) Petr. SPECIES
 
 #### Status
 ACCEPTED

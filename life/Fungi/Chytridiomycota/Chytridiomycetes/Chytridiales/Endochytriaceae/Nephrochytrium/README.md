@@ -1,5 +1,4 @@
-Nephrochytrium Karling GENUS
-=======
+# Nephrochytrium Karling GENUS
 
 #### Status
 ACCEPTED

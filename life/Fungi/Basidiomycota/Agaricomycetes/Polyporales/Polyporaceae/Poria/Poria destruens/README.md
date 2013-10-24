@@ -1,5 +1,4 @@
-Poria destruens Gray SPECIES
-=======
+# Poria destruens Gray SPECIES
 
 #### Status
 ACCEPTED

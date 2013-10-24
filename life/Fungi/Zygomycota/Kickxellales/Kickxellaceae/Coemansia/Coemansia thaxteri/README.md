@@ -1,5 +1,4 @@
-Coemansia thaxteri Linder, 1943 SPECIES
-=======
+# Coemansia thaxteri Linder, 1943 SPECIES
 
 #### Status
 ACCEPTED

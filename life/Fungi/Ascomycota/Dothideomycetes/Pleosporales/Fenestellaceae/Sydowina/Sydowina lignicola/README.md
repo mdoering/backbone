@@ -1,5 +1,4 @@
-Sydowina lignicola (Mont.) Petr. SPECIES
-=======
+# Sydowina lignicola (Mont.) Petr. SPECIES
 
 #### Status
 ACCEPTED

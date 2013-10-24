@@ -1,17 +1,16 @@
-Lecidea vernalis subsp. vernalis SUBSPECIES
-=======
+# Biatora vernalis (L.) Fr. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+K. svenska Vetensk-Akad. Handl. 271 (1822)
 
 #### Original name
-Lecidea vernalis subsp. vernalis
+Lichen vernalis L.
 
 ### Remarks
 null

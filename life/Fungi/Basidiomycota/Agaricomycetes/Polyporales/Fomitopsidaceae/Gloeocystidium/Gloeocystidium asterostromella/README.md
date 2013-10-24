@@ -1,5 +1,4 @@
-Gloeocystidium asterostromella Rick SPECIES
-=======
+# Gloeocystidium asterostromella Rick SPECIES
 
 #### Status
 ACCEPTED

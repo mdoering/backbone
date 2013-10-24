@@ -1,5 +1,4 @@
-Calycina fuscobrunnea (Gaillard & Pat.) Kuntze SPECIES
-=======
+# Calycina fuscobrunnea (Gaillard & Pat.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

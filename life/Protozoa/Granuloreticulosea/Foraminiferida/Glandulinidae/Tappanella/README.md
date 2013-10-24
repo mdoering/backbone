@@ -1,5 +1,4 @@
-Tappanella Gudina & Saidova, 1969 GENUS
-=======
+# Tappanella Gudina & Saidova, 1969 GENUS
 
 #### Status
 ACCEPTED

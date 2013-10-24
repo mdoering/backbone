@@ -1,5 +1,4 @@
-Basidiolum fimbriatum Cienk., 1861 SPECIES
-=======
+# Basidiolum fimbriatum Cienk., 1861 SPECIES
 
 #### Status
 ACCEPTED

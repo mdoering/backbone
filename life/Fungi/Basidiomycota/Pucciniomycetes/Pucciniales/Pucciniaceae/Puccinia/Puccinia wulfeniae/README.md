@@ -1,5 +1,4 @@
-Puccinia wulfeniae subsp. saximontana Savile SUBSPECIES
-=======
+# Puccinia wulfeniae Dietel & Holw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+in Dietel, Erythea 3: 79 (1895)
 
 #### Original name
-Puccinia wulfeniae subsp. saximontana Savile
+Puccinia wulfeniae Dietel & Holw.
 
 ### Remarks
 null

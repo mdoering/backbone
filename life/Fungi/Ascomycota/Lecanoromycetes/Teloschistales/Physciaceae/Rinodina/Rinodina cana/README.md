@@ -1,5 +1,4 @@
-Rinodina cana (Arnold) Arnold SPECIES
-=======
+# Rinodina cana (Arnold) Arnold SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ductifera argentinensis Lowy SPECIES
-=======
+# Ductifera argentinensis Lowy SPECIES
 
 #### Status
 ACCEPTED

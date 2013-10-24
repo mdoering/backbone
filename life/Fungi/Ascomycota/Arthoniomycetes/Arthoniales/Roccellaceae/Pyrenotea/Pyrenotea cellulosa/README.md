@@ -1,5 +1,4 @@
-Pyrenotea cellulosa SPECIES
-=======
+# Pyrenotea cellulosa SPECIES
 
 #### Status
 ACCEPTED

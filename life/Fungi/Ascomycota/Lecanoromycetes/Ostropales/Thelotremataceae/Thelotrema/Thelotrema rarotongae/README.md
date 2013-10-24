@@ -1,5 +1,4 @@
-Thelotrema rarotongae Räsänen ex Sbarbaro SPECIES
-=======
+# Thelotrema rarotongae Räsänen ex Sbarbaro SPECIES
 
 #### Status
 ACCEPTED

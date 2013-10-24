@@ -1,5 +1,4 @@
-Xylomites ficicola Ettingsh. SPECIES
-=======
+# Xylomites ficicola Ettingsh. SPECIES
 
 #### Status
 ACCEPTED

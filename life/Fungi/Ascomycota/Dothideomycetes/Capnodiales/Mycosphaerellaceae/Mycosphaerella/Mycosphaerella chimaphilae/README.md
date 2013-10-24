@@ -1,5 +1,4 @@
-Mycosphaerella chimaphilae (Ellis & Everh.) Höhn. SPECIES
-=======
+# Mycosphaerella chimaphilae (Ellis & Everh.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

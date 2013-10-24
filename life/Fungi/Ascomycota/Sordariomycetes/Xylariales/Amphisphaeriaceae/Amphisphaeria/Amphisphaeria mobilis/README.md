@@ -1,5 +1,4 @@
-Amphisphaeria mobilis Ellis SPECIES
-=======
+# Amphisphaeria mobilis Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lepiota macmurphyi Murrill SPECIES
-=======
+# Lepiota macmurphyi Murrill SPECIES
 
 #### Status
 ACCEPTED

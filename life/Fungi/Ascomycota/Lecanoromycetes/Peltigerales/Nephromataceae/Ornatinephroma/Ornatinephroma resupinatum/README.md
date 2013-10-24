@@ -1,5 +1,4 @@
-Ornatinephroma resupinatum var. resupinatum VARIETY
-=======
+# Ornatinephroma resupinatum SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ornatinephroma resupinatum var. resupinatum
+null
 
 ### Remarks
 null

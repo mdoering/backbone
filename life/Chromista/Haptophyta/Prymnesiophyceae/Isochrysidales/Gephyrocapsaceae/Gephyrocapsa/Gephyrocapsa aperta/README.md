@@ -1,5 +1,4 @@
-Gephyrocapsa aperta Kamptner, 1963 SPECIES
-=======
+# Gephyrocapsa aperta Kamptner, 1963 SPECIES
 
 #### Status
 ACCEPTED

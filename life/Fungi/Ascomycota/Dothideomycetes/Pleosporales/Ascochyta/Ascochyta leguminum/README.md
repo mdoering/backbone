@@ -1,5 +1,4 @@
-Ascochyta leguminum Sacc. SPECIES
-=======
+# Ascochyta leguminum Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis levigata Kofoid & Campbell, 1929 SPECIES
-=======
+# Tintinnopsis levigata Kofoid & Campbell, 1929 SPECIES
 
 #### Status
 ACCEPTED

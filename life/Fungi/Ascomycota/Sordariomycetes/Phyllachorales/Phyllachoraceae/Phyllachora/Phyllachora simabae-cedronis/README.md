@@ -1,5 +1,4 @@
-Phyllachora simabae-cedronis Henn., 1904 SPECIES
-=======
+# Phyllachora simabae-cedronis Henn., 1904 SPECIES
 
 #### Status
 ACCEPTED

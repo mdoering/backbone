@@ -1,5 +1,4 @@
-Tephromela nashii Kalb SPECIES
-=======
+# Tephromela nashii Kalb SPECIES
 
 #### Status
 ACCEPTED

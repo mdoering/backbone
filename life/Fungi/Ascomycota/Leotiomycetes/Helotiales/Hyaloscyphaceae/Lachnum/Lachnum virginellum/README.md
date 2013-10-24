@@ -1,5 +1,4 @@
-Lachnum virginellum (Cooke) Zeller SPECIES
-=======
+# Lachnum virginellum (Cooke) Zeller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aschersonia carpinicola Ellis & Dearn. SPECIES
-=======
+# Aschersonia carpinicola Ellis & Dearn. SPECIES
 
 #### Status
 ACCEPTED

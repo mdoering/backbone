@@ -1,5 +1,4 @@
-Helminthosporium dictyoseptatum S. Hughes, 1980 SPECIES
-=======
+# Helminthosporium dictyoseptatum S. Hughes, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalozzina uniseptata Grove, 1937 SPECIES
-=======
+# Pestalozzina uniseptata Grove, 1937 SPECIES
 
 #### Status
 ACCEPTED

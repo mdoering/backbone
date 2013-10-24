@@ -1,5 +1,4 @@
-Ramalina euphorbiae Vain. SPECIES
-=======
+# Ramalina euphorbiae Vain. SPECIES
 
 #### Status
 ACCEPTED

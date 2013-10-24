@@ -1,5 +1,4 @@
-Chonesphaera Klumpp GENUS
-=======
+# Chonesphaera Klumpp GENUS
 
 #### Status
 ACCEPTED

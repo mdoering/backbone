@@ -1,5 +1,4 @@
-Gyrophora papyria (Ach.) Räsänen SPECIES
-=======
+# Gyrophora papyria (Ach.) Räsänen SPECIES
 
 #### Status
 ACCEPTED

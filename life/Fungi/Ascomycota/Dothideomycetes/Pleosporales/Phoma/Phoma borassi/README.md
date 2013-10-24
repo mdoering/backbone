@@ -1,5 +1,4 @@
-Phoma borassi R.C. Srivast. SPECIES
-=======
+# Phoma borassi R.C. Srivast. SPECIES
 
 #### Status
 ACCEPTED

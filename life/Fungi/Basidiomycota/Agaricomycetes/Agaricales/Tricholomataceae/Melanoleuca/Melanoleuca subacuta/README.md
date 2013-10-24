@@ -1,5 +1,4 @@
-Melanoleuca subacuta (Peck) Murrill SPECIES
-=======
+# Melanoleuca subacuta (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

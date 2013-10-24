@@ -1,5 +1,4 @@
-Ascoidea asiatica L.R. Batra & Francke-Grosm., 1964 SPECIES
-=======
+# Ascoidea asiatica L.R. Batra & Francke-Grosm., 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia mackeirae Thaxt. SPECIES
-=======
+# Laboulbenia mackeirae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

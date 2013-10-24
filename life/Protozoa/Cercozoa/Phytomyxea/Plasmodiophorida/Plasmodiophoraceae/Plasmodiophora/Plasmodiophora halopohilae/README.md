@@ -1,5 +1,4 @@
-Plasmodiophora halopohilae SPECIES
-=======
+# Plasmodiophora halopohilae SPECIES
 
 #### Status
 ACCEPTED

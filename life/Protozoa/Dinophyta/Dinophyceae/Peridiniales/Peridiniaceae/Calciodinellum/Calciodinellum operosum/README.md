@@ -1,5 +1,4 @@
-Calciodinellum operosum Deflandre SPECIES
-=======
+# Calciodinellum operosum Deflandre SPECIES
 
 #### Status
 ACCEPTED

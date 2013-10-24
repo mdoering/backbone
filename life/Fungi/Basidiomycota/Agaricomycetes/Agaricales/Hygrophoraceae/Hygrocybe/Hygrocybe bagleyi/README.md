@@ -1,5 +1,4 @@
-Hygrocybe bagleyi A.M. Young SPECIES
-=======
+# Hygrocybe bagleyi A.M. Young SPECIES
 
 #### Status
 ACCEPTED

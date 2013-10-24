@@ -1,5 +1,4 @@
-Stereogloeocystidium subsanguinolentum Rick SPECIES
-=======
+# Stereogloeocystidium subsanguinolentum Rick SPECIES
 
 #### Status
 ACCEPTED

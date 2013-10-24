@@ -1,5 +1,4 @@
-Actinocyclus exiguus G. Fryxell & Semina, 1981 SPECIES
-=======
+# Actinocyclus exiguus G. Fryxell & Semina, 1981 SPECIES
 
 #### Status
 ACCEPTED

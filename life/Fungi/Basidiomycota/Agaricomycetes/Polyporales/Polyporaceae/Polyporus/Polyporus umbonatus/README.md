@@ -1,5 +1,4 @@
-Polyporus umbonatus Fr. SPECIES
-=======
+# Polyporus umbonatus Fr. SPECIES
 
 #### Status
 ACCEPTED

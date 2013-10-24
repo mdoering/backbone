@@ -1,5 +1,4 @@
-Panus ramosus Métrod SPECIES
-=======
+# Panus ramosus Métrod SPECIES
 
 #### Status
 ACCEPTED

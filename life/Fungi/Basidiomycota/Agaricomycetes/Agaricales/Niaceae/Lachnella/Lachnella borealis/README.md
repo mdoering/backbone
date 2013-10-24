@@ -1,5 +1,4 @@
-Lachnella borealis Ellis & Holw. SPECIES
-=======
+# Lachnella borealis Ellis & Holw. SPECIES
 
 #### Status
 ACCEPTED

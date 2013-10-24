@@ -1,5 +1,4 @@
-Aplosporella ficina Urries SPECIES
-=======
+# Aplosporella ficina Urries SPECIES
 
 #### Status
 ACCEPTED

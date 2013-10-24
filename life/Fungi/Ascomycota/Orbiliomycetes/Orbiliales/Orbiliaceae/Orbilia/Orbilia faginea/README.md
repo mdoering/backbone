@@ -1,5 +1,4 @@
-Orbilia faginea Velen. SPECIES
-=======
+# Orbilia faginea Velen. SPECIES
 
 #### Status
 ACCEPTED

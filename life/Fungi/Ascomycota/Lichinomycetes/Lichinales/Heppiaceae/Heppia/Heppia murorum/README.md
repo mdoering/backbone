@@ -1,5 +1,4 @@
-Heppia murorum Vain. SPECIES
-=======
+# Heppia murorum Vain. SPECIES
 
 #### Status
 ACCEPTED

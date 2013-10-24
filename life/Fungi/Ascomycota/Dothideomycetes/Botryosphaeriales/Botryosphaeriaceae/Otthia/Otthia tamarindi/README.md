@@ -1,5 +1,4 @@
-Otthia tamarindi Tilak & R. Rao SPECIES
-=======
+# Otthia tamarindi Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

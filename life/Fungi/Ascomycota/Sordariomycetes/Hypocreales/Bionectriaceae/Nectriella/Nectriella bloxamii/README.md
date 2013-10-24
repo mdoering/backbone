@@ -1,17 +1,16 @@
-Nectria bloxami Berk. & Broome SPECIES
-=======
+# Nectriella bloxamii (Berk. & Broome) Fuckel, 1875 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 29-30: 21 (1875)
 
 #### Original name
-Nectria bloxami Berk. & Broome
+Nectria bloxamii Berk. & Broome, 1854
 
 ### Remarks
 null

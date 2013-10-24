@@ -1,5 +1,4 @@
-Descolea squarrosipes E. Horak SPECIES
-=======
+# Descolea squarrosipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

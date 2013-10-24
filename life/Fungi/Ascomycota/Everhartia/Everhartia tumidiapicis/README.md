@@ -1,14 +1,13 @@
-Everhartia tumidoapicis (Goh & K.D. Hyde) Yanna, W.H. Ho, Goh & K.D. Hyde SPECIES
-=======
+# Everhartia tumidiapicis (Goh & K.D. Hyde) Yanna, W.H. Ho, Goh & K.D. Hyde SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Linn. Soc. , Bot. 134(3): 468 (2000)
 
 #### Original name
 Delortia tumidiapicis Goh & K.D. Hyde

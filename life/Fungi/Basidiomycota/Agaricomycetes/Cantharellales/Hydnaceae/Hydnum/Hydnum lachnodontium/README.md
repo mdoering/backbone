@@ -1,5 +1,4 @@
-Hydnum lachnodontium Berk. ex Cooke SPECIES
-=======
+# Hydnum lachnodontium Berk. ex Cooke SPECIES
 
 #### Status
 ACCEPTED

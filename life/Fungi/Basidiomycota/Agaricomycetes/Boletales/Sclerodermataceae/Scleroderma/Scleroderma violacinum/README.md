@@ -1,5 +1,4 @@
-Scleroderma violacinum (Raf.) De Toni SPECIES
-=======
+# Scleroderma violacinum (Raf.) De Toni SPECIES
 
 #### Status
 ACCEPTED

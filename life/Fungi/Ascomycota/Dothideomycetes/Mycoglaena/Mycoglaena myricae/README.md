@@ -1,17 +1,16 @@
-Verrucaria aeruginella (Nyl.) Nyl. SPECIES
-=======
+# Mycoglaena myricae (Nyl.) R. C. Harris SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Michigan Bot. 12(1): 29 (1973)
 
 #### Original name
-Verrucaria epidermidis var. aeruginella Nyl.
+Verrucaria myricae Nyl.
 
 ### Remarks
 null

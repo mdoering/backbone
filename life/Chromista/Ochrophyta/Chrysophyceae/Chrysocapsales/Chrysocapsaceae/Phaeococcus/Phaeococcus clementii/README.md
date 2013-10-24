@@ -1,5 +1,4 @@
-Phaeococcus clementii (G.Meneghini) Borzì SPECIES
-=======
+# Phaeococcus clementii (G.Meneghini) Borzì SPECIES
 
 #### Status
 ACCEPTED

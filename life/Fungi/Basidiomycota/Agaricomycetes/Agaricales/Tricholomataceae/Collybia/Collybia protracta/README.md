@@ -1,5 +1,4 @@
-Collybia protracta (Fr.) Gillet SPECIES
-=======
+# Collybia protracta (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

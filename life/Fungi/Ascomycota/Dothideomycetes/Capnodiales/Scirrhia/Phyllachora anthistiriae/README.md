@@ -1,5 +1,4 @@
-Phyllachora anthistiriae Racib., 1915 SPECIES
-=======
+# Phyllachora anthistiriae Racib., 1915 SPECIES
 
 #### Status
 DOUBTFUL

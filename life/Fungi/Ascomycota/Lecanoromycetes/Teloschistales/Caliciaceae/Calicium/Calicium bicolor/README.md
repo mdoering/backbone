@@ -1,5 +1,4 @@
-Calicium bicolor Ficinus & C. Schub. SPECIES
-=======
+# Calicium bicolor Ficinus & C. Schub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Favosphaeridium GENUS
-=======
+# Favosphaeridium GENUS
 
 #### Status
 ACCEPTED

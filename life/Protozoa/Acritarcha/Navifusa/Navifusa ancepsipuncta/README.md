@@ -1,5 +1,4 @@
-Navifusa ancepsipuncta Loeblich, 1970 ex Eisenack, 1976 SPECIES
-=======
+# Navifusa ancepsipuncta Loeblich, 1970 ex Eisenack, 1976 SPECIES
 
 #### Status
 ACCEPTED

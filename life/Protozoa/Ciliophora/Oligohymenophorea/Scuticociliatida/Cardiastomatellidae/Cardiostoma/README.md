@@ -1,5 +1,4 @@
-Cardiostoma Kahl, 1928 GENUS
-=======
+# Cardiostoma Kahl, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triangumorpha prima Yin Leiming, 1979 SPECIES
-=======
+# Triangumorpha prima Yin Leiming, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria vasculosa Fr. SPECIES
-=======
+# Sphaeria vasculosa Fr. SPECIES
 
 #### Status
 ACCEPTED

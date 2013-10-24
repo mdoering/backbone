@@ -1,14 +1,13 @@
-Lecidea hybrida Zahlbr. SPECIES
-=======
+# Rhizolecia hybrida (Zahlbr.) Hertel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 79: 428 (1984)
 
 #### Original name
 Lecidea hybrida Zahlbr.

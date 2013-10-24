@@ -1,5 +1,4 @@
-Usnea pseudoceratina Motyka SPECIES
-=======
+# Usnea pseudoceratina Motyka SPECIES
 
 #### Status
 ACCEPTED

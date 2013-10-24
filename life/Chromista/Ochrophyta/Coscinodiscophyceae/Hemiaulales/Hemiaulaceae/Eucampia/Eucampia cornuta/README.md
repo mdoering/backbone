@@ -1,5 +1,4 @@
-Eucampia cornuta (Cleve) Grunow SPECIES
-=======
+# Eucampia cornuta (Cleve) Grunow SPECIES
 
 #### Status
 ACCEPTED

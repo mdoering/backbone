@@ -1,5 +1,4 @@
-Sphaeria glandis Duby SPECIES
-=======
+# Sphaeria glandis Duby SPECIES
 
 #### Status
 ACCEPTED

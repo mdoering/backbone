@@ -1,5 +1,4 @@
-Teloschistes cymbalifer (G. Mey.) Müll. Arg. SPECIES
-=======
+# Teloschistes cymbalifer (G. Mey.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

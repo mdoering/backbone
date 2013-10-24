@@ -1,5 +1,4 @@
-Deflexula pennata (Henn.) Corner, 1952 SPECIES
-=======
+# Deflexula pennata (Henn.) Corner, 1952 SPECIES
 
 #### Status
 ACCEPTED

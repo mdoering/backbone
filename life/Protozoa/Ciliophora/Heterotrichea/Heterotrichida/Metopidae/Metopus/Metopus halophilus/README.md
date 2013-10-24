@@ -1,5 +1,4 @@
-Metopus halophilus Kahl, 1928 SPECIES
-=======
+# Metopus halophilus Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

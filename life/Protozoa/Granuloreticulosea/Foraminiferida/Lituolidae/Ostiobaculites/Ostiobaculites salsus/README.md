@@ -1,5 +1,4 @@
-Ostiobaculites salsus Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
-=======
+# Ostiobaculites salsus Brönnimann, Whittaker & Zaninetti, 1992 SPECIES
 
 #### Status
 ACCEPTED

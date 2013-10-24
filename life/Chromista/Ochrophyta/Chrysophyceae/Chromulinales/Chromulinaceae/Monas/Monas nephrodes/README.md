@@ -1,5 +1,4 @@
-Monas nephrodes L. Maggi SPECIES
-=======
+# Monas nephrodes L. Maggi SPECIES
 
 #### Status
 ACCEPTED

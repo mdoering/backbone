@@ -1,5 +1,4 @@
-Conida rubescens Arnaud SPECIES
-=======
+# Conida rubescens Arnaud SPECIES
 
 #### Status
 ACCEPTED

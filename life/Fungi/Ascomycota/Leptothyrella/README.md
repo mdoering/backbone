@@ -1,5 +1,4 @@
-Leptothyrella Saccardo, 1885 GENUS
-=======
+# Leptothyrella Saccardo, 1885 GENUS
 
 #### Status
 ACCEPTED

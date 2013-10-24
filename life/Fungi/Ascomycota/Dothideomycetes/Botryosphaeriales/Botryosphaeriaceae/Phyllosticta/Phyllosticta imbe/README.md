@@ -1,5 +1,4 @@
-Phyllosticta imbe Bat. SPECIES
-=======
+# Phyllosticta imbe Bat. SPECIES
 
 #### Status
 ACCEPTED

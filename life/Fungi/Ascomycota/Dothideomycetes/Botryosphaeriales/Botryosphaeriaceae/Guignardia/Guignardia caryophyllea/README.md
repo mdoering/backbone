@@ -1,5 +1,4 @@
-Guignardia caryophyllea (Cooke & Harkn.) Wehm. SPECIES
-=======
+# Guignardia caryophyllea (Cooke & Harkn.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Valsa brevispora G.C. Adams & Jol. Roux SPECIES
-=======
+# Valsa brevispora G.C. Adams & Jol. Roux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Synechoblastus bicaudatus Müll. Arg. SPECIES
-=======
+# Synechoblastus bicaudatus Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

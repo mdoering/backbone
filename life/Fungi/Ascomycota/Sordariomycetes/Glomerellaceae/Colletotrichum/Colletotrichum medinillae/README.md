@@ -1,5 +1,4 @@
-Colletotrichum medinillae Rangel SPECIES
-=======
+# Colletotrichum medinillae Rangel SPECIES
 
 #### Status
 ACCEPTED

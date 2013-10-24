@@ -1,5 +1,4 @@
-Naucoria micans (Fr.) Gillet SPECIES
-=======
+# Naucoria micans (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

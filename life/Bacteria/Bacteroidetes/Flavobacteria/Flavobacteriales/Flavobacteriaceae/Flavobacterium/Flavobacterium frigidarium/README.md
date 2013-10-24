@@ -1,5 +1,4 @@
-Flavobacterium frigidarium Humphry et al., 2001 SPECIES
-=======
+# Flavobacterium frigidarium Humphry et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

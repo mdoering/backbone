@@ -1,5 +1,4 @@
-Psilocybe eucalypta Guzmán & Watling, 1978 SPECIES
-=======
+# Psilocybe eucalypta Guzmán & Watling, 1978 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria osyridis Castagne SPECIES
-=======
+# Sphaeria osyridis Castagne SPECIES
 
 #### Status
 ACCEPTED

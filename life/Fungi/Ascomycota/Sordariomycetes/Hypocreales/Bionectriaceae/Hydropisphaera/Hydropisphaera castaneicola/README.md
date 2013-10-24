@@ -1,5 +1,4 @@
-Hydropisphaera castaneicola Lechat & Gardiennet SPECIES
-=======
+# Hydropisphaera castaneicola Lechat & Gardiennet SPECIES
 
 #### Status
 ACCEPTED

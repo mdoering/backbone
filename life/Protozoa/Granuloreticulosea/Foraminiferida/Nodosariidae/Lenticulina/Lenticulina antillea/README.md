@@ -1,5 +1,4 @@
-Lenticulina antillea SPECIES
-=======
+# Lenticulina antillea SPECIES
 
 #### Status
 ACCEPTED

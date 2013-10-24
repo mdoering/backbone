@@ -1,5 +1,4 @@
-Bactridium novae-zelandiae S. Hughes, 1966 SPECIES
-=======
+# Bactridium novae-zelandiae S. Hughes, 1966 SPECIES
 
 #### Status
 ACCEPTED

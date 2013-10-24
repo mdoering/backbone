@@ -1,5 +1,4 @@
-Marssonina toxicodendri (Ellis & G. Martin) Magnus SPECIES
-=======
+# Marssonina toxicodendri (Ellis & G. Martin) Magnus SPECIES
 
 #### Status
 ACCEPTED

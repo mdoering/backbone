@@ -1,5 +1,4 @@
-Oligoporus bambusicola (Corner) T. Hatt. SPECIES
-=======
+# Oligoporus bambusicola (Corner) T. Hatt. SPECIES
 
 #### Status
 ACCEPTED

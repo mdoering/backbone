@@ -1,5 +1,4 @@
-Stauractura Haeckel, 1881 GENUS
-=======
+# Stauractura Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

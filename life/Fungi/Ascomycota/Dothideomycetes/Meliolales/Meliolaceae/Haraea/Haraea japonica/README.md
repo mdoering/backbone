@@ -1,5 +1,4 @@
-Haraea japonica Sacc. & P. Syd., 1913 SPECIES
-=======
+# Haraea japonica Sacc. & P. Syd., 1913 SPECIES
 
 #### Status
 ACCEPTED

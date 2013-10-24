@@ -1,5 +1,4 @@
-Sistotrema adnatum Hallenb., 1984 SPECIES
-=======
+# Sistotrema adnatum Hallenb., 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosphaeriella striaspora (E. Müll.) D. Hawksw. & Boise SPECIES
-=======
+# Astrosphaeriella striaspora (E. Müll.) D. Hawksw. & Boise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sentusidinium varispinosum (Sarjeant) & L.E. Stover SPECIES
-=======
+# Sentusidinium varispinosum (Sarjeant) & L.E. Stover SPECIES
 
 #### Status
 ACCEPTED

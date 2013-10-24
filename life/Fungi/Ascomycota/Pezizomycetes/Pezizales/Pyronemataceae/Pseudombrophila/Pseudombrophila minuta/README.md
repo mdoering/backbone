@@ -1,5 +1,4 @@
-Pseudombrophila minuta Brumm. SPECIES
-=======
+# Pseudombrophila minuta Brumm. SPECIES
 
 #### Status
 ACCEPTED

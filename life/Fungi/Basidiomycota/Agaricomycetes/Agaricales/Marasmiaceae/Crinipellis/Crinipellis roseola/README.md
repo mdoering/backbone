@@ -1,5 +1,4 @@
-Crinipellis roseola G. Stev., 1964 SPECIES
-=======
+# Crinipellis roseola G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

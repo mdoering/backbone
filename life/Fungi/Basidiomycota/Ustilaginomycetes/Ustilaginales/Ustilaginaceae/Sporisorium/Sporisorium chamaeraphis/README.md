@@ -1,5 +1,4 @@
-Sporisorium chamaeraphis (Syd.) Vánky SPECIES
-=======
+# Sporisorium chamaeraphis (Syd.) Vánky SPECIES
 
 #### Status
 ACCEPTED

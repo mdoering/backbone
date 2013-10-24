@@ -1,5 +1,4 @@
-Amanita incarnata var. incarnata VARIETY
-=======
+# Amanita incarnata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita incarnata var. incarnata
+Amanita incarnata
 
 ### Remarks
 null

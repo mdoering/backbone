@@ -1,5 +1,4 @@
-Pseudomonas resinovorans Delaporte et al., 1961 (Approved Lists, 1980) SPECIES
-=======
+# Pseudomonas resinovorans Delaporte et al., 1961 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

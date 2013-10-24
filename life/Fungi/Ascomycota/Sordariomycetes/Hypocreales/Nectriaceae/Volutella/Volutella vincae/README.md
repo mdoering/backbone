@@ -1,5 +1,4 @@
-Volutella vincae Fairm. SPECIES
-=======
+# Volutella vincae Fairm. SPECIES
 
 #### Status
 ACCEPTED

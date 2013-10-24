@@ -1,5 +1,4 @@
-Arthonia caudata Willey SPECIES
-=======
+# Arthonia caudata Willey SPECIES
 
 #### Status
 ACCEPTED

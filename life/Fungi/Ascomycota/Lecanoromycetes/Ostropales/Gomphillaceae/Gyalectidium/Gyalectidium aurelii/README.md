@@ -1,5 +1,4 @@
-Gyalectidium aurelii L. I. Ferraro & Lücking SPECIES
-=======
+# Gyalectidium aurelii L. I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

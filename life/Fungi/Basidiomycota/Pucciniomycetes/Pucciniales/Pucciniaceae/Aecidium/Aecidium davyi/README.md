@@ -1,5 +1,4 @@
-Aecidium davyi Syd. & P. Syd. SPECIES
-=======
+# Aecidium davyi Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

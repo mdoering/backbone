@@ -1,5 +1,4 @@
-Arthonia dispartibilis Müll. Arg. SPECIES
-=======
+# Arthonia dispartibilis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

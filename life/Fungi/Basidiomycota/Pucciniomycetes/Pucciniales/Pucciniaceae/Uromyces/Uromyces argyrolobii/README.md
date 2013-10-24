@@ -1,5 +1,4 @@
-Uromyces argyrolobii Doidge SPECIES
-=======
+# Uromyces argyrolobii Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Limacium aurantiorubrum Smotl. SPECIES
-=======
+# Limacium aurantiorubrum Smotl. SPECIES
 
 #### Status
 ACCEPTED

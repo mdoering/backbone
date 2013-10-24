@@ -1,5 +1,4 @@
-Stropharia erythrospila Berk. & Broome SPECIES
-=======
+# Stropharia erythrospila Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

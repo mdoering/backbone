@@ -1,5 +1,4 @@
-Favella brevis Cleve SPECIES
-=======
+# Favella brevis Cleve SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heterococcus presolanensis Pitschmann SPECIES
-=======
+# Heterococcus presolanensis Pitschmann SPECIES
 
 #### Status
 ACCEPTED

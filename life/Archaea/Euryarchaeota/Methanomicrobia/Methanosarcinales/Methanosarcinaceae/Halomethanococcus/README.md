@@ -1,5 +1,4 @@
-Halomethanococcus Yu & Kawamura, 1988 GENUS
-=======
+# Halomethanococcus Yu & Kawamura, 1988 GENUS
 
 #### Status
 ACCEPTED

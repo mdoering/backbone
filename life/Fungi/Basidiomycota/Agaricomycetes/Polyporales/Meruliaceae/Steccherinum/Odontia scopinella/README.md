@@ -1,17 +1,16 @@
-Xylodon scopinellus (Berk.) Hjortstam & Ryvarden, 2009 SPECIES
-=======
+# Odontia scopinella (Berk.) Berk., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 20(no. 93): 3 (1891)
 
 #### Original name
-null
+Hydnum scopinellum Berk., 1855
 
 ### Remarks
 null

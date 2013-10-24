@@ -1,5 +1,4 @@
-Pertusaria effigurata SPECIES
-=======
+# Pertusaria effigurata SPECIES
 
 #### Status
 ACCEPTED

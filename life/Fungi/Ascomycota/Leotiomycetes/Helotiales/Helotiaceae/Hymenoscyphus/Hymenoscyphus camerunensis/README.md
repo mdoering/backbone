@@ -1,5 +1,4 @@
-Hymenoscyphus camerunensis (Henn.) Dennis SPECIES
-=======
+# Hymenoscyphus camerunensis (Henn.) Dennis SPECIES
 
 #### Status
 ACCEPTED

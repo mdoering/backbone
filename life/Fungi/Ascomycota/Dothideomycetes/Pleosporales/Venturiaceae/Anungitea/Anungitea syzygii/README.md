@@ -1,5 +1,4 @@
-Anungitea syzygii Crous, W.B. Kendr. & M.J. Wingf. SPECIES
-=======
+# Anungitea syzygii Crous, W.B. Kendr. & M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

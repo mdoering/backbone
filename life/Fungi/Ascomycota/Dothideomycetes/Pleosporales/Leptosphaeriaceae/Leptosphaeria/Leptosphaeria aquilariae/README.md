@@ -1,5 +1,4 @@
-Leptosphaeria aquilariae J.F. Lue & P.K. Chi SPECIES
-=======
+# Leptosphaeria aquilariae J.F. Lue & P.K. Chi SPECIES
 
 #### Status
 ACCEPTED

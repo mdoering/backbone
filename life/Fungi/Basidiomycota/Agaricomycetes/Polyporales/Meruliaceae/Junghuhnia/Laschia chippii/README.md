@@ -1,5 +1,4 @@
-Laschia chippii Lloyd SPECIES
-=======
+# Laschia chippii Lloyd SPECIES
 
 #### Status
 ACCEPTED

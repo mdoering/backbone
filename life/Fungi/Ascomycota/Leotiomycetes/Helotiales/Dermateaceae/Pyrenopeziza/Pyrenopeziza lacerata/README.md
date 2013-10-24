@@ -1,5 +1,4 @@
-Pyrenopeziza lacerata (Cooke & W. Phillips) Sacc. SPECIES
-=======
+# Pyrenopeziza lacerata (Cooke & W. Phillips) Sacc. SPECIES
 
 #### Status
 ACCEPTED

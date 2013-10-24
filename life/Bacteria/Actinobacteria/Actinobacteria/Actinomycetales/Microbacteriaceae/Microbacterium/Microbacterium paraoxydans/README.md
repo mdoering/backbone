@@ -1,5 +1,4 @@
-Microbacterium paraoxydans Laffineur et al., 2003 SPECIES
-=======
+# Microbacterium paraoxydans Laffineur et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

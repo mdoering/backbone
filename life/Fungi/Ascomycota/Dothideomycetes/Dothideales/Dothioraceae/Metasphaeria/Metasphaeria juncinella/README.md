@@ -1,5 +1,4 @@
-Metasphaeria juncinella Mouton SPECIES
-=======
+# Metasphaeria juncinella Mouton SPECIES
 
 #### Status
 ACCEPTED

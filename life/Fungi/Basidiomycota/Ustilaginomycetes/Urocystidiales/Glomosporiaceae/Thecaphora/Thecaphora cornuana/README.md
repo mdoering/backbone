@@ -1,5 +1,4 @@
-Thecaphora cornuana A.A. Fisch. Waldh. SPECIES
-=======
+# Thecaphora cornuana A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

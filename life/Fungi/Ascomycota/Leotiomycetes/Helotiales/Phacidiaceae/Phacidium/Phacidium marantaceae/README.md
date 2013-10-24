@@ -1,5 +1,4 @@
-Phacidium marantaceae Henn. SPECIES
-=======
+# Phacidium marantaceae Henn. SPECIES
 
 #### Status
 ACCEPTED

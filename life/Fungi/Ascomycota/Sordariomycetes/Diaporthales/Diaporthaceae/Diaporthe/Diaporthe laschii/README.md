@@ -1,5 +1,4 @@
-Diaporthe laschii Nitschke, 1870 SPECIES
-=======
+# Diaporthe laschii Nitschke, 1870 SPECIES
 
 #### Status
 ACCEPTED

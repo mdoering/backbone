@@ -1,5 +1,4 @@
-Micropuccinia thlaspeos (C. Schub.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia thlaspeos (C. Schub.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

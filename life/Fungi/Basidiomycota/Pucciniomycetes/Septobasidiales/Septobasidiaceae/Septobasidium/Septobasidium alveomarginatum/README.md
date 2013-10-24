@@ -1,5 +1,4 @@
-Septobasidium alveomarginatum Couch ex L.D. Gómez & Henk SPECIES
-=======
+# Septobasidium alveomarginatum Couch ex L.D. Gómez & Henk SPECIES
 
 #### Status
 ACCEPTED

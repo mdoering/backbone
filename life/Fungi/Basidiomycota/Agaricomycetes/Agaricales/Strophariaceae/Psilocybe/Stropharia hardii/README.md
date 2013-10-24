@@ -1,5 +1,4 @@
-Stropharia hardii G.F. Atk. SPECIES
-=======
+# Stropharia hardii G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe nothofageti Singer SPECIES
-=======
+# Clitocybe nothofageti Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium queenslandicum Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
-=======
+# Sporisorium queenslandicum Vánky, C. Vánky & R.G. Shivas, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerella pusilla (Mont.) R. Sant. & Vezda SPECIES
-=======
+# Dimerella pusilla (Mont.) R. Sant. & Vezda SPECIES
 
 #### Status
 ACCEPTED

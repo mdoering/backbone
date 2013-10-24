@@ -1,5 +1,4 @@
-Xerula crassibasidiata R.H. Petersen SPECIES
-=======
+# Xerula crassibasidiata R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

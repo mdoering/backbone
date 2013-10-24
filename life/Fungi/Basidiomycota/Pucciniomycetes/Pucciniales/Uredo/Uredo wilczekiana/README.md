@@ -1,5 +1,4 @@
-Uredo wilczekiana (Maire) Hirats. f. SPECIES
-=======
+# Uredo wilczekiana (Maire) Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

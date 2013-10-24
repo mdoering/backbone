@@ -1,5 +1,4 @@
-Sordaria breviseta P. Karst. SPECIES
-=======
+# Sordaria breviseta P. Karst. SPECIES
 
 #### Status
 ACCEPTED

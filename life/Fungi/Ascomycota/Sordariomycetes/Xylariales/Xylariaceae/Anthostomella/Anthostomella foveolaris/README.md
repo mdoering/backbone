@@ -1,5 +1,4 @@
-Anthostomella foveolaris (Sacc. & Berl.) Rappaz SPECIES
-=======
+# Anthostomella foveolaris (Sacc. & Berl.) Rappaz SPECIES
 
 #### Status
 ACCEPTED

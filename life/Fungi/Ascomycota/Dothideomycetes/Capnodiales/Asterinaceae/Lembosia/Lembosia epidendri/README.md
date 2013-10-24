@@ -1,5 +1,4 @@
-Lembosia epidendri Meir. Silva & O.L. Pereira, 2008 SPECIES
-=======
+# Lembosia epidendri Meir. Silva & O.L. Pereira, 2008 SPECIES
 
 #### Status
 ACCEPTED

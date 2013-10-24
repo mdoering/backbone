@@ -1,5 +1,4 @@
-Catillaria heerii (Hepp) H. Olivier SPECIES
-=======
+# Catillaria heerii (Hepp) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

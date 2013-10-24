@@ -1,5 +1,4 @@
-Mycena atribrunnea Murrill SPECIES
-=======
+# Mycena atribrunnea Murrill SPECIES
 
 #### Status
 ACCEPTED

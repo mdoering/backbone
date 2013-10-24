@@ -1,5 +1,4 @@
-Ascochyta virgaureae Lib. SPECIES
-=======
+# Ascochyta virgaureae Lib. SPECIES
 
 #### Status
 ACCEPTED

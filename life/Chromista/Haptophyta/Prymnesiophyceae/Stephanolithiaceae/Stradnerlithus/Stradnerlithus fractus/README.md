@@ -1,5 +1,4 @@
-Stradnerlithus fractus (Black, 1973) Perch-Nielsen, 1984 SPECIES
-=======
+# Stradnerlithus fractus (Black, 1973) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola mammeicola Hansf. SPECIES
-=======
+# Meliola mammeicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

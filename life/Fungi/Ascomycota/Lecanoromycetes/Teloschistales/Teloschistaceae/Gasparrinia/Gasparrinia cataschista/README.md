@@ -1,5 +1,4 @@
-Gasparrinia cataschista (Zahlbr.) C.W. Dodge SPECIES
-=======
+# Gasparrinia cataschista (Zahlbr.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

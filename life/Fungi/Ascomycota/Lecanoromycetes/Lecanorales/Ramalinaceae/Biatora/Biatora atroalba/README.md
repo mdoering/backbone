@@ -1,5 +1,4 @@
-Biatora atroalba (Ach.) Falk SPECIES
-=======
+# Biatora atroalba (Ach.) Falk SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Parmelia colpodes var. colpodes VARIETY
-=======
+# Anzia colpodes (Ach.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Lichen colpodes Ach.
+null
 
 ### Remarks
 null

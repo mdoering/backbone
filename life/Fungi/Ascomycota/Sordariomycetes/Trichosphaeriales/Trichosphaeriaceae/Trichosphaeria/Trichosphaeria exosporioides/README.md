@@ -1,5 +1,4 @@
-Trichosphaeria exosporioides Fuckel SPECIES
-=======
+# Trichosphaeria exosporioides Fuckel SPECIES
 
 #### Status
 ACCEPTED

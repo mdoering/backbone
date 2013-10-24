@@ -1,5 +1,4 @@
-Filaspora peritheciaeformis Preuss SPECIES
-=======
+# Filaspora peritheciaeformis Preuss SPECIES
 
 #### Status
 ACCEPTED

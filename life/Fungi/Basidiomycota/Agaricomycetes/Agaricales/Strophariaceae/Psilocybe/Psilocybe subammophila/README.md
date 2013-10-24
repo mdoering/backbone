@@ -1,5 +1,4 @@
-Psilocybe subammophila Cleland SPECIES
-=======
+# Psilocybe subammophila Cleland SPECIES
 
 #### Status
 ACCEPTED

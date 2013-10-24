@@ -1,5 +1,4 @@
-Marasmius fuligineorotula Singer SPECIES
-=======
+# Marasmius fuligineorotula Singer SPECIES
 
 #### Status
 ACCEPTED

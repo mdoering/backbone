@@ -1,5 +1,4 @@
-Laboulbenia moiwae Terada SPECIES
-=======
+# Laboulbenia moiwae Terada SPECIES
 
 #### Status
 ACCEPTED

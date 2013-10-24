@@ -1,5 +1,4 @@
-Aspicilia gisleri Hue SPECIES
-=======
+# Aspicilia gisleri Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium britannicum B. Sutton SPECIES
-=======
+# Sporidesmium britannicum B. Sutton SPECIES
 
 #### Status
 ACCEPTED

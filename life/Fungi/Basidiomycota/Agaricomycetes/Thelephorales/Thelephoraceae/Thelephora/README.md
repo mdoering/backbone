@@ -1,17 +1,16 @@
-Pseudothelephora Lloyd GENUS
-=======
+# Thelephora Ehrhart ex Willdenow, 1787 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mycol. Writ. 6(61): 890 (1919)
+null
 
 #### Original name
-Pseudothelephora Lloyd
+null
 
 ### Remarks
 null

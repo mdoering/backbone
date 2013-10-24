@@ -1,5 +1,4 @@
-Pseudosolenina Wynn Jones, 1984 GENUS
-=======
+# Pseudosolenina Wynn Jones, 1984 GENUS
 
 #### Status
 ACCEPTED

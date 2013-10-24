@@ -1,17 +1,16 @@
-Cucurbitariopsis Vassilkov GENUS
-=======
+# Cucurbitaria Gray, 1821 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Botanicheskii Zhurnal 45: 1369 (1960)
+null
 
 #### Original name
-Cucurbitariopsis Vassilkov
+null
 
 ### Remarks
 null

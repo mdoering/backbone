@@ -1,5 +1,4 @@
-Ophiobolus actinidiae Ablak. & Koval SPECIES
-=======
+# Ophiobolus actinidiae Ablak. & Koval SPECIES
 
 #### Status
 ACCEPTED

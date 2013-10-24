@@ -1,5 +1,4 @@
-Patellaria lutescens DC. SPECIES
-=======
+# Patellaria lutescens DC. SPECIES
 
 #### Status
 ACCEPTED

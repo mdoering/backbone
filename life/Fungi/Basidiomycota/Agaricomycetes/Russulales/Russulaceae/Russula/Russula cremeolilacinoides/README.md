@@ -1,5 +1,4 @@
-Russula cremeolilacinoides Reumaux SPECIES
-=======
+# Russula cremeolilacinoides Reumaux SPECIES
 
 #### Status
 ACCEPTED

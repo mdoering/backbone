@@ -1,5 +1,4 @@
-Protoscypha pulla Syd., 1925 SPECIES
-=======
+# Protoscypha pulla Syd., 1925 SPECIES
 
 #### Status
 ACCEPTED

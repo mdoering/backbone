@@ -1,5 +1,4 @@
-Gymnoglossum candidum (Harkn.) Zeller SPECIES
-=======
+# Gymnoglossum candidum (Harkn.) Zeller SPECIES
 
 #### Status
 ACCEPTED

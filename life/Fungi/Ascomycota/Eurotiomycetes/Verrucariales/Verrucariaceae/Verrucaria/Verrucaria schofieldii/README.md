@@ -1,5 +1,4 @@
-Verrucaria schofieldii Brodo SPECIES
-=======
+# Verrucaria schofieldii Brodo SPECIES
 
 #### Status
 ACCEPTED

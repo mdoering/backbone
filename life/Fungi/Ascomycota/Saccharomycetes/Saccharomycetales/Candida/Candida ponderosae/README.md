@@ -1,5 +1,4 @@
-Candida ponderosae Kurtzman, 2001 SPECIES
-=======
+# Candida ponderosae Kurtzman, 2001 SPECIES
 
 #### Status
 ACCEPTED

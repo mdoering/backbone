@@ -1,5 +1,4 @@
-Arthrobotryum tecomae Henn. SPECIES
-=======
+# Arthrobotryum tecomae Henn. SPECIES
 
 #### Status
 ACCEPTED

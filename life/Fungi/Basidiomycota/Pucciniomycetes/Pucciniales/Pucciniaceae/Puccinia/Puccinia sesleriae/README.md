@@ -1,5 +1,4 @@
-Puccinia sesleriae Reichardt SPECIES
-=======
+# Puccinia sesleriae Reichardt SPECIES
 
 #### Status
 ACCEPTED

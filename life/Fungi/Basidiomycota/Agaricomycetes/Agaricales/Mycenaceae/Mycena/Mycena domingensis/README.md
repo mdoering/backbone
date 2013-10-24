@@ -1,5 +1,4 @@
-Mycena domingensis Dennis SPECIES
-=======
+# Mycena domingensis Dennis SPECIES
 
 #### Status
 ACCEPTED

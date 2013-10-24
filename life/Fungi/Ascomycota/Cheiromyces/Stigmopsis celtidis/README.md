@@ -1,5 +1,4 @@
-Stigmopsis celtidis (Pass.) Bubák SPECIES
-=======
+# Stigmopsis celtidis (Pass.) Bubák SPECIES
 
 #### Status
 ACCEPTED

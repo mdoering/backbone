@@ -1,5 +1,4 @@
-Didymosporium eurotiae Golovin SPECIES
-=======
+# Didymosporium eurotiae Golovin SPECIES
 
 #### Status
 ACCEPTED

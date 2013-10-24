@@ -1,11 +1,10 @@
-Nocardia ramosa Vuillemin, 1931 SPECIES
-=======
+# Clostridium ramosum (Veillon and Zuber, 1898) Holdeman et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

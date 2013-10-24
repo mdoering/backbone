@@ -1,5 +1,4 @@
-Placidiopsis bachmannii (Anders) Servít SPECIES
-=======
+# Placidiopsis bachmannii (Anders) Servít SPECIES
 
 #### Status
 ACCEPTED

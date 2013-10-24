@@ -1,17 +1,16 @@
-Mortierella vantieghemii var. vantieghemii VARIETY
-=======
+# Mortierella polycephala Coem., 1863 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Jb. wiss. Bot. 34: 279 (1900)
+Bull. Soc. R. Bot. Belg. , sér. 2 2: 536 (1863)
 
 #### Original name
-Mortierella vantieghemii var. vantieghemii
+Mortierella polycephala Coem., 1863
 
 ### Remarks
 null

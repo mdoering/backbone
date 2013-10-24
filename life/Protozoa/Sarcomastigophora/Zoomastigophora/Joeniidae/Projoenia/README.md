@@ -1,5 +1,4 @@
-Projoenia A.Lavette GENUS
-=======
+# Projoenia A.Lavette GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporoblastia heppii (A. Massal.) Trevis. SPECIES
-=======
+# Sporoblastia heppii (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

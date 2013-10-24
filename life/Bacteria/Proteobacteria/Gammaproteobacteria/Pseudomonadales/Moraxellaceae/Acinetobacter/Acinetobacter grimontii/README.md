@@ -1,5 +1,4 @@
-Acinetobacter grimontii Carr et al., 2003 SPECIES
-=======
+# Acinetobacter grimontii Carr et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leathesia nana Setchell & N.L. Gardner SPECIES
-=======
+# Leathesia nana Setchell & N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

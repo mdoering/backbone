@@ -1,17 +1,16 @@
-Thelephora fraxinea Pers., 1822 SPECIES
-=======
+# Peniophora limitata (Chaillet ex Fr.) Cooke, 1879 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. eur. (Erlanga) 1: 145 (1822)
+Grevillea 8(no. 45): 21 (1879)
 
 #### Original name
-Thelephora fraxinea Pers., 1822
+Thelephora limitata Chaillet ex Fr., 1828
 
 ### Remarks
 null

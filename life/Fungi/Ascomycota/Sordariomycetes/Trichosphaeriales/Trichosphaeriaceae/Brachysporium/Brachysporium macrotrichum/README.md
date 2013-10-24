@@ -1,5 +1,4 @@
-Brachysporium macrotrichum (Corda) Sacc. SPECIES
-=======
+# Brachysporium macrotrichum (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

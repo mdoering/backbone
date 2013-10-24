@@ -1,5 +1,4 @@
-Pertusaria elixii Jariangpr. SPECIES
-=======
+# Pertusaria elixii Jariangpr. SPECIES
 
 #### Status
 ACCEPTED

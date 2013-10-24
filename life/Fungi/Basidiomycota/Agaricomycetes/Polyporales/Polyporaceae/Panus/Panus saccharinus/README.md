@@ -1,5 +1,4 @@
-Panus saccharinus Berk. SPECIES
-=======
+# Panus saccharinus Berk. SPECIES
 
 #### Status
 ACCEPTED

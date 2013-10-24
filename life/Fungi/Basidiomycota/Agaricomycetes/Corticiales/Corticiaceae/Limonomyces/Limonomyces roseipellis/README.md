@@ -1,17 +1,16 @@
-Athelia fuciformis (McAlpine) Burds., 1979 SPECIES
-=======
+# Limonomyces roseipellis Stalpers & Loer., 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 72: 422 (1979)
+Can. J. Bot. 60(5): 534 (1982)
 
 #### Original name
-Corticium fuciforme (McAlpine) Wakef., 1917
+Limonomyces roseipellis Stalpers & Loer., 1982
 
 ### Remarks
 null

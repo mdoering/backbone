@@ -1,5 +1,4 @@
-Cyphella zeuneri Pilát SPECIES
-=======
+# Cyphella zeuneri Pilát SPECIES
 
 #### Status
 ACCEPTED

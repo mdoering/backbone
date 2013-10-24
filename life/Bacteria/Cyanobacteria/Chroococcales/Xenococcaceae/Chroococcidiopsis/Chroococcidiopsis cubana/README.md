@@ -1,5 +1,4 @@
-Chroococcidiopsis cubana Komárek & Hindák SPECIES
-=======
+# Chroococcidiopsis cubana Komárek & Hindák SPECIES
 
 #### Status
 ACCEPTED

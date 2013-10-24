@@ -1,5 +1,4 @@
-Amphisphaeria muroiana (I. Hino & Katum.) I. Hino & Katum. SPECIES
-=======
+# Amphisphaeria muroiana (I. Hino & Katum.) I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

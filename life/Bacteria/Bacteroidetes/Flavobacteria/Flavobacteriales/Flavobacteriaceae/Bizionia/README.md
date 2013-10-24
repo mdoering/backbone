@@ -1,5 +1,4 @@
-Bizionia Nedashkovskaya, Kim, Lysenko, Frolova, Mikhailov & Bae GENUS
-=======
+# Bizionia Nedashkovskaya, Kim, Lysenko, Frolova, Mikhailov & Bae GENUS
 
 #### Status
 ACCEPTED

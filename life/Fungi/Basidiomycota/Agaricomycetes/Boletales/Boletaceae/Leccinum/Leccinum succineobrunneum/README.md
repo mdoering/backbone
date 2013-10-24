@@ -1,5 +1,4 @@
-Leccinum succineobrunneum E.A. Dick & Snell SPECIES
-=======
+# Leccinum succineobrunneum E.A. Dick & Snell SPECIES
 
 #### Status
 ACCEPTED

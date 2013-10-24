@@ -1,5 +1,4 @@
-Gloeosporium sibiricum Thüm. SPECIES
-=======
+# Gloeosporium sibiricum Thüm. SPECIES
 
 #### Status
 ACCEPTED

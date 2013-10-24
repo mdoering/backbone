@@ -1,5 +1,4 @@
-Pyrenothricaceae Zahlbr. FAMILY
-=======
+# Pyrenothricaceae Zahlbr. FAMILY
 
 #### Status
 ACCEPTED

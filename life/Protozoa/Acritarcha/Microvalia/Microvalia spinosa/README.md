@@ -1,5 +1,4 @@
-Microvalia spinosa Tynni & Uutela, 1984 SPECIES
-=======
+# Microvalia spinosa Tynni & Uutela, 1984 SPECIES
 
 #### Status
 ACCEPTED

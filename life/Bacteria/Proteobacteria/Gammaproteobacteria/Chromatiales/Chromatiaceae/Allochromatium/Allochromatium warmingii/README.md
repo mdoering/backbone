@@ -1,11 +1,10 @@
-Chromatium cuculliferum Gicklhorn, 1920 SPECIES
-=======
+# Allochromatium warmingii (Cohn, 1875) Imhoff et al., 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

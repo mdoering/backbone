@@ -1,5 +1,4 @@
-Umbilicaria ustulata Vain. SPECIES
-=======
+# Umbilicaria ustulata Vain. SPECIES
 
 #### Status
 ACCEPTED

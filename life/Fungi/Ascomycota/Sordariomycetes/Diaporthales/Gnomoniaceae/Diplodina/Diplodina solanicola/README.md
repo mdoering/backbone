@@ -1,5 +1,4 @@
-Diplodina solanicola Hollós SPECIES
-=======
+# Diplodina solanicola Hollós SPECIES
 
 #### Status
 ACCEPTED

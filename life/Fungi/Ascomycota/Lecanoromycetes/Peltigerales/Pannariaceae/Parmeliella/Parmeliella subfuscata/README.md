@@ -1,5 +1,4 @@
-Parmeliella subfuscata A. Dube & Makhija SPECIES
-=======
+# Parmeliella subfuscata A. Dube & Makhija SPECIES
 
 #### Status
 ACCEPTED

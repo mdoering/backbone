@@ -1,5 +1,4 @@
-Septoria paspali Syd. SPECIES
-=======
+# Septoria paspali Syd. SPECIES
 
 #### Status
 ACCEPTED

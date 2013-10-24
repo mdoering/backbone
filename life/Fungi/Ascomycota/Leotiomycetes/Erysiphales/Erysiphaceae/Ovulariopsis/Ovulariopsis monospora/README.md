@@ -1,5 +1,4 @@
-Ovulariopsis monospora (Pass.) Sacc. & D. Sacc. SPECIES
-=======
+# Ovulariopsis monospora (Pass.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

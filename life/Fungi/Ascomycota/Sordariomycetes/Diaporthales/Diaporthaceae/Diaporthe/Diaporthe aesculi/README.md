@@ -1,5 +1,4 @@
-Diaporthe aesculi Cooke & Harkn. SPECIES
-=======
+# Diaporthe aesculi Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

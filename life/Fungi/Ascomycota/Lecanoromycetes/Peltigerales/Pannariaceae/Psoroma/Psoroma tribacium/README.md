@@ -1,5 +1,4 @@
-Psoroma tribacium SPECIES
-=======
+# Psoroma tribacium SPECIES
 
 #### Status
 ACCEPTED

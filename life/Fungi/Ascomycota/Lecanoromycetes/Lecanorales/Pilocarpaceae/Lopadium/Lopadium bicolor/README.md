@@ -1,5 +1,4 @@
-Lopadium bicolor Spreng. SPECIES
-=======
+# Lopadium bicolor Spreng. SPECIES
 
 #### Status
 ACCEPTED

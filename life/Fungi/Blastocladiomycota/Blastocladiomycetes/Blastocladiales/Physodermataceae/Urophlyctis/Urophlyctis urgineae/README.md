@@ -1,5 +1,4 @@
-Urophlyctis urgineae (Pat. & Trab.) Maire SPECIES
-=======
+# Urophlyctis urgineae (Pat. & Trab.) Maire SPECIES
 
 #### Status
 ACCEPTED

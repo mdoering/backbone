@@ -1,5 +1,4 @@
-Stemphylium nigricans (G.F. Atk.) E.G. Simmons SPECIES
-=======
+# Stemphylium nigricans (G.F. Atk.) E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

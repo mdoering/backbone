@@ -1,5 +1,4 @@
-Trypethelium straminicolor Nyl. SPECIES
-=======
+# Trypethelium straminicolor Nyl. SPECIES
 
 #### Status
 ACCEPTED

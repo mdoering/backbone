@@ -1,5 +1,4 @@
-Patellaria gabrielis Müll. Arg. SPECIES
-=======
+# Patellaria gabrielis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

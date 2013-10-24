@@ -1,5 +1,4 @@
-Cercospora azanzae Yadav SPECIES
-=======
+# Cercospora azanzae Yadav SPECIES
 
 #### Status
 ACCEPTED

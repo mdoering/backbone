@@ -1,5 +1,4 @@
-Graphiothecium gei Lobik SPECIES
-=======
+# Graphiothecium gei Lobik SPECIES
 
 #### Status
 ACCEPTED

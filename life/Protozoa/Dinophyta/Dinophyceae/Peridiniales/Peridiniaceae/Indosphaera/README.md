@@ -1,5 +1,4 @@
-Indosphaera A. Kumar, 1986 GENUS
-=======
+# Indosphaera A. Kumar, 1986 GENUS
 
 #### Status
 ACCEPTED

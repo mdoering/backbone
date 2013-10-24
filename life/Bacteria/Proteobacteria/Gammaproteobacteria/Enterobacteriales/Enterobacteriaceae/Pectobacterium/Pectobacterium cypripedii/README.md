@@ -1,5 +1,4 @@
-Pectobacterium cypripedii (Hori, 1911) Brenner et al., 1973 (Approved Lists, 1980) SPECIES
-=======
+# Pectobacterium cypripedii (Hori, 1911) Brenner et al., 1973 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

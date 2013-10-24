@@ -1,5 +1,4 @@
-Antennaria heteracantha Speg. SPECIES
-=======
+# Antennaria heteracantha Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanomma oryzae Hara SPECIES
-=======
+# Melanomma oryzae Hara SPECIES
 
 #### Status
 ACCEPTED

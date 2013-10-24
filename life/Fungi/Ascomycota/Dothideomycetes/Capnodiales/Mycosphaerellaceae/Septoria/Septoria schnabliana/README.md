@@ -1,14 +1,13 @@
-Rhabdospora schnabliana Allesch., 1895 SPECIES
-=======
+# Septoria schnabliana (Allesch.) Died., 1914 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 34: 273 (1895)
+Krypt. -Fl. Brandenburg (Leipzig) 9: 454 (1914)
 
 #### Original name
 Rhabdospora schnabliana Allesch., 1895

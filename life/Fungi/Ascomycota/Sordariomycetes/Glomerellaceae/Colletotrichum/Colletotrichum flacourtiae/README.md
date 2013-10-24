@@ -1,5 +1,4 @@
-Colletotrichum flacourtiae Rangel SPECIES
-=======
+# Colletotrichum flacourtiae Rangel SPECIES
 
 #### Status
 ACCEPTED

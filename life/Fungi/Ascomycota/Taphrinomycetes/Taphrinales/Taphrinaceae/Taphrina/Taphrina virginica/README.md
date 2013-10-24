@@ -1,5 +1,4 @@
-Taphrina virginica Seym. & Sadeb., 1895 SPECIES
-=======
+# Taphrina virginica Seym. & Sadeb., 1895 SPECIES
 
 #### Status
 ACCEPTED

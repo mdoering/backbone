@@ -1,5 +1,4 @@
-Helotium rugipes Peck SPECIES
-=======
+# Helotium rugipes Peck SPECIES
 
 #### Status
 ACCEPTED

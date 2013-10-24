@@ -1,5 +1,4 @@
-Bryopogon cincinnatus SPECIES
-=======
+# Bryopogon cincinnatus SPECIES
 
 #### Status
 ACCEPTED

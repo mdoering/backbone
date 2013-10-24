@@ -1,5 +1,4 @@
-Psorella pannarioides (C. Knight) Müll. Arg. SPECIES
-=======
+# Psorella pannarioides (C. Knight) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

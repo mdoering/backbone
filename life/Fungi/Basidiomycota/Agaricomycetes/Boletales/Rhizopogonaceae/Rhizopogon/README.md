@@ -1,17 +1,16 @@
-Anthracophlous Mattir. ex Lloyd GENUS
-=======
+# Rhizopogon E.M. Fries & Nordholm, 1817 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Anthracophlous Mattir. ex Lloyd
+null
 
 ### Remarks
 null

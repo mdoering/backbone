@@ -1,5 +1,4 @@
-Cornularia spina (Berk. & Ravenel) Sacc. & P. Syd. SPECIES
-=======
+# Cornularia spina (Berk. & Ravenel) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

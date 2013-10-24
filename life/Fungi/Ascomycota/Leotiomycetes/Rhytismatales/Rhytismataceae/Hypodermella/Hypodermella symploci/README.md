@@ -1,5 +1,4 @@
-Hypodermella symploci Petch, 1919 SPECIES
-=======
+# Hypodermella symploci Petch, 1919 SPECIES
 
 #### Status
 ACCEPTED

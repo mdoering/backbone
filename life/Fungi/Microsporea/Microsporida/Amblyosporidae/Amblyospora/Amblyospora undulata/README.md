@@ -1,5 +1,4 @@
-Amblyospora undulata J.I.R. Larsson SPECIES
-=======
+# Amblyospora undulata J.I.R. Larsson SPECIES
 
 #### Status
 ACCEPTED

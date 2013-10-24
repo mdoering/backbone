@@ -1,5 +1,4 @@
-Diplodia rodei Mahab. SPECIES
-=======
+# Diplodia rodei Mahab. SPECIES
 
 #### Status
 ACCEPTED

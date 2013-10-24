@@ -1,5 +1,4 @@
-Bjerkandera acidula (Fr.) P. Karst. SPECIES
-=======
+# Bjerkandera acidula (Fr.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora kurdistanica var. kurdistanica VARIETY
-=======
+# Pleospora kurdistanica Bubák SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora kurdistanica var. kurdistanica
+Pleospora kurdistanica Bubák
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Didymosphaeria smaragdina (Ces.) Sacc. SPECIES
-=======
+# Didymosphaeria smaragdina (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

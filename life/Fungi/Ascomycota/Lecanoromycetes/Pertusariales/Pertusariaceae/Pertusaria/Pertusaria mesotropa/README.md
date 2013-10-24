@@ -1,5 +1,4 @@
-Pertusaria mesotropa Müll. Arg. SPECIES
-=======
+# Pertusaria mesotropa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

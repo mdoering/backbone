@@ -1,17 +1,16 @@
-Hypoderma sulcigenum Rostr., 1883 SPECIES
-=======
+# Lophodermella sulcigena (Link) Tubeuf, 1917 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Tidsskr. Skogbr. 6: 284 (1883)
+Ber. dt. bot. Ges. 35: 247 (1917)
 
 #### Original name
-Hypoderma sulcigenum Rostr., 1883
+null
 
 ### Remarks
 null

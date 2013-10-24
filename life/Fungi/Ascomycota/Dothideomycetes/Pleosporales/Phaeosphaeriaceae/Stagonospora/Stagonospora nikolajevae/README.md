@@ -1,5 +1,4 @@
-Stagonospora nikolajevae Melnik SPECIES
-=======
+# Stagonospora nikolajevae Melnik SPECIES
 
 #### Status
 ACCEPTED

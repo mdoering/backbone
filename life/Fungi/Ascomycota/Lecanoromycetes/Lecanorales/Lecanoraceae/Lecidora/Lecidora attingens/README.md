@@ -1,5 +1,4 @@
-Lecidora attingens (Nyl.) Motyka SPECIES
-=======
+# Lecidora attingens (Nyl.) Motyka SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Olpidiopsis oedogoniorum (De Wild.) Scherff. SPECIES
-=======
+# Olpidiopsis oedogoniorum (De Wild.) Scherff. SPECIES
 
 #### Status
 ACCEPTED

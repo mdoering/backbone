@@ -1,5 +1,4 @@
-Vibrio harveyi (Johnson & Shunk, 1936) Baumann et al., 1981 SPECIES
-=======
+# Vibrio harveyi (Johnson & Shunk, 1936) Baumann et al., 1981 SPECIES
 
 #### Status
 ACCEPTED

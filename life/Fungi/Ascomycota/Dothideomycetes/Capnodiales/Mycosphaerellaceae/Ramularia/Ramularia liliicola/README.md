@@ -1,5 +1,4 @@
-Ramularia liliicola Alé-Agha, U. Braun & Feige SPECIES
-=======
+# Ramularia liliicola Alé-Agha, U. Braun & Feige SPECIES
 
 #### Status
 ACCEPTED

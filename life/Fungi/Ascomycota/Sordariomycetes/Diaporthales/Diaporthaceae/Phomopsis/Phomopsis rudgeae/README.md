@@ -1,5 +1,4 @@
-Phomopsis rudgeae Novoss. SPECIES
-=======
+# Phomopsis rudgeae Novoss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vibrio trachuri Iwamoto et al., 1996 SPECIES
-=======
+# Vibrio trachuri Iwamoto et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

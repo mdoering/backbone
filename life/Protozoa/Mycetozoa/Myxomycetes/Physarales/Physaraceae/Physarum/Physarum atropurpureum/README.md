@@ -1,5 +1,4 @@
-Physarum atropurpureum Peck SPECIES
-=======
+# Physarum atropurpureum Peck SPECIES
 
 #### Status
 ACCEPTED

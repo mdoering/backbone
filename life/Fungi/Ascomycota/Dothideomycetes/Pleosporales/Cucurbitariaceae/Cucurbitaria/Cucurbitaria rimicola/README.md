@@ -1,5 +1,4 @@
-Cucurbitaria rimicola (Cooke) Kuntze SPECIES
-=======
+# Cucurbitaria rimicola (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

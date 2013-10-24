@@ -1,5 +1,4 @@
-Varicellaria rhodocarpa var. rhodocarpa VARIETY
-=======
+# Varicellaria rhodocarpa (Körb.) Th. Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Lich. Scand. (Uppsala) 1: 322 (1871)
 
 #### Original name
-Varicellaria rhodocarpa var. rhodocarpa
+Pertusaria rhodocarpa Körb.
 
 ### Remarks
 null

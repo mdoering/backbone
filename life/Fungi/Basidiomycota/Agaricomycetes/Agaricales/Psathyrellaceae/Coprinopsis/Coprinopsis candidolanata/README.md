@@ -1,5 +1,4 @@
-Coprinopsis candidolanata (Doveri & Uljé) Keirle, Hemmes & Desjardin SPECIES
-=======
+# Coprinopsis candidolanata (Doveri & Uljé) Keirle, Hemmes & Desjardin SPECIES
 
 #### Status
 ACCEPTED

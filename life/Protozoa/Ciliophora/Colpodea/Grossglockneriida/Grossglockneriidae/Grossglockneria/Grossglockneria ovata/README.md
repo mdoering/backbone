@@ -1,5 +1,4 @@
-Grossglockneria ovata Foissner, 1999 SPECIES
-=======
+# Grossglockneria ovata Foissner, 1999 SPECIES
 
 #### Status
 ACCEPTED

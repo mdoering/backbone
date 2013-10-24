@@ -1,5 +1,4 @@
-Pleospora teres Died. SPECIES
-=======
+# Pleospora teres Died. SPECIES
 
 #### Status
 ACCEPTED

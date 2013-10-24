@@ -1,5 +1,4 @@
-Cortinarius alutaceo-olivascens Rob. Henry SPECIES
-=======
+# Cortinarius alutaceo-olivascens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

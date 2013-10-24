@@ -1,17 +1,16 @@
-Myxosporium platanicolum Ellis & Everh. SPECIES
-=======
+# Cryptosporiopsis platanicola (Ellis & Everh.) G.F. Laundon SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Myxosporium platanicolum Ellis & Everh.
+Myxosporium platanicola Ellis & Everh., 1894
 
 ### Remarks
 null

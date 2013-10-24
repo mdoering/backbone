@@ -1,8 +1,7 @@
-Laboulbenia madagascarensis Thaxt. SPECIES
-=======
+# Laboulbenia madagascariensis Thaxt. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Laboulbenia madagascarensis Thaxt.
+Laboulbenia madagascariensis Thaxt.
 
 ### Remarks
 null

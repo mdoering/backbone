@@ -1,5 +1,4 @@
-Hayesites albiensis Manivit, 1971 SPECIES
-=======
+# Hayesites albiensis Manivit, 1971 SPECIES
 
 #### Status
 ACCEPTED

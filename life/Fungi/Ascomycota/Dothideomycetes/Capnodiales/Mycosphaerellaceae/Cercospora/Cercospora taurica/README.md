@@ -1,5 +1,4 @@
-Cercospora taurica Tranzschel SPECIES
-=======
+# Cercospora taurica Tranzschel SPECIES
 
 #### Status
 ACCEPTED

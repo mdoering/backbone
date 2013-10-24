@@ -1,5 +1,4 @@
-Septoria allii-odori Sawada SPECIES
-=======
+# Septoria allii-odori Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola cucurbitacearum F. Stevens SPECIES
-=======
+# Meliola cucurbitacearum F. Stevens SPECIES
 
 #### Status
 ACCEPTED

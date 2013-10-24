@@ -1,5 +1,4 @@
-Druppatractus Haeckel, 1887 GENUS
-=======
+# Druppatractus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

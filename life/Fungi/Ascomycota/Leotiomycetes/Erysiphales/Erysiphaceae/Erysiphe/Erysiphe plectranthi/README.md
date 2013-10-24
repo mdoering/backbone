@@ -1,5 +1,4 @@
-Erysiphe plectranthi H.D. Shin & Y.J. La SPECIES
-=======
+# Erysiphe plectranthi H.D. Shin & Y.J. La SPECIES
 
 #### Status
 ACCEPTED

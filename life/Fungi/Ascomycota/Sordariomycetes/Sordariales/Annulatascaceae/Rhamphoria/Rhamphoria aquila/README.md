@@ -1,5 +1,4 @@
-Rhamphoria aquila anon. SPECIES
-=======
+# Rhamphoria aquila anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria davisii Sacc. SPECIES
-=======
+# Septoria davisii Sacc. SPECIES
 
 #### Status
 ACCEPTED

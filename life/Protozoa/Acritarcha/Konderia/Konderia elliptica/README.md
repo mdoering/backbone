@@ -1,5 +1,4 @@
-Konderia elliptica Veis, 1983 SPECIES
-=======
+# Konderia elliptica Veis, 1983 SPECIES
 
 #### Status
 ACCEPTED

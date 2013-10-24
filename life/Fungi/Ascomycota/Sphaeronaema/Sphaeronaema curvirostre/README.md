@@ -1,5 +1,4 @@
-Sphaeronaema curvirostre Sacc. SPECIES
-=======
+# Sphaeronaema curvirostre Sacc. SPECIES
 
 #### Status
 ACCEPTED

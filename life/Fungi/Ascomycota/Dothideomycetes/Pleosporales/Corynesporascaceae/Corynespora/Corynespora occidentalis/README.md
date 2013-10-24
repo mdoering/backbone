@@ -1,5 +1,4 @@
-Corynespora occidentalis R.F. Castañeda SPECIES
-=======
+# Corynespora occidentalis R.F. Castañeda SPECIES
 
 #### Status
 ACCEPTED

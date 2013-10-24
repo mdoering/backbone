@@ -1,14 +1,13 @@
-Clitocybe geotropa var. subsalmonea (Lamoure) Raithelh., 1981 VARIETY
-=======
+# Clitocybe subsalmonea Lamoure, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Die Gattung Clitocybe (Stuttgart) 1: 24 (1981)
+Trav. Sci. Parc. Natl. Vanoise 2: 114 (1972)
 
 #### Original name
 Clitocybe subsalmonea Lamoure, 1972

@@ -1,5 +1,4 @@
-Hysterographium guaraniticum Speg. SPECIES
-=======
+# Hysterographium guaraniticum Speg. SPECIES
 
 #### Status
 ACCEPTED

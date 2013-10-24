@@ -1,5 +1,4 @@
-Arthonia lanuginosa (Hampe) Zahlbr. SPECIES
-=======
+# Arthonia lanuginosa (Hampe) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

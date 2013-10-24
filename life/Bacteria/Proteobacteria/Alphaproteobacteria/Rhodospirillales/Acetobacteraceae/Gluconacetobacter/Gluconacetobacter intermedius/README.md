@@ -1,8 +1,7 @@
-Acetobacter intermedius Boesch et al., 1998 SPECIES
-=======
+# Gluconacetobacter intermedius (Boesch et al., 1998) Yamada, 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

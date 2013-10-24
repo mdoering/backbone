@@ -1,8 +1,7 @@
-Coniothyrium dobiaschi Moesz SPECIES
-=======
+# Coniothyrium dobiaschii Moesz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Coniothyrium dobiaschi Moesz
+Coniothyrium dobiaschii Moesz
 
 ### Remarks
 null

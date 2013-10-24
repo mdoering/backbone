@@ -1,5 +1,4 @@
-Asterina spinosa (J.M. Mend.) Hosag. & T.K. Abraham SPECIES
-=======
+# Asterina spinosa (J.M. Mend.) Hosag. & T.K. Abraham SPECIES
 
 #### Status
 ACCEPTED

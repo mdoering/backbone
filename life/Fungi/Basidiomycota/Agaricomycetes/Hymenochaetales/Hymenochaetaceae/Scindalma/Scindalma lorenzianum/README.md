@@ -1,5 +1,4 @@
-Scindalma lorenzianum (Kalchbr.) Kuntze SPECIES
-=======
+# Scindalma lorenzianum (Kalchbr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

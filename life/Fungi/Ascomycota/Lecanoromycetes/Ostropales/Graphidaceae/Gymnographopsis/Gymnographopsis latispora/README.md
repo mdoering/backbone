@@ -1,5 +1,4 @@
-Gymnographopsis latispora Egea & Torrente SPECIES
-=======
+# Gymnographopsis latispora Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

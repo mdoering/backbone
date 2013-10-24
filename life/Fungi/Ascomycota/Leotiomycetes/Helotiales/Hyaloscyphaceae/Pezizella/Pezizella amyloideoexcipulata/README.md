@@ -1,5 +1,4 @@
-Pezizella amyloideoexcipulata Svrcek SPECIES
-=======
+# Pezizella amyloideoexcipulata Svrcek SPECIES
 
 #### Status
 ACCEPTED

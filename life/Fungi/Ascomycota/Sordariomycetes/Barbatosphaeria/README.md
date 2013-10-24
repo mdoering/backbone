@@ -1,5 +1,4 @@
-Barbatosphaeria Réblová GENUS
-=======
+# Barbatosphaeria Réblová GENUS
 
 #### Status
 ACCEPTED

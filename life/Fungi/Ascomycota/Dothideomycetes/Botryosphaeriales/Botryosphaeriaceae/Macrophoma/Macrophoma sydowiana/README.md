@@ -1,5 +1,4 @@
-Macrophoma sydowiana (Bres.) Sacc. & P. Syd. SPECIES
-=======
+# Macrophoma sydowiana (Bres.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

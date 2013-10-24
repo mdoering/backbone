@@ -1,5 +1,4 @@
-Teichospora chlorospora Ellis & Everh. SPECIES
-=======
+# Teichospora chlorospora Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

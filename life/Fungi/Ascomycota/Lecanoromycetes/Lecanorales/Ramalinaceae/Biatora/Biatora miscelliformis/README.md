@@ -1,5 +1,4 @@
-Biatora miscelliformis (Nyl.) Arnold SPECIES
-=======
+# Biatora miscelliformis (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

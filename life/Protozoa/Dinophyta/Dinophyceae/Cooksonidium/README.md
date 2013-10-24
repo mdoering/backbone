@@ -1,5 +1,4 @@
-Cooksonidium L.E. Stover & G.L. Williams, 1995 GENUS
-=======
+# Cooksonidium L.E. Stover & G.L. Williams, 1995 GENUS
 
 #### Status
 ACCEPTED

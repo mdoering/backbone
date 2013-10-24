@@ -1,5 +1,4 @@
-Diderma stellulum M.L. Farr, 1988 SPECIES
-=======
+# Diderma stellulum M.L. Farr, 1988 SPECIES
 
 #### Status
 ACCEPTED

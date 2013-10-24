@@ -1,5 +1,4 @@
-Ommatodiscinus Haeckel, 1887 GENUS
-=======
+# Ommatodiscinus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

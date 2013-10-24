@@ -1,5 +1,4 @@
-Phyllosticta raimundi Sacc. SPECIES
-=======
+# Phyllosticta raimundi Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lamprospora discoidea (Henn. & E. Nyman) Seaver SPECIES
-=======
+# Lamprospora discoidea (Henn. & E. Nyman) Seaver SPECIES
 
 #### Status
 ACCEPTED

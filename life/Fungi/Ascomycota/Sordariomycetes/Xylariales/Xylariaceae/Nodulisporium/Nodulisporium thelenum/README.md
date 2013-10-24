@@ -1,5 +1,4 @@
-Nodulisporium thelenum (Sacc.) G. Sm. SPECIES
-=======
+# Nodulisporium thelenum (Sacc.) G. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryotinia fritillarii-pallidiflori Q.T. Chen & J.L. Li SPECIES
-=======
+# Botryotinia fritillarii-pallidiflori Q.T. Chen & J.L. Li SPECIES
 
 #### Status
 ACCEPTED

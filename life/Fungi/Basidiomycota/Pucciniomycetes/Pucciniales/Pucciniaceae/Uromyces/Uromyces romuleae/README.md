@@ -1,5 +1,4 @@
-Uromyces romuleae Doidge SPECIES
-=======
+# Uromyces romuleae Doidge SPECIES
 
 #### Status
 ACCEPTED

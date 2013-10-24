@@ -1,5 +1,4 @@
-Favolaschia cagnii Mattir. SPECIES
-=======
+# Favolaschia cagnii Mattir. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus fastibilis-concentricus Secr. SPECIES
-=======
+# Agaricus fastibilis-concentricus Secr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oscillatoria tortuosa Garner SPECIES
-=======
+# Oscillatoria tortuosa Garner SPECIES
 
 #### Status
 ACCEPTED

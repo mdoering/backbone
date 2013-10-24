@@ -1,5 +1,4 @@
-Puccinia affinis var. affinis VARIETY
-=======
+# Puccinia affinis Hedw. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monogr. Uredin. (Lipsiae) 1(1): 174 (1902)
 
 #### Original name
-Puccinia affinis var. affinis
+Puccinia affinis Hedw.
 
 ### Remarks
 null

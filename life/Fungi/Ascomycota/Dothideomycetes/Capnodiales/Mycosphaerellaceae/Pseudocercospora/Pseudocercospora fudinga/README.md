@@ -1,5 +1,4 @@
-Pseudocercospora fudinga T.Z. Huang & Ze Yu Chen SPECIES
-=======
+# Pseudocercospora fudinga T.Z. Huang & Ze Yu Chen SPECIES
 
 #### Status
 ACCEPTED

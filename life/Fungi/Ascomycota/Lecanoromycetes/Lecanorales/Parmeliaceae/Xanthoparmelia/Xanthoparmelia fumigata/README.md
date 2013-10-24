@@ -1,14 +1,13 @@
-Paraparmelia fumigata (Kurok.) Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia fumigata (Kurok.) Elix & J. Johnst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Elix, Johnston & Verdon, Mycotaxon 27: 280 (1986)
+Mycotaxon 29: 371 (1987)
 
 #### Original name
 Parmelia fumigata Kurok.

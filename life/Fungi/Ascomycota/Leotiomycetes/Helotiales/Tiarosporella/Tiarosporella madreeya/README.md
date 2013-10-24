@@ -1,14 +1,13 @@
-Sakireeta madreeya Subram. & K. Ramakr., 1957 SPECIES
-=======
+# Tiarosporella madreeya (Subram. & K. Ramakr.) Nag Raj, 1974 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Indian bot. Soc. 36: 84 (1957)
+Can. J. Bot. 51(12): 2470 (1974)
 
 #### Original name
 Sakireeta madreeya Subram. & K. Ramakr., 1957

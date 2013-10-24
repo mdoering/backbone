@@ -1,14 +1,13 @@
-Lichenoconium boreale (P. Karst.) Petr. & Syd., 1927 SPECIES
-=======
+# Xeroconium boreale (P. Karst.) D. Hawksw., 1981 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Feddes Repert. Spec. Nov. Regni Veg. , Beih. 42: 436 (1927)
+Bull. Br. Mus. nat. Hist. , Bot. 9(1): 33 (1981)
 
 #### Original name
 Levieuxia borealis P. Karst.

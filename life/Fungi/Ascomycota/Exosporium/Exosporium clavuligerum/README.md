@@ -1,5 +1,4 @@
-Exosporium clavuligerum Link SPECIES
-=======
+# Exosporium clavuligerum Link SPECIES
 
 #### Status
 ACCEPTED

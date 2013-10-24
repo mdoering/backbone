@@ -1,5 +1,4 @@
-Darluca melaspora Berk. SPECIES
-=======
+# Darluca melaspora Berk. SPECIES
 
 #### Status
 ACCEPTED

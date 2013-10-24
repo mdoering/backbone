@@ -1,17 +1,16 @@
-Farysizyma acheniorum (Buhagiar & J.A. Barnett) Á. Fonseca, 2008 SPECIES
-=======
+# Rhodotorula acheniorum (Buhagiar & J.A. Barnett) Rodr. Mir., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in von Arx et al. , Stud. Mycol. 14: 28 (1977)
 
 #### Original name
-null
+Sterigmatomyces acheniorum Buhagiar & J.A. Barnett, 1973
 
 ### Remarks
 null

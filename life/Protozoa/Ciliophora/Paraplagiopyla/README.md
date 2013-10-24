@@ -1,5 +1,4 @@
-Paraplagiopyla Thurston & Grain, 1971 GENUS
-=======
+# Paraplagiopyla Thurston & Grain, 1971 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Debaryoscyphus melanobasis Arendh. & R. Sharma SPECIES
-=======
+# Debaryoscyphus melanobasis Arendh. & R. Sharma SPECIES
 
 #### Status
 ACCEPTED

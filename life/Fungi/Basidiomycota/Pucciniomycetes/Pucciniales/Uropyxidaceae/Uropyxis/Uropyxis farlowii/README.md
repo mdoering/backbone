@@ -1,14 +1,13 @@
-Calliospora farlowii Arthur, 1905 SPECIES
-=======
+# Uropyxis farlowii (Arthur) J.W. Baxter, 1959 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 39: 39 (1905)
+Mycologia 51(2): 222 (1959)
 
 #### Original name
 Calliospora farlowii Arthur, 1905

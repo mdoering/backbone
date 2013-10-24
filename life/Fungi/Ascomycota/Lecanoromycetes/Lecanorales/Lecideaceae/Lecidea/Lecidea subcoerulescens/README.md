@@ -1,5 +1,4 @@
-Lecidea subcoerulescens Arnold SPECIES
-=======
+# Lecidea subcoerulescens Arnold SPECIES
 
 #### Status
 ACCEPTED

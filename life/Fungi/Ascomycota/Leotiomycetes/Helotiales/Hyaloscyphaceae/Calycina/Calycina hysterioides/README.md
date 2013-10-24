@@ -1,14 +1,13 @@
-Calycina hysteriodes (Rehm) Kuntze SPECIES
-=======
+# Calycina hysterioides (Rehm) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 448 (1898)
 
 #### Original name
 Helotium hysterioides Rehm

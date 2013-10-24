@@ -1,5 +1,4 @@
-Puccinia lasiacidis F. Kern SPECIES
-=======
+# Puccinia lasiacidis F. Kern SPECIES
 
 #### Status
 ACCEPTED

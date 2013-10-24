@@ -1,5 +1,4 @@
-Patellariopsis Dennis, 1964 GENUS
-=======
+# Patellariopsis Dennis, 1964 GENUS
 
 #### Status
 ACCEPTED

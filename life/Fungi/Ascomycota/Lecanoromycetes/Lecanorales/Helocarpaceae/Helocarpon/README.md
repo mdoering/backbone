@@ -1,5 +1,4 @@
-Helocarpon Th. Fr. GENUS
-=======
+# Helocarpon Th. Fr. GENUS
 
 #### Status
 ACCEPTED

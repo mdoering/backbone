@@ -1,5 +1,4 @@
-Leucopaxillus septentrionalis Singer & A.H. Sm. SPECIES
-=======
+# Leucopaxillus septentrionalis Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physcia papyracea SPECIES
-=======
+# Physcia papyracea SPECIES
 
 #### Status
 ACCEPTED

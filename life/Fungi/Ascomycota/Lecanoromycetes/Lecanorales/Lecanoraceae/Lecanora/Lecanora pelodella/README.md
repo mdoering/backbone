@@ -1,5 +1,4 @@
-Lecanora pelodella Nyl. SPECIES
-=======
+# Lecanora pelodella Nyl. SPECIES
 
 #### Status
 ACCEPTED

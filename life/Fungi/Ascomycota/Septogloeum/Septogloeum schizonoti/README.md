@@ -1,5 +1,4 @@
-Septogloeum schizonoti Dearn. SPECIES
-=======
+# Septogloeum schizonoti Dearn. SPECIES
 
 #### Status
 ACCEPTED

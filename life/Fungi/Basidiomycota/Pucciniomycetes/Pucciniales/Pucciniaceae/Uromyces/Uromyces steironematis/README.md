@@ -1,5 +1,4 @@
-Uromyces steironematis Arthur SPECIES
-=======
+# Uromyces steironematis Arthur SPECIES
 
 #### Status
 ACCEPTED

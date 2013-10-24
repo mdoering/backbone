@@ -1,5 +1,4 @@
-Trogia raphanolens Corner SPECIES
-=======
+# Trogia raphanolens Corner SPECIES
 
 #### Status
 ACCEPTED

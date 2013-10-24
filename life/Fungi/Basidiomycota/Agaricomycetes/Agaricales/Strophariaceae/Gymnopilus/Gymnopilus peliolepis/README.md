@@ -1,14 +1,13 @@
-Pholiota peliolepis Speg., 1919 SPECIES
-=======
+# Gymnopilus peliolepis (Speg.) Singer, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Soc. Ciencias de Córdoba 23: 394 (1919)
+Lilloa 22: 561 (1951)
 
 #### Original name
 Pholiota peliolepis Speg., 1919

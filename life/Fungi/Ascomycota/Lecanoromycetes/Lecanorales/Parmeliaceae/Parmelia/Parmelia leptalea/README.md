@@ -1,5 +1,4 @@
-Parmelia leptalea SPECIES
-=======
+# Parmelia leptalea SPECIES
 
 #### Status
 ACCEPTED

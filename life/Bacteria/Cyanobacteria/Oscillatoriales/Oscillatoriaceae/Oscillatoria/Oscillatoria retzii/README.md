@@ -1,5 +1,4 @@
-Oscillatoria retzii C. Agardh SPECIES
-=======
+# Oscillatoria retzii C. Agardh SPECIES
 
 #### Status
 ACCEPTED

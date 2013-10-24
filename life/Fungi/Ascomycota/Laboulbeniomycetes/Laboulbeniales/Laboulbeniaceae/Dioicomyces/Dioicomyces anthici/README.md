@@ -1,17 +1,16 @@
-Dioicomyces anthici var. anthici VARIETY
-=======
+# Dioicomyces anthici Thaxt., 1901 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Proc. Amer. Acad. Arts & Sci. 37: 33 (1901)
 
 #### Original name
-Dioicomyces anthici var. anthici
+Dioicomyces anthici Thaxt., 1901
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Fusarium junci P. Crouan & H. Crouan SPECIES
-=======
+# Fusarium junci P. Crouan & H. Crouan SPECIES
 
 #### Status
 ACCEPTED

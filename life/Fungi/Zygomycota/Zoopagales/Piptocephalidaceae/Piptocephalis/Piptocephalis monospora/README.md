@@ -1,5 +1,4 @@
-Piptocephalis monospora L. Mangin SPECIES
-=======
+# Piptocephalis monospora L. Mangin SPECIES
 
 #### Status
 ACCEPTED

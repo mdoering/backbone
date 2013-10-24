@@ -1,5 +1,4 @@
-Synedra oxyrhynchus Kützing SPECIES
-=======
+# Synedra oxyrhynchus Kützing SPECIES
 
 #### Status
 ACCEPTED

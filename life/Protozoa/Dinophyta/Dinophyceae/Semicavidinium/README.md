@@ -1,5 +1,4 @@
-Semicavidinium Dodekova, 1995 GENUS
-=======
+# Semicavidinium Dodekova, 1995 GENUS
 
 #### Status
 ACCEPTED

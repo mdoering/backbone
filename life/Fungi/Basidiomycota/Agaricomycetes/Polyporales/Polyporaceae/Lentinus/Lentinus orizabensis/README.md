@@ -1,5 +1,4 @@
-Lentinus orizabensis Murrill SPECIES
-=======
+# Lentinus orizabensis Murrill SPECIES
 
 #### Status
 ACCEPTED

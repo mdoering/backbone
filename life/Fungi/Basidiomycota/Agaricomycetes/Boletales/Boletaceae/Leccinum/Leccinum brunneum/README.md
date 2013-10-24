@@ -1,5 +1,4 @@
-Leccinum brunneum Thiers SPECIES
-=======
+# Leccinum brunneum Thiers SPECIES
 
 #### Status
 ACCEPTED

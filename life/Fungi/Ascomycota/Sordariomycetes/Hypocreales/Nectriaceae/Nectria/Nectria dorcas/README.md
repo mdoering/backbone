@@ -1,5 +1,4 @@
-Nectria dorcas (Berk. & Broome) Cooke SPECIES
-=======
+# Nectria dorcas (Berk. & Broome) Cooke SPECIES
 
 #### Status
 ACCEPTED

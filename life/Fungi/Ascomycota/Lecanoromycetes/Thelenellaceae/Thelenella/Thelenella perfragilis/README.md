@@ -1,5 +1,4 @@
-Thelenella perfragilis (Nyl.) Vain. SPECIES
-=======
+# Thelenella perfragilis (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

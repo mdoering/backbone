@@ -1,5 +1,4 @@
-Skeletocutis nothofagi Rajchenb., 1979 SPECIES
-=======
+# Skeletocutis nothofagi Rajchenb., 1979 SPECIES
 
 #### Status
 ACCEPTED

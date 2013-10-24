@@ -1,5 +1,4 @@
-Phaeodothis apuleiae Speg. SPECIES
-=======
+# Phaeodothis apuleiae Speg. SPECIES
 
 #### Status
 ACCEPTED

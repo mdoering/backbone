@@ -1,5 +1,4 @@
-Picromyces pessundatus Battarra SPECIES
-=======
+# Picromyces pessundatus Battarra SPECIES
 
 #### Status
 ACCEPTED

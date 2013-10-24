@@ -1,5 +1,4 @@
-Didymosphaeria vexans SPECIES
-=======
+# Didymosphaeria vexans SPECIES
 
 #### Status
 ACCEPTED

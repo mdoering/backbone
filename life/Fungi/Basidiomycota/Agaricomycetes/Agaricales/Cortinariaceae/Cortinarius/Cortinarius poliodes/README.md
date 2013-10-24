@@ -1,5 +1,4 @@
-Cortinarius poliodes Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius poliodes Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

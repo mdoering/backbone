@@ -1,5 +1,4 @@
-Sphaerella capreolatae Pass. SPECIES
-=======
+# Sphaerella capreolatae Pass. SPECIES
 
 #### Status
 ACCEPTED

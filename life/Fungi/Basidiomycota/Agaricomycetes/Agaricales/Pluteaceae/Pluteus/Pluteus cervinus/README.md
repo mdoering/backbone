@@ -1,17 +1,16 @@
-Agaricus pluteus var. pluteus VARIETY
-=======
+# Pluteus cervinus (Schaeff.) P. Kumm., 1871 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Führ. Pilzk. (Zwickau) 99 (1871)
 
 #### Original name
-null
+Agaricus cervinus Schaeff., 1774
 
 ### Remarks
 null

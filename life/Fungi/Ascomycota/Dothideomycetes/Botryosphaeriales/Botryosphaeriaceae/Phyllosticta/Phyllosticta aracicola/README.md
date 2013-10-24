@@ -1,5 +1,4 @@
-Phyllosticta aracicola Bat. SPECIES
-=======
+# Phyllosticta aracicola Bat. SPECIES
 
 #### Status
 ACCEPTED

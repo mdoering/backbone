@@ -1,5 +1,4 @@
-Marasmius lagopinus H. Post SPECIES
-=======
+# Marasmius lagopinus H. Post SPECIES
 
 #### Status
 ACCEPTED

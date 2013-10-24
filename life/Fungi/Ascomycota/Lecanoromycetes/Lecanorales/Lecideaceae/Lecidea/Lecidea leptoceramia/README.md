@@ -1,5 +1,4 @@
-Lecidea leptoceramia Anzi SPECIES
-=======
+# Lecidea leptoceramia Anzi SPECIES
 
 #### Status
 ACCEPTED

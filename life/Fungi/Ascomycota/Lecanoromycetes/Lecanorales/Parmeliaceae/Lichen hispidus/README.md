@@ -1,5 +1,4 @@
-Lichen hispidus Schreb. SPECIES
-=======
+# Lichen hispidus Schreb. SPECIES
 
 #### Status
 ACCEPTED

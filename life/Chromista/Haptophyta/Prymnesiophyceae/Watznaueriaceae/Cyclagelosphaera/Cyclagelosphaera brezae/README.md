@@ -1,5 +1,4 @@
-Cyclagelosphaera brezae SPECIES
-=======
+# Cyclagelosphaera brezae SPECIES
 
 #### Status
 ACCEPTED

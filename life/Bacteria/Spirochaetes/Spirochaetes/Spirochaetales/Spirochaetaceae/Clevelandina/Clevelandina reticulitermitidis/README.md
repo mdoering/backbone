@@ -1,5 +1,4 @@
-Clevelandina reticulitermitidis Bermudes et al., 1988 SPECIES
-=======
+# Clevelandina reticulitermitidis Bermudes et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

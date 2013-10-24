@@ -1,5 +1,4 @@
-Meliola oligomera Syd. & P. Syd. SPECIES
-=======
+# Meliola oligomera Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

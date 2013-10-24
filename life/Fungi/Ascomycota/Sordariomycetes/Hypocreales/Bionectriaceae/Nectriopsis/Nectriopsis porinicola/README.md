@@ -1,5 +1,4 @@
-Nectriopsis porinicola Samuels SPECIES
-=======
+# Nectriopsis porinicola Samuels SPECIES
 
 #### Status
 ACCEPTED

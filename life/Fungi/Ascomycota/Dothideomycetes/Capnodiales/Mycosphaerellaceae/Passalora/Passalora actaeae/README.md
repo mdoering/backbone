@@ -1,5 +1,4 @@
-Passalora actaeae (Ellis & Holw.) U. Braun & Crous SPECIES
-=======
+# Passalora actaeae (Ellis & Holw.) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

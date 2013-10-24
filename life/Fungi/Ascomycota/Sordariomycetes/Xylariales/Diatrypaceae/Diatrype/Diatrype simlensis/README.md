@@ -1,5 +1,4 @@
-Diatrype simlensis Dargan & Bhatia SPECIES
-=======
+# Diatrype simlensis Dargan & Bhatia SPECIES
 
 #### Status
 ACCEPTED

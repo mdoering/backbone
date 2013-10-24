@@ -1,5 +1,4 @@
-Thelotrema foranum Anzi SPECIES
-=======
+# Thelotrema foranum Anzi SPECIES
 
 #### Status
 ACCEPTED

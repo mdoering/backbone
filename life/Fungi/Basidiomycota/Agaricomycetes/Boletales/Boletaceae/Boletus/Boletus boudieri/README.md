@@ -1,5 +1,4 @@
-Boletus boudieri Quél. SPECIES
-=======
+# Boletus boudieri Quél. SPECIES
 
 #### Status
 ACCEPTED

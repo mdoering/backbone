@@ -1,5 +1,4 @@
-Melosira binderana Kützing SPECIES
-=======
+# Melosira binderana Kützing SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus umbrinus Dennis SPECIES
-=======
+# Hygrophorus umbrinus Dennis SPECIES
 
 #### Status
 ACCEPTED

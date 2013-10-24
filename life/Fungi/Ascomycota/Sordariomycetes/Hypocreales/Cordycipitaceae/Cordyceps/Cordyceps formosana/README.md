@@ -1,5 +1,4 @@
-Cordyceps formosana Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps formosana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

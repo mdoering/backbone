@@ -1,8 +1,7 @@
-Lulworthia purpureus (I.M. Wilson) T.W. Johnson, 1958 SPECIES
-=======
+# Lulworthia purpurea (I.M. Wilson) T.W. Johnson, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

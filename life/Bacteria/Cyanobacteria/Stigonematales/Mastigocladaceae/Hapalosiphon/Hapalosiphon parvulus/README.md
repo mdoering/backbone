@@ -1,5 +1,4 @@
-Hapalosiphon parvulus var. minor T.N.H. Phung, A. Couté & P. Bourrelly VARIETY
-=======
+# Hapalosiphon parvulus SPECIES
 
 #### Status
 ACCEPTED

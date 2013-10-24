@@ -1,5 +1,4 @@
-Cercospora hamiltoniae Munjal, Lall & Chona SPECIES
-=======
+# Cercospora hamiltoniae Munjal, Lall & Chona SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthocystis mastrucata (Fr.) Konrad & Maubl. SPECIES
-=======
+# Acanthocystis mastrucata (Fr.) Konrad & Maubl. SPECIES
 
 #### Status
 ACCEPTED

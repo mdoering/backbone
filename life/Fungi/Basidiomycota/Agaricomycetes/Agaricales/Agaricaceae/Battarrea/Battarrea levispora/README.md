@@ -1,5 +1,4 @@
-Battarrea levispora Massee SPECIES
-=======
+# Battarrea levispora Massee SPECIES
 
 #### Status
 ACCEPTED

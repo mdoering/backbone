@@ -1,5 +1,4 @@
-Detonula F.Schütt ex De Toni, 1894 GENUS
-=======
+# Detonula F.Schütt ex De Toni, 1894 GENUS
 
 #### Status
 ACCEPTED

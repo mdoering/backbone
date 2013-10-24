@@ -1,5 +1,4 @@
-Hansfordiopeltopsis amazonensis M.L. Farr, 1986 SPECIES
-=======
+# Hansfordiopeltopsis amazonensis M.L. Farr, 1986 SPECIES
 
 #### Status
 ACCEPTED

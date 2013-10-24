@@ -1,5 +1,4 @@
-Sphaeria scotophila Durieu & Mont. SPECIES
-=======
+# Sphaeria scotophila Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

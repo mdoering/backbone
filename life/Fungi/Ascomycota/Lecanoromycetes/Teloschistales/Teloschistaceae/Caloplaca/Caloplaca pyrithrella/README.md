@@ -1,5 +1,4 @@
-Caloplaca pyrithrella (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca pyrithrella (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

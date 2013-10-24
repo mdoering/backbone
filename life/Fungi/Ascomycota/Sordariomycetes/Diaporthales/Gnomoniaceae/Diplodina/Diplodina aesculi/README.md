@@ -1,5 +1,4 @@
-Diplodina aesculi (Sacc.) B. Sutton SPECIES
-=======
+# Diplodina aesculi (Sacc.) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

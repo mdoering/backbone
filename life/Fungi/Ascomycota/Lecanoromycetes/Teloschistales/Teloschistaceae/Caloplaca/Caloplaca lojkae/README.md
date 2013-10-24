@@ -1,5 +1,4 @@
-Caloplaca lojkae Servít & Nádv. SPECIES
-=======
+# Caloplaca lojkae Servít & Nádv. SPECIES
 
 #### Status
 ACCEPTED

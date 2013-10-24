@@ -1,5 +1,4 @@
-Bolbitius compactus Thesleff SPECIES
-=======
+# Bolbitius compactus Thesleff SPECIES
 
 #### Status
 ACCEPTED

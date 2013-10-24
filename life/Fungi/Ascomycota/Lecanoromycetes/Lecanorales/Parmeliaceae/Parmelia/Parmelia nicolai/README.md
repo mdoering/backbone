@@ -1,5 +1,4 @@
-Parmelia nicolai B. de Lesd. SPECIES
-=======
+# Parmelia nicolai B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

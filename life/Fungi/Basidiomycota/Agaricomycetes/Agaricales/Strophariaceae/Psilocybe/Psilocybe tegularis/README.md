@@ -1,5 +1,4 @@
-Psilocybe tegularis (Schumach.) Gillet SPECIES
-=======
+# Psilocybe tegularis (Schumach.) Gillet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthoniopsis robinsonii (Vain.) Zahlbr. SPECIES
-=======
+# Arthoniopsis robinsonii (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

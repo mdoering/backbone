@@ -1,5 +1,4 @@
-Opercularia sinuans SPECIES
-=======
+# Opercularia sinuans SPECIES
 
 #### Status
 ACCEPTED

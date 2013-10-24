@@ -1,5 +1,4 @@
-Leptosphaeria seriata Pass. SPECIES
-=======
+# Leptosphaeria seriata Pass. SPECIES
 
 #### Status
 ACCEPTED

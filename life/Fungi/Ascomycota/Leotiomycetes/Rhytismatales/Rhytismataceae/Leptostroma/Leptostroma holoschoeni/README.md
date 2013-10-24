@@ -1,5 +1,4 @@
-Leptostroma holoschoeni Durieu & Mont. SPECIES
-=======
+# Leptostroma holoschoeni Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

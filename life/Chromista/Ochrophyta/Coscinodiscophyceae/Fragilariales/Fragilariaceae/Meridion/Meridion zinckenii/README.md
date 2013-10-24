@@ -1,5 +1,4 @@
-Meridion zinckenii Kützing SPECIES
-=======
+# Meridion zinckenii Kützing SPECIES
 
 #### Status
 ACCEPTED

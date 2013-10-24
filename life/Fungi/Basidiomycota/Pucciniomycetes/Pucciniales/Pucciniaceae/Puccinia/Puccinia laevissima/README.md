@@ -1,5 +1,4 @@
-Puccinia laevissima Speg. SPECIES
-=======
+# Puccinia laevissima Speg. SPECIES
 
 #### Status
 ACCEPTED

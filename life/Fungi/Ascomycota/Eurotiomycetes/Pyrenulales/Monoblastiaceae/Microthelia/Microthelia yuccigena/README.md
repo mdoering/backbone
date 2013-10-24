@@ -1,14 +1,13 @@
-Microthelia yuccogena (Cooke) Kuntze SPECIES
-=======
+# Microthelia yuccigena (Cooke) Kuntze SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revis. gen. pl. (Leipzig) 3: 498 (1898)
 
 #### Original name
 Sphaeria yuccigena Cooke

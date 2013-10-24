@@ -1,5 +1,4 @@
-Hubbardina McCulloch, 1977 GENUS
-=======
+# Hubbardina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyocha fallacia K.E. Busen & S.W. Wise SPECIES
-=======
+# Dictyocha fallacia K.E. Busen & S.W. Wise SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxosporium badium Dearn. & House SPECIES
-=======
+# Myxosporium badium Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodolithus nascens Bramlette & Sullivan, 1961 SPECIES
-=======
+# Lophodolithus nascens Bramlette & Sullivan, 1961 SPECIES
 
 #### Status
 ACCEPTED

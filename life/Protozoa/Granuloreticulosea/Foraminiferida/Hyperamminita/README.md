@@ -1,5 +1,4 @@
-Hyperamminita Crespin, 1958 GENUS
-=======
+# Hyperamminita Crespin, 1958 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypholoma subannulatum Herp. SPECIES
-=======
+# Hypholoma subannulatum Herp. SPECIES
 
 #### Status
 ACCEPTED

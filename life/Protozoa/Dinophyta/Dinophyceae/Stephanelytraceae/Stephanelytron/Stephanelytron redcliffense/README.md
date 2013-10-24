@@ -1,5 +1,4 @@
-Stephanelytron redcliffense Sarjeant, 1961 SPECIES
-=======
+# Stephanelytron redcliffense Sarjeant, 1961 SPECIES
 
 #### Status
 ACCEPTED

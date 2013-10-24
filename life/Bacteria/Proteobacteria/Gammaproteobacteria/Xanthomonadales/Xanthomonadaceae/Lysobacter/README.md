@@ -1,5 +1,4 @@
-Lysobacter Christensen & Cook, 1978 GENUS
-=======
+# Lysobacter Christensen & Cook, 1978 GENUS
 
 #### Status
 ACCEPTED

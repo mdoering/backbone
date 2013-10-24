@@ -1,5 +1,4 @@
-Tetrasphaera japonica Maszenan et al., 2000 SPECIES
-=======
+# Tetrasphaera japonica Maszenan et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

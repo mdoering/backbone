@@ -1,14 +1,13 @@
-Sorosporium lophopogonis Thirum. & Pavgi, 1968 SPECIES
-=======
+# Sporisorium lophopogonis (Thirum. & Pavgi) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 20: 23 (1968)
+Mycotaxon 48: 40 (1993)
 
 #### Original name
 Sorosporium lophopogonis Thirum. & Pavgi, 1968

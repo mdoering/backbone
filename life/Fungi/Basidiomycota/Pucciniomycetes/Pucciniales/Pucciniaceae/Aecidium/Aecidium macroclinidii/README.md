@@ -1,5 +1,4 @@
-Aecidium macroclinidii Dietel SPECIES
-=======
+# Aecidium macroclinidii Dietel SPECIES
 
 #### Status
 ACCEPTED

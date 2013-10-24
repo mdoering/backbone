@@ -1,5 +1,4 @@
-Andreaeana Palm & Jochems GENUS
-=======
+# Andreaeana Palm & Jochems GENUS
 
 #### Status
 ACCEPTED

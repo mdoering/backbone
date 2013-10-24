@@ -1,5 +1,4 @@
-Monacrosporium inquisitor (Jarow.) Xing Z. Liu & K.Q. Zhang SPECIES
-=======
+# Monacrosporium inquisitor (Jarow.) Xing Z. Liu & K.Q. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus monsfraseri Corner SPECIES
-=======
+# Boletus monsfraseri Corner SPECIES
 
 #### Status
 ACCEPTED

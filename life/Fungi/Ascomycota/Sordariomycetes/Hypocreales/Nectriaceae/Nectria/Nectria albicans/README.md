@@ -1,5 +1,4 @@
-Nectria albicans Starbäck SPECIES
-=======
+# Nectria albicans Starbäck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium veledae Velen. SPECIES
-=======
+# Helotium veledae Velen. SPECIES
 
 #### Status
 ACCEPTED

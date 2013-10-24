@@ -1,5 +1,4 @@
-Parmelia molkenboeri Mont. & Bosch SPECIES
-=======
+# Parmelia molkenboeri Mont. & Bosch SPECIES
 
 #### Status
 ACCEPTED

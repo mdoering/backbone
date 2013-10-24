@@ -1,5 +1,4 @@
-Agaricus petasiformis Corda SPECIES
-=======
+# Agaricus petasiformis Corda SPECIES
 
 #### Status
 ACCEPTED

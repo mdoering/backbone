@@ -1,5 +1,4 @@
-Alabamina resigae Chave, 1987 SPECIES
-=======
+# Alabamina resigae Chave, 1987 SPECIES
 
 #### Status
 ACCEPTED

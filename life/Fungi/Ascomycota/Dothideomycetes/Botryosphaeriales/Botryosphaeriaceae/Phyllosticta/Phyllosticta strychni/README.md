@@ -1,5 +1,4 @@
-Phyllosticta strychni Allesch. SPECIES
-=======
+# Phyllosticta strychni Allesch. SPECIES
 
 #### Status
 ACCEPTED

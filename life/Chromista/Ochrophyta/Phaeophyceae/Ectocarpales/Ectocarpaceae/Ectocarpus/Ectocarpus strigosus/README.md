@@ -1,5 +1,4 @@
-Ectocarpus strigosus Zanardini SPECIES
-=======
+# Ectocarpus strigosus Zanardini SPECIES
 
 #### Status
 ACCEPTED

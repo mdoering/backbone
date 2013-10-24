@@ -1,5 +1,4 @@
-Dermatea carpinea Fr. SPECIES
-=======
+# Dermatea carpinea Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora hillmanii (Anders) Oxner SPECIES
-=======
+# Biatora hillmanii (Anders) Oxner SPECIES
 
 #### Status
 ACCEPTED

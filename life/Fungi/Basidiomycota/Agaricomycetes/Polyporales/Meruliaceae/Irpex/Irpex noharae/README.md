@@ -1,5 +1,4 @@
-Irpex noharae (Murrill) Sacc. & Trotter SPECIES
-=======
+# Irpex noharae (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

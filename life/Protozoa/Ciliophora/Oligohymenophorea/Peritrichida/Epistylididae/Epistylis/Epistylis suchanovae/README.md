@@ -1,5 +1,4 @@
-Epistylis suchanovae Shubernetzki, 1978 SPECIES
-=======
+# Epistylis suchanovae Shubernetzki, 1978 SPECIES
 
 #### Status
 ACCEPTED

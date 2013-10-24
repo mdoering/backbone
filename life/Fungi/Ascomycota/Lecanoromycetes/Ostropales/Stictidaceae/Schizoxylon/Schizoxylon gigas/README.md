@@ -1,5 +1,4 @@
-Schizoxylon gigas Speg. SPECIES
-=======
+# Schizoxylon gigas Speg. SPECIES
 
 #### Status
 ACCEPTED

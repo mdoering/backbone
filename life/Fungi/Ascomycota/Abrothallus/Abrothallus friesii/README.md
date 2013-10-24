@@ -1,5 +1,4 @@
-Abrothallus friesii Hepp SPECIES
-=======
+# Abrothallus friesii Hepp SPECIES
 
 #### Status
 ACCEPTED

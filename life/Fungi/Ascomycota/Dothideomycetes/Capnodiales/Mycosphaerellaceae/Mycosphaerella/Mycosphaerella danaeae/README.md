@@ -1,5 +1,4 @@
-Mycosphaerella danaeae Petr. & Cif. SPECIES
-=======
+# Mycosphaerella danaeae Petr. & Cif. SPECIES
 
 #### Status
 ACCEPTED

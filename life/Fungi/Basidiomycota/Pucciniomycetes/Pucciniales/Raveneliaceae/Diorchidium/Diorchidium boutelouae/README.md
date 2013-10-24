@@ -1,5 +1,4 @@
-Diorchidium boutelouae H.S. Jenn. SPECIES
-=======
+# Diorchidium boutelouae H.S. Jenn. SPECIES
 
 #### Status
 ACCEPTED

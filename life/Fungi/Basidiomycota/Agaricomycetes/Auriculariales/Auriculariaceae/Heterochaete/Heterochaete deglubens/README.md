@@ -1,5 +1,4 @@
-Heterochaete deglubens (Berk. & Broome) SPECIES
-=======
+# Heterochaete deglubens (Berk. & Broome) SPECIES
 
 #### Status
 ACCEPTED

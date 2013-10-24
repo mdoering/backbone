@@ -1,5 +1,4 @@
-Bacidia ioeessa Herre SPECIES
-=======
+# Bacidia ioeessa Herre SPECIES
 
 #### Status
 ACCEPTED

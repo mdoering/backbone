@@ -1,5 +1,4 @@
-Tubiporus GENUS
-=======
+# Tubiporus GENUS
 
 #### Status
 ACCEPTED

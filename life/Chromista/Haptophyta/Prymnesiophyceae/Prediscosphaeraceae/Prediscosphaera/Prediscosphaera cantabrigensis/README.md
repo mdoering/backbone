@@ -1,5 +1,4 @@
-Prediscosphaera cantabrigensis (Black, 1967) Reinhardt, 1970 SPECIES
-=======
+# Prediscosphaera cantabrigensis (Black, 1967) Reinhardt, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Salinicoccus alkaliphilus Zhang et al., 2002 SPECIES
-=======
+# Salinicoccus alkaliphilus Zhang et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

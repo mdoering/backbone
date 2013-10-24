@@ -1,5 +1,4 @@
-Chrysosporium crassitunicatum Kushwaha & S.C. Agarwal SPECIES
-=======
+# Chrysosporium crassitunicatum Kushwaha & S.C. Agarwal SPECIES
 
 #### Status
 ACCEPTED

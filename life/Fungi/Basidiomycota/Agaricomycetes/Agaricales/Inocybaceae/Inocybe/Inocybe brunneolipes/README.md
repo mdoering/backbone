@@ -1,5 +1,4 @@
-Inocybe brunneolipes Grund & D.E. Stuntz SPECIES
-=======
+# Inocybe brunneolipes Grund & D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

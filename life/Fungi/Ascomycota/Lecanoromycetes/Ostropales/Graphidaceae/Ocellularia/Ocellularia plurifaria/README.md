@@ -1,5 +1,4 @@
-Ocellularia plurifaria (Nyl.) Müll. Arg. SPECIES
-=======
+# Ocellularia plurifaria (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

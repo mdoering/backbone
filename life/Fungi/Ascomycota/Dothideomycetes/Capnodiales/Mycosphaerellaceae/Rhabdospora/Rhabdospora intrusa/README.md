@@ -1,5 +1,4 @@
-Rhabdospora intrusa Naumov SPECIES
-=======
+# Rhabdospora intrusa Naumov SPECIES
 
 #### Status
 ACCEPTED

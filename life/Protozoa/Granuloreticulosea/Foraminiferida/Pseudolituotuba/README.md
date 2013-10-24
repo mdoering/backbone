@@ -1,5 +1,4 @@
-Pseudolituotuba Vdovenko, 1971 GENUS
-=======
+# Pseudolituotuba Vdovenko, 1971 GENUS
 
 #### Status
 ACCEPTED

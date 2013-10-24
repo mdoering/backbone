@@ -1,5 +1,4 @@
-Oxytricha scutum SPECIES
-=======
+# Oxytricha scutum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globigerinoides elongatus (d'Orbigny, 1839) SPECIES
-=======
+# Globigerinoides elongatus (d'Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

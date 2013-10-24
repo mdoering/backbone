@@ -1,5 +1,4 @@
-Pazschkea chusqueae Rehm SPECIES
-=======
+# Pazschkea chusqueae Rehm SPECIES
 
 #### Status
 ACCEPTED

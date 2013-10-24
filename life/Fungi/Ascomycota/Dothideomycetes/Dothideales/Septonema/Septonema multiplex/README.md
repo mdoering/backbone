@@ -1,5 +1,4 @@
-Septonema multiplex Berk. & M.A. Curtis SPECIES
-=======
+# Septonema multiplex Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia distrahens Vain. SPECIES
-=======
+# Buellia distrahens Vain. SPECIES
 
 #### Status
 ACCEPTED

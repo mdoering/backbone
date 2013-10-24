@@ -1,5 +1,4 @@
-Leptographium guttulatum M.J. Wingf. & K. Jacobs SPECIES
-=======
+# Leptographium guttulatum M.J. Wingf. & K. Jacobs SPECIES
 
 #### Status
 ACCEPTED

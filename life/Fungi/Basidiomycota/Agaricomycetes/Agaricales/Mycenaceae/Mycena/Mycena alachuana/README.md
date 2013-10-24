@@ -1,5 +1,4 @@
-Mycena alachuana (Murrill) Murrill SPECIES
-=======
+# Mycena alachuana (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

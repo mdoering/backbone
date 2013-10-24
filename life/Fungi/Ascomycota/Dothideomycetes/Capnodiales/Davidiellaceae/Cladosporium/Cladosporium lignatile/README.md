@@ -1,5 +1,4 @@
-Cladosporium lignatile Schwein. SPECIES
-=======
+# Cladosporium lignatile Schwein. SPECIES
 
 #### Status
 ACCEPTED

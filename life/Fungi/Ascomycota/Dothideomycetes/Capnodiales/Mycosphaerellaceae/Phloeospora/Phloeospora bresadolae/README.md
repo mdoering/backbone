@@ -1,5 +1,4 @@
-Phloeospora bresadolae Allesch. SPECIES
-=======
+# Phloeospora bresadolae Allesch. SPECIES
 
 #### Status
 ACCEPTED

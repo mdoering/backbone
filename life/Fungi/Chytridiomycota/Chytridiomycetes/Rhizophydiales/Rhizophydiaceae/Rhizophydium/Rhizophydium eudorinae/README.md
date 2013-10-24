@@ -1,5 +1,4 @@
-Rhizophydium eudorinae (Skvortsov) Jacz. SPECIES
-=======
+# Rhizophydium eudorinae (Skvortsov) Jacz. SPECIES
 
 #### Status
 ACCEPTED

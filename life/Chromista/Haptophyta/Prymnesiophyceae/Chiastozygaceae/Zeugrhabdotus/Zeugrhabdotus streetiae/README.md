@@ -1,5 +1,4 @@
-Zeugrhabdotus streetiae SPECIES
-=======
+# Zeugrhabdotus streetiae SPECIES
 
 #### Status
 ACCEPTED

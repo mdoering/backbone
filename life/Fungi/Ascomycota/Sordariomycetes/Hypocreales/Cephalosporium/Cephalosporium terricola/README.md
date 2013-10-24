@@ -1,5 +1,4 @@
-Cephalosporium terricola Kamyschko SPECIES
-=======
+# Cephalosporium terricola Kamyschko SPECIES
 
 #### Status
 ACCEPTED

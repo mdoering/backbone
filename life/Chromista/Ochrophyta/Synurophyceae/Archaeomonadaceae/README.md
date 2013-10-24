@@ -1,5 +1,4 @@
-Archaeomonadaceae FAMILY
-=======
+# Archaeomonadaceae FAMILY
 
 #### Status
 ACCEPTED

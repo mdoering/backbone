@@ -1,5 +1,4 @@
-Isaria ramosissima Zoll. SPECIES
-=======
+# Isaria ramosissima Zoll. SPECIES
 
 #### Status
 ACCEPTED

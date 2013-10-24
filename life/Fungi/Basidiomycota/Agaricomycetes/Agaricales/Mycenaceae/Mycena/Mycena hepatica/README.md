@@ -1,5 +1,4 @@
-Mycena hepatica M. Villarreal, Heykoop & Maas Geest. SPECIES
-=======
+# Mycena hepatica M. Villarreal, Heykoop & Maas Geest. SPECIES
 
 #### Status
 ACCEPTED

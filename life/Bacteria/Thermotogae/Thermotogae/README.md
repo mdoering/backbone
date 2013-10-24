@@ -1,5 +1,4 @@
-Thermotogae Reysenbach, 2002 CLASS
-=======
+# Thermotogae Reysenbach, 2002 CLASS
 
 #### Status
 ACCEPTED

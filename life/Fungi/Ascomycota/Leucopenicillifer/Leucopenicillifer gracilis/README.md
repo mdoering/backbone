@@ -1,5 +1,4 @@
-Leucopenicillifer gracilis G.R.W. Arnold, 1971 SPECIES
-=======
+# Leucopenicillifer gracilis G.R.W. Arnold, 1971 SPECIES
 
 #### Status
 ACCEPTED

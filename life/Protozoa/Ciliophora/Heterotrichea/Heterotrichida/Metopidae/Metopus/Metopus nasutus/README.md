@@ -1,5 +1,4 @@
-Metopus nasutus Cunha, 1915 SPECIES
-=======
+# Metopus nasutus Cunha, 1915 SPECIES
 
 #### Status
 ACCEPTED

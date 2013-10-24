@@ -1,5 +1,4 @@
-Graphis leucolyta Nyl. SPECIES
-=======
+# Graphis leucolyta Nyl. SPECIES
 
 #### Status
 ACCEPTED

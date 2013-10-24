@@ -1,5 +1,4 @@
-Pyrenula punctiformis var. punctiformis VARIETY
-=======
+# Pyrenula punctiformis SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pyrenula punctiformis var. punctiformis
+Pyrenula punctiformis
 
 ### Remarks
 null

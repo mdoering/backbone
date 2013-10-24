@@ -1,5 +1,4 @@
-Phoma inconstans Sacc. SPECIES
-=======
+# Phoma inconstans Sacc. SPECIES
 
 #### Status
 ACCEPTED

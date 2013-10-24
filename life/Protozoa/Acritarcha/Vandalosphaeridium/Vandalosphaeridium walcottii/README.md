@@ -1,5 +1,4 @@
-Vandalosphaeridium walcottii Vidal & Ford, 1985 SPECIES
-=======
+# Vandalosphaeridium walcottii Vidal & Ford, 1985 SPECIES
 
 #### Status
 ACCEPTED

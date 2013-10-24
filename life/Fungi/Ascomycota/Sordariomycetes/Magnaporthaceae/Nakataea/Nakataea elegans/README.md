@@ -1,5 +1,4 @@
-Nakataea elegans Dewi SPECIES
-=======
+# Nakataea elegans Dewi SPECIES
 
 #### Status
 ACCEPTED

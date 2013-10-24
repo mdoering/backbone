@@ -1,5 +1,4 @@
-Sphaeria angustata Schumach. SPECIES
-=======
+# Sphaeria angustata Schumach. SPECIES
 
 #### Status
 ACCEPTED

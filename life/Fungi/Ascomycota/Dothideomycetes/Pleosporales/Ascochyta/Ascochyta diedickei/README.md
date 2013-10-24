@@ -1,5 +1,4 @@
-Ascochyta diedickei Staritz SPECIES
-=======
+# Ascochyta diedickei Staritz SPECIES
 
 #### Status
 ACCEPTED

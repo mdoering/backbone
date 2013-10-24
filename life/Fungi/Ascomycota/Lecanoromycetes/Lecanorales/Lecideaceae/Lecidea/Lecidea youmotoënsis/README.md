@@ -1,5 +1,4 @@
-Lecidea youmotoënsis Nyl. SPECIES
-=======
+# Lecidea youmotoënsis Nyl. SPECIES
 
 #### Status
 ACCEPTED

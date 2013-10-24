@@ -1,17 +1,16 @@
-Manginiella Cavara GENUS
-=======
+# Mauginiella Cavara GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Atti Reale Accad. Naz. Lincei, Mem. Cl. Sci. Fis. , ser. 6 1-2: 65 (1925)
 
 #### Original name
-Manginiella Cavara
+Mauginiella Cavara
 
 ### Remarks
 null

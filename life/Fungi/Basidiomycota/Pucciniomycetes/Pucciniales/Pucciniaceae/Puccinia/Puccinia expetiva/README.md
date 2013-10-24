@@ -1,5 +1,4 @@
-Puccinia expetiva H.S. Jacks. & Holw. SPECIES
-=======
+# Puccinia expetiva H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tuber unicolor Gilkey SPECIES
-=======
+# Tuber unicolor Gilkey SPECIES
 
 #### Status
 ACCEPTED

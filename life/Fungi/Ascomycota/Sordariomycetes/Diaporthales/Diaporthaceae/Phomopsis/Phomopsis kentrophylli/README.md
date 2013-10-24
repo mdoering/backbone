@@ -1,5 +1,4 @@
-Phomopsis kentrophylli Ade SPECIES
-=======
+# Phomopsis kentrophylli Ade SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Merostictis aciculispora Gamundí SPECIES
-=======
+# Merostictis aciculispora Gamundí SPECIES
 
 #### Status
 ACCEPTED

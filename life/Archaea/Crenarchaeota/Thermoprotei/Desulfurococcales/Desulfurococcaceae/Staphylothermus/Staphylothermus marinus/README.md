@@ -1,5 +1,4 @@
-Staphylothermus marinus Stetter & Fiala, 1986 SPECIES
-=======
+# Staphylothermus marinus Stetter & Fiala, 1986 SPECIES
 
 #### Status
 ACCEPTED

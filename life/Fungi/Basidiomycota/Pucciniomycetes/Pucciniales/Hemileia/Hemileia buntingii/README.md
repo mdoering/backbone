@@ -1,5 +1,4 @@
-Hemileia buntingii Wakef. & Hansf. SPECIES
-=======
+# Hemileia buntingii Wakef. & Hansf. SPECIES
 
 #### Status
 ACCEPTED

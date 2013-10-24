@@ -1,5 +1,4 @@
-Isaria acuta Preuss SPECIES
-=======
+# Isaria acuta Preuss SPECIES
 
 #### Status
 ACCEPTED

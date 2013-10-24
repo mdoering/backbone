@@ -1,5 +1,4 @@
-Dictyota rigida De Clerck & Coppejans SPECIES
-=======
+# Dictyota rigida De Clerck & Coppejans SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria pentandrina Bubák & Vleugel SPECIES
-=======
+# Septoria pentandrina Bubák & Vleugel SPECIES
 
 #### Status
 ACCEPTED

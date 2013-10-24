@@ -1,5 +1,4 @@
-Chaetotyphula amylochaete Singer, 1977 SPECIES
-=======
+# Chaetotyphula amylochaete Singer, 1977 SPECIES
 
 #### Status
 ACCEPTED

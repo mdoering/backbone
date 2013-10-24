@@ -1,5 +1,4 @@
-Tympanis hypopodiza Nyl. SPECIES
-=======
+# Tympanis hypopodiza Nyl. SPECIES
 
 #### Status
 ACCEPTED

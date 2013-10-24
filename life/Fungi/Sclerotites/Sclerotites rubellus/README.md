@@ -1,5 +1,4 @@
-Sclerotites rubellus (Lesq.) Mesch. SPECIES
-=======
+# Sclerotites rubellus (Lesq.) Mesch. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina anthraspis (Ach.) Nyl. SPECIES
-=======
+# Stictina anthraspis (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

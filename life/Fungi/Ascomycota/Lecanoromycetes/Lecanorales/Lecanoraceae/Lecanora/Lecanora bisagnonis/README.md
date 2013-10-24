@@ -1,5 +1,4 @@
-Lecanora bisagnonis (B. de Lesd.) Motyka SPECIES
-=======
+# Lecanora bisagnonis (B. de Lesd.) Motyka SPECIES
 
 #### Status
 ACCEPTED

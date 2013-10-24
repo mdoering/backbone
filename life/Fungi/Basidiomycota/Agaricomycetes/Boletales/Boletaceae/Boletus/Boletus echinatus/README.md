@@ -1,5 +1,4 @@
-Boletus echinatus Vill. SPECIES
-=======
+# Boletus echinatus Vill. SPECIES
 
 #### Status
 ACCEPTED

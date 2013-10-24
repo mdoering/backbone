@@ -1,5 +1,4 @@
-Ovammina Dahlgren, 1962 GENUS
-=======
+# Ovammina Dahlgren, 1962 GENUS
 
 #### Status
 ACCEPTED

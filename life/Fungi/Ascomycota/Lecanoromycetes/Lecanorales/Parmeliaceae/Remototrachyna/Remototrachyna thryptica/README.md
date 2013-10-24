@@ -1,5 +1,4 @@
-Remototrachyna thryptica (Hale) Divakar & A. Crespo SPECIES
-=======
+# Remototrachyna thryptica (Hale) Divakar & A. Crespo SPECIES
 
 #### Status
 ACCEPTED

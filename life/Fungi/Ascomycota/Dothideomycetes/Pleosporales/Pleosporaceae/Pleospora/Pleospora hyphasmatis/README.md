@@ -1,5 +1,4 @@
-Pleospora hyphasmatis (Ellis & Everh.) Wehm. SPECIES
-=======
+# Pleospora hyphasmatis (Ellis & Everh.) Wehm. SPECIES
 
 #### Status
 ACCEPTED

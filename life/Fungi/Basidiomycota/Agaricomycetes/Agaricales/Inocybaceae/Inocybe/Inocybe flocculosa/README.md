@@ -1,17 +1,16 @@
-Inocybe pallidipes f. pallidipes FORM
-=======
+# Inocybe flocculosa (Berk.) Sacc., 1887 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 5: 24 (1889)
+Syll. fung. (Abellini) 5: 768 (1887)
 
 #### Original name
-Inocybe pallidipes f. pallidipes
+Agaricus flocculosus Berk., 1836
 
 ### Remarks
 null

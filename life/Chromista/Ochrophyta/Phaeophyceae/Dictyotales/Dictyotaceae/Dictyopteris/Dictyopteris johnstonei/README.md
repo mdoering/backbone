@@ -1,5 +1,4 @@
-Dictyopteris johnstonei N.L. Gardner SPECIES
-=======
+# Dictyopteris johnstonei N.L. Gardner SPECIES
 
 #### Status
 ACCEPTED

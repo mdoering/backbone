@@ -1,5 +1,4 @@
-Dendrographium lucknowense R.N. Ghosh, N.C. Pathak & M.S. Singh SPECIES
-=======
+# Dendrographium lucknowense R.N. Ghosh, N.C. Pathak & M.S. Singh SPECIES
 
 #### Status
 ACCEPTED

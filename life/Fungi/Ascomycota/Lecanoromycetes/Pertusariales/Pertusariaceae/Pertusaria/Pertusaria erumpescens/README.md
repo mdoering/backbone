@@ -1,5 +1,4 @@
-Pertusaria erumpescens Nyl. SPECIES
-=======
+# Pertusaria erumpescens Nyl. SPECIES
 
 #### Status
 ACCEPTED

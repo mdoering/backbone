@@ -1,5 +1,4 @@
-Filaspora uncinata (Pass.) Kuntze SPECIES
-=======
+# Filaspora uncinata (Pass.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

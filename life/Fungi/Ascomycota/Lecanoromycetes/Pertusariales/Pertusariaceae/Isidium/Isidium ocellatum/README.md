@@ -1,5 +1,4 @@
-Isidium ocellatum SPECIES
-=======
+# Isidium ocellatum SPECIES
 
 #### Status
 ACCEPTED

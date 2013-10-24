@@ -1,5 +1,4 @@
-Asterina fuliginosa Pat. SPECIES
-=======
+# Asterina fuliginosa Pat. SPECIES
 
 #### Status
 ACCEPTED

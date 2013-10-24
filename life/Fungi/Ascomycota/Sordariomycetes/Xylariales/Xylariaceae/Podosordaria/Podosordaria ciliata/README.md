@@ -1,5 +1,4 @@
-Podosordaria ciliata (Pat.) P.M.D. Martin SPECIES
-=======
+# Podosordaria ciliata (Pat.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

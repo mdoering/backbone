@@ -1,8 +1,7 @@
-Endophyllum vernoniae (Arthur) Arthur, 1907 SPECIES
-=======
+# Dietelia vernoniae Arthur, 1905 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

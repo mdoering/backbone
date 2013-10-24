@@ -1,5 +1,4 @@
-Pseudocercosporella trichachnicola J.F. White & Morgan-Jones SPECIES
-=======
+# Pseudocercosporella trichachnicola J.F. White & Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

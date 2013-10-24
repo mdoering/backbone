@@ -1,5 +1,4 @@
-Colonnaria GENUS
-=======
+# Colonnaria GENUS
 
 #### Status
 ACCEPTED

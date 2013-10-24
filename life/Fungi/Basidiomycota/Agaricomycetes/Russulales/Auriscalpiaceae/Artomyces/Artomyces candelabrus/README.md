@@ -1,14 +1,13 @@
-Clavaria candelabrum Massee, 1899 SPECIES
-=======
+# Artomyces candelabrus (Massee) Jülich, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Misc. Inf. , Kew 172 (1899)
+Biblthca Mycol. 85: 399 (1982)
 
 #### Original name
 Clavaria candelabrum Massee, 1899

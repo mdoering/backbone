@@ -1,5 +1,4 @@
-Crepidotus serotinus Singer SPECIES
-=======
+# Crepidotus serotinus Singer SPECIES
 
 #### Status
 ACCEPTED

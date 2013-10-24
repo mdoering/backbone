@@ -1,8 +1,7 @@
-Phycocelis floridana W.R. Taylor SPECIES
-=======
+# Hecatonema floridanum (W.R. Taylor) W.R. Taylor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

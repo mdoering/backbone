@@ -1,8 +1,7 @@
-Flexibacter psychrophilus (ex Borg, 1960) Bernardet & Grimont, 1989 SPECIES
-=======
+# Flavobacterium psychrophilum (Bernardet & Grimont, 1989) Bernardet et al., 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

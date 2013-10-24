@@ -1,5 +1,4 @@
-Septoria polygonina var. polygonina VARIETY
-=======
+# Septoria polygonina Thüm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Septoria polygonina var. polygonina
+Septoria polygonina Thüm.
 
 ### Remarks
 null

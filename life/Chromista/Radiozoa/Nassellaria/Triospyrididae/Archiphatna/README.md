@@ -1,5 +1,4 @@
-Archiphatna Haeckel, 1881 GENUS
-=======
+# Archiphatna Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

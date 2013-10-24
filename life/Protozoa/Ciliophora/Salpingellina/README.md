@@ -1,5 +1,4 @@
-Salpingellina Colom, 1948 GENUS
-=======
+# Salpingellina Colom, 1948 GENUS
 
 #### Status
 ACCEPTED

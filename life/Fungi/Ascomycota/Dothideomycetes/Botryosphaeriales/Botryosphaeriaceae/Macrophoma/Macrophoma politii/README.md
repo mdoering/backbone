@@ -1,5 +1,4 @@
-Macrophoma politii Apostol. SPECIES
-=======
+# Macrophoma politii Apostol. SPECIES
 
 #### Status
 ACCEPTED

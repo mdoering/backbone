@@ -1,5 +1,4 @@
-Teichospora pseudostromatica Rehm SPECIES
-=======
+# Teichospora pseudostromatica Rehm SPECIES
 
 #### Status
 ACCEPTED

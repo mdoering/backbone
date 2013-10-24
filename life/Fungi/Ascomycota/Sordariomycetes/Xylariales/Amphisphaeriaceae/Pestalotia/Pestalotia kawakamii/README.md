@@ -1,5 +1,4 @@
-Pestalotia kawakamii Sawada, 1919 SPECIES
-=======
+# Pestalotia kawakamii Sawada, 1919 SPECIES
 
 #### Status
 ACCEPTED

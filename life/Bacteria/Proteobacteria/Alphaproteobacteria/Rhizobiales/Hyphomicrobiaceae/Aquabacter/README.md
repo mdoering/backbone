@@ -1,5 +1,4 @@
-Aquabacter Irgens et al., 1993 GENUS
-=======
+# Aquabacter Irgens et al., 1993 GENUS
 
 #### Status
 ACCEPTED

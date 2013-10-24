@@ -1,5 +1,4 @@
-Amanitina citrina SPECIES
-=======
+# Amanitina citrina SPECIES
 
 #### Status
 ACCEPTED

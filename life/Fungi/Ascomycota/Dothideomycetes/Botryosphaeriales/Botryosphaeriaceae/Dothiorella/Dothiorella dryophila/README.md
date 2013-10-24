@@ -1,5 +1,4 @@
-Dothiorella dryophila Sacc. & Briard SPECIES
-=======
+# Dothiorella dryophila Sacc. & Briard SPECIES
 
 #### Status
 ACCEPTED

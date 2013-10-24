@@ -1,5 +1,4 @@
-Meliola teke Hansf. SPECIES
-=======
+# Meliola teke Hansf. SPECIES
 
 #### Status
 ACCEPTED

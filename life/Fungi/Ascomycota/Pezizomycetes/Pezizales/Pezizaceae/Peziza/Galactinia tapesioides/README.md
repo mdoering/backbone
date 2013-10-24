@@ -1,5 +1,4 @@
-Galactinia tapesioides Le Gal SPECIES
-=======
+# Galactinia tapesioides Le Gal SPECIES
 
 #### Status
 ACCEPTED

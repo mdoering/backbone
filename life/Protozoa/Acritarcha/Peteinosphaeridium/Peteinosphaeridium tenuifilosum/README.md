@@ -1,5 +1,4 @@
-Peteinosphaeridium tenuifilosum Tongiorgi et al., 1995 SPECIES
-=======
+# Peteinosphaeridium tenuifilosum Tongiorgi et al., 1995 SPECIES
 
 #### Status
 ACCEPTED

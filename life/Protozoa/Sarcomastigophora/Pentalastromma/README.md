@@ -1,5 +1,4 @@
-Pentalastromma Haeckel, 1887 GENUS
-=======
+# Pentalastromma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

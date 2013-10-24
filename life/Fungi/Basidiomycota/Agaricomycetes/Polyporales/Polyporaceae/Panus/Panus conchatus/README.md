@@ -1,17 +1,16 @@
-Agaricus conchatus var. conchatus VARIETY
-=======
+# Panus conchatus (Bull.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Epicr. syst. mycol. (Upsaliae) 396 (1838)
 
 #### Original name
-null
+Agaricus conchatus Bull., 1787
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dimerina monensis F. Stevens SPECIES
-=======
+# Dimerina monensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

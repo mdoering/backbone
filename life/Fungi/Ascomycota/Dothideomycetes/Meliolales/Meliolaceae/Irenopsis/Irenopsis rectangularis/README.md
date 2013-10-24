@@ -1,5 +1,4 @@
-Irenopsis rectangularis (F. Stevens) F. Stevens SPECIES
-=======
+# Irenopsis rectangularis (F. Stevens) F. Stevens SPECIES
 
 #### Status
 ACCEPTED

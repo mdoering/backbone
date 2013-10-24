@@ -1,5 +1,4 @@
-Streptomyces albosporeus subsp. albosporeus SUBSPECIES
-=======
+# Streptomyces albosporeus (Krainsky, 1914) Waksman & Henrici, 1948 SPECIES
 
 #### Status
 ACCEPTED

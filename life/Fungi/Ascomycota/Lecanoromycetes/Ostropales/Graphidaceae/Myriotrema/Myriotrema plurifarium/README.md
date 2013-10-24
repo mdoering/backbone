@@ -1,5 +1,4 @@
-Myriotrema plurifarium (Nyl.) Frisch SPECIES
-=======
+# Myriotrema plurifarium (Nyl.) Frisch SPECIES
 
 #### Status
 ACCEPTED

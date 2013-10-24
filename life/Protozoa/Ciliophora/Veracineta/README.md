@@ -1,5 +1,4 @@
-Veracineta Yankovskii, 1978 GENUS
-=======
+# Veracineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

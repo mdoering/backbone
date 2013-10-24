@@ -1,5 +1,4 @@
-Pezizella avellanae (Lasch) Fuckel SPECIES
-=======
+# Pezizella avellanae (Lasch) Fuckel SPECIES
 
 #### Status
 ACCEPTED

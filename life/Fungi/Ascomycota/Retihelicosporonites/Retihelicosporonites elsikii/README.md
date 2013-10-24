@@ -1,5 +1,4 @@
-Retihelicosporonites elsikii Ramanujam & K.P. Rao SPECIES
-=======
+# Retihelicosporonites elsikii Ramanujam & K.P. Rao SPECIES
 
 #### Status
 ACCEPTED

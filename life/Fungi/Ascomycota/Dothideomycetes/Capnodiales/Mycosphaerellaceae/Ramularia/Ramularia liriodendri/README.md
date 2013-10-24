@@ -1,5 +1,4 @@
-Ramularia liriodendri Ellis & Everh. SPECIES
-=======
+# Ramularia liriodendri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

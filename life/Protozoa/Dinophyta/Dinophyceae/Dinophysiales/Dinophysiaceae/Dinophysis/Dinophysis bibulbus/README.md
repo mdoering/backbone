@@ -1,5 +1,4 @@
-Dinophysis bibulbus Balech, 1971 SPECIES
-=======
+# Dinophysis bibulbus Balech, 1971 SPECIES
 
 #### Status
 ACCEPTED

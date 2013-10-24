@@ -1,5 +1,4 @@
-Tulasnella violae SPECIES
-=======
+# Tulasnella violae SPECIES
 
 #### Status
 ACCEPTED

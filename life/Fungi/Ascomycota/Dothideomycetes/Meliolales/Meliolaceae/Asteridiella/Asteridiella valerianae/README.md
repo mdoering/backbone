@@ -1,5 +1,4 @@
-Asteridiella valerianae Hansf. SPECIES
-=======
+# Asteridiella valerianae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena bohemica Velen. SPECIES
-=======
+# Mycena bohemica Velen. SPECIES
 
 #### Status
 ACCEPTED

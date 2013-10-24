@@ -1,5 +1,4 @@
-Cortinarius sulcatus Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius sulcatus Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

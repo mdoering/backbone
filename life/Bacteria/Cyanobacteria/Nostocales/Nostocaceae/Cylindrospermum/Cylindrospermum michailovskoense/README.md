@@ -1,5 +1,4 @@
-Cylindrospermum michailovskoense Elenkin SPECIES
-=======
+# Cylindrospermum michailovskoense Elenkin SPECIES
 
 #### Status
 ACCEPTED

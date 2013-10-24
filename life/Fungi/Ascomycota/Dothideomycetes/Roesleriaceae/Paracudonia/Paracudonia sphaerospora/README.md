@@ -1,5 +1,4 @@
-Paracudonia sphaerospora Petr. SPECIES
-=======
+# Paracudonia sphaerospora Petr. SPECIES
 
 #### Status
 ACCEPTED

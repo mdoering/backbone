@@ -1,5 +1,4 @@
-Setopeltis GENUS
-=======
+# Setopeltis GENUS
 
 #### Status
 ACCEPTED

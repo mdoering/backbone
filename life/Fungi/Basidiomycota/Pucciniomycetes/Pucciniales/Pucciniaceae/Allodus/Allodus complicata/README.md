@@ -1,5 +1,4 @@
-Allodus complicata Arthur & Orton SPECIES
-=======
+# Allodus complicata Arthur & Orton SPECIES
 
 #### Status
 ACCEPTED

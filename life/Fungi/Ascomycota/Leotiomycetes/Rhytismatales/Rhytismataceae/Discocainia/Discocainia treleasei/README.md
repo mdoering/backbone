@@ -1,14 +1,13 @@
-Scleroderris treleasei Sacc., 1904 SPECIES
-=======
+# Discocainia treleasei (Sacc.) J. Reid & A. Funk, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Harriman Alaska Expedition 5: 24 (1904)
+Mycologia 58(3): 432 (1966)
 
 #### Original name
 Scleroderris treleasei Sacc., 1904

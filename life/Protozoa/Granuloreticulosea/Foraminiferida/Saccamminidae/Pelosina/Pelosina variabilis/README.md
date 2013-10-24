@@ -1,5 +1,4 @@
-Pelosina variabilis SPECIES
-=======
+# Pelosina variabilis SPECIES
 
 #### Status
 ACCEPTED

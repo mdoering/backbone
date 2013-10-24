@@ -1,14 +1,13 @@
-Phoma chamaeropis Cooke, 1885 SPECIES
-=======
+# Phomopsis chamaeropsis (Cooke) Petr., 1920 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls mycol. 17(2/6): 83 (1920)
 
 #### Original name
 Phoma chamaeropis Cooke, 1885

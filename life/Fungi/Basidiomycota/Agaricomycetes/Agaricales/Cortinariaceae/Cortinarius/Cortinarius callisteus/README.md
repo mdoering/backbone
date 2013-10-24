@@ -1,14 +1,13 @@
-Agaricus callisteus Fr., 1818 SPECIES
-=======
+# Cortinarius callisteus (Fr.) Fr., 1838 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Observ. mycol. (Havniae) 2: 51 (1818)
+Epicr. syst. mycol. (Upsaliae) 281 (1838)
 
 #### Original name
 Agaricus callisteus Fr., 1818

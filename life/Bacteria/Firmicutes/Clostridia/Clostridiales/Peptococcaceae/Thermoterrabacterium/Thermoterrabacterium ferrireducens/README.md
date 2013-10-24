@@ -1,5 +1,4 @@
-Thermoterrabacterium ferrireducens Slobodkin et al., 1997 SPECIES
-=======
+# Thermoterrabacterium ferrireducens Slobodkin et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

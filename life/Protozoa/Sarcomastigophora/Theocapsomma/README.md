@@ -1,5 +1,4 @@
-Theocapsomma Haeckel, 1887 GENUS
-=======
+# Theocapsomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

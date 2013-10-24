@@ -1,5 +1,4 @@
-Caloplaca salicina (J.F. Gmel.) Szatala SPECIES
-=======
+# Caloplaca salicina (J.F. Gmel.) Szatala SPECIES
 
 #### Status
 ACCEPTED

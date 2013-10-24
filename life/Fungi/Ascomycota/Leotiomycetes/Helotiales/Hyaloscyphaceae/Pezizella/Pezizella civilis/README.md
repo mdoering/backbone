@@ -1,5 +1,4 @@
-Pezizella civilis Velen. SPECIES
-=======
+# Pezizella civilis Velen. SPECIES
 
 #### Status
 ACCEPTED

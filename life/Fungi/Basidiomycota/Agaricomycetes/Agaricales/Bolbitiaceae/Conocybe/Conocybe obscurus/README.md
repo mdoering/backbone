@@ -1,5 +1,4 @@
-Conocybe obscurus Watling SPECIES
-=======
+# Conocybe obscurus Watling SPECIES
 
 #### Status
 ACCEPTED

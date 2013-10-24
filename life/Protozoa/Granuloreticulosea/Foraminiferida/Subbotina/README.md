@@ -1,5 +1,4 @@
-Subbotina Brotzen & Pozaryska, 1961 GENUS
-=======
+# Subbotina Brotzen & Pozaryska, 1961 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporotrichum hypnophilum Pers. SPECIES
-=======
+# Sporotrichum hypnophilum Pers. SPECIES
 
 #### Status
 ACCEPTED

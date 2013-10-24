@@ -1,5 +1,4 @@
-Clitocybe stipitata Murrill SPECIES
-=======
+# Clitocybe stipitata Murrill SPECIES
 
 #### Status
 ACCEPTED

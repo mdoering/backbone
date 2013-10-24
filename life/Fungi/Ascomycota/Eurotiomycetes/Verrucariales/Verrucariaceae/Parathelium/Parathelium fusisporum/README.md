@@ -1,5 +1,4 @@
-Parathelium fusisporum Malme SPECIES
-=======
+# Parathelium fusisporum Malme SPECIES
 
 #### Status
 ACCEPTED

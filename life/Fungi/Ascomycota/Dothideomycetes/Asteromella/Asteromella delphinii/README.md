@@ -1,5 +1,4 @@
-Asteromella delphinii Petr. SPECIES
-=======
+# Asteromella delphinii Petr. SPECIES
 
 #### Status
 ACCEPTED

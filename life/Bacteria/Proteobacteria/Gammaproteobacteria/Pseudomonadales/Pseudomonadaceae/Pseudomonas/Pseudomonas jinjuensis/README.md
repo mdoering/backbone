@@ -1,5 +1,4 @@
-Pseudomonas jinjuensis Kwon et al., 2003 SPECIES
-=======
+# Pseudomonas jinjuensis Kwon et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

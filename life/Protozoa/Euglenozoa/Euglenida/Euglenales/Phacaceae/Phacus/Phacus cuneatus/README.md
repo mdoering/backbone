@@ -1,5 +1,4 @@
-Phacus cuneatus Pochmann SPECIES
-=======
+# Phacus cuneatus Pochmann SPECIES
 
 #### Status
 ACCEPTED

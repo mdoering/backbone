@@ -1,5 +1,4 @@
-Rhabdospora bornmuelleri Keissl. SPECIES
-=======
+# Rhabdospora bornmuelleri Keissl. SPECIES
 
 #### Status
 ACCEPTED

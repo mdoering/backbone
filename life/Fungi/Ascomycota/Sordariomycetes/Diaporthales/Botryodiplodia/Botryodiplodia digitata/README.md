@@ -1,5 +1,4 @@
-Botryodiplodia digitata Maubl. SPECIES
-=======
+# Botryodiplodia digitata Maubl. SPECIES
 
 #### Status
 ACCEPTED

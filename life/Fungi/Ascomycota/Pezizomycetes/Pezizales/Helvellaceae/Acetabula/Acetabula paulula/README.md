@@ -1,5 +1,4 @@
-Acetabula paulula Johns. {?} SPECIES
-=======
+# Acetabula paulula Johns. {?} SPECIES
 
 #### Status
 ACCEPTED

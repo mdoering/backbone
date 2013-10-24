@@ -1,5 +1,4 @@
-Ramaria sikkimia S.S. Rattan & Khurana SPECIES
-=======
+# Ramaria sikkimia S.S. Rattan & Khurana SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium tubercularioides (Corda) Sacc. SPECIES
-=======
+# Fusarium tubercularioides (Corda) Sacc. SPECIES
 
 #### Status
 ACCEPTED

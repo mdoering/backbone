@@ -1,5 +1,4 @@
-Pluteolus expansus var. expansus VARIETY
-=======
+# Pluteolus expansus (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

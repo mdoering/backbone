@@ -1,5 +1,4 @@
-Allothyrina Bat. & J.L. Bezerra GENUS
-=======
+# Allothyrina Bat. & J.L. Bezerra GENUS
 
 #### Status
 ACCEPTED

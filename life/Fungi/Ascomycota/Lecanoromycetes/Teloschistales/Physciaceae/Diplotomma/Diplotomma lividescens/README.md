@@ -1,5 +1,4 @@
-Diplotomma lividescens (Bagl. & Carestia) Arnold SPECIES
-=======
+# Diplotomma lividescens (Bagl. & Carestia) Arnold SPECIES
 
 #### Status
 ACCEPTED

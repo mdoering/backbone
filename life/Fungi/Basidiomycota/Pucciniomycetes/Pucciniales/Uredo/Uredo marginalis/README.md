@@ -1,5 +1,4 @@
-Uredo marginalis Rabenh. SPECIES
-=======
+# Uredo marginalis Rabenh. SPECIES
 
 #### Status
 ACCEPTED

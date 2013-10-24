@@ -1,5 +1,4 @@
-Lepiota hemisphaerica Murrill SPECIES
-=======
+# Lepiota hemisphaerica Murrill SPECIES
 
 #### Status
 ACCEPTED

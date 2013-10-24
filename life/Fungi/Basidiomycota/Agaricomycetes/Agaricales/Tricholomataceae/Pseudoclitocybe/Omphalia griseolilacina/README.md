@@ -1,5 +1,4 @@
-Omphalia griseolilacina Steinheim SPECIES
-=======
+# Omphalia griseolilacina Steinheim SPECIES
 
 #### Status
 ACCEPTED

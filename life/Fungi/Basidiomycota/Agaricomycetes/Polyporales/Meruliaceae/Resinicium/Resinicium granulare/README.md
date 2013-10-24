@@ -1,5 +1,4 @@
-Resinicium granulare (Burt) Sheng H. Wu, 1990 SPECIES
-=======
+# Resinicium granulare (Burt) Sheng H. Wu, 1990 SPECIES
 
 #### Status
 ACCEPTED

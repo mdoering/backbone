@@ -1,5 +1,4 @@
-Martelella Rivas et al., 2005 GENUS
-=======
+# Martelella Rivas et al., 2005 GENUS
 
 #### Status
 ACCEPTED

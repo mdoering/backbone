@@ -1,5 +1,4 @@
-Mycena graminea (Cejp) Kühner SPECIES
-=======
+# Mycena graminea (Cejp) Kühner SPECIES
 
 #### Status
 ACCEPTED

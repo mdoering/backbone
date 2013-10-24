@@ -1,17 +1,16 @@
-Lepiotophyllum rhacodes var. rhacodes VARIETY
-=======
+# Chlorophyllum rhacodes (Vittad.) Vellinga, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 83: 416 (2002)
 
 #### Original name
-null
+Agaricus rhacodes Vittad., 1835
 
 ### Remarks
 null

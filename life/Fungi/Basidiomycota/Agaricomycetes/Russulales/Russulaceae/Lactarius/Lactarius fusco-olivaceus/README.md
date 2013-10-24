@@ -1,5 +1,4 @@
-Lactarius fusco-olivaceus var. graveolens Hesler & A.H. Sm. VARIETY
-=======
+# Lactarius fusco-olivaceus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-North American Species of Lactarius (Ann Arbor) 393 (1979)
+North American Species of Lactarius (Ann Arbor) 392 (1979)
 
 #### Original name
-Lactarius fusco-olivaceus var. graveolens Hesler & A.H. Sm.
+Lactarius fusco-olivaceus Hesler & A.H. Sm.
 
 ### Remarks
 null

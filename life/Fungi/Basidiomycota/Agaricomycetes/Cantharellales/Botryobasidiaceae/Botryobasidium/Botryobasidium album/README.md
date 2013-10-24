@@ -1,5 +1,4 @@
-Botryobasidium album (Dastur) Venkatar. SPECIES
-=======
+# Botryobasidium album (Dastur) Venkatar. SPECIES
 
 #### Status
 ACCEPTED

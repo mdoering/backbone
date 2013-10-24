@@ -1,5 +1,4 @@
-Scyphidia indica Bhatia, 1936 SPECIES
-=======
+# Scyphidia indica Bhatia, 1936 SPECIES
 
 #### Status
 ACCEPTED

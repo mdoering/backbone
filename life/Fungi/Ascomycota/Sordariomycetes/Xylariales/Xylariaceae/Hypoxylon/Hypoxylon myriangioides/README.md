@@ -1,5 +1,4 @@
-Hypoxylon myriangioides Berk. & Ravenel SPECIES
-=======
+# Hypoxylon myriangioides Berk. & Ravenel SPECIES
 
 #### Status
 ACCEPTED

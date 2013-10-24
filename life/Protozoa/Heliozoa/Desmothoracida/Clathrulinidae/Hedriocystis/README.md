@@ -1,5 +1,4 @@
-Hedriocystis Hertwig & Lesser, 1874 GENUS
-=======
+# Hedriocystis Hertwig & Lesser, 1874 GENUS
 
 #### Status
 ACCEPTED

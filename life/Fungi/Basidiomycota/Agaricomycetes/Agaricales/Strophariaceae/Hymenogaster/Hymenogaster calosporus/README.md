@@ -1,5 +1,4 @@
-Hymenogaster calosporus Tul. SPECIES
-=======
+# Hymenogaster calosporus Tul. SPECIES
 
 #### Status
 ACCEPTED

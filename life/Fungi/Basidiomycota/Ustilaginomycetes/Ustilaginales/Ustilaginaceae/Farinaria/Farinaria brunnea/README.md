@@ -1,5 +1,4 @@
-Farinaria brunnea Sowerby SPECIES
-=======
+# Farinaria brunnea Sowerby SPECIES
 
 #### Status
 ACCEPTED

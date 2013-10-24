@@ -1,5 +1,4 @@
-Discocurtisia Nannf. GENUS
-=======
+# Discocurtisia Nannf. GENUS
 
 #### Status
 ACCEPTED

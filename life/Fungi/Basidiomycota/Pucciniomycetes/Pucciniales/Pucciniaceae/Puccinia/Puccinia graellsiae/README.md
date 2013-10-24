@@ -1,5 +1,4 @@
-Puccinia graellsiae Magnus SPECIES
-=======
+# Puccinia graellsiae Magnus SPECIES
 
 #### Status
 ACCEPTED

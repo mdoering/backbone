@@ -1,5 +1,4 @@
-Pleurotus diffractus Pilát SPECIES
-=======
+# Pleurotus diffractus Pilát SPECIES
 
 #### Status
 ACCEPTED

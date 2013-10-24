@@ -1,5 +1,4 @@
-Uredo meliosmae Petch SPECIES
-=======
+# Uredo meliosmae Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria prostrata Kabát & Bubák SPECIES
-=======
+# Septoria prostrata Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodosporidium infirmo-miniatum Fell, Hunter, Tallman SPECIES
-=======
+# Rhodosporidium infirmo-miniatum Fell, Hunter, Tallman SPECIES
 
 #### Status
 ACCEPTED

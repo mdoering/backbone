@@ -1,5 +1,4 @@
-Cortinarius albofulminescens Rob. Henry SPECIES
-=======
+# Cortinarius albofulminescens Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

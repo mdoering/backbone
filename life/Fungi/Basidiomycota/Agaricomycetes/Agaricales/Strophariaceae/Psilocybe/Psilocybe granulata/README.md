@@ -1,5 +1,4 @@
-Psilocybe granulata Naveau SPECIES
-=======
+# Psilocybe granulata Naveau SPECIES
 
 #### Status
 ACCEPTED

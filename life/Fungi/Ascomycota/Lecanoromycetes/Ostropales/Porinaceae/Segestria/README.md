@@ -1,5 +1,4 @@
-Segestria GENUS
-=======
+# Segestria GENUS
 
 #### Status
 ACCEPTED

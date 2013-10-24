@@ -1,5 +1,4 @@
-Lopharia javanica Henn. & E. Nyman SPECIES
-=======
+# Lopharia javanica Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

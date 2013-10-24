@@ -1,5 +1,4 @@
-Polyporus sororius (P. Karst.) Sacc. SPECIES
-=======
+# Polyporus sororius (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

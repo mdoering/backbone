@@ -1,5 +1,4 @@
-Peltigera gandogeriana (M. Choisy) Zahlbr. SPECIES
-=======
+# Peltigera gandogeriana (M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

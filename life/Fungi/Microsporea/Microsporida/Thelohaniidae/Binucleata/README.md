@@ -1,5 +1,4 @@
-Binucleata D. Refardt, E. Decaestecker, P.T. J. Johnson & J. Vávra GENUS
-=======
+# Binucleata D. Refardt, E. Decaestecker, P.T. J. Johnson & J. Vávra GENUS
 
 #### Status
 ACCEPTED

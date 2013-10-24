@@ -1,5 +1,4 @@
-Cortinarius erraticus Peck SPECIES
-=======
+# Cortinarius erraticus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gymnodinium leopoliense Woloszynska SPECIES
-=======
+# Woloszynskia tenuissima (Lauterborn) R.H. Thompson SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

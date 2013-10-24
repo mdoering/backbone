@@ -1,14 +1,13 @@
-Jahnula sunyatsenii (Inderb.) K.L. Pang, E.B.G. Jones & Sivichai, 2002 SPECIES
-=======
+# Aliquandostipite sunyatsenii Inderb., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Pang, Abdel-Wahab, Sivichai, El-Sharouny & Jones, Mycol. Res. 106(9): 1037 (2002)
+Am. J. Bot. 88(1): 57 (2001)
 
 #### Original name
 Aliquandostipite sunyatsenii Inderb., 2001

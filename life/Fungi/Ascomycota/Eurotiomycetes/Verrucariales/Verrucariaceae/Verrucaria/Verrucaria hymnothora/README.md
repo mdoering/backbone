@@ -1,5 +1,4 @@
-Verrucaria hymnothora var. hymnothora VARIETY
-=======
+# Verrucaria hymnothora Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Lich. univ. (1810)
 
 #### Original name
-Verrucaria hymnothora var. hymnothora
+Verrucaria hymnothora Ach.
 
 ### Remarks
 null

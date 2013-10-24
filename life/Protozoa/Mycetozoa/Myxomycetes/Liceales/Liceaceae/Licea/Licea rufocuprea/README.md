@@ -1,5 +1,4 @@
-Licea rufocuprea Nann.-Bremek. & Y. Yamam., 1987 SPECIES
-=======
+# Licea rufocuprea Nann.-Bremek. & Y. Yamam., 1987 SPECIES
 
 #### Status
 ACCEPTED

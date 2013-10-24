@@ -1,5 +1,4 @@
-Coccomyces croceus Spooner, 1990 SPECIES
-=======
+# Coccomyces croceus Spooner, 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cystangium clavatum T. Lebel, 2003 SPECIES
-=======
+# Cystangium clavatum T. Lebel, 2003 SPECIES
 
 #### Status
 ACCEPTED

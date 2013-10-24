@@ -1,17 +1,16 @@
-Phomopsis samararum (Desm.) Höhn., 1917 SPECIES
-=======
+# Stagonospora samarorum (Desm.) Boerema, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 6(1): 25 (1970)
 
 #### Original name
-null
+Phoma samarorum Desm., 1828
 
 ### Remarks
 null

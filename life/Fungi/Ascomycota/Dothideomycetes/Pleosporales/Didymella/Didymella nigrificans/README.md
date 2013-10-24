@@ -1,5 +1,4 @@
-Didymella nigrificans P. Karst. SPECIES
-=======
+# Didymella nigrificans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

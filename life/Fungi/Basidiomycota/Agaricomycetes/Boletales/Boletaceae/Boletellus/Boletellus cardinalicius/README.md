@@ -1,5 +1,4 @@
-Boletellus cardinalicius R. Heim & Perr.-Bertr. SPECIES
-=======
+# Boletellus cardinalicius R. Heim & Perr.-Bertr. SPECIES
 
 #### Status
 ACCEPTED

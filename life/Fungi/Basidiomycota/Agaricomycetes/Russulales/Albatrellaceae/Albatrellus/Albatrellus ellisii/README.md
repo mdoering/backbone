@@ -1,14 +1,13 @@
-Polyporus ellisii Berk., 1878 SPECIES
-=======
+# Albatrellus ellisii (Berk.) Pouzar, 1966 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Grevillea 7(no. 41): 4 (1878)
+Folia geobot. phytotax. 1: 357 (1966)
 
 #### Original name
 Polyporus ellisii Berk., 1878

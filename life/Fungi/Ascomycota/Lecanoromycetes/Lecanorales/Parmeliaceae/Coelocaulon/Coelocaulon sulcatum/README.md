@@ -1,5 +1,4 @@
-Coelocaulon sulcatum SPECIES
-=======
+# Coelocaulon sulcatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora uttarkashiensis (Kamal, B.K. Gupta & C. Gupta) U. Braun & Crous SPECIES
-=======
+# Passalora uttarkashiensis (Kamal, B.K. Gupta & C. Gupta) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

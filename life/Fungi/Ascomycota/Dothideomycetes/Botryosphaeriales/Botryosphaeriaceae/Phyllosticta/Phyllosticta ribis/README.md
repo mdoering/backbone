@@ -1,5 +1,4 @@
-Phyllosticta ribis Ellis & Everh. SPECIES
-=======
+# Phyllosticta ribis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

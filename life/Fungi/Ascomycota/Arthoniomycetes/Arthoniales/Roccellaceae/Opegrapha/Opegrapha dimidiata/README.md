@@ -1,5 +1,4 @@
-Opegrapha dimidiata Müll. Arg. SPECIES
-=======
+# Opegrapha dimidiata Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

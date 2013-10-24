@@ -1,5 +1,4 @@
-Tepka Sanfilippo, Burckle, Martini & Riedel, 1973 GENUS
-=======
+# Tepka Sanfilippo, Burckle, Martini & Riedel, 1973 GENUS
 
 #### Status
 ACCEPTED

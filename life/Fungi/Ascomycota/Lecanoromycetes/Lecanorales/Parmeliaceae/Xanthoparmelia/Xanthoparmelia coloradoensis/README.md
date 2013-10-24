@@ -1,5 +1,4 @@
-Xanthoparmelia coloradoensis (Gyeln.) Hale SPECIES
-=======
+# Xanthoparmelia coloradoensis (Gyeln.) Hale SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Galiella spongiosa (Berk. & M.A. Curtis) Pfister SPECIES
-=======
+# Galiella spongiosa (Berk. & M.A. Curtis) Pfister SPECIES
 
 #### Status
 ACCEPTED

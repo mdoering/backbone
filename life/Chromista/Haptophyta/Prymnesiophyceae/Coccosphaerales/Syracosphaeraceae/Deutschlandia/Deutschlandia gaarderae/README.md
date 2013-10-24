@@ -1,5 +1,4 @@
-Deutschlandia gaarderae Perch-Nielsen, 1980 SPECIES
-=======
+# Deutschlandia gaarderae Perch-Nielsen, 1980 SPECIES
 
 #### Status
 ACCEPTED

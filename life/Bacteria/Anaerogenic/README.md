@@ -1,5 +1,4 @@
-Anaerogenic GENUS
-=======
+# Anaerogenic GENUS
 
 #### Status
 ACCEPTED

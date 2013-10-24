@@ -1,5 +1,4 @@
-Pertusaria subisidiosa A. W. Archer SPECIES
-=======
+# Pertusaria subisidiosa A. W. Archer SPECIES
 
 #### Status
 ACCEPTED

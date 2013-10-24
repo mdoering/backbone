@@ -1,5 +1,4 @@
-Pestalotiopsis quercicola (Kuhnh.-Lord. & J.P. Barry) X.A. Sun & Q.X. Ge SPECIES
-=======
+# Pestalotiopsis quercicola (Kuhnh.-Lord. & J.P. Barry) X.A. Sun & Q.X. Ge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria drogochiensis Petr. SPECIES
-=======
+# Septoria drogochiensis Petr. SPECIES
 
 #### Status
 ACCEPTED

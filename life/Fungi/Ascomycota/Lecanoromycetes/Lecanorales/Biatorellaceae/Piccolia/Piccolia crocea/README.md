@@ -1,5 +1,4 @@
-Piccolia crocea (Spreng.) A. Massal. SPECIES
-=======
+# Piccolia crocea (Spreng.) A. Massal. SPECIES
 
 #### Status
 ACCEPTED

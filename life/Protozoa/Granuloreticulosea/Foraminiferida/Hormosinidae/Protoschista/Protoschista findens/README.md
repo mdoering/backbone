@@ -1,8 +1,7 @@
-Reophax findens (Parker, 1870) SPECIES
-=======
+# Protoschista findens (Parker, 1870) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

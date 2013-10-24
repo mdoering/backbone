@@ -1,5 +1,4 @@
-Entoloma ritae Noordel. & Wölfel SPECIES
-=======
+# Entoloma ritae Noordel. & Wölfel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aithaloderma fici (Arnaud) Woron. SPECIES
-=======
+# Aithaloderma fici (Arnaud) Woron. SPECIES
 
 #### Status
 ACCEPTED

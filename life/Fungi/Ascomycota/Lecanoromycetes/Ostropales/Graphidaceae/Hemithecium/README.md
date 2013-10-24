@@ -1,5 +1,4 @@
-Hemithecium Trevis. GENUS
-=======
+# Hemithecium Trevis. GENUS
 
 #### Status
 ACCEPTED

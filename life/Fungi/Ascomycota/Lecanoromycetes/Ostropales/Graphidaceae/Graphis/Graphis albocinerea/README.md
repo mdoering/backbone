@@ -1,5 +1,4 @@
-Graphis albocinerea Vain. SPECIES
-=======
+# Graphis albocinerea Vain. SPECIES
 
 #### Status
 ACCEPTED

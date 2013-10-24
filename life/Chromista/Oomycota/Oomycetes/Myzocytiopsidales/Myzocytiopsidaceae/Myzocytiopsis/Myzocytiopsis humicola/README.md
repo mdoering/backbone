@@ -1,14 +1,13 @@
-Myzocytium humicola G.L. Barron & Percy, 1975 SPECIES
-=======
+# Myzocytiopsis humicola (G.L. Barron & Percy) M.W. Dick, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 53(13): 1306 (1975)
+Mycol. Res. 101(7): 879 (1997)
 
 #### Original name
 Myzocytium humicola G.L. Barron & Percy, 1975

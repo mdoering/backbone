@@ -1,5 +1,4 @@
-Sphaeromyces Montagne, 1845 GENUS
-=======
+# Sphaeromyces Montagne, 1845 GENUS
 
 #### Status
 ACCEPTED

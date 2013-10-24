@@ -1,5 +1,4 @@
-Buellia georgei Trinkaus, H. Mayrhofer & Elix SPECIES
-=======
+# Buellia georgei Trinkaus, H. Mayrhofer & Elix SPECIES
 
 #### Status
 ACCEPTED

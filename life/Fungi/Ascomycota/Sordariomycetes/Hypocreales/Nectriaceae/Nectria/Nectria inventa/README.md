@@ -1,5 +1,4 @@
-Nectria inventa Pethybr., 1919 SPECIES
-=======
+# Nectria inventa Pethybr., 1919 SPECIES
 
 #### Status
 ACCEPTED

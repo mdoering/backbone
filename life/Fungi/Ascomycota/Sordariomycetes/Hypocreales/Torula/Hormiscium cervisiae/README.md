@@ -1,5 +1,4 @@
-Hormiscium cervisiae Bonord. SPECIES
-=======
+# Hormiscium cervisiae Bonord. SPECIES
 
 #### Status
 ACCEPTED

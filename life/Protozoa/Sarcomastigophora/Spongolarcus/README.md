@@ -1,5 +1,4 @@
-Spongolarcus Haeckel, 1887 GENUS
-=======
+# Spongolarcus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

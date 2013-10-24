@@ -1,5 +1,4 @@
-Dasyscyphus corticola (Massee) Dennis SPECIES
-=======
+# Dasyscyphus corticola (Massee) Dennis SPECIES
 
 #### Status
 ACCEPTED

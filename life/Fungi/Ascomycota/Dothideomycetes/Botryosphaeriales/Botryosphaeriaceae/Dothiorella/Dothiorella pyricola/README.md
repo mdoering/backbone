@@ -1,17 +1,16 @@
-Dothiorella piricola S. Ahmad SPECIES
-=======
+# Dothiorella pyricola S. Ahmad SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biologia, Lahore 17: 73 (1971)
 
 #### Original name
-Dothiorella piricola S. Ahmad
+Dothiorella pyricola S. Ahmad
 
 ### Remarks
 null

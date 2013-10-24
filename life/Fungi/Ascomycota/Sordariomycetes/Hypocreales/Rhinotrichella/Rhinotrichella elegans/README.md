@@ -1,5 +1,4 @@
-Rhinotrichella elegans R.F. Castañeda & Crous SPECIES
-=======
+# Rhinotrichella elegans R.F. Castañeda & Crous SPECIES
 
 #### Status
 ACCEPTED

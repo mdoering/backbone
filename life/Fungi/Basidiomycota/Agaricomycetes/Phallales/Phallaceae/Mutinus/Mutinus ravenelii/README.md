@@ -1,17 +1,16 @@
-Corynites ravenelli Berk. & M.A. Curtis SPECIES
-=======
+# Mutinus ravenelii (Berk. & M.A. Curtis) E. Fisch., 1888 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Berlese, De Toni & Fischer, Syll. fung. (Abellini) 7: 13 (1888)
 
 #### Original name
-Corynites ravenelli Berk. & M.A. Curtis
+Corynites ravenelii Berk. & M.A. Curtis, 1853
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Leptosphaeria variiseptata G.L. Stout SPECIES
-=======
+# Leptosphaeria variiseptata G.L. Stout SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dichotomococcus Korshikov, 1928 GENUS
-=======
+# Dichotomococcus Korshikov, 1928 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Loxostomum formosana (Nakamura) SPECIES
-=======
+# Loxostomum formosana (Nakamura) SPECIES
 
 #### Status
 ACCEPTED

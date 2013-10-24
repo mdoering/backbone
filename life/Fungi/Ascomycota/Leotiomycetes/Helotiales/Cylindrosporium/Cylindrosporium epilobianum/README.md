@@ -1,5 +1,4 @@
-Cylindrosporium epilobianum Sacc. & Fautrey SPECIES
-=======
+# Cylindrosporium epilobianum Sacc. & Fautrey SPECIES
 
 #### Status
 ACCEPTED

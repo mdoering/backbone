@@ -1,5 +1,4 @@
-Krombholziella coloratipes (Singer) Courtec. SPECIES
-=======
+# Krombholziella coloratipes (Singer) Courtec. SPECIES
 
 #### Status
 ACCEPTED

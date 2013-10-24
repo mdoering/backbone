@@ -1,5 +1,4 @@
-Macrophoma salicina Sacc. SPECIES
-=======
+# Macrophoma salicina Sacc. SPECIES
 
 #### Status
 ACCEPTED

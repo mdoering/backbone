@@ -1,5 +1,4 @@
-Fistulina firma Peck SPECIES
-=======
+# Fistulina firma Peck SPECIES
 
 #### Status
 ACCEPTED

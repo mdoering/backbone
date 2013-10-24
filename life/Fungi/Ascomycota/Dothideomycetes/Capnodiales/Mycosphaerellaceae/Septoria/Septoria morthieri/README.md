@@ -1,5 +1,4 @@
-Septoria morthieri Höhn. SPECIES
-=======
+# Septoria morthieri Höhn. SPECIES
 
 #### Status
 ACCEPTED

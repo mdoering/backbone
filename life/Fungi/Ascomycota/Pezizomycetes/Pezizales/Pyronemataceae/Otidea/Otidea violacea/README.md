@@ -1,5 +1,4 @@
-Otidea violacea A.L. Sm. & Ramsb., 1916 SPECIES
-=======
+# Otidea violacea A.L. Sm. & Ramsb., 1916 SPECIES
 
 #### Status
 ACCEPTED

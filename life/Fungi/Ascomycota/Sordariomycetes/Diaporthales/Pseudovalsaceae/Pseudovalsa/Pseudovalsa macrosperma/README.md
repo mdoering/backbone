@@ -1,5 +1,4 @@
-Pseudovalsa macrosperma (Tul. & C. Tul.) Sacc. SPECIES
-=======
+# Pseudovalsa macrosperma (Tul. & C. Tul.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

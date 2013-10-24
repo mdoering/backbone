@@ -1,5 +1,4 @@
-Pezizella translucens (Gillet) Sacc. SPECIES
-=======
+# Pezizella translucens (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

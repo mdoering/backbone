@@ -1,5 +1,4 @@
-Solisphaera blagnacensis Bollmann, Cortés, Kleijne, Østergaard & Younggen, 2006 SPECIES
-=======
+# Solisphaera blagnacensis Bollmann, Cortés, Kleijne, Østergaard & Younggen, 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium lunula Höhn. SPECIES
-=======
+# Leptothyrium lunula Höhn. SPECIES
 
 #### Status
 ACCEPTED

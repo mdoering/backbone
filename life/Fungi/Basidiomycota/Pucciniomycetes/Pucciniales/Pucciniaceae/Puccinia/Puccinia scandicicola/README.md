@@ -1,17 +1,16 @@
-Puccinia scandicola Annal. SPECIES
-=======
+# Puccinia scandicicola Annal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nov. sist. Niz. Rast. 18: 56 (1981)
 
 #### Original name
-Puccinia scandicola Annal.
+Puccinia scandicicola Annal.
 
 ### Remarks
 null

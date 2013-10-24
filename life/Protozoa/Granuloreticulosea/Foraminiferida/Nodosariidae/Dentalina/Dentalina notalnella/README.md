@@ -1,5 +1,4 @@
-Dentalina notalnella Saidova, 1975 SPECIES
-=======
+# Dentalina notalnella Saidova, 1975 SPECIES
 
 #### Status
 ACCEPTED

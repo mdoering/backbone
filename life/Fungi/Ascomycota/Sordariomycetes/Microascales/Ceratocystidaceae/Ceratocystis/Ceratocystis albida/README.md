@@ -1,5 +1,4 @@
-Ceratocystis albida (Math.-Käärik) J. Hunt SPECIES
-=======
+# Ceratocystis albida (Math.-Käärik) J. Hunt SPECIES
 
 #### Status
 ACCEPTED

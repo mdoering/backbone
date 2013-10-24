@@ -1,5 +1,4 @@
-Parahistioneis GENUS
-=======
+# Parahistioneis GENUS
 
 #### Status
 ACCEPTED

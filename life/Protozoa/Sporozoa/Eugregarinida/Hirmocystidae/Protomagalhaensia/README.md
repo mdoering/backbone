@@ -1,5 +1,4 @@
-Protomagalhaensia Pinto, 1918 GENUS
-=======
+# Protomagalhaensia Pinto, 1918 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spegazziniella congoensis Bat. & J.L. Bezerra SPECIES
-=======
+# Spegazziniella congoensis Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

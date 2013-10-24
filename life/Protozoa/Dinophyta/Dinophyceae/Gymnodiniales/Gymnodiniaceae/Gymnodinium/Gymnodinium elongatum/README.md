@@ -1,5 +1,4 @@
-Gymnodinium elongatum Hope SPECIES
-=======
+# Gymnodinium elongatum Hope SPECIES
 
 #### Status
 ACCEPTED

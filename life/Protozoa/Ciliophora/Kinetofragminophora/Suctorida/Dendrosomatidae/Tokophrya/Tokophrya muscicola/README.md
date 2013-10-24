@@ -1,5 +1,4 @@
-Tokophrya muscicola Penard, 1914 SPECIES
-=======
+# Tokophrya muscicola Penard, 1914 SPECIES
 
 #### Status
 ACCEPTED

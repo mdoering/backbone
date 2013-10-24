@@ -1,5 +1,4 @@
-Cyphella australiensis Cooke SPECIES
-=======
+# Cyphella australiensis Cooke SPECIES
 
 #### Status
 ACCEPTED

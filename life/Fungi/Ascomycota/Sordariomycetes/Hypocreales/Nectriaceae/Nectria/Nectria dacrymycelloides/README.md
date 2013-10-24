@@ -1,5 +1,4 @@
-Nectria dacrymycelloides Rehm SPECIES
-=======
+# Nectria dacrymycelloides Rehm SPECIES
 
 #### Status
 ACCEPTED

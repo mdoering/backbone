@@ -1,5 +1,4 @@
-Hysterium viticola Cooke & Peck SPECIES
-=======
+# Hysterium viticola Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus rambellii Frisvad & Samson SPECIES
-=======
+# Aspergillus rambellii Frisvad & Samson SPECIES
 
 #### Status
 ACCEPTED

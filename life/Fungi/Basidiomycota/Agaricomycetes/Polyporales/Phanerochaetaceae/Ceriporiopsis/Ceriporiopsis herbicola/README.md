@@ -1,5 +1,4 @@
-Ceriporiopsis herbicola Fortey & Ryvarden SPECIES
-=======
+# Ceriporiopsis herbicola Fortey & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

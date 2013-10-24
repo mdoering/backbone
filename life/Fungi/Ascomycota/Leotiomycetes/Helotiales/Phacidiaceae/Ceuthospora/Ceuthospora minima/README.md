@@ -1,5 +1,4 @@
-Ceuthospora minima Cooke & Harkn. SPECIES
-=======
+# Ceuthospora minima Cooke & Harkn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteriscus irregularis Kowalski, 1983 SPECIES
-=======
+# Asteriscus irregularis Kowalski, 1983 SPECIES
 
 #### Status
 ACCEPTED

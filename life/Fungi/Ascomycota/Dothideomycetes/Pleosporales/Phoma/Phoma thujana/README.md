@@ -1,5 +1,4 @@
-Phoma thujana Thüm., 1877 SPECIES
-=======
+# Phoma thujana Thüm., 1877 SPECIES
 
 #### Status
 ACCEPTED

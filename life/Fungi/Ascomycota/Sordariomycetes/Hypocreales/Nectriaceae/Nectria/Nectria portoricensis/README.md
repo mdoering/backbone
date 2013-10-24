@@ -1,5 +1,4 @@
-Nectria portoricensis F. Stevens SPECIES
-=======
+# Nectria portoricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

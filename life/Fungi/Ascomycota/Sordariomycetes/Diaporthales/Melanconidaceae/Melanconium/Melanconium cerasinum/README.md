@@ -1,5 +1,4 @@
-Melanconium cerasinum Peck SPECIES
-=======
+# Melanconium cerasinum Peck SPECIES
 
 #### Status
 ACCEPTED

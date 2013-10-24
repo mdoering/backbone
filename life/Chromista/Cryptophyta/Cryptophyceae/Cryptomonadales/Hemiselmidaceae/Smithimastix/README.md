@@ -1,5 +1,4 @@
-Smithimastix B.V. Skvortzov, 1969 GENUS
-=======
+# Smithimastix B.V. Skvortzov, 1969 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelenella ochroleucodes Vain. SPECIES
-=======
+# Thelenella ochroleucodes Vain. SPECIES
 
 #### Status
 ACCEPTED

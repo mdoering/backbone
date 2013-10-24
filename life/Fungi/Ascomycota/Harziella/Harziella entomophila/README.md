@@ -1,5 +1,4 @@
-Harziella entomophila Ishiwata {?} & I. Miyake SPECIES
-=======
+# Harziella entomophila Ishiwata {?} & I. Miyake SPECIES
 
 #### Status
 ACCEPTED

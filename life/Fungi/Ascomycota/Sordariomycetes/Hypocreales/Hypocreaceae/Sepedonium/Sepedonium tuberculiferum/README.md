@@ -1,5 +1,4 @@
-Sepedonium tuberculiferum Ellis & Everh. SPECIES
-=======
+# Sepedonium tuberculiferum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

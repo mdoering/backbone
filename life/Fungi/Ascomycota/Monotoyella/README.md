@@ -1,5 +1,4 @@
-Monotoyella Castell. & Chalm. GENUS
-=======
+# Monotoyella Castell. & Chalm. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cenosphaera reticulata Clark & Campbell, 1945 SPECIES
-=======
+# Cenosphaera reticulata Clark & Campbell, 1945 SPECIES
 
 #### Status
 ACCEPTED

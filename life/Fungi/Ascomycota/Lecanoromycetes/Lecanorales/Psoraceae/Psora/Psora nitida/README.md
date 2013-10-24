@@ -1,5 +1,4 @@
-Psora nitida Timdal SPECIES
-=======
+# Psora nitida Timdal SPECIES
 
 #### Status
 ACCEPTED

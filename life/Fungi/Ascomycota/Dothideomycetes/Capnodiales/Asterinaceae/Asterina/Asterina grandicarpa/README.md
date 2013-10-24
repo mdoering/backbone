@@ -1,5 +1,4 @@
-Asterina grandicarpa Mibey SPECIES
-=======
+# Asterina grandicarpa Mibey SPECIES
 
 #### Status
 ACCEPTED

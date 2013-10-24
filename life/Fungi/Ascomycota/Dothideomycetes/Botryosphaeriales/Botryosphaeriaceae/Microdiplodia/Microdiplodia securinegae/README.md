@@ -1,5 +1,4 @@
-Microdiplodia securinegae Koshk. & Frolov SPECIES
-=======
+# Microdiplodia securinegae Koshk. & Frolov SPECIES
 
 #### Status
 ACCEPTED

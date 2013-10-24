@@ -1,5 +1,4 @@
-Calloria leucostigmoides Sacc. SPECIES
-=======
+# Calloria leucostigmoides Sacc. SPECIES
 
 #### Status
 ACCEPTED

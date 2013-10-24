@@ -1,5 +1,4 @@
-Olpidiomorpha Scherff. GENUS
-=======
+# Olpidiomorpha Scherff. GENUS
 
 #### Status
 ACCEPTED

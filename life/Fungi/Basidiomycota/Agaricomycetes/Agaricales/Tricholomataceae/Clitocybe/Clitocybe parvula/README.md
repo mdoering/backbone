@@ -1,5 +1,4 @@
-Clitocybe parvula Murrill SPECIES
-=======
+# Clitocybe parvula Murrill SPECIES
 
 #### Status
 ACCEPTED

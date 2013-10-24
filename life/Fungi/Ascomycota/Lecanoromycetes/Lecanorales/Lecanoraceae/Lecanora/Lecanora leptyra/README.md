@@ -1,5 +1,4 @@
-Lecanora leptyra (Ach.) Röhl. SPECIES
-=======
+# Lecanora leptyra (Ach.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

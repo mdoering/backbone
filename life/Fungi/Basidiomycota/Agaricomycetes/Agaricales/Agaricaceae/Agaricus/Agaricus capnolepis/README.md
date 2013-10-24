@@ -1,5 +1,4 @@
-Agaricus capnolepis Kalchbr. SPECIES
-=======
+# Agaricus capnolepis Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

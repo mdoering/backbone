@@ -1,5 +1,4 @@
-Rivularia hansgirgi Schmidle SPECIES
-=======
+# Rivularia hansgirgi Schmidle SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria paridis Pass. SPECIES
-=======
+# Septoria paridis Pass. SPECIES
 
 #### Status
 ACCEPTED

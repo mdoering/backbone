@@ -1,5 +1,4 @@
-Peronospora trigonotidis S. Ito & Tokun. SPECIES
-=======
+# Peronospora trigonotidis S. Ito & Tokun. SPECIES
 
 #### Status
 ACCEPTED

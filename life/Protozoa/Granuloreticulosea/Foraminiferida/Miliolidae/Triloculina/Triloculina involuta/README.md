@@ -1,5 +1,4 @@
-Triloculina involuta Todd, 1954 SPECIES
-=======
+# Triloculina involuta Todd, 1954 SPECIES
 
 #### Status
 ACCEPTED

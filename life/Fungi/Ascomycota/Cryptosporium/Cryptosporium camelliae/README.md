@@ -1,5 +1,4 @@
-Cryptosporium camelliae Siemaszko SPECIES
-=======
+# Cryptosporium camelliae Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma leucostigma (DC.) Sacc., 1878 SPECIES
-=======
+# Metasphaeria hederae (Sowerby) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 2): 259 (1878)
+Syll. fung. (Abellini) 2: 169 (1883)
 
 #### Original name
-Sphaeropsis leucostigma DC., 1815
+Sphaeria hederae (Moug.) Sacc., 1883
 
 ### Remarks
 null

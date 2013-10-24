@@ -1,5 +1,4 @@
-Enteridium antarcticum Speg. SPECIES
-=======
+# Enteridium antarcticum Speg. SPECIES
 
 #### Status
 ACCEPTED

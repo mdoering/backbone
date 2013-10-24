@@ -1,5 +1,4 @@
-Triplosphaeria maxima Kaz. Tanaka & K. Hirayama, 2009 SPECIES
-=======
+# Triplosphaeria maxima Kaz. Tanaka & K. Hirayama, 2009 SPECIES
 
 #### Status
 ACCEPTED

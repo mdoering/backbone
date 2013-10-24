@@ -1,5 +1,4 @@
-Amphidinium emarginaum (Diesing, 1886) Kofoid & Swezy, 1921 SPECIES
-=======
+# Amphidinium emarginaum (Diesing, 1886) Kofoid & Swezy, 1921 SPECIES
 
 #### Status
 ACCEPTED

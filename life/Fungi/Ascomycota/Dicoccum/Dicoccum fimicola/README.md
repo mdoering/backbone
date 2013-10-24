@@ -1,5 +1,4 @@
-Dicoccum fimicola Tubaki, 1954 SPECIES
-=======
+# Dicoccum fimicola Tubaki, 1954 SPECIES
 
 #### Status
 ACCEPTED

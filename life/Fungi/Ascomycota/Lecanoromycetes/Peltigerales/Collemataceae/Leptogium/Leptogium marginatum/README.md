@@ -1,5 +1,4 @@
-Leptogium marginatum M. Lindstr. SPECIES
-=======
+# Leptogium marginatum M. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

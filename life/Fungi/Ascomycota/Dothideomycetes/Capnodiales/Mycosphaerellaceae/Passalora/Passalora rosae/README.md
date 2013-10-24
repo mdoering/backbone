@@ -1,14 +1,13 @@
-Cercospora rosae (Fuckel) Höhn., 1903 SPECIES
-=======
+# Passalora rosae (Fuckel) U. Braun, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 1(5): 412 (1903)
+Mycotaxon 55: 234 (1995)
 
 #### Original name
 Exosporium rosae Fuckel, 1870

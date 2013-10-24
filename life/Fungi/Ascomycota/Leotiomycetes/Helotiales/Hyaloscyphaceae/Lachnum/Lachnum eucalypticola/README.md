@@ -1,5 +1,4 @@
-Lachnum eucalypticola Spooner SPECIES
-=======
+# Lachnum eucalypticola Spooner SPECIES
 
 #### Status
 ACCEPTED

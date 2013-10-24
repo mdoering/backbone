@@ -1,5 +1,4 @@
-Trachydiscus Ettl, 1964 GENUS
-=======
+# Trachydiscus Ettl, 1964 GENUS
 
 #### Status
 ACCEPTED

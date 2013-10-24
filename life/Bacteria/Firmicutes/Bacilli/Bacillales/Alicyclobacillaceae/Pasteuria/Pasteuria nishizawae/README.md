@@ -1,5 +1,4 @@
-Pasteuria nishizawae Sayre et al., 1992 SPECIES
-=======
+# Pasteuria nishizawae Sayre et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

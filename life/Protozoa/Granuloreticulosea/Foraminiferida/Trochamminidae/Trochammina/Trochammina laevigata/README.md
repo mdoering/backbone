@@ -1,5 +1,4 @@
-Trochammina laevigata SPECIES
-=======
+# Trochammina laevigata SPECIES
 
 #### Status
 ACCEPTED

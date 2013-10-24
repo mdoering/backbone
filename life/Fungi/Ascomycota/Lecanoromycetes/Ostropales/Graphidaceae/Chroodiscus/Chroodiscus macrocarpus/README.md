@@ -1,17 +1,16 @@
-Chroodiscus macrocarpus subsp. macrocarpus SUBSPECIES
-=======
+# Chroodiscus macrocarpus (C. W. Dodge) D. J. Galloway SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Australasian Lichenology 49: 16 (2001)
+null
 
 #### Original name
-Chroodiscus macrocarpus subsp. macrocarpus
+null
 
 ### Remarks
 null

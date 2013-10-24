@@ -1,5 +1,4 @@
-Corticium terrestre (Kniep) Kniep SPECIES
-=======
+# Corticium terrestre (Kniep) Kniep SPECIES
 
 #### Status
 ACCEPTED

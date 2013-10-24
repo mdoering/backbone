@@ -1,5 +1,4 @@
-Ostreola viticola R. Rao & Modak SPECIES
-=======
+# Ostreola viticola R. Rao & Modak SPECIES
 
 #### Status
 ACCEPTED

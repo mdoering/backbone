@@ -1,5 +1,4 @@
-Omphalia dumosa (Fr.) Gillet SPECIES
-=======
+# Omphalia dumosa (Fr.) Gillet SPECIES
 
 #### Status
 ACCEPTED

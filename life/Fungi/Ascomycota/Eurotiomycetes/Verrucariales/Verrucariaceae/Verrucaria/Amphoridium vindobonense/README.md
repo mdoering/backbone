@@ -1,5 +1,4 @@
-Amphoridium vindobonense (Zschacke) Servít SPECIES
-=======
+# Amphoridium vindobonense (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

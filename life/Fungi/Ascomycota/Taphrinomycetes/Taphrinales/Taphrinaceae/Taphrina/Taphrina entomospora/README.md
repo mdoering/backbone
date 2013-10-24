@@ -1,5 +1,4 @@
-Taphrina entomospora Thaxt. SPECIES
-=======
+# Taphrina entomospora Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodia polygoni Ruhland SPECIES
-=======
+# Diplodia polygoni Ruhland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma celtidis Cooke SPECIES
-=======
+# Phoma celtidis Cooke SPECIES
 
 #### Status
 ACCEPTED

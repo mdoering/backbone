@@ -1,5 +1,4 @@
-Agaricus izarnii Roum. SPECIES
-=======
+# Agaricus izarnii Roum. SPECIES
 
 #### Status
 ACCEPTED

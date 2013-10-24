@@ -1,5 +1,4 @@
-Phyllosticta shiraiana P. Syd. SPECIES
-=======
+# Phyllosticta shiraiana P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hexagonia mimetes (Wakef.) D.A. Reid, 1975 SPECIES
-=======
+# Trametes mimetes (Wakef.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Contr. Bolus Herb. 7: 75 (1975)
+Norw. Jl Bot. 19: 236 (1972)
 
 #### Original name
 Polystictus mimetes Wakef., 1935

@@ -1,5 +1,4 @@
-Trichaegum atrum Preuss SPECIES
-=======
+# Trichaegum atrum Preuss SPECIES
 
 #### Status
 ACCEPTED

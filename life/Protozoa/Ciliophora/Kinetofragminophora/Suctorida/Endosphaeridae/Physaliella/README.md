@@ -1,5 +1,4 @@
-Physaliella Pénard, 1920-21 GENUS
-=======
+# Physaliella Pénard, 1920-21 GENUS
 
 #### Status
 ACCEPTED

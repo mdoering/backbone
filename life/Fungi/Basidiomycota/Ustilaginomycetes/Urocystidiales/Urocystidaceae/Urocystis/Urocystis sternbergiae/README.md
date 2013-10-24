@@ -1,5 +1,4 @@
-Urocystis sternbergiae Moesz SPECIES
-=======
+# Urocystis sternbergiae Moesz SPECIES
 
 #### Status
 ACCEPTED

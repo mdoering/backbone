@@ -1,5 +1,4 @@
-Xerocomus sulcatipes Heinem. & Gooss.-Font. SPECIES
-=======
+# Xerocomus sulcatipes Heinem. & Gooss.-Font. SPECIES
 
 #### Status
 ACCEPTED

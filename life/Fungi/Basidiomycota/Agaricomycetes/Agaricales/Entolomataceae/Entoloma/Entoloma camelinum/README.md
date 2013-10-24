@@ -1,5 +1,4 @@
-Entoloma camelinum (Lasch) P. Kumm. SPECIES
-=======
+# Entoloma camelinum (Lasch) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

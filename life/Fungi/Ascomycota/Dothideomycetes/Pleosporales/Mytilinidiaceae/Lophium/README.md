@@ -1,17 +1,16 @@
-Lophidium P. Karst. GENUS
-=======
+# Lophium E.M. Fries, 1823 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Bidr. Känn. Finl. Nat. Folk 23: 33, 247 (1873)
+null
 
 #### Original name
-Lophidium P. Karst.
+null
 
 ### Remarks
 null

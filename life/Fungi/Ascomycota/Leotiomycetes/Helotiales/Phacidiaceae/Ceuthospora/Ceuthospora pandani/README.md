@@ -1,5 +1,4 @@
-Ceuthospora pandani Verona SPECIES
-=======
+# Ceuthospora pandani Verona SPECIES
 
 #### Status
 ACCEPTED

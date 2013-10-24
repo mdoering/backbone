@@ -1,5 +1,4 @@
-Diplodina juglandina Hollós SPECIES
-=======
+# Diplodina juglandina Hollós SPECIES
 
 #### Status
 ACCEPTED

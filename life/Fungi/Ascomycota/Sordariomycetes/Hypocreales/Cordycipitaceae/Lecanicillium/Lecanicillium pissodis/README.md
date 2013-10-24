@@ -1,5 +1,4 @@
-Lecanicillium pissodis Kope & I. Leal, 2006 SPECIES
-=======
+# Lecanicillium pissodis Kope & I. Leal, 2006 SPECIES
 
 #### Status
 ACCEPTED

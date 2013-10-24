@@ -1,5 +1,4 @@
-Sporotrichum minutulum Speg. SPECIES
-=======
+# Sporotrichum minutulum Speg. SPECIES
 
 #### Status
 ACCEPTED

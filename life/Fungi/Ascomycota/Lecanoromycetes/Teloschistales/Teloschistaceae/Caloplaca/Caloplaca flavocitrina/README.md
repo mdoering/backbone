@@ -1,14 +1,13 @@
-Placodium citrinum f. flavocitrina (Nyl.) Walt. Watson FORM
-=======
+# Caloplaca flavocitrina (Nyl.) H. Olivier SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Monogr. Brit. Lich. 1: 207 (1918)
+Mém. Soc. natn. Sci. nat. math. Cherbourg 37: 110 (1909)
 
 #### Original name
 Lecanora flavocitrina Nyl.

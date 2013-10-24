@@ -1,5 +1,4 @@
-Paxillus pahangensis Corner SPECIES
-=======
+# Paxillus pahangensis Corner SPECIES
 
 #### Status
 ACCEPTED

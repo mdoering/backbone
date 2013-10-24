@@ -1,5 +1,4 @@
-Lecidea atrolurida C. Knight SPECIES
-=======
+# Lecidea atrolurida C. Knight SPECIES
 
 #### Status
 ACCEPTED

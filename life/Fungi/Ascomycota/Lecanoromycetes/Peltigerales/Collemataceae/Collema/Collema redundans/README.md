@@ -1,5 +1,4 @@
-Collema redundans Nyl. SPECIES
-=======
+# Collema redundans Nyl. SPECIES
 
 #### Status
 ACCEPTED

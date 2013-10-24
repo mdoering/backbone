@@ -1,5 +1,4 @@
-Passalora peltophori S.K. Singh, P.N. Singh & P. Mishra SPECIES
-=======
+# Passalora peltophori S.K. Singh, P.N. Singh & P. Mishra SPECIES
 
 #### Status
 ACCEPTED

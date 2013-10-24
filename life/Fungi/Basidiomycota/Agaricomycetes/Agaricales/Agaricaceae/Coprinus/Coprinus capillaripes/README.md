@@ -1,5 +1,4 @@
-Coprinus capillaripes Murrill SPECIES
-=======
+# Coprinus capillaripes Murrill SPECIES
 
 #### Status
 ACCEPTED

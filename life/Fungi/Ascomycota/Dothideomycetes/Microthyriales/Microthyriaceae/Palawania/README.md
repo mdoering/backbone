@@ -1,5 +1,4 @@
-Palawania Syd. & P. Syd. GENUS
-=======
+# Palawania Syd. & P. Syd. GENUS
 
 #### Status
 ACCEPTED

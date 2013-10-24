@@ -1,5 +1,4 @@
-Biatora viridiatra Stenh. SPECIES
-=======
+# Biatora viridiatra Stenh. SPECIES
 
 #### Status
 ACCEPTED

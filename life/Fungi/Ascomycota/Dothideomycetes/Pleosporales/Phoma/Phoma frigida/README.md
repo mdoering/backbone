@@ -1,5 +1,4 @@
-Phoma frigida Sacc. SPECIES
-=======
+# Phoma frigida Sacc. SPECIES
 
 #### Status
 ACCEPTED

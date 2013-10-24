@@ -1,8 +1,7 @@
-Phormidium corium (C. Agardh) Kützing SPECIES
-=======
+# Phormidium papyraceum (C. Agardh) Gomont SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

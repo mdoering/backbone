@@ -1,5 +1,4 @@
-Tilletia poae Nagorny SPECIES
-=======
+# Tilletia poae Nagorny SPECIES
 
 #### Status
 ACCEPTED

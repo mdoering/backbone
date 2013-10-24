@@ -1,17 +1,16 @@
-Stenellopsis Morgan-Jones, 1980 GENUS
-=======
+# Parastenella J.C. David, 1991 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-IRMNG Homonym List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 95(1): 124 (1991)
 
 #### Original name
-null
+Parastenella J.C. David, 1991
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Nodulosphaeria rosae I. Hino & Katum. SPECIES
-=======
+# Nodulosphaeria rosae I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniosporium caricis-montanae J. Lindau SPECIES
-=======
+# Coniosporium caricis-montanae J. Lindau SPECIES
 
 #### Status
 ACCEPTED

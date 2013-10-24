@@ -1,14 +1,13 @@
-Phaeotrema catastictum (Tuck.) Zahlbr. SPECIES
-=======
+# Thelotrema catastictum Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Cat. Lich. Univers. 2: 606 (1923)
+null
 
 #### Original name
 Thelotrema catastictum Tuck.

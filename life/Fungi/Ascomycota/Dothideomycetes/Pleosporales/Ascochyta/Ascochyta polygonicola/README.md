@@ -1,5 +1,4 @@
-Ascochyta polygonicola Kabát & Bubák SPECIES
-=======
+# Ascochyta polygonicola Kabát & Bubák SPECIES
 
 #### Status
 ACCEPTED

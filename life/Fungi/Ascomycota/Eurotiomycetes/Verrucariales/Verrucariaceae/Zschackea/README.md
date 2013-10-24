@@ -1,5 +1,4 @@
-Zschackea GENUS
-=======
+# Zschackea GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium elephantis Shojaei et al., 2000 SPECIES
-=======
+# Mycobacterium elephantis Shojaei et al., 2000 SPECIES
 
 #### Status
 ACCEPTED

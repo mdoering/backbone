@@ -1,5 +1,4 @@
-Uromyces orientalis Syd. & P. Syd., 1907 SPECIES
-=======
+# Uromyces orientalis Syd. & P. Syd., 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytosporina hysterioides Cooke SPECIES
-=======
+# Cytosporina hysterioides Cooke SPECIES
 
 #### Status
 ACCEPTED

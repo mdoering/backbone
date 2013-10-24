@@ -1,5 +1,4 @@
-Acrotheca verrucosa Tschernjawski {?} SPECIES
-=======
+# Acrotheca verrucosa Tschernjawski {?} SPECIES
 
 #### Status
 ACCEPTED

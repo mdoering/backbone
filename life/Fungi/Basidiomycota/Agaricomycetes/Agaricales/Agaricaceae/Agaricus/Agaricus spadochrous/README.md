@@ -1,5 +1,4 @@
-Agaricus spadochrous Krombh. SPECIES
-=======
+# Agaricus spadochrous Krombh. SPECIES
 
 #### Status
 ACCEPTED

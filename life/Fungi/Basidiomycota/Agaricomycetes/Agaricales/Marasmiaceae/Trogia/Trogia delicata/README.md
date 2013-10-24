@@ -1,5 +1,4 @@
-Trogia delicata Corner SPECIES
-=======
+# Trogia delicata Corner SPECIES
 
 #### Status
 ACCEPTED

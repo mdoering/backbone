@@ -1,17 +1,16 @@
-Agaricus dealbatus var. dealbatus VARIETY
-=======
+# Psathyrella cernua (Vahl) M.M. Moser, 1984 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Wiss. Z. Friedrich Schiller-Univ. Jena, Math. -nat. Reihe 33(6): 815 (1984)
 
 #### Original name
-Agaricus dealbatus var. dealbatus
+Agaricus cernuus Vahl, 1790
 
 ### Remarks
 null

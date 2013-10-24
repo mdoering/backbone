@@ -1,5 +1,4 @@
-Methanolobus oregonensis (Liu et al., 1990) Boone, 2002 SPECIES
-=======
+# Methanolobus oregonensis (Liu et al., 1990) Boone, 2002 SPECIES
 
 #### Status
 ACCEPTED

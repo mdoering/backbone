@@ -1,5 +1,4 @@
-Ehrenbergina mestayeri Cushman, 1922 SPECIES
-=======
+# Ehrenbergina mestayeri Cushman, 1922 SPECIES
 
 #### Status
 ACCEPTED

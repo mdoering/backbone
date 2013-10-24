@@ -1,5 +1,4 @@
-Sphaerella paleicola Henn. SPECIES
-=======
+# Sphaerella paleicola Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypodermium rhinanthearum Link SPECIES
-=======
+# Hypodermium rhinanthearum Link SPECIES
 
 #### Status
 ACCEPTED

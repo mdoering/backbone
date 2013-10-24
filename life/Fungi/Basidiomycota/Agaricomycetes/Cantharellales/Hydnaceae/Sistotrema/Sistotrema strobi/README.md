@@ -1,5 +1,4 @@
-Sistotrema strobi N. Terracc. SPECIES
-=======
+# Sistotrema strobi N. Terracc. SPECIES
 
 #### Status
 ACCEPTED

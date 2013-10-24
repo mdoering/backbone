@@ -1,14 +1,13 @@
-Sphyridium fungiformis (Scop.) Flot. SPECIES
-=======
+# Sphyridium fungiforme (Scop.) Flot. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Uebers. Arbeiten Veränd. Schles. Ges. Vaterl. Kultu, 1824 (1843)
 
 #### Original name
 Lichen fungiformis Scop.

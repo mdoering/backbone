@@ -1,5 +1,4 @@
-Syncarpella sulcata (Ellis) M.E. Barr & Boise SPECIES
-=======
+# Syncarpella sulcata (Ellis) M.E. Barr & Boise SPECIES
 
 #### Status
 ACCEPTED

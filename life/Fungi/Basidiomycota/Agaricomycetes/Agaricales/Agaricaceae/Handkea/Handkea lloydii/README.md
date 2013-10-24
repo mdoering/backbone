@@ -1,5 +1,4 @@
-Handkea lloydii (Zeller & Coker) Kreisel SPECIES
-=======
+# Handkea lloydii (Zeller & Coker) Kreisel SPECIES
 
 #### Status
 ACCEPTED

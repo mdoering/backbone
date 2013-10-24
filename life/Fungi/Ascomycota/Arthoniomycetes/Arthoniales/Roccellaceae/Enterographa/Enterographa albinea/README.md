@@ -1,5 +1,4 @@
-Enterographa albinea (Nyl.) C.W. Dodge SPECIES
-=======
+# Enterographa albinea (Nyl.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

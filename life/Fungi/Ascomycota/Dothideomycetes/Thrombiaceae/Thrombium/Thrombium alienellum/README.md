@@ -1,5 +1,4 @@
-Thrombium alienellum (Nyl.) Zschacke SPECIES
-=======
+# Thrombium alienellum (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED

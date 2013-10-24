@@ -1,5 +1,4 @@
-Cortinarius penicillatus Fr. SPECIES
-=======
+# Cortinarius penicillatus Fr. SPECIES
 
 #### Status
 ACCEPTED

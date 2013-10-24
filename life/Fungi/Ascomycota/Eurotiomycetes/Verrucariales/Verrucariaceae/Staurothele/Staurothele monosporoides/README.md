@@ -1,5 +1,4 @@
-Staurothele monosporoides R. Sant. SPECIES
-=======
+# Staurothele monosporoides R. Sant. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerella asterinaeformis Sacc. & P. Syd. SPECIES
-=======
+# Sphaerella asterinaeformis Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

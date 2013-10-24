@@ -1,5 +1,4 @@
-Pyrenophora antarctica Speg. SPECIES
-=======
+# Pyrenophora antarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Schiffnerula salviae Hansf. SPECIES
-=======
+# Schiffnerula salviae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Staurolemma Körb. GENUS
-=======
+# Staurolemma Körb. GENUS
 
 #### Status
 ACCEPTED

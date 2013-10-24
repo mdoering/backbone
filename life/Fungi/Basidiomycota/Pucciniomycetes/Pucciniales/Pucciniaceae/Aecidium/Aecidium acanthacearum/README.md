@@ -1,5 +1,4 @@
-Aecidium acanthacearum Cooke SPECIES
-=======
+# Aecidium acanthacearum Cooke SPECIES
 
 #### Status
 ACCEPTED

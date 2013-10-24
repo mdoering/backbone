@@ -1,5 +1,4 @@
-Diaporthe catamarcensis Speg. SPECIES
-=======
+# Diaporthe catamarcensis Speg. SPECIES
 
 #### Status
 ACCEPTED

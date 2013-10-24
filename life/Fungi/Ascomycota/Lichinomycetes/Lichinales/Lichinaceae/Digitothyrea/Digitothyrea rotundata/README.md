@@ -1,14 +1,13 @@
-Thyrea rotundata Bündel, Henssen & Wessels SPECIES
-=======
+# Digitothyrea rotundata (Bündel, Henssen & Wessels) Moreno & Egea SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 22(1): 191 (1985)
+Lichenologist 24(3): 225 (1992)
 
 #### Original name
 Thyrea rotundata Bündel, Henssen & Wessels

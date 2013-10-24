@@ -1,5 +1,4 @@
-Cercospora antigoni M.L. Farr SPECIES
-=======
+# Cercospora antigoni M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

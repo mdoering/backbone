@@ -1,5 +1,4 @@
-Uredo vagans anon. SPECIES
-=======
+# Uredo vagans anon. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdostromellina GENUS
-=======
+# Rhabdostromellina GENUS
 
 #### Status
 ACCEPTED

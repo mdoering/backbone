@@ -1,5 +1,4 @@
-Pestalotia malorum Elenkin & Ohl SPECIES
-=======
+# Pestalotia malorum Elenkin & Ohl SPECIES
 
 #### Status
 ACCEPTED

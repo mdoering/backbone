@@ -1,5 +1,4 @@
-Septoria ambigua Sacc. SPECIES
-=======
+# Septoria ambigua Sacc. SPECIES
 
 #### Status
 ACCEPTED

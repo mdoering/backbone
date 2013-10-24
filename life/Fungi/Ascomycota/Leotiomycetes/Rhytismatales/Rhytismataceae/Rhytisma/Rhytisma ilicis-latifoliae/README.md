@@ -1,5 +1,4 @@
-Rhytisma ilicis-latifoliae Henn., 1899 SPECIES
-=======
+# Rhytisma ilicis-latifoliae Henn., 1899 SPECIES
 
 #### Status
 ACCEPTED

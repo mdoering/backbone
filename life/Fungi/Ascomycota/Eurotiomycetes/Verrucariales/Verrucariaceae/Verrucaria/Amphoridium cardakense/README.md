@@ -1,5 +1,4 @@
-Amphoridium cardakense (Servít) Servít SPECIES
-=======
+# Amphoridium cardakense (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

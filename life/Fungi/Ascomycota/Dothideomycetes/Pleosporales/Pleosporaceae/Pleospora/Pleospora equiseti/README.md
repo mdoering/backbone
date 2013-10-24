@@ -1,5 +1,4 @@
-Pleospora equiseti A.L. Sm., 1909 SPECIES
-=======
+# Pleospora equiseti A.L. Sm., 1909 SPECIES
 
 #### Status
 ACCEPTED

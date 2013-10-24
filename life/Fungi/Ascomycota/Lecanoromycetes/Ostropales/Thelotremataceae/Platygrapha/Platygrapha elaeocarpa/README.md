@@ -1,5 +1,4 @@
-Platygrapha elaeocarpa Nyl. SPECIES
-=======
+# Platygrapha elaeocarpa Nyl. SPECIES
 
 #### Status
 ACCEPTED

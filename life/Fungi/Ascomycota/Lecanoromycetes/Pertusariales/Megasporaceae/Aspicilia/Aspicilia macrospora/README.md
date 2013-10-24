@@ -1,5 +1,4 @@
-Aspicilia macrospora B. de Lesd. SPECIES
-=======
+# Aspicilia macrospora B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Catillaria stictella (Stirt.) Zahlbr. SPECIES
-=======
+# Catillaria stictella (Stirt.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces derispiae Thaxt. SPECIES
-=======
+# Dimeromyces derispiae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

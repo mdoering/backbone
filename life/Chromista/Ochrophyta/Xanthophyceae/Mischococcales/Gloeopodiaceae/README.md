@@ -1,5 +1,4 @@
-Gloeopodiaceae FAMILY
-=======
+# Gloeopodiaceae FAMILY
 
 #### Status
 ACCEPTED

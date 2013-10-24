@@ -1,5 +1,4 @@
-Periconiella mucunae M.B. Ellis SPECIES
-=======
+# Periconiella mucunae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

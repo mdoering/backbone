@@ -1,5 +1,4 @@
-Lenticulina calcar (Linne) SPECIES
-=======
+# Lenticulina calcar (Linne) SPECIES
 
 #### Status
 ACCEPTED

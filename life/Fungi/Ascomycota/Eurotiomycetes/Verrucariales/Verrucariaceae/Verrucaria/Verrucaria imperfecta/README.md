@@ -1,5 +1,4 @@
-Verrucaria imperfecta Servít SPECIES
-=======
+# Verrucaria imperfecta Servít SPECIES
 
 #### Status
 ACCEPTED

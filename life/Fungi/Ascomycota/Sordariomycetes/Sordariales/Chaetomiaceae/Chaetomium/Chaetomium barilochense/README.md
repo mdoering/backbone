@@ -1,5 +1,4 @@
-Chaetomium barilochense Calviello, 1971 SPECIES
-=======
+# Chaetomium barilochense Calviello, 1971 SPECIES
 
 #### Status
 ACCEPTED

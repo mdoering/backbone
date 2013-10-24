@@ -1,5 +1,4 @@
-Dimerium parasiticum (Starbäck) Sacc. & D. Sacc. SPECIES
-=======
+# Dimerium parasiticum (Starbäck) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

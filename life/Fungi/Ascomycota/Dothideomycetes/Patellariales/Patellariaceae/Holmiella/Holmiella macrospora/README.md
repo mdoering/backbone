@@ -1,5 +1,4 @@
-Holmiella macrospora (Bonar & E.K. Cash) Kutorga & D. Hawksw. SPECIES
-=======
+# Holmiella macrospora (Bonar & E.K. Cash) Kutorga & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

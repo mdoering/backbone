@@ -1,5 +1,4 @@
-Mallomonas australica var. subglobosa Playfair VARIETY
-=======
+# Mallomonas australica Playfair SPECIES
 
 #### Status
 ACCEPTED

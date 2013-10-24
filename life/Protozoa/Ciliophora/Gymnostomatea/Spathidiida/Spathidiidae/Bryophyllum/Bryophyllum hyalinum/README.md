@@ -1,5 +1,4 @@
-Bryophyllum hyalinum SPECIES
-=======
+# Bryophyllum hyalinum SPECIES
 
 #### Status
 ACCEPTED

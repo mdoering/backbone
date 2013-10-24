@@ -1,5 +1,4 @@
-Leptothyrium berberidis Cooke & Massee SPECIES
-=======
+# Leptothyrium berberidis Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanorella fatrana Motyka SPECIES
-=======
+# Lecanorella fatrana Motyka SPECIES
 
 #### Status
 ACCEPTED

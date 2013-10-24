@@ -1,5 +1,4 @@
-Pseudocercospora allophylicola Deighton SPECIES
-=======
+# Pseudocercospora allophylicola Deighton SPECIES
 
 #### Status
 ACCEPTED

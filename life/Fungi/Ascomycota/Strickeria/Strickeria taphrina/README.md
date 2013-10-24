@@ -1,5 +1,4 @@
-Strickeria taphrina (Fr.) G. Winter SPECIES
-=======
+# Strickeria taphrina (Fr.) G. Winter SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Penicillium superimpositus Matsushima SPECIES
-=======
+# Penicillium superimpositus Matsushima SPECIES
 
 #### Status
 ACCEPTED

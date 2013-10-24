@@ -1,5 +1,4 @@
-Tetralithus gothicus Deflandre SPECIES
-=======
+# Tetralithus gothicus Deflandre SPECIES
 
 #### Status
 ACCEPTED

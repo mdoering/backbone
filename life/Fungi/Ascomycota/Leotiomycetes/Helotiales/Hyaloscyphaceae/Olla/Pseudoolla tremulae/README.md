@@ -1,5 +1,4 @@
-Pseudoolla tremulae Velen. SPECIES
-=======
+# Pseudoolla tremulae Velen. SPECIES
 
 #### Status
 ACCEPTED

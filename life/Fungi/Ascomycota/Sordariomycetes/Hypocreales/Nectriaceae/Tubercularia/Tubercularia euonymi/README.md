@@ -1,5 +1,4 @@
-Tubercularia euonymi Roum. SPECIES
-=======
+# Tubercularia euonymi Roum. SPECIES
 
 #### Status
 ACCEPTED

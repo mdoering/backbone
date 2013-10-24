@@ -1,5 +1,4 @@
-Arthrobotryum ugandense Hansf. SPECIES
-=======
+# Arthrobotryum ugandense Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micronectriopsis freycinetiae (Rehm) Höhn. SPECIES
-=======
+# Micronectriopsis freycinetiae (Rehm) Höhn. SPECIES
 
 #### Status
 ACCEPTED

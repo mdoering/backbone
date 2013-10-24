@@ -1,5 +1,4 @@
-Lecanactis nakajii Vain. & Yasuda SPECIES
-=======
+# Lecanactis nakajii Vain. & Yasuda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rotalia papillosa var. compressiuscula Brady, 1884 VARIETY
-=======
+# Rotalinoides compressiusculus (Brady, 1884) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

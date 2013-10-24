@@ -1,5 +1,4 @@
-Scandonea GENUS
-=======
+# Scandonea GENUS
 
 #### Status
 ACCEPTED

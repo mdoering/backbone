@@ -1,5 +1,4 @@
-Septonema loranthi (Hansf.) S. Hughes SPECIES
-=======
+# Septonema loranthi (Hansf.) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

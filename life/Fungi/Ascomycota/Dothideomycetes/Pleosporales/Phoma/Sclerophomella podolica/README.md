@@ -1,5 +1,4 @@
-Sclerophomella podolica Petr. SPECIES
-=======
+# Sclerophomella podolica Petr. SPECIES
 
 #### Status
 ACCEPTED

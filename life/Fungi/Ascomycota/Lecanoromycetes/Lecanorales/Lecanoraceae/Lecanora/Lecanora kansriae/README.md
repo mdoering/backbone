@@ -1,5 +1,4 @@
-Lecanora kansriae Papong & Lumbsch SPECIES
-=======
+# Lecanora kansriae Papong & Lumbsch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mucrosporium uniseptatum Preuss SPECIES
-=======
+# Mucrosporium uniseptatum Preuss SPECIES
 
 #### Status
 ACCEPTED

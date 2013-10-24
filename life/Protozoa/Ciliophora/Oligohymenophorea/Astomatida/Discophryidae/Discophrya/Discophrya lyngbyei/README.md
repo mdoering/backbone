@@ -1,5 +1,4 @@
-Discophrya lyngbyei Ehrenberg, 1833 SPECIES
-=======
+# Discophrya lyngbyei Ehrenberg, 1833 SPECIES
 
 #### Status
 ACCEPTED

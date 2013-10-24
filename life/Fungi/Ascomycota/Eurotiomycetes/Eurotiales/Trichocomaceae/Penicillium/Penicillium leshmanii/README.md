@@ -1,5 +1,4 @@
-Penicillium leshmanii Pitt SPECIES
-=======
+# Penicillium leshmanii Pitt SPECIES
 
 #### Status
 ACCEPTED

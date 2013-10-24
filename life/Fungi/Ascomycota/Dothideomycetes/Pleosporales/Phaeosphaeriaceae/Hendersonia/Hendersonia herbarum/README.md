@@ -1,5 +1,4 @@
-Hendersonia herbarum (Cooke & Harkn.) Kuntze SPECIES
-=======
+# Hendersonia herbarum (Cooke & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiniferomonas pectinata I. Stefanová¡ & T. Kalina SPECIES
-=======
+# Spiniferomonas pectinata I. Stefanová¡ & T. Kalina SPECIES
 
 #### Status
 ACCEPTED

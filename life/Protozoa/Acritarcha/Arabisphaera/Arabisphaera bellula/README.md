@@ -1,5 +1,4 @@
-Arabisphaera bellula Hemer & Nygreen, 1967 SPECIES
-=======
+# Arabisphaera bellula Hemer & Nygreen, 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotiopsis foedans (Sacc. & Ellis) Steyaert SPECIES
-=======
+# Pestalotiopsis foedans (Sacc. & Ellis) Steyaert SPECIES
 
 #### Status
 ACCEPTED

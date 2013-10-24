@@ -1,5 +1,4 @@
-Entyloma sporoboli E. Castell. & Graniti SPECIES
-=======
+# Entyloma sporoboli E. Castell. & Graniti SPECIES
 
 #### Status
 ACCEPTED

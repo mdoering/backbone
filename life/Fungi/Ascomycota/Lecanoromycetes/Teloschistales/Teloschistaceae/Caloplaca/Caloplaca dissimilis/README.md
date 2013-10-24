@@ -1,5 +1,4 @@
-Caloplaca dissimilis (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca dissimilis (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

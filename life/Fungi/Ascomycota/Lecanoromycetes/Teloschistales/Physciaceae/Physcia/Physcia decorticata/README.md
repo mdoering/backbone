@@ -1,5 +1,4 @@
-Physcia decorticata Moberg SPECIES
-=======
+# Physcia decorticata Moberg SPECIES
 
 #### Status
 ACCEPTED

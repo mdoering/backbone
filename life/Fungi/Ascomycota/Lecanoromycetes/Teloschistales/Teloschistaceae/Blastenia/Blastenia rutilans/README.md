@@ -1,5 +1,4 @@
-Blastenia rutilans (C.W. Dodge & G.E. Baker) Cretz. SPECIES
-=======
+# Blastenia rutilans (C.W. Dodge & G.E. Baker) Cretz. SPECIES
 
 #### Status
 ACCEPTED

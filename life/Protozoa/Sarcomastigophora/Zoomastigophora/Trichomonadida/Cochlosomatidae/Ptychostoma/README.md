@@ -1,5 +1,4 @@
-Ptychostoma Tyzzer, 1930 GENUS
-=======
+# Ptychostoma Tyzzer, 1930 GENUS
 
 #### Status
 ACCEPTED

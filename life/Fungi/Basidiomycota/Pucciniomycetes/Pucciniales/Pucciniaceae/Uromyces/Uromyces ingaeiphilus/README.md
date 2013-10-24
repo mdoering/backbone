@@ -1,5 +1,4 @@
-Uromyces ingaeiphilus Speg. SPECIES
-=======
+# Uromyces ingaeiphilus Speg. SPECIES
 
 #### Status
 ACCEPTED

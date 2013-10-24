@@ -1,5 +1,4 @@
-Calicasphaera concava A. Kleijne SPECIES
-=======
+# Calicasphaera concava A. Kleijne SPECIES
 
 #### Status
 ACCEPTED

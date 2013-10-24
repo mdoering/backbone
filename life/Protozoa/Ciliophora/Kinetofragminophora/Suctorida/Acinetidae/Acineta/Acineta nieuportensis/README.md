@@ -1,5 +1,4 @@
-Acineta nieuportensis Sand, 1899 SPECIES
-=======
+# Acineta nieuportensis Sand, 1899 SPECIES
 
 #### Status
 ACCEPTED

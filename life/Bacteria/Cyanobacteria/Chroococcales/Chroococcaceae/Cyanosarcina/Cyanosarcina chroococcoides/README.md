@@ -1,8 +1,7 @@
-Myxosarcina chroococcoides Geitler SPECIES
-=======
+# Cyanosarcina chroococcoides (Geitler) Kovácik SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

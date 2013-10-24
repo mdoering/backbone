@@ -1,5 +1,4 @@
-Stictodiscales ORDER
-=======
+# Stictodiscales ORDER
 
 #### Status
 ACCEPTED

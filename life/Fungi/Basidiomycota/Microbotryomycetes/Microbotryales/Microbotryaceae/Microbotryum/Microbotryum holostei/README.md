@@ -1,14 +1,13 @@
-Ustilago holostei de Bary, 1870 SPECIES
-=======
+# Microbotryum holostei (de Bary) Vánky, 1998 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Fischer von Waldheim, Jb. wiss. Bot. 7: 105 (1870)
+Mycotaxon 67: 44 (1998)
 
 #### Original name
 Ustilago holostei de Bary, 1870

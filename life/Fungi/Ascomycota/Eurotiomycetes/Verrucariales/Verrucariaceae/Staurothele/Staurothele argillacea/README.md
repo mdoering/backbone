@@ -1,5 +1,4 @@
-Staurothele argillacea (Flagey) Zahlbr. SPECIES
-=======
+# Staurothele argillacea (Flagey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

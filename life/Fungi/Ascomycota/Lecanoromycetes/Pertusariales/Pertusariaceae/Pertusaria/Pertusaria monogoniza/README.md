@@ -1,5 +1,4 @@
-Pertusaria monogoniza Nyl. SPECIES
-=======
+# Pertusaria monogoniza Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oxytoxum areolatum Rampi SPECIES
-=======
+# Oxytoxum areolatum Rampi SPECIES
 
 #### Status
 ACCEPTED

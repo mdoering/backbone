@@ -1,5 +1,4 @@
-Cyathus renweii T.X. Zhou & R.L. Zhao SPECIES
-=======
+# Cyathus renweii T.X. Zhou & R.L. Zhao SPECIES
 
 #### Status
 ACCEPTED

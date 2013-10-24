@@ -1,5 +1,4 @@
-Hemispora coremiformis M. Moore SPECIES
-=======
+# Hemispora coremiformis M. Moore SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcodon fusipes (Pers.) Pat. SPECIES
-=======
+# Sarcodon fusipes (Pers.) Pat. SPECIES
 
 #### Status
 ACCEPTED

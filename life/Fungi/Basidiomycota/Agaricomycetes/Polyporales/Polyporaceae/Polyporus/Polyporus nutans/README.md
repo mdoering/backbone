@@ -1,5 +1,4 @@
-Polyporus nutans Fr. SPECIES
-=======
+# Polyporus nutans Fr. SPECIES
 
 #### Status
 ACCEPTED

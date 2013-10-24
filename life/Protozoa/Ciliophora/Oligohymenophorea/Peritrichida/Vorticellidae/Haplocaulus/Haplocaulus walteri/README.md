@@ -1,5 +1,4 @@
-Haplocaulus walteri Guhl, 1985 SPECIES
-=======
+# Haplocaulus walteri Guhl, 1985 SPECIES
 
 #### Status
 ACCEPTED

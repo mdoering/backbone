@@ -1,5 +1,4 @@
-Physalospora coffeae Speg. SPECIES
-=======
+# Physalospora coffeae Speg. SPECIES
 
 #### Status
 ACCEPTED

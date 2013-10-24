@@ -1,8 +1,7 @@
-Nonionina sloani d'Orbigny, 1839 SPECIES
-=======
+# Nonion sloanii (d'Orbigny, 1839) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

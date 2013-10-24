@@ -1,5 +1,4 @@
-Psathyrella iterata var. iterata VARIETY
-=======
+# Psathyrella iterata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Mem. N. Y. bot. Gdn 24: 165 (1972)
 
 #### Original name
-Psathyrella iterata var. iterata
+Psathyrella iterata A.H. Sm.
 
 ### Remarks
 null

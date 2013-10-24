@@ -1,5 +1,4 @@
-Herposira velutina Syd., 1938 SPECIES
-=======
+# Herposira velutina Syd., 1938 SPECIES
 
 #### Status
 ACCEPTED

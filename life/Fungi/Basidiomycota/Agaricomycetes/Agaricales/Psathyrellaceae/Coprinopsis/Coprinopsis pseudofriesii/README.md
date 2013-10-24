@@ -1,5 +1,4 @@
-Coprinopsis pseudofriesii (Pilát & Svrcek) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
-=======
+# Coprinopsis pseudofriesii (Pilát & Svrcek) Redhead, Vilgalys & Moncalvo, 2001 SPECIES
 
 #### Status
 ACCEPTED

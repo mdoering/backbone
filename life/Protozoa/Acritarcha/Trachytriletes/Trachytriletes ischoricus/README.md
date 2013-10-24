@@ -1,5 +1,4 @@
-Trachytriletes ischoricus (Timofeev, 1959) Fensome et al., 1990 SPECIES
-=======
+# Trachytriletes ischoricus (Timofeev, 1959) Fensome et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Nectria miliaria Pass. SPECIES
-=======
+# Nectria miliaria Pass. SPECIES
 
 #### Status
 ACCEPTED

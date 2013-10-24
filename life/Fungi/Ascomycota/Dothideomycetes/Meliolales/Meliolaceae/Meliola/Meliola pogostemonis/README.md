@@ -1,5 +1,4 @@
-Meliola pogostemonis Hansf. SPECIES
-=======
+# Meliola pogostemonis Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Silanimonas lenta Lee et al., 2005 SPECIES
-=======
+# Silanimonas lenta Lee et al., 2005 SPECIES
 
 #### Status
 ACCEPTED

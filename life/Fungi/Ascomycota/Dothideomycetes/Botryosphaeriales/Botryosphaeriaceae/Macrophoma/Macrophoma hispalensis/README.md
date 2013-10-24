@@ -1,5 +1,4 @@
-Macrophoma hispalensis Bubák & Gonz. Frag. SPECIES
-=======
+# Macrophoma hispalensis Bubák & Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

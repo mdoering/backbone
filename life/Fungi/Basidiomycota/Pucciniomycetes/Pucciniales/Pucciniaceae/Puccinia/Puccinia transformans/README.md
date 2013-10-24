@@ -1,5 +1,4 @@
-Puccinia transformans Ellis & Everh. SPECIES
-=======
+# Puccinia transformans Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

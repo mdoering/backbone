@@ -1,5 +1,4 @@
-Halteria Dujardin, 1841 GENUS
-=======
+# Halteria Dujardin, 1841 GENUS
 
 #### Status
 ACCEPTED

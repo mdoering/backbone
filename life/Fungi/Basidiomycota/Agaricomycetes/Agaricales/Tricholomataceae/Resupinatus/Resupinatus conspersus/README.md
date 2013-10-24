@@ -1,17 +1,16 @@
-Henningsomyces grisellus (Quél.) Kuntze, 1898 SPECIES
-=======
+# Resupinatus conspersus (Pers.) Thorn, Moncalvo & Redhead, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 483 (1898)
+in Thorn, Moncalvo, Redhead, Lodge & Martín, Mycologia 97(5): 1148 (2006)
 
 #### Original name
-Solenia grisella Quél., 1878
+Peziza conspersa Pers., 1822
 
 ### Remarks
 null

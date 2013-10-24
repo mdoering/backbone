@@ -1,5 +1,4 @@
-Sphaerophrya discoides Dumas, 1930 SPECIES
-=======
+# Sphaerophrya discoides Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

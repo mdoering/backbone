@@ -1,5 +1,4 @@
-Puccinia peucedani-elgonensis Gjaerum SPECIES
-=======
+# Puccinia peucedani-elgonensis Gjaerum SPECIES
 
 #### Status
 ACCEPTED

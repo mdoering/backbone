@@ -1,5 +1,4 @@
-Hapalocystis corticalis (Schwein.) M.E. Barr SPECIES
-=======
+# Hapalocystis corticalis (Schwein.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

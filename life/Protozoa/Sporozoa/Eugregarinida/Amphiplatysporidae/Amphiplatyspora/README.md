@@ -1,5 +1,4 @@
-Amphiplatyspora Kundu & Halder, 1985 GENUS
-=======
+# Amphiplatyspora Kundu & Halder, 1985 GENUS
 
 #### Status
 ACCEPTED

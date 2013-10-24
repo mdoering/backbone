@@ -1,5 +1,4 @@
-Alternaria scorpiuri (Thüm.) M.B. Ellis SPECIES
-=======
+# Alternaria scorpiuri (Thüm.) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

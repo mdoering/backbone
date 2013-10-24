@@ -1,5 +1,4 @@
-Peziza melanotheja Fr. SPECIES
-=======
+# Peziza melanotheja Fr. SPECIES
 
 #### Status
 ACCEPTED

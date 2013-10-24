@@ -1,5 +1,4 @@
-Menispora manitobaensis B. Sutton SPECIES
-=======
+# Menispora manitobaensis B. Sutton SPECIES
 
 #### Status
 ACCEPTED

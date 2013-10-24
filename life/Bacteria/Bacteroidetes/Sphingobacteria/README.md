@@ -1,5 +1,4 @@
-Sphingobacteria CLASS
-=======
+# Sphingobacteria CLASS
 
 #### Status
 ACCEPTED

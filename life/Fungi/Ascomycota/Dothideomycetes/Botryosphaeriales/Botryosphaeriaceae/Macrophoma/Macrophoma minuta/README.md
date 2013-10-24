@@ -1,5 +1,4 @@
-Macrophoma minuta Berl. SPECIES
-=======
+# Macrophoma minuta Berl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delicatula scirpina Velen. SPECIES
-=======
+# Delicatula scirpina Velen. SPECIES
 
 #### Status
 ACCEPTED

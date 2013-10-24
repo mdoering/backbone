@@ -1,5 +1,4 @@
-Lachnum cornicola Velen. SPECIES
-=======
+# Lachnum cornicola Velen. SPECIES
 
 #### Status
 ACCEPTED

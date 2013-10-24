@@ -1,5 +1,4 @@
-Humaria nemorosa (Humb.) Sacc. SPECIES
-=======
+# Humaria nemorosa (Humb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

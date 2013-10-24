@@ -1,5 +1,4 @@
-Schizoxylon melanostictum Speg. SPECIES
-=======
+# Schizoxylon melanostictum Speg. SPECIES
 
 #### Status
 ACCEPTED

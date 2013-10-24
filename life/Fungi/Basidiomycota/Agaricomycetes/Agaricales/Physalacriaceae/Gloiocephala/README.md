@@ -1,5 +1,4 @@
-Gloiocephala Massee, 1892 GENUS
-=======
+# Gloiocephala Massee, 1892 GENUS
 
 #### Status
 ACCEPTED

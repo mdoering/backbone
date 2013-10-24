@@ -1,5 +1,4 @@
-Marinomonas blandensis Arahal, Pascual, Pujalte, Lekunberri, Gonzalez, Pedros-Alio & Pinhassi, 2006 SPECIES
-=======
+# Marinomonas blandensis Arahal, Pascual, Pujalte, Lekunberri, Gonzalez, Pedros-Alio & Pinhassi, 2006 SPECIES
 
 #### Status
 ACCEPTED

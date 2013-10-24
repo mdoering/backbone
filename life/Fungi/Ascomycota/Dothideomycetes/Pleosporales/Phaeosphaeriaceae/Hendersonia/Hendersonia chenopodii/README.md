@@ -1,5 +1,4 @@
-Hendersonia chenopodii (Peck) Kuntze SPECIES
-=======
+# Hendersonia chenopodii (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

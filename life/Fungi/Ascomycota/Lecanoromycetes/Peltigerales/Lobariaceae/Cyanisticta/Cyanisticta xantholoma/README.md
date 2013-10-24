@@ -1,5 +1,4 @@
-Cyanisticta xantholoma (Delise) C.W. Dodge SPECIES
-=======
+# Cyanisticta xantholoma (Delise) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

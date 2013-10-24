@@ -1,5 +1,4 @@
-Leucosporidium fellii Gim.-Jurado & Uden SPECIES
-=======
+# Leucosporidium fellii Gim.-Jurado & Uden SPECIES
 
 #### Status
 ACCEPTED

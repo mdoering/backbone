@@ -1,5 +1,4 @@
-Septoria kennedyae Died. SPECIES
-=======
+# Septoria kennedyae Died. SPECIES
 
 #### Status
 ACCEPTED

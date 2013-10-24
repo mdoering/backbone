@@ -1,5 +1,4 @@
-Tilletia bangalorensis Pavgi & Thirum. SPECIES
-=======
+# Tilletia bangalorensis Pavgi & Thirum. SPECIES
 
 #### Status
 ACCEPTED

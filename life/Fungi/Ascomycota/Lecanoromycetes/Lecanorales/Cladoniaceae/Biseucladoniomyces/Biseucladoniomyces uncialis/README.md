@@ -1,17 +1,16 @@
-Biseucladinomyces uncialis Cif. & Tomas. SPECIES
-=======
+# Biseucladoniomyces uncialis Cif. & Tomas. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Ist. bot. Univ. Lab. crittog. Pavia, Sér. 5 10: 288 (1954)
 
 #### Original name
-Biseucladinomyces uncialis Cif. & Tomas.
+Biseucladoniomyces uncialis Cif. & Tomas.
 
 ### Remarks
 null

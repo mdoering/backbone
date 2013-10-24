@@ -1,5 +1,4 @@
-Licea olivacea Fuckel SPECIES
-=======
+# Licea olivacea Fuckel SPECIES
 
 #### Status
 ACCEPTED

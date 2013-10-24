@@ -1,5 +1,4 @@
-Desulfovibrio inopinatus Reichenbecher & Schink, 1999 SPECIES
-=======
+# Desulfovibrio inopinatus Reichenbecher & Schink, 1999 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphochytriomycetes Sparrow ex M.W. Dick CLASS
-=======
+# Hyphochytriomycetes Sparrow ex M.W. Dick CLASS
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Cryptophiale secunda Kuthub. & B. Sutton, 1985 SPECIES
-=======
+# Cryptophialoidea secunda (Kuthub. & B. Sutton) Kuthub. & Nawawi, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 84(2): 304 (1985)
+Trans. Br. mycol. Soc. 89(4): 583 (1987)
 
 #### Original name
 Cryptophiale secunda Kuthub. & B. Sutton, 1985

@@ -1,14 +1,13 @@
-Myriospora sinopica (Wahlenb.) Hepp SPECIES
-=======
+# Acarospora sinopica (Wahlenb.) Körb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Parerga lichenol. (Breslau) 57 (1859)
 
 #### Original name
 Endocarpon sinopicum Wahlenb.

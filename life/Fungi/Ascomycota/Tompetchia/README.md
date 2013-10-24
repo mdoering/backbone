@@ -1,5 +1,4 @@
-Tompetchia Subram. GENUS
-=======
+# Tompetchia Subram. GENUS
 
 #### Status
 ACCEPTED

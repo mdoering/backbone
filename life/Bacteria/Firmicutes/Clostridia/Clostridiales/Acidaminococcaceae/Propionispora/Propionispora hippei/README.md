@@ -1,5 +1,4 @@
-Propionispora hippei Abou-Zeid et al., 2004 SPECIES
-=======
+# Propionispora hippei Abou-Zeid et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

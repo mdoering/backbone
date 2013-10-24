@@ -1,5 +1,4 @@
-Bovista dryina (Morgan) Demoulin SPECIES
-=======
+# Bovista dryina (Morgan) Demoulin SPECIES
 
 #### Status
 ACCEPTED

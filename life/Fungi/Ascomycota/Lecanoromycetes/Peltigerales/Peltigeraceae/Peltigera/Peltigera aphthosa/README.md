@@ -1,17 +1,16 @@
-Peltigera aphthosa var. aphthosa VARIETY
-=======
+# Peltigera aphthosa (L.) Willd. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fl. Berol. Prodr. 347 (1787)
 
 #### Original name
-Peltigera aphthosa var. aphthosa
+Lichen aphthosus L.
 
 ### Remarks
 null

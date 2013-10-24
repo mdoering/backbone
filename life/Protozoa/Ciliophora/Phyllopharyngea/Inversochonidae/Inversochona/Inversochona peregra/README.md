@@ -1,5 +1,4 @@
-Inversochona peregra Jankowski, 1973 SPECIES
-=======
+# Inversochona peregra Jankowski, 1973 SPECIES
 
 #### Status
 ACCEPTED

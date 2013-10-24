@@ -1,14 +1,13 @@
-Paxillus infundibuliformis Cleland, 1927 SPECIES
-=======
+# Austropaxillus infundibuliformis (Cleland) Bresinsky & Jarosch, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Roy. Soc. South Australia 51: 304 (1927)
+in Bresinsky, Jarosch, Fischer, Schönberger & Wittmann-Bresinsky, Pl. Biol. 1(3): 332 (1999)
 
 #### Original name
 Paxillus infundibuliformis Cleland, 1927

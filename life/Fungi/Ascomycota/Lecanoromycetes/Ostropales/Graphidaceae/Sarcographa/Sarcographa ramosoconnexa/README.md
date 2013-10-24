@@ -1,5 +1,4 @@
-Sarcographa ramosoconnexa (Vain.) Redinger SPECIES
-=======
+# Sarcographa ramosoconnexa (Vain.) Redinger SPECIES
 
 #### Status
 ACCEPTED

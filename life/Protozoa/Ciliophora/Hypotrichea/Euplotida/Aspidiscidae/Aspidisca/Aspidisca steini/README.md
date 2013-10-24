@@ -1,5 +1,4 @@
-Aspidisca steini subsp. steini SUBSPECIES
-=======
+# Aspidisca steini Buddenbrock, 1920 SPECIES
 
 #### Status
 ACCEPTED

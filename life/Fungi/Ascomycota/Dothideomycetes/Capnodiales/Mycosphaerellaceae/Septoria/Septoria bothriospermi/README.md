@@ -1,5 +1,4 @@
-Septoria bothriospermi Sawada SPECIES
-=======
+# Septoria bothriospermi Sawada SPECIES
 
 #### Status
 ACCEPTED

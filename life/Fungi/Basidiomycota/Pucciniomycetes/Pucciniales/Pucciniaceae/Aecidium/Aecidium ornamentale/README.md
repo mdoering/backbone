@@ -1,5 +1,4 @@
-Aecidium ornamentale Kalchbr. SPECIES
-=======
+# Aecidium ornamentale Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

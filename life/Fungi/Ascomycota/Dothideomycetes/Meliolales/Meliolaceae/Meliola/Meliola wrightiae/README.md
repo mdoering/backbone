@@ -1,5 +1,4 @@
-Meliola wrightiae H.S. Yates SPECIES
-=======
+# Meliola wrightiae H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

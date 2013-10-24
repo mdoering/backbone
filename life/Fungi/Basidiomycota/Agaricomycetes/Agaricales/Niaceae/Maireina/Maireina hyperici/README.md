@@ -1,5 +1,4 @@
-Maireina hyperici (Velen.) W.B. Cooke SPECIES
-=======
+# Maireina hyperici (Velen.) W.B. Cooke SPECIES
 
 #### Status
 ACCEPTED

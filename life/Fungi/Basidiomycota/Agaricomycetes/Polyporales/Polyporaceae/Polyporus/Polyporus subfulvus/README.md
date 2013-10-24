@@ -1,5 +1,4 @@
-Polyporus subfulvus Cooke SPECIES
-=======
+# Polyporus subfulvus Cooke SPECIES
 
 #### Status
 ACCEPTED

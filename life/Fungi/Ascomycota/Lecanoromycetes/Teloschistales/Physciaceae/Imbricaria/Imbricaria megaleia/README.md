@@ -1,5 +1,4 @@
-Imbricaria megaleia (Nyl.) Jatta SPECIES
-=======
+# Imbricaria megaleia (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

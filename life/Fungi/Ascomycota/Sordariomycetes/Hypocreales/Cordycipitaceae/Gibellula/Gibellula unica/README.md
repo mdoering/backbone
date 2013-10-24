@@ -1,5 +1,4 @@
-Gibellula unica L.S. Hsieh, Tzean & W.J. Wu, 1997 SPECIES
-=======
+# Gibellula unica L.S. Hsieh, Tzean & W.J. Wu, 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anabaena mediocris Gardner SPECIES
-=======
+# Anabaena mediocris Gardner SPECIES
 
 #### Status
 ACCEPTED

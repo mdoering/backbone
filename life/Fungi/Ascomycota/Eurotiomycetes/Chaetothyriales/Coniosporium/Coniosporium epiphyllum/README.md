@@ -1,5 +1,4 @@
-Coniosporium epiphyllum Sacc. SPECIES
-=======
+# Coniosporium epiphyllum Sacc. SPECIES
 
 #### Status
 ACCEPTED

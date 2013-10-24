@@ -1,5 +1,4 @@
-Hydrocybe cordae Velen. SPECIES
-=======
+# Hydrocybe cordae Velen. SPECIES
 
 #### Status
 ACCEPTED

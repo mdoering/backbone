@@ -1,5 +1,4 @@
-Sarcinella gymnosporiae Subhedar & Rao ex Hosag. SPECIES
-=======
+# Sarcinella gymnosporiae Subhedar & Rao ex Hosag. SPECIES
 
 #### Status
 ACCEPTED

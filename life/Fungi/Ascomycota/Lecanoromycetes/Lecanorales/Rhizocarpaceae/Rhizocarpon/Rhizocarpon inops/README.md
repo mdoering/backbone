@@ -1,5 +1,4 @@
-Rhizocarpon inops Körb. SPECIES
-=======
+# Rhizocarpon inops Körb. SPECIES
 
 #### Status
 ACCEPTED

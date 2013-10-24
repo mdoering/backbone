@@ -1,5 +1,4 @@
-Entyloma asteris-alpini Syd. & P. Syd. SPECIES
-=======
+# Entyloma asteris-alpini Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cothurnia pusilla Wrzesniowski, 1870 SPECIES
-=======
+# Cothurnia pusilla Wrzesniowski, 1870 SPECIES
 
 #### Status
 ACCEPTED

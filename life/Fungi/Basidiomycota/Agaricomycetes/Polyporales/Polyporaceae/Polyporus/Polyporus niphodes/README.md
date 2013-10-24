@@ -1,5 +1,4 @@
-Polyporus niphodes Berk. & Broome SPECIES
-=======
+# Polyporus niphodes Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosporina trechispora (Berk.) Rea SPECIES
-=======
+# Astrosporina trechispora (Berk.) Rea SPECIES
 
 #### Status
 ACCEPTED

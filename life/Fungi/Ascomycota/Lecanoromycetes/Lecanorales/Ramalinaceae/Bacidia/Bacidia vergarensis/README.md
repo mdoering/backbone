@@ -1,5 +1,4 @@
-Bacidia vergarensis Räsänen SPECIES
-=======
+# Bacidia vergarensis Räsänen SPECIES
 
 #### Status
 ACCEPTED

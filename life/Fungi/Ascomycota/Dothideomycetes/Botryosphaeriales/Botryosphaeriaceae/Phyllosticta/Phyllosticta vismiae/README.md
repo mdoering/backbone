@@ -1,5 +1,4 @@
-Phyllosticta vismiae Bat. & J.L. Bezerra SPECIES
-=======
+# Phyllosticta vismiae Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

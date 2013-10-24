@@ -1,5 +1,4 @@
-Pinguiochrysis rumoiana Kato & Masuda, 2003 SPECIES
-=======
+# Pinguiochrysis rumoiana Kato & Masuda, 2003 SPECIES
 
 #### Status
 ACCEPTED

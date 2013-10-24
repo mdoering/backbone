@@ -1,5 +1,4 @@
-Ascochyta fernandi Bubák & Malk. SPECIES
-=======
+# Ascochyta fernandi Bubák & Malk. SPECIES
 
 #### Status
 ACCEPTED

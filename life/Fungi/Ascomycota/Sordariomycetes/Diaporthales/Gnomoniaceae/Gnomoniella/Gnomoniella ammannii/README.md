@@ -1,5 +1,4 @@
-Gnomoniella ammannii M. Monod SPECIES
-=======
+# Gnomoniella ammannii M. Monod SPECIES
 
 #### Status
 ACCEPTED

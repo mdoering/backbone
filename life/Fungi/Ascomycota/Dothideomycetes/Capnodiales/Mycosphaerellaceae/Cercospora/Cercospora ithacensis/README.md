@@ -1,5 +1,4 @@
-Cercospora ithacensis Chupp SPECIES
-=======
+# Cercospora ithacensis Chupp SPECIES
 
 #### Status
 ACCEPTED

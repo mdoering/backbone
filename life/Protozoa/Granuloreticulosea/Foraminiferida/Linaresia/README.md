@@ -1,5 +1,4 @@
-Linaresia Gonzales-Donoso, 1968 GENUS
-=======
+# Linaresia Gonzales-Donoso, 1968 GENUS
 
 #### Status
 ACCEPTED

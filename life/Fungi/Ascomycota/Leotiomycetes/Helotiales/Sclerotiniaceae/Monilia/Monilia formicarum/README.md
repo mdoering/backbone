@@ -1,5 +1,4 @@
-Monilia formicarum Speg. SPECIES
-=======
+# Monilia formicarum Speg. SPECIES
 
 #### Status
 ACCEPTED

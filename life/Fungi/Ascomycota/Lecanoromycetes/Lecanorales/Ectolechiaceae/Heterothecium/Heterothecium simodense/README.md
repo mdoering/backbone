@@ -1,5 +1,4 @@
-Heterothecium simodense (Tuck.) Tuck. SPECIES
-=======
+# Heterothecium simodense (Tuck.) Tuck. SPECIES
 
 #### Status
 ACCEPTED

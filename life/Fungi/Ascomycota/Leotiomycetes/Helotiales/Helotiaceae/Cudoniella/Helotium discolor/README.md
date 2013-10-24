@@ -1,5 +1,4 @@
-Helotium discolor (Hedw.) Sacc. SPECIES
-=======
+# Helotium discolor (Hedw.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

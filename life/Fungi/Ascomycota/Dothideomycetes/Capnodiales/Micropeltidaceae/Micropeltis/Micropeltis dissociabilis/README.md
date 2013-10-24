@@ -1,5 +1,4 @@
-Micropeltis dissociabilis var. dissociabilis VARIETY
-=======
+# Micropeltis dissociabilis F. Stevens & Manter SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Bot. Gaz. 79(3): 278 (1925)
 
 #### Original name
-Micropeltis dissociabilis var. dissociabilis
+Micropeltis dissociabilis F. Stevens & Manter
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lecanora accumulata H. Magn. SPECIES
-=======
+# Lecanora accumulata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bispora Corda, 1837 GENUS
-=======
+# Bispora Corda, 1837 GENUS
 
 #### Status
 ACCEPTED

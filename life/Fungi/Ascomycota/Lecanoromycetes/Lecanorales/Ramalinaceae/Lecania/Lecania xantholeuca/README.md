@@ -1,5 +1,4 @@
-Lecania xantholeuca (Kremp.) SPECIES
-=======
+# Lecania xantholeuca (Kremp.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromella barnadesiae (Gutner) Aa & Vanev SPECIES
-=======
+# Asteromella barnadesiae (Gutner) Aa & Vanev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tetraktis Pascher, 1939 GENUS
-=======
+# Tetraktis Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

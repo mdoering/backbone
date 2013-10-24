@@ -1,5 +1,4 @@
-Lyngbya anguina Montagne SPECIES
-=======
+# Lyngbya anguina Montagne SPECIES
 
 #### Status
 ACCEPTED

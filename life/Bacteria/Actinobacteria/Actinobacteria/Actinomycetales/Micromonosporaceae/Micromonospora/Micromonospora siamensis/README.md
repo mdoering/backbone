@@ -1,5 +1,4 @@
-Micromonospora siamensis Thawai et al., 2006 SPECIES
-=======
+# Micromonospora siamensis Thawai et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

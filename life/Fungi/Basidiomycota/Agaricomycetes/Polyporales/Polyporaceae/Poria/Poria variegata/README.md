@@ -1,5 +1,4 @@
-Poria variegata (Ryvarden & Gilb.) Ginns SPECIES
-=======
+# Poria variegata (Ryvarden & Gilb.) Ginns SPECIES
 
 #### Status
 ACCEPTED

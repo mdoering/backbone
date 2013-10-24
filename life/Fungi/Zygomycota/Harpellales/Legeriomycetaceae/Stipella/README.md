@@ -1,5 +1,4 @@
-Stipella L. Léger & M. Gauthier GENUS
-=======
+# Stipella L. Léger & M. Gauthier GENUS
 
 #### Status
 ACCEPTED

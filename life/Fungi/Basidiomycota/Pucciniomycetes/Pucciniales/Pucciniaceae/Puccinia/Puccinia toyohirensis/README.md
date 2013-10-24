@@ -1,5 +1,4 @@
-Puccinia toyohirensis Hirats. SPECIES
-=======
+# Puccinia toyohirensis Hirats. SPECIES
 
 #### Status
 ACCEPTED

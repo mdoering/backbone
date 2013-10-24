@@ -1,5 +1,4 @@
-Pleospora uzbekistanica Babushk. & Salieva SPECIES
-=======
+# Pleospora uzbekistanica Babushk. & Salieva SPECIES
 
 #### Status
 ACCEPTED

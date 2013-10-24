@@ -1,17 +1,16 @@
-Arnaudovia Valkanov GENUS
-=======
+# Polyphagus Nowak. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Arch. Protistenk. 106: 562 (1963)
+in Cohn, Beitr. Biol. Pfl. 2: 203 (1877)
 
 #### Original name
-Arnaudovia Valkanov
+Polyphagus Nowak.
 
 ### Remarks
 null

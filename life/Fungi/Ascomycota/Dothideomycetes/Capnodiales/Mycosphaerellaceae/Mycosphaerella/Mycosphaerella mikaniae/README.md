@@ -1,5 +1,4 @@
-Mycosphaerella mikaniae Rehm SPECIES
-=======
+# Mycosphaerella mikaniae Rehm SPECIES
 
 #### Status
 ACCEPTED

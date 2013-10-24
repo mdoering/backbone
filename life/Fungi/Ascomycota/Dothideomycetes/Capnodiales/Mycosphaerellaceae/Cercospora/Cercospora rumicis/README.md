@@ -1,5 +1,4 @@
-Cercospora rumicis Ellis & Langl. ex Chupp SPECIES
-=======
+# Cercospora rumicis Ellis & Langl. ex Chupp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ectocarpus oblongatus Noda SPECIES
-=======
+# Ectocarpus oblongatus Noda SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hygrophorus fallax A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus fallax A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

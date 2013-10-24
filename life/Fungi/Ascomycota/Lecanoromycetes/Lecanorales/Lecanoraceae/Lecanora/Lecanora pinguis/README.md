@@ -1,5 +1,4 @@
-Lecanora pinguis Tuck. SPECIES
-=======
+# Lecanora pinguis Tuck. SPECIES
 
 #### Status
 ACCEPTED

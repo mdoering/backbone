@@ -1,5 +1,4 @@
-Diplodia coryli Fuckel, 1870 SPECIES
-=======
+# Diplodia coryli Fuckel, 1870 SPECIES
 
 #### Status
 ACCEPTED

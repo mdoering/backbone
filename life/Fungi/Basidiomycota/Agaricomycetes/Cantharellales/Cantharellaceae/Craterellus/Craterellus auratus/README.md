@@ -1,5 +1,4 @@
-Craterellus auratus Quél. SPECIES
-=======
+# Craterellus auratus Quél. SPECIES
 
 #### Status
 ACCEPTED

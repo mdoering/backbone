@@ -1,5 +1,4 @@
-Asterina microtropidis Hosag., N.P. Balakr. & Goos SPECIES
-=======
+# Asterina microtropidis Hosag., N.P. Balakr. & Goos SPECIES
 
 #### Status
 ACCEPTED

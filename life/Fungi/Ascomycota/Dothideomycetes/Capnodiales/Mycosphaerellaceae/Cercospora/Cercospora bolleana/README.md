@@ -1,5 +1,4 @@
-Cercospora bolleana (Thüm.) Speg. SPECIES
-=======
+# Cercospora bolleana (Thüm.) Speg. SPECIES
 
 #### Status
 ACCEPTED

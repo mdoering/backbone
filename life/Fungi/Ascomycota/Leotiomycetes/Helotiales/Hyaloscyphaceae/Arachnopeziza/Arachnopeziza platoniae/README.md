@@ -1,5 +1,4 @@
-Arachnopeziza platoniae Bat. & Peres SPECIES
-=======
+# Arachnopeziza platoniae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

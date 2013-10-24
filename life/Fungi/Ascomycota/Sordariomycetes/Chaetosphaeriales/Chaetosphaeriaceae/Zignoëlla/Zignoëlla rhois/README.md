@@ -1,5 +1,4 @@
-Zignoëlla rhois Gucevic SPECIES
-=======
+# Zignoëlla rhois Gucevic SPECIES
 
 #### Status
 ACCEPTED

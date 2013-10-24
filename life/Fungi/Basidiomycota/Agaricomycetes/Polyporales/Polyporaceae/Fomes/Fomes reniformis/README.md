@@ -1,5 +1,4 @@
-Fomes reniformis (Morgan) Sacc. SPECIES
-=======
+# Fomes reniformis (Morgan) Sacc. SPECIES
 
 #### Status
 ACCEPTED

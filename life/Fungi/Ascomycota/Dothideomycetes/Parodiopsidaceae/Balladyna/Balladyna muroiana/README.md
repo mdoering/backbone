@@ -1,5 +1,4 @@
-Balladyna muroiana I. Hino & Katum. SPECIES
-=======
+# Balladyna muroiana I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

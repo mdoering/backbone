@@ -1,5 +1,4 @@
-Lactarius xylophilus Pers. SPECIES
-=======
+# Lactarius xylophilus Pers. SPECIES
 
 #### Status
 ACCEPTED

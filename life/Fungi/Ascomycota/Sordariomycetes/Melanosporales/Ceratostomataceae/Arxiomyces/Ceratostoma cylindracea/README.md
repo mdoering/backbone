@@ -1,5 +1,4 @@
-Ceratostoma cylindracea Kalchbr. SPECIES
-=======
+# Ceratostoma cylindracea Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

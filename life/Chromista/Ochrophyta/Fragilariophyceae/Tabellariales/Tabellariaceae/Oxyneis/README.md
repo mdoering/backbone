@@ -1,5 +1,4 @@
-Oxyneis Round, 1990 GENUS
-=======
+# Oxyneis Round, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellea variella (Nyl.) P. Karst. SPECIES
-=======
+# Patellea variella (Nyl.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

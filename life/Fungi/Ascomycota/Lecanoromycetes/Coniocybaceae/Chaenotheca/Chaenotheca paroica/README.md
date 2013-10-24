@@ -1,5 +1,4 @@
-Chaenotheca paroica (Ach.) Zwackh SPECIES
-=======
+# Chaenotheca paroica (Ach.) Zwackh SPECIES
 
 #### Status
 ACCEPTED

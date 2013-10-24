@@ -1,17 +1,16 @@
-Hygrophorus psittacinus f. psittacinus FORM
-=======
+# Hygrocybe psittacina (Schaeff. Fr.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Epicr. syst. mycol. (Upsaliae) 332 (1838)
+null
 
 #### Original name
-Hygrophorus psittacinus f. psittacinus
+null
 
 ### Remarks
 null

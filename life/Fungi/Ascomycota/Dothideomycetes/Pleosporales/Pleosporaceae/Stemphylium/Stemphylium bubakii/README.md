@@ -1,5 +1,4 @@
-Stemphylium bubakii E.G. Simmons SPECIES
-=======
+# Stemphylium bubakii E.G. Simmons SPECIES
 
 #### Status
 ACCEPTED

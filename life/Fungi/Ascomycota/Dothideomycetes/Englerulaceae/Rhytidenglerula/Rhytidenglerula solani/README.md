@@ -1,5 +1,4 @@
-Rhytidenglerula solani Bat., J.L. Bezerra & Matta SPECIES
-=======
+# Rhytidenglerula solani Bat., J.L. Bezerra & Matta SPECIES
 
 #### Status
 ACCEPTED

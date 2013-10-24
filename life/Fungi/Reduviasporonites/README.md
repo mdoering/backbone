@@ -1,5 +1,4 @@
-Reduviasporonites L.R. Wilson GENUS
-=======
+# Reduviasporonites L.R. Wilson GENUS
 
 #### Status
 ACCEPTED

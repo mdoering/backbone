@@ -1,5 +1,4 @@
-Diplodiella tamaricina S. Ahmad SPECIES
-=======
+# Diplodiella tamaricina S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

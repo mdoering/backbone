@@ -1,5 +1,4 @@
-Marasmius valdivianus Singer SPECIES
-=======
+# Marasmius valdivianus Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyphella tuba Weinm. SPECIES
-=======
+# Cyphella tuba Weinm. SPECIES
 
 #### Status
 ACCEPTED

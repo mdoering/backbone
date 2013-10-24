@@ -1,5 +1,4 @@
-Herpotrichia decidua (Ellis & Everh.) M.E. Barr SPECIES
-=======
+# Herpotrichia decidua (Ellis & Everh.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

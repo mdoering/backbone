@@ -1,5 +1,4 @@
-Aspicilia spermatomanes Maheu & A. Gillet SPECIES
-=======
+# Aspicilia spermatomanes Maheu & A. Gillet SPECIES
 
 #### Status
 ACCEPTED

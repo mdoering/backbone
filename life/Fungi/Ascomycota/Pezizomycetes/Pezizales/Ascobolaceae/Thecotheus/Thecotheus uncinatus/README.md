@@ -1,5 +1,4 @@
-Thecotheus uncinatus Aas SPECIES
-=======
+# Thecotheus uncinatus Aas SPECIES
 
 #### Status
 ACCEPTED

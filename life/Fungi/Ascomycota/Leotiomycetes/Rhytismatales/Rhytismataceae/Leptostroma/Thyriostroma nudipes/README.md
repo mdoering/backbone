@@ -1,5 +1,4 @@
-Thyriostroma nudipes anon. SPECIES
-=======
+# Thyriostroma nudipes anon. SPECIES
 
 #### Status
 ACCEPTED

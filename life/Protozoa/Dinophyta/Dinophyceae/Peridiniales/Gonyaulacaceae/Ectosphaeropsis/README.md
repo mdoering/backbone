@@ -1,5 +1,4 @@
-Ectosphaeropsis L. Londeix & Jan du Chêne, 1988 GENUS
-=======
+# Ectosphaeropsis L. Londeix & Jan du Chêne, 1988 GENUS
 
 #### Status
 ACCEPTED

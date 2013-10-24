@@ -1,5 +1,4 @@
-Ascochyta ligustri Sacc. & Speg., 1878 SPECIES
-=======
+# Ascochyta ligustri Sacc. & Speg., 1878 SPECIES
 
 #### Status
 ACCEPTED

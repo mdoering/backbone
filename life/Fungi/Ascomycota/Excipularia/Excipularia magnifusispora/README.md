@@ -1,5 +1,4 @@
-Excipularia magnifusispora Melnik SPECIES
-=======
+# Excipularia magnifusispora Melnik SPECIES
 
 #### Status
 ACCEPTED

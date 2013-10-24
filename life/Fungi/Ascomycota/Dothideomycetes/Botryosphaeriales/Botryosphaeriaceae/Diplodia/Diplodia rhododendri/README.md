@@ -1,5 +1,4 @@
-Diplodia rhododendri Bellynck, 1850 SPECIES
-=======
+# Diplodia rhododendri Bellynck, 1850 SPECIES
 
 #### Status
 ACCEPTED

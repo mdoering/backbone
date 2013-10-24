@@ -1,14 +1,13 @@
-Cercospora sequoiae var. juniperi Ellis & Everh., 1887 VARIETY
-=======
+# Pseudocercospora juniperi (Ellis & Everh.) B. Sutton & Hodges, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 3(2): 14 (1887)
+Mycologia 82(3): 319 (1990)
 
 #### Original name
 Cercospora sequoiae var. juniperi Ellis & Everh., 1887

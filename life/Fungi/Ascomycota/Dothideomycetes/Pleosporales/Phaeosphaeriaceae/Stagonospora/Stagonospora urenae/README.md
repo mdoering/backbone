@@ -1,5 +1,4 @@
-Stagonospora urenae Guillemat SPECIES
-=======
+# Stagonospora urenae Guillemat SPECIES
 
 #### Status
 ACCEPTED

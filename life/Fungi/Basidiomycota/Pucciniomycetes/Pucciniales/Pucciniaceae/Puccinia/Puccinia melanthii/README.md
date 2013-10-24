@@ -1,5 +1,4 @@
-Puccinia melanthii Bubák SPECIES
-=======
+# Puccinia melanthii Bubák SPECIES
 
 #### Status
 ACCEPTED

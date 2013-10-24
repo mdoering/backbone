@@ -1,5 +1,4 @@
-Chlamydonella plurivacuolata SPECIES
-=======
+# Chlamydonella plurivacuolata SPECIES
 
 #### Status
 ACCEPTED

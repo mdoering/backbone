@@ -1,5 +1,4 @@
-Depazea oenotherae Lasch SPECIES
-=======
+# Depazea oenotherae Lasch SPECIES
 
 #### Status
 ACCEPTED

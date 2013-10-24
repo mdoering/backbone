@@ -1,5 +1,4 @@
-Mesopedinella Daugbjerg, 1996 GENUS
-=======
+# Mesopedinella Daugbjerg, 1996 GENUS
 
 #### Status
 ACCEPTED

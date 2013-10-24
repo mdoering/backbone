@@ -1,5 +1,4 @@
-Maravalia pseudosuprastomatalis Y. Ono & Kakish., 1988 SPECIES
-=======
+# Maravalia pseudosuprastomatalis Y. Ono & Kakish., 1988 SPECIES
 
 #### Status
 ACCEPTED

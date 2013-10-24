@@ -1,5 +1,4 @@
-Striatotheca mutua Burmann, 1970 SPECIES
-=======
+# Striatotheca mutua Burmann, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Jacus de Wever, 1982 GENUS
-=======
+# Jacus de Wever, 1982 GENUS
 
 #### Status
 ACCEPTED

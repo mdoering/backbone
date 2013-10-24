@@ -1,5 +1,4 @@
-Lecanora aurantia Hue SPECIES
-=======
+# Lecanora aurantia Hue SPECIES
 
 #### Status
 ACCEPTED

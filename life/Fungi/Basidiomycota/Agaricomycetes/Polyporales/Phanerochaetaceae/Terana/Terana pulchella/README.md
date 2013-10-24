@@ -1,5 +1,4 @@
-Terana pulchella (Speg.) Kuntze SPECIES
-=======
+# Terana pulchella (Speg.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

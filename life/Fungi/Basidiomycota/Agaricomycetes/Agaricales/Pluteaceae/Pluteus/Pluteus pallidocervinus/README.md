@@ -1,5 +1,4 @@
-Pluteus pallidocervinus Murrill SPECIES
-=======
+# Pluteus pallidocervinus Murrill SPECIES
 
 #### Status
 ACCEPTED

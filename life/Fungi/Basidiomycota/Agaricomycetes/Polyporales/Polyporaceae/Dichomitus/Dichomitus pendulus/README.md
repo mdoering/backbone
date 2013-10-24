@@ -1,5 +1,4 @@
-Dichomitus pendulus Laessøe & Ryvarden, 2010 SPECIES
-=======
+# Dichomitus pendulus Laessøe & Ryvarden, 2010 SPECIES
 
 #### Status
 ACCEPTED

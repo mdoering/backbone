@@ -1,5 +1,4 @@
-Uromyces lachenaliae Doidge SPECIES
-=======
+# Uromyces lachenaliae Doidge SPECIES
 
 #### Status
 ACCEPTED

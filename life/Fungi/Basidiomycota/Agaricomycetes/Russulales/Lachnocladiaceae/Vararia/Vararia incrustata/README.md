@@ -1,5 +1,4 @@
-Vararia incrustata Gresl. & Rajchenb., 1997 SPECIES
-=======
+# Vararia incrustata Gresl. & Rajchenb., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diploschistes ethiopicus C.W. Dodge SPECIES
-=======
+# Diploschistes ethiopicus C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

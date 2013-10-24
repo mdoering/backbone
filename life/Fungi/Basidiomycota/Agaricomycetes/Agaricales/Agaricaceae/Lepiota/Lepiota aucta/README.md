@@ -1,5 +1,4 @@
-Lepiota aucta (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Lepiota aucta (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutherfordoides subtenuis (Nomura, 1983) SPECIES
-=======
+# Rutherfordoides subtenuis (Nomura, 1983) SPECIES
 
 #### Status
 ACCEPTED

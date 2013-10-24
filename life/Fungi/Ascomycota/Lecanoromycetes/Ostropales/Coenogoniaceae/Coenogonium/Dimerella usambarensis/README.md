@@ -1,5 +1,4 @@
-Dimerella usambarensis Vezda & Farkas SPECIES
-=======
+# Dimerella usambarensis Vezda & Farkas SPECIES
 
 #### Status
 ACCEPTED

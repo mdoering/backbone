@@ -1,5 +1,4 @@
-Lachnea capensis Van der Byl SPECIES
-=======
+# Lachnea capensis Van der Byl SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena arborea Velen. SPECIES
-=======
+# Mycena arborea Velen. SPECIES
 
 #### Status
 ACCEPTED

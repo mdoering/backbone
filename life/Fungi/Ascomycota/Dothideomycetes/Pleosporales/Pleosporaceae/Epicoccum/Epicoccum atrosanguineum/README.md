@@ -1,5 +1,4 @@
-Epicoccum atrosanguineum Wallr. SPECIES
-=======
+# Epicoccum atrosanguineum Wallr. SPECIES
 
 #### Status
 ACCEPTED

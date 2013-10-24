@@ -1,5 +1,4 @@
-Athelia poeltii Jülich, 1978 SPECIES
-=======
+# Athelia poeltii Jülich, 1978 SPECIES
 
 #### Status
 ACCEPTED

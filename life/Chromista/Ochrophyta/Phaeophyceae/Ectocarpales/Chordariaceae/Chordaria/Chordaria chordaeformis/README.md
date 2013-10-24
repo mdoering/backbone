@@ -1,5 +1,4 @@
-Chordaria chordaeformis (Kjellman) H.Kawai & S.-H.Kim in S.-H. Kim & Kawai, 2002 SPECIES
-=======
+# Chordaria chordaeformis (Kjellman) H.Kawai & S.-H.Kim in S.-H. Kim & Kawai, 2002 SPECIES
 
 #### Status
 ACCEPTED

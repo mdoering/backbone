@@ -1,17 +1,16 @@
-Helmisporium fuscum Fuckel SPECIES
-=======
+# Helminthosporium fuscum Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Jb. nassau. Ver. Naturk. 27-28: 78 (1874)
 
 #### Original name
-Helmisporium fuscum Fuckel
+Helminthosporium fuscum Fuckel
 
 ### Remarks
 null

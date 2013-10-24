@@ -1,5 +1,4 @@
-Favolaschia subvelutina (Berk.) Kuntze SPECIES
-=======
+# Favolaschia subvelutina (Berk.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

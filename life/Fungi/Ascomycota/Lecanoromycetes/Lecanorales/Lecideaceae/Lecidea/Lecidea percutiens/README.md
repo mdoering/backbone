@@ -1,5 +1,4 @@
-Lecidea percutiens Poelt SPECIES
-=======
+# Lecidea percutiens Poelt SPECIES
 
 #### Status
 ACCEPTED

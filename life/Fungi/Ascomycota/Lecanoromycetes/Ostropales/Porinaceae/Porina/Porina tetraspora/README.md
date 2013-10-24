@@ -1,5 +1,4 @@
-Porina tetraspora Räsänen SPECIES
-=======
+# Porina tetraspora Räsänen SPECIES
 
 #### Status
 ACCEPTED

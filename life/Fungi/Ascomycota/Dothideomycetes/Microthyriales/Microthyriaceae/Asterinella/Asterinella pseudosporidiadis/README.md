@@ -1,5 +1,4 @@
-Asterinella pseudosporidiadis Hansf. SPECIES
-=======
+# Asterinella pseudosporidiadis Hansf. SPECIES
 
 #### Status
 ACCEPTED

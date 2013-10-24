@@ -1,5 +1,4 @@
-Sclerotium laetum Ehrenb. SPECIES
-=======
+# Sclerotium laetum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

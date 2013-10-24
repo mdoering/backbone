@@ -1,5 +1,4 @@
-Gyrophora vellerea Nyl. SPECIES
-=======
+# Gyrophora vellerea Nyl. SPECIES
 
 #### Status
 ACCEPTED

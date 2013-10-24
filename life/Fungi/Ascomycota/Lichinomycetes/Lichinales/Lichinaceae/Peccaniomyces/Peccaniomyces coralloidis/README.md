@@ -1,5 +1,4 @@
-Peccaniomyces coralloidis Cif. & Tomas. SPECIES
-=======
+# Peccaniomyces coralloidis Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Seynesiella exigua M.E. Barr SPECIES
-=======
+# Seynesiella exigua M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

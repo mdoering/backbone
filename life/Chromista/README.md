@@ -1,5 +1,4 @@
-Chromista KINGDOM
-=======
+# Chromista KINGDOM
 
 #### Status
 ACCEPTED

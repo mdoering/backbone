@@ -1,5 +1,4 @@
-Cercidospora megarhizae (Berl. & Vogl.) Kuntze SPECIES
-=======
+# Cercidospora megarhizae (Berl. & Vogl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

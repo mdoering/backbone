@@ -1,5 +1,4 @@
-Xylosphaera scruposa (Fr.) Dennis SPECIES
-=======
+# Xylosphaera scruposa (Fr.) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca jenisejensis H. Magn. SPECIES
-=======
+# Caloplaca jenisejensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

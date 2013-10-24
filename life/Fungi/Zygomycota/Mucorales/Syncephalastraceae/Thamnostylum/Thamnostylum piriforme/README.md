@@ -1,17 +1,16 @@
-Thamnidium cyaneum Pound & Clem., 1896 SPECIES
-=======
+# Thamnostylum piriforme (Bainier) Arx & H.P. Upadhyay, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Agron. lusit. 4: 5 (1896)
+in Arx, Gen. Fungi Sporul. Cult. (Lehr) 247 (1970)
 
 #### Original name
-Thamnidium cyaneum Pound & Clem., 1896
+Helicostylum piriforme Bainier, 1880
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Amphidinium lissae Schiller, 1925 SPECIES
-=======
+# Amphidinium lissae Schiller, 1925 SPECIES
 
 #### Status
 ACCEPTED

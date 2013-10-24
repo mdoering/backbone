@@ -1,17 +1,16 @@
-Petasospora chambardi (C. Ramírez & Boidin) Boidin & Abadie SPECIES
-=======
+# Wickerhamomyces chambardii (C. Ramírez & Boidin) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+FEMS Yeast Res. 8(6): 952 (2008)
 
 #### Original name
-Saccharomyces chambardii C. Ramírez & Boidin, 1954
+Petasospora chambardii (C. Ramírez & Boidin) Boidin & Abadie, 1955
 
 ### Remarks
 null

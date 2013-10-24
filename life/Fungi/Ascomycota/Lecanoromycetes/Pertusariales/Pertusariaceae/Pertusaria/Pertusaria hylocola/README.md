@@ -1,5 +1,4 @@
-Pertusaria hylocola Jariangpr. & A.W. Archer SPECIES
-=======
+# Pertusaria hylocola Jariangpr. & A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

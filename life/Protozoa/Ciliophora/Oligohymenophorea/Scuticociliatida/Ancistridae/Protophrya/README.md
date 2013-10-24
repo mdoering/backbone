@@ -1,5 +1,4 @@
-Protophrya Kofoid, 1903 GENUS
-=======
+# Protophrya Kofoid, 1903 GENUS
 
 #### Status
 ACCEPTED

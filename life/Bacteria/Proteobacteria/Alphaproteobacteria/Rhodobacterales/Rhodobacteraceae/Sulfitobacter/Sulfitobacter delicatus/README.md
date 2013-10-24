@@ -1,5 +1,4 @@
-Sulfitobacter delicatus Ivanova et al., 2004 SPECIES
-=======
+# Sulfitobacter delicatus Ivanova et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

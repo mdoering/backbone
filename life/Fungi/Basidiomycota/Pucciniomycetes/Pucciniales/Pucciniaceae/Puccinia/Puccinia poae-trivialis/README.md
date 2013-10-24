@@ -1,5 +1,4 @@
-Puccinia poae-trivialis Bubák SPECIES
-=======
+# Puccinia poae-trivialis Bubák SPECIES
 
 #### Status
 ACCEPTED

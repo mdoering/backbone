@@ -1,5 +1,4 @@
-Caloplaca himalayana Y. Joshi & Upreti SPECIES
-=======
+# Caloplaca himalayana Y. Joshi & Upreti SPECIES
 
 #### Status
 ACCEPTED

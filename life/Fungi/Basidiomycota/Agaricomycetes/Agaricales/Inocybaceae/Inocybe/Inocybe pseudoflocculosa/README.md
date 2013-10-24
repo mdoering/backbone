@@ -1,5 +1,4 @@
-Inocybe pseudoflocculosa Kühner SPECIES
-=======
+# Inocybe pseudoflocculosa Kühner SPECIES
 
 #### Status
 ACCEPTED

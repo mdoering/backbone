@@ -1,14 +1,13 @@
-Hypocopra bombardioides (Auersw. & G. Winter) Sacc., 1882 SPECIES
-=======
+# Bombardioidea bombardioides (Auersw.) Moreau, 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 1: 243 (1882)
+Encyclop. Mycol. 25(1): 317 (1954)
 
 #### Original name
 Sordaria bombardioides Auersw., 1872

@@ -1,5 +1,4 @@
-Psathyrella sublanata A.H. Sm. SPECIES
-=======
+# Psathyrella sublanata A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

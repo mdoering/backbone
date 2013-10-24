@@ -1,5 +1,4 @@
-Globigerinoides sicanus De Stefani SPECIES
-=======
+# Globigerinoides sicanus De Stefani SPECIES
 
 #### Status
 ACCEPTED

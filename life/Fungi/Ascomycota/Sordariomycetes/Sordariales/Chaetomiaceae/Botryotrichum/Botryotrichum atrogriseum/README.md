@@ -1,5 +1,4 @@
-Botryotrichum atrogriseum J.F.H. Beyma, 1928 SPECIES
-=======
+# Botryotrichum atrogriseum J.F.H. Beyma, 1928 SPECIES
 
 #### Status
 ACCEPTED

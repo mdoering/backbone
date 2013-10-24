@@ -1,5 +1,4 @@
-Anabaena flos-aquae G.S. West SPECIES
-=======
+# Anabaena flos-aquae G.S. West SPECIES
 
 #### Status
 ACCEPTED

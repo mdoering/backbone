@@ -1,17 +1,16 @@
-Barya salacensis Racib. SPECIES
-=======
+# Barya salaccensis Racib. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. int. Acad. Sci. Lett. Cracovie, Cl. sci. math. nat. Sér. B, sci. nat. 1: 909 (1906)
 
 #### Original name
-Barya salacensis Racib.
+Barya salaccensis Racib.
 
 ### Remarks
 null

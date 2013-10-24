@@ -1,5 +1,4 @@
-Acanthonitschkea peltigericola (Alstrup & Olech) O.E. Erikss. & R. Sant. SPECIES
-=======
+# Acanthonitschkea peltigericola (Alstrup & Olech) O.E. Erikss. & R. Sant. SPECIES
 
 #### Status
 ACCEPTED

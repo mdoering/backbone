@@ -1,5 +1,4 @@
-Phomopsis oenotherae (Dearn.) Petr. SPECIES
-=======
+# Phomopsis oenotherae (Dearn.) Petr. SPECIES
 
 #### Status
 ACCEPTED

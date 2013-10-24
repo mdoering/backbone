@@ -1,5 +1,4 @@
-Acrophragmis coronata Kiffer & Reisinger, 1970 SPECIES
-=======
+# Acrophragmis coronata Kiffer & Reisinger, 1970 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amphisphaeria parva Vouaux SPECIES
-=======
+# Amphisphaeria parva Vouaux SPECIES
 
 #### Status
 ACCEPTED

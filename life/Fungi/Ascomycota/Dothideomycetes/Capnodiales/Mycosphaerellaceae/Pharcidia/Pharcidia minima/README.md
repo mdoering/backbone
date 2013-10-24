@@ -1,5 +1,4 @@
-Pharcidia minima (Stein) Vouaux SPECIES
-=======
+# Pharcidia minima (Stein) Vouaux SPECIES
 
 #### Status
 ACCEPTED

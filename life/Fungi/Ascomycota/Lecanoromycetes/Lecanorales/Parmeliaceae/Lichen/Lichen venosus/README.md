@@ -1,5 +1,4 @@
-Lichen venosus Gilib. SPECIES
-=======
+# Lichen venosus Gilib. SPECIES
 
 #### Status
 ACCEPTED

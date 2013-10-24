@@ -1,5 +1,4 @@
-Penicillium mimosinum A.D. Hocking, 1980 SPECIES
-=======
+# Penicillium mimosinum A.D. Hocking, 1980 SPECIES
 
 #### Status
 DOUBTFUL

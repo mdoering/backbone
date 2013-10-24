@@ -1,5 +1,4 @@
-Phoma lolii Pass. SPECIES
-=======
+# Phoma lolii Pass. SPECIES
 
 #### Status
 ACCEPTED

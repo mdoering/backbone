@@ -1,5 +1,4 @@
-Opegrapha leuckertii S.Y. Kondr. & D.J. Galloway SPECIES
-=======
+# Opegrapha leuckertii S.Y. Kondr. & D.J. Galloway SPECIES
 
 #### Status
 ACCEPTED

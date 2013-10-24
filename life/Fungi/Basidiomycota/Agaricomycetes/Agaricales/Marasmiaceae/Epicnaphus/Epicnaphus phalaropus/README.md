@@ -1,5 +1,4 @@
-Epicnaphus phalaropus Singer, 1960 SPECIES
-=======
+# Epicnaphus phalaropus Singer, 1960 SPECIES
 
 #### Status
 ACCEPTED

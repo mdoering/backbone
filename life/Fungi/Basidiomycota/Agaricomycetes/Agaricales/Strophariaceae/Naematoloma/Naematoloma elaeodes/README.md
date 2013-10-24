@@ -1,14 +1,13 @@
-Nematoloma elaeodes (Fr.) P. Karst. SPECIES
-=======
+# Naematoloma elaeodes (Fr.) P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meddn Soc. Fauna Flora fenn. 5: 61 (1879)
 
 #### Original name
 Agaricus elaeodes Fr.

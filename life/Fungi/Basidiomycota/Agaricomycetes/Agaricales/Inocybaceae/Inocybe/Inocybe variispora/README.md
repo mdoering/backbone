@@ -1,5 +1,4 @@
-Inocybe variispora Fernández Sas. SPECIES
-=======
+# Inocybe variispora Fernández Sas. SPECIES
 
 #### Status
 ACCEPTED

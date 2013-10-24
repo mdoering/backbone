@@ -1,14 +1,13 @@
-Cistella pinicola (Henn. & Plöttn.) K. Holm & L. Holm, 1977 SPECIES
-=======
+# Ciliolarina pinicola (Henn. & Plöttn.) Huhtinen, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 21(no. 3): 15 (1977)
+Biblthca Mycol. 150: 94 (1993)
 
 #### Original name
 Niptera pinicola Henn. & Plöttn., 1899

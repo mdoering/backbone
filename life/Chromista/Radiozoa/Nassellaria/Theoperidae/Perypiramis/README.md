@@ -1,5 +1,4 @@
-Perypiramis GENUS
-=======
+# Perypiramis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Triscutum sullivanii SPECIES
-=======
+# Triscutum sullivanii SPECIES
 
 #### Status
 ACCEPTED

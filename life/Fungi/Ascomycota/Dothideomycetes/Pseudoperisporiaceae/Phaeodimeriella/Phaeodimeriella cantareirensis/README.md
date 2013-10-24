@@ -1,5 +1,4 @@
-Phaeodimeriella cantareirensis (Henn.) Hansf. SPECIES
-=======
+# Phaeodimeriella cantareirensis (Henn.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

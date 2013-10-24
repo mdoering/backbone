@@ -1,5 +1,4 @@
-Septoria hallericola Sacc. & D. Sacc. SPECIES
-=======
+# Septoria hallericola Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

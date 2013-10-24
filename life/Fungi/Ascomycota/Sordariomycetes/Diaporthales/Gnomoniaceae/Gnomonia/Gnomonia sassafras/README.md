@@ -1,5 +1,4 @@
-Gnomonia sassafras Ellis & Everh. SPECIES
-=======
+# Gnomonia sassafras Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

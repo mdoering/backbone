@@ -1,5 +1,4 @@
-Polyporus argentatus Cooke SPECIES
-=======
+# Polyporus argentatus Cooke SPECIES
 
 #### Status
 ACCEPTED

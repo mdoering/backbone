@@ -1,5 +1,4 @@
-Colpoda brasilensis Foissner, 2003 SPECIES
-=======
+# Colpoda brasilensis Foissner, 2003 SPECIES
 
 #### Status
 ACCEPTED

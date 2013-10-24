@@ -1,5 +1,4 @@
-Stanglomyces Raithelh. GENUS
-=======
+# Stanglomyces Raithelh. GENUS
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Lindbladia effusa var. simplex Rex VARIETY
-=======
+# Lindbladia tubulina Fr., 1849 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bot. Gaz. 17: 202 (1892)
+Summa veg. Scand. (Stockholm), Section Post. 449 (1849)
 
 #### Original name
-Lindbladia effusa var. simplex Rex
+Lindbladia tubulina Fr., 1849
 
 ### Remarks
 null

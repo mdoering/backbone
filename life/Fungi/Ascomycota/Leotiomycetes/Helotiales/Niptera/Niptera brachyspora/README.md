@@ -1,5 +1,4 @@
-Niptera brachyspora Sacc. SPECIES
-=======
+# Niptera brachyspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

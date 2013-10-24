@@ -1,14 +1,13 @@
-Polyporus albomarginatus Zipp. ex Lév., 1844 SPECIES
-=======
+# Pyrofomes albomarginatus (Zipp. ex Lév.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 2: 191 (1844)
+Norw. Jl Bot. 19: 236 (1972)
 
 #### Original name
 Polyporus albomarginatus Zipp. ex Lév., 1844

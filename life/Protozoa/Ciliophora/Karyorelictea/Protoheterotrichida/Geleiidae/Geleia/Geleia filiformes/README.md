@@ -1,5 +1,4 @@
-Geleia filiformes Nouzarède, 1976 SPECIES
-=======
+# Geleia filiformes Nouzarède, 1976 SPECIES
 
 #### Status
 ACCEPTED

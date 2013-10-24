@@ -1,5 +1,4 @@
-Zygosporium tuberculatum Subram. & Bhat, 1989 SPECIES
-=======
+# Zygosporium tuberculatum Subram. & Bhat, 1989 SPECIES
 
 #### Status
 ACCEPTED

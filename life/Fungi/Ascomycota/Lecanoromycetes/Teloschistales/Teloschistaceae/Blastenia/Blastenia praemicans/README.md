@@ -1,5 +1,4 @@
-Blastenia praemicans (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia praemicans (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

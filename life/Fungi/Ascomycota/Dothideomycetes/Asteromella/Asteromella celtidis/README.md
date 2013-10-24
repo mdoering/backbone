@@ -1,5 +1,4 @@
-Asteromella celtidis (Ellis & Kellerm.) Aa SPECIES
-=======
+# Asteromella celtidis (Ellis & Kellerm.) Aa SPECIES
 
 #### Status
 ACCEPTED

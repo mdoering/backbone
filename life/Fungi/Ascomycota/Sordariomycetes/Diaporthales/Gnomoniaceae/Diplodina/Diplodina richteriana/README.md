@@ -1,5 +1,4 @@
-Diplodina richteriana Staritz SPECIES
-=======
+# Diplodina richteriana Staritz SPECIES
 
 #### Status
 ACCEPTED

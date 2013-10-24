@@ -1,5 +1,4 @@
-Sporotrichum cretaceum (Traaen) Elphick & G. Sm. SPECIES
-=======
+# Sporotrichum cretaceum (Traaen) Elphick & G. Sm. SPECIES
 
 #### Status
 ACCEPTED

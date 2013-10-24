@@ -1,8 +1,7 @@
-Ustilago stuhlmanni Henn. SPECIES
-=======
+# Ustilago stuhlmannii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ustilago stuhlmanni Henn.
+Ustilago stuhlmannii Henn.
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Sarcogyne simplex var. simplex VARIETY
-=======
+# Polysporina simplex (Davies) Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Folia geobot. phytotax. 13: 399 (1978)
 
 #### Original name
-Sarcogyne simplex var. simplex
+Lichen simplex Davies
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dermatocarpon cretzoiui (Servít) Servít SPECIES
-=======
+# Dermatocarpon cretzoiui (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

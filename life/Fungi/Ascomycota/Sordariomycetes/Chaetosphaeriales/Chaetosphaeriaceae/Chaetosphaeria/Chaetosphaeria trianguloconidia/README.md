@@ -1,5 +1,4 @@
-Chaetosphaeria trianguloconidia Réblová & Seifert SPECIES
-=======
+# Chaetosphaeria trianguloconidia Réblová & Seifert SPECIES
 
 #### Status
 ACCEPTED

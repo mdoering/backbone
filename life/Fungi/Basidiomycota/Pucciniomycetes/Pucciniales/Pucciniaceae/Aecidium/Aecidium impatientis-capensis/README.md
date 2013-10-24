@@ -1,5 +1,4 @@
-Aecidium impatientis-capensis Doidge SPECIES
-=======
+# Aecidium impatientis-capensis Doidge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta linariae Sacc. SPECIES
-=======
+# Phyllosticta linariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

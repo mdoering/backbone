@@ -1,14 +1,13 @@
-Rhinocladiella obovoidea Matsush. SPECIES
-=======
+# Pleurothecium obovoideum (Matsush.) Arzanlou & Crous, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. microfung. Matsush. lect. (Kobe) 123 (1975)
+in Arzanlou, Groenewald, Gams, Braun, Shin & Crous, Stud. Mycol. 58: 83 (2007)
 
 #### Original name
 Rhinocladiella obovoidea Matsush.

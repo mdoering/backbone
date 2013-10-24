@@ -1,5 +1,4 @@
-Dendrospora crassa Descals SPECIES
-=======
+# Dendrospora crassa Descals SPECIES
 
 #### Status
 ACCEPTED

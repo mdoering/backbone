@@ -1,5 +1,4 @@
-Irpex raduloides Pilát SPECIES
-=======
+# Irpex raduloides Pilát SPECIES
 
 #### Status
 ACCEPTED

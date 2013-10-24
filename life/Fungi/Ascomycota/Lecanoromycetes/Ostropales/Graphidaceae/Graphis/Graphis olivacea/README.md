@@ -1,5 +1,4 @@
-Graphis olivacea Redinger SPECIES
-=======
+# Graphis olivacea Redinger SPECIES
 
 #### Status
 ACCEPTED

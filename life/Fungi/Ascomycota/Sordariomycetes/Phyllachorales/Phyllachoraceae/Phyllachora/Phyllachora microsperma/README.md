@@ -1,14 +1,13 @@
-Physalospora panici Rehm, 1901 SPECIES
-=======
+# Phyllachora microsperma Parbery, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 40: 114 (1901)
+Aust. J. Bot. 15: 324 (1967)
 
 #### Original name
 Physalospora panici Rehm, 1901

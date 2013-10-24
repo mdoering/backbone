@@ -1,14 +1,13 @@
-Lecidea leucocarpa (C. Knight) SPECIES
-=======
+# Bacidia leucocarpa C. Knight SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Trans. & Proc. New Zealand Inst. 12: 373 (1880)
 
 #### Original name
 Bacidia leucocarpa C. Knight

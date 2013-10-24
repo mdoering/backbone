@@ -1,5 +1,4 @@
-Ceratocystis bunae (Kitaj.) C. Moreau SPECIES
-=======
+# Ceratocystis bunae (Kitaj.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

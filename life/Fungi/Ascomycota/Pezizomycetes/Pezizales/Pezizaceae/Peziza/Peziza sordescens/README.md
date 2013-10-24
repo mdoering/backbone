@@ -1,5 +1,4 @@
-Peziza sordescens Berk. & M.A. Curtis SPECIES
-=======
+# Peziza sordescens Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

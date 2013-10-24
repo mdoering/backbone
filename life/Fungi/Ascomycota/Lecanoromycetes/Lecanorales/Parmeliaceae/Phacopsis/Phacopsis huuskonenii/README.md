@@ -1,5 +1,4 @@
-Phacopsis huuskonenii Räsänen SPECIES
-=======
+# Phacopsis huuskonenii Räsänen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phoma averrhoiae Subramon. & V.G. Rao SPECIES
-=======
+# Phoma averrhoae Subramon. & V.G. Rao SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of the University of Poona 54: 146 (1981)
 
 #### Original name
-Phoma averrhoiae Subramon. & V.G. Rao
+Phoma averrhoae Subramon. & V.G. Rao
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Oospora lasiosphaeriae G. Arnaud SPECIES
-=======
+# Oospora lasiosphaeriae G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

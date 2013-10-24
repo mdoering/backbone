@@ -1,5 +1,4 @@
-Linkiella epimedii (Miyabe & S. Ito) Syd. SPECIES
-=======
+# Linkiella epimedii (Miyabe & S. Ito) Syd. SPECIES
 
 #### Status
 ACCEPTED

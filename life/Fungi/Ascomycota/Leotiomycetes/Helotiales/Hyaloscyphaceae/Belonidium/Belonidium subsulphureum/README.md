@@ -1,17 +1,16 @@
-Belonidium subsulphurem Svrcek SPECIES
-=======
+# Belonidium subsulphureum Svrcek SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ceská Mykol. 42(2): 76 (1988)
 
 #### Original name
-Belonidium subsulphurem Svrcek
+Belonidium subsulphureum Svrcek
 
 ### Remarks
 null

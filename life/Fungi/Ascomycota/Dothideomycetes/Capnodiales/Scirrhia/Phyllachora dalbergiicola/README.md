@@ -1,8 +1,7 @@
-Phyllachora perforans (Rehm) Sacc. & Syd., 1902 SPECIES
-=======
+# Phyllachora dalbergiicola Henn., 1897 SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

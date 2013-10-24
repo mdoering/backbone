@@ -1,5 +1,4 @@
-Lecidea allorgei Werner SPECIES
-=======
+# Lecidea allorgei Werner SPECIES
 
 #### Status
 ACCEPTED

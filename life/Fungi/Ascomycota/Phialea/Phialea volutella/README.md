@@ -1,5 +1,4 @@
-Phialea volutella (Fr.) Sacc. SPECIES
-=======
+# Phialea volutella (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

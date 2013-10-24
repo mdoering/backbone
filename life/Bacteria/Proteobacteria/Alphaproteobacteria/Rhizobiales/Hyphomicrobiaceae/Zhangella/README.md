@@ -1,5 +1,4 @@
-Zhangella Xu, Chen, Fu, Fan, Zhou, Liu & Liu, 2009 GENUS
-=======
+# Zhangella Xu, Chen, Fu, Fan, Zhou, Liu & Liu, 2009 GENUS
 
 #### Status
 ACCEPTED

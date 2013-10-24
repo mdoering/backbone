@@ -1,5 +1,4 @@
-Sticta coerulescens Mont. SPECIES
-=======
+# Sticta coerulescens Mont. SPECIES
 
 #### Status
 ACCEPTED

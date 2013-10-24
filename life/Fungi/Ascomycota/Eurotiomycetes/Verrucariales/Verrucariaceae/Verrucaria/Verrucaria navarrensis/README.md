@@ -1,17 +1,16 @@
-Verrucaria navarrense Breuss & Etayo SPECIES
-=======
+# Verrucaria navarrensis Breuss & Etayo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Linzer biol. Beitr. 27(2): 666 (1995)
 
 #### Original name
-Verrucaria navarrense Breuss & Etayo
+Verrucaria navarrensis Breuss & Etayo
 
 ### Remarks
 null

@@ -1,8 +1,7 @@
-Torula fermentati Saito, 1922 SPECIES
-=======
+# Candida fermentati (Saito) F.Y. Bai, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

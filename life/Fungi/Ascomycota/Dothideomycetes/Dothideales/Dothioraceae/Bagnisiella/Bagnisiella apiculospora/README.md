@@ -1,5 +1,4 @@
-Bagnisiella apiculospora M.S. Patil & S.D. Patil SPECIES
-=======
+# Bagnisiella apiculospora M.S. Patil & S.D. Patil SPECIES
 
 #### Status
 ACCEPTED

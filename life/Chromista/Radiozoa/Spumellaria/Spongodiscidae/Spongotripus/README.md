@@ -1,5 +1,4 @@
-Spongotripus Haeckel, 1881 GENUS
-=======
+# Spongotripus Haeckel, 1881 GENUS
 
 #### Status
 ACCEPTED

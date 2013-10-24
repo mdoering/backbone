@@ -1,5 +1,4 @@
-Aspicilia berntii A. Nordin, Tibell & Owe-Larss. SPECIES
-=======
+# Aspicilia berntii A. Nordin, Tibell & Owe-Larss. SPECIES
 
 #### Status
 ACCEPTED

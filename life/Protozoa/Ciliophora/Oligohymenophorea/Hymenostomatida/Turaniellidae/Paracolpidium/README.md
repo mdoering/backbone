@@ -1,5 +1,4 @@
-Paracolpidium Ganner & Foissner, 1989 GENUS
-=======
+# Paracolpidium Ganner & Foissner, 1989 GENUS
 
 #### Status
 ACCEPTED

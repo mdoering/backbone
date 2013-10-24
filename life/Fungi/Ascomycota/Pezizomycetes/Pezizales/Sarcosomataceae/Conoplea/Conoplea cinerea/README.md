@@ -1,5 +1,4 @@
-Conoplea cinerea Pers. SPECIES
-=======
+# Conoplea cinerea Pers. SPECIES
 
 #### Status
 ACCEPTED

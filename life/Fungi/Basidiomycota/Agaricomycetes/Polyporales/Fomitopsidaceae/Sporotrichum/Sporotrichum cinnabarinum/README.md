@@ -1,5 +1,4 @@
-Sporotrichum cinnabarinum (Pers.) Fr. SPECIES
-=======
+# Sporotrichum cinnabarinum (Pers.) Fr. SPECIES
 
 #### Status
 ACCEPTED

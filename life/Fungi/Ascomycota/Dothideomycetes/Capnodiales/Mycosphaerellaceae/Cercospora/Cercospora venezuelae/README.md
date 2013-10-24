@@ -1,5 +1,4 @@
-Cercospora venezuelae var. venezuelae VARIETY
-=======
+# Cercospora venezuelae Chupp SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Monograph Univ. Puerto Rico, Series B 2: 254 (1934)
 
 #### Original name
-Cercospora venezuelae var. venezuelae
+Cercospora venezuelae Chupp
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Strangospora delitescens (Arnold) R. Sant., 1980 SPECIES
-=======
+# Biatoridium delitescens (Arnold) Hafellner, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Hawksworth, James & Coppins, Lichenologist 12(1): 95 (1980)
+Acta bot. fenn. 150: 43 (1994)
 
 #### Original name
 Biatorella delitescens Arnold, 1876

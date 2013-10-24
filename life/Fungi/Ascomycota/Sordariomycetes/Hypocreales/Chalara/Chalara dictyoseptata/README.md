@@ -1,5 +1,4 @@
-Chalara dictyoseptata Nag Raj & S. Hughes, 1974 SPECIES
-=======
+# Chalara dictyoseptata Nag Raj & S. Hughes, 1974 SPECIES
 
 #### Status
 ACCEPTED

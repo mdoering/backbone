@@ -1,5 +1,4 @@
-Imbatodinium jaegeri (Alberti, 1961) Dörhöfer & Davies, 1980 SPECIES
-=======
+# Imbatodinium jaegeri (Alberti, 1961) Dörhöfer & Davies, 1980 SPECIES
 
 #### Status
 ACCEPTED

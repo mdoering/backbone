@@ -1,5 +1,4 @@
-Octospora mitra (L.) Timm SPECIES
-=======
+# Octospora mitra (L.) Timm SPECIES
 
 #### Status
 ACCEPTED

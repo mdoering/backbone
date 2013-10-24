@@ -1,8 +1,7 @@
-Cyphelium lucidum var. karelicum Vain. VARIETY
-=======
+# Cyphelium karelicum (Vain.) Räsänen SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Cyphelium lucidum var. karelicum Vain.
 
 ### Remarks
 null

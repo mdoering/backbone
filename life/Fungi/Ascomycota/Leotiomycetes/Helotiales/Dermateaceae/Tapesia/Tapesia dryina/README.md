@@ -1,5 +1,4 @@
-Tapesia dryina Velen. SPECIES
-=======
+# Tapesia dryina Velen. SPECIES
 
 #### Status
 ACCEPTED

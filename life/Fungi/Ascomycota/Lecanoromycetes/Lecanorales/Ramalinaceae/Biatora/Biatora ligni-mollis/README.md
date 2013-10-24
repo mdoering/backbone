@@ -1,5 +1,4 @@
-Biatora ligni-mollis T. Sprib. & Printzen SPECIES
-=======
+# Biatora ligni-mollis T. Sprib. & Printzen SPECIES
 
 #### Status
 ACCEPTED

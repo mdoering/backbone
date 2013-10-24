@@ -1,14 +1,13 @@
-Lachnea velenovskyi Vacek ex Svrcek, 1948 SPECIES
-=======
+# Humaria velenovskyi (Vacek ex Svrcek) Korf & Sagara, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Mus. Nat. Pragae 4B(no. 6, Bot. No. 1): 51 (1948)
+Phytologia 24(1): 4 (1972)
 
 #### Original name
 Lachnea velenovskyi Vacek ex Svrcek, 1948

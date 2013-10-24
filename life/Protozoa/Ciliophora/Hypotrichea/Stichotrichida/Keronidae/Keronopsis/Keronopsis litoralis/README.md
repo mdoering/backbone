@@ -1,5 +1,4 @@
-Keronopsis litoralis SPECIES
-=======
+# Keronopsis litoralis SPECIES
 
 #### Status
 ACCEPTED

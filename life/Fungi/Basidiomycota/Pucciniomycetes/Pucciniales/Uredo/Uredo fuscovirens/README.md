@@ -1,5 +1,4 @@
-Uredo fuscovirens Ces. SPECIES
-=======
+# Uredo fuscovirens Ces. SPECIES
 
 #### Status
 ACCEPTED

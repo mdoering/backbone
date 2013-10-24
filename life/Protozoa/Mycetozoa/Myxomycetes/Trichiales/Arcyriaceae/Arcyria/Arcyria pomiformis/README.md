@@ -1,17 +1,16 @@
-Arcyria pomiformis var. heterospora G. Lister VARIETY
-=======
+# Arcyria pomiformis (Leers) Rostaf., 1875 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Bot. 71: 221 (1933)
+Sluzowce monogr. (Paryz) 271 (1875)
 
 #### Original name
-Arcyria pomiformis var. heterospora G. Lister
+null
 
 ### Remarks
 null

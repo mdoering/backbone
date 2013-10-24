@@ -1,5 +1,4 @@
-Cercospora kaki Ellis & Everh. SPECIES
-=======
+# Cercospora kaki Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

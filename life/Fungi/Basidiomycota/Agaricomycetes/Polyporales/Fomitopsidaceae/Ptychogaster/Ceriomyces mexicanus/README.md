@@ -1,5 +1,4 @@
-Ceriomyces mexicanus De Seynes SPECIES
-=======
+# Ceriomyces mexicanus De Seynes SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigonema multipartitum Gardner SPECIES
-=======
+# Stigonema multipartitum Gardner SPECIES
 
 #### Status
 ACCEPTED

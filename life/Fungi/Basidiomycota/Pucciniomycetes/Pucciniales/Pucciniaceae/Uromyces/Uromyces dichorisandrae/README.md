@@ -1,5 +1,4 @@
-Uromyces dichorisandrae Henn. SPECIES
-=======
+# Uromyces dichorisandrae Henn. SPECIES
 
 #### Status
 ACCEPTED

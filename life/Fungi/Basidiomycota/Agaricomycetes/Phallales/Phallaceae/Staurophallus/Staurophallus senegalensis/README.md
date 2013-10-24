@@ -1,5 +1,4 @@
-Staurophallus senegalensis Mont., 1845 SPECIES
-=======
+# Staurophallus senegalensis Mont., 1845 SPECIES
 
 #### Status
 ACCEPTED

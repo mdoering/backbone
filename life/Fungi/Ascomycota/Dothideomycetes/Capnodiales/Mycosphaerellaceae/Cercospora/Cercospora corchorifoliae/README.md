@@ -1,5 +1,4 @@
-Cercospora corchorifoliae Thirum. & Govindu SPECIES
-=======
+# Cercospora corchorifoliae Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleurothyriella Petr. & Syd. GENUS
-=======
+# Pleurothyriella Petr. & Syd. GENUS
 
 #### Status
 ACCEPTED

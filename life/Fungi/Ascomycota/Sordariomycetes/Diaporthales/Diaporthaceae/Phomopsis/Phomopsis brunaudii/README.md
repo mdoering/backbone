@@ -1,5 +1,4 @@
-Phomopsis brunaudii (Pass.) Moesz SPECIES
-=======
+# Phomopsis brunaudii (Pass.) Moesz SPECIES
 
 #### Status
 ACCEPTED

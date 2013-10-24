@@ -1,5 +1,4 @@
-Lophodermium agathidis Minter & Hettige, 1983 SPECIES
-=======
+# Lophodermium agathidis Minter & Hettige, 1983 SPECIES
 
 #### Status
 ACCEPTED

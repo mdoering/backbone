@@ -1,5 +1,4 @@
-Hypoxylon endoxanthum Mont. SPECIES
-=======
+# Hypoxylon endoxanthum Mont. SPECIES
 
 #### Status
 ACCEPTED

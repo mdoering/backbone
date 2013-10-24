@@ -1,5 +1,4 @@
-Laboulbenia sphyriopsidis Thaxt. SPECIES
-=======
+# Laboulbenia sphyriopsidis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

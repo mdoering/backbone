@@ -1,5 +1,4 @@
-Cortinarius subumbrinus Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius subumbrinus Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

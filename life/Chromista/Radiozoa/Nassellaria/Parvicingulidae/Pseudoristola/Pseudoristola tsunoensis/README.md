@@ -1,5 +1,4 @@
-Pseudoristola tsunoensis SPECIES
-=======
+# Pseudoristola tsunoensis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Penicillium carmino-violaceum Dierckx SPECIES
-=======
+# Penicillium carmineoviolaceum Dierckx SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Annals de la Soc. Scientifique Bruxelles 6 (1901)
 
 #### Original name
-Penicillium carmino-violaceum Dierckx
+Penicillium carmineoviolaceum Dierckx
 
 ### Remarks
 null

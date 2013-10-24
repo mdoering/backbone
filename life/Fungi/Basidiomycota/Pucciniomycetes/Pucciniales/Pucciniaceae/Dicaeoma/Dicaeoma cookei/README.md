@@ -1,5 +1,4 @@
-Dicaeoma cookei (De Toni) Kuntze SPECIES
-=======
+# Dicaeoma cookei (De Toni) Kuntze SPECIES
 
 #### Status
 ACCEPTED

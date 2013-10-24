@@ -1,17 +1,16 @@
-Marasmius sphaerodermus var. major Speg. VARIETY
-=======
+# Epicnaphus sphaerodermus (Speg.) Raithelh., 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Anal. Soc. cient. argent. 9: 163 (1880)
+Metrodiana 4(3): 53 (1973)
 
 #### Original name
-Marasmius sphaerodermus var. major Speg.
+Marasmius sphaerodermus Speg., 1880
 
 ### Remarks
 null

@@ -1,17 +1,16 @@
-Ganoderma pullatum var. pullatum VARIETY
-=======
+# Amauroderma rude (Berk.) Torrend, 1920 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 5(2,3): 75 (1889)
+Brotéria, sér. bot. 18: 127 (1920)
 
 #### Original name
-Ganoderma pullatum var. pullatum
+Fomes rudis Berk., 1885
 
 ### Remarks
 null

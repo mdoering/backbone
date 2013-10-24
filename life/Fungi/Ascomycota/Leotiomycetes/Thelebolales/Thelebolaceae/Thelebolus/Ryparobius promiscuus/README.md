@@ -1,5 +1,4 @@
-Ryparobius promiscuus P. Karst. SPECIES
-=======
+# Ryparobius promiscuus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

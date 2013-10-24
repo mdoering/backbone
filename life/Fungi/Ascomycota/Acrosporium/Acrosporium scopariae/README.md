@@ -1,5 +1,4 @@
-Acrosporium scopariae N.D. Sharma & A.C. Jain SPECIES
-=======
+# Acrosporium scopariae N.D. Sharma & A.C. Jain SPECIES
 
 #### Status
 ACCEPTED

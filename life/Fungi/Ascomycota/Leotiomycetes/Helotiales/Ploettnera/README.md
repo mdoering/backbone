@@ -1,5 +1,4 @@
-Ploettnera Hennings, 1899 GENUS
-=======
+# Ploettnera Hennings, 1899 GENUS
 
 #### Status
 ACCEPTED

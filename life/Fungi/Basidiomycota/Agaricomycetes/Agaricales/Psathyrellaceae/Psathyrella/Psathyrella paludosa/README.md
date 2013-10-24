@@ -1,5 +1,4 @@
-Psathyrella paludosa A.H. Sm. SPECIES
-=======
+# Psathyrella paludosa A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

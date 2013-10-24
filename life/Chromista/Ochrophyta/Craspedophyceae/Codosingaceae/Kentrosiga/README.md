@@ -1,5 +1,4 @@
-Kentrosiga J.Schiller, 1953 GENUS
-=======
+# Kentrosiga J.Schiller, 1953 GENUS
 
 #### Status
 ACCEPTED

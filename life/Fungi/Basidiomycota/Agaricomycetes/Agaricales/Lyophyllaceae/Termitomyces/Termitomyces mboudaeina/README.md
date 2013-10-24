@@ -1,5 +1,4 @@
-Termitomyces mboudaeina Mossebo SPECIES
-=======
+# Termitomyces mboudaeina Mossebo SPECIES
 
 #### Status
 ACCEPTED

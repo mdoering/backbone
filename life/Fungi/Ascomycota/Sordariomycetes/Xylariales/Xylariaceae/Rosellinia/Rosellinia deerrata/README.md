@@ -1,5 +1,4 @@
-Rosellinia deerrata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Rosellinia deerrata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

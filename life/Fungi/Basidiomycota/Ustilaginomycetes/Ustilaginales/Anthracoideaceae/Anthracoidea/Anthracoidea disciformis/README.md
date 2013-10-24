@@ -1,5 +1,4 @@
-Anthracoidea disciformis (Liro) Zambett. SPECIES
-=======
+# Anthracoidea disciformis (Liro) Zambett. SPECIES
 
 #### Status
 ACCEPTED

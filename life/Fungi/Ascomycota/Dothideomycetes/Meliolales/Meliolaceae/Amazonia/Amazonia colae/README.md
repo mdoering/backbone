@@ -1,5 +1,4 @@
-Amazonia colae Mibey SPECIES
-=======
+# Amazonia colae Mibey SPECIES
 
 #### Status
 ACCEPTED

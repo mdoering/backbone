@@ -1,5 +1,4 @@
-Crepidotus xanthophaeus Singer SPECIES
-=======
+# Crepidotus xanthophaeus Singer SPECIES
 
 #### Status
 ACCEPTED

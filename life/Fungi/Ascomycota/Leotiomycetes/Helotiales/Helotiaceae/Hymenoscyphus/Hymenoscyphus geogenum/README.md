@@ -1,5 +1,4 @@
-Hymenoscyphus geogenum Boud. SPECIES
-=======
+# Hymenoscyphus geogenum Boud. SPECIES
 
 #### Status
 ACCEPTED

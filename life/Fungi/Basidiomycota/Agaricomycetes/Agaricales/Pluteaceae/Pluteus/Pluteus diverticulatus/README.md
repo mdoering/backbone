@@ -1,5 +1,4 @@
-Pluteus diverticulatus Corriol SPECIES
-=======
+# Pluteus diverticulatus Corriol SPECIES
 
 #### Status
 ACCEPTED

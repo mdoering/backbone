@@ -1,5 +1,4 @@
-Gloeosporium bomplandii Speg. SPECIES
-=======
+# Gloeosporium bomplandii Speg. SPECIES
 
 #### Status
 ACCEPTED

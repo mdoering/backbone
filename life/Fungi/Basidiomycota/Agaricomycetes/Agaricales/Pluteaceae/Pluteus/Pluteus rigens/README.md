@@ -1,5 +1,4 @@
-Pluteus rigens Pers. SPECIES
-=======
+# Pluteus rigens Pers. SPECIES
 
 #### Status
 ACCEPTED

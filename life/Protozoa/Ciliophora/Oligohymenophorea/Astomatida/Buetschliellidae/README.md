@@ -1,5 +1,4 @@
-Buetschliellidae de Puytorac in Corliss, 1979 FAMILY
-=======
+# Buetschliellidae de Puytorac in Corliss, 1979 FAMILY
 
 #### Status
 ACCEPTED

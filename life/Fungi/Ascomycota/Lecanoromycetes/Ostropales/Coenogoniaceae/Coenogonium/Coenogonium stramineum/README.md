@@ -1,5 +1,4 @@
-Coenogonium stramineum (Aptroot & Seaward) Lücking, Aptroot & Sipman SPECIES
-=======
+# Coenogonium stramineum (Aptroot & Seaward) Lücking, Aptroot & Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia pycnanthemi Schwein. SPECIES
-=======
+# Puccinia pycnanthemi Schwein. SPECIES
 
 #### Status
 ACCEPTED

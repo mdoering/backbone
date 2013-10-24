@@ -1,5 +1,4 @@
-Elenella Pronina, 1969 GENUS
-=======
+# Elenella Pronina, 1969 GENUS
 
 #### Status
 ACCEPTED

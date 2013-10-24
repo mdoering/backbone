@@ -1,5 +1,4 @@
-Uredo marisci Petch SPECIES
-=======
+# Uredo marisci Petch SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaetopyrena poae (Niessl) Sacc., 1883 SPECIES
-=======
+# Chaetopyrena poae (Niessl) Sacc., 1883 SPECIES
 
 #### Status
 ACCEPTED

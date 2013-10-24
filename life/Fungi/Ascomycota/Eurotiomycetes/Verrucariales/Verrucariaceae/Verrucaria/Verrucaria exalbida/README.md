@@ -1,5 +1,4 @@
-Verrucaria exalbida Nyl. SPECIES
-=======
+# Verrucaria exalbida Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium carpineum Schulzer SPECIES
-=======
+# Sporidesmium carpineum Schulzer SPECIES
 
 #### Status
 ACCEPTED

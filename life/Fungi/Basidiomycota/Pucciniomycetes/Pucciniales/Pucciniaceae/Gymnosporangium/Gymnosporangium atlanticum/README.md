@@ -1,5 +1,4 @@
-Gymnosporangium atlanticum Guyot & Malençon, 1957 SPECIES
-=======
+# Gymnosporangium atlanticum Guyot & Malençon, 1957 SPECIES
 
 #### Status
 ACCEPTED

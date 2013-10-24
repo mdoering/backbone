@@ -1,5 +1,4 @@
-Mycobacterium aquae Jenkins et al., 1972 SPECIES
-=======
+# Mycobacterium aquae Jenkins et al., 1972 SPECIES
 
 #### Status
 ACCEPTED

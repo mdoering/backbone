@@ -1,5 +1,4 @@
-Lanzia sinensis W.Y. Zhuang SPECIES
-=======
+# Lanzia sinensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stictina flavireagens Gyeln. SPECIES
-=======
+# Stictina flavireagens Gyeln. SPECIES
 
 #### Status
 ACCEPTED

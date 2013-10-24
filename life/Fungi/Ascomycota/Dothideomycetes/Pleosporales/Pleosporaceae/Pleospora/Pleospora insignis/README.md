@@ -1,5 +1,4 @@
-Pleospora insignis Gucevic SPECIES
-=======
+# Pleospora insignis Gucevic SPECIES
 
 #### Status
 ACCEPTED

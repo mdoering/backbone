@@ -1,5 +1,4 @@
-Amylosporomyces camelicolor Khara, 1988 SPECIES
-=======
+# Amylosporomyces camelicolor Khara, 1988 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesophellia angustispora Trappe, Castellano & Malajczuk, 1996 SPECIES
-=======
+# Mesophellia angustispora Trappe, Castellano & Malajczuk, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Elvela floriformis Schaeff. SPECIES
-=======
+# Helvella floriformis Schaeff. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fung. Bavar. Palat. 4: tab. 278 (1774)
 
 #### Original name
-Elvela floriformis Schaeff.
+Helvella floriformis Schaeff.
 
 ### Remarks
 null

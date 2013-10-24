@@ -1,5 +1,4 @@
-Sclerococcum tephromelarum Etayo & Calat. SPECIES
-=======
+# Sclerococcum tephromelarum Etayo & Calat. SPECIES
 
 #### Status
 ACCEPTED

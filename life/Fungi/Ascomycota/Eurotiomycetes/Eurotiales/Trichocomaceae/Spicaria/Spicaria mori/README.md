@@ -1,5 +1,4 @@
-Spicaria mori Hara SPECIES
-=======
+# Spicaria mori Hara SPECIES
 
 #### Status
 ACCEPTED

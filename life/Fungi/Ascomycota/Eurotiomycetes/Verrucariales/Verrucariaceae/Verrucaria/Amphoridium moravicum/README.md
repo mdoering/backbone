@@ -1,5 +1,4 @@
-Amphoridium moravicum (Servít) Servít SPECIES
-=======
+# Amphoridium moravicum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

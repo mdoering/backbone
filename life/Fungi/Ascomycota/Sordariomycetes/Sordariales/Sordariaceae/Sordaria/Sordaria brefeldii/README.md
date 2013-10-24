@@ -1,5 +1,4 @@
-Sordaria brefeldii Zopf SPECIES
-=======
+# Sordaria brefeldii Zopf SPECIES
 
 #### Status
 ACCEPTED

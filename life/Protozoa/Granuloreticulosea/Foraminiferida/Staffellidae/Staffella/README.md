@@ -1,5 +1,4 @@
-Staffella Ozawa, 1925 GENUS
-=======
+# Staffella Ozawa, 1925 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acidothermus Mohagheghi, Grohmann, Himmel, Leighton & Updegraff, 1986 GENUS
-=======
+# Acidothermus Mohagheghi, Grohmann, Himmel, Leighton & Updegraff, 1986 GENUS
 
 #### Status
 ACCEPTED

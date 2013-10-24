@@ -1,5 +1,4 @@
-Meliola holocalicis Speg. SPECIES
-=======
+# Meliola holocalicis Speg. SPECIES
 
 #### Status
 ACCEPTED

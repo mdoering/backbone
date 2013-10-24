@@ -1,5 +1,4 @@
-Phyllachora goeppertiae Theiss., 1908 SPECIES
-=======
+# Phyllachora goeppertiae Theiss., 1908 SPECIES
 
 #### Status
 DOUBTFUL

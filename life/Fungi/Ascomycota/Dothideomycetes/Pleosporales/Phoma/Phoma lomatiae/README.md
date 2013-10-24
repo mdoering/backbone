@@ -1,5 +1,4 @@
-Phoma lomatiae Speg. SPECIES
-=======
+# Phoma lomatiae Speg. SPECIES
 
 #### Status
 ACCEPTED

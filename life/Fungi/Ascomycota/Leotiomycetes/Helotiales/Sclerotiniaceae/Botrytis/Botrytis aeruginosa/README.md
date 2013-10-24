@@ -1,5 +1,4 @@
-Botrytis aeruginosa Schumach. SPECIES
-=======
+# Botrytis aeruginosa Schumach. SPECIES
 
 #### Status
 ACCEPTED

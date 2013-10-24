@@ -1,5 +1,4 @@
-Meliola sambuci Hansf. SPECIES
-=======
+# Meliola sambuci Hansf. SPECIES
 
 #### Status
 ACCEPTED

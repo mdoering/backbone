@@ -1,5 +1,4 @@
-Discosiella vochysiae Bat. & I.H. Lima SPECIES
-=======
+# Discosiella vochysiae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cellulasclerotes Stach & Pickh. GENUS
-=======
+# Cellulasclerotes Stach & Pickh. GENUS
 
 #### Status
 ACCEPTED

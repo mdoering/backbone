@@ -1,5 +1,4 @@
-Buellia atroalbella (Nyl.) Mong. SPECIES
-=======
+# Buellia atroalbella (Nyl.) Mong. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta nicolai Bubák SPECIES
-=======
+# Phyllosticta nicolai Bubák SPECIES
 
 #### Status
 ACCEPTED

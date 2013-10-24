@@ -1,5 +1,4 @@
-Phoma selaginellae Cooke & Massee SPECIES
-=======
+# Phoma selaginellae Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

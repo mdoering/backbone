@@ -1,5 +1,4 @@
-Buellia pacifica H. Magn. SPECIES
-=======
+# Buellia pacifica H. Magn. SPECIES
 
 #### Status
 ACCEPTED

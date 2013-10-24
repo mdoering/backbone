@@ -1,5 +1,4 @@
-Cristulospora cadyrovi L.F. Khodzhaeva & I.V. Issi SPECIES
-=======
+# Cristulospora cadyrovi L.F. Khodzhaeva & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

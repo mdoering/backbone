@@ -1,5 +1,4 @@
-Erinella armeniaca (Pers.) Quél. SPECIES
-=======
+# Erinella armeniaca (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

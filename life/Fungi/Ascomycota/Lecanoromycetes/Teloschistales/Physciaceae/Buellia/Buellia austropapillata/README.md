@@ -1,5 +1,4 @@
-Buellia austropapillata Øvstedal SPECIES
-=======
+# Buellia austropapillata Øvstedal SPECIES
 
 #### Status
 ACCEPTED

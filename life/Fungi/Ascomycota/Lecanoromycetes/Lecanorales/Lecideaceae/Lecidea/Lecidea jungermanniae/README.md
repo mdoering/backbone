@@ -1,5 +1,4 @@
-Lecidea jungermanniae (Vahl) Ach. SPECIES
-=======
+# Lecidea jungermanniae (Vahl) Ach. SPECIES
 
 #### Status
 ACCEPTED

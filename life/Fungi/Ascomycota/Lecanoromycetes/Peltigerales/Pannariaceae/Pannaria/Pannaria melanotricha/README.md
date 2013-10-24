@@ -1,5 +1,4 @@
-Pannaria melanotricha Müll. Arg. SPECIES
-=======
+# Pannaria melanotricha Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

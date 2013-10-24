@@ -1,5 +1,4 @@
-Mycosphaerella rottboelliae J. Kranz SPECIES
-=======
+# Mycosphaerella rottboelliae J. Kranz SPECIES
 
 #### Status
 ACCEPTED

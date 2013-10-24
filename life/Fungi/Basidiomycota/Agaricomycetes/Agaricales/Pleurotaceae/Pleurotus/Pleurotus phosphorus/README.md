@@ -1,5 +1,4 @@
-Pleurotus phosphorus (Berk.) Sacc. SPECIES
-=======
+# Pleurotus phosphorus (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Eilohedra vitrea (Parker, 1953) SPECIES
-=======
+# Eilohedra vitrea (Parker, 1953) SPECIES
 
 #### Status
 ACCEPTED

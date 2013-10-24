@@ -1,5 +1,4 @@
-Hypoxylon plumbinum P.M.D. Martin SPECIES
-=======
+# Hypoxylon plumbinum P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

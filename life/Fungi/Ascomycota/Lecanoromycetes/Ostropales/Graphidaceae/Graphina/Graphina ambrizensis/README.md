@@ -1,5 +1,4 @@
-Graphina ambrizensis (Vain.) Zahlbr. SPECIES
-=======
+# Graphina ambrizensis (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella utahensis McKnight & A.H. Sm. SPECIES
-=======
+# Psathyrella utahensis McKnight & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

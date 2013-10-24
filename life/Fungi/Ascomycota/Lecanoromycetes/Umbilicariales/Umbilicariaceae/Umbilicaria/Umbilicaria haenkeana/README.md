@@ -1,5 +1,4 @@
-Umbilicaria haenkeana Flörke SPECIES
-=======
+# Umbilicaria haenkeana Flörke SPECIES
 
 #### Status
 ACCEPTED

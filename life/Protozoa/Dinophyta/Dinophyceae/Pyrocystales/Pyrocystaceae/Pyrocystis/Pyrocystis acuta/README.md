@@ -1,5 +1,4 @@
-Pyrocystis acuta Kofoid, 1907 SPECIES
-=======
+# Pyrocystis acuta Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paramecium ougandae Dragesco, 1972 SPECIES
-=======
+# Paramecium ougandae Dragesco, 1972 SPECIES
 
 #### Status
 ACCEPTED

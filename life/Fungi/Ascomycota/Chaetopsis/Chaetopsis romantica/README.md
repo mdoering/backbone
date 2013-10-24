@@ -1,5 +1,4 @@
-Chaetopsis romantica (Rambelli & Lunghini) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
-=======
+# Chaetopsis romantica (Rambelli & Lunghini) DiCosmo, S.M. Berch & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Compsosomella Small & Lynn, 1985 GENUS
-=======
+# Compsosomella Small & Lynn, 1985 GENUS
 
 #### Status
 ACCEPTED

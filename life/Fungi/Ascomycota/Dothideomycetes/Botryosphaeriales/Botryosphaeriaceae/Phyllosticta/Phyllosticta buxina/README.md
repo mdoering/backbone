@@ -1,5 +1,4 @@
-Phyllosticta buxina Sacc., 1878 SPECIES
-=======
+# Phyllosticta buxina Sacc., 1878 SPECIES
 
 #### Status
 ACCEPTED

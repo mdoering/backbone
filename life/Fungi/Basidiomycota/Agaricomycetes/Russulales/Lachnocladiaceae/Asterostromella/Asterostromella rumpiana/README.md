@@ -1,5 +1,4 @@
-Asterostromella rumpiana P.H.B. Talbot SPECIES
-=======
+# Asterostromella rumpiana P.H.B. Talbot SPECIES
 
 #### Status
 ACCEPTED

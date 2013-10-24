@@ -1,5 +1,4 @@
-Ascophanus flavus P. Karst. SPECIES
-=======
+# Ascophanus flavus P. Karst. SPECIES
 
 #### Status
 ACCEPTED

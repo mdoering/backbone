@@ -1,5 +1,4 @@
-Meliola kerichoensis Mibey SPECIES
-=======
+# Meliola kerichoensis Mibey SPECIES
 
 #### Status
 ACCEPTED

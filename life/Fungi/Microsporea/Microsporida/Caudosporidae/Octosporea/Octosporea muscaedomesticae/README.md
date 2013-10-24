@@ -1,5 +1,4 @@
-Octosporea muscaedomesticae Flu SPECIES
-=======
+# Octosporea muscaedomesticae Flu SPECIES
 
 #### Status
 ACCEPTED

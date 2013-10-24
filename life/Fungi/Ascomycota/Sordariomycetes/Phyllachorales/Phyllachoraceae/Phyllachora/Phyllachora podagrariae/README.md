@@ -1,5 +1,4 @@
-Phyllachora podagrariae (Roth) P. Karst. SPECIES
-=======
+# Phyllachora podagrariae (Roth) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

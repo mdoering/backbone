@@ -1,5 +1,4 @@
-Cryptomycella plumeriae Bat. & Peres SPECIES
-=======
+# Cryptomycella plumeriae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

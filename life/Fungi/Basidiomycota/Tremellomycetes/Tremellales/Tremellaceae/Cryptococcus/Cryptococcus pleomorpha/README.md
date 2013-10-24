@@ -1,5 +1,4 @@
-Cryptococcus pleomorpha Gruner SPECIES
-=======
+# Cryptococcus pleomorpha Gruner SPECIES
 
 #### Status
 ACCEPTED

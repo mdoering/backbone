@@ -1,5 +1,4 @@
-Aspicilia multipunctata (Vain.) R. Sant. SPECIES
-=======
+# Aspicilia multipunctata (Vain.) R. Sant. SPECIES
 
 #### Status
 ACCEPTED

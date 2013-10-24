@@ -1,5 +1,4 @@
-Lembosia lophopetali (Rehm) Hansf. SPECIES
-=======
+# Lembosia lophopetali (Rehm) Hansf. SPECIES
 
 #### Status
 ACCEPTED

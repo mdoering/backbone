@@ -1,5 +1,4 @@
-Pyrenula pleiomeriza (Nyl.) Zahlbr. SPECIES
-=======
+# Pyrenula pleiomeriza (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

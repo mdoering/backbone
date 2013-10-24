@@ -1,5 +1,4 @@
-Galerina evelata (Singer) A.H. Sm. & Singer SPECIES
-=======
+# Galerina evelata (Singer) A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

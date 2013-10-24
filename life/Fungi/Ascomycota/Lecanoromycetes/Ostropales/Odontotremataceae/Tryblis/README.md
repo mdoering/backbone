@@ -1,5 +1,4 @@
-Tryblis Clem. GENUS
-=======
+# Tryblis Clem. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rutilaria amplectans (Grove & Sturt) R. Ross SPECIES
-=======
+# Rutilaria amplectans (Grove & Sturt) R. Ross SPECIES
 
 #### Status
 ACCEPTED

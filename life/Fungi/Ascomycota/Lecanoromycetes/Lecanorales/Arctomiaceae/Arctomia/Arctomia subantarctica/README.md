@@ -1,5 +1,4 @@
-Arctomia subantarctica Øvstedal SPECIES
-=======
+# Arctomia subantarctica Øvstedal SPECIES
 
 #### Status
 ACCEPTED

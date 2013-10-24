@@ -1,5 +1,4 @@
-Lichenochora epinashii Nav.-Ros. & Etayo, 2001 SPECIES
-=======
+# Lichenochora epinashii Nav.-Ros. & Etayo, 2001 SPECIES
 
 #### Status
 ACCEPTED

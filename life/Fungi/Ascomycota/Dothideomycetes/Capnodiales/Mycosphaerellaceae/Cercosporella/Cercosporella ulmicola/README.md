@@ -1,5 +1,4 @@
-Cercosporella ulmicola Höhn. SPECIES
-=======
+# Cercosporella ulmicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

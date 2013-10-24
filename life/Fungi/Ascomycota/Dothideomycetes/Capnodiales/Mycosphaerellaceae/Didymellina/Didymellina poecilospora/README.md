@@ -1,5 +1,4 @@
-Didymellina poecilospora McWhorter SPECIES
-=======
+# Didymellina poecilospora McWhorter SPECIES
 
 #### Status
 ACCEPTED

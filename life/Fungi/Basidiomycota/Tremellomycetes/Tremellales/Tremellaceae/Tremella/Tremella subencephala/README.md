@@ -1,5 +1,4 @@
-Tremella subencephala Bandoni & Ginns SPECIES
-=======
+# Tremella subencephala Bandoni & Ginns SPECIES
 
 #### Status
 ACCEPTED

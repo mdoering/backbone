@@ -1,5 +1,4 @@
-Epalxis uncinata SPECIES
-=======
+# Epalxis uncinata SPECIES
 
 #### Status
 ACCEPTED

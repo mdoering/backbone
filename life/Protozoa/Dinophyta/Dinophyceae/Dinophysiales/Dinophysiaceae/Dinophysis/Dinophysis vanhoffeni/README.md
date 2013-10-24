@@ -1,5 +1,4 @@
-Dinophysis vanhoffeni SPECIES
-=======
+# Dinophysis vanhoffeni SPECIES
 
 #### Status
 ACCEPTED

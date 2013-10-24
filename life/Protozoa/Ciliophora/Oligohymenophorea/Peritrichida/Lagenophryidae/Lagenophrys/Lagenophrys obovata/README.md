@@ -1,5 +1,4 @@
-Lagenophrys obovata Stokes, 1887 SPECIES
-=======
+# Lagenophrys obovata Stokes, 1887 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Dasyscypha atropae Pers. SPECIES
-=======
+# Dasyscyphus atropae Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dasyscypha atropae Pers.
+Dasyscyphus atropae Pers.
 
 ### Remarks
 null

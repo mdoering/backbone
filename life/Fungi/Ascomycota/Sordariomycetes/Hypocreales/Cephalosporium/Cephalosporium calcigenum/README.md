@@ -1,5 +1,4 @@
-Cephalosporium calcigenum Preuss SPECIES
-=======
+# Cephalosporium calcigenum Preuss SPECIES
 
 #### Status
 ACCEPTED

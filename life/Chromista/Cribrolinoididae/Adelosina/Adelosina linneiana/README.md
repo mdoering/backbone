@@ -1,5 +1,4 @@
-Adelosina linneiana var. separans Wiesner, 1923 VARIETY
-=======
+# Adelosina linneiana (d’Orbigny, 1839) SPECIES
 
 #### Status
 ACCEPTED

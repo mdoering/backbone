@@ -1,5 +1,4 @@
-Hypogymnia wilfiana Goward, T. Sprib. & Ahti SPECIES
-=======
+# Hypogymnia wilfiana Goward, T. Sprib. & Ahti SPECIES
 
 #### Status
 ACCEPTED

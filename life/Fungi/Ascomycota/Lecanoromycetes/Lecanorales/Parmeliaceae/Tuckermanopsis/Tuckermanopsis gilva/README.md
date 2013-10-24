@@ -1,5 +1,4 @@
-Tuckermanopsis gilva (Asahina) M.J. Lai SPECIES
-=======
+# Tuckermanopsis gilva (Asahina) M.J. Lai SPECIES
 
 #### Status
 ACCEPTED

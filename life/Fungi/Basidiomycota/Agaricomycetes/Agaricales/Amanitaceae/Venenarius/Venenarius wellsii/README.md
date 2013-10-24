@@ -1,5 +1,4 @@
-Venenarius wellsii Murrill SPECIES
-=======
+# Venenarius wellsii Murrill SPECIES
 
 #### Status
 ACCEPTED

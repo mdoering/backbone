@@ -1,8 +1,7 @@
-Actinothecium patogonicum Speg. SPECIES
-=======
+# Actinothecium patagonicum Speg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Actinothecium patogonicum Speg.
+Actinothecium patagonicum Speg.
 
 ### Remarks
 null

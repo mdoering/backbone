@@ -1,5 +1,4 @@
-Agaricus pristoides Fr. SPECIES
-=======
+# Agaricus pristoides Fr. SPECIES
 
 #### Status
 ACCEPTED

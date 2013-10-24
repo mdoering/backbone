@@ -1,5 +1,4 @@
-Caloplaca contigua (A. Massal.) Migula SPECIES
-=======
+# Caloplaca contigua (A. Massal.) Migula SPECIES
 
 #### Status
 ACCEPTED

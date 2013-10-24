@@ -1,5 +1,4 @@
-Squamaria cartilaginea var. cartilaginea VARIETY
-=======
+# Squamaria cartilaginea (Ach.) DC. SPECIES
 
 #### Status
 ACCEPTED

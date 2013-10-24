@@ -1,5 +1,4 @@
-Clitocybe hyacinthina Singer SPECIES
-=======
+# Clitocybe hyacinthina Singer SPECIES
 
 #### Status
 ACCEPTED

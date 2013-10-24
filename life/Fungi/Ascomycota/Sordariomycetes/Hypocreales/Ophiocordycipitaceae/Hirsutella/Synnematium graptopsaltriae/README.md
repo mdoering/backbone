@@ -1,5 +1,4 @@
-Synnematium graptopsaltriae Kobayasi SPECIES
-=======
+# Synnematium graptopsaltriae Kobayasi SPECIES
 
 #### Status
 ACCEPTED

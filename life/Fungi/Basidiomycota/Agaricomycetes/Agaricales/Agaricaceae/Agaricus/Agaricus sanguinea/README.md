@@ -1,5 +1,4 @@
-Agaricus sanguinea Bull. SPECIES
-=======
+# Agaricus sanguinea Bull. SPECIES
 
 #### Status
 ACCEPTED

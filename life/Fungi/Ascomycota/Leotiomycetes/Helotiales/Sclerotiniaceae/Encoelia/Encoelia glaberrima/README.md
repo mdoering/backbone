@@ -1,5 +1,4 @@
-Encoelia glaberrima (Rehm) Kirschst., 1935 SPECIES
-=======
+# Encoelia glaberrima (Rehm) Kirschst., 1935 SPECIES
 
 #### Status
 ACCEPTED

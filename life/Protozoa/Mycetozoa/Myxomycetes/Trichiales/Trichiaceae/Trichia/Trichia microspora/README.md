@@ -1,5 +1,4 @@
-Trichia microspora Yu Li & Q. Wang, 1989 SPECIES
-=======
+# Trichia microspora Yu Li & Q. Wang, 1989 SPECIES
 
 #### Status
 ACCEPTED

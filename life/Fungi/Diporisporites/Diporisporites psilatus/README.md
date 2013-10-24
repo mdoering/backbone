@@ -1,5 +1,4 @@
-Diporisporites psilatus P. Kumar SPECIES
-=======
+# Diporisporites psilatus P. Kumar SPECIES
 
 #### Status
 ACCEPTED

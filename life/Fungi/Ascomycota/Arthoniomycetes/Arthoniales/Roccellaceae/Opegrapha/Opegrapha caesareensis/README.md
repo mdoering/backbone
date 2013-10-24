@@ -1,5 +1,4 @@
-Opegrapha caesareensis W. Nylander SPECIES
-=======
+# Opegrapha caesareensis W. Nylander SPECIES
 
 #### Status
 ACCEPTED

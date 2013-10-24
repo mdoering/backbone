@@ -1,5 +1,4 @@
-Placosphaeria ulmi Grove SPECIES
-=======
+# Placosphaeria ulmi Grove SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Batiacasphaera micropapillata Stover, 1977 SPECIES
-=======
+# Batiacasphaera micropapillata Stover, 1977 SPECIES
 
 #### Status
 ACCEPTED

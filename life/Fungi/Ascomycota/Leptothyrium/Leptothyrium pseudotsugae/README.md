@@ -1,5 +1,4 @@
-Leptothyrium pseudotsugae Dearn. SPECIES
-=======
+# Leptothyrium pseudotsugae Dearn. SPECIES
 
 #### Status
 ACCEPTED

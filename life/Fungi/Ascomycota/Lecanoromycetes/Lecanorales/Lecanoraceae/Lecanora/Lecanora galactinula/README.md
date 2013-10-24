@@ -1,5 +1,4 @@
-Lecanora galactinula Vain. SPECIES
-=======
+# Lecanora galactinula Vain. SPECIES
 
 #### Status
 ACCEPTED

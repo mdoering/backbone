@@ -1,5 +1,4 @@
-Meliola anisophylleae var. anisophylleae VARIETY
-=======
+# Meliola anisophylleae Hansf. & Deighton SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycol. Pap. 23: 13 (1948)
 
 #### Original name
-Meliola anisophylleae var. anisophylleae
+Meliola anisophylleae Hansf. & Deighton
 
 ### Remarks
 null

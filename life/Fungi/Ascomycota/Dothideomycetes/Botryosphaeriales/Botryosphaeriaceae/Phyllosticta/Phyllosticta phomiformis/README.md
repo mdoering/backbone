@@ -1,5 +1,4 @@
-Phyllosticta phomiformis Sacc. SPECIES
-=======
+# Phyllosticta phomiformis Sacc. SPECIES
 
 #### Status
 ACCEPTED

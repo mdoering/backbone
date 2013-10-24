@@ -1,5 +1,4 @@
-Alternaria pulcherrimae T.Y. Zhang & J.C. David SPECIES
-=======
+# Alternaria pulcherrimae T.Y. Zhang & J.C. David SPECIES
 
 #### Status
 ACCEPTED

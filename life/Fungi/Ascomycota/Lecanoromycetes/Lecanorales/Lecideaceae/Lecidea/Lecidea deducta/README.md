@@ -1,5 +1,4 @@
-Lecidea deducta Nyl. SPECIES
-=======
+# Lecidea deducta Nyl. SPECIES
 
 #### Status
 ACCEPTED

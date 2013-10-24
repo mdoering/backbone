@@ -1,5 +1,4 @@
-Hygrophorus pseudochrysaspis Hesler & A.H. Sm. SPECIES
-=======
+# Hygrophorus pseudochrysaspis Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

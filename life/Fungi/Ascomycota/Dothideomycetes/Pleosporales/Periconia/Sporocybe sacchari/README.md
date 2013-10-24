@@ -1,5 +1,4 @@
-Sporocybe sacchari Speg. SPECIES
-=======
+# Sporocybe sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

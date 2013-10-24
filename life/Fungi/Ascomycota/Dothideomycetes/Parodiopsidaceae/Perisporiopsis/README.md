@@ -1,17 +1,16 @@
-Meliolidium Speg. GENUS
-=======
+# Perisporiopsis Hennings, 1904 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 26(2-4): 336 (1924)
+Hedwigia 43: 83 (1904)
 
 #### Original name
-Meliolidium Speg.
+Perisporiopsis Hennings, 1904
 
 ### Remarks
 null

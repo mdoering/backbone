@@ -1,5 +1,4 @@
-Mollisia epityphicola Svrcek SPECIES
-=======
+# Mollisia epityphicola Svrcek SPECIES
 
 #### Status
 ACCEPTED

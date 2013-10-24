@@ -1,5 +1,4 @@
-Enchelys tencoranica SPECIES
-=======
+# Enchelys tencoranica SPECIES
 
 #### Status
 ACCEPTED

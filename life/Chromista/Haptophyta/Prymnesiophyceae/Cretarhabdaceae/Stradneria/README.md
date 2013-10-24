@@ -1,5 +1,4 @@
-Stradneria P. Reinhardt, 1964 GENUS
-=======
+# Stradneria P. Reinhardt, 1964 GENUS
 
 #### Status
 ACCEPTED

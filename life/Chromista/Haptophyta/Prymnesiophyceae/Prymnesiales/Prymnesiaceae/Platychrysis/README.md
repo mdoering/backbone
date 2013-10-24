@@ -1,5 +1,4 @@
-Platychrysis L. Geitler, 1930 GENUS
-=======
+# Platychrysis L. Geitler, 1930 GENUS
 
 #### Status
 ACCEPTED

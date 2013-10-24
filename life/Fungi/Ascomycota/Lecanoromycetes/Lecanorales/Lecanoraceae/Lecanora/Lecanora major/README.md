@@ -1,5 +1,4 @@
-Lecanora major Lynge SPECIES
-=======
+# Lecanora major Lynge SPECIES
 
 #### Status
 ACCEPTED

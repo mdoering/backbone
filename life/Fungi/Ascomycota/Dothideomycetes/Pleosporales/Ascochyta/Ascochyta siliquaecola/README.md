@@ -1,5 +1,4 @@
-Ascochyta siliquaecola Unamuno SPECIES
-=======
+# Ascochyta siliquaecola Unamuno SPECIES
 
 #### Status
 ACCEPTED

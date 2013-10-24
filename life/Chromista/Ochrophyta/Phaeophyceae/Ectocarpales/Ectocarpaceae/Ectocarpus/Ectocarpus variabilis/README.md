@@ -1,5 +1,4 @@
-Ectocarpus variabilis Vickers SPECIES
-=======
+# Ectocarpus variabilis Vickers SPECIES
 
 #### Status
 ACCEPTED

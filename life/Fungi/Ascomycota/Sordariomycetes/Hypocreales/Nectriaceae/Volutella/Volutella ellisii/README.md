@@ -1,5 +1,4 @@
-Volutella ellisii Langl. SPECIES
-=======
+# Volutella ellisii Langl. SPECIES
 
 #### Status
 ACCEPTED

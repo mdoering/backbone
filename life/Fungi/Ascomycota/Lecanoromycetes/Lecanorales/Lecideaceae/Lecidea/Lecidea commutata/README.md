@@ -1,5 +1,4 @@
-Lecidea commutata Ach. SPECIES
-=======
+# Lecidea commutata Ach. SPECIES
 
 #### Status
 ACCEPTED

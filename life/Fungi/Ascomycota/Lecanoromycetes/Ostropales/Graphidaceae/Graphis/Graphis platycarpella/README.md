@@ -1,5 +1,4 @@
-Graphis platycarpella Müll. Arg. SPECIES
-=======
+# Graphis platycarpella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

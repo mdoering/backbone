@@ -1,5 +1,4 @@
-Spermatoloncha maticola Speg., 1908 SPECIES
-=======
+# Spermatoloncha maticola Speg., 1908 SPECIES
 
 #### Status
 ACCEPTED

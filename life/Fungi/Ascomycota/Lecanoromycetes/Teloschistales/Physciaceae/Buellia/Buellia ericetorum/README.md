@@ -1,5 +1,4 @@
-Buellia ericetorum Körb. SPECIES
-=======
+# Buellia ericetorum Körb. SPECIES
 
 #### Status
 ACCEPTED

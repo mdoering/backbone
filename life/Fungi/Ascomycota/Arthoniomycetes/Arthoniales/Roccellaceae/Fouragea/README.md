@@ -1,5 +1,4 @@
-Fouragea GENUS
-=======
+# Fouragea GENUS
 
 #### Status
 ACCEPTED

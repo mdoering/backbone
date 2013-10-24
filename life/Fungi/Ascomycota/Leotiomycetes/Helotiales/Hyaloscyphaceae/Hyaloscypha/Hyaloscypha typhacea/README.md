@@ -1,5 +1,4 @@
-Hyaloscypha typhacea Velen. SPECIES
-=======
+# Hyaloscypha typhacea Velen. SPECIES
 
 #### Status
 ACCEPTED

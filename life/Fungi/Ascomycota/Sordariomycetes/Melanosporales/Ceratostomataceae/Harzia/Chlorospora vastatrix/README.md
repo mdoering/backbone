@@ -1,5 +1,4 @@
-Chlorospora vastatrix Speg. SPECIES
-=======
+# Chlorospora vastatrix Speg. SPECIES
 
 #### Status
 ACCEPTED

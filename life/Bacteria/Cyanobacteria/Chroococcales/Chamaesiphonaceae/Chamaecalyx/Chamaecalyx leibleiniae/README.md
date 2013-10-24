@@ -1,8 +1,7 @@
-Sphaenosiphon leibleiniae Reinsch SPECIES
-=======
+# Chamaecalyx leibleiniae (Reinsch) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

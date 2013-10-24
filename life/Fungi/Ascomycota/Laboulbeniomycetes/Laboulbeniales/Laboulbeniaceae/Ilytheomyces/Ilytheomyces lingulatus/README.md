@@ -1,5 +1,4 @@
-Ilytheomyces lingulatus Thaxt. SPECIES
-=======
+# Ilytheomyces lingulatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

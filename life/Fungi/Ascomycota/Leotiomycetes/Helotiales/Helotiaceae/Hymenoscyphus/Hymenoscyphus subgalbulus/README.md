@@ -1,5 +1,4 @@
-Hymenoscyphus subgalbulus (Rehm) Kuntze SPECIES
-=======
+# Hymenoscyphus subgalbulus (Rehm) Kuntze SPECIES
 
 #### Status
 ACCEPTED

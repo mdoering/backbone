@@ -1,5 +1,4 @@
-Phaeoisariopsis penicillata (Ellis & Everh.) S.C. Jong & E.F. Morris SPECIES
-=======
+# Phaeoisariopsis penicillata (Ellis & Everh.) S.C. Jong & E.F. Morris SPECIES
 
 #### Status
 ACCEPTED

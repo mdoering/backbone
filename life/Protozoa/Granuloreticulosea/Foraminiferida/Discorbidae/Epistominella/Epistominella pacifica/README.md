@@ -1,5 +1,4 @@
-Epistominella pacifica SPECIES
-=======
+# Epistominella pacifica SPECIES
 
 #### Status
 ACCEPTED

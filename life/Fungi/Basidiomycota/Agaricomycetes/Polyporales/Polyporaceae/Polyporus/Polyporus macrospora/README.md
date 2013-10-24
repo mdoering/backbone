@@ -1,5 +1,4 @@
-Polyporus macrospora Cleland & Rodway SPECIES
-=======
+# Polyporus macrospora Cleland & Rodway SPECIES
 
 #### Status
 ACCEPTED

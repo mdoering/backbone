@@ -1,5 +1,4 @@
-Cercospora tokoroi Togashi SPECIES
-=======
+# Cercospora tokoroi Togashi SPECIES
 
 #### Status
 ACCEPTED

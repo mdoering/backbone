@@ -1,5 +1,4 @@
-Phyllosticta deliciosa Pass. SPECIES
-=======
+# Phyllosticta deliciosa Pass. SPECIES
 
 #### Status
 ACCEPTED

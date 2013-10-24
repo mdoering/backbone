@@ -1,5 +1,4 @@
-Asteridiella puiggariana Hansf. SPECIES
-=======
+# Asteridiella puiggariana Hansf. SPECIES
 
 #### Status
 ACCEPTED

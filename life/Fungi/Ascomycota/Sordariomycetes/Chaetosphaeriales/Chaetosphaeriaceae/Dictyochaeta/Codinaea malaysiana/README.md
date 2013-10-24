@@ -1,5 +1,4 @@
-Codinaea malaysiana (Kuthub.) SPECIES
-=======
+# Codinaea malaysiana (Kuthub.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargogyne similis H. Magn. SPECIES
-=======
+# Sargogyne similis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

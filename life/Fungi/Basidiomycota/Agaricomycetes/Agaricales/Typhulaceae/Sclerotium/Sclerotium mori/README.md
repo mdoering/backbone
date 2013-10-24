@@ -1,5 +1,4 @@
-Sclerotium mori Fuckel SPECIES
-=======
+# Sclerotium mori Fuckel SPECIES
 
 #### Status
 ACCEPTED

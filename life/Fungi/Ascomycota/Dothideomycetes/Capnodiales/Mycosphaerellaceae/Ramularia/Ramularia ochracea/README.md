@@ -1,5 +1,4 @@
-Ramularia ochracea (Fuckel) U. Braun SPECIES
-=======
+# Ramularia ochracea (Fuckel) U. Braun SPECIES
 
 #### Status
 ACCEPTED

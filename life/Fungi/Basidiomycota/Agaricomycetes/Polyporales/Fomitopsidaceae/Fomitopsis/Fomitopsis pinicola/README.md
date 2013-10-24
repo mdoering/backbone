@@ -1,17 +1,16 @@
-Fomes marginatus f. marginatus FORM
-=======
+# Fomitopsis pinicola (Sw.) P. Karst., 1881 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hymenomyc. eur. (Upsaliae) 683 (1874)
+Meddn Soc. Fauna Flora fenn. 6: 9 (1881)
 
 #### Original name
-Fomes marginatus f. marginatus
+Boletus pinicola Rea, 1922
 
 ### Remarks
 null

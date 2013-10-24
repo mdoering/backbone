@@ -1,5 +1,4 @@
-Exidia crenata (Schwein.) Fr. SPECIES
-=======
+# Exidia crenata (Schwein.) Fr. SPECIES
 
 #### Status
 ACCEPTED

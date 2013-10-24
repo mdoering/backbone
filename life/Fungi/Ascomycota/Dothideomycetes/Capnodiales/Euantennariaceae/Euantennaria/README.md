@@ -1,17 +1,16 @@
-Aithalomyces Woron. GENUS
-=======
+# Euantennaria Speg. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 24: 149 (1926)
+Physis, Buenos Aires 4: 284 (1918)
 
 #### Original name
-Aithalomyces Woron.
+Euantennaria Speg.
 
 ### Remarks
 null

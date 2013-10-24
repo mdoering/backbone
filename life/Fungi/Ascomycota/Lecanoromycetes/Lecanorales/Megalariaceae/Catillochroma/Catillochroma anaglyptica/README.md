@@ -1,5 +1,4 @@
-Catillochroma anaglyptica (Kremp.) Kalb SPECIES
-=======
+# Catillochroma anaglyptica (Kremp.) Kalb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Centrophorella minuta Dragesco, 1960 SPECIES
-=======
+# Kentrophoros minutus (Dragesco, 1960) Foissner, 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

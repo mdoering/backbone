@@ -1,5 +1,4 @@
-Paleopatellina Geodakchan, Kasimova & Poroshina, 1973 GENUS
-=======
+# Paleopatellina Geodakchan, Kasimova & Poroshina, 1973 GENUS
 
 #### Status
 ACCEPTED

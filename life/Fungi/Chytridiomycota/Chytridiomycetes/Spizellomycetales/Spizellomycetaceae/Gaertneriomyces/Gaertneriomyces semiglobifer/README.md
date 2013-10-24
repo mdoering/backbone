@@ -1,17 +1,16 @@
-Gaertneriomyces semiglobifera Uebelm. ex D.J.S. Barr SPECIES
-=======
+# Gaertneriomyces semiglobifer Uebelm. ex D.J.S. Barr, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Can. J. Bot. 58(22): 2386 (1980)
 
 #### Original name
-Gaertneriomyces semiglobifera Uebelm. ex D.J.S. Barr
+Gaertneriomyces semiglobifer Uebelm. ex D.J.S. Barr, 1980
 
 ### Remarks
 null

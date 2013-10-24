@@ -1,5 +1,4 @@
-Clitocybe lateritia J. Favre, 1955 SPECIES
-=======
+# Clitocybe lateritia J. Favre, 1955 SPECIES
 
 #### Status
 ACCEPTED

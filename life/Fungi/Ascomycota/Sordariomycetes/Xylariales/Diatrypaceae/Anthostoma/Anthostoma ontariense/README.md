@@ -1,5 +1,4 @@
-Anthostoma ontariense Ellis & Everh. SPECIES
-=======
+# Anthostoma ontariense Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

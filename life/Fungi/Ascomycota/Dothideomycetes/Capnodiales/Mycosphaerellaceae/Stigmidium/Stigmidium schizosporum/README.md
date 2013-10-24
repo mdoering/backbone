@@ -1,5 +1,4 @@
-Stigmidium schizosporum Matzer SPECIES
-=======
+# Stigmidium schizosporum Matzer SPECIES
 
 #### Status
 ACCEPTED

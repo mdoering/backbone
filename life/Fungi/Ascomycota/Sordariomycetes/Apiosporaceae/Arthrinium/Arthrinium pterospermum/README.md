@@ -1,5 +1,4 @@
-Arthrinium pterospermum (Cooke & Massee) Arx SPECIES
-=======
+# Arthrinium pterospermum (Cooke & Massee) Arx SPECIES
 
 #### Status
 ACCEPTED

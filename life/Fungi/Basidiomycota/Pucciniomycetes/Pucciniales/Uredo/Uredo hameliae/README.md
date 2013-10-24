@@ -1,5 +1,4 @@
-Uredo hameliae Arthur SPECIES
-=======
+# Uredo hameliae Arthur SPECIES
 
 #### Status
 ACCEPTED

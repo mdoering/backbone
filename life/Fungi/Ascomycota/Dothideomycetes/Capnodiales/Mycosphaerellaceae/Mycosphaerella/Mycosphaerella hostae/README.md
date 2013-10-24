@@ -1,5 +1,4 @@
-Mycosphaerella hostae Syd. SPECIES
-=======
+# Mycosphaerella hostae Syd. SPECIES
 
 #### Status
 ACCEPTED

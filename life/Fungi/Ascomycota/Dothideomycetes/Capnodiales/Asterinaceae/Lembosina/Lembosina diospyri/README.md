@@ -1,17 +1,16 @@
-Lembosina diospyrosi Sivan. & R.G. Shivas SPECIES
-=======
+# Lembosina diospyri Sivan. & R.G. Shivas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Fungal Diversity 11: 164 (2002)
 
 #### Original name
-Lembosina diospyrosi Sivan. & R.G. Shivas
+Lembosina diospyri Sivan. & R.G. Shivas
 
 ### Remarks
 null

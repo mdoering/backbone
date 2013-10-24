@@ -1,5 +1,4 @@
-Ascochytella rhodopensis Petr. SPECIES
-=======
+# Ascochytella rhodopensis Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomachora erythroxyli Bat. & Peres SPECIES
-=======
+# Phomachora erythroxyli Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

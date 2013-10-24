@@ -1,5 +1,4 @@
-Jacksonomyces pseudocretaceus Sheng H. Wu & Z.C. Chen SPECIES
-=======
+# Jacksonomyces pseudocretaceus Sheng H. Wu & Z.C. Chen SPECIES
 
 #### Status
 ACCEPTED

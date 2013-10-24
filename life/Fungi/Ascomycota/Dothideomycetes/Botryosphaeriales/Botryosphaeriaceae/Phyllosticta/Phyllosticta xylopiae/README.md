@@ -1,5 +1,4 @@
-Phyllosticta xylopiae Sacc. SPECIES
-=======
+# Phyllosticta xylopiae Sacc. SPECIES
 
 #### Status
 ACCEPTED

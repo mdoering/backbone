@@ -1,5 +1,4 @@
-Periconia javanica Koord. SPECIES
-=======
+# Periconia javanica Koord. SPECIES
 
 #### Status
 ACCEPTED

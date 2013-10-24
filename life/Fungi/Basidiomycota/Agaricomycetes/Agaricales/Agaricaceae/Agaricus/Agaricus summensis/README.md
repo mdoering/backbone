@@ -1,5 +1,4 @@
-Agaricus summensis Kerrigan SPECIES
-=======
+# Agaricus summensis Kerrigan SPECIES
 
 #### Status
 ACCEPTED

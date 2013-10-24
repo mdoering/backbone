@@ -1,5 +1,4 @@
-Pyrenophora hordei Wallwork, Lichon & Sivan. SPECIES
-=======
+# Pyrenophora hordei Wallwork, Lichon & Sivan. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acrospermum kirulisianum Kirschst. SPECIES
-=======
+# Acrospermum kirulisianum Kirschst. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeographina intercedens Müll. Arg. SPECIES
-=======
+# Phaeographina intercedens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

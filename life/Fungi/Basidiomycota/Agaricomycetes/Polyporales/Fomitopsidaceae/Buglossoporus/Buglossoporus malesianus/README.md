@@ -1,14 +1,13 @@
-Piptoporus malesianus (Corner) T. Hatt., 2000 SPECIES
-=======
+# Buglossoporus malesianus Corner, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 41(4): 343 (2000)
+Beih. Nova Hedwigia 78: 165 (1984)
 
 #### Original name
 Buglossoporus malesianus Corner, 1984

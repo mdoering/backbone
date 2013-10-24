@@ -1,5 +1,4 @@
-Rectomillerella Van Liem, 1974 GENUS
-=======
+# Rectomillerella Van Liem, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spiniger Stalpers, 1974 GENUS
-=======
+# Spiniger Stalpers, 1974 GENUS
 
 #### Status
 ACCEPTED

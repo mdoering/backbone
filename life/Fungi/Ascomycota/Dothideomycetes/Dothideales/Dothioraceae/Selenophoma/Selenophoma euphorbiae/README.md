@@ -1,5 +1,4 @@
-Selenophoma euphorbiae Pisareva SPECIES
-=======
+# Selenophoma euphorbiae Pisareva SPECIES
 
 #### Status
 ACCEPTED

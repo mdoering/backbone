@@ -1,17 +1,16 @@
-Puccinia brunellarum-moliniae Cruchet, 1904 SPECIES
-=======
+# Puccinia moliniae Tul. & C. Tul., 1854 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Zentbl. Bakt. ParasitKde, Abt. II 13: 96 (1904)
+Annls Sci. Nat. , Bot. , sér. 4 2: 141 (1854)
 
 #### Original name
-Puccinia brunellarum-moliniae Cruchet, 1904
+Puccinia moliniae Tul. & C. Tul., 1854
 
 ### Remarks
 null

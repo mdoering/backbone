@@ -1,5 +1,4 @@
-Dicaeoma dubyi (Müll. Arg. & Huet.) Kuntze SPECIES
-=======
+# Dicaeoma dubyi (Müll. Arg. & Huet.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

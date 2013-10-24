@@ -1,5 +1,4 @@
-Solanella Vanha GENUS
-=======
+# Solanella Vanha GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Physalospora chaenostoma Sacc. SPECIES
-=======
+# Physalospora chaenostoma Sacc. SPECIES
 
 #### Status
 ACCEPTED

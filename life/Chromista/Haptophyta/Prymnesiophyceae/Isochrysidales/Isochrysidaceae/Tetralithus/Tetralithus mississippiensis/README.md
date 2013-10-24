@@ -1,5 +1,4 @@
-Tetralithus mississippiensis J.B. Risatti SPECIES
-=======
+# Tetralithus mississippiensis J.B. Risatti SPECIES
 
 #### Status
 ACCEPTED

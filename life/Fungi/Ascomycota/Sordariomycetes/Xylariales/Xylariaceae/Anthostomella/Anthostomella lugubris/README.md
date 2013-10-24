@@ -1,14 +1,13 @@
-Sphaeria lugubris Roberge ex Desm., 1847 SPECIES
-=======
+# Anthostomella lugubris (Roberge ex Desm.) Sacc., 1882 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls Sci. Nat. , Bot. , sér. 3 8: 172 (1847)
+Syll. fung. (Abellini) 1: 278 (1882)
 
 #### Original name
 Sphaeria lugubris Roberge ex Desm., 1847

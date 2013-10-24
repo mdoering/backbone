@@ -1,5 +1,4 @@
-Dermatea crataegi (Lasch) Jaap SPECIES
-=======
+# Dermatea crataegi (Lasch) Jaap SPECIES
 
 #### Status
 ACCEPTED

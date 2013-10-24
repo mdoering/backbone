@@ -1,5 +1,4 @@
-Puccinia boehmeriae Henn. SPECIES
-=======
+# Puccinia boehmeriae Henn. SPECIES
 
 #### Status
 ACCEPTED

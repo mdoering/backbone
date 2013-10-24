@@ -1,5 +1,4 @@
-Asteridiella polygoni (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella polygoni (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

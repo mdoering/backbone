@@ -1,5 +1,4 @@
-Catillaria cereicola Zahlbr. SPECIES
-=======
+# Catillaria cereicola Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca leucospilodes (Nyl.) H. Olivier SPECIES
-=======
+# Caloplaca leucospilodes (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

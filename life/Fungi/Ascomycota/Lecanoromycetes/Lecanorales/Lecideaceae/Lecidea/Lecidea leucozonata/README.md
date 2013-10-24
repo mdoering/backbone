@@ -1,5 +1,4 @@
-Lecidea leucozonata Zahlbr. SPECIES
-=======
+# Lecidea leucozonata Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

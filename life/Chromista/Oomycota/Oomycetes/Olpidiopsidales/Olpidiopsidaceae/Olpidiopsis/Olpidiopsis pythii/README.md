@@ -1,8 +1,7 @@
-Olpidiopsis pythii f. pythii (E.J. Butler) Karling, 1942 FORM
-=======
+# Olpidiopsis pythii (E.J. Butler) Karling, 1942 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Simple Holocarpic Biflagellate Phycomycetes (New York) 47 (1942)
 
 #### Original name
-Olpidiopsis pythii f. pythii (E.J. Butler) Karling, 1942
+Pseudolpidium pythii E.J. Butler, 1907
 
 ### Remarks
 null

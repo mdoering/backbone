@@ -1,5 +1,4 @@
-Xylaria rhizophila Cooke & Massee SPECIES
-=======
+# Xylaria rhizophila Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

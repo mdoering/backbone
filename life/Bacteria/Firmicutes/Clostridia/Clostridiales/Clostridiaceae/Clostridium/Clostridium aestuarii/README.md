@@ -1,5 +1,4 @@
-Clostridium aestuarii Kim, Jeong & Chun, 2007 SPECIES
-=======
+# Clostridium aestuarii Kim, Jeong & Chun, 2007 SPECIES
 
 #### Status
 ACCEPTED

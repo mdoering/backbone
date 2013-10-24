@@ -1,5 +1,4 @@
-Phyllachora fici-orbispora C.A. Pearce & K.D. Hyde, 2006 SPECIES
-=======
+# Phyllachora fici-orbispora C.A. Pearce & K.D. Hyde, 2006 SPECIES
 
 #### Status
 ACCEPTED

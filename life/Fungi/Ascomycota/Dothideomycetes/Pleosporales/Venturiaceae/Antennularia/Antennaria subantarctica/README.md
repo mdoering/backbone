@@ -1,5 +1,4 @@
-Antennaria subantarctica Speg. SPECIES
-=======
+# Antennaria subantarctica Speg. SPECIES
 
 #### Status
 ACCEPTED

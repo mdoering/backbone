@@ -1,5 +1,4 @@
-Thyrococcum humicola R.E. Buchanan SPECIES
-=======
+# Thyrococcum humicola R.E. Buchanan SPECIES
 
 #### Status
 ACCEPTED

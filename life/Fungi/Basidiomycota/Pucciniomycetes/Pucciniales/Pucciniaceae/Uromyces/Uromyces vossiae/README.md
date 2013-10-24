@@ -1,5 +1,4 @@
-Uromyces vossiae Barclay SPECIES
-=======
+# Uromyces vossiae Barclay SPECIES
 
 #### Status
 ACCEPTED

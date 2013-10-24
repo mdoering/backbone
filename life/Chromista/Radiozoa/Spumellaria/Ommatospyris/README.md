@@ -1,14 +1,13 @@
-Ommatospirys Zittel, 1876 GENUS
-=======
+# Ommatospyris Ehrenberg, 1861 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Handb. Pal. , 1, 120.
+MonatsBer. Akad. Wiss. Berlin, 1860, 832.
 
 #### Original name
 null

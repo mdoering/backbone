@@ -1,5 +1,4 @@
-Penicillium coprobium Frisvad, 1990 SPECIES
-=======
+# Penicillium coprobium Frisvad, 1990 SPECIES
 
 #### Status
 ACCEPTED

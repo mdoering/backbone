@@ -1,5 +1,4 @@
-Sporotrichum maydis Garov. SPECIES
-=======
+# Sporotrichum maydis Garov. SPECIES
 
 #### Status
 ACCEPTED

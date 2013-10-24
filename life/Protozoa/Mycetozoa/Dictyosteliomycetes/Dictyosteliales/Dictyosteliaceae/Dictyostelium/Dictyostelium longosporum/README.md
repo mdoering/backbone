@@ -1,5 +1,4 @@
-Dictyostelium longosporum H. Hagiw., 1983 SPECIES
-=======
+# Dictyostelium longosporum H. Hagiw., 1983 SPECIES
 
 #### Status
 ACCEPTED

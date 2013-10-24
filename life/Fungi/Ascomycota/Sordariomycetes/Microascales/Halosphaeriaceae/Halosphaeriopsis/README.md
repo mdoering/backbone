@@ -1,5 +1,4 @@
-Halosphaeriopsis T.W. Johnson GENUS
-=======
+# Halosphaeriopsis T.W. Johnson GENUS
 
 #### Status
 ACCEPTED

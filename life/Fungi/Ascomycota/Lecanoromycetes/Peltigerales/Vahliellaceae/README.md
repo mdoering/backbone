@@ -1,5 +1,4 @@
-Vahliellaceae FAMILY
-=======
+# Vahliellaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusidium banksianum Pass. SPECIES
-=======
+# Fusidium banksianum Pass. SPECIES
 
 #### Status
 ACCEPTED

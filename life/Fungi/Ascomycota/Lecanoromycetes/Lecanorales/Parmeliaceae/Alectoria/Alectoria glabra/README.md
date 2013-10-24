@@ -1,5 +1,4 @@
-Alectoria glabra Motyka SPECIES
-=======
+# Alectoria glabra Motyka SPECIES
 
 #### Status
 ACCEPTED

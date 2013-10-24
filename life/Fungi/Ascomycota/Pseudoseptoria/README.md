@@ -1,5 +1,4 @@
-Pseudoseptoria Speg. GENUS
-=======
+# Pseudoseptoria Speg. GENUS
 
 #### Status
 ACCEPTED

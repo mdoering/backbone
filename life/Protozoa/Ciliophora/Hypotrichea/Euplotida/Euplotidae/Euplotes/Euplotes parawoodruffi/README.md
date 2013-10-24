@@ -1,5 +1,4 @@
-Euplotes parawoodruffi Song & Bradbury, 1997 SPECIES
-=======
+# Euplotes parawoodruffi Song & Bradbury, 1997 SPECIES
 
 #### Status
 ACCEPTED

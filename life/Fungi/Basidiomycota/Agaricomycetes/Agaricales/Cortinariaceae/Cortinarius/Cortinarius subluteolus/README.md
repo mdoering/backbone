@@ -1,5 +1,4 @@
-Cortinarius subluteolus Britzelm. SPECIES
-=======
+# Cortinarius subluteolus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

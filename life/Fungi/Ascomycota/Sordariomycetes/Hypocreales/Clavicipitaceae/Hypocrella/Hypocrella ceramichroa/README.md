@@ -1,5 +1,4 @@
-Hypocrella ceramichroa (Berk. & Broome) Petch SPECIES
-=======
+# Hypocrella ceramichroa (Berk. & Broome) Petch SPECIES
 
 #### Status
 ACCEPTED

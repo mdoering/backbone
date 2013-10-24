@@ -1,5 +1,4 @@
-Tricholomopsis flavissima (A.H. Sm.) Singer SPECIES
-=======
+# Tricholomopsis flavissima (A.H. Sm.) Singer SPECIES
 
 #### Status
 ACCEPTED

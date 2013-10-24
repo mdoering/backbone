@@ -1,5 +1,4 @@
-Oudemansiella fanjingshanensis M. Zang & X.L. Wu SPECIES
-=======
+# Oudemansiella fanjingshanensis M. Zang & X.L. Wu SPECIES
 
 #### Status
 ACCEPTED

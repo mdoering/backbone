@@ -1,14 +1,13 @@
-Nephlyctis elegans (J. Schröt.) Arthur, 1907 SPECIES
-=======
+# Prospodium elegans (J. Schröt.) Cummins, 1940 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-J. Mycol. 13: 32 (1907)
+Lloydia 3: 67 (1940)
 
 #### Original name
 Puccinia elegans J. Schröt., 1896

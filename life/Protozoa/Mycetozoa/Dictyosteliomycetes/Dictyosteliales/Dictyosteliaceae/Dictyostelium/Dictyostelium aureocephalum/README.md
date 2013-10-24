@@ -1,5 +1,4 @@
-Dictyostelium aureocephalum H. Hagiw., 1991 SPECIES
-=======
+# Dictyostelium aureocephalum H. Hagiw., 1991 SPECIES
 
 #### Status
 ACCEPTED

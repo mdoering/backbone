@@ -1,5 +1,4 @@
-Arthonia crystallifera L. I. Ferraro & Lücking SPECIES
-=======
+# Arthonia crystallifera L. I. Ferraro & Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Globigerinoidesella El-Naggar, 1971 GENUS
-=======
+# Globigerinoides Cushman, 1927 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-World Register of Marine Species
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Cushman Lab. Foraminif. Res. , 3, 87.
 
 #### Original name
 null

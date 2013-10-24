@@ -1,5 +1,4 @@
-Candida choctaworum S.O. Suh & M. Blackw., 2004 SPECIES
-=======
+# Candida choctaworum S.O. Suh & M. Blackw., 2004 SPECIES
 
 #### Status
 ACCEPTED

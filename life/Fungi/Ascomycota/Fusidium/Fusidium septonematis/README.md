@@ -1,5 +1,4 @@
-Fusidium septonematis Corda SPECIES
-=======
+# Fusidium septonematis Corda SPECIES
 
 #### Status
 ACCEPTED

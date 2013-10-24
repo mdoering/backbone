@@ -1,17 +1,16 @@
-Campanulaspora GENUS
-=======
+# Campanulospora I.V. Issi, Radischcheva & Dolzhenko, 1983 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+IRMNG Homonym List
 
 #### Published in
-null
+Byulleten' vses. nauchno-issled. Inst. Zashch. Rast. No. 55: 3.
 
 #### Original name
-null
+Campanulospora I.V. Issi, Radischcheva & Dolzhenko, 1983
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gloeosporium argemones Ellis & Everh. SPECIES
-=======
+# Gloeosporium argemones Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

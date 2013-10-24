@@ -1,5 +1,4 @@
-Lecidea alabastrina Ach. SPECIES
-=======
+# Lecidea alabastrina Ach. SPECIES
 
 #### Status
 ACCEPTED

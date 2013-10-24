@@ -1,5 +1,4 @@
-Trachysphaeridium formosum Sheshegova, 1984 SPECIES
-=======
+# Trachysphaeridium formosum Sheshegova, 1984 SPECIES
 
 #### Status
 ACCEPTED

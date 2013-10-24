@@ -1,5 +1,4 @@
-Heterodermia punctifera (Kurok.) D.D. Awasthi SPECIES
-=======
+# Heterodermia punctifera (Kurok.) D.D. Awasthi SPECIES
 
 #### Status
 ACCEPTED

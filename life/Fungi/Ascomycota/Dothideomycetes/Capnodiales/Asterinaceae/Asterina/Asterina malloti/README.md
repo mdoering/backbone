@@ -1,5 +1,4 @@
-Asterina malloti Sawada & W. Yamam. SPECIES
-=======
+# Asterina malloti Sawada & W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

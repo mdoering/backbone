@@ -1,5 +1,4 @@
-Gyrodinium guttula J. Larsen, 1996 SPECIES
-=======
+# Gyrodinium guttula J. Larsen, 1996 SPECIES
 
 #### Status
 ACCEPTED

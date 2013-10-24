@@ -1,5 +1,4 @@
-Aecidium scutellariae-indicae Dietel SPECIES
-=======
+# Aecidium scutellariae-indicae Dietel SPECIES
 
 #### Status
 ACCEPTED

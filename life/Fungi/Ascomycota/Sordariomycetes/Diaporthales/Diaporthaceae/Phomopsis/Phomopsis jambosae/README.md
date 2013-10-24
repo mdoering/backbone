@@ -1,5 +1,4 @@
-Phomopsis jambosae Bond.-Mont. SPECIES
-=======
+# Phomopsis jambosae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

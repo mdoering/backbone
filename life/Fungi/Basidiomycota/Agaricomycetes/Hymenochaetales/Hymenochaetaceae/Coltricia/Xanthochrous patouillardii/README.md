@@ -1,5 +1,4 @@
-Xanthochrous patouillardii var. patouillardii VARIETY
-=======
+# Xanthochrous patouillardii Rick, 1933 SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals Cryptog. Exot. 6: 144 (1933)
+null
 
 #### Original name
-Xanthochrous patouillardii var. patouillardii
+null
 
 ### Remarks
 null

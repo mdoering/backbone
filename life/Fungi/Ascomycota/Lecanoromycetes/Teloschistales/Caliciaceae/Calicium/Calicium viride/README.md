@@ -1,17 +1,16 @@
-Calicium hyperellum var. hyperellum VARIETY
-=======
+# Calicium viride Pers. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Method. Lich. 93 (1803)
+Ann. Bot. (Usteri) 7: 20 (1794)
 
 #### Original name
-Calicium hyperellum var. hyperellum
+Calicium viride Pers.
 
 ### Remarks
 null

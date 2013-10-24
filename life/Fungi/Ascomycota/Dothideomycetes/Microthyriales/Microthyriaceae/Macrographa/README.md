@@ -1,5 +1,4 @@
-Macrographa Etayo GENUS
-=======
+# Macrographa Etayo GENUS
 
 #### Status
 ACCEPTED

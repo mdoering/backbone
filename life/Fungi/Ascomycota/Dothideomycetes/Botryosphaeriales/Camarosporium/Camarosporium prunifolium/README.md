@@ -1,5 +1,4 @@
-Camarosporium prunifolium McAlpine SPECIES
-=======
+# Camarosporium prunifolium McAlpine SPECIES
 
 #### Status
 ACCEPTED

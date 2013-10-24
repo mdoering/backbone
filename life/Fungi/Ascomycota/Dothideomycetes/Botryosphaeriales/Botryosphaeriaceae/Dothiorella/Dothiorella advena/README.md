@@ -1,5 +1,4 @@
-Dothiorella advena Sacc. SPECIES
-=======
+# Dothiorella advena Sacc. SPECIES
 
 #### Status
 ACCEPTED

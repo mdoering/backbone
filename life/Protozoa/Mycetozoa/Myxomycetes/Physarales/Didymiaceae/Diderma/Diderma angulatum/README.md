@@ -1,5 +1,4 @@
-Diderma angulatum (Gm.) Kuntze SPECIES
-=======
+# Diderma angulatum (Gm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

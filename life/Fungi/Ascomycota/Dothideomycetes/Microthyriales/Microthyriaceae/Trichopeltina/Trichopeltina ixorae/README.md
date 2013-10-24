@@ -1,5 +1,4 @@
-Trichopeltina ixorae Bat. & Peres SPECIES
-=======
+# Trichopeltina ixorae Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

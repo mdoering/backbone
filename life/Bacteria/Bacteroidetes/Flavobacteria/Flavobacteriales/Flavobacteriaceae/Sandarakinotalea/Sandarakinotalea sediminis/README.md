@@ -1,5 +1,4 @@
-Sandarakinotalea sediminis Khan et al., 2006 SPECIES
-=======
+# Sandarakinotalea sediminis Khan et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

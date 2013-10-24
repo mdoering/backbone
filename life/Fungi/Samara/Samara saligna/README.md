@@ -1,5 +1,4 @@
-Samara saligna Willd. ex Schult. SPECIES
-=======
+# Samara saligna Willd. ex Schult. SPECIES
 
 #### Status
 ACCEPTED

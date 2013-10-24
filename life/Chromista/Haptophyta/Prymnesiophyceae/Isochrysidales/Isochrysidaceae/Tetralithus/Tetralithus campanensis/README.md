@@ -1,5 +1,4 @@
-Tetralithus campanensis P. Cepek SPECIES
-=======
+# Tetralithus campanensis P. Cepek SPECIES
 
 #### Status
 ACCEPTED

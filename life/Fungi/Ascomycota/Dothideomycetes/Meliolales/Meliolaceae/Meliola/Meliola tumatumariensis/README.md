@@ -1,5 +1,4 @@
-Meliola tumatumariensis Hansf. SPECIES
-=======
+# Meliola tumatumariensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

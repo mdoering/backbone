@@ -1,17 +1,16 @@
-Laboulbenia motasi Balazuc SPECIES
-=======
+# Laboulbenia motasii Balazuc SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 39(3): 208 (1975)
 
 #### Original name
-Laboulbenia motasi Balazuc
+Laboulbenia motasii Balazuc
 
 ### Remarks
 null

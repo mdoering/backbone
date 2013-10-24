@@ -1,5 +1,4 @@
-Pyrenophora hyphasmatis Ellis & Everh. SPECIES
-=======
+# Pyrenophora hyphasmatis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

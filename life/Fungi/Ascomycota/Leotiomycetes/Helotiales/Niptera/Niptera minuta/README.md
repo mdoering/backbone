@@ -1,5 +1,4 @@
-Niptera minuta Pass. SPECIES
-=======
+# Niptera minuta Pass. SPECIES
 
 #### Status
 ACCEPTED

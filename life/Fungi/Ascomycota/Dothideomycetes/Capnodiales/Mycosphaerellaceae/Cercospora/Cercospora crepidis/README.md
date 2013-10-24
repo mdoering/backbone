@@ -1,5 +1,4 @@
-Cercospora crepidis Ondrej & Zavrel, 1971 SPECIES
-=======
+# Cercospora crepidis Ondrej & Zavrel, 1971 SPECIES
 
 #### Status
 ACCEPTED

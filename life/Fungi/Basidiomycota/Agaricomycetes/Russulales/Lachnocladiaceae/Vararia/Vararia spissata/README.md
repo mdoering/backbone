@@ -1,5 +1,4 @@
-Vararia spissata Boidin & Gilles SPECIES
-=======
+# Vararia spissata Boidin & Gilles SPECIES
 
 #### Status
 ACCEPTED

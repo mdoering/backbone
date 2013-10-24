@@ -1,5 +1,4 @@
-Meliola lucumae F. Stevens SPECIES
-=======
+# Meliola lucumae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

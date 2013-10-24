@@ -1,5 +1,4 @@
-Allescheriella bathygena Kohlm., 1977 SPECIES
-=======
+# Allescheriella bathygena Kohlm., 1977 SPECIES
 
 #### Status
 ACCEPTED

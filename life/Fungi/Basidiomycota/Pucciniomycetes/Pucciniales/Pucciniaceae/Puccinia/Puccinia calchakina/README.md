@@ -1,5 +1,4 @@
-Puccinia calchakina Speg. SPECIES
-=======
+# Puccinia calchakina Speg. SPECIES
 
 #### Status
 ACCEPTED

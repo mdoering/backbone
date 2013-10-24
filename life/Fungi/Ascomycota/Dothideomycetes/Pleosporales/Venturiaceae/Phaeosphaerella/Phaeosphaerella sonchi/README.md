@@ -1,5 +1,4 @@
-Phaeosphaerella sonchi Petr. SPECIES
-=======
+# Phaeosphaerella sonchi Petr. SPECIES
 
 #### Status
 ACCEPTED

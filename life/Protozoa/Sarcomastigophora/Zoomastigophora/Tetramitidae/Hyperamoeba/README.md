@@ -1,5 +1,4 @@
-Hyperamoeba Alexeieff, 1923 GENUS
-=======
+# Hyperamoeba Alexeieff, 1923 GENUS
 
 #### Status
 ACCEPTED

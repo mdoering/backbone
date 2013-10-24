@@ -1,5 +1,4 @@
-Zygopleurage faiyumensis N. Lundq. SPECIES
-=======
+# Zygopleurage faiyumensis N. Lundq. SPECIES
 
 #### Status
 ACCEPTED

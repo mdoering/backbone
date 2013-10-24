@@ -1,5 +1,4 @@
-Biggaria echinometris (Biggar & Wenrich, 1932) Aescht, 2001 SPECIES
-=======
+# Biggaria echinometris (Biggar & Wenrich, 1932) Aescht, 2001 SPECIES
 
 #### Status
 ACCEPTED

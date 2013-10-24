@@ -1,5 +1,4 @@
-Lichinella polyspora (H. Magn.) P.P. Moreno & Egea SPECIES
-=======
+# Lichinella polyspora (H. Magn.) P.P. Moreno & Egea SPECIES
 
 #### Status
 ACCEPTED

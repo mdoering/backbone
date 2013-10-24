@@ -1,5 +1,4 @@
-Tesnotheca Jankowski, 1986 GENUS
-=======
+# Tesnotheca Jankowski, 1986 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sarcoscypha excelsa Syd., 1924 SPECIES
-=======
+# Sarcoscypha excelsa Syd., 1924 SPECIES
 
 #### Status
 ACCEPTED

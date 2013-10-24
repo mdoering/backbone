@@ -1,8 +1,7 @@
-Lessonia nigrescens f. lacunifera Skottsberg FORM
-=======
+# Lessonia vadosa Searles SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

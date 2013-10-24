@@ -1,5 +1,4 @@
-Pseudovalsa canadensis Ellis & Everh. SPECIES
-=======
+# Pseudovalsa canadensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

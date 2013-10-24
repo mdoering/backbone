@@ -1,5 +1,4 @@
-Calothyrium patagonicum (Speg.) Theiss. SPECIES
-=======
+# Calothyrium patagonicum (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Scopulariopsis alboflavescens Zach, 1934 SPECIES
-=======
+# Scopulariopsis candida (Guég.) Vuill., 1911 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Öst. bot. Z. 83: 177 (1934)
+Bull. Soc. mycol. Fr. 27: 143 (1911)
 
 #### Original name
-Scopulariopsis alboflavescens Zach, 1934
+null
 
 ### Remarks
 null

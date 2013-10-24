@@ -1,5 +1,4 @@
-Gephyrocapsa Kamptner, 1943 GENUS
-=======
+# Gephyrocapsa Kamptner, 1943 GENUS
 
 #### Status
 ACCEPTED

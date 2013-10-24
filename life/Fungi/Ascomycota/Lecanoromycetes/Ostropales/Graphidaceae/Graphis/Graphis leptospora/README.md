@@ -1,5 +1,4 @@
-Graphis leptospora Vain. SPECIES
-=======
+# Graphis leptospora Vain. SPECIES
 
 #### Status
 ACCEPTED

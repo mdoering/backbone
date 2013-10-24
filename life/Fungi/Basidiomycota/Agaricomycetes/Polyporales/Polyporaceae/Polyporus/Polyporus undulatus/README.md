@@ -1,5 +1,4 @@
-Polyporus undulatus Pers. SPECIES
-=======
+# Polyporus undulatus Pers. SPECIES
 
 #### Status
 ACCEPTED

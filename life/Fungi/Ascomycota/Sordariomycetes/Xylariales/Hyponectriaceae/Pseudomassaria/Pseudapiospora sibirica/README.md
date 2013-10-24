@@ -1,5 +1,4 @@
-Pseudapiospora sibirica Petr. SPECIES
-=======
+# Pseudapiospora sibirica Petr. SPECIES
 
 #### Status
 ACCEPTED

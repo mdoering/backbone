@@ -1,5 +1,4 @@
-Verrucaria cotacea Lamy SPECIES
-=======
+# Verrucaria cotacea Lamy SPECIES
 
 #### Status
 ACCEPTED

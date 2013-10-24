@@ -1,5 +1,4 @@
-Sporonema bartsiae (Rostr.) Jørst. SPECIES
-=======
+# Sporonema bartsiae (Rostr.) Jørst. SPECIES
 
 #### Status
 ACCEPTED

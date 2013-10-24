@@ -1,5 +1,4 @@
-Janetia cubensis Matsush. SPECIES
-=======
+# Janetia cubensis Matsush. SPECIES
 
 #### Status
 ACCEPTED

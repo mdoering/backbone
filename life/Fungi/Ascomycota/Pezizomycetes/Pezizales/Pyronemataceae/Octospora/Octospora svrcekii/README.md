@@ -1,5 +1,4 @@
-Octospora svrcekii Benkert SPECIES
-=======
+# Octospora svrcekii Benkert SPECIES
 
 #### Status
 ACCEPTED

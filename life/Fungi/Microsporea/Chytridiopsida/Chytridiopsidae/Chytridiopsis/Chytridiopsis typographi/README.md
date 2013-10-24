@@ -1,5 +1,4 @@
-Chytridiopsis typographi Weiser SPECIES
-=======
+# Chytridiopsis typographi Weiser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ustilago subminor Vánky SPECIES
-=======
+# Ustilago subminor Vánky SPECIES
 
 #### Status
 ACCEPTED

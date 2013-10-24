@@ -1,5 +1,4 @@
-Sporostachys anceps Sacc. SPECIES
-=======
+# Sporostachys anceps Sacc. SPECIES
 
 #### Status
 ACCEPTED

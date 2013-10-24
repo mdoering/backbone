@@ -1,5 +1,4 @@
-Athelopsis gloeocystidiata Gresl. & Rajchenb., 1999 SPECIES
-=======
+# Athelopsis gloeocystidiata Gresl. & Rajchenb., 1999 SPECIES
 
 #### Status
 ACCEPTED

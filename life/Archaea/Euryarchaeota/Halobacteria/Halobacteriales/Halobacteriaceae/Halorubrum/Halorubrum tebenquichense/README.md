@@ -1,5 +1,4 @@
-Halorubrum tebenquichense Lizama et al., 2002 SPECIES
-=======
+# Halorubrum tebenquichense Lizama et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

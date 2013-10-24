@@ -1,5 +1,4 @@
-Lichen fuscorubens Wulfen SPECIES
-=======
+# Lichen fuscorubens Wulfen SPECIES
 
 #### Status
 ACCEPTED

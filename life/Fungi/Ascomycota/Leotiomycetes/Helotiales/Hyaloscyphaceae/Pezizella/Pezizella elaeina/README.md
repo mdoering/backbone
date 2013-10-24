@@ -1,5 +1,4 @@
-Pezizella elaeina (Pass. & Beltr.) Sacc. SPECIES
-=======
+# Pezizella elaeina (Pass. & Beltr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

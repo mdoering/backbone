@@ -1,5 +1,4 @@
-Ascobolus ursinus Prokhorov SPECIES
-=======
+# Ascobolus ursinus Prokhorov SPECIES
 
 #### Status
 ACCEPTED

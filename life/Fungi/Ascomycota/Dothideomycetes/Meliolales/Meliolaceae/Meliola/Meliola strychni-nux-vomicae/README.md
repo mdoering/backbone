@@ -1,17 +1,16 @@
-Meliola strychnii-nux-vomicae Gawande, D.K. Agarwal & Hosag. SPECIES
-=======
+# Meliola strychni-nux-vomicae Gawande, D.K. Agarwal & Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Phytopath. 57(3): 293 (2004)
 
 #### Original name
-Meliola strychnii-nux-vomicae Gawande, D.K. Agarwal & Hosag.
+Meliola strychni-nux-vomicae Gawande, D.K. Agarwal & Hosag.
 
 ### Remarks
 null

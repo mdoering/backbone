@@ -1,5 +1,4 @@
-Aspergillus heteromorphus Bat. & H. Maia, 1957 SPECIES
-=======
+# Aspergillus heteromorphus Bat. & H. Maia, 1957 SPECIES
 
 #### Status
 ACCEPTED

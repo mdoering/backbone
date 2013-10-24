@@ -1,5 +1,4 @@
-Agaricus canus Schumach. SPECIES
-=======
+# Agaricus canus Schumach. SPECIES
 
 #### Status
 ACCEPTED

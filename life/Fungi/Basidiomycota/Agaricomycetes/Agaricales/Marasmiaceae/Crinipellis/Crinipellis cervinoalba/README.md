@@ -1,5 +1,4 @@
-Crinipellis cervinoalba Corner SPECIES
-=======
+# Crinipellis cervinoalba Corner SPECIES
 
 #### Status
 ACCEPTED

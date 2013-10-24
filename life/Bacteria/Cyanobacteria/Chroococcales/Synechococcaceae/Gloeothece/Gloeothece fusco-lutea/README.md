@@ -1,5 +1,4 @@
-Gloeothece fusco-lutea var. unilamellaris Chu VARIETY
-=======
+# Gloeothece fusco-lutea Nägeli SPECIES
 
 #### Status
 ACCEPTED

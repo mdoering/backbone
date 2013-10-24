@@ -1,5 +1,4 @@
-Dimerium pulveraceum (Speg.) Theiss. SPECIES
-=======
+# Dimerium pulveraceum (Speg.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

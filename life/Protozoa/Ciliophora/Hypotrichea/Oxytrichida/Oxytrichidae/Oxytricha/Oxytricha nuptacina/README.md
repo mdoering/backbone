@@ -1,5 +1,4 @@
-Oxytricha nuptacina SPECIES
-=======
+# Oxytricha nuptacina SPECIES
 
 #### Status
 ACCEPTED

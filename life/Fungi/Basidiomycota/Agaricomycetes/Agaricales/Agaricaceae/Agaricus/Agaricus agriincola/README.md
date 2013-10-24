@@ -1,5 +1,4 @@
-Agaricus agriincola J. Otto SPECIES
-=======
+# Agaricus agriincola J. Otto SPECIES
 
 #### Status
 ACCEPTED

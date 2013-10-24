@@ -1,5 +1,4 @@
-Styxophrya GENUS
-=======
+# Styxophrya GENUS
 
 #### Status
 ACCEPTED

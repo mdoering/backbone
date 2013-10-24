@@ -1,5 +1,4 @@
-Listerella E. Jahn, 1906 GENUS
-=======
+# Listerella E. Jahn, 1906 GENUS
 
 #### Status
 ACCEPTED

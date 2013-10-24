@@ -1,5 +1,4 @@
-Synchytrium uliginicola Speg. SPECIES
-=======
+# Synchytrium uliginicola Speg. SPECIES
 
 #### Status
 ACCEPTED

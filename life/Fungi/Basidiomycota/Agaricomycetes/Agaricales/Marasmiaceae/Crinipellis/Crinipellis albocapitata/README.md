@@ -1,5 +1,4 @@
-Crinipellis albocapitata (Petch) Dennis SPECIES
-=======
+# Crinipellis albocapitata (Petch) Dennis SPECIES
 
 #### Status
 ACCEPTED

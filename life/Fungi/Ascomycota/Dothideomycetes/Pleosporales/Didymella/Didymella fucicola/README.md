@@ -1,17 +1,16 @@
-Didymosphaeria fucicola G.K. Sutherl., 1915 SPECIES
-=======
+# Didymella fucicola (G.K. Sutherl.) Kohlm., 1968 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-New Phytol. 14: 189 (1915)
+Phytopath. Z. 63: 342 (1968)
 
 #### Original name
-Didymosphaeria fucicola G.K. Sutherl., 1915
+Didymosphaeria pelvetiana G.K. Sutherl., 1915
 
 ### Remarks
 null

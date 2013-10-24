@@ -1,5 +1,4 @@
-Haemogregarina carchariasi Laveran, 1908 SPECIES
-=======
+# Haemogregarina carchariasi Laveran, 1908 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphina gracilis (Fr.) Müll. Arg. SPECIES
-=======
+# Graphina gracilis (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

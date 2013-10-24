@@ -1,5 +1,4 @@
-Polyporus mowryanus (Murrill) Murrill SPECIES
-=======
+# Polyporus mowryanus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelidium alpinum (Zschacke) Servít SPECIES
-=======
+# Thelidium alpinum (Zschacke) Servít SPECIES
 
 #### Status
 ACCEPTED

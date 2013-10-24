@@ -1,5 +1,4 @@
-Polypera GENUS
-=======
+# Polypera GENUS
 
 #### Status
 ACCEPTED

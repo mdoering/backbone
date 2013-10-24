@@ -1,5 +1,4 @@
-Entoloma perumbilicatum Hesler SPECIES
-=======
+# Entoloma perumbilicatum Hesler SPECIES
 
 #### Status
 ACCEPTED

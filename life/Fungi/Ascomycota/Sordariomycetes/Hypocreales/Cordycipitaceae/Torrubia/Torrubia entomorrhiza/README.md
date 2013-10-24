@@ -1,5 +1,4 @@
-Torrubia entomorrhiza Tul. & C. Tul. SPECIES
-=======
+# Torrubia entomorrhiza Tul. & C. Tul. SPECIES
 
 #### Status
 ACCEPTED

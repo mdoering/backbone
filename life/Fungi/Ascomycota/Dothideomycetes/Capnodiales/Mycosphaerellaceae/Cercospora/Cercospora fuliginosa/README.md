@@ -1,5 +1,4 @@
-Cercospora fuliginosa Ellis & Kellerm. SPECIES
-=======
+# Cercospora fuliginosa Ellis & Kellerm. SPECIES
 
 #### Status
 ACCEPTED

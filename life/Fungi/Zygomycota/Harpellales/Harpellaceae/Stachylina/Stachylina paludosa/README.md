@@ -1,5 +1,4 @@
-Stachylina paludosa Lichtw., 1994 SPECIES
-=======
+# Stachylina paludosa Lichtw., 1994 SPECIES
 
 #### Status
 ACCEPTED

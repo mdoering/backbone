@@ -1,5 +1,4 @@
-Acrodictys brooksiae M.B. Ellis SPECIES
-=======
+# Acrodictys brooksiae M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella engleriana Reichert SPECIES
-=======
+# Mycosphaerella engleriana Reichert SPECIES
 
 #### Status
 ACCEPTED

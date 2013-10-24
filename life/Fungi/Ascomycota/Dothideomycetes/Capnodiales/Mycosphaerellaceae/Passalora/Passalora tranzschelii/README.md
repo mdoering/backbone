@@ -1,5 +1,4 @@
-Passalora tranzschelii (Vassiljevsky) U. Braun & Crous SPECIES
-=======
+# Passalora tranzschelii (Vassiljevsky) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pestalotia nummulariae Har. & Briard SPECIES
-=======
+# Pestalotia nummulariae Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

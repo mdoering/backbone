@@ -1,5 +1,4 @@
-Stigmosphaerusa Hollande & Enjumet, 1960 GENUS
-=======
+# Stigmosphaerusa Hollande & Enjumet, 1960 GENUS
 
 #### Status
 ACCEPTED

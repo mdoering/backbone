@@ -1,5 +1,4 @@
-Loxophyllum duplostriatus SPECIES
-=======
+# Loxophyllum duplostriatus SPECIES
 
 #### Status
 ACCEPTED

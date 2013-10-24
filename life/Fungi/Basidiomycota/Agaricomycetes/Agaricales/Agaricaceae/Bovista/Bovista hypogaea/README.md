@@ -1,5 +1,4 @@
-Bovista hypogaea Cooke & Massee SPECIES
-=======
+# Bovista hypogaea Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

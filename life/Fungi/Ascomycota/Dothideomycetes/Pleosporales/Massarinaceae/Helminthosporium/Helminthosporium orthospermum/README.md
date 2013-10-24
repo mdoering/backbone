@@ -1,17 +1,16 @@
-Helmisporium orthospermum Sacc. & Fairm. SPECIES
-=======
+# Helminthosporium orthospermum Sacc. & Fairm. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Saccardo, Indian Journal of Mycology and Plant Pathology 12: 50 (1906)
 
 #### Original name
-Helmisporium orthospermum Sacc. & Fairm.
+Helminthosporium orthospermum Sacc. & Fairm.
 
 ### Remarks
 null

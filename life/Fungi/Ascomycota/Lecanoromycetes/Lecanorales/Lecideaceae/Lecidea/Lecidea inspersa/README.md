@@ -1,5 +1,4 @@
-Lecidea inspersa Tul. SPECIES
-=======
+# Lecidea inspersa Tul. SPECIES
 
 #### Status
 ACCEPTED

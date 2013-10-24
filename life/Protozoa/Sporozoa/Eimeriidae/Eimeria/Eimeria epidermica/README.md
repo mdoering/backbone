@@ -1,5 +1,4 @@
-Eimeria epidermica Léger & Duboscq, 1917 SPECIES
-=======
+# Eimeria epidermica Léger & Duboscq, 1917 SPECIES
 
 #### Status
 ACCEPTED

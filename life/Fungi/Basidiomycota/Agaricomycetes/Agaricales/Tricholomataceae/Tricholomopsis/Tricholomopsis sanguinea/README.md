@@ -1,5 +1,4 @@
-Tricholomopsis sanguinea Hongo SPECIES
-=======
+# Tricholomopsis sanguinea Hongo SPECIES
 
 #### Status
 ACCEPTED

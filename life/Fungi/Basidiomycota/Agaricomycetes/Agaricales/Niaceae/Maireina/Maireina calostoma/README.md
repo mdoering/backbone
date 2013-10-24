@@ -1,8 +1,7 @@
-Maireina callostoma (Pilát) W.B. Cooke SPECIES
-=======
+# Maireina calostoma (Pilát) W.B. Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

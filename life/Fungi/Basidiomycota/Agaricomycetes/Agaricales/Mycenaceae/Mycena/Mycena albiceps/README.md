@@ -1,5 +1,4 @@
-Mycena albiceps (Peck) Gilliam SPECIES
-=======
+# Mycena albiceps (Peck) Gilliam SPECIES
 
 #### Status
 ACCEPTED

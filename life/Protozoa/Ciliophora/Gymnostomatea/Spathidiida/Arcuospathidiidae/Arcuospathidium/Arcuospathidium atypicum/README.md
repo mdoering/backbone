@@ -1,5 +1,4 @@
-Arcuospathidium atypicum (Wenzel, 1953) Foissner, 1998 SPECIES
-=======
+# Arcuospathidium atypicum (Wenzel, 1953) Foissner, 1998 SPECIES
 
 #### Status
 ACCEPTED

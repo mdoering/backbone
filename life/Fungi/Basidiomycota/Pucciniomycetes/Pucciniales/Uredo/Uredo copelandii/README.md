@@ -1,8 +1,7 @@
-Uredo copelandi Syd. & P. Syd. SPECIES
-=======
+# Uredo copelandii Syd. & P. Syd. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Uredo copelandi Syd. & P. Syd.
+Uredo copelandii Syd. & P. Syd.
 
 ### Remarks
 null

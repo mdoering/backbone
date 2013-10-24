@@ -1,5 +1,4 @@
-Agaricus lacunosus Pers. SPECIES
-=======
+# Agaricus lacunosus Pers. SPECIES
 
 #### Status
 ACCEPTED

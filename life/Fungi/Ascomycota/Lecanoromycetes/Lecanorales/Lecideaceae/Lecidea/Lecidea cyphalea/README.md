@@ -1,5 +1,4 @@
-Lecidea cyphalea (Tuck.) Nyl. SPECIES
-=======
+# Lecidea cyphalea (Tuck.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

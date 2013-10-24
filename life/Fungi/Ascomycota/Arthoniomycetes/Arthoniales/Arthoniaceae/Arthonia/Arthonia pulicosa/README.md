@@ -1,5 +1,4 @@
-Arthonia pulicosa Nyl. SPECIES
-=======
+# Arthonia pulicosa Nyl. SPECIES
 
 #### Status
 ACCEPTED

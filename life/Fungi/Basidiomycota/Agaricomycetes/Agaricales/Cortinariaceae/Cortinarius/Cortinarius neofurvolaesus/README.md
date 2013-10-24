@@ -1,5 +1,4 @@
-Cortinarius neofurvolaesus Kytöv., Niskanen, Liimat. & H. Lindstr. SPECIES
-=======
+# Cortinarius neofurvolaesus Kytöv., Niskanen, Liimat. & H. Lindstr. SPECIES
 
 #### Status
 ACCEPTED

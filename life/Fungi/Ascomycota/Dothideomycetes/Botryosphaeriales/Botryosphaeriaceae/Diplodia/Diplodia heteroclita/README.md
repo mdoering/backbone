@@ -1,5 +1,4 @@
-Diplodia heteroclita Durieu & Mont. SPECIES
-=======
+# Diplodia heteroclita Durieu & Mont. SPECIES
 
 #### Status
 ACCEPTED

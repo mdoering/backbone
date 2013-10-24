@@ -1,5 +1,4 @@
-Fungus tuberosus Scop. SPECIES
-=======
+# Fungus tuberosus Scop. SPECIES
 
 #### Status
 ACCEPTED

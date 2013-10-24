@@ -1,17 +1,16 @@
-Polyporus macowani Kalchbr. SPECIES
-=======
+# Polyporus macowanii Kalchbr. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Grevillea 10(no. 54): 54 (1881)
 
 #### Original name
-Polyporus macowani Kalchbr.
+Polyporus macowanii Kalchbr.
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Peniophora laevis subsp. ericina (Bourdot) Bourdot & Galzin SUBSPECIES
-=======
+# Peniophora ericina Bourdot, 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 28(4): 398 (1913)
+Rev. Sci. Bourb. Centr. Fr. 23(1): 14 (1910)
 
 #### Original name
 Peniophora ericina Bourdot, 1910

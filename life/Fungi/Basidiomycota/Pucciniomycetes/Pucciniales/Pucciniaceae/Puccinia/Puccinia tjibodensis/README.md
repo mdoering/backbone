@@ -1,5 +1,4 @@
-Puccinia tjibodensis Gäum. SPECIES
-=======
+# Puccinia tjibodensis Gäum. SPECIES
 
 #### Status
 ACCEPTED

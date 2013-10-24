@@ -1,5 +1,4 @@
-Pyrenophora silenes Gonz. Frag. SPECIES
-=======
+# Pyrenophora silenes Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

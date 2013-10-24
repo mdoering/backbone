@@ -1,5 +1,4 @@
-Ophiosphaerella Speg. GENUS
-=======
+# Ophiosphaerella Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Euglena rostifera Johnson SPECIES
-=======
+# Euglena rostifera Johnson SPECIES
 
 #### Status
 ACCEPTED

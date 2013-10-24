@@ -1,5 +1,4 @@
-Arcangeliella ambigua Zeller & C.W. Dodge SPECIES
-=======
+# Arcangeliella ambigua Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria gaurae E.G. Simmons & C.F. Hill, 2007 SPECIES
-=======
+# Alternaria gaurae E.G. Simmons & C.F. Hill, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira bulbosa E.E. Syvertsen SPECIES
-=======
+# Thalassiosira bulbosa E.E. Syvertsen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chaenothecopsis leifiana Titov, E. Kuznetsova & Himelbrant SPECIES
-=======
+# Chaenothecopsis leifiana Titov, E. Kuznetsova & Himelbrant SPECIES
 
 #### Status
 ACCEPTED

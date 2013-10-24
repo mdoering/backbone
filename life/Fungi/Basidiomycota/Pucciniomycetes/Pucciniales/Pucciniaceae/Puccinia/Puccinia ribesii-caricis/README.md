@@ -1,17 +1,16 @@
-Puccinia ribesii-caricis f. sp FORM
-=======
+# Puccinia ribesii-caricis Kleb., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Z. PflKrankh. PflPath. PflSchutz 17: 134 (1907)
 
 #### Original name
-Puccinia ribesii-caricis f. sp
+Puccinia ribesii-caricis Kleb., 1907
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllostictina holstii (Henn.) Arx SPECIES
-=======
+# Phyllostictina holstii (Henn.) Arx SPECIES
 
 #### Status
 ACCEPTED

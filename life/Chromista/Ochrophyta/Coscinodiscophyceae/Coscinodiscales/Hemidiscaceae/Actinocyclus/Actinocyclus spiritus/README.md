@@ -1,5 +1,4 @@
-Actinocyclus spiritus T.P. Watkins, 1986 SPECIES
-=======
+# Actinocyclus spiritus T.P. Watkins, 1986 SPECIES
 
 #### Status
 ACCEPTED

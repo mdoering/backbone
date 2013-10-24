@@ -1,5 +1,4 @@
-Peziza hydrophora Bull. SPECIES
-=======
+# Peziza hydrophora Bull. SPECIES
 
 #### Status
 ACCEPTED

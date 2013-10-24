@@ -1,5 +1,4 @@
-Meliola condaliae F. Stevens SPECIES
-=======
+# Meliola condaliae F. Stevens SPECIES
 
 #### Status
 ACCEPTED

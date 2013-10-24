@@ -1,5 +1,4 @@
-Trunculumarium A.R. Loeblich Jr. & H. Tappan, 1976 GENUS
-=======
+# Trunculumarium A.R. Loeblich Jr. & H. Tappan, 1976 GENUS
 
 #### Status
 ACCEPTED

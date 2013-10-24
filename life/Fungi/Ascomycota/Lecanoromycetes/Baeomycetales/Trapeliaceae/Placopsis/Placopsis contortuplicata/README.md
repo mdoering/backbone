@@ -1,5 +1,4 @@
-Placopsis contortuplicata f. fuegiensis I.M. Lamb FORM
-=======
+# Placopsis contortuplicata I.M. Lamb SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Lilloa 13: 276 (1947)
+Lilloa 13: 273 (1947)
 
 #### Original name
-Placopsis contortuplicata f. fuegiensis I.M. Lamb
+Placopsis contortuplicata I.M. Lamb
 
 ### Remarks
 null

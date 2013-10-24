@@ -1,5 +1,4 @@
-Amazonia tetrorchidii Hansf. SPECIES
-=======
+# Amazonia tetrorchidii Hansf. SPECIES
 
 #### Status
 ACCEPTED

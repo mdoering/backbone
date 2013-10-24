@@ -1,5 +1,4 @@
-Striaria Greville, 1828 GENUS
-=======
+# Striaria Greville, 1828 GENUS
 
 #### Status
 ACCEPTED

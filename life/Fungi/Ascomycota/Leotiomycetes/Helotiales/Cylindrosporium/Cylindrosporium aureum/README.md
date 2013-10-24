@@ -1,5 +1,4 @@
-Cylindrosporium aureum Speg. SPECIES
-=======
+# Cylindrosporium aureum Speg. SPECIES
 
 #### Status
 ACCEPTED

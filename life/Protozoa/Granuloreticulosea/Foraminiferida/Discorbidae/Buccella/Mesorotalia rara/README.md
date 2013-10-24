@@ -1,5 +1,4 @@
-Mesorotalia rara Yassini & Jones, 1995 SPECIES
-=======
+# Mesorotalia rara Yassini & Jones, 1995 SPECIES
 
 #### Status
 DOUBTFUL

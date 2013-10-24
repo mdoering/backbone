@@ -1,5 +1,4 @@
-Hymenopleella GENUS
-=======
+# Hymenopleella GENUS
 
 #### Status
 ACCEPTED

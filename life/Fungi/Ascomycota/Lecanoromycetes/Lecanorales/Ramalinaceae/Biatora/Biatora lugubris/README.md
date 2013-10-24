@@ -1,5 +1,4 @@
-Biatora lugubris (Fr.) Hepp SPECIES
-=======
+# Biatora lugubris (Fr.) Hepp SPECIES
 
 #### Status
 ACCEPTED

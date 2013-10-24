@@ -1,5 +1,4 @@
-Haliscomenobacter van Veen, van der Kooij, Geuze & van der Vlies, 1973 GENUS
-=======
+# Haliscomenobacter van Veen, van der Kooij, Geuze & van der Vlies, 1973 GENUS
 
 #### Status
 ACCEPTED

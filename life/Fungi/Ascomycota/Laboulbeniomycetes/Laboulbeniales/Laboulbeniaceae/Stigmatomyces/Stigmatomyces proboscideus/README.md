@@ -1,5 +1,4 @@
-Stigmatomyces proboscideus Thaxt. SPECIES
-=======
+# Stigmatomyces proboscideus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

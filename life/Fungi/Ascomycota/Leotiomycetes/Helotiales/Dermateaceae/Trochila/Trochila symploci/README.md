@@ -1,5 +1,4 @@
-Trochila symploci Henn. SPECIES
-=======
+# Trochila symploci Henn. SPECIES
 
 #### Status
 ACCEPTED

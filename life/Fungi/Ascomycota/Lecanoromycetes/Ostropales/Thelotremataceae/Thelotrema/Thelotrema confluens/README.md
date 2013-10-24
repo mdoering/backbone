@@ -1,5 +1,4 @@
-Thelotrema confluens Vain. SPECIES
-=======
+# Thelotrema confluens Vain. SPECIES
 
 #### Status
 ACCEPTED

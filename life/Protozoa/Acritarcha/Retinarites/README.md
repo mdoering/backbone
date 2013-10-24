@@ -1,5 +1,4 @@
-Retinarites Ou-yang, Yin & Li, 1974 GENUS
-=======
+# Retinarites Ou-yang, Yin & Li, 1974 GENUS
 
 #### Status
 ACCEPTED

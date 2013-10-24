@@ -1,5 +1,4 @@
-Krombholziella tlemcenensis (Maire) Bon SPECIES
-=======
+# Krombholziella tlemcenensis (Maire) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Morchella anteridiformis R. Heim SPECIES
-=======
+# Morchella anteridiformis R. Heim SPECIES
 
 #### Status
 ACCEPTED

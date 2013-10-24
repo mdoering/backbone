@@ -1,5 +1,4 @@
-Lecidea dolosa Fr. SPECIES
-=======
+# Lecidea dolosa Fr. SPECIES
 
 #### Status
 ACCEPTED

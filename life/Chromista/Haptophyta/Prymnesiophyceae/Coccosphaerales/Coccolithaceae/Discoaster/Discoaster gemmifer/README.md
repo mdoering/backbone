@@ -1,5 +1,4 @@
-Discoaster gemmifer Stradner, 1961 SPECIES
-=======
+# Discoaster gemmifer Stradner, 1961 SPECIES
 
 #### Status
 ACCEPTED

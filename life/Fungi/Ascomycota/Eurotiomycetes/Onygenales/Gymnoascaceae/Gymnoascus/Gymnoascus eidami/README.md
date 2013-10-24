@@ -1,5 +1,4 @@
-Gymnoascus eidami Cocc. SPECIES
-=======
+# Gymnoascus eidami Cocc. SPECIES
 
 #### Status
 ACCEPTED

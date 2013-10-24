@@ -1,5 +1,4 @@
-Mycomicrothelia pachytheca (Sacc. & P. Syd.) Aptroot SPECIES
-=======
+# Mycomicrothelia pachytheca (Sacc. & P. Syd.) Aptroot SPECIES
 
 #### Status
 ACCEPTED

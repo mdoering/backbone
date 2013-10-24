@@ -1,5 +1,4 @@
-Hemiarcyria expansa Mart. SPECIES
-=======
+# Hemiarcyria expansa Mart. SPECIES
 
 #### Status
 ACCEPTED

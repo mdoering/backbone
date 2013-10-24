@@ -1,5 +1,4 @@
-Stentorella polymorphus Müller SPECIES
-=======
+# Stentorella polymorphus Müller SPECIES
 
 #### Status
 DOUBTFUL

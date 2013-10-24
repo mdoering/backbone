@@ -1,5 +1,4 @@
-Arthopyrenia ceylonensis (A. Massal.) Müll. Arg. SPECIES
-=======
+# Arthopyrenia ceylonensis (A. Massal.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

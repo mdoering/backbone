@@ -1,17 +1,16 @@
-Erysiphe polygoni f. sp FORM
-=======
+# Erysiphe betae (Vanha) Weltzien, 1963 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Phytopath. Z. 47: 127 (1963)
 
 #### Original name
-Erysiphe polygoni f. sp
+Microsphaera betae Vanha, 1903
 
 ### Remarks
 null

@@ -1,14 +1,13 @@
-Ramaria rubripermanens var. longissimispora (McAfee & Grund) R.H. Petersen, 1986 VARIETY
-=======
+# Ramaria longissimispora McAfee & Grund, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Can. J. Bot. 64(8): 1791 (1986)
+Proceedings of the Nova Scotian Institute of Science 32(1): 52 (1982)
 
 #### Original name
 Ramaria longissimispora McAfee & Grund, 1982

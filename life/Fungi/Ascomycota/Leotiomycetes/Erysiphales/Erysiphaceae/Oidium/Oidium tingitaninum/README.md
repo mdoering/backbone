@@ -1,5 +1,4 @@
-Oidium tingitaninum J.C. Carter SPECIES
-=======
+# Oidium tingitaninum J.C. Carter SPECIES
 
 #### Status
 ACCEPTED

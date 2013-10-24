@@ -1,5 +1,4 @@
-Lembadion luteolum Dumas, 1930 SPECIES
-=======
+# Lembadion luteolum Dumas, 1930 SPECIES
 
 #### Status
 ACCEPTED

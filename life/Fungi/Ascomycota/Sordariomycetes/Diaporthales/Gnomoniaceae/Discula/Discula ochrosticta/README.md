@@ -1,5 +1,4 @@
-Discula ochrosticta (Sacc.) Arx SPECIES
-=======
+# Discula ochrosticta (Sacc.) Arx SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteronema australe Delépine & Asensi SPECIES
-=======
+# Asteronema australe Delépine & Asensi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia exasperata var. exasperata VARIETY
-=======
+# Parmelia exasperata SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia exasperata var. exasperata
+null
 
 ### Remarks
 null

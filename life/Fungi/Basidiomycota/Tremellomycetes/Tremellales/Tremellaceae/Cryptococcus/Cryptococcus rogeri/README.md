@@ -1,5 +1,4 @@
-Cryptococcus rogeri Sartory & Demanche SPECIES
-=======
+# Cryptococcus rogeri Sartory & Demanche SPECIES
 
 #### Status
 ACCEPTED

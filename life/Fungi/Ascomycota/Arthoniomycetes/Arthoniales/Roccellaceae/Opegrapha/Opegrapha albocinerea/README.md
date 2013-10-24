@@ -1,5 +1,4 @@
-Opegrapha albocinerea Vain. SPECIES
-=======
+# Opegrapha albocinerea Vain. SPECIES
 
 #### Status
 ACCEPTED

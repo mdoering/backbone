@@ -1,5 +1,4 @@
-Gyalideopsis brevipilosa (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
-=======
+# Gyalideopsis brevipilosa (Kalb & Vezda) Lücking, Sérus. & Vezda SPECIES
 
 #### Status
 ACCEPTED

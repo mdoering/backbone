@@ -1,5 +1,4 @@
-Inocybe subfibrosoides Singer SPECIES
-=======
+# Inocybe subfibrosoides Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycena cimicaria Velen. SPECIES
-=======
+# Mycena cimicaria Velen. SPECIES
 
 #### Status
 ACCEPTED

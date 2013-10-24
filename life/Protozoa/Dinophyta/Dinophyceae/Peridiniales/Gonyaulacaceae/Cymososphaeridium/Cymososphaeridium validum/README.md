@@ -1,5 +1,4 @@
-Cymososphaeridium validum R. J. Davey SPECIES
-=======
+# Cymososphaeridium validum R. J. Davey SPECIES
 
 #### Status
 ACCEPTED

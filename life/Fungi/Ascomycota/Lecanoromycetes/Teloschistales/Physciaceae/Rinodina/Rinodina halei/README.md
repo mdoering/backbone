@@ -1,5 +1,4 @@
-Rinodina halei H. Magn. SPECIES
-=======
+# Rinodina halei H. Magn. SPECIES
 
 #### Status
 ACCEPTED

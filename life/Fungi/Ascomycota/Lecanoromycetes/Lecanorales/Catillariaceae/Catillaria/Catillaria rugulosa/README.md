@@ -1,5 +1,4 @@
-Catillaria rugulosa (Hepp) Lettau SPECIES
-=======
+# Catillaria rugulosa (Hepp) Lettau SPECIES
 
 #### Status
 ACCEPTED

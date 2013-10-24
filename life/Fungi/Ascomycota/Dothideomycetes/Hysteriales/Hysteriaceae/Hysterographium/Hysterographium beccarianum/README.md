@@ -1,5 +1,4 @@
-Hysterographium beccarianum Pass. SPECIES
-=======
+# Hysterographium beccarianum Pass. SPECIES
 
 #### Status
 ACCEPTED

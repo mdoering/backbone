@@ -1,5 +1,4 @@
-Fomes silveirae Torrend SPECIES
-=======
+# Fomes silveirae Torrend SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teloschistes puber (Ach.) Almb. SPECIES
-=======
+# Teloschistes puber (Ach.) Almb. SPECIES
 
 #### Status
 ACCEPTED

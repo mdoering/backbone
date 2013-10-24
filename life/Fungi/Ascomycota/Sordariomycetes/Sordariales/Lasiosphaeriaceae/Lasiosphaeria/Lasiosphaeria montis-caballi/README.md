@@ -1,5 +1,4 @@
-Lasiosphaeria montis-caballi Speg. SPECIES
-=======
+# Lasiosphaeria montis-caballi Speg. SPECIES
 
 #### Status
 ACCEPTED

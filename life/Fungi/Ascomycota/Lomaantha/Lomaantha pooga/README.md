@@ -1,5 +1,4 @@
-Lomaantha pooga Subram., 1954 SPECIES
-=======
+# Lomaantha pooga Subram., 1954 SPECIES
 
 #### Status
 ACCEPTED

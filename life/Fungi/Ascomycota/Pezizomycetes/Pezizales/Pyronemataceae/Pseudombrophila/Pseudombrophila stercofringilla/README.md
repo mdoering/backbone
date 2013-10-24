@@ -1,5 +1,4 @@
-Pseudombrophila stercofringilla Dougoud SPECIES
-=======
+# Pseudombrophila stercofringilla Dougoud SPECIES
 
 #### Status
 ACCEPTED

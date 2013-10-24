@@ -1,5 +1,4 @@
-Uromyces eurotiae Tranzschel SPECIES
-=======
+# Uromyces eurotiae Tranzschel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auxarthron filamentosum Sigler, Hambl. & Flis SPECIES
-=======
+# Auxarthron filamentosum Sigler, Hambl. & Flis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Entopeltis ruwenzoriensis Hansf. SPECIES
-=======
+# Entopeltis ruwenzoriensis Hansf. SPECIES
 
 #### Status
 ACCEPTED

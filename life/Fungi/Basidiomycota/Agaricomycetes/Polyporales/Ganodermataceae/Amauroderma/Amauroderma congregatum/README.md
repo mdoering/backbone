@@ -1,5 +1,4 @@
-Amauroderma congregatum Corner, 1983 SPECIES
-=======
+# Amauroderma congregatum Corner, 1983 SPECIES
 
 #### Status
 ACCEPTED

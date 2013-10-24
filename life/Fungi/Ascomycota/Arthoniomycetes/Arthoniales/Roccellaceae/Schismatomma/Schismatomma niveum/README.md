@@ -1,5 +1,4 @@
-Schismatomma niveum D. Hawksw. & P. James SPECIES
-=======
+# Schismatomma niveum D. Hawksw. & P. James SPECIES
 
 #### Status
 ACCEPTED

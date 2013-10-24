@@ -1,5 +1,4 @@
-Biloculinella taiwanica Huang SPECIES
-=======
+# Biloculinella taiwanica Huang SPECIES
 
 #### Status
 ACCEPTED

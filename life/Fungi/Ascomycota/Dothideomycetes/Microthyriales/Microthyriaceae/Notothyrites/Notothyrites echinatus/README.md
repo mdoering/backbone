@@ -1,5 +1,4 @@
-Notothyrites echinatus K.P. Rao & Ramanujam SPECIES
-=======
+# Notothyrites echinatus K.P. Rao & Ramanujam SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Smittium gigasporus M.C. Williams & Lichtw. SPECIES
-=======
+# Smittium gigasporum M.C. Williams & Lichtw., 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 76(2): 206 (1984)
 
 #### Original name
-Smittium gigasporus M.C. Williams & Lichtw.
+Smittium gigasporum M.C. Williams & Lichtw., 1984
 
 ### Remarks
 null

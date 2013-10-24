@@ -1,5 +1,4 @@
-Corynespora kamatii (V.G. Rao) M.B. Ellis SPECIES
-=======
+# Corynespora kamatii (V.G. Rao) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

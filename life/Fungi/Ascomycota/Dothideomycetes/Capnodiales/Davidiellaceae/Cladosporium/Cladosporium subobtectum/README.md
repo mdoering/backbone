@@ -1,5 +1,4 @@
-Cladosporium subobtectum U. Braun & K. Schub. SPECIES
-=======
+# Cladosporium subobtectum U. Braun & K. Schub. SPECIES
 
 #### Status
 ACCEPTED

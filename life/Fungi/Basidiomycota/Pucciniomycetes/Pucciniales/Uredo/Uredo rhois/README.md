@@ -1,5 +1,4 @@
-Uredo rhois Henn. SPECIES
-=======
+# Uredo rhois Henn. SPECIES
 
 #### Status
 ACCEPTED

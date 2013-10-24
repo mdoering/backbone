@@ -1,5 +1,4 @@
-Perisporium dilabens P. Karst. SPECIES
-=======
+# Perisporium dilabens P. Karst. SPECIES
 
 #### Status
 ACCEPTED

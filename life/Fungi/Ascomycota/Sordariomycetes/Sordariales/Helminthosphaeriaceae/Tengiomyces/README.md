@@ -1,5 +1,4 @@
-Tengiomyces Réblová GENUS
-=======
+# Tengiomyces Réblová GENUS
 
 #### Status
 ACCEPTED

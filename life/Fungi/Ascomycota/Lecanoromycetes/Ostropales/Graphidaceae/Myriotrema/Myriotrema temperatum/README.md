@@ -1,5 +1,4 @@
-Myriotrema temperatum Mangold SPECIES
-=======
+# Myriotrema temperatum Mangold SPECIES
 
 #### Status
 ACCEPTED

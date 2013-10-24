@@ -1,5 +1,4 @@
-Puccinia laurentiana Trel. SPECIES
-=======
+# Puccinia laurentiana Trel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pycnothelia papillaria f. papillaria FORM
-=======
+# Pycnothelia papillaria (Ehrh.) L.M. Dufour SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Bull. Dept. Agr. Govt. Rest. Inst. Formosa 8: 45 (1895)
 
 #### Original name
-Pycnothelia papillaria f. papillaria
+Lichen papillarius Ehrh.
 
 ### Remarks
 null

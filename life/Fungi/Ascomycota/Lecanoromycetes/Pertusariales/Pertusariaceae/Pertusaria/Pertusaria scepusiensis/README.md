@@ -1,5 +1,4 @@
-Pertusaria scepusiensis (Gyeln.) Erichsen SPECIES
-=======
+# Pertusaria scepusiensis (Gyeln.) Erichsen SPECIES
 
 #### Status
 ACCEPTED

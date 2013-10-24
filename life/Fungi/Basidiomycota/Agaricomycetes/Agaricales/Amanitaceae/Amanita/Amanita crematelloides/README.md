@@ -1,5 +1,4 @@
-Amanita crematelloides A.E. Wood SPECIES
-=======
+# Amanita crematelloides A.E. Wood SPECIES
 
 #### Status
 ACCEPTED

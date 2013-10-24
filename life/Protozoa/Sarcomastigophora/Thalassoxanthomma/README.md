@@ -1,5 +1,4 @@
-Thalassoxanthomma Haeckel, 1887 GENUS
-=======
+# Thalassoxanthomma Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

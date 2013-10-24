@@ -1,5 +1,4 @@
-Pseudocyphellaria episticta (Nyl.) Vain. SPECIES
-=======
+# Pseudocyphellaria episticta (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Epithele glauca (Cooke) Wakef. ex Cleland SPECIES
-=======
+# Epithele glauca (Cooke) Wakef. ex Cleland SPECIES
 
 #### Status
 ACCEPTED

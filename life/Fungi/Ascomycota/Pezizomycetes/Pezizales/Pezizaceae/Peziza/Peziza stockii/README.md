@@ -1,5 +1,4 @@
-Peziza stockii (Cooke & W. Phillips) SPECIES
-=======
+# Peziza stockii (Cooke & W. Phillips) SPECIES
 
 #### Status
 ACCEPTED

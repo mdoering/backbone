@@ -1,5 +1,4 @@
-Diatrype berberidis Cooke, 1885 SPECIES
-=======
+# Diatrype berberidis Cooke, 1885 SPECIES
 
 #### Status
 ACCEPTED

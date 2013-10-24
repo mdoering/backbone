@@ -1,5 +1,4 @@
-Ramularia micromeriae Gonz. Frag. SPECIES
-=======
+# Ramularia micromeriae Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

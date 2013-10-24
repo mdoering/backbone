@@ -1,5 +1,4 @@
-Cortinarius submutabilis Rob. Henry SPECIES
-=======
+# Cortinarius submutabilis Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

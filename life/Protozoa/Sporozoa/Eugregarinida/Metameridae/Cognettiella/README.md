@@ -1,5 +1,4 @@
-Cognettiella Pizl, Chalupský & Levine, 1983 GENUS
-=======
+# Cognettiella Pizl, Chalupský & Levine, 1983 GENUS
 
 #### Status
 ACCEPTED

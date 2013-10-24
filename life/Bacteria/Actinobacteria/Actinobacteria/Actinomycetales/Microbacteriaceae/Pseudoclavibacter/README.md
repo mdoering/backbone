@@ -1,5 +1,4 @@
-Pseudoclavibacter Manaia, Nogales, Weiss & Nunes, 2004 GENUS
-=======
+# Pseudoclavibacter Manaia, Nogales, Weiss & Nunes, 2004 GENUS
 
 #### Status
 ACCEPTED

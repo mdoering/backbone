@@ -1,17 +1,16 @@
-Triblidiopsis P. Karst. GENUS
-=======
+# Tryblidiopsis P. Karst. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bidr. Känn. Finl. Nat. Folk 19: 24, 262 (1871)
 
 #### Original name
-Triblidiopsis P. Karst.
+Tryblidiopsis P. Karst.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Ombrophila subcerinea Rehm SPECIES
-=======
+# Ombrophila subcerinea Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Spermodermia protuberans Fr. SPECIES
-=======
+# Spermodermia protuberans Fr. SPECIES
 
 #### Status
 ACCEPTED

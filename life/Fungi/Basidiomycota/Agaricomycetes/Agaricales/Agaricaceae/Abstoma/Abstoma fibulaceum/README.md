@@ -1,5 +1,4 @@
-Abstoma fibulaceum Sosin SPECIES
-=======
+# Abstoma fibulaceum Sosin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myriactula rosarioides (Skottsberg) Skottsberg SPECIES
-=======
+# Myriactula rosarioides (Skottsberg) Skottsberg SPECIES
 
 #### Status
 ACCEPTED

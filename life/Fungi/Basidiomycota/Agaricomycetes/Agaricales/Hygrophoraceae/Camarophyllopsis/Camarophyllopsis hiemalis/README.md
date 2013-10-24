@@ -1,14 +1,13 @@
-Hygrotrama hiemale (Singer & Clémençon) Singer, 1973 SPECIES
-=======
+# Camarophyllopsis hiemalis (Singer & Clémençon) Arnolds, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Beih. Sydowia 7: 4 (1973)
+Mycotaxon 25(2): 643 (1986)
 
 #### Original name
 Aeruginospora hiemalis Singer & Clémençon, 1971

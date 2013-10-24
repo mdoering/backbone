@@ -1,5 +1,4 @@
-Orbitoides d'Orbigny in Lyell, 1848 GENUS
-=======
+# Orbitoides d'Orbigny in Lyell, 1848 GENUS
 
 #### Status
 ACCEPTED

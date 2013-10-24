@@ -1,5 +1,4 @@
-Psalliota tenuivolvata F.H. Møller SPECIES
-=======
+# Psalliota tenuivolvata F.H. Møller SPECIES
 
 #### Status
 ACCEPTED

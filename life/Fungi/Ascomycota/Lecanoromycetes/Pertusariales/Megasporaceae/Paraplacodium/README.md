@@ -1,5 +1,4 @@
-Paraplacodium GENUS
-=======
+# Paraplacodium GENUS
 
 #### Status
 ACCEPTED

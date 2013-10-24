@@ -1,17 +1,16 @@
-Amastigosporium Bond.-Mont. GENUS
-=======
+# Mastigosporium Riess, 1852 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Mater. Mikol. Obsled. Ross. 5(1): 2 (1921)
+null
 
 #### Original name
-Amastigosporium Bond.-Mont.
+null
 
 ### Remarks
 null

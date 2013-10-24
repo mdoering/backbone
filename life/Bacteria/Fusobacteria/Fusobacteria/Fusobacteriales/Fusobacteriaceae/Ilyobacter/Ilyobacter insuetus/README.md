@@ -1,5 +1,4 @@
-Ilyobacter insuetus Brune et al., 2002 SPECIES
-=======
+# Ilyobacter insuetus Brune et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

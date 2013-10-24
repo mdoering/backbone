@@ -1,5 +1,4 @@
-Dictyopteris muelleri (Sonder) Reinbold SPECIES
-=======
+# Dictyopteris muelleri (Sonder) Reinbold SPECIES
 
 #### Status
 ACCEPTED

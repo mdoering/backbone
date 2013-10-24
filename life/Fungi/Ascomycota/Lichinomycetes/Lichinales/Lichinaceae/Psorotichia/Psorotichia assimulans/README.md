@@ -1,5 +1,4 @@
-Psorotichia assimulans (Nyl.) Forssell SPECIES
-=======
+# Psorotichia assimulans (Nyl.) Forssell SPECIES
 
 #### Status
 ACCEPTED

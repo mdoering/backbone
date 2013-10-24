@@ -1,5 +1,4 @@
-Patellea cenangicola (Ellis & Everh.) Sacc. SPECIES
-=======
+# Patellea cenangicola (Ellis & Everh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

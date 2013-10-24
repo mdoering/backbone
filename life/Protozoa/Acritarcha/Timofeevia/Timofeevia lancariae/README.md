@@ -1,5 +1,4 @@
-Timofeevia lancariae (Cramer & Díez, 1972) Vanguestaine, 1978 SPECIES
-=======
+# Timofeevia lancariae (Cramer & Díez, 1972) Vanguestaine, 1978 SPECIES
 
 #### Status
 ACCEPTED

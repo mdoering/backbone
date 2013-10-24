@@ -1,5 +1,4 @@
-Orbilia coccostigma (Wallr.) Sacc. SPECIES
-=======
+# Orbilia coccostigma (Wallr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca chapadensis (Malme) Zahlbr. SPECIES
-=======
+# Caloplaca chapadensis (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea monospora C. Knight SPECIES
-=======
+# Lecidea monospora C. Knight SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sargassum binfrti Sonder SPECIES
-=======
+# Sargassum binfrti Sonder SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Rotaformiidae FAMILY
-=======
+# Rotaformidae Pessagno, 1970 FAMILY
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera

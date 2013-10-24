@@ -1,5 +1,4 @@
-Ramularia ufensis Karak. SPECIES
-=======
+# Ramularia ufensis Karak. SPECIES
 
 #### Status
 ACCEPTED

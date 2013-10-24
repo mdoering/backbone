@@ -1,5 +1,4 @@
-Pyrenochaeta aurantii McAlpine SPECIES
-=======
+# Pyrenochaeta aurantii McAlpine SPECIES
 
 #### Status
 ACCEPTED

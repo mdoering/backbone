@@ -1,5 +1,4 @@
-Xylaria schweinitzii Berk. & M.A. Curtis SPECIES
-=======
+# Xylaria schweinitzii Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

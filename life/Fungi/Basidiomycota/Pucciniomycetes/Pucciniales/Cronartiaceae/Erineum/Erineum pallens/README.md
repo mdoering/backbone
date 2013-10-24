@@ -1,5 +1,4 @@
-Erineum pallens Corda SPECIES
-=======
+# Erineum pallens Corda SPECIES
 
 #### Status
 ACCEPTED

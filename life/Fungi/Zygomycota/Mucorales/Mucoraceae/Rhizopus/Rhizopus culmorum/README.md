@@ -1,5 +1,4 @@
-Rhizopus culmorum (Feltgen) Höhn. SPECIES
-=======
+# Rhizopus culmorum (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

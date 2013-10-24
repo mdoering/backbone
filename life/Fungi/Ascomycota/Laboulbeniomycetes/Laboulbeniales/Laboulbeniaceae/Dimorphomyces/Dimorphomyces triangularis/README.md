@@ -1,5 +1,4 @@
-Dimorphomyces triangularis Thaxt. SPECIES
-=======
+# Dimorphomyces triangularis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

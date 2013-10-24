@@ -1,5 +1,4 @@
-Leptostroma calamagrostidis Woron. SPECIES
-=======
+# Leptostroma calamagrostidis Woron. SPECIES
 
 #### Status
 ACCEPTED

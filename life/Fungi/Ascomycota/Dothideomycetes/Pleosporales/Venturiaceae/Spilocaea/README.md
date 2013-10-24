@@ -1,17 +1,16 @@
-Actinonema Fr. GENUS
-=======
+# Spilocaea E.M. Fries, 1819 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 424 (1849)
+null
 
 #### Original name
-Actinonema Fr.
+null
 
 ### Remarks
 null

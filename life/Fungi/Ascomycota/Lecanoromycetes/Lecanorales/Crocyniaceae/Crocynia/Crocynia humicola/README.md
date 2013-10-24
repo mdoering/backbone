@@ -1,5 +1,4 @@
-Crocynia humicola B. de Lesd. SPECIES
-=======
+# Crocynia humicola B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

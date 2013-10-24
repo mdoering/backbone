@@ -1,5 +1,4 @@
-Nocardioides pyridinolyticus Yoon et al., 1997 SPECIES
-=======
+# Nocardioides pyridinolyticus Yoon et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimeromyces amazonicus Thaxt. SPECIES
-=======
+# Dimeromyces amazonicus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

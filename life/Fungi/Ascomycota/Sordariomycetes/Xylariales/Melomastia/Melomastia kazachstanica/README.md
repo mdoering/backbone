@@ -1,5 +1,4 @@
-Melomastia kazachstanica Kravtzev SPECIES
-=======
+# Melomastia kazachstanica Kravtzev SPECIES
 
 #### Status
 ACCEPTED

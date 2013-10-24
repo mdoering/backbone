@@ -1,5 +1,4 @@
-Phaeographis albolabiata Patw. & C.R. Kulk. SPECIES
-=======
+# Phaeographis albolabiata Patw. & C.R. Kulk. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Climacodium frauenfeldianum Grunow SPECIES
-=======
+# Climacodium frauenfeldianum Grunow SPECIES
 
 #### Status
 ACCEPTED

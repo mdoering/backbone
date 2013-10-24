@@ -1,5 +1,4 @@
-Lecanactis gumulosa SPECIES
-=======
+# Lecanactis gumulosa SPECIES
 
 #### Status
 ACCEPTED

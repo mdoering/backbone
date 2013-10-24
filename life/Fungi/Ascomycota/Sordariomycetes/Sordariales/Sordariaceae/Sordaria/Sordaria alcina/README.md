@@ -1,5 +1,4 @@
-Sordaria alcina N. Lundq., 1972 SPECIES
-=======
+# Sordaria alcina N. Lundq., 1972 SPECIES
 
 #### Status
 ACCEPTED

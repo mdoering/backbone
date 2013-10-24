@@ -1,5 +1,4 @@
-Eoannularia Cole & Bermúdez, 1944 GENUS
-=======
+# Eoannularia Cole & Bermúdez, 1944 GENUS
 
 #### Status
 ACCEPTED

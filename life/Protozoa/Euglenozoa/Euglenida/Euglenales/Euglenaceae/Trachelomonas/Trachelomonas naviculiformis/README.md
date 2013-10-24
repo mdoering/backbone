@@ -1,5 +1,4 @@
-Trachelomonas naviculiformis var. bourrellyi VARIETY
-=======
+# Trachelomonas naviculiformis Deflandre SPECIES
 
 #### Status
 ACCEPTED

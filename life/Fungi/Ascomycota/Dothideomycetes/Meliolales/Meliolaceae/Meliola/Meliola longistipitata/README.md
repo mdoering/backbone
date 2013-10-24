@@ -1,5 +1,4 @@
-Meliola longistipitata var. longistipitata VARIETY
-=======
+# Meliola longistipitata F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Annls mycol. 26: 191 (1928)
 
 #### Original name
-Meliola longistipitata var. longistipitata
+Meliola longistipitata F. Stevens
 
 ### Remarks
 null

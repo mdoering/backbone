@@ -1,5 +1,4 @@
-Bogdanowiczia Vialov & Pishvanova, 1967 GENUS
-=======
+# Bogdanowiczia Vialov & Pishvanova, 1967 GENUS
 
 #### Status
 ACCEPTED

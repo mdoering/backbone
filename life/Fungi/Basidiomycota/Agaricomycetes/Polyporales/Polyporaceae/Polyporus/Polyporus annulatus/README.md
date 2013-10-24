@@ -1,5 +1,4 @@
-Polyporus annulatus Jungh., 1838 SPECIES
-=======
+# Polyporus annulatus Jungh., 1838 SPECIES
 
 #### Status
 ACCEPTED

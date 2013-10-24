@@ -1,5 +1,4 @@
-Cercospora iridis Chupp SPECIES
-=======
+# Cercospora iridis Chupp SPECIES
 
 #### Status
 ACCEPTED

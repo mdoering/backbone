@@ -1,5 +1,4 @@
-Stephanolithion octum (Rood & Barnard, 1972) PerchcNielsen, 1984 SPECIES
-=======
+# Stephanolithion octum (Rood & Barnard, 1972) PerchcNielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Vermicularia melastomacearum Speg. SPECIES
-=======
+# Vermicularia melastomacearum Speg. SPECIES
 
 #### Status
 ACCEPTED

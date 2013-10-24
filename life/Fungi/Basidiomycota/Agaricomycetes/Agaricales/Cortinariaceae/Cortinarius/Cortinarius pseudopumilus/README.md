@@ -1,17 +1,16 @@
-Cortinarius pseudo-pumilus Moënne-Locc. SPECIES
-=======
+# Cortinarius pseudopumilus Moënne-Locc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atlas des Cortinaires (Meyzieu) 10: 493 (2000)
 
 #### Original name
-Cortinarius pseudo-pumilus Moënne-Locc.
+Cortinarius pseudopumilus Moënne-Locc.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Dimerosporium chusqueae Henn. SPECIES
-=======
+# Dimerosporium chusqueae Henn. SPECIES
 
 #### Status
 ACCEPTED

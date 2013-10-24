@@ -1,5 +1,4 @@
-Phyllosticta hymenaeae (Bat. & A.F. Vital) Aa SPECIES
-=======
+# Phyllosticta hymenaeae (Bat. & A.F. Vital) Aa SPECIES
 
 #### Status
 ACCEPTED

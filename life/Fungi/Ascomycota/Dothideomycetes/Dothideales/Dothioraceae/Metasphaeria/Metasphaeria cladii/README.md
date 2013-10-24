@@ -1,5 +1,4 @@
-Metasphaeria cladii Cruchet SPECIES
-=======
+# Metasphaeria cladii Cruchet SPECIES
 
 #### Status
 ACCEPTED

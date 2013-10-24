@@ -1,5 +1,4 @@
-Polyporellus umbilicatus (Scop.) P. Karst. SPECIES
-=======
+# Polyporellus umbilicatus (Scop.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

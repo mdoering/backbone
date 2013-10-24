@@ -1,5 +1,4 @@
-Lamprospora hanffii Benkert SPECIES
-=======
+# Lamprospora hanffii Benkert SPECIES
 
 #### Status
 ACCEPTED

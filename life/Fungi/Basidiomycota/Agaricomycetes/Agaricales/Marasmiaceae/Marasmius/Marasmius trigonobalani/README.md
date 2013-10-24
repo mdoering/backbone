@@ -1,5 +1,4 @@
-Marasmius trigonobalani Corner SPECIES
-=======
+# Marasmius trigonobalani Corner SPECIES
 
 #### Status
 ACCEPTED

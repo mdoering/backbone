@@ -1,14 +1,13 @@
-Galerina vittiformis var. subannulata Singer, 1953 VARIETY
-=======
+# Galerina subannulata (Singer) A.H. Sm. & Singer, 1964 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sydowia 7: 246 (1953)
+null
 
 #### Original name
 Galerina vittiformis var. subannulata Singer, 1953

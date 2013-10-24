@@ -1,5 +1,4 @@
-Spilocaea phillyreae (Nicolas & Aggéry) M.B. Ellis SPECIES
-=======
+# Spilocaea phillyreae (Nicolas & Aggéry) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

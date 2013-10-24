@@ -1,5 +1,4 @@
-Triposporium verruculosum R.F. Castañeda, Gené & Guarro, 1996 SPECIES
-=======
+# Triposporium verruculosum R.F. Castañeda, Gené & Guarro, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniothyrium rostrupii (Berl. & Voglino) Tassi SPECIES
-=======
+# Coniothyrium rostrupii (Berl. & Voglino) Tassi SPECIES
 
 #### Status
 ACCEPTED

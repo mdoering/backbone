@@ -1,5 +1,4 @@
-Tuber minimum Bornh. {?} SPECIES
-=======
+# Tuber minimum Bornh. {?} SPECIES
 
 #### Status
 ACCEPTED

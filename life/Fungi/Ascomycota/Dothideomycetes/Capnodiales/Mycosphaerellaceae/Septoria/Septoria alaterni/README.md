@@ -1,5 +1,4 @@
-Septoria alaterni Pass. SPECIES
-=======
+# Septoria alaterni Pass. SPECIES
 
 #### Status
 ACCEPTED

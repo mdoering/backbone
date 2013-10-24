@@ -1,5 +1,4 @@
-Ureaplasma felinum Harasawa et al., 1990 SPECIES
-=======
+# Ureaplasma felinum Harasawa et al., 1990 SPECIES
 
 #### Status
 ACCEPTED

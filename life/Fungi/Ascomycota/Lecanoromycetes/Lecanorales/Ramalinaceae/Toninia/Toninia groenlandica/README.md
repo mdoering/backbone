@@ -1,5 +1,4 @@
-Toninia groenlandica Lynge SPECIES
-=======
+# Toninia groenlandica Lynge SPECIES
 
 #### Status
 ACCEPTED

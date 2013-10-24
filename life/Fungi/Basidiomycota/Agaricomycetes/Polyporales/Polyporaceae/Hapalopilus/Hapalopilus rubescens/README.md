@@ -1,5 +1,4 @@
-Hapalopilus rubescens Corner, 1989 SPECIES
-=======
+# Hapalopilus rubescens Corner, 1989 SPECIES
 
 #### Status
 ACCEPTED

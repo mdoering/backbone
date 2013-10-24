@@ -1,5 +1,4 @@
-Vibrissea stilboidea (Berk.) Sacc. SPECIES
-=======
+# Vibrissea stilboidea (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

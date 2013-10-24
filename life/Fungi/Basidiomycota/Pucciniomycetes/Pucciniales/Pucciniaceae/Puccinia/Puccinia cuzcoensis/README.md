@@ -1,5 +1,4 @@
-Puccinia cuzcoensis Arthur SPECIES
-=======
+# Puccinia cuzcoensis Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoporum consocians Nyl. SPECIES
-=======
+# Mycoporum consocians Nyl. SPECIES
 
 #### Status
 ACCEPTED

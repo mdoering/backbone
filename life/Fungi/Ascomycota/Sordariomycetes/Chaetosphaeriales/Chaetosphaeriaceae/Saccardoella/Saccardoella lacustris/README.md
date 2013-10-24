@@ -1,17 +1,16 @@
-Saccardoëlla lacustris Fallah & Shearer SPECIES
-=======
+# Saccardoella lacustris Fallah & Shearer SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycologia 93(3): 582 (2001)
 
 #### Original name
-Saccardoëlla lacustris Fallah & Shearer
+Saccardoella lacustris Fallah & Shearer
 
 ### Remarks
 null

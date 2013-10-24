@@ -1,5 +1,4 @@
-Stropharia apiahyna (Speg.) Cortez & R.M. Silveira SPECIES
-=======
+# Stropharia apiahyna (Speg.) Cortez & R.M. Silveira SPECIES
 
 #### Status
 ACCEPTED

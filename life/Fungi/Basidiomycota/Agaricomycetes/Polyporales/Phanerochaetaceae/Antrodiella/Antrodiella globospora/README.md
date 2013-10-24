@@ -1,5 +1,4 @@
-Antrodiella globospora Núñez & Ryvarden SPECIES
-=======
+# Antrodiella globospora Núñez & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

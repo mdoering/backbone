@@ -1,5 +1,4 @@
-Torula aceti Sacc. SPECIES
-=======
+# Torula aceti Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Omphalina novoguineensis Kobayasi SPECIES
-=======
+# Omphalina novoguineensis Kobayasi SPECIES
 
 #### Status
 ACCEPTED

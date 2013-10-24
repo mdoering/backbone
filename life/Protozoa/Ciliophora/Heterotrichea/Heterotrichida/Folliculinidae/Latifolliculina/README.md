@@ -1,5 +1,4 @@
-Latifolliculina Hadzi, 1951 GENUS
-=======
+# Latifolliculina Hadzi, 1951 GENUS
 
 #### Status
 ACCEPTED

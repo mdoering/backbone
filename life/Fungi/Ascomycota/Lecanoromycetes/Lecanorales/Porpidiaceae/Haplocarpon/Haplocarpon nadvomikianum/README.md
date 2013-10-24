@@ -1,5 +1,4 @@
-Haplocarpon nadvomikianum Vezda SPECIES
-=======
+# Haplocarpon nadvomikianum Vezda SPECIES
 
 #### Status
 ACCEPTED

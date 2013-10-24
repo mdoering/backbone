@@ -1,5 +1,4 @@
-Virgariella atra S. Hughes, 1953 SPECIES
-=======
+# Virgariella atra S. Hughes, 1953 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coleroa kalmiae (Peck) Rehm SPECIES
-=======
+# Coleroa kalmiae (Peck) Rehm SPECIES
 
 #### Status
 ACCEPTED

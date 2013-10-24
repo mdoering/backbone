@@ -1,5 +1,4 @@
-Lichtheimia sartoryi A. Bailly & Sartory SPECIES
-=======
+# Lichtheimia sartoryi A. Bailly & Sartory SPECIES
 
 #### Status
 ACCEPTED

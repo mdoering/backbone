@@ -1,17 +1,16 @@
-Odontia verrukawa H. Furuk., 1974 SPECIES
-=======
+# Skvortzovia furfurella (Bres.) Bononi & Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Govt Forest Exp. Stn Meguro 261: 26 (1974)
+in Hjortstam & Bononi, Mycotaxon 28(1): 12 (1987)
 
 #### Original name
-Odontia verrukawa H. Furuk., 1974
+Odontia furfurella Bres., 1925
 
 ### Remarks
 null

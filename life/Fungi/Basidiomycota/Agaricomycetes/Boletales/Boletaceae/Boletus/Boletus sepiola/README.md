@@ -1,5 +1,4 @@
-Boletus sepiola Corner SPECIES
-=======
+# Boletus sepiola Corner SPECIES
 
 #### Status
 ACCEPTED

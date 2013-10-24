@@ -1,5 +1,4 @@
-Didymascella juniperi anon. SPECIES
-=======
+# Didymascella juniperi anon. SPECIES
 
 #### Status
 ACCEPTED

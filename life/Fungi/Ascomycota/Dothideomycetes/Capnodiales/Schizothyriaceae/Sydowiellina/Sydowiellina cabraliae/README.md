@@ -1,5 +1,4 @@
-Sydowiellina cabraliae Bat. & I.H. Lima SPECIES
-=======
+# Sydowiellina cabraliae Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

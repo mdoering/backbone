@@ -1,5 +1,4 @@
-Nocardia soli Maldonado et al., 2001 SPECIES
-=======
+# Nocardia soli Maldonado et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

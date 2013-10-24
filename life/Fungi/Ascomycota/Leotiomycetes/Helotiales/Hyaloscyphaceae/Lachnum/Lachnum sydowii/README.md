@@ -1,5 +1,4 @@
-Lachnum sydowii (Dennis) SPECIES
-=======
+# Lachnum sydowii (Dennis) SPECIES
 
 #### Status
 ACCEPTED

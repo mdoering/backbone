@@ -1,5 +1,4 @@
-Cercosporina heveae (Vincens) Sacc. SPECIES
-=======
+# Cercosporina heveae (Vincens) Sacc. SPECIES
 
 #### Status
 ACCEPTED

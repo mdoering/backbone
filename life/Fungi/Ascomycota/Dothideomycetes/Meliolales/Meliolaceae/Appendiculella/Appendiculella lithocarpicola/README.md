@@ -1,5 +1,4 @@
-Appendiculella lithocarpicola (W. Yamam.) Hansf. SPECIES
-=======
+# Appendiculella lithocarpicola (W. Yamam.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

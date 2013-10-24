@@ -1,5 +1,4 @@
-Sphaceloma banksiicola Pascoe & Crous SPECIES
-=======
+# Sphaceloma banksiicola Pascoe & Crous SPECIES
 
 #### Status
 ACCEPTED

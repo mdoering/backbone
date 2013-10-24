@@ -1,5 +1,4 @@
-Amphitholissa Haeckel, 1887 GENUS
-=======
+# Amphitholissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia magnusiana A.A. Fisch. Waldh. SPECIES
-=======
+# Tilletia magnusiana A.A. Fisch. Waldh. SPECIES
 
 #### Status
 ACCEPTED

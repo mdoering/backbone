@@ -1,17 +1,16 @@
-Pholiotina coprophila var. coprophila VARIETY
-=======
+# Conocybe coprophila (Kühner) Kühner, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Acta Inst. bot. Komarov. Acad. Sci. , Pl. Crypt, ser. 2 6: 434 (1950)
+Encyclop. Mycol. 7: 125 (1935)
 
 #### Original name
-Pholiotina coprophila var. coprophila
+Galera coprophila Kühner, 1926
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gloeosporium bischofiae Koord. SPECIES
-=======
+# Gloeosporium bischofiae Koord. SPECIES
 
 #### Status
 ACCEPTED

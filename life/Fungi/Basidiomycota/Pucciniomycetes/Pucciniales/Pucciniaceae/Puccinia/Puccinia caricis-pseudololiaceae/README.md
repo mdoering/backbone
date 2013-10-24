@@ -1,5 +1,4 @@
-Puccinia caricis-pseudololiaceae Homma SPECIES
-=======
+# Puccinia caricis-pseudololiaceae Homma SPECIES
 
 #### Status
 ACCEPTED

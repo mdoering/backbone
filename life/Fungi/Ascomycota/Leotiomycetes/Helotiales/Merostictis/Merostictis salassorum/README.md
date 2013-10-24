@@ -1,5 +1,4 @@
-Merostictis salassorum Défago SPECIES
-=======
+# Merostictis salassorum Défago SPECIES
 
 #### Status
 ACCEPTED

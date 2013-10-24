@@ -1,5 +1,4 @@
-Marasmius hortorum Corner SPECIES
-=======
+# Marasmius hortorum Corner SPECIES
 
 #### Status
 ACCEPTED

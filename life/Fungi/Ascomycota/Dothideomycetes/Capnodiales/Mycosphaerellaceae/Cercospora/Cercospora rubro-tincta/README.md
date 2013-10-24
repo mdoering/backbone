@@ -1,5 +1,4 @@
-Cercospora rubro-tincta Ellis & Everhart SPECIES
-=======
+# Cercospora rubro-tincta Ellis & Everhart SPECIES
 
 #### Status
 ACCEPTED

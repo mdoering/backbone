@@ -1,5 +1,4 @@
-Melanotheca insularis Hulting SPECIES
-=======
+# Melanotheca insularis Hulting SPECIES
 
 #### Status
 ACCEPTED

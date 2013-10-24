@@ -1,17 +1,16 @@
-Amylodontia Nikol. GENUS
-=======
+# Dentipellis Donk GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nov. sist. Niz. Rast. 4: 238 (1967)
+Persoonia 2(2): 232 (1962)
 
 #### Original name
-Amylodontia Nikol.
+Dentipellis Donk
 
 ### Remarks
 null

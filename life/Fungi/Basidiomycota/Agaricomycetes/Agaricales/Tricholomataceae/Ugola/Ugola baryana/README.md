@@ -1,14 +1,13 @@
-Hypolyssus baryanus (Tul.) Kuntze, 1898 SPECIES
-=======
+# Ugola baryana (Tul.) Redhead & Seifert, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 488 (1898)
+Taxon 50(1): 250 (2001)
 
 #### Original name
 Hypomyces baryanus Tul. & C. Tul., 1860

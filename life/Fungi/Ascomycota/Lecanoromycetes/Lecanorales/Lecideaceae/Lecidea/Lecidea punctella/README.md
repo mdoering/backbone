@@ -1,5 +1,4 @@
-Lecidea punctella (Willey) Zahlbr. SPECIES
-=======
+# Lecidea punctella (Willey) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

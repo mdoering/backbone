@@ -1,5 +1,4 @@
-Paratrichodina Lom, 1963 GENUS
-=======
+# Paratrichodina Lom, 1963 GENUS
 
 #### Status
 ACCEPTED

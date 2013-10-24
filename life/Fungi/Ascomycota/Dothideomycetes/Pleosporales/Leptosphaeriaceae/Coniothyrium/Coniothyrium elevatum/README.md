@@ -1,5 +1,4 @@
-Coniothyrium elevatum (Peck) Kuntze SPECIES
-=======
+# Coniothyrium elevatum (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

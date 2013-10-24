@@ -1,5 +1,4 @@
-Coriolus caesioflavus (P. Karst.) Pat. SPECIES
-=======
+# Coriolus caesioflavus (P. Karst.) Pat. SPECIES
 
 #### Status
 ACCEPTED

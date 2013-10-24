@@ -1,5 +1,4 @@
-Delicatula laevis Velen. SPECIES
-=======
+# Delicatula laevis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophodermium litseae Minter & M.P. Sharma, 1982 SPECIES
-=======
+# Lophodermium litseae Minter & M.P. Sharma, 1982 SPECIES
 
 #### Status
 ACCEPTED

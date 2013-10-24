@@ -1,8 +1,7 @@
-Hymenoscypha gracilipes Cooke SPECIES
-=======
+# Hymenoscyphus gracilipes Cooke SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hymenoscypha gracilipes Cooke
+Hymenoscyphus gracilipes Cooke
 
 ### Remarks
 null

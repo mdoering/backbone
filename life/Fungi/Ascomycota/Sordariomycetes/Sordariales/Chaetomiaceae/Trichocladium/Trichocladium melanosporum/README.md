@@ -1,5 +1,4 @@
-Trichocladium melanosporum anon. ined. SPECIES
-=======
+# Trichocladium melanosporum anon. ined. SPECIES
 
 #### Status
 ACCEPTED

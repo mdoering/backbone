@@ -1,5 +1,4 @@
-Gorkaea operio SPECIES
-=======
+# Gorkaea operio SPECIES
 
 #### Status
 DOUBTFUL

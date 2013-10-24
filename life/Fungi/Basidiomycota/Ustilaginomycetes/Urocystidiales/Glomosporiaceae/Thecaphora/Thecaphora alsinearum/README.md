@@ -1,5 +1,4 @@
-Thecaphora alsinearum (Cif.) Vánky & M. Lutz SPECIES
-=======
+# Thecaphora alsinearum (Cif.) Vánky & M. Lutz SPECIES
 
 #### Status
 ACCEPTED

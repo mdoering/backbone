@@ -1,5 +1,4 @@
-Uredo megalospora Speg. SPECIES
-=======
+# Uredo megalospora Speg. SPECIES
 
 #### Status
 ACCEPTED

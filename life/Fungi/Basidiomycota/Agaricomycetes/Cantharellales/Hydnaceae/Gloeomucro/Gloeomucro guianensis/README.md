@@ -1,14 +1,13 @@
-Myxomycidium guianense Linder, 1934 SPECIES
-=======
+# Gloeomucro guianensis (Linder) R.H. Petersen, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 26: 340 (1934)
+Mycologia 72(2): 303 (1980)
 
 #### Original name
 Myxomycidium guianense Linder, 1934

@@ -1,5 +1,4 @@
-Flammula amara Bull. SPECIES
-=======
+# Flammula amara Bull. SPECIES
 
 #### Status
 ACCEPTED

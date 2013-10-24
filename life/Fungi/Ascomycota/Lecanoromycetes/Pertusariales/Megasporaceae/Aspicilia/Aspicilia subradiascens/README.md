@@ -1,5 +1,4 @@
-Aspicilia subradiascens (Nyl.) Creveld SPECIES
-=======
+# Aspicilia subradiascens (Nyl.) Creveld SPECIES
 
 #### Status
 ACCEPTED

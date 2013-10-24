@@ -1,5 +1,4 @@
-Thelidium abstractum Lettau SPECIES
-=======
+# Thelidium abstractum Lettau SPECIES
 
 #### Status
 ACCEPTED

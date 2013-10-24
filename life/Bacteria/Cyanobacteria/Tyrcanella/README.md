@@ -1,5 +1,4 @@
-Tyrcanella P.N. Kolosov, 1975 GENUS
-=======
+# Tyrcanella P.N. Kolosov, 1975 GENUS
 
 #### Status
 ACCEPTED

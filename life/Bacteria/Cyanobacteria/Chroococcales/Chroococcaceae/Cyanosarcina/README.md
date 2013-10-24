@@ -1,5 +1,4 @@
-Cyanosarcina Kovácik, 1988 GENUS
-=======
+# Cyanosarcina Kovácik, 1988 GENUS
 
 #### Status
 ACCEPTED

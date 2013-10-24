@@ -1,5 +1,4 @@
-Sphingobacteriales ORDER
-=======
+# Sphingobacteriales ORDER
 
 #### Status
 ACCEPTED

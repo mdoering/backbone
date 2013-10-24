@@ -1,5 +1,4 @@
-Clathrus colonnatus Léman SPECIES
-=======
+# Clathrus colonnatus Léman SPECIES
 
 #### Status
 ACCEPTED

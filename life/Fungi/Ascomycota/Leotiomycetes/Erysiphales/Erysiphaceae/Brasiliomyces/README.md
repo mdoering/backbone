@@ -1,17 +1,16 @@
-Californiomyces U. Braun GENUS
-=======
+# Brasiliomyces Viégas GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Hedwigia 34(3 & 4): 688 (1981)
+Bragantia 4(1-6): 17 (1944)
 
 #### Original name
-Californiomyces U. Braun
+Brasiliomyces Viégas
 
 ### Remarks
 null

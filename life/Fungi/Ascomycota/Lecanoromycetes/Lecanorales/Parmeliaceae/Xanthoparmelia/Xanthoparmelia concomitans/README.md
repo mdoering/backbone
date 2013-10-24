@@ -1,5 +1,4 @@
-Xanthoparmelia concomitans Elix & J. Johnst. SPECIES
-=======
+# Xanthoparmelia concomitans Elix & J. Johnst. SPECIES
 
 #### Status
 ACCEPTED

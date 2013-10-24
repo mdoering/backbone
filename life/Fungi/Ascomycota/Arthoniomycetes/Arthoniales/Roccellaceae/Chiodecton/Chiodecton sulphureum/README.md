@@ -1,5 +1,4 @@
-Chiodecton sulphureum Vain. SPECIES
-=======
+# Chiodecton sulphureum Vain. SPECIES
 
 #### Status
 ACCEPTED

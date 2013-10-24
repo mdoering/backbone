@@ -1,5 +1,4 @@
-Merostictis caricis (Petr.) Défago SPECIES
-=======
+# Merostictis caricis (Petr.) Défago SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psathyrella romseyensis Kits van Wav., 1987 SPECIES
-=======
+# Psathyrella romseyensis Kits van Wav., 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora ulmifolia (Pass.) Sacc. SPECIES
-=======
+# Stagonospora ulmifolia (Pass.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

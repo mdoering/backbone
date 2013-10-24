@@ -1,5 +1,4 @@
-Colonimilesia McCulloch, 1977 GENUS
-=======
+# Colonimilesia McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

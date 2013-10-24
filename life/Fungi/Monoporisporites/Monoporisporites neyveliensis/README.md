@@ -1,17 +1,16 @@
-Monoporisporites neyveliense Ramanujam & Ramachar SPECIES
-=======
+# Monoporisporites neyveliensis Ramanujam & Ramachar SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Records of the Geological Survey of India 113(5): 81 + pl. 1, fig. 3 (1980)
 
 #### Original name
-Monoporisporites neyveliense Ramanujam & Ramachar
+Monoporisporites neyveliensis Ramanujam & Ramachar
 
 ### Remarks
 null

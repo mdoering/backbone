@@ -1,5 +1,4 @@
-Alectoria sophiae Motyka SPECIES
-=======
+# Alectoria sophiae Motyka SPECIES
 
 #### Status
 ACCEPTED

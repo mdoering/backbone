@@ -1,5 +1,4 @@
-Phellinus pilatii Cerný SPECIES
-=======
+# Phellinus pilatii Cerný SPECIES
 
 #### Status
 ACCEPTED

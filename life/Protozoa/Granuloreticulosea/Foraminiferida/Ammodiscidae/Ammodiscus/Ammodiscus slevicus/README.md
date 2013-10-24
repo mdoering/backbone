@@ -1,5 +1,4 @@
-Ammodiscus slevicus Rottgardt, 1952 SPECIES
-=======
+# Ammodiscus slevicus Rottgardt, 1952 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Papulosporonites orbis (V.S. Ediger) Kalgutkar & Janson. SPECIES
-=======
+# Papulosporonites orbis (V.S. Ediger) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

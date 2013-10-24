@@ -1,5 +1,4 @@
-Euglena vermicularis Proskina-Lavrenko SPECIES
-=======
+# Euglena vermicularis Proskina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

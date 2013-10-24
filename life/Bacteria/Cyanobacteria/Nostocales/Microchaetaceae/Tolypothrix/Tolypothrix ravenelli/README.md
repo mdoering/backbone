@@ -1,5 +1,4 @@
-Tolypothrix ravenelli Wolle SPECIES
-=======
+# Tolypothrix ravenelli Wolle SPECIES
 
 #### Status
 ACCEPTED

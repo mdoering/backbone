@@ -1,14 +1,13 @@
-Dasyscyphus coeruleo-alba (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus caeruleoalbus (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 11: 414 (1895)
 
 #### Original name
 Lachnum caeruleoalbum Rehm

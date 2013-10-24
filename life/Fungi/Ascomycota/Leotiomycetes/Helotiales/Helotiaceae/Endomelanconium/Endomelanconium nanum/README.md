@@ -1,5 +1,4 @@
-Endomelanconium nanum Gamundí & Aramb., 1983 SPECIES
-=======
+# Endomelanconium nanum Gamundí & Aramb., 1983 SPECIES
 
 #### Status
 ACCEPTED

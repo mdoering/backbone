@@ -1,5 +1,4 @@
-Microthelia sierraleonensis C.W. Dodge SPECIES
-=======
+# Microthelia sierraleonensis C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

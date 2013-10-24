@@ -1,5 +1,4 @@
-Asteridiella erythrococcae (Hansf.) Hansf. SPECIES
-=======
+# Asteridiella erythrococcae (Hansf.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

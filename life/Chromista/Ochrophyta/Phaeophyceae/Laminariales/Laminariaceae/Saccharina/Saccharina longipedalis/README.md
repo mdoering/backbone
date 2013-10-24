@@ -1,5 +1,4 @@
-Saccharina longipedalis (Okamura) C.E.Lane, C.Maves, Druehl & G.W.Saunders, 2006 SPECIES
-=======
+# Saccharina longipedalis (Okamura) C.E.Lane, C.Maves, Druehl & G.W.Saunders, 2006 SPECIES
 
 #### Status
 ACCEPTED

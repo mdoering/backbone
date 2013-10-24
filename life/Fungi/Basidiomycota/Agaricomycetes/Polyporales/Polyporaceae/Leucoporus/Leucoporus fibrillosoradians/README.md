@@ -1,5 +1,4 @@
-Leucoporus fibrillosoradians (Mont.) Pat. SPECIES
-=======
+# Leucoporus fibrillosoradians (Mont.) Pat. SPECIES
 
 #### Status
 ACCEPTED

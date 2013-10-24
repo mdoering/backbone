@@ -1,5 +1,4 @@
-Cortinarius tammii (Fr.) Melot SPECIES
-=======
+# Cortinarius tammii (Fr.) Melot SPECIES
 
 #### Status
 ACCEPTED

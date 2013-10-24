@@ -1,17 +1,16 @@
-Ustilago dactyloctaenii Henn. SPECIES
-=======
+# Ustilago dactyloctenii Henn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Pflanzenw. Ost-Afrikas, C 48 (1896)
 
 #### Original name
-Ustilago dactyloctaenii Henn.
+Ustilago dactyloctenii Henn.
 
 ### Remarks
 null

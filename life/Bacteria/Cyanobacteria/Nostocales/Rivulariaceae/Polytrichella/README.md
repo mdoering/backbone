@@ -1,5 +1,4 @@
-Polytrichella P. Schäfer & B. Senowbari-Daryan, 1983 GENUS
-=======
+# Polytrichella P. Schäfer & B. Senowbari-Daryan, 1983 GENUS
 
 #### Status
 ACCEPTED

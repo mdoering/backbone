@@ -1,5 +1,4 @@
-Penicillium udagawae Stolk & Samson, 1972 SPECIES
-=======
+# Penicillium udagawae Stolk & Samson, 1972 SPECIES
 
 #### Status
 ACCEPTED

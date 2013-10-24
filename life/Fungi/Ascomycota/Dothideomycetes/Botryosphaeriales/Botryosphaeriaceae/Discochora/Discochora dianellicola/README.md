@@ -1,5 +1,4 @@
-Discochora dianellicola H.Y. Yip SPECIES
-=======
+# Discochora dianellicola H.Y. Yip SPECIES
 
 #### Status
 ACCEPTED

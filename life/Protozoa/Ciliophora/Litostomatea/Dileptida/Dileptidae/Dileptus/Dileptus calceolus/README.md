@@ -1,5 +1,4 @@
-Dileptus calceolus Fromentel, 1876 SPECIES
-=======
+# Dileptus calceolus Fromentel, 1876 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoderma caoi Jannin SPECIES
-=======
+# Mycoderma caoi Jannin SPECIES
 
 #### Status
 ACCEPTED

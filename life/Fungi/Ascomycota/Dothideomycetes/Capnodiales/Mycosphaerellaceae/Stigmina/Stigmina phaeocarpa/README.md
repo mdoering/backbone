@@ -1,5 +1,4 @@
-Stigmina phaeocarpa (Mitter) M.B. Ellis SPECIES
-=======
+# Stigmina phaeocarpa (Mitter) M.B. Ellis SPECIES
 
 #### Status
 ACCEPTED

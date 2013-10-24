@@ -1,5 +1,4 @@
-Mollisia perparvula P. Karst. SPECIES
-=======
+# Mollisia perparvula P. Karst. SPECIES
 
 #### Status
 ACCEPTED

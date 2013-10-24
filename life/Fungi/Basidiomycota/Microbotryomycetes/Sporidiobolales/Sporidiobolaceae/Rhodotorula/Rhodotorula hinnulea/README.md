@@ -1,5 +1,4 @@
-Rhodotorula hinnulea (R.G. Shivas & Rodr. Mir.) Rodr. Mir. & Weijman SPECIES
-=======
+# Rhodotorula hinnulea (R.G. Shivas & Rodr. Mir.) Rodr. Mir. & Weijman SPECIES
 
 #### Status
 ACCEPTED

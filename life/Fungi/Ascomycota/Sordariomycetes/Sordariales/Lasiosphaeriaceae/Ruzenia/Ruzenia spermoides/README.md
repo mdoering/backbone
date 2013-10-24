@@ -1,17 +1,16 @@
-Sphaeria spermoides var. spermoides VARIETY
-=======
+# Ruzenia spermoides (Hoffm.) O. Hilber ex A.N. Mill. & Huhndorf, 2004 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. Res. 108(1): 31 (2004)
 
 #### Original name
-null
+Sphaeria spermoides Hoffm., 1790
 
 ### Remarks
 null

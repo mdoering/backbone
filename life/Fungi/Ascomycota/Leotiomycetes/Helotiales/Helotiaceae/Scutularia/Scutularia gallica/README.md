@@ -1,5 +1,4 @@
-Scutularia gallica Massee SPECIES
-=======
+# Scutularia gallica Massee SPECIES
 
 #### Status
 ACCEPTED

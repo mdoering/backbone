@@ -1,5 +1,4 @@
-Helotium querceti Sacc. SPECIES
-=======
+# Helotium querceti Sacc. SPECIES
 
 #### Status
 ACCEPTED

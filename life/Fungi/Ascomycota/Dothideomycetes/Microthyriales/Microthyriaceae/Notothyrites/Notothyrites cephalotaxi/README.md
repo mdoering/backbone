@@ -1,5 +1,4 @@
-Notothyrites cephalotaxi Krassilov SPECIES
-=======
+# Notothyrites cephalotaxi Krassilov SPECIES
 
 #### Status
 ACCEPTED

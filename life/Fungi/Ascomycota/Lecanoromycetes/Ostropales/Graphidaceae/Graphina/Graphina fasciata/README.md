@@ -1,5 +1,4 @@
-Graphina fasciata (Eschw.) Müll. Arg. SPECIES
-=======
+# Graphina fasciata (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Laboulbenia galeritae Thaxt. SPECIES
-=======
+# Laboulbenia galeritae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

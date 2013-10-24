@@ -1,14 +1,13 @@
-Capillus intestinalis Granata, 1909 SPECIES
-=======
+# Enterobryus intestinalis (Granata) L. Léger & Duboscq, 1929 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biologica, Torino 2: 3 (1909)
+Archs Anat. microsc. 25: 314 (1929)
 
 #### Original name
 Capillus intestinalis Granata, 1909

@@ -1,5 +1,4 @@
-Phyllachora mabicola Chardón, 1940 SPECIES
-=======
+# Phyllachora mabicola Chardón, 1940 SPECIES
 
 #### Status
 DOUBTFUL

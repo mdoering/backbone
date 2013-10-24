@@ -1,5 +1,4 @@
-Placodium geophilum Th. Fr. SPECIES
-=======
+# Placodium geophilum Th. Fr. SPECIES
 
 #### Status
 ACCEPTED

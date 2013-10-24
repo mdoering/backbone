@@ -1,8 +1,7 @@
-Thelotrema inturgescens Müll. Arg. SPECIES
-=======
+# Ocellularia inturgescens (Müll. Arg.) Mangold SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

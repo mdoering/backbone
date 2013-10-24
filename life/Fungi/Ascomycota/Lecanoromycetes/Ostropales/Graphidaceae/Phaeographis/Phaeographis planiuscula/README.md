@@ -1,5 +1,4 @@
-Phaeographis planiuscula (Mont. & Bosch) Müll. Arg. SPECIES
-=======
+# Phaeographis planiuscula (Mont. & Bosch) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

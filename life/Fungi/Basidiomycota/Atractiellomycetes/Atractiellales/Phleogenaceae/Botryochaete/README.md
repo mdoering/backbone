@@ -1,5 +1,4 @@
-Botryochaete Corda, 1854 GENUS
-=======
+# Botryochaete Corda, 1854 GENUS
 
 #### Status
 ACCEPTED

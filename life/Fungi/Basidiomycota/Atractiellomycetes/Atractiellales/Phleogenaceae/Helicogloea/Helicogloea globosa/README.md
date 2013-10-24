@@ -1,5 +1,4 @@
-Helicogloea globosa Chee J. Chen & Oberw., 2000 SPECIES
-=======
+# Helicogloea globosa Chee J. Chen & Oberw., 2000 SPECIES
 
 #### Status
 ACCEPTED

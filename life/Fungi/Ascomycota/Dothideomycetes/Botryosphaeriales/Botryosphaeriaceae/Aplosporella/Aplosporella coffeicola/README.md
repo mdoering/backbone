@@ -1,17 +1,16 @@
-Haplosporella coffeicola Saccas SPECIES
-=======
+# Aplosporella coffeicola Saccas SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Étude de la Flore Cryptogamique des Caféirs en Afrique Centrale, (Bulletin IFCC <b>16</b>) 182 (1981)
 
 #### Original name
-Haplosporella coffeicola Saccas
+Aplosporella coffeicola Saccas
 
 ### Remarks
 null

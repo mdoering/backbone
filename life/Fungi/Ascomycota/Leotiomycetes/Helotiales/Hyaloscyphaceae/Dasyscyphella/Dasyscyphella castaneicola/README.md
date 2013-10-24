@@ -1,14 +1,13 @@
-Dasyscyphus castaneicola Graddon, 1977 SPECIES
-=======
+# Dasyscyphella castaneicola (Graddon) Raitv., 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 69(2): 259 (1977)
+Polish Botanical Journal 47(2): 231 (2002)
 
 #### Original name
 Dasyscyphus castaneicola Graddon, 1977

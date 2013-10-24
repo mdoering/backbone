@@ -1,5 +1,4 @@
-Tulostoma helanshanense B. Liu, Z.Y. Li & Du SPECIES
-=======
+# Tulostoma helanshanense B. Liu, Z.Y. Li & Du SPECIES
 
 #### Status
 ACCEPTED

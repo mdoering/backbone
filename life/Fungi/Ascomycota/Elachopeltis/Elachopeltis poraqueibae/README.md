@@ -1,5 +1,4 @@
-Elachopeltis poraqueibae Bat. & Cavalc. SPECIES
-=======
+# Elachopeltis poraqueibae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

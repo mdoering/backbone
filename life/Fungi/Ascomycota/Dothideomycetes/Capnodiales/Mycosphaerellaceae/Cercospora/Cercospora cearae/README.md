@@ -1,5 +1,4 @@
-Cercospora cearae Petch SPECIES
-=======
+# Cercospora cearae Petch SPECIES
 
 #### Status
 ACCEPTED

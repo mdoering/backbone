@@ -1,5 +1,4 @@
-Russula flavida Frost SPECIES
-=======
+# Russula flavida Frost SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma sagittalis Jaap SPECIES
-=======
+# Phoma sagittalis Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hemicarpenteles paradoxum A.K. Sarbhoy & Elphick, 1968 SPECIES
-=======
+# Hemicarpenteles paradoxum A.K. Sarbhoy & Elphick, 1968 SPECIES
 
 #### Status
 ACCEPTED

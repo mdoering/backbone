@@ -1,5 +1,4 @@
-Montagnella missionum Speg. SPECIES
-=======
+# Montagnella missionum Speg. SPECIES
 
 #### Status
 ACCEPTED

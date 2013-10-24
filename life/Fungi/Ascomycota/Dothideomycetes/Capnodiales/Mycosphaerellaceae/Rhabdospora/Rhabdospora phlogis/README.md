@@ -1,5 +1,4 @@
-Rhabdospora phlogis Oudem. SPECIES
-=======
+# Rhabdospora phlogis Oudem. SPECIES
 
 #### Status
 ACCEPTED

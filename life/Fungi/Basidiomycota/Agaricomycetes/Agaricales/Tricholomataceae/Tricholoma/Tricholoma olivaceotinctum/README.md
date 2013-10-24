@@ -1,5 +1,4 @@
-Tricholoma olivaceotinctum Heilm.-Claus. & Mort. Chr. SPECIES
-=======
+# Tricholoma olivaceotinctum Heilm.-Claus. & Mort. Chr. SPECIES
 
 #### Status
 ACCEPTED

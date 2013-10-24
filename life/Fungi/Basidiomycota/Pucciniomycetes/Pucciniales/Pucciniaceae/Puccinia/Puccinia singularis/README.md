@@ -1,5 +1,4 @@
-Puccinia singularis Magnus SPECIES
-=======
+# Puccinia singularis Magnus SPECIES
 
 #### Status
 ACCEPTED

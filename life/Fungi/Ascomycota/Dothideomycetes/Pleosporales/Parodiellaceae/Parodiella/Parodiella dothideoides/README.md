@@ -1,5 +1,4 @@
-Parodiella dothideoides Pat. SPECIES
-=======
+# Parodiella dothideoides Pat. SPECIES
 
 #### Status
 ACCEPTED

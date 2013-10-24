@@ -1,5 +1,4 @@
-Gerronema incarnatum Clémençon SPECIES
-=======
+# Gerronema incarnatum Clémençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propyxidium sinuosum SPECIES
-=======
+# Propyxidium sinuosum SPECIES
 
 #### Status
 ACCEPTED

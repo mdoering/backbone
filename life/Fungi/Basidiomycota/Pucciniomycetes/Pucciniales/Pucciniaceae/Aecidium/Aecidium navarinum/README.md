@@ -1,5 +1,4 @@
-Aecidium navarinum Jørst. SPECIES
-=======
+# Aecidium navarinum Jørst. SPECIES
 
 #### Status
 ACCEPTED

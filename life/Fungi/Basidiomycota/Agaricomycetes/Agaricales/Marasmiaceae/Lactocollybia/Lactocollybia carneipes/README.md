@@ -1,14 +1,13 @@
-Omphalia carneipes Speg., 1919 SPECIES
-=======
+# Lactocollybia carneipes (Speg.) Singer, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Soc. Ciencias de Córdoba 23: 377 (1919)
+Agaric. mod. Tax. (Koenigstein), Edn 4 282 (1986)
 
 #### Original name
 Omphalia carneipes Speg., 1919

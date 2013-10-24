@@ -1,5 +1,4 @@
-Buelliella lecanorae Suija & Alstrup, 2004 SPECIES
-=======
+# Buelliella lecanorae Suija & Alstrup, 2004 SPECIES
 
 #### Status
 ACCEPTED

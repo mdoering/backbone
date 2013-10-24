@@ -1,5 +1,4 @@
-Inopilus GENUS
-=======
+# Inopilus GENUS
 
 #### Status
 ACCEPTED

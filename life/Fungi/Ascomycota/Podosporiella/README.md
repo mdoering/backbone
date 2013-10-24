@@ -1,5 +1,4 @@
-Podosporiella Ellis & Everh. GENUS
-=======
+# Podosporiella Ellis & Everh. GENUS
 
 #### Status
 ACCEPTED

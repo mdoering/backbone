@@ -1,5 +1,4 @@
-Myriotrema exile (Hale) Hale SPECIES
-=======
+# Myriotrema exile (Hale) Hale SPECIES
 
 #### Status
 ACCEPTED

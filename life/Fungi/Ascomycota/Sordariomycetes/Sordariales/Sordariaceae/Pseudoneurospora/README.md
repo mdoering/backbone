@@ -1,5 +1,4 @@
-Pseudoneurospora Dania García, Stchigel & Guarro GENUS
-=======
+# Pseudoneurospora Dania García, Stchigel & Guarro GENUS
 
 #### Status
 ACCEPTED

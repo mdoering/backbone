@@ -1,5 +1,4 @@
-Cryptonectriopsis GENUS
-=======
+# Cryptonectriopsis GENUS
 
 #### Status
 ACCEPTED

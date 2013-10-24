@@ -1,17 +1,16 @@
-Septoria viridi-tingens M.A. Curtis ex Peck SPECIES
-=======
+# Septoria viriditingens M.A. Curtis ex Peck SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Rep. Reg. St. N. Y. 23: 55 (1872)
 
 #### Original name
-Candida chalmersii var. chalmersii (Castell.) Basgal
+Septoria viriditingens M.A. Curtis ex Peck
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cladochytrium aneurae Thirum. SPECIES
-=======
+# Cladochytrium aneurae Thirum. SPECIES
 
 #### Status
 ACCEPTED

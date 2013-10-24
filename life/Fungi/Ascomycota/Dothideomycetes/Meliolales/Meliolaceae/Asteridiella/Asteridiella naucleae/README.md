@@ -1,5 +1,4 @@
-Asteridiella naucleae (Boedijn) Hansf. SPECIES
-=======
+# Asteridiella naucleae (Boedijn) Hansf. SPECIES
 
 #### Status
 ACCEPTED

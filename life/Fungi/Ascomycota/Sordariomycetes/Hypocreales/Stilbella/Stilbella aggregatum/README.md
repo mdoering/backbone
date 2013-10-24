@@ -1,5 +1,4 @@
-Stilbella aggregatum Syd. SPECIES
-=======
+# Stilbella aggregatum Syd. SPECIES
 
 #### Status
 ACCEPTED

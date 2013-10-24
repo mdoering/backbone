@@ -1,5 +1,4 @@
-Spirochaeta gadi SPECIES
-=======
+# Spirochaeta gadi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lindrothia podolepidis (McAlpine) Syd. SPECIES
-=======
+# Lindrothia podolepidis (McAlpine) Syd. SPECIES
 
 #### Status
 ACCEPTED

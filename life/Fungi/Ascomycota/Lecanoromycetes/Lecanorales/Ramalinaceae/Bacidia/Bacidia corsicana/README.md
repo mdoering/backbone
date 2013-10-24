@@ -1,5 +1,4 @@
-Bacidia corsicana Dechatres & Werner SPECIES
-=======
+# Bacidia corsicana Dechatres & Werner SPECIES
 
 #### Status
 ACCEPTED

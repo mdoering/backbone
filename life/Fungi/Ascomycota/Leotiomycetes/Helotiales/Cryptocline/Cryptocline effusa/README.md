@@ -1,5 +1,4 @@
-Cryptocline effusa Petr. SPECIES
-=======
+# Cryptocline effusa Petr. SPECIES
 
 #### Status
 ACCEPTED

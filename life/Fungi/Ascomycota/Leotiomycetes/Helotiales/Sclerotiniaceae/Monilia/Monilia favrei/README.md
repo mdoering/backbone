@@ -1,5 +1,4 @@
-Monilia favrei (M. Ota) Brumpt SPECIES
-=======
+# Monilia favrei (M. Ota) Brumpt SPECIES
 
 #### Status
 ACCEPTED

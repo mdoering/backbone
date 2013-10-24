@@ -1,5 +1,4 @@
-Glossomastix C.J.O'Kelly, 2002 GENUS
-=======
+# Glossomastix C.J.O'Kelly, 2002 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercidospora soleispora D. Hawksw. SPECIES
-=======
+# Cercidospora soleispora D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

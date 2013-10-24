@@ -1,5 +1,4 @@
-Hericium barbatum Pers. SPECIES
-=======
+# Hericium barbatum Pers. SPECIES
 
 #### Status
 ACCEPTED

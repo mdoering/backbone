@@ -1,5 +1,4 @@
-Sphacella Reinke, 1890 GENUS
-=======
+# Sphacella Reinke, 1890 GENUS
 
 #### Status
 ACCEPTED

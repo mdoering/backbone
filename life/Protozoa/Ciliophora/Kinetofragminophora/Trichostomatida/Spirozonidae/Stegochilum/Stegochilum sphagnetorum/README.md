@@ -1,5 +1,4 @@
-Stegochilum sphagnetorum SPECIES
-=======
+# Stegochilum sphagnetorum SPECIES
 
 #### Status
 ACCEPTED

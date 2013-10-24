@@ -1,5 +1,4 @@
-Acrosporium carneum (Cooke) Subram. SPECIES
-=======
+# Acrosporium carneum (Cooke) Subram. SPECIES
 
 #### Status
 ACCEPTED

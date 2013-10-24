@@ -1,8 +1,7 @@
-Lituola foliaceum Brady, 1881 SPECIES
-=======
+# Eratidus foliaceus (Brady, 1881) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

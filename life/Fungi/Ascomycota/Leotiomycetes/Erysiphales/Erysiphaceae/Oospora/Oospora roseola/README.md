@@ -1,5 +1,4 @@
-Oospora roseola Sacc. SPECIES
-=======
+# Oospora roseola Sacc. SPECIES
 
 #### Status
 ACCEPTED

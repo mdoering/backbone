@@ -1,5 +1,4 @@
-Parapeltella scheffleri (Henn.) Bat. SPECIES
-=======
+# Parapeltella scheffleri (Henn.) Bat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Parmelia bicolor Britzelm. SPECIES
-=======
+# Parmelia bicolor Britzelm. SPECIES
 
 #### Status
 ACCEPTED

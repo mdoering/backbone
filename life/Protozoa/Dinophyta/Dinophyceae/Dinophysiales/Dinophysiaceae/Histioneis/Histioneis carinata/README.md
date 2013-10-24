@@ -1,5 +1,4 @@
-Histioneis carinata Kofoid, 1907 SPECIES
-=======
+# Histioneis carinata Kofoid, 1907 SPECIES
 
 #### Status
 ACCEPTED

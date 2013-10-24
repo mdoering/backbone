@@ -1,5 +1,4 @@
-Thyrea lingulata (Tuck.) Zahlbr. SPECIES
-=======
+# Thyrea lingulata (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

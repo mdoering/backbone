@@ -1,5 +1,4 @@
-Parmelia zeyheri C.W. Dodge SPECIES
-=======
+# Parmelia zeyheri C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

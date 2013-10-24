@@ -1,5 +1,4 @@
-Leptogium propaguliferum Vain. SPECIES
-=======
+# Leptogium propaguliferum Vain. SPECIES
 
 #### Status
 ACCEPTED

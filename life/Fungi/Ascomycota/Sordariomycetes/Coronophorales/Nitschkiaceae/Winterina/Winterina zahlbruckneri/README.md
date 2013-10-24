@@ -1,5 +1,4 @@
-Winterina zahlbruckneri (Bäumler) Sacc. SPECIES
-=======
+# Winterina zahlbruckneri (Bäumler) Sacc. SPECIES
 
 #### Status
 ACCEPTED

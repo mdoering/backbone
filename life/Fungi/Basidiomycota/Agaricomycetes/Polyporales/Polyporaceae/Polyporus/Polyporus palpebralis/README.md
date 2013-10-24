@@ -1,5 +1,4 @@
-Polyporus palpebralis Lloyd SPECIES
-=======
+# Polyporus palpebralis Lloyd SPECIES
 
 #### Status
 ACCEPTED

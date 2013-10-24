@@ -1,5 +1,4 @@
-Oidium inaequale Rivolta SPECIES
-=======
+# Oidium inaequale Rivolta SPECIES
 
 #### Status
 ACCEPTED

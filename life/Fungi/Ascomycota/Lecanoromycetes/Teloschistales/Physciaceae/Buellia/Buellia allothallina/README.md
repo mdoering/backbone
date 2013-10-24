@@ -1,5 +1,4 @@
-Buellia allothallina SPECIES
-=======
+# Buellia allothallina SPECIES
 
 #### Status
 ACCEPTED

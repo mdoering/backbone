@@ -1,5 +1,4 @@
-Solisphaeridium astrum Wicander, 1974 SPECIES
-=======
+# Solisphaeridium astrum Wicander, 1974 SPECIES
 
 #### Status
 ACCEPTED

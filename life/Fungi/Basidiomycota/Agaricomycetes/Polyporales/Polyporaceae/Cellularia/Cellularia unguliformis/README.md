@@ -1,5 +1,4 @@
-Cellularia unguliformis (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Cellularia unguliformis (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

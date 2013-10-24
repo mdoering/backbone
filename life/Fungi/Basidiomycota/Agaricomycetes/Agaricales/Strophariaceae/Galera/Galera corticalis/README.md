@@ -1,5 +1,4 @@
-Galera corticalis Velen. SPECIES
-=======
+# Galera corticalis Velen. SPECIES
 
 #### Status
 ACCEPTED

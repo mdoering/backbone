@@ -1,5 +1,4 @@
-Lecanora herteliana Calat. & Barreno SPECIES
-=======
+# Lecanora herteliana Calat. & Barreno SPECIES
 
 #### Status
 ACCEPTED

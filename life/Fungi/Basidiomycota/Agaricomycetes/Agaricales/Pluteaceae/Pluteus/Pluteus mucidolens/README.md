@@ -1,5 +1,4 @@
-Pluteus mucidolens Berk. SPECIES
-=======
+# Pluteus mucidolens Berk. SPECIES
 
 #### Status
 ACCEPTED

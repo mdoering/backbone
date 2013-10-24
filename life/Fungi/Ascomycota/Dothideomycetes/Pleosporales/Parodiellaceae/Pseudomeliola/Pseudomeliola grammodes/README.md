@@ -1,17 +1,16 @@
-Parodiella simillima (Berk. & Ravenel) Cooke, 1885 SPECIES
-=======
+# Pseudomeliola grammodes (Kunze) Arx, 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta bot. neerl. 7: 514 (1958)
 
 #### Original name
-null
+Sphaeria grammodes Kunze, 1828
 
 ### Remarks
 null

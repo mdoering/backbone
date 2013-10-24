@@ -1,5 +1,4 @@
-Urocystis hieronymi J. Schröt. SPECIES
-=======
+# Urocystis hieronymi J. Schröt. SPECIES
 
 #### Status
 ACCEPTED

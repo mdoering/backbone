@@ -1,5 +1,4 @@
-Sphaerella serpylli Pass. SPECIES
-=======
+# Sphaerella serpylli Pass. SPECIES
 
 #### Status
 ACCEPTED

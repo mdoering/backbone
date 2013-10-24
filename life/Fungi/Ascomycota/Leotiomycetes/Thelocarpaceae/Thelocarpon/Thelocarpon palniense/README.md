@@ -1,17 +1,16 @@
-Thelocarpon palniensis D.D. Awasthi & Kr.P. Singh SPECIES
-=======
+# Thelocarpon palniense D.D. Awasthi & Kr.P. Singh SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Geophytology 5(1): 39 (1975)
 
 #### Original name
-Thelocarpon palniensis D.D. Awasthi & Kr.P. Singh
+Thelocarpon palniense D.D. Awasthi & Kr.P. Singh
 
 ### Remarks
 null

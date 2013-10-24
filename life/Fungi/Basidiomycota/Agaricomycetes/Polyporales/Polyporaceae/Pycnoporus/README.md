@@ -1,17 +1,16 @@
-Xylometron Paulet GENUS
-=======
+# Pycnoporus P. Karsten, 1881 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prosp. Traité Champ. 29 (1808)
+Revue mycol. , Toulouse 3(9): 18 (1881)
 
 #### Original name
-Xylometron Paulet
+Pycnoporus P. Karsten, 1881
 
 ### Remarks
 null

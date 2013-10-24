@@ -1,5 +1,4 @@
-Bizone Lepsi, 1926 GENUS
-=======
+# Bizone Lepsi, 1926 GENUS
 
 #### Status
 ACCEPTED

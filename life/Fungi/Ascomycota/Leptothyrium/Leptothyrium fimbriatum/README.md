@@ -1,5 +1,4 @@
-Leptothyrium fimbriatum Tehon SPECIES
-=======
+# Leptothyrium fimbriatum Tehon SPECIES
 
 #### Status
 ACCEPTED

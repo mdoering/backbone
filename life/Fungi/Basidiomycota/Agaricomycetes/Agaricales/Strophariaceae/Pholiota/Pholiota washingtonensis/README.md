@@ -1,5 +1,4 @@
-Pholiota washingtonensis Murrill SPECIES
-=======
+# Pholiota washingtonensis Murrill SPECIES
 
 #### Status
 ACCEPTED

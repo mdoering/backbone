@@ -1,5 +1,4 @@
-Comasphaeridium longispinosum Hagenfeldt, 1989 SPECIES
-=======
+# Comasphaeridium longispinosum Hagenfeldt, 1989 SPECIES
 
 #### Status
 ACCEPTED

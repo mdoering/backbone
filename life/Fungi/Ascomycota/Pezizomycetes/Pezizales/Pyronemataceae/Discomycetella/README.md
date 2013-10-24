@@ -1,5 +1,4 @@
-Discomycetella GENUS
-=======
+# Discomycetella GENUS
 
 #### Status
 ACCEPTED

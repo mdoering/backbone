@@ -1,5 +1,4 @@
-Pluteus fluminensis Singer SPECIES
-=======
+# Pluteus fluminensis Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trametes primulina Corner SPECIES
-=======
+# Trametes primulina Corner SPECIES
 
 #### Status
 ACCEPTED

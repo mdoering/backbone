@@ -1,5 +1,4 @@
-Phyllosticta ligulariicola Melnik SPECIES
-=======
+# Phyllosticta ligulariicola Melnik SPECIES
 
 #### Status
 ACCEPTED

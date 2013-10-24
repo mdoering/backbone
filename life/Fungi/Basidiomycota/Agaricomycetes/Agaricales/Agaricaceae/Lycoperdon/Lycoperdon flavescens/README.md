@@ -1,5 +1,4 @@
-Lycoperdon flavescens (Rostk.) Bonord. SPECIES
-=======
+# Lycoperdon flavescens (Rostk.) Bonord. SPECIES
 
 #### Status
 ACCEPTED

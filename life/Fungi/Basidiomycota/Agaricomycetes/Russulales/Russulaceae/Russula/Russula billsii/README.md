@@ -1,5 +1,4 @@
-Russula billsii S.L. Mill. SPECIES
-=======
+# Russula billsii S.L. Mill. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius vanduzerensis A.H. Sm. & Trappe SPECIES
-=======
+# Cortinarius vanduzerensis A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

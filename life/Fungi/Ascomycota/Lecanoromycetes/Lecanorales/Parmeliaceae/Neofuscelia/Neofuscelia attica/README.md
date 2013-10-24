@@ -1,5 +1,4 @@
-Neofuscelia attica (Leuckert, Poelt & B. Schwarz) Essl. SPECIES
-=======
+# Neofuscelia attica (Leuckert, Poelt & B. Schwarz) Essl. SPECIES
 
 #### Status
 ACCEPTED

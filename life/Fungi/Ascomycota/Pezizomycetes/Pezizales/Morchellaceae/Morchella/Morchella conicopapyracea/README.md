@@ -1,5 +1,4 @@
-Morchella conicopapyracea Jacquet. SPECIES
-=======
+# Morchella conicopapyracea Jacquet. SPECIES
 
 #### Status
 ACCEPTED

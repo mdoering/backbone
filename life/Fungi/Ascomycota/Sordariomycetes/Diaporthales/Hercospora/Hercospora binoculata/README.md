@@ -1,5 +1,4 @@
-Hercospora binoculata (Ellis) Höhn. SPECIES
-=======
+# Hercospora binoculata (Ellis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

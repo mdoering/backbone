@@ -1,5 +1,4 @@
-Candida benhamii E.K. Novák & Vitéz SPECIES
-=======
+# Candida benhamii E.K. Novák & Vitéz SPECIES
 
 #### Status
 ACCEPTED

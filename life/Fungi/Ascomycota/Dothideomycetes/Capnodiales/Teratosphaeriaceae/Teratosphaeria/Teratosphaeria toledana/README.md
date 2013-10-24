@@ -1,5 +1,4 @@
-Teratosphaeria toledana (Crous & Bills) Crous & U. Braun, 2007 SPECIES
-=======
+# Teratosphaeria toledana (Crous & Bills) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria longissima Sacc. SPECIES
-=======
+# Septoria longissima Sacc. SPECIES
 
 #### Status
 ACCEPTED

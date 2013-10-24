@@ -1,5 +1,4 @@
-Leptostroma lupini Wehm. SPECIES
-=======
+# Leptostroma lupini Wehm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodococcus equi (Magnusson, 1923) Goodfellow and Alderson, 1977 (Approved Lists, 1980) SPECIES
-=======
+# Rhodococcus equi (Magnusson, 1923) Goodfellow and Alderson, 1977 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

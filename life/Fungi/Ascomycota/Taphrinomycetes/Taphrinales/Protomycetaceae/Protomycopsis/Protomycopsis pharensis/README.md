@@ -1,5 +1,4 @@
-Protomycopsis pharensis Jaap SPECIES
-=======
+# Protomycopsis pharensis Jaap SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pararotalia minuta (Takayanagi) SPECIES
-=======
+# Pararotalia minuta (Takayanagi) SPECIES
 
 #### Status
 ACCEPTED

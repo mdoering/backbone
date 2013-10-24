@@ -1,5 +1,4 @@
-Ciboria latipes Holst-Jensen & T. Schumach. SPECIES
-=======
+# Ciboria latipes Holst-Jensen & T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

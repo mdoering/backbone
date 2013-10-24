@@ -1,5 +1,4 @@
-Tricholoma aurantio-olivaceum A.H. Sm. SPECIES
-=======
+# Tricholoma aurantio-olivaceum A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

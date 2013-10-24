@@ -1,5 +1,4 @@
-Trichotheca GENUS
-=======
+# Trichotheca GENUS
 
 #### Status
 ACCEPTED

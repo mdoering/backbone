@@ -1,5 +1,4 @@
-Antlea closterii P.A. Dang. SPECIES
-=======
+# Antlea closterii P.A. Dang. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia trautvetteriae P. Syd., Syd. & Holw. SPECIES
-=======
+# Puccinia trautvetteriae P. Syd., Syd. & Holw. SPECIES
 
 #### Status
 ACCEPTED

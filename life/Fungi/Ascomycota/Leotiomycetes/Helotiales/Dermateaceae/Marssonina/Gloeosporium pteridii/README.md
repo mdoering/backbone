@@ -1,5 +1,4 @@
-Gloeosporium pteridii Karak. SPECIES
-=======
+# Gloeosporium pteridii Karak. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus kermesinus anon. SPECIES
-=======
+# Agaricus kermesinus anon. SPECIES
 
 #### Status
 ACCEPTED

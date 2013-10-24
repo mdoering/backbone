@@ -1,5 +1,4 @@
-Debaryomyces dekkeri Mrak, Phaff, Vaughn & H.N. Hansen ex Kudryavtsev SPECIES
-=======
+# Debaryomyces dekkeri Mrak, Phaff, Vaughn & H.N. Hansen ex Kudryavtsev SPECIES
 
 #### Status
 ACCEPTED

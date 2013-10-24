@@ -1,5 +1,4 @@
-Lecidea gresinonis (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecidea gresinonis (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lasiosphaeria insignis Lar.N. Vassiljeva SPECIES
-=======
+# Lasiosphaeria insignis Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

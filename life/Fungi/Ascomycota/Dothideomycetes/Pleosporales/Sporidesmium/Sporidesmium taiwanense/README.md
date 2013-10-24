@@ -1,5 +1,4 @@
-Sporidesmium taiwanense Matsush. SPECIES
-=======
+# Sporidesmium taiwanense Matsush. SPECIES
 
 #### Status
 ACCEPTED

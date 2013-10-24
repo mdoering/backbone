@@ -1,5 +1,4 @@
-Graphis cervinonigra Zahlbr. SPECIES
-=======
+# Graphis cervinonigra Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

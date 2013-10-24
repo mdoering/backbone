@@ -1,5 +1,4 @@
-Hyperus costaricensis F. Stevens SPECIES
-=======
+# Hyperus costaricensis F. Stevens SPECIES
 
 #### Status
 ACCEPTED

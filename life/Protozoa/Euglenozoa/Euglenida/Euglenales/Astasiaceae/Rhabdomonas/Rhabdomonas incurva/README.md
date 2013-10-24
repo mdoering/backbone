@@ -1,5 +1,4 @@
-Rhabdomonas incurva var. major VARIETY
-=======
+# Rhabdomonas incurva Fresenius SPECIES
 
 #### Status
 ACCEPTED

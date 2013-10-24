@@ -1,5 +1,4 @@
-Coenogonium congense C. W. Dodge SPECIES
-=======
+# Coenogonium congense C. W. Dodge SPECIES
 
 #### Status
 ACCEPTED

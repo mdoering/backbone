@@ -1,5 +1,4 @@
-Termitaria Thaxt. GENUS
-=======
+# Termitaria Thaxt. GENUS
 
 #### Status
 ACCEPTED

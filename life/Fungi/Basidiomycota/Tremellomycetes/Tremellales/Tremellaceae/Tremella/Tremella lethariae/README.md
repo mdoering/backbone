@@ -1,5 +1,4 @@
-Tremella lethariae Diederich, 2003 SPECIES
-=======
+# Tremella lethariae Diederich, 2003 SPECIES
 
 #### Status
 ACCEPTED

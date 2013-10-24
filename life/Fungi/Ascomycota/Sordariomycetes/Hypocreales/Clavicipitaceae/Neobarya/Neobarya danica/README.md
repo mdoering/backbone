@@ -1,5 +1,4 @@
-Neobarya danica J.G.B. Nielsen & Laessoe SPECIES
-=======
+# Neobarya danica J.G.B. Nielsen & Laessoe SPECIES
 
 #### Status
 ACCEPTED

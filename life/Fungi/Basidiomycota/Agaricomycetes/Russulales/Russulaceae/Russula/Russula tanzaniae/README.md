@@ -1,5 +1,4 @@
-Russula tanzaniae Buyck SPECIES
-=======
+# Russula tanzaniae Buyck SPECIES
 
 #### Status
 ACCEPTED

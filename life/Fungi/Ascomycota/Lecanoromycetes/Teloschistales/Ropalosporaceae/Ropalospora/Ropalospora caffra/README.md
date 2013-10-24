@@ -1,17 +1,16 @@
-Ropalospora cafra A. Massal. SPECIES
-=======
+# Ropalospora caffra A. Massal. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Atti Inst. Veneto Sci. lett. , ed Arti, Sér. 3 5: 263 (1861)
 
 #### Original name
-Ropalospora cafra A. Massal.
+Ropalospora caffra A. Massal.
 
 ### Remarks
 null

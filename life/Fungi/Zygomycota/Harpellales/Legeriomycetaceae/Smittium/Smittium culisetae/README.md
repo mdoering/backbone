@@ -1,5 +1,4 @@
-Smittium culisetae Lichtw., 1964 SPECIES
-=======
+# Smittium culisetae Lichtw., 1964 SPECIES
 
 #### Status
 ACCEPTED

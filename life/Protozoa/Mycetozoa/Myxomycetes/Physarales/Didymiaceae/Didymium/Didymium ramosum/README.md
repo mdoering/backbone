@@ -1,5 +1,4 @@
-Didymium ramosum Duby SPECIES
-=======
+# Didymium ramosum Duby SPECIES
 
 #### Status
 ACCEPTED

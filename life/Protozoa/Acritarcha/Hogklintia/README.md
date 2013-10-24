@@ -1,5 +1,4 @@
-Hogklintia K.J. Dorning, 1981 GENUS
-=======
+# Hogklintia K.J. Dorning, 1981 GENUS
 
 #### Status
 ACCEPTED

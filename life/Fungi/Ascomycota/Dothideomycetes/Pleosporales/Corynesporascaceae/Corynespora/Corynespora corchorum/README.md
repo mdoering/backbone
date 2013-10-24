@@ -1,5 +1,4 @@
-Corynespora corchorum (Watan. {?} & Hara) Goto SPECIES
-=======
+# Corynespora corchorum (Watan. {?} & Hara) Goto SPECIES
 
 #### Status
 ACCEPTED

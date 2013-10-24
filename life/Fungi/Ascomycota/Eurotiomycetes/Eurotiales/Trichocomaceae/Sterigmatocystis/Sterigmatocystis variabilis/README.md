@@ -1,5 +1,4 @@
-Sterigmatocystis variabilis (Gasperini) Sacc. SPECIES
-=======
+# Sterigmatocystis variabilis (Gasperini) Sacc. SPECIES
 
 #### Status
 ACCEPTED

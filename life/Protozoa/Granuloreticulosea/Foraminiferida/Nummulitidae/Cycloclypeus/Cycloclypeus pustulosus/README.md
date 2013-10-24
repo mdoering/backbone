@@ -1,5 +1,4 @@
-Cycloclypeus pustulosus Chapman SPECIES
-=======
+# Cycloclypeus pustulosus Chapman SPECIES
 
 #### Status
 ACCEPTED

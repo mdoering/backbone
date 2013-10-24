@@ -1,5 +1,4 @@
-Marasmius araucariae var. araucariae VARIETY
-=======
+# Marasmius araucariae Singer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Marasmius araucariae var. araucariae
+Marasmius araucariae Singer
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Astrotheca nigrocornis I. Hino SPECIES
-=======
+# Astrotheca nigrocornis I. Hino SPECIES
 
 #### Status
 ACCEPTED

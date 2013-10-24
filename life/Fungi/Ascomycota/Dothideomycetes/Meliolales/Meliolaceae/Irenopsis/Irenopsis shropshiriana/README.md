@@ -1,5 +1,4 @@
-Irenopsis shropshiriana (F. Stevens) Hansf. SPECIES
-=======
+# Irenopsis shropshiriana (F. Stevens) Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phyllachora ambiens (Lib.) J. Schröt., 1897 SPECIES
-=======
+# Omphalospora stellariae (Lib.) Theiss. & Syd., 1915 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 2(4): 472 (1897)
+Annls mycol. 13(3/4): 361 (1915)
 
 #### Original name
-Dothidea ambiens Lib., 1837
+Dothidea stellariae Lib., 1832
 
 ### Remarks
 null

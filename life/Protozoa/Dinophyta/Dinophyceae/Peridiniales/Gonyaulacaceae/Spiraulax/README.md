@@ -1,14 +1,13 @@
-Spiraulaxina A.R. Loeblich Iii, 1970 GENUS
-=======
+# Spiraulax Kof. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Univ. Calif. Publ. Zool. , 8, 295.
 
 #### Original name
 null

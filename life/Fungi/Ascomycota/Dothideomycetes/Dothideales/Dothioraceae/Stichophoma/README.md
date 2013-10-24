@@ -1,5 +1,4 @@
-Stichophoma GENUS
-=======
+# Stichophoma GENUS
 
 #### Status
 ACCEPTED

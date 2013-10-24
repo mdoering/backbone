@@ -1,5 +1,4 @@
-Mycosphaerella bauhiniae Starbäck SPECIES
-=======
+# Mycosphaerella bauhiniae Starbäck SPECIES
 
 #### Status
 ACCEPTED

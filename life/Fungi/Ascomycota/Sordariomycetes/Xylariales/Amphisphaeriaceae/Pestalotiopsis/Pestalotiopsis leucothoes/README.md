@@ -1,14 +1,13 @@
-Pestalotia leucothoes R.P. White, 1935 SPECIES
-=======
+# Pestalotiopsis leucothoes (R.P. White) Steyaert, 1949 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 27: 343 (1935)
+Bull. Jard. bot. État Brux. 19: 319 (1949)
 
 #### Original name
 Pestalotia leucothoes R.P. White, 1935

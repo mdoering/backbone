@@ -1,5 +1,4 @@
-Boletus satanicolor Pilát SPECIES
-=======
+# Boletus satanicolor Pilát SPECIES
 
 #### Status
 ACCEPTED

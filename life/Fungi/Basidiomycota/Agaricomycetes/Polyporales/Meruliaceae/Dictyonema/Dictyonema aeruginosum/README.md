@@ -1,5 +1,4 @@
-Dictyonema aeruginosum (Blume & T. Nees) Berk. SPECIES
-=======
+# Dictyonema aeruginosum (Blume & T. Nees) Berk. SPECIES
 
 #### Status
 ACCEPTED

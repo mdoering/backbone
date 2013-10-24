@@ -1,5 +1,4 @@
-Polyblastia peminosa (Nyl.) Zahlbr. SPECIES
-=======
+# Polyblastia peminosa (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

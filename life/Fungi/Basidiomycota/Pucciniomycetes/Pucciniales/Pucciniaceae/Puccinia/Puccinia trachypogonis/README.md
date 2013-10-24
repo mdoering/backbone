@@ -1,5 +1,4 @@
-Puccinia trachypogonis Speg. SPECIES
-=======
+# Puccinia trachypogonis Speg. SPECIES
 
 #### Status
 ACCEPTED

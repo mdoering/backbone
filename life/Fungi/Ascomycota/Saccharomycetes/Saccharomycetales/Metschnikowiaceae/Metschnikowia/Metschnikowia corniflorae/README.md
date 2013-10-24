@@ -1,5 +1,4 @@
-Metschnikowia corniflorae N.H. Nguyen, S.O. Suh, Erbil & M. Blackw., 2006 SPECIES
-=======
+# Metschnikowia corniflorae N.H. Nguyen, S.O. Suh, Erbil & M. Blackw., 2006 SPECIES
 
 #### Status
 ACCEPTED

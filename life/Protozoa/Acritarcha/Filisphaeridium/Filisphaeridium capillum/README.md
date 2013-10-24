@@ -1,5 +1,4 @@
-Filisphaeridium capillum (Sheshegova, 1984) Sarjeant & Stancliffe, 1994 SPECIES
-=======
+# Filisphaeridium capillum (Sheshegova, 1984) Sarjeant & Stancliffe, 1994 SPECIES
 
 #### Status
 ACCEPTED

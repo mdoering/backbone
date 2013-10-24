@@ -1,5 +1,4 @@
-Aecidium origani Jørst. SPECIES
-=======
+# Aecidium origani Jørst. SPECIES
 
 #### Status
 ACCEPTED

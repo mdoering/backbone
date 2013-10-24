@@ -1,5 +1,4 @@
-Tulostoma berkeleyi Lloyd SPECIES
-=======
+# Tulostoma berkeleyi Lloyd SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammodiscus catinus SPECIES
-=======
+# Ammodiscus catinus SPECIES
 
 #### Status
 ACCEPTED

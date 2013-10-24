@@ -1,5 +1,4 @@
-Fusarium matuoi Hosoya & Tubaki SPECIES
-=======
+# Fusarium matuoi Hosoya & Tubaki SPECIES
 
 #### Status
 ACCEPTED

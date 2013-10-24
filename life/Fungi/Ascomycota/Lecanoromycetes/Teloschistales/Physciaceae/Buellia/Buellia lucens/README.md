@@ -1,5 +1,4 @@
-Buellia lucens Vain. SPECIES
-=======
+# Buellia lucens Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Closteromorpha Wang, F., Zhou, G. & Chen, Q., 1980 GENUS
-=======
+# Closteromorpha Wang, F., Zhou, G. & Chen, Q., 1980 GENUS
 
 #### Status
 ACCEPTED

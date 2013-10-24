@@ -1,5 +1,4 @@
-Circinotrichum obscurum (Corda) S. Hughes SPECIES
-=======
+# Circinotrichum obscurum (Corda) S. Hughes SPECIES
 
 #### Status
 ACCEPTED

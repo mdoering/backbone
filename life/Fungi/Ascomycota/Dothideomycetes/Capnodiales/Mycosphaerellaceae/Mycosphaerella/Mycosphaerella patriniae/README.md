@@ -1,5 +1,4 @@
-Mycosphaerella patriniae Petr. SPECIES
-=======
+# Mycosphaerella patriniae Petr. SPECIES
 
 #### Status
 ACCEPTED

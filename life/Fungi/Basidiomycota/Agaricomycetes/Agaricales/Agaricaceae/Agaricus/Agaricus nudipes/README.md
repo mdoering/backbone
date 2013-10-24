@@ -1,5 +1,4 @@
-Agaricus nudipes Fr. SPECIES
-=======
+# Agaricus nudipes Fr. SPECIES
 
 #### Status
 ACCEPTED

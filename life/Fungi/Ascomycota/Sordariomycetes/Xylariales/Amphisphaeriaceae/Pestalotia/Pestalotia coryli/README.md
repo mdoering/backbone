@@ -1,5 +1,4 @@
-Pestalotia coryli Rostr. SPECIES
-=======
+# Pestalotia coryli Rostr. SPECIES
 
 #### Status
 ACCEPTED

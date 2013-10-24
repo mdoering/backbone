@@ -1,5 +1,4 @@
-Arthonia pandanicola Nyl. SPECIES
-=======
+# Arthonia pandanicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polythecium viridulum Bonord. SPECIES
-=======
+# Polythecium viridulum Bonord. SPECIES
 
 #### Status
 ACCEPTED

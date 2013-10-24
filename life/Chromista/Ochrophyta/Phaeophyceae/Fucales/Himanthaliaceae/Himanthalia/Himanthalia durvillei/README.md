@@ -1,5 +1,4 @@
-Himanthalia durvillei Bory de Saint-Vincent, 1828 SPECIES
-=======
+# Himanthalia durvillei Bory de Saint-Vincent, 1828 SPECIES
 
 #### Status
 DOUBTFUL

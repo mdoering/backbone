@@ -1,5 +1,4 @@
-Uredo ignota Speg. SPECIES
-=======
+# Uredo ignota Speg. SPECIES
 
 #### Status
 ACCEPTED

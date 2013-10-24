@@ -1,5 +1,4 @@
-Coccomyces walkeri P.R. Johnst., 2000 SPECIES
-=======
+# Coccomyces walkeri P.R. Johnst., 2000 SPECIES
 
 #### Status
 ACCEPTED

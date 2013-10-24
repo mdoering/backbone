@@ -1,5 +1,4 @@
-Arthonia diploiciae Calat. & Diederich SPECIES
-=======
+# Arthonia diploiciae Calat. & Diederich SPECIES
 
 #### Status
 ACCEPTED

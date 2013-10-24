@@ -1,5 +1,4 @@
-Humaria subzandbayensis Henn. & E. Nyman SPECIES
-=======
+# Humaria subzandbayensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

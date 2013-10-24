@@ -1,5 +1,4 @@
-Pharyngella Haeckel, 1887 GENUS
-=======
+# Pharyngella Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

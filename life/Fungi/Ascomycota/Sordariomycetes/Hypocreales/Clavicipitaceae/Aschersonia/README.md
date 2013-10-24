@@ -1,17 +1,16 @@
-Underwoodina Kuntze GENUS
-=======
+# Aschersonia Montagne, 1848 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(3): 538 (1891)
+Annls Sci. Nat. , Bot. , sér. 3 10: 121 (1848)
 
 #### Original name
-Underwoodina Kuntze
+Aschersonia Montagne, 1848
 
 ### Remarks
 null

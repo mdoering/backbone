@@ -1,5 +1,4 @@
-Amphorides minor Jörgensen, 1924 SPECIES
-=======
+# Amphorides minor Jörgensen, 1924 SPECIES
 
 #### Status
 ACCEPTED

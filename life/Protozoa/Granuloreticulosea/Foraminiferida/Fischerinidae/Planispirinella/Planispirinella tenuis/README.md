@@ -1,5 +1,4 @@
-Planispirinella tenuis Collins, 1953 SPECIES
-=======
+# Planispirinella tenuis Collins, 1953 SPECIES
 
 #### Status
 ACCEPTED

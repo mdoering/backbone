@@ -1,14 +1,13 @@
-Hydnochaete setosa (Sw.) Lloyd, 1916 SPECIES
-=======
+# Dichochaete setosa (Sw.) Parmasto, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Writ. 4: 559 (1916)
+Folia cryptog. Estonica 37: 57 (2001)
 
 #### Original name
 Thelephora setosa Sw., 1806

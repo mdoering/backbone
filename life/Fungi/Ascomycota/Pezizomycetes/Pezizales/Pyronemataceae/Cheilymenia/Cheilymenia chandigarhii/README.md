@@ -1,5 +1,4 @@
-Cheilymenia chandigarhii K.S. Thind & Waraitch SPECIES
-=======
+# Cheilymenia chandigarhii K.S. Thind & Waraitch SPECIES
 
 #### Status
 ACCEPTED

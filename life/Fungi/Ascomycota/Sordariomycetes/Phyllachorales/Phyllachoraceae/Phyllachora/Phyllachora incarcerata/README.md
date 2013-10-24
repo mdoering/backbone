@@ -1,14 +1,13 @@
-Dothidea incarcerata Berk., 1854 SPECIES
-=======
+# Phyllachora incarcerata (Berk.) Sacc., 1883 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hooker's J. Bot. Kew Gard. Misc. 6: 232 (1854)
+Syll. fung. (Abellini) 2: 596 (1883)
 
 #### Original name
 Dothidea incarcerata Berk., 1854

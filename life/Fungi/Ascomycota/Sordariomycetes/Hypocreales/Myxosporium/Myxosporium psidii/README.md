@@ -1,5 +1,4 @@
-Myxosporium psidii Sawada & Kuros. SPECIES
-=======
+# Myxosporium psidii Sawada & Kuros. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus valesiacus Ces. SPECIES
-=======
+# Agaricus valesiacus Ces. SPECIES
 
 #### Status
 ACCEPTED

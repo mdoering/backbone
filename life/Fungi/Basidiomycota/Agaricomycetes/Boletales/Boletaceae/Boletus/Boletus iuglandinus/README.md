@@ -1,5 +1,4 @@
-Boletus iuglandinus Schwein. SPECIES
-=======
+# Boletus iuglandinus Schwein. SPECIES
 
 #### Status
 ACCEPTED

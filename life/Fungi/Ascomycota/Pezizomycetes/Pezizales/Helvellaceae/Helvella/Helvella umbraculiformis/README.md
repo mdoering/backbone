@@ -1,17 +1,16 @@
-Elvela umbraculiformis Seaver SPECIES
-=======
+# Helvella umbraculiformis Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+North American Cup-fungi (New York), (Operculates) 251 (1928)
 
 #### Original name
-Elvela umbraculiformis Seaver
+Helvella umbraculiformis Seaver
 
 ### Remarks
 null

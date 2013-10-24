@@ -1,5 +1,4 @@
-Spicaria Harting, 1846 GENUS
-=======
+# Spicaria Harting, 1846 GENUS
 
 #### Status
 ACCEPTED

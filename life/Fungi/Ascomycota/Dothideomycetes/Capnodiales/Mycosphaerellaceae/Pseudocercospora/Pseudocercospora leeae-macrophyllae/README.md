@@ -1,5 +1,4 @@
-Pseudocercospora leeae-macrophyllae (A.K. Kar & M. Mandal) Sarbajna SPECIES
-=======
+# Pseudocercospora leeae-macrophyllae (A.K. Kar & M. Mandal) Sarbajna SPECIES
 
 #### Status
 ACCEPTED

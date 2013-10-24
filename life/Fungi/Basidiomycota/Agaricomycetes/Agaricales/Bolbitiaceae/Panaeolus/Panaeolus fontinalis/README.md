@@ -1,5 +1,4 @@
-Panaeolus fontinalis A.H. Sm. SPECIES
-=======
+# Panaeolus fontinalis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

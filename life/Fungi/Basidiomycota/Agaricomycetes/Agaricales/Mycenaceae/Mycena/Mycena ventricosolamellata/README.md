@@ -1,5 +1,4 @@
-Mycena ventricosolamellata (Britzelm.) Sacc. & P. Syd. SPECIES
-=======
+# Mycena ventricosolamellata (Britzelm.) Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

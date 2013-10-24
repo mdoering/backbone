@@ -1,5 +1,4 @@
-Textularia echinata d’Orbigny, 1826 SPECIES
-=======
+# Textularia echinata d’Orbigny, 1826 SPECIES
 
 #### Status
 ACCEPTED

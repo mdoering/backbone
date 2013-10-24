@@ -1,17 +1,16 @@
-Clypeopycnis punithalinghami N.D. Sharma SPECIES
-=======
+# Clypeopycnis punithalingamii N.D. Sharma, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Acta Bot. Indica 10(2): 315 (1982)
 
 #### Original name
-Clypeopycnis punithalinghami N.D. Sharma
+Clypeopycnis punithalingamii N.D. Sharma, 1982
 
 ### Remarks
 null

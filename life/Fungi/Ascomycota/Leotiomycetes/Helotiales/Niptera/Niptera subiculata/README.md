@@ -1,5 +1,4 @@
-Niptera subiculata Seaver SPECIES
-=======
+# Niptera subiculata Seaver SPECIES
 
 #### Status
 ACCEPTED

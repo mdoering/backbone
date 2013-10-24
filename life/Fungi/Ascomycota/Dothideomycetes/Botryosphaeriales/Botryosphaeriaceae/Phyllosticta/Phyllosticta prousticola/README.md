@@ -1,5 +1,4 @@
-Phyllosticta prousticola Speg. SPECIES
-=======
+# Phyllosticta prousticola Speg. SPECIES
 
 #### Status
 ACCEPTED

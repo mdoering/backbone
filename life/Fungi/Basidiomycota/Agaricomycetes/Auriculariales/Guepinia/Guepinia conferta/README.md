@@ -1,5 +1,4 @@
-Guepinia conferta Ramsb. SPECIES
-=======
+# Guepinia conferta Ramsb. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothelium confusum Lücking SPECIES
-=======
+# Trichothelium confusum Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza chilensis Speg. SPECIES
-=======
+# Pyrenopeziza chilensis Speg. SPECIES
 
 #### Status
 ACCEPTED

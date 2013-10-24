@@ -1,5 +1,4 @@
-Coccocarpia fulva (A.L. Sm.) Arv. SPECIES
-=======
+# Coccocarpia fulva (A.L. Sm.) Arv. SPECIES
 
 #### Status
 ACCEPTED

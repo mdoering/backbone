@@ -1,5 +1,4 @@
-Triquetrorhabdulus rugosus Bramlette & Wilcoxon, 1967 SPECIES
-=======
+# Triquetrorhabdulus rugosus Bramlette & Wilcoxon, 1967 SPECIES
 
 #### Status
 ACCEPTED

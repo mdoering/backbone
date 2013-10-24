@@ -1,5 +1,4 @@
-Dicaeoma holosericeum (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma holosericeum (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

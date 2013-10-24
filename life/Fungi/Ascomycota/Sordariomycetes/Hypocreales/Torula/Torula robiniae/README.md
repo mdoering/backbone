@@ -1,5 +1,4 @@
-Torula robiniae Allesch. SPECIES
-=======
+# Torula robiniae Allesch. SPECIES
 
 #### Status
 ACCEPTED

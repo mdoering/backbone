@@ -1,5 +1,4 @@
-Blastenia subspiciosa SPECIES
-=======
+# Blastenia subspiciosa SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lichen myriophyllus Wibel SPECIES
-=======
+# Lichen myriophyllus Wibel SPECIES
 
 #### Status
 ACCEPTED

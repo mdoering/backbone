@@ -1,5 +1,4 @@
-Dichothrix subdichotoma Woronichin SPECIES
-=======
+# Dichothrix subdichotoma Woronichin SPECIES
 
 #### Status
 ACCEPTED

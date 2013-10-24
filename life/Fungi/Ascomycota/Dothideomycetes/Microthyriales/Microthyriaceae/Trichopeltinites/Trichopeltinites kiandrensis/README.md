@@ -1,5 +1,4 @@
-Trichopeltinites kiandrensis Selkirk SPECIES
-=======
+# Trichopeltinites kiandrensis Selkirk SPECIES
 
 #### Status
 ACCEPTED

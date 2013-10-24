@@ -1,5 +1,4 @@
-Otthia taxi Wollenw. & Hochapfel SPECIES
-=======
+# Otthia taxi Wollenw. & Hochapfel SPECIES
 
 #### Status
 ACCEPTED

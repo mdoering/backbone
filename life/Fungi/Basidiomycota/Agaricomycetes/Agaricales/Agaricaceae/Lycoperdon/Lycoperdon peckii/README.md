@@ -1,5 +1,4 @@
-Lycoperdon peckii J.B. Morgan SPECIES
-=======
+# Lycoperdon peckii J.B. Morgan SPECIES
 
 #### Status
 ACCEPTED

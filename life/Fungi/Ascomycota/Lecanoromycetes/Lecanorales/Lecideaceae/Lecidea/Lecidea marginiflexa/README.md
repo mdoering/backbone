@@ -1,5 +1,4 @@
-Lecidea marginiflexa var. marginiflexa VARIETY
-=======
+# Lecidea marginiflexa SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecidea marginiflexa var. marginiflexa
+null
 
 ### Remarks
 null

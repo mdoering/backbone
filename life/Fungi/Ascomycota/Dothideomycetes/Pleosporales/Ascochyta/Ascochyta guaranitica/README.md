@@ -1,5 +1,4 @@
-Ascochyta guaranitica Speg. SPECIES
-=======
+# Ascochyta guaranitica Speg. SPECIES
 
 #### Status
 ACCEPTED

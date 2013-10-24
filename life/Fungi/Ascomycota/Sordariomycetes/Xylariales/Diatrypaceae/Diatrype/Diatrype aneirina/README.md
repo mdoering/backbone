@@ -1,5 +1,4 @@
-Diatrype aneirina Fr. SPECIES
-=======
+# Diatrype aneirina Fr. SPECIES
 
 #### Status
 ACCEPTED

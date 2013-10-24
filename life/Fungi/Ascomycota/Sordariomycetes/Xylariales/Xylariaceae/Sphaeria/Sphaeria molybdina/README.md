@@ -1,5 +1,4 @@
-Sphaeria molybdina Mont. & Moug. SPECIES
-=======
+# Sphaeria molybdina Mont. & Moug. SPECIES
 
 #### Status
 ACCEPTED

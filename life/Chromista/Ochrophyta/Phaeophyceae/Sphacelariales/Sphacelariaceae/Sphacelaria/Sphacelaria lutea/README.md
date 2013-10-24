@@ -1,5 +1,4 @@
-Sphacelaria lutea Takamatsu SPECIES
-=======
+# Sphacelaria lutea Takamatsu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercosporella raethica Sacc. & G. Winter SPECIES
-=======
+# Cercosporella raethica Sacc. & G. Winter SPECIES
 
 #### Status
 ACCEPTED

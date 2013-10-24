@@ -1,5 +1,4 @@
-Verrucaria atra (Huds.) Hoffm. SPECIES
-=======
+# Verrucaria atra (Huds.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

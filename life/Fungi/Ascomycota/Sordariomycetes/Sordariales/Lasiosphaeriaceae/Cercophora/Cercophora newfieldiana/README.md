@@ -1,5 +1,4 @@
-Cercophora newfieldiana (Ellis & Everh.) R. Hilber SPECIES
-=======
+# Cercophora newfieldiana (Ellis & Everh.) R. Hilber SPECIES
 
 #### Status
 ACCEPTED

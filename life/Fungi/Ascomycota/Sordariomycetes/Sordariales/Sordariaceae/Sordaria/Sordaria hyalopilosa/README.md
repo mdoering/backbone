@@ -1,5 +1,4 @@
-Sordaria hyalopilosa (R. Stratton) Cain SPECIES
-=======
+# Sordaria hyalopilosa (R. Stratton) Cain SPECIES
 
 #### Status
 ACCEPTED

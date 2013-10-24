@@ -1,5 +1,4 @@
-Epistominella arctica Green, 1960 SPECIES
-=======
+# Epistominella arctica Green, 1960 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophorytidodiacrodium filiforme Timofeev, 1959 SPECIES
-=======
+# Lophorytidodiacrodium filiforme Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

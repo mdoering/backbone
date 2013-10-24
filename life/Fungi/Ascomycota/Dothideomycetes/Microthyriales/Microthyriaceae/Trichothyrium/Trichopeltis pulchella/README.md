@@ -1,5 +1,4 @@
-Trichopeltis pulchella Speg. SPECIES
-=======
+# Trichopeltis pulchella Speg. SPECIES
 
 #### Status
 ACCEPTED

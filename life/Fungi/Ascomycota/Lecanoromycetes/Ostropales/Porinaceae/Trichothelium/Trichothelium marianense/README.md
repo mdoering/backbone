@@ -1,5 +1,4 @@
-Trichothelium marianense H. Harada SPECIES
-=======
+# Trichothelium marianense H. Harada SPECIES
 
 #### Status
 ACCEPTED

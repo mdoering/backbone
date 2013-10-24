@@ -1,5 +1,4 @@
-Xylomites varius var. varius VARIETY
-=======
+# Xylomites varius Heer SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Xylomites varius var. varius
+Xylomites varius Heer
 
 ### Remarks
 null

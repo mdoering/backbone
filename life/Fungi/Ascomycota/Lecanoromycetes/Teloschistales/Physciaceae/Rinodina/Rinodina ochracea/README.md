@@ -1,5 +1,4 @@
-Rinodina ochracea Lynge SPECIES
-=======
+# Rinodina ochracea Lynge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uredo piptanthus M.M. Chen SPECIES
-=======
+# Uredo piptanthus M.M. Chen SPECIES
 
 #### Status
 ACCEPTED

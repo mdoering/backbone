@@ -1,5 +1,4 @@
-Enterographa lactea Müll. Arg. SPECIES
-=======
+# Enterographa lactea Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

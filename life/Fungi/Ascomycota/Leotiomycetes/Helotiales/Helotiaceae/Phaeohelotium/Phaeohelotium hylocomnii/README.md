@@ -1,5 +1,4 @@
-Phaeohelotium hylocomnii Raitv. & Leenurm SPECIES
-=======
+# Phaeohelotium hylocomnii Raitv. & Leenurm SPECIES
 
 #### Status
 ACCEPTED

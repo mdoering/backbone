@@ -1,5 +1,4 @@
-Pleospora argyrospora Harkn. SPECIES
-=======
+# Pleospora argyrospora Harkn. SPECIES
 
 #### Status
 ACCEPTED

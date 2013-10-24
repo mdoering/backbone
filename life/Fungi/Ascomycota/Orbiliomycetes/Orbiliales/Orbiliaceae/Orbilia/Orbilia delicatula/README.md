@@ -1,14 +1,13 @@
-Orbilia coccinella delicatula (P. Karst.) P. Karst., 1871 INFRASPECIFIC_NAME
-=======
+# Orbilia delicatula (P. Karst.) P. Karst., 1870 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Not. Sällsk. Fauna et Fl. Fenn. Förh. 11: 248 (1870)
 
 #### Original name
 null

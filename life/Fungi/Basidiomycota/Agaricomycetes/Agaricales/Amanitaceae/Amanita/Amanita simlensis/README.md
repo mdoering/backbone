@@ -1,5 +1,4 @@
-Amanita simlensis Locq. & T.N. Lakh. SPECIES
-=======
+# Amanita simlensis Locq. & T.N. Lakh. SPECIES
 
 #### Status
 ACCEPTED

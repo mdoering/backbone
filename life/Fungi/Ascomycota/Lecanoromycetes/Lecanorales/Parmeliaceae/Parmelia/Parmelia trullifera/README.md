@@ -1,5 +1,4 @@
-Parmelia trullifera Stirt. SPECIES
-=======
+# Parmelia trullifera Stirt. SPECIES
 
 #### Status
 ACCEPTED

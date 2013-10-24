@@ -1,5 +1,4 @@
-Pyrenopeziza pyrenocarpoides Rehm SPECIES
-=======
+# Pyrenopeziza pyrenocarpoides Rehm SPECIES
 
 #### Status
 ACCEPTED

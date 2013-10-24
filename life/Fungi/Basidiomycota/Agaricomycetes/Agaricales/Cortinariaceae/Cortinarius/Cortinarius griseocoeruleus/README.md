@@ -1,5 +1,4 @@
-Cortinarius griseocoeruleus Ammirati & M.M. Moser SPECIES
-=======
+# Cortinarius griseocoeruleus Ammirati & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

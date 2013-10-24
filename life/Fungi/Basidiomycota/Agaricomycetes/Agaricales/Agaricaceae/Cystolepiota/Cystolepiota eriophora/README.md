@@ -1,5 +1,4 @@
-Cystolepiota eriophora (Peck) Knudsen SPECIES
-=======
+# Cystolepiota eriophora (Peck) Knudsen SPECIES
 
 #### Status
 ACCEPTED

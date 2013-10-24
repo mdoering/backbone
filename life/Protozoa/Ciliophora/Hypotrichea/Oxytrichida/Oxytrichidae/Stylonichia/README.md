@@ -1,5 +1,4 @@
-Stylonichia Ehrenberg, 1830 GENUS
-=======
+# Stylonichia Ehrenberg, 1830 GENUS
 
 #### Status
 ACCEPTED

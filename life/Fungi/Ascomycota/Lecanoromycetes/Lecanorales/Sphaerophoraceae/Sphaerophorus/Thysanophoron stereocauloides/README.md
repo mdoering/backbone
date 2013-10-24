@@ -1,5 +1,4 @@
-Thysanophoron stereocauloides (Nyl.) M. Satô SPECIES
-=======
+# Thysanophoron stereocauloides (Nyl.) M. Satô SPECIES
 
 #### Status
 ACCEPTED

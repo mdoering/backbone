@@ -1,17 +1,16 @@
-Saccharomyces juillartensis Guyot SPECIES
-=======
+# Saccharomyces juillardensis Guyot SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Thèse, Genève (1917)
 
 #### Original name
-Saccharomyces juillartensis Guyot
+Saccharomyces juillardensis Guyot
 
 ### Remarks
 null

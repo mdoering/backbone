@@ -1,5 +1,4 @@
-Depazea vincetoxici Ficinus & C. Schub. SPECIES
-=======
+# Depazea vincetoxici Ficinus & C. Schub. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stephanopyxis grunowii Grove & Sturt SPECIES
-=======
+# Stephanopyxis grunowii Grove & Sturt SPECIES
 
 #### Status
 ACCEPTED

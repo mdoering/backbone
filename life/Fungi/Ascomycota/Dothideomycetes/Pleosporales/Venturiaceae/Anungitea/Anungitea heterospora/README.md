@@ -1,5 +1,4 @@
-Anungitea heterospora P.M. Kirk, 1983 SPECIES
-=======
+# Anungitea heterospora P.M. Kirk, 1983 SPECIES
 
 #### Status
 ACCEPTED

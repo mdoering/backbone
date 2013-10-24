@@ -1,5 +1,4 @@
-Aspicilia coronata var. coronata VARIETY
-=======
+# Aspicilia coronata (A. Massal.) B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

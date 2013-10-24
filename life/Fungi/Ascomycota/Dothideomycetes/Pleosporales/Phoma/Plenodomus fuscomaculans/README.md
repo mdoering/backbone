@@ -1,14 +1,13 @@
-Aposphaeria fuscomaculans Sacc., 1881 SPECIES
-=======
+# Plenodomus fuscomaculans (Sacc.) Coons, 1916 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 7): 275 (1881)
+Journal of Agricultural Research 5(16): 714 (1916)
 
 #### Original name
 Aposphaeria fuscomaculans Sacc., 1881

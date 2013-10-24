@@ -1,5 +1,4 @@
-Semispathidium pulchrum Foissner, Hess & Al-Rasheid, 2010 SPECIES
-=======
+# Semispathidium pulchrum Foissner, Hess & Al-Rasheid, 2010 SPECIES
 
 #### Status
 ACCEPTED

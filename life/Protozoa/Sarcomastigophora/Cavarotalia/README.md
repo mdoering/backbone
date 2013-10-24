@@ -1,5 +1,4 @@
-Cavarotalia Müller-Merz, 1980 GENUS
-=======
+# Cavarotalia Müller-Merz, 1980 GENUS
 
 #### Status
 ACCEPTED

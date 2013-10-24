@@ -1,5 +1,4 @@
-Peziza chlorophana M. Rousseau & De Not. SPECIES
-=======
+# Peziza chlorophana M. Rousseau & De Not. SPECIES
 
 #### Status
 ACCEPTED

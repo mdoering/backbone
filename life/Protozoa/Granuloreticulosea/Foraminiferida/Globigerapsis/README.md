@@ -1,5 +1,4 @@
-Globigerapsis Bolli, Loeblich & Tappan, 1957 GENUS
-=======
+# Globigerapsis Bolli, Loeblich & Tappan, 1957 GENUS
 
 #### Status
 ACCEPTED

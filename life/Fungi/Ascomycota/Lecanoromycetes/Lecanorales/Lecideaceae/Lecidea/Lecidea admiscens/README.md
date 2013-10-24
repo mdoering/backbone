@@ -1,5 +1,4 @@
-Lecidea admiscens Nyl. SPECIES
-=======
+# Lecidea admiscens Nyl. SPECIES
 
 #### Status
 ACCEPTED

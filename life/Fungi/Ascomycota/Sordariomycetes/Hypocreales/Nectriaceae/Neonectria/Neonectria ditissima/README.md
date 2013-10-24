@@ -1,17 +1,16 @@
-Cylindrocarpon willkommii var. willkommii VARIETY
-=======
+# Neonectria ditissima (Tul. & C. Tul.) Samuels & Rossman, 2006 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Fusaria autographica delineata 1: 150 (1928)
+in Samuels, Rossman, Chaverri, Overton & Põldmaa, Hypocreales of the Southeastern United States: an Identification Guide 4: 134 (2006)
 
 #### Original name
-Cylindrocarpon willkommii var. willkommii
+Nectria ditissima Tul. & C. Tul., 1865
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Diatrypella indica Sathe & Srinivasulu SPECIES
-=======
+# Diatrypella indica Sathe & Srinivasulu SPECIES
 
 #### Status
 ACCEPTED

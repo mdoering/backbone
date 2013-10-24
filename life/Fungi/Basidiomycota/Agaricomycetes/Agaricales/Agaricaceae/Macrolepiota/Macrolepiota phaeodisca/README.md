@@ -1,5 +1,4 @@
-Macrolepiota phaeodisca Bellù SPECIES
-=======
+# Macrolepiota phaeodisca Bellù SPECIES
 
 #### Status
 ACCEPTED

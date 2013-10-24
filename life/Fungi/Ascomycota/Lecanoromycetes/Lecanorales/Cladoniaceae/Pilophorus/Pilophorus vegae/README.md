@@ -1,5 +1,4 @@
-Pilophorus vegae Krog SPECIES
-=======
+# Pilophorus vegae Krog SPECIES
 
 #### Status
 ACCEPTED

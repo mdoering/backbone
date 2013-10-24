@@ -1,5 +1,4 @@
-Milowia GENUS
-=======
+# Milowia GENUS
 
 #### Status
 ACCEPTED

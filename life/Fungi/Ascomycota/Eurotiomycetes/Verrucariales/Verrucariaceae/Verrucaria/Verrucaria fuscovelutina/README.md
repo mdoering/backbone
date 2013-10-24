@@ -1,5 +1,4 @@
-Verrucaria fuscovelutina Servít SPECIES
-=======
+# Verrucaria fuscovelutina Servít SPECIES
 
 #### Status
 ACCEPTED

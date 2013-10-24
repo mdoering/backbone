@@ -1,5 +1,4 @@
-Gloeopeniophora GENUS
-=======
+# Gloeopeniophora GENUS
 
 #### Status
 ACCEPTED

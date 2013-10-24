@@ -1,5 +1,4 @@
-Hippocomos Czapik & Jordan, 1977 GENUS
-=======
+# Hippocomos Czapik & Jordan, 1977 GENUS
 
 #### Status
 ACCEPTED

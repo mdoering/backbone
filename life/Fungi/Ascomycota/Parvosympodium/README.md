@@ -1,5 +1,4 @@
-Parvosympodium A.W. Ramaley GENUS
-=======
+# Parvosympodium A.W. Ramaley GENUS
 
 #### Status
 ACCEPTED

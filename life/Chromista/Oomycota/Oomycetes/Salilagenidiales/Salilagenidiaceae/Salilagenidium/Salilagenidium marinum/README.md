@@ -1,14 +1,13 @@
-Leptolegniella marina (D. Atkins) M.W. Dick, 1971 SPECIES
-=======
+# Salilagenidium marinum (D. Atkins) M.W. Dick, 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 57(3): 422 (1971)
+Straminipilous Fungi (Dordrecht) 315 (2001)
 
 #### Original name
 Leptolegnia marina D. Atkins, 1954

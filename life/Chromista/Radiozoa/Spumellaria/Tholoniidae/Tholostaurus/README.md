@@ -1,5 +1,4 @@
-Tholostaurus Haeckel, 1887 GENUS
-=======
+# Tholostaurus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

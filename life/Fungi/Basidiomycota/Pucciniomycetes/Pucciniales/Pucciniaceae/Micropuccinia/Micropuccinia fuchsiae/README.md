@@ -1,5 +1,4 @@
-Micropuccinia fuchsiae (Syd. & Holw.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia fuchsiae (Syd. & Holw.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

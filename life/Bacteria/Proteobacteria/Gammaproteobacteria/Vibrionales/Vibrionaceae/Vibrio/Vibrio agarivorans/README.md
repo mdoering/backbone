@@ -1,5 +1,4 @@
-Vibrio agarivorans Macián et al., 2001 SPECIES
-=======
+# Vibrio agarivorans Macián et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

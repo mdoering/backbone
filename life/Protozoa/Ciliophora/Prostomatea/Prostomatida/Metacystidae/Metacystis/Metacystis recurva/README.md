@@ -1,5 +1,4 @@
-Metacystis recurva Penard, 1922 SPECIES
-=======
+# Metacystis recurva Penard, 1922 SPECIES
 
 #### Status
 ACCEPTED

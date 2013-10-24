@@ -1,5 +1,4 @@
-Gambierdiscus toxicus Adachi & Fukuyo SPECIES
-=======
+# Gambierdiscus toxicus Adachi & Fukuyo SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces coordinatus Arthur SPECIES
-=======
+# Uromyces coordinatus Arthur SPECIES
 
 #### Status
 ACCEPTED

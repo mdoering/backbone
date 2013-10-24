@@ -1,5 +1,4 @@
-Hebeloma cistophilum Maire SPECIES
-=======
+# Hebeloma cistophilum Maire SPECIES
 
 #### Status
 ACCEPTED

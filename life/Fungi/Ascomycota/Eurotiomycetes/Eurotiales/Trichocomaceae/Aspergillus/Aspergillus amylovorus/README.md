@@ -1,5 +1,4 @@
-Aspergillus amylovorus Panas. ex Samson, 1979 SPECIES
-=======
+# Aspergillus amylovorus Panas. ex Samson, 1979 SPECIES
 
 #### Status
 ACCEPTED

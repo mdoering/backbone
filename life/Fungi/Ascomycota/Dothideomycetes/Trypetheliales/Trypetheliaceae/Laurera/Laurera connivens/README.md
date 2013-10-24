@@ -1,5 +1,4 @@
-Laurera connivens (Nyl.) Zahlbr. SPECIES
-=======
+# Laurera connivens (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

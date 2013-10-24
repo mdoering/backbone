@@ -1,5 +1,4 @@
-Buellia pitardi B. de Lesd. SPECIES
-=======
+# Buellia pitardi B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

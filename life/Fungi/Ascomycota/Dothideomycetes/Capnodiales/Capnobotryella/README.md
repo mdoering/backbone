@@ -1,5 +1,4 @@
-Capnobotryella Sugiy. GENUS
-=======
+# Capnobotryella Sugiy. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Plowrightia agaves Maubl., 1907 SPECIES
-=======
+# Plowrightia agaves Maubl., 1907 SPECIES
 
 #### Status
 ACCEPTED

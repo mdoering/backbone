@@ -1,5 +1,4 @@
-Penzigina vermicularia (Fr.) Kuntze SPECIES
-=======
+# Penzigina vermicularia (Fr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

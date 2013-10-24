@@ -1,5 +1,4 @@
-Phloeospora prosopidis J.A. Stev. SPECIES
-=======
+# Phloeospora prosopidis J.A. Stev. SPECIES
 
 #### Status
 ACCEPTED

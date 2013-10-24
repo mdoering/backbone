@@ -1,8 +1,7 @@
-Planularia striata d'Orbigny, 1850 SPECIES
-=======
+# Citharina elongata (d'Orbigny, 1850) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

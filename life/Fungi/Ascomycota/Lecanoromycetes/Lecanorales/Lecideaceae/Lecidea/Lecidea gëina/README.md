@@ -1,5 +1,4 @@
-Lecidea gëina Stizenb. SPECIES
-=======
+# Lecidea gëina Stizenb. SPECIES
 
 #### Status
 ACCEPTED

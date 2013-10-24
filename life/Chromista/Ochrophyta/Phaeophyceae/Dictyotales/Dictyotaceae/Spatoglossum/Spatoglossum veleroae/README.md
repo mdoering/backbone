@@ -1,5 +1,4 @@
-Spatoglossum veleroae W.R. Taylor SPECIES
-=======
+# Spatoglossum veleroae W.R. Taylor SPECIES
 
 #### Status
 ACCEPTED

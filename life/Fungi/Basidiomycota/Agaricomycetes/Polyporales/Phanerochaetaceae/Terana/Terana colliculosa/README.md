@@ -1,5 +1,4 @@
-Terana colliculosa (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Terana colliculosa (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

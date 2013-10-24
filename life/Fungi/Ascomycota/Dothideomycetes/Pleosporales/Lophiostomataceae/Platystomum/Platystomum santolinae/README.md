@@ -1,5 +1,4 @@
-Platystomum santolinae (Fabre) Sacc. & D. Sacc. SPECIES
-=======
+# Platystomum santolinae (Fabre) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma gloeosporioides Sacc. SPECIES
-=======
+# Phoma gloeosporioides Sacc. SPECIES
 
 #### Status
 ACCEPTED

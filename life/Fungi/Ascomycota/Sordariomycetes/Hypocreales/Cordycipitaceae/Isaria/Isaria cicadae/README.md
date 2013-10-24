@@ -1,5 +1,4 @@
-Isaria cicadae Miq., 1838 SPECIES
-=======
+# Isaria cicadae Miq., 1838 SPECIES
 
 #### Status
 ACCEPTED

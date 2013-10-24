@@ -1,5 +1,4 @@
-Pestalotiopsis langloisii (Guba) Ts. Kobay. & E.D. Guzmán SPECIES
-=======
+# Pestalotiopsis langloisii (Guba) Ts. Kobay. & E.D. Guzmán SPECIES
 
 #### Status
 ACCEPTED

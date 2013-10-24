@@ -1,5 +1,4 @@
-Attritasporites Combaz, 1967 GENUS
-=======
+# Attritasporites Combaz, 1967 GENUS
 
 #### Status
 ACCEPTED

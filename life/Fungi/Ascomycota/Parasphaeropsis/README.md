@@ -1,5 +1,4 @@
-Parasphaeropsis Petr. GENUS
-=======
+# Parasphaeropsis Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyblastia confluens (Servít) Servít SPECIES
-=======
+# Polyblastia confluens (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED

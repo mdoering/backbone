@@ -1,5 +1,4 @@
-Rickia macrandra Thaxt. SPECIES
-=======
+# Rickia macrandra Thaxt. SPECIES
 
 #### Status
 ACCEPTED

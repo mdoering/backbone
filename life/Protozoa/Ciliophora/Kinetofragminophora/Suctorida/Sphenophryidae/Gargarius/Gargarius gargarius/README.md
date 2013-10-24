@@ -1,11 +1,10 @@
-Rhynchophrya cristallina Raabe, 1935 SPECIES
-=======
+# Gargarius gargarius Chatton & Lwoff, 1934 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+World Register of Marine Species
 
 #### Published in
 null

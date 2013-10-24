@@ -1,17 +1,16 @@
-Inocybe rufoalba (Pat. & Doass.) Sacc., 1887 SPECIES
-=======
+# Inocybe jacobi Kühner, 1956 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syll. fung. (Abellini) 5: 787 (1887)
+Bull. trimest. Soc. mycol. Fr. 71: 170 (1956)
 
 #### Original name
-Agaricus rufoalbus Pat. & Doass., 1886
+Inocybe jacobi Kühner, 1956
 
 ### Remarks
 null

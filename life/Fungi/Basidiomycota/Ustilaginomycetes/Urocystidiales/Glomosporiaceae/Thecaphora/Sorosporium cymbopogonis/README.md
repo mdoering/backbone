@@ -1,5 +1,4 @@
-Sorosporium cymbopogonis (Mundk.) Thirum. & Neerg. SPECIES
-=======
+# Sorosporium cymbopogonis (Mundk.) Thirum. & Neerg. SPECIES
 
 #### Status
 ACCEPTED

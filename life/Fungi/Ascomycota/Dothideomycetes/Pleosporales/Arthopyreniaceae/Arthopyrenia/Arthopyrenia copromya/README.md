@@ -1,5 +1,4 @@
-Arthopyrenia copromya A. Massal. SPECIES
-=======
+# Arthopyrenia copromya A. Massal. SPECIES
 
 #### Status
 ACCEPTED

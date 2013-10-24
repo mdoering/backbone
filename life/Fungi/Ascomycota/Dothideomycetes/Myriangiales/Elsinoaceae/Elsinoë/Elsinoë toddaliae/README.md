@@ -1,5 +1,4 @@
-Elsinoë toddaliae (Syd.) Jenkins & Bitanc. SPECIES
-=======
+# Elsinoë toddaliae (Syd.) Jenkins & Bitanc. SPECIES
 
 #### Status
 ACCEPTED

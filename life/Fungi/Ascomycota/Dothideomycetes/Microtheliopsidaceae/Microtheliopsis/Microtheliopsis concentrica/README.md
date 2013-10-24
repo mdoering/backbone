@@ -1,5 +1,4 @@
-Microtheliopsis concentrica (J.L. Bezerra & Cavalc.) Lücking, Kalb & Sérus. SPECIES
-=======
+# Microtheliopsis concentrica (J.L. Bezerra & Cavalc.) Lücking, Kalb & Sérus. SPECIES
 
 #### Status
 ACCEPTED

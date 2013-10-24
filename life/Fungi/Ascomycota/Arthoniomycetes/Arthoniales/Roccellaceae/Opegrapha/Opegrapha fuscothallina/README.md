@@ -1,5 +1,4 @@
-Opegrapha fuscothallina Lücking & Matzer SPECIES
-=======
+# Opegrapha fuscothallina Lücking & Matzer SPECIES
 
 #### Status
 ACCEPTED

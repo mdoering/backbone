@@ -1,5 +1,4 @@
-Galera pellucida (Bull. & Vent.) P. Kumm. SPECIES
-=======
+# Galera pellucida (Bull. & Vent.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

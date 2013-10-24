@@ -1,5 +1,4 @@
-Psorotichia allobrogensis Hue SPECIES
-=======
+# Psorotichia allobrogensis Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina helianthi Fautrey SPECIES
-=======
+# Diplodina helianthi Fautrey SPECIES
 
 #### Status
 ACCEPTED

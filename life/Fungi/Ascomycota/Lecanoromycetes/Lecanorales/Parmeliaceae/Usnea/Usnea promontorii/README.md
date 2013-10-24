@@ -1,5 +1,4 @@
-Usnea promontorii Motyka SPECIES
-=======
+# Usnea promontorii Motyka SPECIES
 
 #### Status
 ACCEPTED

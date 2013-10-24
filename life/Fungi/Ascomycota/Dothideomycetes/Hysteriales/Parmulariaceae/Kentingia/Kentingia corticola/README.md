@@ -1,17 +1,16 @@
-Excipulariopsis narsapurensis (Subram.) Spooner & P.M. Kirk, 1982 SPECIES
-=======
+# Kentingia corticola Sivan. & W.H. Hsieh, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 78(2): 251 (1982)
+Mycol. Res. 93(1): 83 (1989)
 
 #### Original name
-Excipularia narsapurensis Subram., 1956
+Kentingia corticola Sivan. & W.H. Hsieh, 1989
 
 ### Remarks
 null

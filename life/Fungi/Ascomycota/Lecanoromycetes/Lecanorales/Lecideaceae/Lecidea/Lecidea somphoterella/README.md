@@ -1,5 +1,4 @@
-Lecidea somphoterella Vain. SPECIES
-=======
+# Lecidea somphoterella Vain. SPECIES
 
 #### Status
 ACCEPTED

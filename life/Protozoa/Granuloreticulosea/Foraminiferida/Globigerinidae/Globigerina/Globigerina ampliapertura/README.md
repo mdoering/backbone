@@ -1,5 +1,4 @@
-Globigerina ampliapertura SPECIES
-=======
+# Globigerina ampliapertura SPECIES
 
 #### Status
 ACCEPTED

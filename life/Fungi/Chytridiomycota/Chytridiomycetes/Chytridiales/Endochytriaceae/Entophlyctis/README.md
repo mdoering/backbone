@@ -1,5 +1,4 @@
-Entophlyctis A. Fisch. GENUS
-=======
+# Entophlyctis A. Fisch. GENUS
 
 #### Status
 ACCEPTED

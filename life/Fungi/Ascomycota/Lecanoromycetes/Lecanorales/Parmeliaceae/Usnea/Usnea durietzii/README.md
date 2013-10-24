@@ -1,5 +1,4 @@
-Usnea durietzii Motyka SPECIES
-=======
+# Usnea durietzii Motyka SPECIES
 
 #### Status
 ACCEPTED

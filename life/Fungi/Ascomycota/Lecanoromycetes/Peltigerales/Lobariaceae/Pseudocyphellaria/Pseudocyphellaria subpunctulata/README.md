@@ -1,5 +1,4 @@
-Pseudocyphellaria subpunctulata (Nyl.) Vain. SPECIES
-=======
+# Pseudocyphellaria subpunctulata (Nyl.) Vain. SPECIES
 
 #### Status
 ACCEPTED

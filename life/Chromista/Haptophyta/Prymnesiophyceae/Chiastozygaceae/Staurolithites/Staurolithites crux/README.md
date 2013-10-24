@@ -1,5 +1,4 @@
-Staurolithites crux SPECIES
-=======
+# Staurolithites crux SPECIES
 
 #### Status
 ACCEPTED

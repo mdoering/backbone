@@ -1,5 +1,4 @@
-Diatrype griseotecta Berk. & Broome SPECIES
-=======
+# Diatrype griseotecta Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

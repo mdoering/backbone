@@ -1,5 +1,4 @@
-Lichenomphalia lobata (Redhead & Kuyper) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
-=======
+# Lichenomphalia lobata (Redhead & Kuyper) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
 ACCEPTED

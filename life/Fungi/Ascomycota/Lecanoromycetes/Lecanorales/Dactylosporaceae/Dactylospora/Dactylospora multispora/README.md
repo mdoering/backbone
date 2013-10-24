@@ -1,5 +1,4 @@
-Dactylospora multispora anon. SPECIES
-=======
+# Dactylospora multispora anon. SPECIES
 
 #### Status
 ACCEPTED

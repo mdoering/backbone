@@ -1,5 +1,4 @@
-Heppia monguillonii Harm. SPECIES
-=======
+# Heppia monguillonii Harm. SPECIES
 
 #### Status
 ACCEPTED

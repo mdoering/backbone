@@ -1,5 +1,4 @@
-Belnapia moabensis Reddy et al., 2006 SPECIES
-=======
+# Belnapia moabensis Reddy et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

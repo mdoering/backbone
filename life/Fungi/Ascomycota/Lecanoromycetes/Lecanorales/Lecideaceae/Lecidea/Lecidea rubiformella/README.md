@@ -1,5 +1,4 @@
-Lecidea rubiformella Zahlbr. SPECIES
-=======
+# Lecidea rubiformella Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

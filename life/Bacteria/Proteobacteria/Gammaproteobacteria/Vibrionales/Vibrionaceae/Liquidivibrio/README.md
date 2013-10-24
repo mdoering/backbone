@@ -1,5 +1,4 @@
-Liquidivibrio GENUS
-=======
+# Liquidivibrio GENUS
 
 #### Status
 ACCEPTED

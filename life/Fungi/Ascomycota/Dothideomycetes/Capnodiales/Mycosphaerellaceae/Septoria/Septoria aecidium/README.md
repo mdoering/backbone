@@ -1,5 +1,4 @@
-Septoria aecidium Maire SPECIES
-=======
+# Septoria aecidium Maire SPECIES
 
 #### Status
 ACCEPTED

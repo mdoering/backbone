@@ -1,5 +1,4 @@
-Totiviridae FAMILY
-=======
+# Totiviridae FAMILY
 
 #### Status
 ACCEPTED

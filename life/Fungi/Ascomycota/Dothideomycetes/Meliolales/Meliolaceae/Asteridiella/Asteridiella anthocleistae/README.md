@@ -1,5 +1,4 @@
-Asteridiella anthocleistae (Hansf. & Deighton) Hansf. SPECIES
-=======
+# Asteridiella anthocleistae (Hansf. & Deighton) Hansf. SPECIES
 
 #### Status
 ACCEPTED

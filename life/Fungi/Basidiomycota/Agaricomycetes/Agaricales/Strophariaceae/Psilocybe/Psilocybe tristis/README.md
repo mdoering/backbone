@@ -1,5 +1,4 @@
-Psilocybe tristis Henn. SPECIES
-=======
+# Psilocybe tristis Henn. SPECIES
 
 #### Status
 ACCEPTED

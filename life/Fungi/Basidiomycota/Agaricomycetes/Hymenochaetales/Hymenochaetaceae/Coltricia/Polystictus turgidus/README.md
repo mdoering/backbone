@@ -1,5 +1,4 @@
-Polystictus turgidus Lloyd SPECIES
-=======
+# Polystictus turgidus Lloyd SPECIES
 
 #### Status
 ACCEPTED

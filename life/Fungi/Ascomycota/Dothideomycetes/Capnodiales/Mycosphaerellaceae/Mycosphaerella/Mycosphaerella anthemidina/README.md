@@ -1,5 +1,4 @@
-Mycosphaerella anthemidina Petr. SPECIES
-=======
+# Mycosphaerella anthemidina Petr. SPECIES
 
 #### Status
 ACCEPTED

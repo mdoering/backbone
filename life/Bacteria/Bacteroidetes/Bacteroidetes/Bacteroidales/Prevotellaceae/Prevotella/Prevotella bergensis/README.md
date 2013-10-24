@@ -1,5 +1,4 @@
-Prevotella bergensis Downes et al., 2006 SPECIES
-=======
+# Prevotella bergensis Downes et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniochaeta cruciata Fort & Guarro SPECIES
-=======
+# Coniochaeta cruciata Fort & Guarro SPECIES
 
 #### Status
 ACCEPTED

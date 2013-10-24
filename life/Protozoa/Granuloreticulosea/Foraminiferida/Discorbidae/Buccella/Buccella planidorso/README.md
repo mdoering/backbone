@@ -1,5 +1,4 @@
-Buccella planidorso Atkinson, 1969 SPECIES
-=======
+# Buccella planidorso Atkinson, 1969 SPECIES
 
 #### Status
 ACCEPTED

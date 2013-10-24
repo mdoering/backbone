@@ -1,5 +1,4 @@
-Thelocarpon coccophorum (Mont.) Nyl. SPECIES
-=======
+# Thelocarpon coccophorum (Mont.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

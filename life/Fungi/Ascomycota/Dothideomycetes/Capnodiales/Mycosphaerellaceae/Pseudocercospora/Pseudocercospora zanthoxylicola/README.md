@@ -1,5 +1,4 @@
-Pseudocercospora zanthoxylicola Crous & U. Braun SPECIES
-=======
+# Pseudocercospora zanthoxylicola Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

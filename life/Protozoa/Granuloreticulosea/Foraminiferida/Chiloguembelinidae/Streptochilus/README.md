@@ -1,5 +1,4 @@
-Streptochilus Bronnimann & Resig, 1971 GENUS
-=======
+# Streptochilus Bronnimann & Resig, 1971 GENUS
 
 #### Status
 ACCEPTED

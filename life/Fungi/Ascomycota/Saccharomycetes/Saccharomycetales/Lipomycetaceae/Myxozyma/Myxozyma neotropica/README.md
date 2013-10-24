@@ -1,5 +1,4 @@
-Myxozyma neotropica Spaaij & G. Weber, 1992 SPECIES
-=======
+# Myxozyma neotropica Spaaij & G. Weber, 1992 SPECIES
 
 #### Status
 ACCEPTED

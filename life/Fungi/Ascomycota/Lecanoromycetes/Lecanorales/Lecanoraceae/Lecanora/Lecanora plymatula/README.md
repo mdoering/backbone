@@ -1,5 +1,4 @@
-Lecanora plymatula Johnson {?} SPECIES
-=======
+# Lecanora plymatula Johnson {?} SPECIES
 
 #### Status
 ACCEPTED

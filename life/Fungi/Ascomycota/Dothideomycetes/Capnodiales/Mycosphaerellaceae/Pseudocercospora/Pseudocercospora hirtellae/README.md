@@ -1,5 +1,4 @@
-Pseudocercospora hirtellae U. Braun, J.C. David & F.O. Freire SPECIES
-=======
+# Pseudocercospora hirtellae U. Braun, J.C. David & F.O. Freire SPECIES
 
 #### Status
 ACCEPTED

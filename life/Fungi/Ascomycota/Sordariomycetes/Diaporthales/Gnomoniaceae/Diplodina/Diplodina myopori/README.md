@@ -1,5 +1,4 @@
-Diplodina myopori Tassi SPECIES
-=======
+# Diplodina myopori Tassi SPECIES
 
 #### Status
 ACCEPTED

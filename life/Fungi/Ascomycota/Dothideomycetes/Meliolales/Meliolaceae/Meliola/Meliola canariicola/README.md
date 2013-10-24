@@ -1,5 +1,4 @@
-Meliola canariicola F. Stevens ex Hansf. SPECIES
-=======
+# Meliola canariicola F. Stevens ex Hansf. SPECIES
 
 #### Status
 ACCEPTED

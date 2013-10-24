@@ -1,17 +1,16 @@
-Puccinia heucherae var. lithophragmae (Holw.) Savile VARIETY
-=======
+# Pucciniaceae Chevall. FAMILY
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Fl. gén. env. Paris (Paris) 1: 413 (1826)
 
 #### Original name
-Puccinia lithophragmae Holw.
+Pucciniaceae Chevall.
 
 ### Remarks
 null

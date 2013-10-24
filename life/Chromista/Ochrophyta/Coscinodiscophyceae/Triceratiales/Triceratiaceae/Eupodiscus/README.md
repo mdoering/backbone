@@ -1,5 +1,4 @@
-Eupodiscus Bailey GENUS
-=======
+# Eupodiscus Bailey GENUS
 
 #### Status
 ACCEPTED

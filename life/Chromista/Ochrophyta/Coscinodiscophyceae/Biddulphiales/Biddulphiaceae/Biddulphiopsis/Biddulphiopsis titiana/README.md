@@ -1,5 +1,4 @@
-Biddulphiopsis titiana var. arlyniana R.K. Mahoney VARIETY
-=======
+# Biddulphiopsis titiana (A. Grunow) H. A. von Stosch & R. Simonsen SPECIES
 
 #### Status
 ACCEPTED

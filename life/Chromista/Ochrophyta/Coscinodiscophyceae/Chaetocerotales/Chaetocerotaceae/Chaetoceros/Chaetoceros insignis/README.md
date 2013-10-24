@@ -1,5 +1,4 @@
-Chaetoceros insignis Prosckina-Lavrenko SPECIES
-=======
+# Chaetoceros insignis Prosckina-Lavrenko SPECIES
 
 #### Status
 ACCEPTED

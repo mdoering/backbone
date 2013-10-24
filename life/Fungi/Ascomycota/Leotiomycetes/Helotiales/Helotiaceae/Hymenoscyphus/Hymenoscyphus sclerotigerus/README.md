@@ -1,5 +1,4 @@
-Hymenoscyphus sclerotigerus Svrcek SPECIES
-=======
+# Hymenoscyphus sclerotigerus Svrcek SPECIES
 
 #### Status
 ACCEPTED

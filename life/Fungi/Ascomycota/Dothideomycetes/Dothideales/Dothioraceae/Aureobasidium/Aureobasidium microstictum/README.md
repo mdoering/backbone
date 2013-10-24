@@ -1,14 +1,13 @@
-Kabatiella microsticta Bubák, 1907 SPECIES
-=======
+# Aureobasidium microstictum (Bubák) W.B. Cooke, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 46: (1907)
+Mycopathologia 17: 37 (1962)
 
 #### Original name
 Kabatiella microsticta Bubák, 1907

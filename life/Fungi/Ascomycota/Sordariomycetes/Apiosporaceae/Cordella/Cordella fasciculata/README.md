@@ -1,5 +1,4 @@
-Cordella fasciculata (S. Hughes) Subram. SPECIES
-=======
+# Cordella fasciculata (S. Hughes) Subram. SPECIES
 
 #### Status
 ACCEPTED

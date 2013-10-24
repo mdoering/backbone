@@ -1,5 +1,4 @@
-Gyroporus heterosporus Heinem. & Rammeloo SPECIES
-=======
+# Gyroporus heterosporus Heinem. & Rammeloo SPECIES
 
 #### Status
 ACCEPTED

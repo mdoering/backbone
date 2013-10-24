@@ -1,14 +1,13 @@
-Sphaeria conica Tode, 1790 SPECIES
-=======
+# Sphaeronaema conicum (Tode) Fr., 1823 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syst. mycol. (Lundae) 2(2): 538 (1823)
 
 #### Original name
 Sphaeria conica Tode, 1790

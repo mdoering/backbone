@@ -1,5 +1,4 @@
-Bathelium lineare (C.W. Dodge) R.C. Harris SPECIES
-=======
+# Bathelium lineare (C.W. Dodge) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

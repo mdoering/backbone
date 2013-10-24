@@ -1,5 +1,4 @@
-Mycosphaerella bakeri Rehm SPECIES
-=======
+# Mycosphaerella bakeri Rehm SPECIES
 
 #### Status
 ACCEPTED

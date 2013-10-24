@@ -1,5 +1,4 @@
-Crithiona granum Goes, 1894 SPECIES
-=======
+# Crithiona granum Goes, 1894 SPECIES
 
 #### Status
 ACCEPTED

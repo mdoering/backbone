@@ -1,5 +1,4 @@
-Mycena dryopteriphila Lj.N. Vassiljeva & Nazarova {?} SPECIES
-=======
+# Mycena dryopteriphila Lj.N. Vassiljeva & Nazarova {?} SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Teichosporina hemisphaerica (Bat.) Bat. SPECIES
-=======
+# Teichosporina hemisphaerica (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

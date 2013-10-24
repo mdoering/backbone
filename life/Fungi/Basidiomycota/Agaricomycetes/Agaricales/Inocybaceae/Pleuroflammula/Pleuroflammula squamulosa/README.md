@@ -1,5 +1,4 @@
-Pleuroflammula squamulosa (Murrill) E. Horak SPECIES
-=======
+# Pleuroflammula squamulosa (Murrill) E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora versicolor Bagl. & Carestia SPECIES
-=======
+# Acarospora versicolor Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

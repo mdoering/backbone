@@ -1,5 +1,4 @@
-Gerhardtia piperata (A.H. Sm.) Bon SPECIES
-=======
+# Gerhardtia piperata (A.H. Sm.) Bon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dimerosporium eriophilum G. Winter SPECIES
-=======
+# Dimerosporium eriophilum G. Winter SPECIES
 
 #### Status
 ACCEPTED

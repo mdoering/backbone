@@ -1,5 +1,4 @@
-Physarum antiades (Bull.) Fr. SPECIES
-=======
+# Physarum antiades (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

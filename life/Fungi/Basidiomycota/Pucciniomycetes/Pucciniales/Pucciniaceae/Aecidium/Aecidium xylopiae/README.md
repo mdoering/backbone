@@ -1,5 +1,4 @@
-Aecidium xylopiae Henn. SPECIES
-=======
+# Aecidium xylopiae Henn. SPECIES
 
 #### Status
 ACCEPTED

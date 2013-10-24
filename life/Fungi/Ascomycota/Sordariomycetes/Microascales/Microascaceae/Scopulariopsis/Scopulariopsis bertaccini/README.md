@@ -1,5 +1,4 @@
-Scopulariopsis bertaccini Redaelli SPECIES
-=======
+# Scopulariopsis bertaccini Redaelli SPECIES
 
 #### Status
 ACCEPTED

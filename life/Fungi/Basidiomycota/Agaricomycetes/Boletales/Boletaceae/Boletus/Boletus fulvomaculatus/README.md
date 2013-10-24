@@ -1,5 +1,4 @@
-Boletus fulvomaculatus Estadès & Lannoy SPECIES
-=======
+# Boletus fulvomaculatus Estadès & Lannoy SPECIES
 
 #### Status
 ACCEPTED

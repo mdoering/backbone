@@ -1,5 +1,4 @@
-Stellaria Grassé & Hollande, 1950 GENUS
-=======
+# Stellaria Grassé & Hollande, 1950 GENUS
 
 #### Status
 ACCEPTED

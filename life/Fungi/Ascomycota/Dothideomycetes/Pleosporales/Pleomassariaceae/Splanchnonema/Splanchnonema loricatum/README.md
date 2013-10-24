@@ -1,5 +1,4 @@
-Splanchnonema loricatum (Tul. & C. Tul.) M.E. Barr SPECIES
-=======
+# Splanchnonema loricatum (Tul. & C. Tul.) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hymenogaster boozeri Zeller & C.W. Dodge SPECIES
-=======
+# Hymenogaster boozeri Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Squamula Lyul'eva, 1967 GENUS
-=======
+# Squamula Lyul'eva, 1967 GENUS
 
 #### Status
 ACCEPTED

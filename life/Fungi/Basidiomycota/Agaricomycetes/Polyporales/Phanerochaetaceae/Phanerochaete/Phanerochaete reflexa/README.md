@@ -1,5 +1,4 @@
-Phanerochaete reflexa Sheng H. Wu SPECIES
-=======
+# Phanerochaete reflexa Sheng H. Wu SPECIES
 
 #### Status
 ACCEPTED

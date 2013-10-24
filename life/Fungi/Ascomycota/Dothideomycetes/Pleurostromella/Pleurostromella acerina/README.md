@@ -1,5 +1,4 @@
-Pleurostromella acerina Petr. SPECIES
-=======
+# Pleurostromella acerina Petr. SPECIES
 
 #### Status
 ACCEPTED

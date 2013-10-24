@@ -1,5 +1,4 @@
-Dicaeoma tuberculans (Ellis & Everh.) Kuntze SPECIES
-=======
+# Dicaeoma tuberculans (Ellis & Everh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

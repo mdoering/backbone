@@ -1,17 +1,16 @@
-Clitopilus hobsonii var. hobsonii VARIETY
-=======
+# Clitopilus hobsonii (Berk. & Broome) P.D. Orton, 1960 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 43: 174 (1960)
 
 #### Original name
-Clitopilus hobsonii var. hobsonii
+Agaricus hobsonii Berk., 1860
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pleospora aggregata Wehm. & S. Ahmad SPECIES
-=======
+# Pleospora aggregata Wehm. & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

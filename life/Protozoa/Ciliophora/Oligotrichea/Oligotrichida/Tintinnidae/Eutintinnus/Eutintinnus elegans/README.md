@@ -1,5 +1,4 @@
-Eutintinnus elegans (Jörgensen) Kofoid & Campbell, 1939 SPECIES
-=======
+# Eutintinnus elegans (Jörgensen) Kofoid & Campbell, 1939 SPECIES
 
 #### Status
 ACCEPTED

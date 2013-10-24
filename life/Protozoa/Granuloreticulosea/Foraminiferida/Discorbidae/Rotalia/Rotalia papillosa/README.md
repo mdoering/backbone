@@ -1,5 +1,4 @@
-Rotalia papillosa SPECIES
-=======
+# Rotalia papillosa SPECIES
 
 #### Status
 ACCEPTED

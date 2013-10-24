@@ -1,5 +1,4 @@
-Erinella aurorina Quél. SPECIES
-=======
+# Erinella aurorina Quél. SPECIES
 
 #### Status
 ACCEPTED

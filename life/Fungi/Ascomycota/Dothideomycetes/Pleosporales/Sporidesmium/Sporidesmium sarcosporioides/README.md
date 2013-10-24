@@ -1,5 +1,4 @@
-Sporidesmium sarcosporioides Ellis & F.W. Anderson SPECIES
-=======
+# Sporidesmium sarcosporioides Ellis & F.W. Anderson SPECIES
 
 #### Status
 ACCEPTED

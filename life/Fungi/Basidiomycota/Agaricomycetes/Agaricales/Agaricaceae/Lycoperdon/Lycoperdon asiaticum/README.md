@@ -1,5 +1,4 @@
-Lycoperdon asiaticum Kreisel SPECIES
-=======
+# Lycoperdon asiaticum Kreisel SPECIES
 
 #### Status
 ACCEPTED

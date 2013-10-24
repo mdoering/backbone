@@ -1,17 +1,16 @@
-Bacidia arnoldiana f. arnoldiana Körb. FORM
-=======
+# Bacidina arnoldiana (Körb.) V. Wirth & Vezda SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Bacidia arnoldiana f. arnoldiana Körb.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lachnea speciosa Plum. {?} SPECIES
-=======
+# Lachnea speciosa Plum. {?} SPECIES
 
 #### Status
 ACCEPTED

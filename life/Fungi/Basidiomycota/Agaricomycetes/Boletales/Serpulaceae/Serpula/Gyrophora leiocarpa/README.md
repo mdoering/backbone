@@ -1,5 +1,4 @@
-Gyrophora leiocarpa var. leiocarpa VARIETY
-=======
+# Gyrophora leiocarpa (DC.) Steud. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Gyrophora leiocarpa var. leiocarpa
+Umbilicaria leiocarpa DC.
 
 ### Remarks
 null

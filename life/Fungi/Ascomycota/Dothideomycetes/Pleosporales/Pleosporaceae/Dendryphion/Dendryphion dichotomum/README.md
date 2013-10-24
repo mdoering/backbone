@@ -1,17 +1,16 @@
-Dendryphion dichotoma Munjal & J.N. Kapoor SPECIES
-=======
+# Dendryphion dichotomum Munjal & J.N. Kapoor SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycopath. Mycol. appl. 39: 127 (1969)
 
 #### Original name
-Dendryphion dichotoma Munjal & J.N. Kapoor
+Dendryphion dichotomum Munjal & J.N. Kapoor
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Rhabdospora notha SPECIES
-=======
+# Rhabdospora notha SPECIES
 
 #### Status
 ACCEPTED

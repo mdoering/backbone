@@ -1,5 +1,4 @@
-Dasysticta Speg. GENUS
-=======
+# Dasysticta Speg. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola yatesiana Trotter SPECIES
-=======
+# Meliola yatesiana Trotter SPECIES
 
 #### Status
 ACCEPTED

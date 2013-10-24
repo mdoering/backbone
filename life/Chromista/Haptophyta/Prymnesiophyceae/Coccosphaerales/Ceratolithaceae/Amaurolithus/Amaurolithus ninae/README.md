@@ -1,5 +1,4 @@
-Amaurolithus ninae K. Perch-Nielsen SPECIES
-=======
+# Amaurolithus ninae K. Perch-Nielsen SPECIES
 
 #### Status
 ACCEPTED

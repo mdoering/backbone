@@ -1,5 +1,4 @@
-Arthothelium montagnei Tuck. SPECIES
-=======
+# Arthothelium montagnei Tuck. SPECIES
 
 #### Status
 ACCEPTED

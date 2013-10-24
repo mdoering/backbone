@@ -1,5 +1,4 @@
-Lepiota columbicolor Brittleb. SPECIES
-=======
+# Lepiota columbicolor Brittleb. SPECIES
 
 #### Status
 ACCEPTED

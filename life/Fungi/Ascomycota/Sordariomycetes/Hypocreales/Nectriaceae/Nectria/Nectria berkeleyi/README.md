@@ -1,5 +1,4 @@
-Nectria berkeleyi Höhn. SPECIES
-=======
+# Nectria berkeleyi Höhn. SPECIES
 
 #### Status
 ACCEPTED
