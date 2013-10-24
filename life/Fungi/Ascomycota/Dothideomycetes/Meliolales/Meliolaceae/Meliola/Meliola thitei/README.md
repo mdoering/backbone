@@ -1,17 +1,16 @@
-Meliola thetei Hosag. SPECIES
-=======
+# Meliola thitei Hosag. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Meliolales of India (Calcutta) 328 (1996)
 
 #### Original name
-Meliola thetei Hosag.
+Meliola piperis Earle
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Stenella haematitica U. Braun & Crous SPECIES
-=======
+# Stenella haematitica U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

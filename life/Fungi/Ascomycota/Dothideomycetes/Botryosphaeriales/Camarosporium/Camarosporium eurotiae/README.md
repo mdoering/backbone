@@ -1,5 +1,4 @@
-Camarosporium eurotiae Wehm. SPECIES
-=======
+# Camarosporium eurotiae Wehm. SPECIES
 
 #### Status
 ACCEPTED

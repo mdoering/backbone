@@ -1,5 +1,4 @@
-Pasteurella skyensis Birkbeck et al., 2002 SPECIES
-=======
+# Pasteurella skyensis Birkbeck et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

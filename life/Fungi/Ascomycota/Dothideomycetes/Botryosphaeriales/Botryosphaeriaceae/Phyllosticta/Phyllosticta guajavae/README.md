@@ -1,5 +1,4 @@
-Phyllosticta guajavae Viégas SPECIES
-=======
+# Phyllosticta guajavae Viégas SPECIES
 
 #### Status
 ACCEPTED

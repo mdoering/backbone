@@ -1,5 +1,4 @@
-Sphaeria lamprotheca Desm. SPECIES
-=======
+# Sphaeria lamprotheca Desm. SPECIES
 
 #### Status
 ACCEPTED

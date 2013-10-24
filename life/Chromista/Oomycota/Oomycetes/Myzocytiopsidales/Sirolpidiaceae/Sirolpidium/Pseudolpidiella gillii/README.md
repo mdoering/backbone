@@ -1,5 +1,4 @@
-Pseudolpidiella gillii (De Wild.) Cejp SPECIES
-=======
+# Pseudolpidiella gillii (De Wild.) Cejp SPECIES
 
 #### Status
 ACCEPTED

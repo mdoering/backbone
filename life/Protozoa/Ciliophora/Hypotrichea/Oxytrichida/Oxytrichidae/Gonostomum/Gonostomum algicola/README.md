@@ -1,5 +1,4 @@
-Gonostomum algicola Gellert, 1942 SPECIES
-=======
+# Gonostomum algicola Gellert, 1942 SPECIES
 
 #### Status
 ACCEPTED

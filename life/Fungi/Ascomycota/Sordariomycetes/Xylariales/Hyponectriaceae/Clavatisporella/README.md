@@ -1,5 +1,4 @@
-Clavatisporella K.D. Hyde GENUS
-=======
+# Clavatisporella K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

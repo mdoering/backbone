@@ -1,5 +1,4 @@
-Cercospora humuli-japonici Sawada SPECIES
-=======
+# Cercospora humuli-japonici Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium microspilum Syd. SPECIES
-=======
+# Cladosporium microspilum Syd. SPECIES
 
 #### Status
 ACCEPTED

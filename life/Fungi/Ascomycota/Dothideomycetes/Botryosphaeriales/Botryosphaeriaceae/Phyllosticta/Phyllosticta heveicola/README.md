@@ -1,5 +1,4 @@
-Phyllosticta heveicola Saccas SPECIES
-=======
+# Phyllosticta heveicola Saccas SPECIES
 
 #### Status
 ACCEPTED

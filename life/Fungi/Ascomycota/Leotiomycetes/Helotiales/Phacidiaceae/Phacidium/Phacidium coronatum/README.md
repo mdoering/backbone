@@ -1,5 +1,4 @@
-Phacidium coronatum Fr., 1815 SPECIES
-=======
+# Phacidium coronatum Fr., 1815 SPECIES
 
 #### Status
 ACCEPTED

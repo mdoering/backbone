@@ -1,5 +1,4 @@
-Lecidea chilensis Follmann SPECIES
-=======
+# Lecidea chilensis Follmann SPECIES
 
 #### Status
 ACCEPTED

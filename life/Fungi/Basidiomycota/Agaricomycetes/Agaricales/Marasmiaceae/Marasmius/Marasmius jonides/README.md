@@ -1,5 +1,4 @@
-Marasmius jonides Pat. SPECIES
-=======
+# Marasmius jonides Pat. SPECIES
 
 #### Status
 ACCEPTED

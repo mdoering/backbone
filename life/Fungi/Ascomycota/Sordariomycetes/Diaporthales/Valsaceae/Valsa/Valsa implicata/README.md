@@ -1,5 +1,4 @@
-Valsa implicata (Lév.) Berl. & Sacc. SPECIES
-=======
+# Valsa implicata (Lév.) Berl. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

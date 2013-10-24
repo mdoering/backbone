@@ -1,5 +1,4 @@
-Cylindrocolla subconoidea Speg. SPECIES
-=======
+# Cylindrocolla subconoidea Speg. SPECIES
 
 #### Status
 ACCEPTED

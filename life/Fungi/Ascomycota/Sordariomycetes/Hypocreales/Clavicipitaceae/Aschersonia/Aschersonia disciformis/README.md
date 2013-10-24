@@ -1,5 +1,4 @@
-Aschersonia disciformis Pat. SPECIES
-=======
+# Aschersonia disciformis Pat. SPECIES
 
 #### Status
 ACCEPTED

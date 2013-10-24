@@ -1,5 +1,4 @@
-Lecanora abyssinica (Bagl.) Sitzung. SPECIES
-=======
+# Lecanora abyssinica (Bagl.) Sitzung. SPECIES
 
 #### Status
 ACCEPTED

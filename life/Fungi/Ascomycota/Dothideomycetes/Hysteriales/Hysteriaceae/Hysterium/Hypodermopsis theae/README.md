@@ -1,5 +1,4 @@
-Hypodermopsis theae Hara SPECIES
-=======
+# Hypodermopsis theae Hara SPECIES
 
 #### Status
 ACCEPTED

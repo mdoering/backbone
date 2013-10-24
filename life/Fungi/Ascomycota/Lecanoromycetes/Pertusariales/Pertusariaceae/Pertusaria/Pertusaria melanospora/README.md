@@ -1,17 +1,16 @@
-Pertusaria melanospora f. melanospora FORM
-=======
+# Pertusaria melanospora Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Annls Sci. Nat. , Bot. , sér. 4 3: 159 (1855)
 
 #### Original name
-Pertusaria melanospora f. melanospora
+Pertusaria melanospora Nyl.
 
 ### Remarks
 null

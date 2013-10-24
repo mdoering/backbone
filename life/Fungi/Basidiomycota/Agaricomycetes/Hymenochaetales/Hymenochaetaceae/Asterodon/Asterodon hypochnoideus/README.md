@@ -1,5 +1,4 @@
-Asterodon hypochnoideus Rick SPECIES
-=======
+# Asterodon hypochnoideus Rick SPECIES
 
 #### Status
 ACCEPTED

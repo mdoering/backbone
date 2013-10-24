@@ -1,5 +1,4 @@
-Holomastigotidae FAMILY
-=======
+# Holomastigotidae FAMILY
 
 #### Status
 ACCEPTED

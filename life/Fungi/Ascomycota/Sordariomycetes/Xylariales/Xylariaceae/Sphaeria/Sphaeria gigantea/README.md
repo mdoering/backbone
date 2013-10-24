@@ -1,5 +1,4 @@
-Sphaeria gigantea Mont. SPECIES
-=======
+# Sphaeria gigantea Mont. SPECIES
 
 #### Status
 ACCEPTED

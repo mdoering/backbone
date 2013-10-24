@@ -1,5 +1,4 @@
-Crocicreas solare S.E. Carp. SPECIES
-=======
+# Crocicreas solare S.E. Carp. SPECIES
 
 #### Status
 ACCEPTED

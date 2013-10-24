@@ -1,5 +1,4 @@
-Ooidium timofeevii Loeblich, 1970 SPECIES
-=======
+# Ooidium timofeevii Loeblich, 1970 SPECIES
 
 #### Status
 ACCEPTED

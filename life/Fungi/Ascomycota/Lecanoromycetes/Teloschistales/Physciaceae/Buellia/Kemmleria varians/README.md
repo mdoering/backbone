@@ -1,5 +1,4 @@
-Kemmleria varians Körb. SPECIES
-=======
+# Kemmleria varians Körb. SPECIES
 
 #### Status
 ACCEPTED

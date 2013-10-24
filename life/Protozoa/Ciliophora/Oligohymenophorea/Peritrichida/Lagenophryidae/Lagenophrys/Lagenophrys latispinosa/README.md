@@ -1,5 +1,4 @@
-Lagenophrys latispinosa Kane, 1965 SPECIES
-=======
+# Lagenophrys latispinosa Kane, 1965 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cytophaga flavicula SPECIES
-=======
+# Cytophaga flavicula SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anodotrichum carneum Preuss SPECIES
-=======
+# Anodotrichum carneum Preuss SPECIES
 
 #### Status
 ACCEPTED

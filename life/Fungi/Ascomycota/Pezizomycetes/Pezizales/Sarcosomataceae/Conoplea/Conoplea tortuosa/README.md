@@ -1,5 +1,4 @@
-Conoplea tortuosa S. Hughes, 1978 SPECIES
-=======
+# Conoplea tortuosa S. Hughes, 1978 SPECIES
 
 #### Status
 ACCEPTED

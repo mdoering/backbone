@@ -1,5 +1,4 @@
-Meliola symplocicola f. symplocicola FORM
-=======
+# Meliola symplocicola W. Yamam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Meliola symplocicola f. symplocicola
+Meliola symplocicola W. Yamam.
 
 ### Remarks
 null

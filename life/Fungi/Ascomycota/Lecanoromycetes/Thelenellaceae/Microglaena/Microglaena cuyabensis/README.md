@@ -1,5 +1,4 @@
-Microglaena cuyabensis (Malme) Zahlbr. SPECIES
-=======
+# Microglaena cuyabensis (Malme) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

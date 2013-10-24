@@ -1,5 +1,4 @@
-Paratrichaegum GENUS
-=======
+# Paratrichaegum GENUS
 
 #### Status
 ACCEPTED

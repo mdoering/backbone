@@ -1,17 +1,16 @@
-Crepinula Kuntze GENUS
-=======
+# Cephalotheca Fuckel GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 850 (1891)
+Jb. nassau. Ver. Naturk. 25-26: 297 (1871)
 
 #### Original name
-Crepinula Kuntze
+Cephalotheca Fuckel
 
 ### Remarks
 null

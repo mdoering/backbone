@@ -1,17 +1,16 @@
-Ceratiomyxella tahitiensis var. neotropicalis L.S. Olive & Stoian. VARIETY
-=======
+# Ceratiomyxella tahitiensis L.S. Olive & Stoian., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. J. Bot. 58(1): 33 (1971)
+Am. J. Bot. 58(1): 32 (1971)
 
 #### Original name
-Ceratiomyxella tahitiensis var. neotropicalis L.S. Olive & Stoian.
+Ceratiomyxella tahitiensis L.S. Olive & Stoian., 1971
 
 ### Remarks
 null

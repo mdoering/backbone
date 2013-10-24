@@ -1,17 +1,16 @@
-Mycochlamys macrosporum S. Marchand & Cabral SPECIES
-=======
+# Mycochlamys macrospora S. Marchand & Cabral, 1976 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Marchand, Cabral & Wright, Boln Soc. argent. Bot. 17(1-2): 67 (1976)
 
 #### Original name
-Mycochlamys macrosporum S. Marchand & Cabral
+Mycochlamys macrospora S. Marchand & Cabral, 1976
 
 ### Remarks
 null

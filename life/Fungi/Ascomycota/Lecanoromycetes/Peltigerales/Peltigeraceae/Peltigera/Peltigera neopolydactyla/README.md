@@ -1,5 +1,4 @@
-Peltigera neopolydactyla (Gyeln.) Gyeln. SPECIES
-=======
+# Peltigera neopolydactyla (Gyeln.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

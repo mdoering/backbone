@@ -1,5 +1,4 @@
-Gyropaigne lefã¨vre Bourrelly & Georg SPECIES
-=======
+# Gyropaigne lefã¨vre Bourrelly & Georg SPECIES
 
 #### Status
 ACCEPTED

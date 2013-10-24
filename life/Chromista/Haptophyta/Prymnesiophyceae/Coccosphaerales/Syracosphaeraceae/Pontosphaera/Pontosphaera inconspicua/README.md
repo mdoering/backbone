@@ -1,5 +1,4 @@
-Pontosphaera inconspicua (Sullivan, 1964) Perch-Nielsen, 1984 SPECIES
-=======
+# Pontosphaera inconspicua (Sullivan, 1964) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mucor oosperus Link SPECIES
-=======
+# Mucor oosporus Link SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Willdenow, Caroli a Linné Species Plantarum exhibentes Plantas Rite Cognitas ad Genera Relatas 1(1): 84 (1824)
 
 #### Original name
-Mucor oosperus Link
+Mucor oosporus Link
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Omphalia psilocyboides P. Karst. SPECIES
-=======
+# Omphalia psilocyboides P. Karst. SPECIES
 
 #### Status
 ACCEPTED

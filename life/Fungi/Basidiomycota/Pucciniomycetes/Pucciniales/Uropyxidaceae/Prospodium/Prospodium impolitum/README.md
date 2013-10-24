@@ -1,5 +1,4 @@
-Prospodium impolitum H.S. Jacks. & Holw. SPECIES
-=======
+# Prospodium impolitum H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

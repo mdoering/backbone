@@ -1,5 +1,4 @@
-Cercospora castaneae A.S. Mull. & Chupp SPECIES
-=======
+# Cercospora castaneae A.S. Mull. & Chupp SPECIES
 
 #### Status
 ACCEPTED

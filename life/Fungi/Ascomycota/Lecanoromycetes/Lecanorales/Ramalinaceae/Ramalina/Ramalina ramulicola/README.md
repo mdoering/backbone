@@ -1,5 +1,4 @@
-Ramalina ramulicola (M. Choisy) Zahlbr. SPECIES
-=======
+# Ramalina ramulicola (M. Choisy) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

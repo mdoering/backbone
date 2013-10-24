@@ -1,5 +1,4 @@
-Sporocarpon ductilum (Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole) Kalgutkar & Janson. SPECIES
-=======
+# Sporocarpon ductilum (Stubblef., T.N. Taylor, C.E. Mill. & G.T. Cole) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

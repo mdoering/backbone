@@ -1,5 +1,4 @@
-Lecidea campestricola Nyl. SPECIES
-=======
+# Lecidea campestricola Nyl. SPECIES
 
 #### Status
 ACCEPTED

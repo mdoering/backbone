@@ -1,5 +1,4 @@
-Peziza pedunculata Schumach. SPECIES
-=======
+# Peziza pedunculata Schumach. SPECIES
 
 #### Status
 ACCEPTED

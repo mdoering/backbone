@@ -1,5 +1,4 @@
-Septoria hookeri Speg. SPECIES
-=======
+# Septoria hookeri Speg. SPECIES
 
 #### Status
 ACCEPTED

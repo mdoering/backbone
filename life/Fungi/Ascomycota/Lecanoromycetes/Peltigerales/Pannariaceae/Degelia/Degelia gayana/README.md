@@ -1,14 +1,13 @@
-Trachyderma gayanum (Mont.) Trevis. SPECIES
-=======
+# Degelia gayana (Mont.) Arv. & D.J. Galloway SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Lichenotheca Veneta 98 (1869)
+Lichenologist 13(1): 44 (1981)
 
 #### Original name
 Parmelia gayana Mont.

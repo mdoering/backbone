@@ -1,5 +1,4 @@
-Phoma bacillospora Dominik SPECIES
-=======
+# Phoma bacillospora Dominik SPECIES
 
 #### Status
 ACCEPTED

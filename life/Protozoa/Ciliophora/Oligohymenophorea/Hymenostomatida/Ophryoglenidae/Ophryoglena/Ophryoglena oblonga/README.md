@@ -1,5 +1,4 @@
-Ophryoglena oblonga Gajevskaja, 1927 SPECIES
-=======
+# Ophryoglena oblonga Gajevskaja, 1927 SPECIES
 
 #### Status
 ACCEPTED

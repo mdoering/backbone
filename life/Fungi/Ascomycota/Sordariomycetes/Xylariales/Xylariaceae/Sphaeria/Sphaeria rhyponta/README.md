@@ -1,5 +1,4 @@
-Sphaeria rhyponta Mont. SPECIES
-=======
+# Sphaeria rhyponta Mont. SPECIES
 
 #### Status
 ACCEPTED

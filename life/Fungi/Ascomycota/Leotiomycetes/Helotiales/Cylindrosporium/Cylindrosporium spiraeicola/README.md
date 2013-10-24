@@ -1,5 +1,4 @@
-Cylindrosporium spiraeicola Ellis & Everh. SPECIES
-=======
+# Cylindrosporium spiraeicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

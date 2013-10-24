@@ -1,5 +1,4 @@
-Lecidea socotrana (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecidea socotrana (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

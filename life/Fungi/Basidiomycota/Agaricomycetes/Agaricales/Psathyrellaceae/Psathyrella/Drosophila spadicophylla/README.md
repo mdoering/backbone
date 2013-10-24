@@ -1,5 +1,4 @@
-Drosophila spadicophylla Romagn. SPECIES
-=======
+# Drosophila spadicophylla Romagn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca intumescens (Bagl.) J. Steiner SPECIES
-=======
+# Caloplaca intumescens (Bagl.) J. Steiner SPECIES
 
 #### Status
 ACCEPTED

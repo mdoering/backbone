@@ -1,5 +1,4 @@
-Puccinia aconiti-elymi Mayor SPECIES
-=======
+# Puccinia aconiti-elymi Mayor SPECIES
 
 #### Status
 ACCEPTED

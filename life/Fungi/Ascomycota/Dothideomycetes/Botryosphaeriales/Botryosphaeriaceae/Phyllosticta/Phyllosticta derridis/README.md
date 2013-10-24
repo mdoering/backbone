@@ -1,5 +1,4 @@
-Phyllosticta derridis Henn. SPECIES
-=======
+# Phyllosticta derridis Henn. SPECIES
 
 #### Status
 ACCEPTED

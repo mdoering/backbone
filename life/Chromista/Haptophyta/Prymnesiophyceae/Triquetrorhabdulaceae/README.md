@@ -1,5 +1,4 @@
-Triquetrorhabdulaceae Lipps, 1969 FAMILY
-=======
+# Triquetrorhabdulaceae Lipps, 1969 FAMILY
 
 #### Status
 ACCEPTED

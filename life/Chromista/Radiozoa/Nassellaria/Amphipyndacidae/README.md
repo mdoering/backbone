@@ -1,5 +1,4 @@
-Amphipyndacidae Riedel, 1967 FAMILY
-=======
+# Amphipyndacidae Riedel, 1967 FAMILY
 
 #### Status
 ACCEPTED

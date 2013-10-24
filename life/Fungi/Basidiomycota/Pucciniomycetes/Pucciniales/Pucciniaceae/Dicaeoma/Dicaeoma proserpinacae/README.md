@@ -1,5 +1,4 @@
-Dicaeoma proserpinacae (Farl.) Kuntze SPECIES
-=======
+# Dicaeoma proserpinacae (Farl.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

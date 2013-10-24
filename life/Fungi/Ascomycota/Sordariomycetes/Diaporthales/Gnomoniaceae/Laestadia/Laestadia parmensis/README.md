@@ -1,5 +1,4 @@
-Laestadia parmensis Pass. SPECIES
-=======
+# Laestadia parmensis Pass. SPECIES
 
 #### Status
 ACCEPTED

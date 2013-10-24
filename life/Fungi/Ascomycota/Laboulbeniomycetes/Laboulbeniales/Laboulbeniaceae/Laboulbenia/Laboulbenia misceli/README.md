@@ -1,5 +1,4 @@
-Laboulbenia misceli Thaxt. SPECIES
-=======
+# Laboulbenia misceli Thaxt. SPECIES
 
 #### Status
 ACCEPTED

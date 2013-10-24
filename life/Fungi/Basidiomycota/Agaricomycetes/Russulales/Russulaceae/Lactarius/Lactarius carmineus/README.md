@@ -1,5 +1,4 @@
-Lactarius carmineus Verbeken SPECIES
-=======
+# Lactarius carmineus Verbeken SPECIES
 
 #### Status
 ACCEPTED

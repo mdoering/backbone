@@ -1,5 +1,4 @@
-Phragmidium apiculatum Rabenh. SPECIES
-=======
+# Phragmidium apiculatum Rabenh. SPECIES
 
 #### Status
 ACCEPTED

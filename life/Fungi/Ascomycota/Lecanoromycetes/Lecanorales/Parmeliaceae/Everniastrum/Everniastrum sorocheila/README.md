@@ -1,5 +1,4 @@
-Everniastrum sorocheila (Vain.) Hale ex Sipman SPECIES
-=======
+# Everniastrum sorocheila (Vain.) Hale ex Sipman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Myxotrichum murinum (Ditmar) Fr. SPECIES
-=======
+# Myxotrichum murinum (Ditmar) Fr. SPECIES
 
 #### Status
 ACCEPTED

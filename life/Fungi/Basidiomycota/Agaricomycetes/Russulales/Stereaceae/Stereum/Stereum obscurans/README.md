@@ -1,5 +1,4 @@
-Stereum obscurans Burt SPECIES
-=======
+# Stereum obscurans Burt SPECIES
 
 #### Status
 ACCEPTED

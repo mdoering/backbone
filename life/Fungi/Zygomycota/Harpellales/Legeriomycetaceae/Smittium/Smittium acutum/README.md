@@ -1,5 +1,4 @@
-Smittium acutum Lichtw. & Grigg, 1998 SPECIES
-=======
+# Smittium acutum Lichtw. & Grigg, 1998 SPECIES
 
 #### Status
 ACCEPTED

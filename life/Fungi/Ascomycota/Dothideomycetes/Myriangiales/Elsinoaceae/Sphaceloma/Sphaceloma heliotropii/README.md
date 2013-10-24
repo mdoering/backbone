@@ -1,5 +1,4 @@
-Sphaceloma heliotropii Bitanc. & Jenkins SPECIES
-=======
+# Sphaceloma heliotropii Bitanc. & Jenkins SPECIES
 
 #### Status
 ACCEPTED

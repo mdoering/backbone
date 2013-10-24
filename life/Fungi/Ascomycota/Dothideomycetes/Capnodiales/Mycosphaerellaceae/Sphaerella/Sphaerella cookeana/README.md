@@ -1,5 +1,4 @@
-Sphaerella cookeana Auersw. SPECIES
-=======
+# Sphaerella cookeana Auersw. SPECIES
 
 #### Status
 ACCEPTED

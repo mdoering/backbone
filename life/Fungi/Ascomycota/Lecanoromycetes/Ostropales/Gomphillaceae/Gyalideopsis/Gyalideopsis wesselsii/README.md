@@ -1,5 +1,4 @@
-Gyalideopsis wesselsii Lücking, Sipman & Chaves SPECIES
-=======
+# Gyalideopsis wesselsii Lücking, Sipman & Chaves SPECIES
 
 #### Status
 ACCEPTED

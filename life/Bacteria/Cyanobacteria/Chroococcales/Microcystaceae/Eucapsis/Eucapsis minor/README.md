@@ -1,8 +1,7 @@
-Eucapsis alpina var. minor Skuja VARIETY
-=======
+# Eucapsis minor (Skuja) Elenkin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

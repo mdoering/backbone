@@ -1,5 +1,4 @@
-Lepiota roseolescens A. Pearson SPECIES
-=======
+# Lepiota roseolescens A. Pearson SPECIES
 
 #### Status
 ACCEPTED

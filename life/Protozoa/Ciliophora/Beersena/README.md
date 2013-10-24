@@ -1,17 +1,16 @@
-Phasmatopsis Deroux, 1978 GENUS
-=======
+# Beersena Yankovsky, 1989 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-Transactions Am. Microsc. Soc. 97 (4): 460.
+Vestn Zool 1989 (2): 86.
 
 #### Original name
-null
+Phasmatopsis Deroux, 1978
 
 ### Remarks
 null

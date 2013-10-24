@@ -1,5 +1,4 @@
-Siropatella stenospora (Berk. & M.A. Curtis) Höhn. SPECIES
-=======
+# Siropatella stenospora (Berk. & M.A. Curtis) Höhn. SPECIES
 
 #### Status
 ACCEPTED

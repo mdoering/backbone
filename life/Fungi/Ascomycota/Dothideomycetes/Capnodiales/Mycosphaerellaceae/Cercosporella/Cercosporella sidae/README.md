@@ -1,5 +1,4 @@
-Cercosporella sidae Henn. SPECIES
-=======
+# Cercosporella sidae Henn. SPECIES
 
 #### Status
 ACCEPTED

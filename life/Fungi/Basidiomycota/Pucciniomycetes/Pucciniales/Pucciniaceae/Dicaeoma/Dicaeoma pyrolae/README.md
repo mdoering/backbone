@@ -1,5 +1,4 @@
-Dicaeoma pyrolae (Cooke) Kuntze SPECIES
-=======
+# Dicaeoma pyrolae (Cooke) Kuntze SPECIES
 
 #### Status
 ACCEPTED

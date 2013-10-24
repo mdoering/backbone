@@ -1,5 +1,4 @@
-Boletus aemilii Barbier SPECIES
-=======
+# Boletus aemilii Barbier SPECIES
 
 #### Status
 ACCEPTED

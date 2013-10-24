@@ -1,5 +1,4 @@
-Psathyrella palustris (Romagn. ex Romagn.) M.M. Moser SPECIES
-=======
+# Psathyrella palustris (Romagn. ex Romagn.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Belonidium meleagris (Ellis) Raitv. SPECIES
-=======
+# Belonidium meleagre (Ellis) Raitv. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Akad. Nauk Estonskoi S. S. R. , Inst. Zool. Bot. , Tartu 48 (1970)
 
 #### Original name
 Peziza meleagris Ellis

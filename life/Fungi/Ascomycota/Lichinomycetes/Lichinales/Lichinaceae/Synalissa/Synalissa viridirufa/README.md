@@ -1,5 +1,4 @@
-Synalissa viridirufa Tuck. SPECIES
-=======
+# Synalissa viridirufa Tuck. SPECIES
 
 #### Status
 ACCEPTED

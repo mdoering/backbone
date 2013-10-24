@@ -1,5 +1,4 @@
-Appendiculella Höhn. GENUS
-=======
+# Appendiculella Höhn. GENUS
 
 #### Status
 ACCEPTED

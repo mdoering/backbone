@@ -1,5 +1,4 @@
-Lophiostoma hepaticarum (P. Crouan & H. Crouan) Aptroot & K.D. Hyde SPECIES
-=======
+# Lophiostoma hepaticarum (P. Crouan & H. Crouan) Aptroot & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

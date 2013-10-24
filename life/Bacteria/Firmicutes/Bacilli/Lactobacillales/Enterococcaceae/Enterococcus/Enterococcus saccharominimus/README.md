@@ -1,5 +1,4 @@
-Enterococcus saccharominimus Vancanneyt et al., 2004 SPECIES
-=======
+# Enterococcus saccharominimus Vancanneyt et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

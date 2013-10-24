@@ -1,5 +1,4 @@
-Sporisorium ordense R.G. Shivas & Vánky SPECIES
-=======
+# Sporisorium ordense R.G. Shivas & Vánky SPECIES
 
 #### Status
 ACCEPTED

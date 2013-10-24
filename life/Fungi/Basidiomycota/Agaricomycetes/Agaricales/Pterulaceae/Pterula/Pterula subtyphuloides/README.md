@@ -1,5 +1,4 @@
-Pterula subtyphuloides Corner SPECIES
-=======
+# Pterula subtyphuloides Corner SPECIES
 
 #### Status
 ACCEPTED

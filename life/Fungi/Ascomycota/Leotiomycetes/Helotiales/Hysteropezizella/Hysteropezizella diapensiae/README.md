@@ -1,5 +1,4 @@
-Hysteropezizella diapensiae Petr. SPECIES
-=======
+# Hysteropezizella diapensiae Petr. SPECIES
 
 #### Status
 ACCEPTED

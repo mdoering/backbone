@@ -1,5 +1,4 @@
-Dactylaria endophytica W.P. Wu, B. Sutton & Gange, 1996 SPECIES
-=======
+# Dactylaria endophytica W.P. Wu, B. Sutton & Gange, 1996 SPECIES
 
 #### Status
 ACCEPTED

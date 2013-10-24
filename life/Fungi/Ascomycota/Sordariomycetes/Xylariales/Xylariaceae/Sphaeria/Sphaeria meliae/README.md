@@ -1,5 +1,4 @@
-Sphaeria meliae Schwein. ex Schwein. SPECIES
-=======
+# Sphaeria meliae Schwein. ex Schwein. SPECIES
 
 #### Status
 ACCEPTED

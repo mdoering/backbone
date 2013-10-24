@@ -1,5 +1,4 @@
-Helotium xeroplasticum Rehm SPECIES
-=======
+# Helotium xeroplasticum Rehm SPECIES
 
 #### Status
 ACCEPTED

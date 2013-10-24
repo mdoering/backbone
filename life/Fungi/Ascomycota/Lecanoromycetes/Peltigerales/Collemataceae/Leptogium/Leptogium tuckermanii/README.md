@@ -1,5 +1,4 @@
-Leptogium tuckermanii C.W. Dodge SPECIES
-=======
+# Leptogium tuckermanii C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

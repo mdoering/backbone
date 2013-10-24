@@ -1,5 +1,4 @@
-Cenangium alpinum Ellis & Everh. SPECIES
-=======
+# Cenangium alpinum Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

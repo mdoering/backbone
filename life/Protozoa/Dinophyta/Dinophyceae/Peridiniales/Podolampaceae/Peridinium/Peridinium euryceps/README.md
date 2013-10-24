@@ -1,5 +1,4 @@
-Peridinium euryceps K. Rengefors & B. Meyer SPECIES
-=======
+# Peridinium euryceps K. Rengefors & B. Meyer SPECIES
 
 #### Status
 ACCEPTED

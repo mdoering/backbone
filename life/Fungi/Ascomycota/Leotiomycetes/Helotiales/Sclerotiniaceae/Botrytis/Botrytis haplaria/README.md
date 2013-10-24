@@ -1,5 +1,4 @@
-Botrytis haplaria Corda SPECIES
-=======
+# Botrytis haplaria Corda SPECIES
 
 #### Status
 ACCEPTED

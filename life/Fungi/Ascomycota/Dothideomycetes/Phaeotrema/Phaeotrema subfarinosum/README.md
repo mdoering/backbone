@@ -1,14 +1,13 @@
-Pyrenula subfarinosa Fée SPECIES
-=======
+# Phaeotrema subfarinosum (Fée) Müll. Arg., 1887 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Phys. Hist. nat. Genève (1887)
 
 #### Original name
 Pyrenula subfarinosa Fée

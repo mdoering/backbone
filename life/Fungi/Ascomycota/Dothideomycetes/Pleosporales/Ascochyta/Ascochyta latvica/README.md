@@ -1,5 +1,4 @@
-Ascochyta latvica Syd. SPECIES
-=======
+# Ascochyta latvica Syd. SPECIES
 
 #### Status
 ACCEPTED

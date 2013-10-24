@@ -1,17 +1,16 @@
-Nesolechia vitellinaria f. vitellinaria FORM
-=======
+# Carbonea vitellinaria (Nyl.) Hertel SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mitt. bot. StSamml. , Münch. 19: 442 (1983)
 
 #### Original name
-null
+Lecidea vitellinaria Nyl.
 
 ### Remarks
 null

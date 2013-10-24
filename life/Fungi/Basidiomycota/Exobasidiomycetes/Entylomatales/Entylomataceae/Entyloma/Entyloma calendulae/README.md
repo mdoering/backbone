@@ -1,17 +1,16 @@
-Entyloma calendulae f. sp FORM
-=======
+# Entyloma calendulae (Oudem.) de Bary, 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Ec. Agric. Grignon 5: 27 (1946)
+Bot. Ztg. 32: 105 (1874)
 
 #### Original name
-Entyloma calendulae f. sp
+Protomyces calendulae Oudem., 1873
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sphaerella conigena Peck, 1885 SPECIES
-=======
+# Sphaerella conigena Peck, 1885 SPECIES
 
 #### Status
 ACCEPTED

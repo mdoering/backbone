@@ -1,5 +1,4 @@
-Isariopsis neoboutoniae Hansf. SPECIES
-=======
+# Isariopsis neoboutoniae Hansf. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Amanita lepiotoides f. lepiotoides FORM
-=======
+# Amanita lepiotoides Barla SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Amanita lepiotoides f. lepiotoides
+Amanita lepiotoides Barla
 
 ### Remarks
 null

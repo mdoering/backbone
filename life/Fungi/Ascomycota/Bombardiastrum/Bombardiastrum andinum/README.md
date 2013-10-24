@@ -1,5 +1,4 @@
-Bombardiastrum andinum Pat., 1893 SPECIES
-=======
+# Bombardiastrum andinum Pat., 1893 SPECIES
 
 #### Status
 ACCEPTED

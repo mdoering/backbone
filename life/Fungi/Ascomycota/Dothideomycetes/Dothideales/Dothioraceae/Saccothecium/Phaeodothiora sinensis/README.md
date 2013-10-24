@@ -1,5 +1,4 @@
-Phaeodothiora sinensis Petr. SPECIES
-=======
+# Phaeodothiora sinensis Petr. SPECIES
 
 #### Status
 ACCEPTED

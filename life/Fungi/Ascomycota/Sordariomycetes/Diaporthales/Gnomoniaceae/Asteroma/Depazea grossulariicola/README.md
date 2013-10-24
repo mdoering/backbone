@@ -1,8 +1,7 @@
-Depazea grossularicola Fr. ex Klotzsch SPECIES
-=======
+# Depazea grossulariicola Fr. ex Klotzsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Depazea grossularicola Fr. ex Klotzsch
+Depazea grossulariicola Fr. ex Klotzsch
 
 ### Remarks
 null

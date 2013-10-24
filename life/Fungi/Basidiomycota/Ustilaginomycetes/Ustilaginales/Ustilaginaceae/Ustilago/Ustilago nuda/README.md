@@ -1,5 +1,4 @@
-Ustilago nuda f. sp FORM
-=======
+# Ustilago nuda (C.N. Jensen) Kellerm. & Swingle SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Angew. Bot. 10: 172 (1928)
+null
 
 #### Original name
-Ustilago nuda f. sp
+null
 
 ### Remarks
 null

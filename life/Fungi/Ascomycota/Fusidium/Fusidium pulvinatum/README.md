@@ -1,5 +1,4 @@
-Fusidium pulvinatum Berk. & Broome SPECIES
-=======
+# Fusidium pulvinatum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

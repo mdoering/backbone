@@ -1,5 +1,4 @@
-Buellia neckerensis H. Magn. SPECIES
-=======
+# Buellia neckerensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

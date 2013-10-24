@@ -1,5 +1,4 @@
-Penicillium grancanariae C. Ramírez, A.T. Martínez & Ferrer, 1978 SPECIES
-=======
+# Penicillium grancanariae C. Ramírez, A.T. Martínez & Ferrer, 1978 SPECIES
 
 #### Status
 ACCEPTED

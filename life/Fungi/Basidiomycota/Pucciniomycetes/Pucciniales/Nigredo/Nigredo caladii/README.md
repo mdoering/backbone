@@ -1,5 +1,4 @@
-Nigredo caladii (Schwein.) Arthur SPECIES
-=======
+# Nigredo caladii (Schwein.) Arthur SPECIES
 
 #### Status
 ACCEPTED

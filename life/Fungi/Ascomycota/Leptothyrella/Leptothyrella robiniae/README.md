@@ -1,5 +1,4 @@
-Leptothyrella robiniae Dearn. SPECIES
-=======
+# Leptothyrella robiniae Dearn. SPECIES
 
 #### Status
 ACCEPTED

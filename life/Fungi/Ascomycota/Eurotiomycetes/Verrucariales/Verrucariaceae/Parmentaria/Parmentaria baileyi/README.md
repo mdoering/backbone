@@ -1,5 +1,4 @@
-Parmentaria baileyi Müll. Arg. SPECIES
-=======
+# Parmentaria baileyi Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

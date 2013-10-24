@@ -1,5 +1,4 @@
-Mycosphaerella asiminae (Ellis & Everh.) Tomilin SPECIES
-=======
+# Mycosphaerella asiminae (Ellis & Everh.) Tomilin SPECIES
 
 #### Status
 ACCEPTED

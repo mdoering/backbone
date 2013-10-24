@@ -1,5 +1,4 @@
-Buellia jajalpae B. de Lesd. SPECIES
-=======
+# Buellia jajalpae B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

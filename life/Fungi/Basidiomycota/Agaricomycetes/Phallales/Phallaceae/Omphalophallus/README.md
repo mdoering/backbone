@@ -1,5 +1,4 @@
-Omphalophallus GENUS
-=======
+# Omphalophallus GENUS
 
 #### Status
 ACCEPTED

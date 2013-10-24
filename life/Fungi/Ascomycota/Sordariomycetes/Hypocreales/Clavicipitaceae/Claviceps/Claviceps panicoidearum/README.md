@@ -1,5 +1,4 @@
-Claviceps panicoidearum Tanda & Y. Harada, 1989 SPECIES
-=======
+# Claviceps panicoidearum Tanda & Y. Harada, 1989 SPECIES
 
 #### Status
 ACCEPTED

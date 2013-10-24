@@ -1,5 +1,4 @@
-Entoloma congregatum G. Stev., 1962 SPECIES
-=======
+# Entoloma congregatum G. Stev., 1962 SPECIES
 
 #### Status
 ACCEPTED

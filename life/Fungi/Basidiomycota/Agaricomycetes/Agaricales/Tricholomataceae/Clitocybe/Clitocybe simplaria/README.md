@@ -1,5 +1,4 @@
-Clitocybe simplaria (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe simplaria (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

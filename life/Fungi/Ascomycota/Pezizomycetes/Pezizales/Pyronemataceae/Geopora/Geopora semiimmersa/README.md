@@ -1,5 +1,4 @@
-Geopora semiimmersa (P. Karst.) SPECIES
-=======
+# Geopora semiimmersa (P. Karst.) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tilletia iowensis (H.H. Hume & Hodson) Cif. SPECIES
-=======
+# Tilletia iowensis (H.H. Hume & Hodson) Cif. SPECIES
 
 #### Status
 ACCEPTED

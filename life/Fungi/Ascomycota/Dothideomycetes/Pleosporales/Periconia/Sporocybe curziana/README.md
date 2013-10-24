@@ -1,5 +1,4 @@
-Sporocybe curziana E.W. Mason SPECIES
-=======
+# Sporocybe curziana E.W. Mason SPECIES
 
 #### Status
 ACCEPTED

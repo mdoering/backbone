@@ -1,5 +1,4 @@
-Opegrapha subgraphidiza Zahlbr. SPECIES
-=======
+# Opegrapha subgraphidiza Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

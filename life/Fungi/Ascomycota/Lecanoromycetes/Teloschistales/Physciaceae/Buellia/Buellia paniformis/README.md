@@ -1,5 +1,4 @@
-Buellia paniformis W. A. Weber SPECIES
-=======
+# Buellia paniformis W. A. Weber SPECIES
 
 #### Status
 ACCEPTED

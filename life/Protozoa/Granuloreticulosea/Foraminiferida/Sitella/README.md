@@ -1,5 +1,4 @@
-Sitella Voloshina, 1974 GENUS
-=======
+# Sitella Voloshina, 1974 GENUS
 
 #### Status
 ACCEPTED

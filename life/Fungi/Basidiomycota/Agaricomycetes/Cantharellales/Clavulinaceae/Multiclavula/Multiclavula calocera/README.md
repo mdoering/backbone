@@ -1,14 +1,13 @@
-Clavulinopsis calocera (G.W. Martin) Corner, 1950 SPECIES
-=======
+# Multiclavula calocera (G.W. Martin) R.H. Petersen, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 360 (1950)
+Am. Midl. Nat. 77: 219 (1967)
 
 #### Original name
 Clavaria calocera G.W. Martin, 1940

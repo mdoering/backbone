@@ -1,5 +1,4 @@
-Aspidella odorata (Beeli) E.-J. Gilbert SPECIES
-=======
+# Aspidella odorata (Beeli) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

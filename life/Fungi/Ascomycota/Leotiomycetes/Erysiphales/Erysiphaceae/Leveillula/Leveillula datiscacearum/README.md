@@ -1,5 +1,4 @@
-Leveillula datiscacearum f. datiscacearum FORM
-=======
+# Leveillula datiscacearum Golovin SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leveillula datiscacearum f. datiscacearum
+Leveillula datiscacearum Golovin
 
 ### Remarks
 null

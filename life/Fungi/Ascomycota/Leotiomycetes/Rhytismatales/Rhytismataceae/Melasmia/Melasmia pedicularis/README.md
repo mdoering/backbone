@@ -1,5 +1,4 @@
-Melasmia pedicularis Siemaszko SPECIES
-=======
+# Melasmia pedicularis Siemaszko SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dothiorella agavicola Petr. SPECIES
-=======
+# Dothiorella agavicola Petr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bolbitius jalapensis Murrill SPECIES
-=======
+# Bolbitius jalapensis Murrill SPECIES
 
 #### Status
 ACCEPTED

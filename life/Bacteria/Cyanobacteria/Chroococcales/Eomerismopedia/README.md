@@ -1,5 +1,4 @@
-Eomerismopedia C.B. Foster, R. Wicander & G. Playford, 2002 GENUS
-=======
+# Eomerismopedia C.B. Foster, R. Wicander & G. Playford, 2002 GENUS
 
 #### Status
 ACCEPTED

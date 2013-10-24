@@ -1,5 +1,4 @@
-Polyporus discolor Klotzsch SPECIES
-=======
+# Polyporus discolor Klotzsch SPECIES
 
 #### Status
 ACCEPTED

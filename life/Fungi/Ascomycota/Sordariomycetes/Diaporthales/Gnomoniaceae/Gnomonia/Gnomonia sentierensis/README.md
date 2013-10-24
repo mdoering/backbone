@@ -1,5 +1,4 @@
-Gnomonia sentierensis M. Monod SPECIES
-=======
+# Gnomonia sentierensis M. Monod SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Saccobolus diaphanus Brumm. SPECIES
-=======
+# Saccobolus diaphanus Brumm. SPECIES
 
 #### Status
 ACCEPTED

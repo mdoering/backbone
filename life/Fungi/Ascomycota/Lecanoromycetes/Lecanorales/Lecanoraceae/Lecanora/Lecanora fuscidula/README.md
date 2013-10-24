@@ -1,5 +1,4 @@
-Lecanora fuscidula Degel. SPECIES
-=======
+# Lecanora fuscidula Degel. SPECIES
 
 #### Status
 ACCEPTED

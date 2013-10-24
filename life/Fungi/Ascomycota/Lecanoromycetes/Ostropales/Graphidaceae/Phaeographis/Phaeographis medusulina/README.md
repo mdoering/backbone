@@ -1,5 +1,4 @@
-Phaeographis medusulina (A. Massal.) Zahlbr. SPECIES
-=======
+# Phaeographis medusulina (A. Massal.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

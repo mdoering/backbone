@@ -1,5 +1,4 @@
-Sargassum kasyotense Yamada SPECIES
-=======
+# Sargassum kasyotense Yamada SPECIES
 
 #### Status
 ACCEPTED

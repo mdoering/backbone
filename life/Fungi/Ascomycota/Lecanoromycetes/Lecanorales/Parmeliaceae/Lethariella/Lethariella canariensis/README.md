@@ -1,14 +1,13 @@
-Alectoria canariensis Ach. SPECIES
-=======
+# Lethariella canariensis (Ach.) Krog SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Norw. Jl Bot. 23(2): 91 (1976)
 
 #### Original name
 Alectoria canariensis Ach.

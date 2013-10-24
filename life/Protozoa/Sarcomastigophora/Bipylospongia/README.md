@@ -1,5 +1,4 @@
-Bipylospongia Noble, 1994 GENUS
-=======
+# Bipylospongia Noble, 1994 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria hederae-himalaicae S. Ahmad SPECIES
-=======
+# Septoria hederae-himalaicae S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

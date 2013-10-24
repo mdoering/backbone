@@ -1,14 +1,13 @@
-Thelotrema sticticum Hale SPECIES
-=======
+# Ocellularia stictica (Hale) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-Ann. Acad. Sci. fenn. , Ser. A 15(6): 182 (1921)
+Mycotaxon 11(1): 137 (1980)
 
 #### Original name
 Thelotrema sticticum Hale

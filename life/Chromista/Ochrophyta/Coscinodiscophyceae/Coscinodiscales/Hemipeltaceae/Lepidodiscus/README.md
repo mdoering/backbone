@@ -1,5 +1,4 @@
-Lepidodiscus Witt, 1886 GENUS
-=======
+# Lepidodiscus Witt, 1886 GENUS
 
 #### Status
 ACCEPTED

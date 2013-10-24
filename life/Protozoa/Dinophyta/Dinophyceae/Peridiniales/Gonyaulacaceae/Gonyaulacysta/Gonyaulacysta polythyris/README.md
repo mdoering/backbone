@@ -1,5 +1,4 @@
-Gonyaulacysta polythyris R.J. Davey SPECIES
-=======
+# Gonyaulacysta polythyris R.J. Davey SPECIES
 
 #### Status
 ACCEPTED

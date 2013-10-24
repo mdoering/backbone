@@ -1,5 +1,4 @@
-Chaetosphaeria rubiginosa (Cooke) Sacc. SPECIES
-=======
+# Chaetosphaeria rubiginosa (Cooke) Sacc. SPECIES
 
 #### Status
 ACCEPTED

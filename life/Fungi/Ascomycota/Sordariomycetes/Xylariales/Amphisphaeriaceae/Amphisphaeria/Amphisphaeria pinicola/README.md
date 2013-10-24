@@ -1,5 +1,4 @@
-Amphisphaeria pinicola Rehm SPECIES
-=======
+# Amphisphaeria pinicola Rehm SPECIES
 
 #### Status
 ACCEPTED

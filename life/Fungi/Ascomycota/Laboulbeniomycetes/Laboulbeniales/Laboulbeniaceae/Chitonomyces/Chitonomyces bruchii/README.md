@@ -1,5 +1,4 @@
-Chitonomyces bruchii Speg. SPECIES
-=======
+# Chitonomyces bruchii Speg. SPECIES
 
 #### Status
 ACCEPTED

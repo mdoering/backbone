@@ -1,5 +1,4 @@
-Dacampia rhizocarpicola D. Hawksw. SPECIES
-=======
+# Dacampia rhizocarpicola D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

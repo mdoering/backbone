@@ -1,5 +1,4 @@
-Stagonospora astragali Hollós SPECIES
-=======
+# Stagonospora astragali Hollós SPECIES
 
 #### Status
 ACCEPTED

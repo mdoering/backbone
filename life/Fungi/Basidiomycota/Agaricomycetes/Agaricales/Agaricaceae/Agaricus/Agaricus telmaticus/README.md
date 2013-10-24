@@ -1,5 +1,4 @@
-Agaricus telmaticus Cooke SPECIES
-=======
+# Agaricus telmaticus Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Elsinoë miconiae (F. Stevens & Weedon) Limber & Bitanc., 1953 SPECIES
-=======
+# Elsinoë miconiae (F. Stevens & Weedon) Limber & Bitanc., 1953 SPECIES
 
 #### Status
 ACCEPTED

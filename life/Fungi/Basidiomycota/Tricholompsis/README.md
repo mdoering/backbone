@@ -1,5 +1,4 @@
-Tricholompsis GENUS
-=======
+# Tricholompsis GENUS
 
 #### Status
 ACCEPTED

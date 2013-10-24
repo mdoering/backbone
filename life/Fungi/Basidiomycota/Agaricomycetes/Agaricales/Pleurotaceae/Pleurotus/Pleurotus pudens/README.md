@@ -1,5 +1,4 @@
-Pleurotus pudens Quél. SPECIES
-=======
+# Pleurotus pudens Quél. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria majuscula Nyl. SPECIES
-=======
+# Verrucaria majuscula Nyl. SPECIES
 
 #### Status
 ACCEPTED

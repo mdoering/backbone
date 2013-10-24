@@ -1,5 +1,4 @@
-Zoothamnium mucedo Entz, 1884 SPECIES
-=======
+# Zoothamnium mucedo Entz, 1884 SPECIES
 
 #### Status
 ACCEPTED

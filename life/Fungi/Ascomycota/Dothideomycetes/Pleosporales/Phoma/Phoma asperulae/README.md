@@ -1,5 +1,4 @@
-Phoma asperulae I.E. Brezhnev SPECIES
-=======
+# Phoma asperulae I.E. Brezhnev SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium chaetomium Wallr. SPECIES
-=======
+# Fusarium chaetomium Wallr. SPECIES
 
 #### Status
 ACCEPTED

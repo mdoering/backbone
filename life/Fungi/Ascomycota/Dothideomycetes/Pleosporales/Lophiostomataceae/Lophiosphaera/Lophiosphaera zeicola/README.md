@@ -1,5 +1,4 @@
-Lophiosphaera zeicola Ellis & Everh. SPECIES
-=======
+# Lophiosphaera zeicola Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

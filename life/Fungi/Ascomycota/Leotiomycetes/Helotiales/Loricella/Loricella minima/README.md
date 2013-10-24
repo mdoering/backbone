@@ -1,5 +1,4 @@
-Loricella minima Velen. SPECIES
-=======
+# Loricella minima Velen. SPECIES
 
 #### Status
 ACCEPTED

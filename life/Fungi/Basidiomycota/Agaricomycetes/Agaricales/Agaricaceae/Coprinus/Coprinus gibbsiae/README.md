@@ -1,17 +1,16 @@
-Coprinus gibbsii Massee & Crossl. SPECIES
-=======
+# Coprinus gibbsiae Massee & Crossl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Naturalist, London 28: 1 (1902)
 
 #### Original name
-Coprinus gibbsii Massee & Crossl.
+Coprinus gibbsiae Massee & Crossl.
 
 ### Remarks
 null

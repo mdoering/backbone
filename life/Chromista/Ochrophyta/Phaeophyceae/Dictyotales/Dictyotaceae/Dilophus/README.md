@@ -1,5 +1,4 @@
-Dilophus J.G. Agardh, 1882 GENUS
-=======
+# Dilophus J.G. Agardh, 1882 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialoascus borealis Redhead & Malloch, 1977 SPECIES
-=======
+# Phialoascus borealis Redhead & Malloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

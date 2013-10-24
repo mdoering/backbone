@@ -1,5 +1,4 @@
-Hebeloma lubriciceps (Kauffman & A.H. Sm.) Hesler & A.H. Sm. SPECIES
-=======
+# Hebeloma lubriciceps (Kauffman & A.H. Sm.) Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

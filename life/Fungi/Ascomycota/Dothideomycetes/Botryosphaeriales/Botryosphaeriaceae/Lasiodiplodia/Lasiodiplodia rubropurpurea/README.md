@@ -1,5 +1,4 @@
-Lasiodiplodia rubropurpurea T.I. Burgess, Barber & Pegg SPECIES
-=======
+# Lasiodiplodia rubropurpurea T.I. Burgess, Barber & Pegg SPECIES
 
 #### Status
 ACCEPTED

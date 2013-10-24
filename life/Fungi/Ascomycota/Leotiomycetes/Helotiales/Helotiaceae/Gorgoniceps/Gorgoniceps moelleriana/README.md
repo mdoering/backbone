@@ -1,5 +1,4 @@
-Gorgoniceps moelleriana Henn. SPECIES
-=======
+# Gorgoniceps moelleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

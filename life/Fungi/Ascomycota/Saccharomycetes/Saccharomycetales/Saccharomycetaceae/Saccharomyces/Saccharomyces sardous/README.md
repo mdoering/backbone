@@ -1,5 +1,4 @@
-Saccharomyces sardous Grixoni {?} SPECIES
-=======
+# Saccharomyces sardous Grixoni {?} SPECIES
 
 #### Status
 ACCEPTED

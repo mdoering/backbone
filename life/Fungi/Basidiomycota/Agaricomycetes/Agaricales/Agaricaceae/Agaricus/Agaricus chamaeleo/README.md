@@ -1,5 +1,4 @@
-Agaricus chamaeleo Batsch SPECIES
-=======
+# Agaricus chamaeleo Batsch SPECIES
 
 #### Status
 ACCEPTED

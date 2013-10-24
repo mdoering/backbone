@@ -1,5 +1,4 @@
-Verrucaria obsoleta Lynge SPECIES
-=======
+# Verrucaria obsoleta Lynge SPECIES
 
 #### Status
 ACCEPTED

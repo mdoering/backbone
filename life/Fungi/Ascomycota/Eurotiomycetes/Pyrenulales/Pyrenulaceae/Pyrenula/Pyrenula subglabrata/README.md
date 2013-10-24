@@ -1,5 +1,4 @@
-Pyrenula subglabrata (Nyl.) Müll. Arg. SPECIES
-=======
+# Pyrenula subglabrata (Nyl.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

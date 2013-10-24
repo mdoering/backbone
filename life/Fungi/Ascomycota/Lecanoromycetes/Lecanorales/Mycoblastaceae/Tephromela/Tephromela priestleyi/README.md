@@ -1,5 +1,4 @@
-Tephromela priestleyi (C.W. Dodge) Øvstedal SPECIES
-=======
+# Tephromela priestleyi (C.W. Dodge) Øvstedal SPECIES
 
 #### Status
 ACCEPTED

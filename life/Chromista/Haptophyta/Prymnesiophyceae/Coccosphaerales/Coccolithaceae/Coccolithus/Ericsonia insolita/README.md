@@ -1,5 +1,4 @@
-Ericsonia insolita Perch-Nielsen, 1971 SPECIES
-=======
+# Ericsonia insolita Perch-Nielsen, 1971 SPECIES
 
 #### Status
 DOUBTFUL

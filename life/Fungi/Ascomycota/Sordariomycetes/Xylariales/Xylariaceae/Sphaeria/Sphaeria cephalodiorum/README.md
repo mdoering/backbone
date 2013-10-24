@@ -1,5 +1,4 @@
-Sphaeria cephalodiorum Rostr. SPECIES
-=======
+# Sphaeria cephalodiorum Rostr. SPECIES
 
 #### Status
 ACCEPTED

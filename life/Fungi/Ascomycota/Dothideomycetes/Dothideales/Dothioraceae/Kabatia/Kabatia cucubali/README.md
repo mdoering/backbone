@@ -1,5 +1,4 @@
-Kabatia cucubali Buchalo SPECIES
-=======
+# Kabatia cucubali Buchalo SPECIES
 
 #### Status
 ACCEPTED

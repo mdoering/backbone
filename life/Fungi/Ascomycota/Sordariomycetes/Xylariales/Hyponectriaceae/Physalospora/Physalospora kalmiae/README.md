@@ -1,5 +1,4 @@
-Physalospora kalmiae F.A. Wolf & A.R. Caval. SPECIES
-=======
+# Physalospora kalmiae F.A. Wolf & A.R. Caval. SPECIES
 
 #### Status
 ACCEPTED

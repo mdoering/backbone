@@ -1,5 +1,4 @@
-Stenella gongronematis (J.M. Yen & Gilles) Deighton SPECIES
-=======
+# Stenella gongronematis (J.M. Yen & Gilles) Deighton SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Nectria miniscula (Sacc. & Speg.) Rossman SPECIES
-=======
+# Nectria minuscula (Sacc. & Speg.) Rossman SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 8(2): 530 (1979)
 
 #### Original name
 Calonectria minuscula Sacc. & Speg.

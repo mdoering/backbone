@@ -1,8 +1,7 @@
-Helminthosporium oryzae-microsporum Hiroë SPECIES
-=======
+# Helminthosporium oryzae-microsporae Hiroë SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Helminthosporium oryzae-microsporum Hiroë
+Helminthosporium oryzae-microsporae Hiroë
 
 ### Remarks
 null

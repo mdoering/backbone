@@ -1,14 +1,13 @@
-Paraparmelia inconspicua Elix SPECIES
-=======
+# Xanthoparmelia inconspicuella Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 59: 411 (1996)
+Mycotaxon 87: 399 (2003)
 
 #### Original name
 Paraparmelia inconspicua Elix

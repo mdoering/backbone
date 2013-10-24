@@ -1,5 +1,4 @@
-Aplosporella salmaliae Tilak & R. Rao SPECIES
-=======
+# Aplosporella salmaliae Tilak & R. Rao SPECIES
 
 #### Status
 ACCEPTED

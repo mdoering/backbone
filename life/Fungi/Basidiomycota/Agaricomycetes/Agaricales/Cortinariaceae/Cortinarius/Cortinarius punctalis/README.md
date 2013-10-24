@@ -1,5 +1,4 @@
-Cortinarius punctalis anon. SPECIES
-=======
+# Cortinarius punctalis anon. SPECIES
 
 #### Status
 ACCEPTED

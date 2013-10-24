@@ -1,5 +1,4 @@
-Didymosphaeria monospermae S.M. Reddy SPECIES
-=======
+# Didymosphaeria monospermae S.M. Reddy SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coprinus panormitanus Inzenga SPECIES
-=======
+# Coprinus panormitanus Inzenga SPECIES
 
 #### Status
 ACCEPTED

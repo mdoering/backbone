@@ -1,5 +1,4 @@
-Graphina hunanensis Zahlbr. SPECIES
-=======
+# Graphina hunanensis Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

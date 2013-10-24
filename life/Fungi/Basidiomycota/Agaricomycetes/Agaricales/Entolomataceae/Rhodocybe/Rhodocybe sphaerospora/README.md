@@ -1,14 +1,13 @@
-Rhodocybe sphaerosporus (Peck) T.J. Baroni SPECIES
-=======
+# Rhodocybe sphaerospora (Peck) T.J. Baroni SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Beih. Nova Hedwigia 67: 70 (1981)
 
 #### Original name
 Clitopilus sphaerosporus Peck

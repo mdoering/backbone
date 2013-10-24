@@ -1,5 +1,4 @@
-Xylaria polytricha Colenso, 1885 SPECIES
-=======
+# Xylaria polytricha Colenso, 1885 SPECIES
 
 #### Status
 ACCEPTED

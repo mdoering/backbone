@@ -1,5 +1,4 @@
-Eccilia zandbaiensis Henn. & E. Nyman SPECIES
-=======
+# Eccilia zandbaiensis Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

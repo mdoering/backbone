@@ -1,5 +1,4 @@
-Craterellus comperi Fr. SPECIES
-=======
+# Craterellus comperi Fr. SPECIES
 
 #### Status
 ACCEPTED

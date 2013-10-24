@@ -1,5 +1,4 @@
-Phomopsis vitimegaspora K.C. Kuo & L.S. Leu SPECIES
-=======
+# Phomopsis vitimegaspora K.C. Kuo & L.S. Leu SPECIES
 
 #### Status
 ACCEPTED

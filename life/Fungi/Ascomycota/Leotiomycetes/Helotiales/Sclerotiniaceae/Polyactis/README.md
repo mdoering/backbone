@@ -1,5 +1,4 @@
-Polyactis GENUS
-=======
+# Polyactis GENUS
 
 #### Status
 ACCEPTED

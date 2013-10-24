@@ -1,5 +1,4 @@
-Sphaerulina xerophylli (Ellis) Cooke SPECIES
-=======
+# Sphaerulina xerophylli (Ellis) Cooke SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyalopsora taiwaniana Hirats. f. SPECIES
-=======
+# Hyalopsora taiwaniana Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

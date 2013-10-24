@@ -1,5 +1,4 @@
-Meliola forbesii Gaillard SPECIES
-=======
+# Meliola forbesii Gaillard SPECIES
 
 #### Status
 ACCEPTED

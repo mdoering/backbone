@@ -1,5 +1,4 @@
-Lepiota fuliginescens Murrill SPECIES
-=======
+# Lepiota fuliginescens Murrill SPECIES
 
 #### Status
 ACCEPTED

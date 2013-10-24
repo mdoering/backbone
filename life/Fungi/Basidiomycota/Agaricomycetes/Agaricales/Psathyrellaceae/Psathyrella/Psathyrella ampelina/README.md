@@ -1,5 +1,4 @@
-Psathyrella ampelina É.E. Foëx & Viala SPECIES
-=======
+# Psathyrella ampelina É.E. Foëx & Viala SPECIES
 
 #### Status
 ACCEPTED

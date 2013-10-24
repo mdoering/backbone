@@ -1,5 +1,4 @@
-Coniothyrium asphodeli Gonz. Frag. SPECIES
-=======
+# Coniothyrium asphodeli Gonz. Frag. SPECIES
 
 #### Status
 ACCEPTED

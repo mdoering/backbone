@@ -1,5 +1,4 @@
-Trullula populi (Preuss) Sacc. SPECIES
-=======
+# Trullula populi (Preuss) Sacc. SPECIES
 
 #### Status
 ACCEPTED

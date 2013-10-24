@@ -1,5 +1,4 @@
-Lamproderma hieroglyphicum Flatau, 1982 SPECIES
-=======
+# Lamproderma hieroglyphicum Flatau, 1982 SPECIES
 
 #### Status
 ACCEPTED

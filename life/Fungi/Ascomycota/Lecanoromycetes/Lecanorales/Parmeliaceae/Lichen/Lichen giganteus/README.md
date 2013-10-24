@@ -1,5 +1,4 @@
-Lichen giganteus Bory SPECIES
-=======
+# Lichen giganteus Bory SPECIES
 
 #### Status
 ACCEPTED

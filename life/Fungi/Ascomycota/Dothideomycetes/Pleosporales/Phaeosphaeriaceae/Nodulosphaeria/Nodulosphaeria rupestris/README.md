@@ -1,5 +1,4 @@
-Nodulosphaeria rupestris (E. Müll.) Crivelli SPECIES
-=======
+# Nodulosphaeria rupestris (E. Müll.) Crivelli SPECIES
 
 #### Status
 ACCEPTED

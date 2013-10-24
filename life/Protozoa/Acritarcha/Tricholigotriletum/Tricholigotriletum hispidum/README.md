@@ -1,5 +1,4 @@
-Tricholigotriletum hispidum Timofeev, 1959 SPECIES
-=======
+# Tricholigotriletum hispidum Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

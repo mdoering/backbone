@@ -1,5 +1,4 @@
-Tylopilus zambianus Watling SPECIES
-=======
+# Tylopilus zambianus Watling SPECIES
 
 #### Status
 ACCEPTED

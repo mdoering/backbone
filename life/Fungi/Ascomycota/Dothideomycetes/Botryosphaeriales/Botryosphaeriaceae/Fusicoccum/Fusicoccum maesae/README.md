@@ -1,5 +1,4 @@
-Fusicoccum maesae Tassi SPECIES
-=======
+# Fusicoccum maesae Tassi SPECIES
 
 #### Status
 ACCEPTED

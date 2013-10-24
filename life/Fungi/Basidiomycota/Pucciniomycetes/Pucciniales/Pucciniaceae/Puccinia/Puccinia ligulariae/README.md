@@ -1,5 +1,4 @@
-Puccinia ligulariae Miyabe & T. Miyake SPECIES
-=======
+# Puccinia ligulariae Miyabe & T. Miyake SPECIES
 
 #### Status
 ACCEPTED

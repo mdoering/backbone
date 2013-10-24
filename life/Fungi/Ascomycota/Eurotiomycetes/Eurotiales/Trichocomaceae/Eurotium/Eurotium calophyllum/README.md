@@ -1,5 +1,4 @@
-Eurotium calophyllum Kuntze SPECIES
-=======
+# Eurotium calophyllum Kuntze SPECIES
 
 #### Status
 ACCEPTED

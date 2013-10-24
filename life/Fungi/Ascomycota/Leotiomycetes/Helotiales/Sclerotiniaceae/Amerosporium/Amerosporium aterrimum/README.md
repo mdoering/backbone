@@ -1,5 +1,4 @@
-Amerosporium aterrimum P. Karst. SPECIES
-=======
+# Amerosporium aterrimum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

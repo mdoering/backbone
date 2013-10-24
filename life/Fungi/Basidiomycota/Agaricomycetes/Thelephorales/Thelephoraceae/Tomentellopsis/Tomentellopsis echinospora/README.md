@@ -1,14 +1,13 @@
-Hypochnus echinosporus (Ellis) Burt, 1916 SPECIES
-=======
+# Tomentellopsis echinospora (Ellis) Hjortstam, 1970 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mo. bot. Gdn 3: 237 (1916)
+Svensk bot. Tidskr. 64(4): 426 (1970)
 
 #### Original name
 Corticium echinosporum Ellis, 1881

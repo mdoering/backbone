@@ -1,5 +1,4 @@
-Coprinus papillatus (Batsch) Fr. SPECIES
-=======
+# Coprinus papillatus (Batsch) Fr. SPECIES
 
 #### Status
 ACCEPTED

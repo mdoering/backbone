@@ -1,5 +1,4 @@
-Clavaria caput-medusae Bull. SPECIES
-=======
+# Clavaria caput-medusae Bull. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Linearistroma Höhn. GENUS
-=======
+# Linearistroma Höhn. GENUS
 
 #### Status
 ACCEPTED

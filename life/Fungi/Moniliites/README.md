@@ -1,5 +1,4 @@
-Moniliites Babajan & Tasl. GENUS
-=======
+# Moniliites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

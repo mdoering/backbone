@@ -1,5 +1,4 @@
-Russula subazurea Bon SPECIES
-=======
+# Russula subazurea Bon SPECIES
 
 #### Status
 ACCEPTED

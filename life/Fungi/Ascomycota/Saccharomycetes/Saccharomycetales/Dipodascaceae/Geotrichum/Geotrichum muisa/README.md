@@ -1,5 +1,4 @@
-Geotrichum muisa (Mattlet) C.W. Dodge SPECIES
-=======
+# Geotrichum muisa (Mattlet) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

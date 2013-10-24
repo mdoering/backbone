@@ -1,5 +1,4 @@
-Scutellospora coralloides (Trappe & Gerd., & Ho) Walker & Sanders SPECIES
-=======
+# Scutellospora coralloides (Trappe & Gerd., & Ho) Walker & Sanders SPECIES
 
 #### Status
 ACCEPTED

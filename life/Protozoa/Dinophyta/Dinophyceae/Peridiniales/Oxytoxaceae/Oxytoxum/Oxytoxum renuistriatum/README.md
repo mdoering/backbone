@@ -1,5 +1,4 @@
-Oxytoxum renuistriatum Rampi SPECIES
-=======
+# Oxytoxum renuistriatum Rampi SPECIES
 
 #### Status
 ACCEPTED

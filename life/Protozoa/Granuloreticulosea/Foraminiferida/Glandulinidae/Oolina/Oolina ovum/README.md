@@ -1,5 +1,4 @@
-Oolina ovum Ehrenberg, 1843 SPECIES
-=======
+# Oolina ovum Ehrenberg, 1843 SPECIES
 
 #### Status
 ACCEPTED

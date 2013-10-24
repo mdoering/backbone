@@ -1,5 +1,4 @@
-Pyrenastrum fuscum Mont. SPECIES
-=======
+# Pyrenastrum fuscum Mont. SPECIES
 
 #### Status
 ACCEPTED

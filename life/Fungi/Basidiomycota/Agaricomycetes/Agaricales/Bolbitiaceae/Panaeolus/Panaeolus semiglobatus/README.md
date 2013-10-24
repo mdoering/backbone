@@ -1,5 +1,4 @@
-Panaeolus semiglobatus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Panaeolus semiglobatus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

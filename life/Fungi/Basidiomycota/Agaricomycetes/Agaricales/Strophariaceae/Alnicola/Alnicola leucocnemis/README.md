@@ -1,5 +1,4 @@
-Alnicola leucocnemis Romagn. SPECIES
-=======
+# Alnicola leucocnemis Romagn. SPECIES
 
 #### Status
 ACCEPTED

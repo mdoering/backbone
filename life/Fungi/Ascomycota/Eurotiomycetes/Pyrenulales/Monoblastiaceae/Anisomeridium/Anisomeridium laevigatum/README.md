@@ -1,5 +1,4 @@
-Anisomeridium laevigatum (P.M. McCarthy) R.C. Harris SPECIES
-=======
+# Anisomeridium laevigatum (P.M. McCarthy) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

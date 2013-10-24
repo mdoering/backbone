@@ -1,5 +1,4 @@
-Lophosphaeridium pyriforme Ouyang Shu et al., 1974 SPECIES
-=======
+# Lophosphaeridium pyriforme Ouyang Shu et al., 1974 SPECIES
 
 #### Status
 ACCEPTED

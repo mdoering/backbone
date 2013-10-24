@@ -1,17 +1,16 @@
-Saprolegnia bhargavii Khulbe & B.L. Verma SPECIES
-=======
+# Saprolegnia bhargavae Khulbe & B.L. Verma SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Nova Hedwigia 44(1-2): 215 (1987)
 
 #### Original name
-Saprolegnia bhargavii Khulbe & B.L. Verma
+Saprolegnia bhargavae Khulbe & B.L. Verma
 
 ### Remarks
 null

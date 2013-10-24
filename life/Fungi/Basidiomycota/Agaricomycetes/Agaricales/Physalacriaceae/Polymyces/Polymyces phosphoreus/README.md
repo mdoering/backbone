@@ -1,5 +1,4 @@
-Polymyces phosphoreus Battarra SPECIES
-=======
+# Polymyces phosphoreus Battarra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heppia kansuensis H. Magn. SPECIES
-=======
+# Heppia kansuensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

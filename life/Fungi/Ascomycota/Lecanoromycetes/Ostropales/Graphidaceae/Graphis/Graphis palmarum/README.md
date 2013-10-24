@@ -1,5 +1,4 @@
-Graphis palmarum (Müll. Arg.) Stizenb. SPECIES
-=======
+# Graphis palmarum (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

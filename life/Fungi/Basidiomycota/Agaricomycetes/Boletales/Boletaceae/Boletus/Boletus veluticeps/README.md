@@ -1,5 +1,4 @@
-Boletus veluticeps Pat. & C.F. Baker SPECIES
-=======
+# Boletus veluticeps Pat. & C.F. Baker SPECIES
 
 #### Status
 ACCEPTED

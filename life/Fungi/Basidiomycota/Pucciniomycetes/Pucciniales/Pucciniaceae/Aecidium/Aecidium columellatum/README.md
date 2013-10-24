@@ -1,17 +1,16 @@
-Aecidium ribi-idaei (Pers.) Oudem. SPECIES
-=======
+# Aecidium columellatum Schumach. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Aecidium columellatum Schumach.
 
 ### Remarks
 null

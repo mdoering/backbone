@@ -1,5 +1,4 @@
-Agaricus micheneri Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus micheneri Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

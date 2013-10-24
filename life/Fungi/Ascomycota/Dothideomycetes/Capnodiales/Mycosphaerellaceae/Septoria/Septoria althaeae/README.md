@@ -1,5 +1,4 @@
-Septoria althaeae Thüm. SPECIES
-=======
+# Septoria althaeae Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phyllosticta decolorans Bubák SPECIES
-=======
+# Phyllosticta decolorans Bubák SPECIES
 
 #### Status
 ACCEPTED

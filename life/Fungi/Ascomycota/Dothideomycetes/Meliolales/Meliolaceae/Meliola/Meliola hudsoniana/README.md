@@ -1,5 +1,4 @@
-Meliola hudsoniana A.H. Sm. SPECIES
-=======
+# Meliola hudsoniana A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

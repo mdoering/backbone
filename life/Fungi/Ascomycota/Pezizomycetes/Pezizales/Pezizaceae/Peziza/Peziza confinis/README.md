@@ -1,5 +1,4 @@
-Peziza confinis P. Karst. SPECIES
-=======
+# Peziza confinis P. Karst. SPECIES
 
 #### Status
 ACCEPTED

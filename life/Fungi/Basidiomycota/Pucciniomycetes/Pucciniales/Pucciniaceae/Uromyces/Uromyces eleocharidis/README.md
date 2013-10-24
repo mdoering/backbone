@@ -1,17 +1,16 @@
-Uromyces heleocharidis Arthur SPECIES
-=======
+# Uromyces eleocharidis Arthur SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Torrey bot. Club 33: 514 (1906)
 
 #### Original name
-Uromyces heleocharidis Arthur
+Uromyces eleocharidis Arthur
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Phyllachora alpiniae Sacc. & Berl., 1885 SPECIES
-=======
+# Phyllachora alpiniae Sacc. & Berl., 1885 SPECIES
 
 #### Status
 DOUBTFUL

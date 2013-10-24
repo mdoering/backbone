@@ -1,5 +1,4 @@
-Cyclogramma trichocystis Stokes, 1894 SPECIES
-=======
+# Cyclogramma trichocystis Stokes, 1894 SPECIES
 
 #### Status
 ACCEPTED

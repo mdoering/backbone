@@ -1,5 +1,4 @@
-Phyllosticta plurivora Woron. SPECIES
-=======
+# Phyllosticta plurivora Woron. SPECIES
 
 #### Status
 ACCEPTED

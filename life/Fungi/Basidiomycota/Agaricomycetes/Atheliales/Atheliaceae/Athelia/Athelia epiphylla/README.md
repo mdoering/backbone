@@ -1,17 +1,16 @@
-Corticium epiphyllum (Pers.) Sacc., 1877 SPECIES
-=======
+# Athelia epiphylla Pers., 1822 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycol. eur. (Erlanga) 1: 84 (1822)
 
 #### Original name
-null
+Athelia epiphylla Pers., 1822
 
 ### Remarks
 null

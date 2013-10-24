@@ -1,5 +1,4 @@
-Spadicesporium acrosporum-majus V.N. Boriss. & Dvoïnos SPECIES
-=======
+# Spadicesporium acrosporum-majus V.N. Boriss. & Dvoïnos SPECIES
 
 #### Status
 ACCEPTED

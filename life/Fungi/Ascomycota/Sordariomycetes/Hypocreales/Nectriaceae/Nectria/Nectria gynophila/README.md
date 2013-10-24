@@ -1,5 +1,4 @@
-Nectria gynophila Döbbeler SPECIES
-=======
+# Nectria gynophila Döbbeler SPECIES
 
 #### Status
 ACCEPTED

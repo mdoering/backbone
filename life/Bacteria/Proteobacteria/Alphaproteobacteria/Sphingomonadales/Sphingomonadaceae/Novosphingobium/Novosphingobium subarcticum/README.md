@@ -1,8 +1,7 @@
-Sphingomonas subarctica Nohynek et al., 1996 SPECIES
-=======
+# Novosphingobium subarcticum (Nohynek et al., 1996) Takeuchi et al., 2001 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

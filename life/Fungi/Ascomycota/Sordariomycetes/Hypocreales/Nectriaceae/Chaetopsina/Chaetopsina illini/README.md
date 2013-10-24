@@ -1,5 +1,4 @@
-Chaetopsina illini (J.L. Crane) M.J. Wingf. SPECIES
-=======
+# Chaetopsina illini (J.L. Crane) M.J. Wingf. SPECIES
 
 #### Status
 ACCEPTED

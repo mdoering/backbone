@@ -1,5 +1,4 @@
-Psora albilabra subsp. deceptoria (Nyl.) Clauzade & Cl. Roux SUBSPECIES
-=======
+# Psora albilabra (Dufour) Körb. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-Bull. Soc. bot. Centre-Ouest, Nouv. sér. , num. spec. 7: 828 (1985)
+null
 
 #### Original name
-Lecidea deceptoria Nyl.
+Biatora albilabra Dufour
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Mycovellosiella hyalofilispora (J.M. Yen) J.M. Yen SPECIES
-=======
+# Mycovellosiella hyalofilispora (J.M. Yen) J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

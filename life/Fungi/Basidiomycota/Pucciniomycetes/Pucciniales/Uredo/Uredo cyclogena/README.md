@@ -1,5 +1,4 @@
-Uredo cyclogena Speg., 1880 SPECIES
-=======
+# Uredo cyclogena Speg., 1880 SPECIES
 
 #### Status
 ACCEPTED

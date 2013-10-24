@@ -1,5 +1,4 @@
-Mycothyridium pallidum (Ellis & Everh.) Petr. SPECIES
-=======
+# Mycothyridium pallidum (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

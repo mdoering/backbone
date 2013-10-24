@@ -1,5 +1,4 @@
-Leptosphaeria bondarii Bitanc. & Jenkins, 1935 SPECIES
-=======
+# Leptosphaeria bondarii Bitanc. & Jenkins, 1935 SPECIES
 
 #### Status
 ACCEPTED

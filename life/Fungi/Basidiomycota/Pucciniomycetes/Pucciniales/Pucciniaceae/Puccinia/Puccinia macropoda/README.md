@@ -1,5 +1,4 @@
-Puccinia macropoda Speg. SPECIES
-=======
+# Puccinia macropoda Speg. SPECIES
 
 #### Status
 ACCEPTED

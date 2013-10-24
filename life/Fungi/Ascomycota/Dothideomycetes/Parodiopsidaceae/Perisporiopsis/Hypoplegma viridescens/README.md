@@ -1,5 +1,4 @@
-Hypoplegma viridescens (Rehm) Theiss. & Syd. SPECIES
-=======
+# Hypoplegma viridescens (Rehm) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

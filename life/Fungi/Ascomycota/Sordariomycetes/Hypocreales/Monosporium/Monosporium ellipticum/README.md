@@ -1,5 +1,4 @@
-Monosporium ellipticum Dasz. SPECIES
-=======
+# Monosporium ellipticum Dasz. SPECIES
 
 #### Status
 ACCEPTED

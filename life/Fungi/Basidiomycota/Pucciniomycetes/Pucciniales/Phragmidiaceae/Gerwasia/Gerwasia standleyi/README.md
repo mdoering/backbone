@@ -1,14 +1,13 @@
-Mainsia standleyi Cummins, 1943 SPECIES
-=======
+# Gerwasia standleyi (Cummins) Cummins & Y. Hirats., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 70: 71 (1943)
+Illustr. Gen. Rust Fungi (St. Paul), <i>rev. Edn</i> 147 (1983)
 
 #### Original name
 Mainsia standleyi Cummins, 1943

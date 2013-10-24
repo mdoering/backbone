@@ -1,14 +1,13 @@
-Hypochnus lilacinoroseus Pat., 1897 SPECIES
-=======
+# Corticium lilacinoroseum (Pat.) Boidin & Lanq., 1983 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Cat. Rais. Pl. Cellul. Tunisie (Paris) 62 (1897)
+Bull. trimest. Soc. mycol. Fr. 99(3): 275 (1983)
 
 #### Original name
 Hypochnus lilacinoroseus Pat., 1897

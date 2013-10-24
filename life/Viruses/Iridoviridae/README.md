@@ -1,5 +1,4 @@
-Iridoviridae FAMILY
-=======
+# Iridoviridae FAMILY
 
 #### Status
 ACCEPTED

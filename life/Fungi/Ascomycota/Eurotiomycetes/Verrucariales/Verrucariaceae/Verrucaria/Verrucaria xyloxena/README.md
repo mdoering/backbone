@@ -1,17 +1,16 @@
-Thelidium velutinoides var. velutinoides VARIETY
-=======
+# Verrucaria xyloxena Norman SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bot. Notiser 87 (1867)
 
 #### Original name
-Thelidium velutinoides var. velutinoides
+Verrucaria xyloxena Norman
 
 ### Remarks
 null

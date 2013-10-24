@@ -1,5 +1,4 @@
-Dactylosporangium matsuzakiense Shomura & Niida, 1983 SPECIES
-=======
+# Dactylosporangium matsuzakiense Shomura & Niida, 1983 SPECIES
 
 #### Status
 ACCEPTED

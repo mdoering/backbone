@@ -1,5 +1,4 @@
-Helvella lactea Boud. SPECIES
-=======
+# Helvella lactea Boud. SPECIES
 
 #### Status
 ACCEPTED

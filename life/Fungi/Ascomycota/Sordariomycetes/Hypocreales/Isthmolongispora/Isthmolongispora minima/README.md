@@ -1,5 +1,4 @@
-Isthmolongispora minima Matsush., 1971 SPECIES
-=======
+# Isthmolongispora minima Matsush., 1971 SPECIES
 
 #### Status
 ACCEPTED

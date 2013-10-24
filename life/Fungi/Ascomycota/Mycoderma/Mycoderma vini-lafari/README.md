@@ -1,5 +1,4 @@
-Mycoderma vini-lafari Zimm. SPECIES
-=======
+# Mycoderma vini-lafari Zimm. SPECIES
 
 #### Status
 ACCEPTED

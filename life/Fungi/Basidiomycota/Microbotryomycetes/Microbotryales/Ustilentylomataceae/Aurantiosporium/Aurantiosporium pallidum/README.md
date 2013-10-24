@@ -1,5 +1,4 @@
-Aurantiosporium pallidum M. Piepenbr., 2001 SPECIES
-=======
+# Aurantiosporium pallidum M. Piepenbr., 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Passalora pomi G.H. Otth SPECIES
-=======
+# Passalora pomi G.H. Otth SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosporium pulchrum Corda, 1840 SPECIES
-=======
+# Botryosporium pulchrum Corda, 1840 SPECIES
 
 #### Status
 ACCEPTED

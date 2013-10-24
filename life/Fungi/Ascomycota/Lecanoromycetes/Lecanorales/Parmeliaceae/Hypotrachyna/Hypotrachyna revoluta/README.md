@@ -1,5 +1,4 @@
-Hypotrachyna revoluta var. revoluta (Flörke) Hale VARIETY
-=======
+# Hypotrachyna revoluta (Flörke) Hale SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 Smithson. Contr. bot. 25: 60 (1975)
 
 #### Original name
-Hypotrachyna revoluta var. revoluta (Flörke) Hale
+Parmelia revoluta
 
 ### Remarks
 null

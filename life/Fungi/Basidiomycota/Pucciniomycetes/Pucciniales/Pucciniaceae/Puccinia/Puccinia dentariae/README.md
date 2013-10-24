@@ -1,5 +1,4 @@
-Puccinia dentariae var. dentariae VARIETY
-=======
+# Puccinia dentariae (Alb. & Schwein.) Fuckel SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Jb. nassau. Ver. Naturk. 25-26: 295 (1871)
 
 #### Original name
-Puccinia dentariae var. dentariae
+Uredo dentariae Alb. & Schwein.
 
 ### Remarks
 null

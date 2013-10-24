@@ -1,5 +1,4 @@
-Macrophoma antarctica J. Feldman SPECIES
-=======
+# Macrophoma antarctica J. Feldman SPECIES
 
 #### Status
 ACCEPTED

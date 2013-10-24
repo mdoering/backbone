@@ -1,5 +1,4 @@
-Uromyces verrucipes Vuill. SPECIES
-=======
+# Uromyces verrucipes Vuill. SPECIES
 
 #### Status
 ACCEPTED

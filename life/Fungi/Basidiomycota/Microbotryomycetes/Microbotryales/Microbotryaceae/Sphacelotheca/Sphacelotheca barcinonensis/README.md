@@ -1,5 +1,4 @@
-Sphacelotheca barcinonensis Riofrio SPECIES
-=======
+# Sphacelotheca barcinonensis Riofrio SPECIES
 
 #### Status
 ACCEPTED

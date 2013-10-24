@@ -1,5 +1,4 @@
-Phomopsina intermediella (Höhn.) H. Ruppr. SPECIES
-=======
+# Phomopsina intermediella (Höhn.) H. Ruppr. SPECIES
 
 #### Status
 ACCEPTED

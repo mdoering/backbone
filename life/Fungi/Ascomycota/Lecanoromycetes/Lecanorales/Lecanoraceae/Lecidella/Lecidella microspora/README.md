@@ -1,5 +1,4 @@
-Lecidella microspora (Nyl.) Arnold SPECIES
-=======
+# Lecidella microspora (Nyl.) Arnold SPECIES
 
 #### Status
 ACCEPTED

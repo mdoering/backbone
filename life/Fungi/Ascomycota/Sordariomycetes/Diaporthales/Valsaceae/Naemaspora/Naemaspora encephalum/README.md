@@ -1,5 +1,4 @@
-Naemaspora encephalum Ehrenb. SPECIES
-=======
+# Naemaspora encephalum Ehrenb. SPECIES
 
 #### Status
 ACCEPTED

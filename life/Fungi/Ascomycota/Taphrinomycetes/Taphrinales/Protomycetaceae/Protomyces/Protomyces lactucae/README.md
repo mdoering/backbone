@@ -1,5 +1,4 @@
-Protomyces lactucae Sawada SPECIES
-=======
+# Protomyces lactucae Sawada SPECIES
 
 #### Status
 ACCEPTED

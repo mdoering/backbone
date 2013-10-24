@@ -1,8 +1,7 @@
-Buellia subpulcella Vain. SPECIES
-=======
+# Buellia subpulchella Vain. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Buellia subpulcella Vain.
+Buellia subpulchella Vain.
 
 ### Remarks
 null

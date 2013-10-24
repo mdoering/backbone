@@ -1,5 +1,4 @@
-Sorosporium monocymbii Syd. SPECIES
-=======
+# Sorosporium monocymbii Syd. SPECIES
 
 #### Status
 ACCEPTED

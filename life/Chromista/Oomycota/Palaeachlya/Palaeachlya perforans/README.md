@@ -1,8 +1,7 @@
-Palaeachlya palaeochlya F.R.S. Duncan SPECIES
-=======
+# Palaeachlya perforans F.R.S. Duncan SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Palaeachlya palaeochlya F.R.S. Duncan
+Palaeachlya perforans F.R.S. Duncan
 
 ### Remarks
 null

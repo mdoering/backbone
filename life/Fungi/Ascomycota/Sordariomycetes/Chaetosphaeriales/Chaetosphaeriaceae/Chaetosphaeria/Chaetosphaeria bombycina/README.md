@@ -1,5 +1,4 @@
-Chaetosphaeria bombycina T.J. Atk., A.N. Mill. & Huhndorf, 2007 SPECIES
-=======
+# Chaetosphaeria bombycina T.J. Atk., A.N. Mill. & Huhndorf, 2007 SPECIES
 
 #### Status
 ACCEPTED

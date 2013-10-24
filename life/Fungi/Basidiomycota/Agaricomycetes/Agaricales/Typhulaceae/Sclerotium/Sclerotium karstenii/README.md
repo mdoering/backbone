@@ -1,5 +1,4 @@
-Sclerotium karstenii Sacc. & P. Syd. SPECIES
-=======
+# Sclerotium karstenii Sacc. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

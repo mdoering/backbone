@@ -1,5 +1,4 @@
-Herpotrichia symphoricarpi (Tracy & Earle) M.E. Barr SPECIES
-=======
+# Herpotrichia symphoricarpi (Tracy & Earle) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

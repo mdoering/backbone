@@ -1,5 +1,4 @@
-Eriocaulago Vánky GENUS
-=======
+# Eriocaulago Vánky GENUS
 
 #### Status
 ACCEPTED

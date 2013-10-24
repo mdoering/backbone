@@ -1,5 +1,4 @@
-Gloeoporus bourdotii (Pilát) Bondartsev & Singer SPECIES
-=======
+# Gloeoporus bourdotii (Pilát) Bondartsev & Singer SPECIES
 
 #### Status
 ACCEPTED

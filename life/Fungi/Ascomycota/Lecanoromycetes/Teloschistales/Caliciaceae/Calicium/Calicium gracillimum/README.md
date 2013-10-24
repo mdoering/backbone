@@ -1,5 +1,4 @@
-Calicium gracillimum F. Wilson SPECIES
-=======
+# Calicium gracillimum F. Wilson SPECIES
 
 #### Status
 ACCEPTED

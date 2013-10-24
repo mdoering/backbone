@@ -1,5 +1,4 @@
-Didymosphaeria verrucispora S. Ahmad SPECIES
-=======
+# Didymosphaeria verrucispora S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

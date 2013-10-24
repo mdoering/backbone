@@ -1,5 +1,4 @@
-Clavaria rhodochroa Mont. SPECIES
-=======
+# Clavaria rhodochroa Mont. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Spatoglossum cornigerum J. Agardh SPECIES
-=======
+# Spatoglossum pacificum Yendo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

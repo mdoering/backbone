@@ -1,5 +1,4 @@
-Fusarium zavianum (Sacc.) Sacc. SPECIES
-=======
+# Fusarium zavianum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporormia polymera Cain SPECIES
-=======
+# Sporormia polymera Cain SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora confluens Lieneman SPECIES
-=======
+# Cercospora confluens Lieneman SPECIES
 
 #### Status
 ACCEPTED

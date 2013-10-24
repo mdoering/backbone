@@ -1,5 +1,4 @@
-Humaria pygmaea (Clem.) K.S. Thind & Sethi {?} SPECIES
-=======
+# Humaria pygmaea (Clem.) K.S. Thind & Sethi {?} SPECIES
 
 #### Status
 ACCEPTED

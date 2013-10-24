@@ -1,17 +1,16 @@
-Physcia dimidiata f. dimidiata FORM
-=======
+# Physcia dimidiata (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Physcia dimidiata f. dimidiata
+Parmelia pulverulenta var. dimidiata Arnold
 
 ### Remarks
 null

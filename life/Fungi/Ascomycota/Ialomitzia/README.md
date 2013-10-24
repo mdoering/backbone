@@ -1,5 +1,4 @@
-Ialomitzia Gruia GENUS
-=======
+# Ialomitzia Gruia GENUS
 
 #### Status
 ACCEPTED

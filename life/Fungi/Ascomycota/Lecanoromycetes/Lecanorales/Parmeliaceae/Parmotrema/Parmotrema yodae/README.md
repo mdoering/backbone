@@ -1,5 +1,4 @@
-Parmotrema yodae (Kurok.) Hale SPECIES
-=======
+# Parmotrema yodae (Kurok.) Hale SPECIES
 
 #### Status
 ACCEPTED

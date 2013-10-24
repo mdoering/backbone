@@ -1,5 +1,4 @@
-Lagynophrya armata Kahl, 1935 SPECIES
-=======
+# Lagynophrya armata Kahl, 1935 SPECIES
 
 #### Status
 ACCEPTED

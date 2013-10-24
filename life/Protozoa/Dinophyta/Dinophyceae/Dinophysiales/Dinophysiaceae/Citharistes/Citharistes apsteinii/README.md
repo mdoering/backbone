@@ -1,5 +1,4 @@
-Citharistes apsteinii Schütt, 1895 SPECIES
-=======
+# Citharistes apsteinii Schütt, 1895 SPECIES
 
 #### Status
 ACCEPTED

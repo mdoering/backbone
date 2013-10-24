@@ -1,5 +1,4 @@
-Scutula abietina Velen. SPECIES
-=======
+# Scutula abietina Velen. SPECIES
 
 #### Status
 ACCEPTED

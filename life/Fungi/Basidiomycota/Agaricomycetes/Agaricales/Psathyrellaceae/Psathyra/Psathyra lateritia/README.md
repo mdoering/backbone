@@ -1,5 +1,4 @@
-Psathyra lateritia Murrill SPECIES
-=======
+# Psathyra lateritia Murrill SPECIES
 
 #### Status
 ACCEPTED

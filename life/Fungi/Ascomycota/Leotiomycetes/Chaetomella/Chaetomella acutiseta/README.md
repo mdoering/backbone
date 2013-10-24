@@ -1,17 +1,16 @@
-Chaetomella acutiseta var. acutiseta VARIETY
-=======
+# Chaetomella acutiseta B. Sutton & A.K. Sarbhoy, 1976 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Trans. Br. mycol. Soc. 66(2): 299 (1976)
 
 #### Original name
-Chaetomella acutiseta var. acutiseta
+Chaetomella acutiseta B. Sutton & A.K. Sarbhoy, 1976
 
 ### Remarks
 null

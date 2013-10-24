@@ -1,11 +1,10 @@
-Proteus stuartii Buttiaux et al., 1954 SPECIES
-=======
+# Providencia stuartii (Buttiaux et al., 1954) Ewing, 1962 (Approved Lists, 1980) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

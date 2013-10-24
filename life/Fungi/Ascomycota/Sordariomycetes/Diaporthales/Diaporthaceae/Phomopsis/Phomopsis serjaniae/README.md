@@ -1,5 +1,4 @@
-Phomopsis serjaniae Gutner SPECIES
-=======
+# Phomopsis serjaniae Gutner SPECIES
 
 #### Status
 ACCEPTED

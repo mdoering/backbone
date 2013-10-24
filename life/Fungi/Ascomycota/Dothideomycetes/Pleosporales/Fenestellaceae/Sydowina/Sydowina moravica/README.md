@@ -1,5 +1,4 @@
-Sydowina moravica Petr. SPECIES
-=======
+# Sydowina moravica Petr. SPECIES
 
 #### Status
 ACCEPTED

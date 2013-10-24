@@ -1,5 +1,4 @@
-Mastigothrix Reinsch, 1867 GENUS
-=======
+# Mastigothrix Reinsch, 1867 GENUS
 
 #### Status
 ACCEPTED

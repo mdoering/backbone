@@ -1,5 +1,4 @@
-Menegazzia amabilis (Zahlbr.) W. Martin & J. Child SPECIES
-=======
+# Menegazzia amabilis (Zahlbr.) W. Martin & J. Child SPECIES
 
 #### Status
 ACCEPTED

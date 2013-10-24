@@ -1,5 +1,4 @@
-Helichona alterans Jankowski, 1972 SPECIES
-=======
+# Helichona alterans Jankowski, 1972 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Umbilicaria mifafensis V. Marcano & A. Morales SPECIES
-=======
+# Umbilicaria mifafensis V. Marcano & A. Morales SPECIES
 
 #### Status
 ACCEPTED

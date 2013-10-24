@@ -1,5 +1,4 @@
-Stigmella maximum (Eichelb.) Sacc. SPECIES
-=======
+# Stigmella maximum (Eichelb.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

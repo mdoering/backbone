@@ -1,5 +1,4 @@
-Bactrodesmium pellucidum Grove SPECIES
-=======
+# Bactrodesmium pellucidum Grove SPECIES
 
 #### Status
 ACCEPTED

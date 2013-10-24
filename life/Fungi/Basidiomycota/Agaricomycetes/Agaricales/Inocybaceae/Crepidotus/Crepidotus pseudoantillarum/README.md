@@ -1,5 +1,4 @@
-Crepidotus pseudoantillarum Bandala, Montoya & M. Mata SPECIES
-=======
+# Crepidotus pseudoantillarum Bandala, Montoya & M. Mata SPECIES
 
 #### Status
 ACCEPTED

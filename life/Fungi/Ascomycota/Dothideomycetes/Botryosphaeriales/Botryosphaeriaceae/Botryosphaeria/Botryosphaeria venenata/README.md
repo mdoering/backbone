@@ -1,5 +1,4 @@
-Botryosphaeria venenata (Cooke & Ellis) Sacc. SPECIES
-=======
+# Botryosphaeria venenata (Cooke & Ellis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

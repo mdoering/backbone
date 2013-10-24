@@ -1,5 +1,4 @@
-Neoarachnotheca keratinophila Ulfig, Cano & Guarro, 1997 SPECIES
-=======
+# Neoarachnotheca keratinophila Ulfig, Cano & Guarro, 1997 SPECIES
 
 #### Status
 ACCEPTED

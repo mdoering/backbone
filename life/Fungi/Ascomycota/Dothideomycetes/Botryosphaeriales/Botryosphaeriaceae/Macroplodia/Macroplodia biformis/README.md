@@ -1,5 +1,4 @@
-Macroplodia biformis (Peck) Kuntze SPECIES
-=======
+# Macroplodia biformis (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

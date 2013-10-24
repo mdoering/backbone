@@ -1,5 +1,4 @@
-Clitocybe jamaicensis Dennis SPECIES
-=======
+# Clitocybe jamaicensis Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Julella celastrina Tilak SPECIES
-=======
+# Julella celastrina Tilak SPECIES
 
 #### Status
 ACCEPTED

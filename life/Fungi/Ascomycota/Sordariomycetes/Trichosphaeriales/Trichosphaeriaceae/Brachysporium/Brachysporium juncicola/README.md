@@ -1,5 +1,4 @@
-Brachysporium juncicola (Rabenh.) Sacc. SPECIES
-=======
+# Brachysporium juncicola (Rabenh.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

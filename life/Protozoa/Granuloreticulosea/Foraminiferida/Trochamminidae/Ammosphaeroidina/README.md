@@ -1,5 +1,4 @@
-Ammosphaeroidina Cushman, 1910 GENUS
-=======
+# Ammosphaeroidina Cushman, 1910 GENUS
 
 #### Status
 ACCEPTED

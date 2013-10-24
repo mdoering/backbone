@@ -1,5 +1,4 @@
-Aspergillus paradoxus Fennell & Raper, 1955 SPECIES
-=======
+# Aspergillus paradoxus Fennell & Raper, 1955 SPECIES
 
 #### Status
 ACCEPTED

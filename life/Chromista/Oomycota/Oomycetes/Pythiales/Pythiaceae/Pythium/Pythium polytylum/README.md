@@ -1,5 +1,4 @@
-Pythium polytylum Drechsler SPECIES
-=======
+# Pythium polytylum Drechsler SPECIES
 
 #### Status
 ACCEPTED

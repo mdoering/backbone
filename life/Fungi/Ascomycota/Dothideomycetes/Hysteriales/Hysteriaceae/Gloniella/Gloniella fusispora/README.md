@@ -1,5 +1,4 @@
-Gloniella fusispora Sacc. & Paol. SPECIES
-=======
+# Gloniella fusispora Sacc. & Paol. SPECIES
 
 #### Status
 ACCEPTED

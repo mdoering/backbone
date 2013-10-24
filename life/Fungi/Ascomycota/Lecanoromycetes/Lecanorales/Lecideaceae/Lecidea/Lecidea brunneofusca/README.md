@@ -1,5 +1,4 @@
-Lecidea brunneofusca H. Magn. SPECIES
-=======
+# Lecidea brunneofusca H. Magn. SPECIES
 
 #### Status
 ACCEPTED

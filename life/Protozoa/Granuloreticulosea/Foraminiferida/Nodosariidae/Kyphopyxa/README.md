@@ -1,5 +1,4 @@
-Kyphopyxa Cushman, 1929 GENUS
-=======
+# Kyphopyxa Cushman, 1929 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alzonella Bernier & Neumann, 1970 GENUS
-=======
+# Alzonella Bernier & Neumann, 1970 GENUS
 
 #### Status
 ACCEPTED

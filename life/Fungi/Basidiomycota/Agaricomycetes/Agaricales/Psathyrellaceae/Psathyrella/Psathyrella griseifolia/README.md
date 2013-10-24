@@ -1,5 +1,4 @@
-Psathyrella griseifolia A.H. Sm. SPECIES
-=======
+# Psathyrella griseifolia A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

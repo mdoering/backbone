@@ -1,8 +1,7 @@
-Leotia bulliardi Pers. SPECIES
-=======
+# Leotia bulliardii Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leotia bulliardi Pers.
+Leotia bulliardii Pers.
 
 ### Remarks
 null

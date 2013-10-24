@@ -1,5 +1,4 @@
-Blastenia quadrilocularis (Nyl.) Zahlbr. SPECIES
-=======
+# Blastenia quadrilocularis (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

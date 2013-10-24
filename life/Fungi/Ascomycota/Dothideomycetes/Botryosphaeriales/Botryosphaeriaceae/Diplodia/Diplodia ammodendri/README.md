@@ -1,5 +1,4 @@
-Diplodia ammodendri Nasyrov SPECIES
-=======
+# Diplodia ammodendri Nasyrov SPECIES
 
 #### Status
 ACCEPTED

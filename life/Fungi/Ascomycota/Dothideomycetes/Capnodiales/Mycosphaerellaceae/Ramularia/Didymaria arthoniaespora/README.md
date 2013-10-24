@@ -1,5 +1,4 @@
-Didymaria arthoniaespora Fairm. SPECIES
-=======
+# Didymaria arthoniaespora Fairm. SPECIES
 
 #### Status
 ACCEPTED

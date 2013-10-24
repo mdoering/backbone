@@ -1,17 +1,16 @@
-Camarosporium lyciicolae Kravtzev SPECIES
-=======
+# Camarosporium lyciicola (Speg.) Sacc. & Trotter SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 22: 1079 (1913)
 
 #### Original name
-Camarosporium lyciicolae Kravtzev
+Septoria lyciicola Speg.
 
 ### Remarks
 null

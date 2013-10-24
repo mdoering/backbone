@@ -1,5 +1,4 @@
-Mikhailovella GENUS
-=======
+# Mikhailovella GENUS
 
 #### Status
 ACCEPTED

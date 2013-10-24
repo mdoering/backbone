@@ -1,5 +1,4 @@
-Aecidium dichondrae Har. SPECIES
-=======
+# Aecidium dichondrae Har. SPECIES
 
 #### Status
 ACCEPTED

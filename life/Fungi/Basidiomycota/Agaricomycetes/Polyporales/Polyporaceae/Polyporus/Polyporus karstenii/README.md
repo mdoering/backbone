@@ -1,5 +1,4 @@
-Polyporus karstenii Sacc. SPECIES
-=======
+# Polyporus karstenii Sacc. SPECIES
 
 #### Status
 ACCEPTED

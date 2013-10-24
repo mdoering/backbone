@@ -1,5 +1,4 @@
-Asterostroma persimile Wakef., 1915 SPECIES
-=======
+# Asterostroma persimile Wakef., 1915 SPECIES
 
 #### Status
 ACCEPTED

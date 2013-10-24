@@ -1,5 +1,4 @@
-Mycosphaerella marksii Carnegie & Keane, 1994 SPECIES
-=======
+# Mycosphaerella marksii Carnegie & Keane, 1994 SPECIES
 
 #### Status
 ACCEPTED

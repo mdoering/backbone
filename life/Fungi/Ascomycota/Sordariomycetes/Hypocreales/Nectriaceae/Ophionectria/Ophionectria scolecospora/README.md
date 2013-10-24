@@ -1,5 +1,4 @@
-Ophionectria scolecospora Bref. & Tavel SPECIES
-=======
+# Ophionectria scolecospora Bref. & Tavel SPECIES
 
 #### Status
 ACCEPTED

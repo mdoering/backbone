@@ -1,5 +1,4 @@
-Psilocybe yungensis Singer & A.H. Sm. SPECIES
-=======
+# Psilocybe yungensis Singer & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

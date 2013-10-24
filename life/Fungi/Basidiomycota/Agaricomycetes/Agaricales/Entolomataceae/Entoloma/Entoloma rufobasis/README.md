@@ -1,5 +1,4 @@
-Entoloma rufobasis G.M. Gates & Noordel. SPECIES
-=======
+# Entoloma rufobasis G.M. Gates & Noordel. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stagonospora hysterioides (P. Karst.) Sacc. SPECIES
-=======
+# Stagonospora hysterioides (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

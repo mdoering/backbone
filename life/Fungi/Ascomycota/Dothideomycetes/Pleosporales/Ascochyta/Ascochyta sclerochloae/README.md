@@ -1,5 +1,4 @@
-Ascochyta sclerochloae Punith. SPECIES
-=======
+# Ascochyta sclerochloae Punith. SPECIES
 
 #### Status
 ACCEPTED

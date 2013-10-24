@@ -1,5 +1,4 @@
-Lecidea plumbea Garov. SPECIES
-=======
+# Lecidea plumbea Garov. SPECIES
 
 #### Status
 ACCEPTED

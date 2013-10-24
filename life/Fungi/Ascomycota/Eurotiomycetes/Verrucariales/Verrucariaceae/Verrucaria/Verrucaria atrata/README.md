@@ -1,5 +1,4 @@
-Verrucaria atrata Hoffm. SPECIES
-=======
+# Verrucaria atrata Hoffm. SPECIES
 
 #### Status
 ACCEPTED

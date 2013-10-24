@@ -1,5 +1,4 @@
-Inocybe hotsoniana D.E. Stuntz SPECIES
-=======
+# Inocybe hotsoniana D.E. Stuntz SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporidesmium atrofuscum Cooke SPECIES
-=======
+# Sporidesmium atrofuscum Cooke SPECIES
 
 #### Status
 ACCEPTED

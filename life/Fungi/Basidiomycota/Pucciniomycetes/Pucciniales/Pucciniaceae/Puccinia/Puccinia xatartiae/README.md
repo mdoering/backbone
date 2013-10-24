@@ -1,5 +1,4 @@
-Puccinia xatartiae Durrieu SPECIES
-=======
+# Puccinia xatartiae Durrieu SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Siphula medioxima Nyl. SPECIES
-=======
+# Siphula medioxima Nyl. SPECIES
 
 #### Status
 ACCEPTED

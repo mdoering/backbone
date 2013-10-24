@@ -1,5 +1,4 @@
-Schizophyllum fasciatum Pat., 1887 SPECIES
-=======
+# Schizophyllum fasciatum Pat., 1887 SPECIES
 
 #### Status
 ACCEPTED

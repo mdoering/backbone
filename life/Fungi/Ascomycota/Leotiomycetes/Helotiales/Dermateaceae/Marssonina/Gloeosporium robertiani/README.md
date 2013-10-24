@@ -1,5 +1,4 @@
-Gloeosporium robertiani Cruchet SPECIES
-=======
+# Gloeosporium robertiani Cruchet SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Darwiniella Spegazzini, 1887 GENUS
-=======
+# Darwiniella Spegazzini, 1887 GENUS
 
 #### Status
 ACCEPTED

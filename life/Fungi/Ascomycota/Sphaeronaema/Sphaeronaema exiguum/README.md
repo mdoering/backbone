@@ -1,5 +1,4 @@
-Sphaeronaema exiguum P. Karst. SPECIES
-=======
+# Sphaeronaema exiguum P. Karst. SPECIES
 
 #### Status
 ACCEPTED

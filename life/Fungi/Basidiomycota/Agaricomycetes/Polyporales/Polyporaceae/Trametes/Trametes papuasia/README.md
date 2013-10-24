@@ -1,5 +1,4 @@
-Trametes papuasia Corner SPECIES
-=======
+# Trametes papuasia Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Mucor dispersus var. dispersus Hagem VARIETY
-=======
+# Backusella lamprospora (Lendn.) Benny & R.K. Benj., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 8: 271 (1910)
+Aliso 8(3): 320 (1975)
 
 #### Original name
-Mucor dispersus var. dispersus Hagem
+Mucor lamprosporus Lendn., 1907
 
 ### Remarks
 null

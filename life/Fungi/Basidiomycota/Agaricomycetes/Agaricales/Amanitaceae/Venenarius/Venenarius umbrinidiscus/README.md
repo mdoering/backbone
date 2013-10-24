@@ -1,5 +1,4 @@
-Venenarius umbrinidiscus Murrill SPECIES
-=======
+# Venenarius umbrinidiscus Murrill SPECIES
 
 #### Status
 ACCEPTED

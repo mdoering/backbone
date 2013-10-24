@@ -1,5 +1,4 @@
-Bacidia filiformis Räsänen SPECIES
-=======
+# Bacidia filiformis Räsänen SPECIES
 
 #### Status
 ACCEPTED

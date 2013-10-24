@@ -1,17 +1,16 @@
-Goupilia Mérat GENUS
-=======
+# Scleroderma Persoon, 1801 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nouv. Fl. Environs Paris, Edn 3 1: 91 (1834)
+Syn. meth. fung. (Göttingen) 1: xiv, 150 (1801)
 
 #### Original name
-Goupilia Mérat
+Scleroderma Persoon, 1801
 
 ### Remarks
 null

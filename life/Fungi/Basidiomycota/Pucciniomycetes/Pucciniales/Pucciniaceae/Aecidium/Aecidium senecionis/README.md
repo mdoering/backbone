@@ -1,17 +1,16 @@
-Aecidium senecionis f. capensis Cooke FORM
-=======
+# Aecidium senecionis Desm., 1836 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 2 6: 243 (1836)
 
 #### Original name
-Aecidium senecionis f. capensis Cooke
+Aecidium senecionis Desm., 1836
 
 ### Remarks
 null

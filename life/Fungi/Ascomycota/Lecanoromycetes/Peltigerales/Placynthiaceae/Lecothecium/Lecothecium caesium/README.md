@@ -1,5 +1,4 @@
-Lecothecium caesium (Ach.) Syd. SPECIES
-=======
+# Lecothecium caesium (Ach.) Syd. SPECIES
 
 #### Status
 ACCEPTED

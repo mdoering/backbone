@@ -1,5 +1,4 @@
-Endophyllum blumeae (Henn.) F. Stevens & Mendiola SPECIES
-=======
+# Endophyllum blumeae (Henn.) F. Stevens & Mendiola SPECIES
 
 #### Status
 ACCEPTED

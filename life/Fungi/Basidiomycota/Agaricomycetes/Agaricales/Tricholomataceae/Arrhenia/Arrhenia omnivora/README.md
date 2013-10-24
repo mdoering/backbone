@@ -1,14 +1,13 @@
-Leptoglossum omnivorum Agerer, 1984 SPECIES
-=======
+# Arrhenia omnivora (Agerer) Redhead, Lutzoni, Moncalvo & Vilgalys, 2002 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 82(1): 184 (1984)
+Mycotaxon 83: 47 (2002)
 
 #### Original name
 Leptoglossum omnivorum Agerer, 1984

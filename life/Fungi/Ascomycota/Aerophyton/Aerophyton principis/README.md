@@ -1,5 +1,4 @@
-Aerophyton principis Eschw. SPECIES
-=======
+# Aerophyton principis Eschw. SPECIES
 
 #### Status
 ACCEPTED

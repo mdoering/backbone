@@ -1,5 +1,4 @@
-Tilletia lolioli Vánky, Carris, Castl. & H. Scholz, 2005 SPECIES
-=======
+# Tilletia lolioli Vánky, Carris, Castl. & H. Scholz, 2005 SPECIES
 
 #### Status
 ACCEPTED

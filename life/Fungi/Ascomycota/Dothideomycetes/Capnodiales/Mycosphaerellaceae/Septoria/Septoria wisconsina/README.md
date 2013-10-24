@@ -1,5 +1,4 @@
-Septoria wisconsina H.C. Greene SPECIES
-=======
+# Septoria wisconsina H.C. Greene SPECIES
 
 #### Status
 ACCEPTED

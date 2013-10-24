@@ -1,5 +1,4 @@
-Diplotomma trifractum (J. Steiner) Szatala SPECIES
-=======
+# Diplotomma trifractum (J. Steiner) Szatala SPECIES
 
 #### Status
 ACCEPTED

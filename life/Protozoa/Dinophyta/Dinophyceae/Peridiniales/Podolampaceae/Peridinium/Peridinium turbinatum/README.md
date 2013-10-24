@@ -1,5 +1,4 @@
-Peridinium turbinatum Mangin, 1926 SPECIES
-=======
+# Peridinium turbinatum Mangin, 1926 SPECIES
 
 #### Status
 ACCEPTED

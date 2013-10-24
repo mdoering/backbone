@@ -1,5 +1,4 @@
-Leptospora felina Fuckel SPECIES
-=======
+# Leptospora felina Fuckel SPECIES
 
 #### Status
 ACCEPTED

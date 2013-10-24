@@ -1,5 +1,4 @@
-Clypeococcum D. Hawksw. GENUS
-=======
+# Clypeococcum D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

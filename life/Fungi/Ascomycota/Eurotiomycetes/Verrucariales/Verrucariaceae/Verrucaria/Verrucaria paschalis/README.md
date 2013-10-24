@@ -1,5 +1,4 @@
-Verrucaria paschalis (L.) Humb. SPECIES
-=======
+# Verrucaria paschalis (L.) Humb. SPECIES
 
 #### Status
 ACCEPTED

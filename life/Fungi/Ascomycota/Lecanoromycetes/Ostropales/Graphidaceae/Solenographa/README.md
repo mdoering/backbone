@@ -1,5 +1,4 @@
-Solenographa GENUS
-=======
+# Solenographa GENUS
 
 #### Status
 ACCEPTED

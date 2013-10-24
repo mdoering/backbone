@@ -1,5 +1,4 @@
-Almeidaea pulchra Bat. & Cavalc. SPECIES
-=======
+# Almeidaea pulchra Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

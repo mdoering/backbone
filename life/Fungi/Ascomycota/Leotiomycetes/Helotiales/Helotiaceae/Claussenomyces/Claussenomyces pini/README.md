@@ -1,5 +1,4 @@
-Claussenomyces pini A. Funk SPECIES
-=======
+# Claussenomyces pini A. Funk SPECIES
 
 #### Status
 ACCEPTED

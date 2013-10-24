@@ -1,5 +1,4 @@
-Pleospora sideritidis Hollós SPECIES
-=======
+# Pleospora sideritidis Hollós SPECIES
 
 #### Status
 ACCEPTED

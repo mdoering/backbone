@@ -1,5 +1,4 @@
-Inocybe subroindica Banning & Peck SPECIES
-=======
+# Inocybe subroindica Banning & Peck SPECIES
 
 #### Status
 ACCEPTED

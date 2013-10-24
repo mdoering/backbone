@@ -1,5 +1,4 @@
-Acarospora endocarpea (Fr.) Flagey SPECIES
-=======
+# Acarospora endocarpea (Fr.) Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Allisonella histaminiformans Garner et al., 2003 SPECIES
-=======
+# Allisonella histaminiformans Garner et al., 2003 SPECIES
 
 #### Status
 ACCEPTED

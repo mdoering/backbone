@@ -1,5 +1,4 @@
-Aspicilia galactotera (Zahlbr.) J.C. Wei SPECIES
-=======
+# Aspicilia galactotera (Zahlbr.) J.C. Wei SPECIES
 
 #### Status
 ACCEPTED

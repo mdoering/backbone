@@ -1,5 +1,4 @@
-Lachnocladium subsimile Berk. & M.A. Curtis SPECIES
-=======
+# Lachnocladium subsimile Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

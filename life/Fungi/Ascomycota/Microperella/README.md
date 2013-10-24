@@ -1,5 +1,4 @@
-Microperella Höhn. GENUS
-=======
+# Microperella Höhn. GENUS
 
 #### Status
 ACCEPTED

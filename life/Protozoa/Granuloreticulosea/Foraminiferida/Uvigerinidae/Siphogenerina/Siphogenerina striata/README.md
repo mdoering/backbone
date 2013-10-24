@@ -1,5 +1,4 @@
-Siphogenerina striata SPECIES
-=======
+# Siphogenerina striata SPECIES
 
 #### Status
 ACCEPTED

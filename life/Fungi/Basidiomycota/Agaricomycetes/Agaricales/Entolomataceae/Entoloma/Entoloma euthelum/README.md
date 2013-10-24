@@ -1,5 +1,4 @@
-Entoloma euthelum Berk. SPECIES
-=======
+# Entoloma euthelum Berk. SPECIES
 
 #### Status
 ACCEPTED

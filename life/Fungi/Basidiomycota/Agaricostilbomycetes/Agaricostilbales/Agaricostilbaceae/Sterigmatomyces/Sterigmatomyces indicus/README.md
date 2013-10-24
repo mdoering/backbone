@@ -1,5 +1,4 @@
-Sterigmatomyces indicus (Fell) Fell SPECIES
-=======
+# Sterigmatomyces indicus (Fell) Fell SPECIES
 
 #### Status
 ACCEPTED

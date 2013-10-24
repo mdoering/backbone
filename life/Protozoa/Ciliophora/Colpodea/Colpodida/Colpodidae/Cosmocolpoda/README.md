@@ -1,5 +1,4 @@
-Cosmocolpoda Foissner, 1993 GENUS
-=======
+# Cosmocolpoda Foissner, 1993 GENUS
 
 #### Status
 ACCEPTED

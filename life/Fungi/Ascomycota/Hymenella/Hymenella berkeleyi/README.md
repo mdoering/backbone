@@ -1,5 +1,4 @@
-Hymenella berkeleyi anon. SPECIES
-=======
+# Hymenella berkeleyi anon. SPECIES
 
 #### Status
 ACCEPTED

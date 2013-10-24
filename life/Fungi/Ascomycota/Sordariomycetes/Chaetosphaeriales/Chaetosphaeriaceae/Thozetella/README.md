@@ -1,17 +1,16 @@
-Thozetia Berk. & F. Muell. GENUS
-=======
+# Thozetella Kuntze GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Berkeley, J. Linn. Soc. , Bot. 18: 388 (1881)
+Revis. gen. pl. (Leipzig) 2: 873 (1891)
 
 #### Original name
-Thozetia Berk. & F. Muell.
+Thozetella Kuntze
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Limacella kauffmanii H.V. Sm. SPECIES
-=======
+# Limacella kauffmanii H.V. Sm. SPECIES
 
 #### Status
 ACCEPTED

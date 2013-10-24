@@ -1,5 +1,4 @@
-Starmera quercuum (Phaff & E.P. Knapp) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Starmera quercuum (Phaff & E.P. Knapp) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

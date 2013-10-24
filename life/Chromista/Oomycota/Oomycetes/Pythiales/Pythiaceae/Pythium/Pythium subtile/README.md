@@ -1,5 +1,4 @@
-Pythium subtile Wahrlich SPECIES
-=======
+# Pythium subtile Wahrlich SPECIES
 
 #### Status
 ACCEPTED

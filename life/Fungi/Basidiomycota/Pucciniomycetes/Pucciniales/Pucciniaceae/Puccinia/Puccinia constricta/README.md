@@ -1,5 +1,4 @@
-Puccinia constricta (Lagerh.) Bubák SPECIES
-=======
+# Puccinia constricta (Lagerh.) Bubák SPECIES
 
 #### Status
 ACCEPTED

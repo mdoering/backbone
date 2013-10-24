@@ -1,5 +1,4 @@
-Kluyvera georgiana Müller et al., 1996 SPECIES
-=======
+# Kluyvera georgiana Müller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

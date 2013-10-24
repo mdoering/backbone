@@ -1,5 +1,4 @@
-Polyporus swartzianus Lév. SPECIES
-=======
+# Polyporus swartzianus Lév. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Opegrapha lecanactis A. Massal. SPECIES
-=======
+# Opegrapha lecanactis A. Massal. SPECIES
 
 #### Status
 ACCEPTED

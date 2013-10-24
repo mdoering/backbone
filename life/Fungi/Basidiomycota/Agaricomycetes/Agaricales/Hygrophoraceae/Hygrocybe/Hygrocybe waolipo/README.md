@@ -1,5 +1,4 @@
-Hygrocybe waolipo Desjardin & Hemmes SPECIES
-=======
+# Hygrocybe waolipo Desjardin & Hemmes SPECIES
 
 #### Status
 ACCEPTED

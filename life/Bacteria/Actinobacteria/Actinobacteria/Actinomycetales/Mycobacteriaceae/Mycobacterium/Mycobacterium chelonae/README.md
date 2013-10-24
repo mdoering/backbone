@@ -1,5 +1,4 @@
-Mycobacterium chelonae subsp. chelonae SUBSPECIES
-=======
+# Mycobacterium chelonae SPECIES
 
 #### Status
 ACCEPTED

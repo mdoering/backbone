@@ -1,17 +1,16 @@
-Septoria nodorum f. sp FORM
-=======
+# Phaeosphaeria nodorum (E. Müll.) Hedjar., 1969 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Friesia 10(4-5): 262 (1975)
+Sydowia 22(1-4): 79 (1969)
 
 #### Original name
-Septoria nodorum f. sp
+Leptosphaeria nodorum E. Müll., 1952
 
 ### Remarks
 null

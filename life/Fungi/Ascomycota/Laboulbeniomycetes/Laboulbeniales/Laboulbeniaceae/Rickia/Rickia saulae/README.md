@@ -1,5 +1,4 @@
-Rickia saulae Thaxt. SPECIES
-=======
+# Rickia saulae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

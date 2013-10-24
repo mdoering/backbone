@@ -1,5 +1,4 @@
-Hohenbuehelia parsonsiae G. Stev. SPECIES
-=======
+# Hohenbuehelia parsonsiae G. Stev. SPECIES
 
 #### Status
 ACCEPTED

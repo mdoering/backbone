@@ -1,5 +1,4 @@
-Starkeya Kelly et al., 2000 GENUS
-=======
+# Starkeya Kelly et al., 2000 GENUS
 
 #### Status
 ACCEPTED

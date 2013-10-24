@@ -1,5 +1,4 @@
-Astrosporina hydrocybiformis Corner & E. Horak SPECIES
-=======
+# Astrosporina hydrocybiformis Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

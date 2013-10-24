@@ -1,5 +1,4 @@
-Micropuccinia urbaniana (Henn.) Arthur & H.S. Jacks. SPECIES
-=======
+# Micropuccinia urbaniana (Henn.) Arthur & H.S. Jacks. SPECIES
 
 #### Status
 ACCEPTED

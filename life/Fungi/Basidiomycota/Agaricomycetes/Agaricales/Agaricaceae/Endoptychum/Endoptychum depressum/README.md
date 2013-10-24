@@ -1,14 +1,13 @@
-Agaricus inapertus Vellinga, 2003 SPECIES
-=======
+# Endoptychum depressum Singer & A.H. Sm., 1958 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Vellinga, Kok & Bruns, Mycologia 95(3): 453 (2003)
+Brittonia 10: 216 (1958)
 
 #### Original name
 Endoptychum depressum Singer & A.H. Sm., 1958

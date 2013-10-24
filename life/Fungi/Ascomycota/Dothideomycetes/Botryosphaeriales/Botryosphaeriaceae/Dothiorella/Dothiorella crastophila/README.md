@@ -1,5 +1,4 @@
-Dothiorella crastophila Sacc. SPECIES
-=======
+# Dothiorella crastophila Sacc. SPECIES
 
 #### Status
 ACCEPTED

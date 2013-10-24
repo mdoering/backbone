@@ -1,14 +1,13 @@
-Polyporus graveolens (Schwein.) Fr., 1828 SPECIES
-=======
+# Globifomes graveolens (Schwein.) Murrill, 1904 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 31(8): 424 (1904)
 
 #### Original name
 Boletus graveolens Schwein., 1822

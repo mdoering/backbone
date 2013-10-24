@@ -1,5 +1,4 @@
-Lachnea longiseta Penz. & Sacc. SPECIES
-=======
+# Lachnea longiseta Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

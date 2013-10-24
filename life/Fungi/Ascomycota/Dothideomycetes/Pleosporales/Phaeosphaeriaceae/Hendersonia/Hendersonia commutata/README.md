@@ -1,5 +1,4 @@
-Hendersonia commutata Sacc. SPECIES
-=======
+# Hendersonia commutata Sacc. SPECIES
 
 #### Status
 ACCEPTED

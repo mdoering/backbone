@@ -1,5 +1,4 @@
-Gloeosporium philodendri San Lorenso {?} SPECIES
-=======
+# Gloeosporium philodendri San Lorenso {?} SPECIES
 
 #### Status
 ACCEPTED

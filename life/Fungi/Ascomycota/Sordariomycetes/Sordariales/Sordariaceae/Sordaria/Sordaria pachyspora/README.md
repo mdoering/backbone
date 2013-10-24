@@ -1,5 +1,4 @@
-Sordaria pachyspora Mouton SPECIES
-=======
+# Sordaria pachyspora Mouton SPECIES
 
 #### Status
 ACCEPTED

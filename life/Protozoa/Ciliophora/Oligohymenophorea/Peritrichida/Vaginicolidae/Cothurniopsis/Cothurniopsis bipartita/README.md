@@ -1,5 +1,4 @@
-Cothurniopsis bipartita SPECIES
-=======
+# Cothurniopsis bipartita SPECIES
 
 #### Status
 ACCEPTED

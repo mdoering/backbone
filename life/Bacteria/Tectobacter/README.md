@@ -1,5 +1,4 @@
-Tectobacter GENUS
-=======
+# Tectobacter GENUS
 
 #### Status
 ACCEPTED

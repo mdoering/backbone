@@ -1,5 +1,4 @@
-Dictyophora chlorocephala De Seynes SPECIES
-=======
+# Dictyophora chlorocephala De Seynes SPECIES
 
 #### Status
 ACCEPTED

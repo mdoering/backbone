@@ -1,5 +1,4 @@
-Heslertonia heslertonensis (Neale & Sarjeant, 1962) Sarjeant, 1966 SPECIES
-=======
+# Heslertonia heslertonensis (Neale & Sarjeant, 1962) Sarjeant, 1966 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola sempeiensis var. sempeiensis VARIETY
-=======
+# Meliola sempeiensis W. Yamam. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Trans. Nat. Hist. Soc. Formosa 31(209): 56 (1941)
 
 #### Original name
-Meliola sempeiensis var. sempeiensis
+Meliola sempeiensis W. Yamam.
 
 ### Remarks
 null

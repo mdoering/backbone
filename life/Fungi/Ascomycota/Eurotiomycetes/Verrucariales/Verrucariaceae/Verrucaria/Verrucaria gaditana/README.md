@@ -1,5 +1,4 @@
-Verrucaria gaditana Clemente SPECIES
-=======
+# Verrucaria gaditana Clemente SPECIES
 
 #### Status
 ACCEPTED

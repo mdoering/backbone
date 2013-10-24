@@ -1,17 +1,16 @@
-Clypeosphaeria morreni Westend. ex Sacc. SPECIES
-=======
+# Clypeosphaeria morreniae Westend. ex Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Revue mycol. , Toulouse 7: 145 (1885)
 
 #### Original name
-Clypeosphaeria morreni Westend. ex Sacc.
+Clypeosphaeria morreniae Westend. ex Sacc.
 
 ### Remarks
 null

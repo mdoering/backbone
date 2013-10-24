@@ -1,5 +1,4 @@
-Minidiscus ocellatus Guo, Cheng & Chin SPECIES
-=======
+# Minidiscus ocellatus Guo, Cheng & Chin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Biatora campestris Fr. SPECIES
-=======
+# Sarcosagium campestre (Fr.) Poetsch & Schied. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Biatora campestris Fr.
+null
 
 ### Remarks
 null

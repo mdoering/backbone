@@ -1,5 +1,4 @@
-Erysiphe praelonga (S.R. Yu) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe praelonga (S.R. Yu) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

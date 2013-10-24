@@ -1,17 +1,16 @@
-Phragmothyriella Höhn. GENUS
-=======
+# Myriangiella Zimm. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 121: 348 (1912)
+Zentbl. Bakt. ParasitKde, Abt. II 8: 183 (1902)
 
 #### Original name
-Phragmothyriella Höhn.
+Myriangiella Zimm.
 
 ### Remarks
 null

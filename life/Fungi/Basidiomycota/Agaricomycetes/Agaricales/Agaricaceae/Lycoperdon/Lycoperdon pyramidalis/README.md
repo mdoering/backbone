@@ -1,5 +1,4 @@
-Lycoperdon pyramidalis Timm SPECIES
-=======
+# Lycoperdon pyramidalis Timm SPECIES
 
 #### Status
 ACCEPTED

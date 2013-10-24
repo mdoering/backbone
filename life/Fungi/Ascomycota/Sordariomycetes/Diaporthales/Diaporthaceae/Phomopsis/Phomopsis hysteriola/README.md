@@ -1,17 +1,16 @@
-Phomopsis hysteriola f. hysteriola Grove FORM
-=======
+# Phomopsis hysteriola Grove, 1935 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 1: 232 (1935)
 
 #### Original name
-Phomopsis hysteriola f. hysteriola Grove
+Phomopsis hysteriola Grove, 1935
 
 ### Remarks
 null

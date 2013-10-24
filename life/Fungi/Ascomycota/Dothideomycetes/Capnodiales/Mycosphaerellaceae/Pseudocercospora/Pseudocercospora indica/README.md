@@ -1,5 +1,4 @@
-Pseudocercospora indica D. Gupta, Padhi & Chowdhry SPECIES
-=======
+# Pseudocercospora indica D. Gupta, Padhi & Chowdhry SPECIES
 
 #### Status
 ACCEPTED

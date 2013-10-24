@@ -1,5 +1,4 @@
-Compactogerina Simmons, BouDagher-Fadel, Banner & Whittaker, 1997 GENUS
-=======
+# Compactogerina Simmons, BouDagher-Fadel, Banner & Whittaker, 1997 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uromyces aemulus Arthur SPECIES
-=======
+# Uromyces aemulus Arthur SPECIES
 
 #### Status
 ACCEPTED

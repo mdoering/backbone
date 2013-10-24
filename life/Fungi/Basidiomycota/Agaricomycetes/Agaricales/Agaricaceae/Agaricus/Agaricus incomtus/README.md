@@ -1,5 +1,4 @@
-Agaricus incomtus Fr. SPECIES
-=======
+# Agaricus incomtus Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdolithus solus Perch-Nielsen, 1971 SPECIES
-=======
+# Rhabdolithus solus Perch-Nielsen, 1971 SPECIES
 
 #### Status
 ACCEPTED

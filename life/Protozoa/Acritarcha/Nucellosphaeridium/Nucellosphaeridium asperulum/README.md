@@ -1,5 +1,4 @@
-Nucellosphaeridium asperulum Yang Qinghe et al., 1980 SPECIES
-=======
+# Nucellosphaeridium asperulum Yang Qinghe et al., 1980 SPECIES
 
 #### Status
 ACCEPTED

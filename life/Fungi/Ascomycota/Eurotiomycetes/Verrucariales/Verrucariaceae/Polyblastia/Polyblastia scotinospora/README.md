@@ -1,5 +1,4 @@
-Polyblastia scotinospora var. scotinospora VARIETY
-=======
+# Polyblastia scotinospora SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Polyblastia scotinospora var. scotinospora
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Peziza ligustici DC. SPECIES
-=======
+# Peziza ligustici DC. SPECIES
 
 #### Status
 ACCEPTED

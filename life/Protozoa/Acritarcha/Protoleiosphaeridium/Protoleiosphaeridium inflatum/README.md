@@ -1,5 +1,4 @@
-Protoleiosphaeridium inflatum E.S. Korotkevich & Timofeev, 1959 SPECIES
-=======
+# Protoleiosphaeridium inflatum E.S. Korotkevich & Timofeev, 1959 SPECIES
 
 #### Status
 ACCEPTED

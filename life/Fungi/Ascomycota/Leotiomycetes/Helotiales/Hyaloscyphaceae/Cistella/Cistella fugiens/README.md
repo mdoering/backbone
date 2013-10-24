@@ -1,14 +1,13 @@
-Lachnella fugiens W. Phillips, 1887 SPECIES
-=======
+# Cistella fugiens (W. Phillips) Matheis, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Man. Brit. Discomyc. (London) 268 (1887)
+Friesia 11(2): 92 (1977)
 
 #### Original name
 Lachnella fugiens W. Phillips, 1887

@@ -1,5 +1,4 @@
-Russula annulata subsp. annulata SUBSPECIES
-=======
+# Russula annulata R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Candollea 7: 392 (1938)
 
 #### Original name
-Russula annulata subsp. annulata
+Russula annulata R. Heim
 
 ### Remarks
 null

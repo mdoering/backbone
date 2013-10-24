@@ -1,5 +1,4 @@
-Rhizophydium ovatum Couch SPECIES
-=======
+# Rhizophydium ovatum Couch SPECIES
 
 #### Status
 ACCEPTED

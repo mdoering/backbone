@@ -1,5 +1,4 @@
-Phialocladus zsoltii Kreisel, 1972 SPECIES
-=======
+# Phialocladus zsoltii Kreisel, 1972 SPECIES
 
 #### Status
 ACCEPTED

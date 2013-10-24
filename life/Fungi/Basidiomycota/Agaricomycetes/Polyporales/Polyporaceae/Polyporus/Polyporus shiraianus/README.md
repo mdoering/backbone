@@ -1,5 +1,4 @@
-Polyporus shiraianus Henn. SPECIES
-=======
+# Polyporus shiraianus Henn. SPECIES
 
 #### Status
 ACCEPTED

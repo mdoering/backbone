@@ -1,5 +1,4 @@
-Coprinopsis burkii (A.H. Sm.) Redhead, Vilgalys & Moncalvo SPECIES
-=======
+# Coprinopsis burkii (A.H. Sm.) Redhead, Vilgalys & Moncalvo SPECIES
 
 #### Status
 ACCEPTED

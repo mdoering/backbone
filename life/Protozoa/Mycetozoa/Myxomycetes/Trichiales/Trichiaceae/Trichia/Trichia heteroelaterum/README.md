@@ -1,5 +1,4 @@
-Trichia heteroelaterum H.Z. Li & Yu Li, 1989 SPECIES
-=======
+# Trichia heteroelaterum H.Z. Li & Yu Li, 1989 SPECIES
 
 #### Status
 ACCEPTED

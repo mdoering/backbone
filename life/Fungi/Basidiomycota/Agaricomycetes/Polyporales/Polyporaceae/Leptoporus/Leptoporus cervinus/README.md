@@ -1,5 +1,4 @@
-Leptoporus cervinus Quél. SPECIES
-=======
+# Leptoporus cervinus Quél. SPECIES
 
 #### Status
 ACCEPTED

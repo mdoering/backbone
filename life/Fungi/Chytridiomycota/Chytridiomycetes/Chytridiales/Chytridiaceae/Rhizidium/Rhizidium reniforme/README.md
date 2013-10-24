@@ -1,5 +1,4 @@
-Rhizidium reniforme Karling, 1970 SPECIES
-=======
+# Rhizidium reniforme Karling, 1970 SPECIES
 
 #### Status
 ACCEPTED

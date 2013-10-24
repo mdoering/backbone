@@ -1,5 +1,4 @@
-Archaeococcidia Schmidt, Duszynski & Martin, 1992 GENUS
-=======
+# Archaeococcidia Schmidt, Duszynski & Martin, 1992 GENUS
 
 #### Status
 ACCEPTED

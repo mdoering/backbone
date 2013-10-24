@@ -1,5 +1,4 @@
-Dimerina bambusicola Teng SPECIES
-=======
+# Dimerina bambusicola Teng SPECIES
 
 #### Status
 ACCEPTED

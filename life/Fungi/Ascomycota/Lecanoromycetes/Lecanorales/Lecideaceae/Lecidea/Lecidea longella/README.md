@@ -1,5 +1,4 @@
-Lecidea longella Nyl. SPECIES
-=======
+# Lecidea longella Nyl. SPECIES
 
 #### Status
 ACCEPTED

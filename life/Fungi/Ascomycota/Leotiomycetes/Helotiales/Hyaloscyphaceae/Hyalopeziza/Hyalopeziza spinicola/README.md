@@ -1,5 +1,4 @@
-Hyalopeziza spinicola Graddon, 1977 SPECIES
-=======
+# Hyalopeziza spinicola Graddon, 1977 SPECIES
 
 #### Status
 ACCEPTED

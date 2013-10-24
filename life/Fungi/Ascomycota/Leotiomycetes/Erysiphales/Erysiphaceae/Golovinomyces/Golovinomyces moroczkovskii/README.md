@@ -1,5 +1,4 @@
-Golovinomyces moroczkovskii (V.P. Heluta) V.P. Heluta SPECIES
-=======
+# Golovinomyces moroczkovskii (V.P. Heluta) V.P. Heluta SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Debaromyces hansenii (Zopf) Kreger-van Rij, 1??? SPECIES
-=======
+# Debaromyces hansenii (Zopf) Kreger-van Rij, 1??? SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina tenuistriata Cushman & Galliher SPECIES
-=======
+# Uvigerina tenuistriata Cushman & Galliher SPECIES
 
 #### Status
 ACCEPTED

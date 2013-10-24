@@ -1,5 +1,4 @@
-Dimerium detectum Petr. SPECIES
-=======
+# Dimerium detectum Petr. SPECIES
 
 #### Status
 ACCEPTED

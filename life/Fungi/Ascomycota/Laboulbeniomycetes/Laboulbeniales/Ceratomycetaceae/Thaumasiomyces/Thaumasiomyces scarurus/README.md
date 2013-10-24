@@ -1,5 +1,4 @@
-Thaumasiomyces scarurus Thaxt., 1931 SPECIES
-=======
+# Thaumasiomyces scarurus Thaxt., 1931 SPECIES
 
 #### Status
 ACCEPTED

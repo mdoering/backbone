@@ -1,5 +1,4 @@
-Dicaeoma subtectum (Rostr.) Kuntze SPECIES
-=======
+# Dicaeoma subtectum (Rostr.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

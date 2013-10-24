@@ -1,5 +1,4 @@
-Biatora plicata (Clemente) Fr. SPECIES
-=======
+# Biatora plicata (Clemente) Fr. SPECIES
 
 #### Status
 ACCEPTED

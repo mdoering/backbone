@@ -1,5 +1,4 @@
-Gyrothrix indica Munjal & Lall SPECIES
-=======
+# Gyrothrix indica Munjal & Lall SPECIES
 
 #### Status
 ACCEPTED

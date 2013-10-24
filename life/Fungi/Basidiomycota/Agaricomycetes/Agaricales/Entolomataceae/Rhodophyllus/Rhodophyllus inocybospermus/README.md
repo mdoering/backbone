@@ -1,5 +1,4 @@
-Rhodophyllus inocybospermus Romagn. & Gilles SPECIES
-=======
+# Rhodophyllus inocybospermus Romagn. & Gilles SPECIES
 
 #### Status
 ACCEPTED

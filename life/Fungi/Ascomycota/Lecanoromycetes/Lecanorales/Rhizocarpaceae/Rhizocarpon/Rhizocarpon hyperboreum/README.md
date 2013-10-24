@@ -1,5 +1,4 @@
-Rhizocarpon hyperboreum (Vain.) Vain. SPECIES
-=======
+# Rhizocarpon hyperboreum (Vain.) Vain. SPECIES
 
 #### Status
 ACCEPTED

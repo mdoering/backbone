@@ -1,5 +1,4 @@
-Cercospora patelii Thirum. & Govindu SPECIES
-=======
+# Cercospora patelii Thirum. & Govindu SPECIES
 
 #### Status
 ACCEPTED

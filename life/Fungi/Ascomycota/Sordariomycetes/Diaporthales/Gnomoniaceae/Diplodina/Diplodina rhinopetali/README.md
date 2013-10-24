@@ -1,5 +1,4 @@
-Diplodina rhinopetali Byzova SPECIES
-=======
+# Diplodina rhinopetali Byzova SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polystictus brusinae (Schulzer) Sacc. SPECIES
-=======
+# Polystictus brusinae (Schulzer) Sacc. SPECIES
 
 #### Status
 ACCEPTED

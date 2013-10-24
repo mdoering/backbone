@@ -1,5 +1,4 @@
-Buehringa Busch, 1921 GENUS
-=======
+# Buehringa Busch, 1921 GENUS
 
 #### Status
 ACCEPTED

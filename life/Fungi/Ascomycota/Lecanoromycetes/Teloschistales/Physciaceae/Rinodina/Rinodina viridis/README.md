@@ -1,5 +1,4 @@
-Rinodina viridis Müll. Arg. SPECIES
-=======
+# Rinodina viridis Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

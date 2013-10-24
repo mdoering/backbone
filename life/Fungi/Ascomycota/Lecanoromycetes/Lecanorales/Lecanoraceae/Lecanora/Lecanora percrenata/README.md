@@ -1,5 +1,4 @@
-Lecanora percrenata H. Magn. SPECIES
-=======
+# Lecanora percrenata H. Magn. SPECIES
 
 #### Status
 ACCEPTED

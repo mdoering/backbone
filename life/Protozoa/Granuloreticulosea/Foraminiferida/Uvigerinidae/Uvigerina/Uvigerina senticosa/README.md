@@ -1,5 +1,4 @@
-Uvigerina senticosa Cushman, 1927 SPECIES
-=======
+# Uvigerina senticosa Cushman, 1927 SPECIES
 
 #### Status
 ACCEPTED

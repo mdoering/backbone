@@ -1,5 +1,4 @@
-Scutula solorinicola (Vain.) Rehm SPECIES
-=======
+# Scutula solorinicola (Vain.) Rehm SPECIES
 
 #### Status
 ACCEPTED

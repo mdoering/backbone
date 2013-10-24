@@ -1,5 +1,4 @@
-Anthostomella vestita Speg. SPECIES
-=======
+# Anthostomella vestita Speg. SPECIES
 
 #### Status
 ACCEPTED

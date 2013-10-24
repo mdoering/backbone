@@ -1,5 +1,4 @@
-Elsinoë takoropuku G.S. Ridl. & Ramsfield, 2006 SPECIES
-=======
+# Elsinoë takoropuku G.S. Ridl. & Ramsfield, 2006 SPECIES
 
 #### Status
 ACCEPTED

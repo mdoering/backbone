@@ -1,14 +1,13 @@
-Stigmatea sequojae (Cooke & Harkn.) Sacc. SPECIES
-=======
+# Stigmatea sequoiae (Cooke & Harkn.) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 1: 542 (1882)
 
 #### Original name
 Leptostroma sequoiae Cooke & Harkn.

@@ -1,5 +1,4 @@
-Gruberella oviformis (Gruber, 1884) Corliss, 1960 SPECIES
-=======
+# Gruberella oviformis (Gruber, 1884) Corliss, 1960 SPECIES
 
 #### Status
 ACCEPTED

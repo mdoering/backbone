@@ -1,5 +1,4 @@
-Cladonia stabilis Britzelm. SPECIES
-=======
+# Cladonia stabilis Britzelm. SPECIES
 
 #### Status
 ACCEPTED

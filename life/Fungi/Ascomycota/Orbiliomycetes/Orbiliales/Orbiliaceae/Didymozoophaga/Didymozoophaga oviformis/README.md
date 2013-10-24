@@ -1,5 +1,4 @@
-Didymozoophaga oviformis var. oviformis VARIETY
-=======
+# Didymozoophaga oviformis Soprunov & Galiulina SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Microbiol. , Reading 20: 497 (1951)
 
 #### Original name
-Didymozoophaga oviformis var. oviformis
+Didymozoophaga oviformis Soprunov & Galiulina
 
 ### Remarks
 null

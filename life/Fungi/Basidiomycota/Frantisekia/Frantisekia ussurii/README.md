@@ -1,5 +1,4 @@
-Frantisekia ussurii (Y.C. Dai & Niemelä) Spirin SPECIES
-=======
+# Frantisekia ussurii (Y.C. Dai & Niemelä) Spirin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium constantineanui Sandu SPECIES
-=======
+# Stegonsporium constantineanui Sandu SPECIES
 
 #### Status
 ACCEPTED

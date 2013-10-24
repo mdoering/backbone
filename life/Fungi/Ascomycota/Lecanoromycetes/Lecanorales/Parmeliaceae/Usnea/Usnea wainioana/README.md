@@ -1,5 +1,4 @@
-Usnea wainioana Zahlbr. SPECIES
-=======
+# Usnea wainioana Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

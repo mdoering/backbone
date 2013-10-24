@@ -1,5 +1,4 @@
-Boletus montanus Sacc. SPECIES
-=======
+# Boletus montanus Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dendrosarcus caesiozonatus (Rabenh.) Kuntze SPECIES
-=======
+# Dendrosarcus caesiozonatus (Rabenh.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

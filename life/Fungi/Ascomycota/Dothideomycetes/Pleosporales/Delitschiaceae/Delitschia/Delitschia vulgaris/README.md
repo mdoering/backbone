@@ -1,5 +1,4 @@
-Delitschia vulgaris Griffiths SPECIES
-=======
+# Delitschia vulgaris Griffiths SPECIES
 
 #### Status
 ACCEPTED

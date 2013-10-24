@@ -1,5 +1,4 @@
-Candida acapsuligena V. Kostov, Kekhlib. & Kuyumdzh. SPECIES
-=======
+# Candida acapsuligena V. Kostov, Kekhlib. & Kuyumdzh. SPECIES
 
 #### Status
 ACCEPTED

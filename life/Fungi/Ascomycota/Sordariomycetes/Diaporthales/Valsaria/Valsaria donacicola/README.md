@@ -1,5 +1,4 @@
-Valsaria donacicola Speg. SPECIES
-=======
+# Valsaria donacicola Speg. SPECIES
 
 #### Status
 ACCEPTED

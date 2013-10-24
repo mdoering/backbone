@@ -1,5 +1,4 @@
-Dendrothele americana Nakasone, 2006 SPECIES
-=======
+# Dendrothele americana Nakasone, 2006 SPECIES
 
 #### Status
 ACCEPTED

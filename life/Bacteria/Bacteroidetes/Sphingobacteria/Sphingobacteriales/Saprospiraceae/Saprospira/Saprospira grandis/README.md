@@ -1,5 +1,4 @@
-Saprospira grandis Gross, 1911 (Approved Lists, 1980) SPECIES
-=======
+# Saprospira grandis Gross, 1911 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

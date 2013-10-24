@@ -1,5 +1,4 @@
-Camarosporium asterinum Petr. SPECIES
-=======
+# Camarosporium asterinum Petr. SPECIES
 
 #### Status
 ACCEPTED

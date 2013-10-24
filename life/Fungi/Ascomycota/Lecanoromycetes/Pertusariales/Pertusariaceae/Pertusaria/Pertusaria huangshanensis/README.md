@@ -1,5 +1,4 @@
-Pertusaria huangshanensis Sen H. Yu & J.N. Wu ex Q. Ren SPECIES
-=======
+# Pertusaria huangshanensis Sen H. Yu & J.N. Wu ex Q. Ren SPECIES
 
 #### Status
 ACCEPTED

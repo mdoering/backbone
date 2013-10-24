@@ -1,5 +1,4 @@
-Archaeosporales C. Walker & A. Schüssler ORDER
-=======
+# Archaeosporales C. Walker & A. Schüssler ORDER
 
 #### Status
 ACCEPTED

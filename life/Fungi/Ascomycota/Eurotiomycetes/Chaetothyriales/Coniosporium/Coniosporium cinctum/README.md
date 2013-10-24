@@ -1,5 +1,4 @@
-Coniosporium cinctum (Berk. & Broome) Sacc. SPECIES
-=======
+# Coniosporium cinctum (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

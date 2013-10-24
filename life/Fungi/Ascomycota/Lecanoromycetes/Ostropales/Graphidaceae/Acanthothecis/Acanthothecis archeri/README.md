@@ -1,5 +1,4 @@
-Acanthothecis archeri B. O. Sharma, Makhija & Khadilkar SPECIES
-=======
+# Acanthothecis archeri B. O. Sharma, Makhija & Khadilkar SPECIES
 
 #### Status
 ACCEPTED

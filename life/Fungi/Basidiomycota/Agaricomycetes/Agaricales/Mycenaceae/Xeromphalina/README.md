@@ -1,17 +1,16 @@
-Valentinia Velen. GENUS
-=======
+# Xeromphalina Kühner & Maire GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Novitates Mycologicae 38 (1939)
+in Konrad & Maublanc, Icon. Select. Fung. 6: 236 (1934)
 
 #### Original name
-Valentinia Velen.
+Xeromphalina Kühner & Maire
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Pseudaegerita lignicola anon. SPECIES
-=======
+# Pseudaegerita lignicola anon. SPECIES
 
 #### Status
 ACCEPTED

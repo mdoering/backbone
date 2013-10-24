@@ -1,5 +1,4 @@
-Dothidella appendiculata (Delacr.) Har. & Briard SPECIES
-=======
+# Dothidella appendiculata (Delacr.) Har. & Briard SPECIES
 
 #### Status
 ACCEPTED

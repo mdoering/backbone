@@ -1,5 +1,4 @@
-Gloeocapsa attingens Schiller SPECIES
-=======
+# Gloeocapsa attingens Schiller SPECIES
 
 #### Status
 ACCEPTED

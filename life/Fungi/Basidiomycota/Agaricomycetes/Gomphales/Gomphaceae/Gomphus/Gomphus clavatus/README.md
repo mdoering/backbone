@@ -1,17 +1,16 @@
-Gomphus clavatus var. parvisporus Corner VARIETY
-=======
+# Gomphus clavatus (Pers.) Gray, 1821 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. Mem. 2: 118 (1966)
+Nat. Arr. Brit. Pl. (London) 1: 638 (1821)
 
 #### Original name
-Gomphus clavatus var. parvisporus Corner
+null
 
 ### Remarks
 null

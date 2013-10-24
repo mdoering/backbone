@@ -1,5 +1,4 @@
-Uredo veratri DC. SPECIES
-=======
+# Uredo veratri DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus gunneri Fr. SPECIES
-=======
+# Agaricus gunneri Fr. SPECIES
 
 #### Status
 ACCEPTED

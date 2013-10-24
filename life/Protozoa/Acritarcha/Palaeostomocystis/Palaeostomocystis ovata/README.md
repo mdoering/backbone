@@ -1,5 +1,4 @@
-Palaeostomocystis ovata (Wilson, 1967) Eisenack et al., 1973 SPECIES
-=======
+# Palaeostomocystis ovata (Wilson, 1967) Eisenack et al., 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stylopage leiohypha Drechsler, 1936 SPECIES
-=======
+# Stylopage leiohypha Drechsler, 1936 SPECIES
 
 #### Status
 ACCEPTED

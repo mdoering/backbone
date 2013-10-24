@@ -1,5 +1,4 @@
-Pleospora brunnea var. brunnea Cooke VARIETY
-=======
+# Pleospora brunnea Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pleospora brunnea var. brunnea Cooke
+Pleospora brunnea Cooke
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cenangium chrysoprasum Cooke SPECIES
-=======
+# Cenangium chrysoprasum Cooke SPECIES
 
 #### Status
 ACCEPTED

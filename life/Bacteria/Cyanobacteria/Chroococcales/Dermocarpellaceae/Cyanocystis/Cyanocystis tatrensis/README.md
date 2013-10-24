@@ -1,8 +1,7 @@
-Dermocarpa aquae-dulcis var. tatrensis Starmach VARIETY
-=======
+# Cyanocystis tatrensis (Starmach) Komárek & Anagnostidis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Amylocorticium Pouzar, 1959 GENUS
-=======
+# Amylocorticium Pouzar, 1959 GENUS
 
 #### Status
 ACCEPTED

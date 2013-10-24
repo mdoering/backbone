@@ -1,14 +1,13 @@
-Dactylella oviparasitica G.R. Stirling & Mankau, 1978 SPECIES
-=======
+# Brachyphoris oviparasitica (G.R. Stirling & Mankau) Juan Chen, L.L. Xu, B. Liu & Xing Z. Liu, 2007 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 70(4): 777 (1978)
+Fungal Diversity 26(1): 79 (2007)
 
 #### Original name
 Dactylella oviparasitica G.R. Stirling & Mankau, 1978

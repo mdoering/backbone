@@ -1,5 +1,4 @@
-Lyngbya dangeardii Frémy SPECIES
-=======
+# Lyngbya dangeardii Frémy SPECIES
 
 #### Status
 ACCEPTED

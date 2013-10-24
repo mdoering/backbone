@@ -1,14 +1,13 @@
-Fistulina radicata Schwein., 1822 SPECIES
-=======
+# Pseudofistulina radicata (Schwein.) Burds., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Schr. naturf. Ges. Leipzig 1: 100 (1822)
+Agaric. mod. Tax. (Koenigstein), Edn 4 843 (1986)
 
 #### Original name
 Fistulina radicata Schwein., 1822

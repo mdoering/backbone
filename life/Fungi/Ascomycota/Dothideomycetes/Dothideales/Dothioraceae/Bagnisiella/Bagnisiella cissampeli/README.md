@@ -1,17 +1,16 @@
-Bagnisiella cissampelae Sathe & Vaidya SPECIES
-=======
+# Bagnisiella cissampeli Sathe & Vaidya SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in Vaidya, Biovigyanam 6(1): 79 (1980)
 
 #### Original name
-Bagnisiella cissampelae Sathe & Vaidya
+Bagnisiella cissampeli Sathe & Vaidya
 
 ### Remarks
 null

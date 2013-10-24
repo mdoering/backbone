@@ -1,5 +1,4 @@
-Eurotiopsis gayoni Castagne SPECIES
-=======
+# Eurotiopsis gayoni Castagne SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Buellia procervula Norman SPECIES
-=======
+# Buellia procervula Norman SPECIES
 
 #### Status
 ACCEPTED

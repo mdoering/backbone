@@ -1,11 +1,10 @@
-Actinomyces glaucus Lehmann & Schutze, 1912 SPECIES
-=======
+# Streptomyces glaucus (ex Lehmann & Schutze, 1912) Agre & Preobrazhenskaya, 1986 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

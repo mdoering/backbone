@@ -1,5 +1,4 @@
-Usnea filaris Zahlbr. SPECIES
-=======
+# Usnea filaris Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

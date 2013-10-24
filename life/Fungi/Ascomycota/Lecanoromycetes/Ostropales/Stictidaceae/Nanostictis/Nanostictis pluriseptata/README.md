@@ -1,17 +1,16 @@
-Nanostictis pluriseptatum Etayo SPECIES
-=======
+# Nanostictis pluriseptata Etayo SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Lichenol. 84: 61 (2002)
 
 #### Original name
-Nanostictis pluriseptatum Etayo
+Nanostictis pluriseptata Etayo
 
 ### Remarks
 null

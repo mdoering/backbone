@@ -1,5 +1,4 @@
-Cameronyctus albareti (Ngassam, 1983) Jankowski, 1986 SPECIES
-=======
+# Cameronyctus albareti (Ngassam, 1983) Jankowski, 1986 SPECIES
 
 #### Status
 ACCEPTED

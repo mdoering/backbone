@@ -1,5 +1,4 @@
-Agaricus cinereocyaneus Kalchbr. SPECIES
-=======
+# Agaricus cinereocyaneus Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

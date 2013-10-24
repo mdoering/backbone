@@ -1,5 +1,4 @@
-Anguloplanina V.A. Rudavskaja in T.F. Vozzhennikova & B.V. Timofeev, 1973 GENUS
-=======
+# Anguloplanina V.A. Rudavskaja in T.F. Vozzhennikova & B.V. Timofeev, 1973 GENUS
 
 #### Status
 ACCEPTED

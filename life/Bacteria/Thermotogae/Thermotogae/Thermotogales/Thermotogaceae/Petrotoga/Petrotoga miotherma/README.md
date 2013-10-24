@@ -1,5 +1,4 @@
-Petrotoga miotherma Davey et al., 1993 SPECIES
-=======
+# Petrotoga miotherma Davey et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

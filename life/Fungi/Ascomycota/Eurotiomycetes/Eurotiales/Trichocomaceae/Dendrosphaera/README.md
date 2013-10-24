@@ -1,5 +1,4 @@
-Dendrosphaera Pat. GENUS
-=======
+# Dendrosphaera Pat. GENUS
 
 #### Status
 ACCEPTED

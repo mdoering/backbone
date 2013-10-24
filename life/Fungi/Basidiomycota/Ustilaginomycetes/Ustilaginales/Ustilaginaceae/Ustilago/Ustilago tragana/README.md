@@ -1,5 +1,4 @@
-Ustilago tragana Zundel, 1943 SPECIES
-=======
+# Ustilago tragana Zundel, 1943 SPECIES
 
 #### Status
 ACCEPTED

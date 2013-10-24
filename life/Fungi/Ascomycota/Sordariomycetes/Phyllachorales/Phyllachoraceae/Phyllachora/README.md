@@ -1,17 +1,16 @@
-Rheumatopeltis F. Stevens GENUS
-=======
+# Phyllachora Nitschke ex Fuckel, 1870 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 11(2): 176 (1927)
+Jb. nassau. Ver. Naturk. 23-24: 216 (1870)
 
 #### Original name
-Rheumatopeltis F. Stevens
+Phyllachora Nitschke ex Fuckel, 1870
 
 ### Remarks
 null

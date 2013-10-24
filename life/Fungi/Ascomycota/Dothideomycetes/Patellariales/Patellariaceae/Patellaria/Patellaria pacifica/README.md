@@ -1,5 +1,4 @@
-Patellaria pacifica Müll. Arg. SPECIES
-=======
+# Patellaria pacifica Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

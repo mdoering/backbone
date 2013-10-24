@@ -1,5 +1,4 @@
-Thyriochaetum GENUS
-=======
+# Thyriochaetum GENUS
 
 #### Status
 ACCEPTED

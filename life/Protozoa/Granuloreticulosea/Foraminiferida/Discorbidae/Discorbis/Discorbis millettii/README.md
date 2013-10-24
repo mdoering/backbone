@@ -1,5 +1,4 @@
-Discorbis millettii (Wright) SPECIES
-=======
+# Discorbis millettii (Wright) SPECIES
 
 #### Status
 ACCEPTED

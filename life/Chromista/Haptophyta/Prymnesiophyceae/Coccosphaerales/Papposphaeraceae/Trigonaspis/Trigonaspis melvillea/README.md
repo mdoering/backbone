@@ -1,5 +1,4 @@
-Trigonaspis melvillea SPECIES
-=======
+# Trigonaspis melvillea SPECIES
 
 #### Status
 ACCEPTED

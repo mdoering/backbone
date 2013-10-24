@@ -1,5 +1,4 @@
-Metascardovia Okamoto et al., 2007 GENUS
-=======
+# Metascardovia Okamoto et al., 2007 GENUS
 
 #### Status
 ACCEPTED

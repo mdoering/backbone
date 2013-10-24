@@ -1,5 +1,4 @@
-Tremella cinereoviridis Schumach. SPECIES
-=======
+# Tremella cinereoviridis Schumach. SPECIES
 
 #### Status
 ACCEPTED

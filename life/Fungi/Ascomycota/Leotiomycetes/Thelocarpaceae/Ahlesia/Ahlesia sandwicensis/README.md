@@ -1,14 +1,13 @@
-Ahlesia sandwicense (H. Magn.) G. Salisb. SPECIES
-=======
+# Ahlesia sandwicensis (H. Magn.) G. Salisb. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lichenologist 3(2): 194 (1966)
 
 #### Original name
 Thelocarpon sandwicense H. Magn.

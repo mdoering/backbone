@@ -1,5 +1,4 @@
-Arthonia atropallida Vain. SPECIES
-=======
+# Arthonia atropallida Vain. SPECIES
 
 #### Status
 ACCEPTED

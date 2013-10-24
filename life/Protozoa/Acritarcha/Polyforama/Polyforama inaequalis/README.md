@@ -1,5 +1,4 @@
-Polyforama inaequalis Pykhova, 1969 SPECIES
-=======
+# Polyforama inaequalis Pykhova, 1969 SPECIES
 
 #### Status
 ACCEPTED

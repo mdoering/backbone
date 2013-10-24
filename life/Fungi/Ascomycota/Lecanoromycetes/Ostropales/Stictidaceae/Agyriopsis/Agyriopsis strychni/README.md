@@ -1,5 +1,4 @@
-Agyriopsis strychni Rehm SPECIES
-=======
+# Agyriopsis strychni Rehm SPECIES
 
 #### Status
 ACCEPTED

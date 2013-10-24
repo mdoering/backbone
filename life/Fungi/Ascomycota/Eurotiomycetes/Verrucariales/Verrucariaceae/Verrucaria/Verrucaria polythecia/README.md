@@ -1,5 +1,4 @@
-Verrucaria polythecia Ach. SPECIES
-=======
+# Verrucaria polythecia Ach. SPECIES
 
 #### Status
 ACCEPTED

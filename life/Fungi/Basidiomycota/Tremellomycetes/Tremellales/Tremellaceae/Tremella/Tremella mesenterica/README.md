@@ -1,17 +1,16 @@
-Tremella lutescens var. lutescens VARIETY
-=======
+# Tremella mesenterica Schaeff., 1774 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Icon. Desc. Fung. Min. Cognit. (Leipzig) 2: 33 (1798)
+Systema Naturae, Edn 13 2: 1447 (1792)
 
 #### Original name
-Tremella lutescens var. lutescens
+Tremella mesenterica Schaeff., 1774
 
 ### Remarks
 null

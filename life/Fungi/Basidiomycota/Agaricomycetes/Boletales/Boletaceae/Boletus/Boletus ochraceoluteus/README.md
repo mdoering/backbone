@@ -1,5 +1,4 @@
-Boletus ochraceoluteus Bessette, Both & A.R. Bessette SPECIES
-=======
+# Boletus ochraceoluteus Bessette, Both & A.R. Bessette SPECIES
 
 #### Status
 ACCEPTED

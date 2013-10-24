@@ -1,5 +1,4 @@
-Unguiculariopsis adirondacensis W.Y. Zhuang SPECIES
-=======
+# Unguiculariopsis adirondacensis W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

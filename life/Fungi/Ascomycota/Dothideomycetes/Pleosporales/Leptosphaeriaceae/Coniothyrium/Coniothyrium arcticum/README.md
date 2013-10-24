@@ -1,5 +1,4 @@
-Coniothyrium arcticum (P. Karst.) Kuntze SPECIES
-=======
+# Coniothyrium arcticum (P. Karst.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

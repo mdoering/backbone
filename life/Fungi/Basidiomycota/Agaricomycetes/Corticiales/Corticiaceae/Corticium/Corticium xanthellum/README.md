@@ -1,5 +1,4 @@
-Corticium xanthellum Berk. SPECIES
-=======
+# Corticium xanthellum Berk. SPECIES
 
 #### Status
 ACCEPTED

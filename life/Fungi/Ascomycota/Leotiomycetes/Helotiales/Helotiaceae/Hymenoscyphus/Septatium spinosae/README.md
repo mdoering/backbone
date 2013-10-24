@@ -1,5 +1,4 @@
-Septatium spinosae Velen. SPECIES
-=======
+# Septatium spinosae Velen. SPECIES
 
 #### Status
 ACCEPTED

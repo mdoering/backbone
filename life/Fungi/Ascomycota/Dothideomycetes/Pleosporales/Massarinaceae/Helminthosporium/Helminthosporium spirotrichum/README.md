@@ -1,17 +1,16 @@
-Helmisporium spirotrichum Sacc. SPECIES
-=======
+# Helminthosporium spirotrichum Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Bull. Orto Bot. Napoli 6: 61 (1921)
 
 #### Original name
-Helmisporium spirotrichum Sacc.
+Helminthosporium spirotrichum Sacc.
 
 ### Remarks
 null

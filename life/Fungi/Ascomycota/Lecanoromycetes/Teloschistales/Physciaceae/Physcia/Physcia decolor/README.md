@@ -1,5 +1,4 @@
-Physcia decolor Kashiw. SPECIES
-=======
+# Physcia decolor Kashiw. SPECIES
 
 #### Status
 ACCEPTED

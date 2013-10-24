@@ -1,5 +1,4 @@
-Didymium melanopus Wallr. SPECIES
-=======
+# Didymium melanopus Wallr. SPECIES
 
 #### Status
 ACCEPTED

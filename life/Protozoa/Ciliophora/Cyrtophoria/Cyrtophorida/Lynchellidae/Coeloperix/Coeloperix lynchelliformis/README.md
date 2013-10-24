@@ -1,5 +1,4 @@
-Coeloperix lynchelliformis (Borror, 1972) Gong & Song, 2004 SPECIES
-=======
+# Coeloperix lynchelliformis (Borror, 1972) Gong & Song, 2004 SPECIES
 
 #### Status
 ACCEPTED

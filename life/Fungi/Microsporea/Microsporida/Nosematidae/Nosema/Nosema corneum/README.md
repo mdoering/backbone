@@ -1,5 +1,4 @@
-Nosema corneum Shadduck, Meccoli, Davis & Font SPECIES
-=======
+# Nosema corneum Shadduck, Meccoli, Davis & Font SPECIES
 
 #### Status
 ACCEPTED

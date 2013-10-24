@@ -1,5 +1,4 @@
-Anisomeridium monosporum (Makhija & Patw.) R.C. Harris SPECIES
-=======
+# Anisomeridium monosporum (Makhija & Patw.) R.C. Harris SPECIES
 
 #### Status
 ACCEPTED

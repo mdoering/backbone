@@ -1,5 +1,4 @@
-Spermosporella Deighton GENUS
-=======
+# Spermosporella Deighton GENUS
 
 #### Status
 ACCEPTED

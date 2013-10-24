@@ -1,5 +1,4 @@
-Rhizophlyctis boninensis Kobayasi & K. Konno SPECIES
-=======
+# Rhizophlyctis boninensis Kobayasi & K. Konno SPECIES
 
 #### Status
 ACCEPTED

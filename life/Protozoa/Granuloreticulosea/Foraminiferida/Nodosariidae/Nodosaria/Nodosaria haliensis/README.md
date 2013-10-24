@@ -1,5 +1,4 @@
-Nodosaria haliensis Eiland & Gudmundsson, 2004 SPECIES
-=======
+# Nodosaria haliensis Eiland & Gudmundsson, 2004 SPECIES
 
 #### Status
 ACCEPTED

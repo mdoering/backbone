@@ -1,5 +1,4 @@
-Acarospora flava (Bellardi) Ach. SPECIES
-=======
+# Acarospora flava (Bellardi) Ach. SPECIES
 
 #### Status
 ACCEPTED

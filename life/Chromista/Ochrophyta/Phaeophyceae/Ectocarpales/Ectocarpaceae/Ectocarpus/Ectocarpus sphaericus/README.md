@@ -1,5 +1,4 @@
-Ectocarpus sphaericus Ohta SPECIES
-=======
+# Ectocarpus sphaericus Ohta SPECIES
 
 #### Status
 ACCEPTED

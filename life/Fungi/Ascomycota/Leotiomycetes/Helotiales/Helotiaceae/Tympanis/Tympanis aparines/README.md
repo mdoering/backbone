@@ -1,5 +1,4 @@
-Tympanis aparines Wallr. SPECIES
-=======
+# Tympanis aparines Wallr. SPECIES
 
 #### Status
 ACCEPTED

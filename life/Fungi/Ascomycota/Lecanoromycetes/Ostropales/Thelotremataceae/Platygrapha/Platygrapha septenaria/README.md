@@ -1,5 +1,4 @@
-Platygrapha septenaria Stizenb. SPECIES
-=======
+# Platygrapha septenaria Stizenb. SPECIES
 
 #### Status
 ACCEPTED

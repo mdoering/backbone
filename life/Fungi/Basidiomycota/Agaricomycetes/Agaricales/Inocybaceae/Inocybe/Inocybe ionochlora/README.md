@@ -1,5 +1,4 @@
-Inocybe ionochlora Romagn. SPECIES
-=======
+# Inocybe ionochlora Romagn. SPECIES
 
 #### Status
 ACCEPTED

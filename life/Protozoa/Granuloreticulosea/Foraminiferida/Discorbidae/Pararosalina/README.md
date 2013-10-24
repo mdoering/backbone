@@ -1,5 +1,4 @@
-Pararosalina McCulloch, 1977 GENUS
-=======
+# Pararosalina McCulloch, 1977 GENUS
 
 #### Status
 ACCEPTED

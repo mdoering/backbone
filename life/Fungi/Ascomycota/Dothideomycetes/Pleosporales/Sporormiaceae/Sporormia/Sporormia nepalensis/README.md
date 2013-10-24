@@ -1,5 +1,4 @@
-Sporormia nepalensis Udagawa & Y. Sugiy. SPECIES
-=======
+# Sporormia nepalensis Udagawa & Y. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

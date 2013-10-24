@@ -1,5 +1,4 @@
-Dictydiaethalium dictyosporum Nann.-Bremek., 1966 SPECIES
-=======
+# Dictydiaethalium dictyosporum Nann.-Bremek., 1966 SPECIES
 
 #### Status
 ACCEPTED

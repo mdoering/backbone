@@ -1,17 +1,16 @@
-Agaricus ferulae Lanzi, 1874 SPECIES
-=======
+# Pleurotus eryngii (DC.) Quél. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hyménomycètes (Alençon) 112 (1872)
 
 #### Original name
-null
+Agaricus eryngii DC., 1815
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Plasmopara cenolophii Jermal. SPECIES
-=======
+# Plasmopara cenolophii Jermal. SPECIES
 
 #### Status
 ACCEPTED

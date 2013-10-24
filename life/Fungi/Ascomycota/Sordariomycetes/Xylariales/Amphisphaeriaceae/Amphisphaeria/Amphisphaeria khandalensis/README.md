@@ -1,5 +1,4 @@
-Amphisphaeria khandalensis Rehm SPECIES
-=======
+# Amphisphaeria khandalensis Rehm SPECIES
 
 #### Status
 ACCEPTED

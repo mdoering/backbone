@@ -1,17 +1,16 @@
-Cyathus novae-zeelandiae var. novae-zeelandiae VARIETY
-=======
+# Cyathus novae-zeelandiae Tul. & C. Tul., 1844 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 3 1: 66 (1844)
 
 #### Original name
-null
+Cyathus novae-zeelandiae Tul. & C. Tul., 1844
 
 ### Remarks
 null

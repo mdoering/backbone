@@ -1,8 +1,7 @@
-Bodo cephaloporus Larsen & Patterson, 1990 SPECIES
-=======
+# Ancyromonas sigmoides Kent, 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

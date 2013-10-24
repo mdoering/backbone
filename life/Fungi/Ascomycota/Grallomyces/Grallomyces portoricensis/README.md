@@ -1,5 +1,4 @@
-Grallomyces portoricensis F. Stevens, 1918 SPECIES
-=======
+# Grallomyces portoricensis F. Stevens, 1918 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Peziza austica Pers. SPECIES
-=======
+# Otidea austica (Pers.) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+Index Fungorum
 
 #### Published in
 null
 
 #### Original name
-null
+Peziza austica Pers.
 
 ### Remarks
 null

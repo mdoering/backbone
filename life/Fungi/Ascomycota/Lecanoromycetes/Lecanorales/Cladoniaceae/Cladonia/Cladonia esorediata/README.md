@@ -1,5 +1,4 @@
-Cladonia esorediata (Asahina) Yoshim. SPECIES
-=======
+# Cladonia esorediata (Asahina) Yoshim. SPECIES
 
 #### Status
 ACCEPTED

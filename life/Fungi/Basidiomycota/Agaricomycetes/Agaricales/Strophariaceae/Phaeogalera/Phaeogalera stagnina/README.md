@@ -1,17 +1,16 @@
-Agaricus stagninus subsp. stagninus SUBSPECIES
-=======
+# Phaeogalera stagnina (Fr.) Pegler & T.W.K. Young, 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 88: 151 (1973)
 
 #### Original name
-null
+Agaricus stagninus Fr., 1821
 
 ### Remarks
 null

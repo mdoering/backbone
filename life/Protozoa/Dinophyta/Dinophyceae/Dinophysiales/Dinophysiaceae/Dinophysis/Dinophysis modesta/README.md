@@ -1,5 +1,4 @@
-Dinophysis modesta (Böhm, 1936) Balech, 1967 SPECIES
-=======
+# Dinophysis modesta (Böhm, 1936) Balech, 1967 SPECIES
 
 #### Status
 ACCEPTED

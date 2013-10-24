@@ -1,5 +1,4 @@
-Lasallia membranacea (Laurer) Llano SPECIES
-=======
+# Lasallia membranacea (Laurer) Llano SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gnomonia apiculata G. Winter SPECIES
-=======
+# Gnomonia apiculata G. Winter SPECIES
 
 #### Status
 ACCEPTED

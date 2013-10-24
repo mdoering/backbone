@@ -1,17 +1,16 @@
-Russula cellulata var. cellulata VARIETY
-=======
+# Russula cellulata Buyck SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+Index Fungorum
 
 #### Published in
-null
+Bull. Jard. Bot. Nat. Belg. 59(1-2): 245 (1989)
 
 #### Original name
-null
+Russula cellulata Buyck
 
 ### Remarks
 null

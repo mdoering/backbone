@@ -1,5 +1,4 @@
-Puccinia lespedezae-violaceae Schwein. SPECIES
-=======
+# Puccinia lespedezae-violaceae Schwein. SPECIES
 
 #### Status
 ACCEPTED

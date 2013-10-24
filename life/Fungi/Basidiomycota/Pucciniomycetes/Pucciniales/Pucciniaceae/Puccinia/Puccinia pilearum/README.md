@@ -1,5 +1,4 @@
-Puccinia pilearum Durrieu SPECIES
-=======
+# Puccinia pilearum Durrieu SPECIES
 
 #### Status
 ACCEPTED

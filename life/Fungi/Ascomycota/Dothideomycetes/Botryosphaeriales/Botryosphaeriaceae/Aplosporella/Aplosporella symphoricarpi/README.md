@@ -1,5 +1,4 @@
-Aplosporella symphoricarpi Peck SPECIES
-=======
+# Aplosporella symphoricarpi Peck SPECIES
 
 #### Status
 ACCEPTED

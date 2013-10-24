@@ -1,5 +1,4 @@
-Tsukamurella pulmonis Yassin et al., 1996 SPECIES
-=======
+# Tsukamurella pulmonis Yassin et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

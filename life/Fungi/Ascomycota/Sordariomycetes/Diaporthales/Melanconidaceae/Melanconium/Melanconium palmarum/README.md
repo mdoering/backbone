@@ -1,5 +1,4 @@
-Melanconium palmarum Cooke SPECIES
-=======
+# Melanconium palmarum Cooke SPECIES
 
 #### Status
 ACCEPTED

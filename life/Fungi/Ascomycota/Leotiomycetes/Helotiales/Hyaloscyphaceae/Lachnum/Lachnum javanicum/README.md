@@ -1,5 +1,4 @@
-Lachnum javanicum (Henn. & E. Nyman) J.H. Haines, Korf & W.Y. Zhuang SPECIES
-=======
+# Lachnum javanicum (Henn. & E. Nyman) J.H. Haines, Korf & W.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

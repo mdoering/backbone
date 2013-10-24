@@ -1,5 +1,4 @@
-Mazosia quadriseptata Kalb & Vezda SPECIES
-=======
+# Mazosia quadriseptata Kalb & Vezda SPECIES
 
 #### Status
 ACCEPTED

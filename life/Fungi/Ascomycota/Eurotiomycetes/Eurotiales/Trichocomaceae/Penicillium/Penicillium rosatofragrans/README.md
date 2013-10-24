@@ -1,5 +1,4 @@
-Penicillium rosatofragrans Biourge SPECIES
-=======
+# Penicillium rosatofragrans Biourge SPECIES
 
 #### Status
 ACCEPTED

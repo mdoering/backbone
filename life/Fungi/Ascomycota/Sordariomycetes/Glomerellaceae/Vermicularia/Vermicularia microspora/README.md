@@ -1,5 +1,4 @@
-Vermicularia microspora Jaap SPECIES
-=======
+# Vermicularia microspora Jaap SPECIES
 
 #### Status
 ACCEPTED

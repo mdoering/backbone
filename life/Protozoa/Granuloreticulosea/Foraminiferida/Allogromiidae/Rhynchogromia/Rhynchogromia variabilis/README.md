@@ -1,5 +1,4 @@
-Rhynchogromia variabilis Rhumbler, 1894 SPECIES
-=======
+# Rhynchogromia variabilis Rhumbler, 1894 SPECIES
 
 #### Status
 ACCEPTED

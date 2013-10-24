@@ -1,5 +1,4 @@
-Splanchnonema Corda GENUS
-=======
+# Splanchnonema Corda GENUS
 
 #### Status
 ACCEPTED

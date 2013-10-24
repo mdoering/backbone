@@ -1,5 +1,4 @@
-Camposporidium ghindense (Bhat) R.F. Castañeda, Guarro & Cano SPECIES
-=======
+# Camposporidium ghindense (Bhat) R.F. Castañeda, Guarro & Cano SPECIES
 
 #### Status
 ACCEPTED

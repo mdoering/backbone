@@ -1,17 +1,16 @@
-Oidium morgani Linder SPECIES
-=======
+# Oidium morganii Linder SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 5(3): 197 (1942)
 
 #### Original name
-Oidium morgani Linder
+Oidium morganii Linder
 
 ### Remarks
 null

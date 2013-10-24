@@ -1,5 +1,4 @@
-Toninia massata (Tuck.) Herre SPECIES
-=======
+# Toninia massata (Tuck.) Herre SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Miliammina rugosa Mikhalevich, 1968 SPECIES
-=======
+# Miliammina rugosa Mikhalevich, 1968 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria lichenis-sordidi Massee SPECIES
-=======
+# Sphaeria lichenis-sordidi Massee SPECIES
 
 #### Status
 ACCEPTED

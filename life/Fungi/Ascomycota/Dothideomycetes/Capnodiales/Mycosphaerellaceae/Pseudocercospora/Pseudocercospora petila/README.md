@@ -1,5 +1,4 @@
-Pseudocercospora petila Goh & W.H. Hsieh SPECIES
-=======
+# Pseudocercospora petila Goh & W.H. Hsieh SPECIES
 
 #### Status
 ACCEPTED

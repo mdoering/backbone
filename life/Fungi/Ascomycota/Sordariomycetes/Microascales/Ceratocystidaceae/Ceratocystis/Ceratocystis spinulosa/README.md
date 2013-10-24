@@ -1,5 +1,4 @@
-Ceratocystis spinulosa H.D. Griffin SPECIES
-=======
+# Ceratocystis spinulosa H.D. Griffin SPECIES
 
 #### Status
 ACCEPTED

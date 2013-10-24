@@ -1,5 +1,4 @@
-Cenangella bambusicola Rick SPECIES
-=======
+# Cenangella bambusicola Rick SPECIES
 
 #### Status
 ACCEPTED

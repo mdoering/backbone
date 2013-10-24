@@ -1,5 +1,4 @@
-Aulographum atromaculans Penz. & Sacc. SPECIES
-=======
+# Aulographum atromaculans Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

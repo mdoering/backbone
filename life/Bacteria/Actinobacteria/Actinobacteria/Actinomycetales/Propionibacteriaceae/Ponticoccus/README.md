@@ -1,5 +1,4 @@
-Ponticoccus Lee & Lee, 2008 GENUS
-=======
+# Ponticoccus Lee & Lee, 2008 GENUS
 
 #### Status
 ACCEPTED

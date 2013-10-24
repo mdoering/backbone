@@ -1,5 +1,4 @@
-Aspergillus fimetarius Peck SPECIES
-=======
+# Aspergillus fimetarius Peck SPECIES
 
 #### Status
 ACCEPTED

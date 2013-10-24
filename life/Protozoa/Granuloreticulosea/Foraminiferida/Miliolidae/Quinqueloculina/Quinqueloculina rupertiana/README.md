@@ -1,5 +1,4 @@
-Quinqueloculina rupertiana (Brady) SPECIES
-=======
+# Quinqueloculina rupertiana (Brady) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Sphaerophorus diplotypus Vain. SPECIES
-=======
+# Bunodophoron diplotypum (Vain.) Wedin SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 37: 36 (1898)
+Pl. Syst. Evol. 187(1-4): 232 (1993)
 
 #### Original name
 Sphaerophorus diplotypus Vain.

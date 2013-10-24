@@ -1,17 +1,16 @@
-Dictyopanus pusillus var. pusillus VARIETY
-=======
+# Panellus pusillus (Pers. ex Lév.) Burds. & O.K. Mill., 1975 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Beih. Nova Hedwigia 51: 85 (1975)
 
 #### Original name
-null
+Gloeoporus pusillus Pers. ex Lév., 1844
 
 ### Remarks
 null

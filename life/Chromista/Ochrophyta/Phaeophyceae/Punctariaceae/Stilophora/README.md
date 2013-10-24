@@ -1,5 +1,4 @@
-Stilophora C.A. Agardh, 1827 GENUS
-=======
+# Stilophora C.A. Agardh, 1827 GENUS
 
 #### Status
 ACCEPTED

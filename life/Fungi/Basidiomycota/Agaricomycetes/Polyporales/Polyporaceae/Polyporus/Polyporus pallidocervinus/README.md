@@ -1,5 +1,4 @@
-Polyporus pallidocervinus Mont. SPECIES
-=======
+# Polyporus pallidocervinus Mont. SPECIES
 
 #### Status
 ACCEPTED

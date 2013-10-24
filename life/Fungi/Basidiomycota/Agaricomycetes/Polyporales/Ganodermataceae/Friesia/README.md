@@ -1,5 +1,4 @@
-Friesia GENUS
-=======
+# Friesia GENUS
 
 #### Status
 ACCEPTED

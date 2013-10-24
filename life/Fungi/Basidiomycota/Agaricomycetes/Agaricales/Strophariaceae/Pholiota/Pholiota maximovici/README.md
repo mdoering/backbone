@@ -1,5 +1,4 @@
-Pholiota maximovici Velen. SPECIES
-=======
+# Pholiota maximovici Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema albidopallens Nyl. SPECIES
-=======
+# Thelotrema albidopallens Nyl. SPECIES
 
 #### Status
 ACCEPTED

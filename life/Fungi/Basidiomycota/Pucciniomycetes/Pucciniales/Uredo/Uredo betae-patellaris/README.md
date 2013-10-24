@@ -1,5 +1,4 @@
-Uredo betae-patellaris Guyot & Malençon SPECIES
-=======
+# Uredo betae-patellaris Guyot & Malençon SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Agaricus acetosus J. Otto SPECIES
-=======
+# Agaricus acetosus J. Otto SPECIES
 
 #### Status
 ACCEPTED

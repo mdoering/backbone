@@ -1,5 +1,4 @@
-Xylaria similis Starbäck SPECIES
-=======
+# Xylaria similis Starbäck SPECIES
 
 #### Status
 ACCEPTED

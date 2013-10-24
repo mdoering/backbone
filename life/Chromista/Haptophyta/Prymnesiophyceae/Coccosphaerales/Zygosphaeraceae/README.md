@@ -1,5 +1,4 @@
-Zygosphaeraceae FAMILY
-=======
+# Zygosphaeraceae FAMILY
 
 #### Status
 ACCEPTED

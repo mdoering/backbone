@@ -1,5 +1,4 @@
-Polyscytalum tenuicolor R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Polyscytalum tenuicolor R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

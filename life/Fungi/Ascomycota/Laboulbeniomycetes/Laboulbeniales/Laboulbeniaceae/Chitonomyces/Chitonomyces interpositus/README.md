@@ -1,5 +1,4 @@
-Chitonomyces interpositus Thaxt. SPECIES
-=======
+# Chitonomyces interpositus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

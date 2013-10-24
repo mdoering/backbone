@@ -1,5 +1,4 @@
-Chaetosphaeria acutata Réblová & W. Gams, 1999 SPECIES
-=======
+# Chaetosphaeria acutata Réblová & W. Gams, 1999 SPECIES
 
 #### Status
 ACCEPTED

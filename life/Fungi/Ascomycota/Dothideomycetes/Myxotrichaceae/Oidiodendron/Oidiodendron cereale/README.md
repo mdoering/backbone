@@ -1,14 +1,13 @@
-Trichosporum cerealis (Thüm.) Sacc., 1882 SPECIES
-=======
+# Oidiodendron cereale (Thüm.) G.L. Barron, 1962 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 2(no. 8): 639 (1882)
+Can. J. Bot. 40: 594 (1962)
 
 #### Original name
 Sporotrichum cerealis Thüm., 1880

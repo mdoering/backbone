@@ -1,5 +1,4 @@
-Streptopodium R.Y. Zheng & G.Q. Chen GENUS
-=======
+# Streptopodium R.Y. Zheng & G.Q. Chen GENUS
 
 #### Status
 ACCEPTED

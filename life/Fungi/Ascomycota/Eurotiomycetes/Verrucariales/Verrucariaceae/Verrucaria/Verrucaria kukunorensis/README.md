@@ -1,5 +1,4 @@
-Verrucaria kukunorensis H. Magn. SPECIES
-=======
+# Verrucaria kukunorensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

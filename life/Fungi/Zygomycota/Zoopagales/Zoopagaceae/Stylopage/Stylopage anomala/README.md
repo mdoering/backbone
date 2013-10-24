@@ -1,5 +1,4 @@
-Stylopage anomala S.N. Wood, 1983 SPECIES
-=======
+# Stylopage anomala S.N. Wood, 1983 SPECIES
 
 #### Status
 ACCEPTED

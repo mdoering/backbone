@@ -1,5 +1,4 @@
-Beltraniella odinae Subram., 1952 SPECIES
-=======
+# Beltraniella odinae Subram., 1952 SPECIES
 
 #### Status
 ACCEPTED

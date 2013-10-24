@@ -1,5 +1,4 @@
-Helicosphaera kamptneri Hay & Mohler in Hay et al., 1967 SPECIES
-=======
+# Helicosphaera kamptneri Hay & Mohler in Hay et al., 1967 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rubritaleaceae FAMILY
-=======
+# Rubritaleaceae FAMILY
 
 #### Status
 ACCEPTED

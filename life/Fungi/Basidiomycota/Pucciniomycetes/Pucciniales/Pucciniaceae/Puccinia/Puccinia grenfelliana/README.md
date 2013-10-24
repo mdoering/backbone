@@ -1,5 +1,4 @@
-Puccinia grenfelliana Savile SPECIES
-=======
+# Puccinia grenfelliana Savile SPECIES
 
 #### Status
 ACCEPTED

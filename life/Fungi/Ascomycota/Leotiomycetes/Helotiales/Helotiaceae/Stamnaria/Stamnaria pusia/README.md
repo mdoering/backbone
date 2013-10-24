@@ -1,5 +1,4 @@
-Stamnaria pusia (Berk. & M.A. Curtis) Massee SPECIES
-=======
+# Stamnaria pusia (Berk. & M.A. Curtis) Massee SPECIES
 
 #### Status
 ACCEPTED

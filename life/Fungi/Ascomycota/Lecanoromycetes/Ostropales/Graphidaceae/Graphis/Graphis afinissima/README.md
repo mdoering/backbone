@@ -1,5 +1,4 @@
-Graphis afinissima Nyl. SPECIES
-=======
+# Graphis afinissima Nyl. SPECIES
 
 #### Status
 ACCEPTED

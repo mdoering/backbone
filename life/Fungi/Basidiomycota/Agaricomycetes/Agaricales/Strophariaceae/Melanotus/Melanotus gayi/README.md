@@ -1,5 +1,4 @@
-Melanotus gayi (Pilát) Singer SPECIES
-=======
+# Melanotus gayi (Pilát) Singer SPECIES
 
 #### Status
 ACCEPTED

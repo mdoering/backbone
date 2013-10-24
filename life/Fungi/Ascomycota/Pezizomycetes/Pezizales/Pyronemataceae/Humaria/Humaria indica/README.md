@@ -1,5 +1,4 @@
-Humaria indica K.S. Thind, E.K. Cash & H. Singh SPECIES
-=======
+# Humaria indica K.S. Thind, E.K. Cash & H. Singh SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Daldinia warburgii Henn. SPECIES
-=======
+# Daldinia warburgii Henn. SPECIES
 
 #### Status
 ACCEPTED

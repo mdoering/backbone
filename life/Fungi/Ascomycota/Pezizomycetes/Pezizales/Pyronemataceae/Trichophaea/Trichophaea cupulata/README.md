@@ -1,5 +1,4 @@
-Trichophaea cupulata D.C. Pant SPECIES
-=======
+# Trichophaea cupulata D.C. Pant SPECIES
 
 #### Status
 ACCEPTED

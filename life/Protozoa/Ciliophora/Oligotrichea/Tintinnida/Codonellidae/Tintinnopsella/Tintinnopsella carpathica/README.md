@@ -1,8 +1,7 @@
-Calpionella carpathica Murgeanu & Filipescu, 1933 SPECIES
-=======
+# Tintinnopsella carpathica (Murgeanu & Filipescu, 1933) Colom, 1948 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

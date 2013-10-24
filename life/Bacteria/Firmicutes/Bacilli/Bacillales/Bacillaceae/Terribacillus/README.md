@@ -1,5 +1,4 @@
-Terribacillus An, Asahara, Goto, Kasai & Yokota, 2007 GENUS
-=======
+# Terribacillus An, Asahara, Goto, Kasai & Yokota, 2007 GENUS
 
 #### Status
 ACCEPTED

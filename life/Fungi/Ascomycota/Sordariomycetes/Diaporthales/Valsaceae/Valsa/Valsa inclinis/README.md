@@ -1,5 +1,4 @@
-Valsa inclinis Sacc. SPECIES
-=======
+# Valsa inclinis Sacc. SPECIES
 
 #### Status
 ACCEPTED

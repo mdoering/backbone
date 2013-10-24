@@ -1,5 +1,4 @@
-Septoria lituus Berk. & Broome SPECIES
-=======
+# Septoria lituus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

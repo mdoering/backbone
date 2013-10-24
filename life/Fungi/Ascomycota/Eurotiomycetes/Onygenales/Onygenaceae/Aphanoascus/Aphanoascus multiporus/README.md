@@ -1,5 +1,4 @@
-Aphanoascus multiporus Cano & Guarro, 1990 SPECIES
-=======
+# Aphanoascus multiporus Cano & Guarro, 1990 SPECIES
 
 #### Status
 ACCEPTED

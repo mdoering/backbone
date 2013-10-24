@@ -1,5 +1,4 @@
-Rubritalea sabuli Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2008 SPECIES
-=======
+# Rubritalea sabuli Yoon, Matsuo, Matsuda, Adachi, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

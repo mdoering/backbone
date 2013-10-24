@@ -1,5 +1,4 @@
-Haliphthoros philippinensis Hatai, Bian, Batic. & Egusa, 1980 SPECIES
-=======
+# Haliphthoros philippinensis Hatai, Bian, Batic. & Egusa, 1980 SPECIES
 
 #### Status
 ACCEPTED

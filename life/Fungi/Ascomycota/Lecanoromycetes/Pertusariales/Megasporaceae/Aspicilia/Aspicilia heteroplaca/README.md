@@ -1,5 +1,4 @@
-Aspicilia heteroplaca (Zahlbr.) Oxner SPECIES
-=======
+# Aspicilia heteroplaca (Zahlbr.) Oxner SPECIES
 
 #### Status
 ACCEPTED

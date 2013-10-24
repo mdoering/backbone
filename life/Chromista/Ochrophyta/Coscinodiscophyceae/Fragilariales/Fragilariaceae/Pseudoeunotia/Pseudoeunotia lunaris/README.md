@@ -1,5 +1,4 @@
-Pseudoeunotia lunaris (Ehrenberg) Grunow SPECIES
-=======
+# Pseudoeunotia lunaris (Ehrenberg) Grunow SPECIES
 
 #### Status
 ACCEPTED

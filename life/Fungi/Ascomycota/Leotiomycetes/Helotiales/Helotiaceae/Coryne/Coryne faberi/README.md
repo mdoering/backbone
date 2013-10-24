@@ -1,5 +1,4 @@
-Coryne faberi (J. Kunze) Rehm SPECIES
-=======
+# Coryne faberi (J. Kunze) Rehm SPECIES
 
 #### Status
 ACCEPTED

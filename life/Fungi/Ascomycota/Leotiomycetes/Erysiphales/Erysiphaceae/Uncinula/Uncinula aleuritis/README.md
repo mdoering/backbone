@@ -1,5 +1,4 @@
-Uncinula aleuritis (C.T. Wei) U. Braun SPECIES
-=======
+# Uncinula aleuritis (C.T. Wei) U. Braun SPECIES
 
 #### Status
 ACCEPTED

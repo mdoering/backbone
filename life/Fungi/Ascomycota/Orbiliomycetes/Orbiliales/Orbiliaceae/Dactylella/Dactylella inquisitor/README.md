@@ -1,17 +1,16 @@
-Dactylella inquistor Jarow. SPECIES
-=======
+# Dactylella inquisitor Jarow. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Acta Mycologica, Warszawa 7(1): 4 (1971)
 
 #### Original name
-Dactylella inquistor Jarow.
+Dactylella inquisitor Jarow.
 
 ### Remarks
 null

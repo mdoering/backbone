@@ -1,5 +1,4 @@
-Paragonyaulacysta capillosa (Brideaux & Fisher, 1976) Stover & Evitt, 1978 SPECIES
-=======
+# Paragonyaulacysta capillosa (Brideaux & Fisher, 1976) Stover & Evitt, 1978 SPECIES
 
 #### Status
 ACCEPTED

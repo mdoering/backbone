@@ -1,5 +1,4 @@
-Myxophacidiella rehmii (Feltgen) Höhn. SPECIES
-=======
+# Myxophacidiella rehmii (Feltgen) Höhn. SPECIES
 
 #### Status
 ACCEPTED

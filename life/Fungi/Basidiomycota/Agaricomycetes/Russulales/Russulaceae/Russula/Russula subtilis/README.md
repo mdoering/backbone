@@ -1,5 +1,4 @@
-Russula subtilis Burl. SPECIES
-=======
+# Russula subtilis Burl. SPECIES
 
 #### Status
 ACCEPTED

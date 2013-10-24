@@ -1,5 +1,4 @@
-Eremomyces bilateralis Malloch & Cain, 1971 SPECIES
-=======
+# Eremomyces bilateralis Malloch & Cain, 1971 SPECIES
 
 #### Status
 ACCEPTED

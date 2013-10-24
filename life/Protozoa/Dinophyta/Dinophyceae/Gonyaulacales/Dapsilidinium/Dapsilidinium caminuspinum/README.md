@@ -1,5 +1,4 @@
-Dapsilidinium caminuspinum (Wall) Lentin & Williams SPECIES
-=======
+# Dapsilidinium caminuspinum (Wall) Lentin & Williams SPECIES
 
 #### Status
 ACCEPTED

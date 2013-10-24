@@ -1,5 +1,4 @@
-Irenina taxi Sawada SPECIES
-=======
+# Irenina taxi Sawada SPECIES
 
 #### Status
 ACCEPTED

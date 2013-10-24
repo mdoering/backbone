@@ -1,5 +1,4 @@
-Asteromphalus concavus D. M. Harwood & T. Maruyama SPECIES
-=======
+# Asteromphalus concavus D. M. Harwood & T. Maruyama SPECIES
 
 #### Status
 ACCEPTED

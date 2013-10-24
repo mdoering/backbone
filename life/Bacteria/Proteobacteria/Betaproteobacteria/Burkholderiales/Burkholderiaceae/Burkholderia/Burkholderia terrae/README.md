@@ -1,5 +1,4 @@
-Burkholderia terrae Yang et al., 2006 SPECIES
-=======
+# Burkholderia terrae Yang et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hyphoderma karstenii Jülich SPECIES
-=======
+# Hyphoderma karstenii Jülich SPECIES
 
 #### Status
 ACCEPTED

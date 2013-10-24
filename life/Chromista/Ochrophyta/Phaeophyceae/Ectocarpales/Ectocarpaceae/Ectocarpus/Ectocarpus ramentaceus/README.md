@@ -1,5 +1,4 @@
-Ectocarpus ramentaceus Zanardini SPECIES
-=======
+# Ectocarpus ramentaceus Zanardini SPECIES
 
 #### Status
 ACCEPTED

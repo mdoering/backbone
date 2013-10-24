@@ -1,5 +1,4 @@
-Entoloma limatum E. Horak SPECIES
-=======
+# Entoloma limatum E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Xenococcus minimus Geitler SPECIES
-=======
+# Xenococcus minimus Geitler SPECIES
 
 #### Status
 ACCEPTED

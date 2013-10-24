@@ -1,5 +1,4 @@
-Acrosphaera cyrtodon (Haeckel) Strelkov & Reshetnyak, 1971 SPECIES
-=======
+# Acrosphaera cyrtodon (Haeckel) Strelkov & Reshetnyak, 1971 SPECIES
 
 #### Status
 ACCEPTED

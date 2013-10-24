@@ -1,5 +1,4 @@
-Marchandiomyces marsonii Diederich & Lawrey SPECIES
-=======
+# Marchandiomyces marsonii Diederich & Lawrey SPECIES
 
 #### Status
 ACCEPTED

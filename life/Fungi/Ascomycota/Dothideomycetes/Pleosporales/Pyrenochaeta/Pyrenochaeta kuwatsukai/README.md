@@ -1,5 +1,4 @@
-Pyrenochaeta kuwatsukai Hara SPECIES
-=======
+# Pyrenochaeta kuwatsukai Hara SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stegonsporium multiseptum Strasser SPECIES
-=======
+# Stegonsporium multiseptum Strasser SPECIES
 
 #### Status
 ACCEPTED

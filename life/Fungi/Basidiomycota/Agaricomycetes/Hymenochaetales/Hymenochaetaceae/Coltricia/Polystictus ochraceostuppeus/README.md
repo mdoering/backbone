@@ -1,5 +1,4 @@
-Polystictus ochraceostuppeus Lloyd SPECIES
-=======
+# Polystictus ochraceostuppeus Lloyd SPECIES
 
 #### Status
 ACCEPTED

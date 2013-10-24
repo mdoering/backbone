@@ -1,5 +1,4 @@
-Phoma syringella Fuckel SPECIES
-=======
+# Phoma syringella Fuckel SPECIES
 
 #### Status
 ACCEPTED

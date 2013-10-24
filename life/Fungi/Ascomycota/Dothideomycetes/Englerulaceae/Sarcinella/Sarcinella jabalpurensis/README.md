@@ -1,5 +1,4 @@
-Sarcinella jabalpurensis R.C. Rajak & Soni SPECIES
-=======
+# Sarcinella jabalpurensis R.C. Rajak & Soni SPECIES
 
 #### Status
 ACCEPTED

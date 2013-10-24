@@ -1,5 +1,4 @@
-Stigmatea cephalariae Ranoj. SPECIES
-=======
+# Stigmatea cephalariae Ranoj. SPECIES
 
 #### Status
 ACCEPTED

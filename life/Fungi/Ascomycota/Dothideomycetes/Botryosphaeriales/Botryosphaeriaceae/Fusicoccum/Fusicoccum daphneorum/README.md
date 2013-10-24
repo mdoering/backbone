@@ -1,5 +1,4 @@
-Fusicoccum daphneorum Dufrenoy SPECIES
-=======
+# Fusicoccum daphneorum Dufrenoy SPECIES
 
 #### Status
 ACCEPTED

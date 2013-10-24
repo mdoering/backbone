@@ -1,5 +1,4 @@
-Wigginsiella Lucas-Clark, 1987 GENUS
-=======
+# Wigginsiella Lucas-Clark, 1987 GENUS
 
 #### Status
 ACCEPTED

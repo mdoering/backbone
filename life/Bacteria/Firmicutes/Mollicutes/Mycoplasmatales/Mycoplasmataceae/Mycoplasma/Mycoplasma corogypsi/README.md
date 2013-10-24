@@ -1,5 +1,4 @@
-Mycoplasma corogypsi Panangala et al., 1993 SPECIES
-=======
+# Mycoplasma corogypsi Panangala et al., 1993 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peziza struthiopteridis Saut. SPECIES
-=======
+# Peziza struthiopteridis Saut. SPECIES
 
 #### Status
 ACCEPTED

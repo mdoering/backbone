@@ -1,5 +1,4 @@
-Menegazzia subbullata P. James & Kantvilas SPECIES
-=======
+# Menegazzia subbullata P. James & Kantvilas SPECIES
 
 #### Status
 ACCEPTED

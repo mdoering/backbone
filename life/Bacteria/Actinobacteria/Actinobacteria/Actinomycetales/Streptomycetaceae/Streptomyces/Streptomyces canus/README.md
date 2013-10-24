@@ -1,5 +1,4 @@
-Streptomyces canus Heinemann et al., 1953 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces canus Heinemann et al., 1953 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

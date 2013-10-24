@@ -1,5 +1,4 @@
-Pleospora mycenastri Hollós SPECIES
-=======
+# Pleospora mycenastri Hollós SPECIES
 
 #### Status
 ACCEPTED

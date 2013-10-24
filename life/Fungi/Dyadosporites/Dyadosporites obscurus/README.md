@@ -1,5 +1,4 @@
-Dyadosporites obscurus Z.C. Song & Liu Cao SPECIES
-=======
+# Dyadosporites obscurus Z.C. Song & Liu Cao SPECIES
 
 #### Status
 ACCEPTED

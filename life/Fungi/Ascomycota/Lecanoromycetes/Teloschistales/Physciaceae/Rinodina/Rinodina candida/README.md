@@ -1,5 +1,4 @@
-Rinodina candida SPECIES
-=======
+# Rinodina candida SPECIES
 
 #### Status
 ACCEPTED

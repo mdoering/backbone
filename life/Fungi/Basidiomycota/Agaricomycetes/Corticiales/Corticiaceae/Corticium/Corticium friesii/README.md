@@ -1,5 +1,4 @@
-Corticium friesii Grognot SPECIES
-=======
+# Corticium friesii Grognot SPECIES
 
 #### Status
 ACCEPTED

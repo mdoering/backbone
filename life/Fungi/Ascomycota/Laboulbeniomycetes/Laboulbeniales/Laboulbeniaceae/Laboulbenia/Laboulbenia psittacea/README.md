@@ -1,5 +1,4 @@
-Laboulbenia psittacea Speg. SPECIES
-=======
+# Laboulbenia psittacea Speg. SPECIES
 
 #### Status
 ACCEPTED

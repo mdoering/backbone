@@ -1,5 +1,4 @@
-Rhabdospora paoliana D. Sacc. & Traverso SPECIES
-=======
+# Rhabdospora paoliana D. Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

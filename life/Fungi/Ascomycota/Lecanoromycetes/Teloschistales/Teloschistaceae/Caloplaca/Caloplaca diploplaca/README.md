@@ -1,5 +1,4 @@
-Caloplaca diploplaca Zahlbr. SPECIES
-=======
+# Caloplaca diploplaca Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

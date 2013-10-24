@@ -1,5 +1,4 @@
-Acrostalagmus roseus Bainier SPECIES
-=======
+# Acrostalagmus roseus Bainier SPECIES
 
 #### Status
 ACCEPTED

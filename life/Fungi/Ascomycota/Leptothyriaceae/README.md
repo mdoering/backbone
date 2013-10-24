@@ -1,5 +1,4 @@
-Leptothyriaceae FAMILY
-=======
+# Leptothyriaceae FAMILY
 
 #### Status
 ACCEPTED

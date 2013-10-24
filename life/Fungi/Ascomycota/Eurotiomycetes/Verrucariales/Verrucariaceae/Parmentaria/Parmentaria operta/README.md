@@ -1,5 +1,4 @@
-Parmentaria operta Makhija & Patw. SPECIES
-=======
+# Parmentaria operta Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rosellinia macouniana Ellis & Everh. SPECIES
-=======
+# Rosellinia macouniana Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hypocrea crustalina (Schulzer) Sacc. & Traverso SPECIES
-=======
+# Hypocrea crustalina (Schulzer) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

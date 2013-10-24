@@ -1,5 +1,4 @@
-Thelotrema porphyrodiscum Zahlbr. SPECIES
-=======
+# Thelotrema porphyrodiscum Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

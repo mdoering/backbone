@@ -1,5 +1,4 @@
-Pseudocercospora madhauliensis Kamal, A.N. Rai & A.S. Moses SPECIES
-=======
+# Pseudocercospora madhauliensis Kamal, A.N. Rai & A.S. Moses SPECIES
 
 #### Status
 ACCEPTED

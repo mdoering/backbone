@@ -1,5 +1,4 @@
-Medeolaria farlowii Thaxt., 1922 SPECIES
-=======
+# Medeolaria farlowii Thaxt., 1922 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Marasmius selangorensis Y.S. Tan & Desjardin SPECIES
-=======
+# Marasmius selangorensis Y.S. Tan & Desjardin SPECIES
 
 #### Status
 ACCEPTED

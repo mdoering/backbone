@@ -1,5 +1,4 @@
-Trichophrya liaohoensis Chen, 1984 SPECIES
-=======
+# Trichophrya liaohoensis Chen, 1984 SPECIES
 
 #### Status
 ACCEPTED

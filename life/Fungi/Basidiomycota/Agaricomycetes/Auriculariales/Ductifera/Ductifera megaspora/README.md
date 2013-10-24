@@ -1,5 +1,4 @@
-Ductifera megaspora (G.W. Martin ex G.W. Martin) K. Wells SPECIES
-=======
+# Ductifera megaspora (G.W. Martin ex G.W. Martin) K. Wells SPECIES
 
 #### Status
 ACCEPTED

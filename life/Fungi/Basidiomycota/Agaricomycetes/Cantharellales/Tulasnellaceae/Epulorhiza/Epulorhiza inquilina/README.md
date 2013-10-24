@@ -1,5 +1,4 @@
-Epulorhiza inquilina Currah, Zettler & McInnis SPECIES
-=======
+# Epulorhiza inquilina Currah, Zettler & McInnis SPECIES
 
 #### Status
 ACCEPTED

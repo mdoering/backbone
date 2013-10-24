@@ -1,5 +1,4 @@
-Ophiobolus stromaticus Hazsl. SPECIES
-=======
+# Ophiobolus stromaticus Hazsl. SPECIES
 
 #### Status
 ACCEPTED

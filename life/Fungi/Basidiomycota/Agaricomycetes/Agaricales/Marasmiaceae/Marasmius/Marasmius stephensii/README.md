@@ -1,5 +1,4 @@
-Marasmius stephensii Berk. & Broome SPECIES
-=======
+# Marasmius stephensii Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

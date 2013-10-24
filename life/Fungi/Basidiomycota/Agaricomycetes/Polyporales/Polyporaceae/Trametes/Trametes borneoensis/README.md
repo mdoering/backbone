@@ -1,5 +1,4 @@
-Trametes borneoensis Lloyd SPECIES
-=======
+# Trametes borneoensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

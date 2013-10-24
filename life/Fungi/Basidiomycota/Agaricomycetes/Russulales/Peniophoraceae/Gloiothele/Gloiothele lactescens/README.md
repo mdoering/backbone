@@ -1,17 +1,16 @@
-Gloiothele orientalis (Parmasto) Ghobad-Nejhad, 2009 SPECIES
-=======
+# Gloiothele lactescens (Berk.) Hjortstam, 1987 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Windahlia 17: 58 (1987)
 
 #### Original name
-null
+Thelephora lactescens Berk., 1836
 
 ### Remarks
 null

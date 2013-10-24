@@ -1,5 +1,4 @@
-Phoma linearispora Wehm. SPECIES
-=======
+# Phoma linearispora Wehm. SPECIES
 
 #### Status
 ACCEPTED

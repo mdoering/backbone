@@ -1,5 +1,4 @@
-Entosordaria jacobi-felicis C. Moreau & M. Moreau SPECIES
-=======
+# Entosordaria jacobi-felicis C. Moreau & M. Moreau SPECIES
 
 #### Status
 ACCEPTED

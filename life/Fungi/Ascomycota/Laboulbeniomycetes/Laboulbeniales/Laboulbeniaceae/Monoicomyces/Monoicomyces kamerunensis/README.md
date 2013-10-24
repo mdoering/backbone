@@ -1,5 +1,4 @@
-Monoicomyces kamerunensis Thaxt. SPECIES
-=======
+# Monoicomyces kamerunensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helotium phlebophorum Pat. SPECIES
-=======
+# Helotium phlebophorum Pat. SPECIES
 
 #### Status
 ACCEPTED

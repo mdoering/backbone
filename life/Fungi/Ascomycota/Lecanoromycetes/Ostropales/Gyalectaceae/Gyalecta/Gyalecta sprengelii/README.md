@@ -1,5 +1,4 @@
-Gyalecta sprengelii Ach. SPECIES
-=======
+# Gyalecta sprengelii Ach. SPECIES
 
 #### Status
 ACCEPTED

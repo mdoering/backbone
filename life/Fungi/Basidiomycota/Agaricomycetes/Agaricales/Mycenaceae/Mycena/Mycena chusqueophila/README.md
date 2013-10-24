@@ -1,5 +1,4 @@
-Mycena chusqueophila Singer SPECIES
-=======
+# Mycena chusqueophila Singer SPECIES
 
 #### Status
 ACCEPTED

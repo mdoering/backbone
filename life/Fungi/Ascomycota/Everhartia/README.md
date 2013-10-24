@@ -1,5 +1,4 @@
-Everhartia Sacc. & Ellis GENUS
-=======
+# Everhartia Sacc. & Ellis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stigmidium joergensenii R. Sant. SPECIES
-=======
+# Stigmidium joergensenii R. Sant. SPECIES
 
 #### Status
 ACCEPTED

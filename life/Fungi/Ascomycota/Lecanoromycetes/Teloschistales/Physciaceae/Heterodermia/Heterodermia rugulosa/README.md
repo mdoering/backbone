@@ -1,5 +1,4 @@
-Heterodermia rugulosa (Kurok.) Trass SPECIES
-=======
+# Heterodermia rugulosa (Kurok.) Trass SPECIES
 
 #### Status
 ACCEPTED

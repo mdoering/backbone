@@ -1,5 +1,4 @@
-Phoma tatulae f. tatulae FORM
-=======
+# Phoma tatulae Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Phoma tatulae f. tatulae
+Phoma tatulae Kalchbr. & Cooke
 
 ### Remarks
 null

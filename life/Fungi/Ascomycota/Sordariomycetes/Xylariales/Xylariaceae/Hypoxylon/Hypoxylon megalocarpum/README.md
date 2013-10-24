@@ -1,5 +1,4 @@
-Hypoxylon megalocarpum (Plowr.) P.M.D. Martin SPECIES
-=======
+# Hypoxylon megalocarpum (Plowr.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

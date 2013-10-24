@@ -1,5 +1,4 @@
-Parmelia molybdina (Wahlenb.) SPECIES
-=======
+# Parmelia molybdina (Wahlenb.) SPECIES
 
 #### Status
 ACCEPTED

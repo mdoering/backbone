@@ -1,5 +1,4 @@
-Aleurodiscus wakefieldiae Boidin & Beller, 1967 SPECIES
-=======
+# Aleurodiscus wakefieldiae Boidin & Beller, 1967 SPECIES
 
 #### Status
 ACCEPTED

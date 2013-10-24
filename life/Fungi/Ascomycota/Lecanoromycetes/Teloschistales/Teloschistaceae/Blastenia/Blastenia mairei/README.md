@@ -1,5 +1,4 @@
-Blastenia mairei (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Blastenia mairei (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

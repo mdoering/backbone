@@ -1,5 +1,4 @@
-Agaricus spodophyllus var. spodophyllus VARIETY
-=======
+# Agaricus spodophyllus Krombh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Agaricus spodophyllus var. spodophyllus
+Agaricus spodophyllus Krombh.
 
 ### Remarks
 null

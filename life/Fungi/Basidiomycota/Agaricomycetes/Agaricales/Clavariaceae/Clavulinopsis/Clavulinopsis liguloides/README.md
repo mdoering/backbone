@@ -1,5 +1,4 @@
-Clavulinopsis liguloides (Henn. & E. Nyman) Corner SPECIES
-=======
+# Clavulinopsis liguloides (Henn. & E. Nyman) Corner SPECIES
 
 #### Status
 ACCEPTED

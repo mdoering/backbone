@@ -1,5 +1,4 @@
-Paraphaeosphaeria amblyspora Ramaley SPECIES
-=======
+# Paraphaeosphaeria amblyspora Ramaley SPECIES
 
 #### Status
 ACCEPTED

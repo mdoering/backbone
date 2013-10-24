@@ -1,5 +1,4 @@
-Seimatosporium triseptatum (Peck) Piroz. & Shoemaker SPECIES
-=======
+# Seimatosporium triseptatum (Peck) Piroz. & Shoemaker SPECIES
 
 #### Status
 ACCEPTED

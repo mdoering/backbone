@@ -1,14 +1,13 @@
-Ciliaria woolhopeia (Cooke & W. Phillips) Quél., 1880 SPECIES
-=======
+# Trichophaea woolhopeia (Cooke & W. Phillips) Arnould, 1893 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. Amis Sci. Nat. Rouen, Série II 15: 179 (1880)
+Bull. Soc. mycol. Fr. 9: 112 (1893)
 
 #### Original name
 Peziza woolhopeia Cooke & W. Phillips, 1877

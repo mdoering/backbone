@@ -1,5 +1,4 @@
-Lecidea stellutala SPECIES
-=======
+# Lecidea stellutala SPECIES
 
 #### Status
 ACCEPTED

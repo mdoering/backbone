@@ -1,5 +1,4 @@
-Tephromela territoriensis Elix & Kalb SPECIES
-=======
+# Tephromela territoriensis Elix & Kalb SPECIES
 
 #### Status
 ACCEPTED

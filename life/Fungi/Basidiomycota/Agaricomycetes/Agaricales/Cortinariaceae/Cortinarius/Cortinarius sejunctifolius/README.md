@@ -1,5 +1,4 @@
-Cortinarius sejunctifolius Rob. Henry SPECIES
-=======
+# Cortinarius sejunctifolius Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

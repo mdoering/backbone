@@ -1,5 +1,4 @@
-Vorticella sureta Dumas SPECIES
-=======
+# Vorticella sureta Dumas SPECIES
 
 #### Status
 ACCEPTED

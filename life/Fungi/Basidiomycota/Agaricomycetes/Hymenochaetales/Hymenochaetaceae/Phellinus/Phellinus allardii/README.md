@@ -1,17 +1,16 @@
-Fomes allardi Bres. SPECIES
-=======
+# Phellinus allardii (Bres.) S. Ahmad, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Basidiomyc. W. Pakist. 6: 57 (1972)
 
 #### Original name
-Fomes allardi Bres.
+Fomes allardii Bres., 1910
 
 ### Remarks
 null

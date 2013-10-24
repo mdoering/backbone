@@ -1,5 +1,4 @@
-Cryptoceuthospora ulmi Petr. SPECIES
-=======
+# Cryptoceuthospora ulmi Petr. SPECIES
 
 #### Status
 ACCEPTED

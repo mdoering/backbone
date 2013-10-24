@@ -1,5 +1,4 @@
-Collema pulchellum SPECIES
-=======
+# Collema pulchellum SPECIES
 
 #### Status
 ACCEPTED

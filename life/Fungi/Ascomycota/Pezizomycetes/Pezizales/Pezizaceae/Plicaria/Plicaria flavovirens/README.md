@@ -1,5 +1,4 @@
-Plicaria flavovirens Fuckel SPECIES
-=======
+# Plicaria flavovirens Fuckel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sepedonium levisporum Demelius SPECIES
-=======
+# Sepedonium levisporum Demelius SPECIES
 
 #### Status
 ACCEPTED

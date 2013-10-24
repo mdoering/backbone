@@ -1,5 +1,4 @@
-Puccinia nuttallii Ellis & Everh. SPECIES
-=======
+# Puccinia nuttallii Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

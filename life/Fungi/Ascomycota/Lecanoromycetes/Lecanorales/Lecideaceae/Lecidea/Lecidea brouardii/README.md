@@ -1,5 +1,4 @@
-Lecidea brouardii (B. de Lesd.) Zahlbr. SPECIES
-=======
+# Lecidea brouardii (B. de Lesd.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

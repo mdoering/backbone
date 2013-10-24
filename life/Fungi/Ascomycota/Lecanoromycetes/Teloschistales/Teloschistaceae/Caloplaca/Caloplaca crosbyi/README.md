@@ -1,5 +1,4 @@
-Caloplaca crosbyi Zahlbr. SPECIES
-=======
+# Caloplaca crosbyi Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

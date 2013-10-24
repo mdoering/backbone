@@ -1,5 +1,4 @@
-Thamnonoma charcotii (Hue) Gyeln. SPECIES
-=======
+# Thamnonoma charcotii (Hue) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

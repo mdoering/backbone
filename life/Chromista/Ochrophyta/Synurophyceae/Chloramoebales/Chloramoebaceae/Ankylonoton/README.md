@@ -1,5 +1,4 @@
-Ankylonoton Pascher, 1932 GENUS
-=======
+# Ankylonoton Pascher, 1932 GENUS
 
 #### Status
 ACCEPTED

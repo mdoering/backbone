@@ -1,5 +1,4 @@
-Panaeolus remyi (Kalchbr. & Roum.) Sacc. SPECIES
-=======
+# Panaeolus remyi (Kalchbr. & Roum.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

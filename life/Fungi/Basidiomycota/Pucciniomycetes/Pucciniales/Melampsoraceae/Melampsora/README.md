@@ -1,17 +1,16 @@
-Necium Arthur GENUS
-=======
+# Melampsora Castagne, 1843 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
-N. Amer. Fl. (New York) 7: 114 (1907)
+null
 
 #### Original name
-Necium Arthur
+null
 
 ### Remarks
 null

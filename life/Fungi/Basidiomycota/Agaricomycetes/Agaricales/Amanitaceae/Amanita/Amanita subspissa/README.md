@@ -1,5 +1,4 @@
-Amanita subspissa E.-J. Gilbert SPECIES
-=======
+# Amanita subspissa E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

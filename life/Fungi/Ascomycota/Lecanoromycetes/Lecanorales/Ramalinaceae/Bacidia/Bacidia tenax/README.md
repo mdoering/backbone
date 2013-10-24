@@ -1,5 +1,4 @@
-Bacidia tenax (Kremp.) Szatala SPECIES
-=======
+# Bacidia tenax (Kremp.) Szatala SPECIES
 
 #### Status
 ACCEPTED

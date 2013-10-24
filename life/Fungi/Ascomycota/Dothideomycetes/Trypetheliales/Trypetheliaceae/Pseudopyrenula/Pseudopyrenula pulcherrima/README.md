@@ -1,5 +1,4 @@
-Pseudopyrenula pulcherrima (Fée) Vain. SPECIES
-=======
+# Pseudopyrenula pulcherrima (Fée) Vain. SPECIES
 
 #### Status
 ACCEPTED

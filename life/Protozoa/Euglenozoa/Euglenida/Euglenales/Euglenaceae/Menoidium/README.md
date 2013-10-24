@@ -1,5 +1,4 @@
-Menoidium Perty, 1852 GENUS
-=======
+# Menoidium Perty, 1852 GENUS
 
 #### Status
 ACCEPTED

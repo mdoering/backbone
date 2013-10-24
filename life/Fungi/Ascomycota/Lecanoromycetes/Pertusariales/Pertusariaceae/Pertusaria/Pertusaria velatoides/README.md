@@ -1,5 +1,4 @@
-Pertusaria velatoides A.L. Sm. SPECIES
-=======
+# Pertusaria velatoides A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

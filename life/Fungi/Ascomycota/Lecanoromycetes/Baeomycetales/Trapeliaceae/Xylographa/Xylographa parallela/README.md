@@ -1,5 +1,4 @@
-Xylographa abietina f. abietina FORM
-=======
+# Xylographa parallela (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Summa veg. Scand. (Stockholm), Section Post. 372 (1849)
 
 #### Original name
-Xylographa abietina f. abietina
+Graphis parallela Müll. Arg.
 
 ### Remarks
 null

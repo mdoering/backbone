@@ -1,5 +1,4 @@
-Cortinarius cruentus Bidaud & Reumaux SPECIES
-=======
+# Cortinarius cruentus Bidaud & Reumaux SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lophocephaloides Théodoridès, Desportes & Jolivet, 1965 GENUS
-=======
+# Lophocephaloides Théodoridès, Desportes & Jolivet, 1965 GENUS
 
 #### Status
 ACCEPTED

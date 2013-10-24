@@ -1,14 +1,13 @@
-Teratosphaeria pseudocryptica (Crous) Crous & U. Braun, 2007 SPECIES
-=======
+# Mycosphaerella pseudocryptica Crous, 2006 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Crous, Braun & Groenewald, Stud. Mycol. 58: 11 (2007)
+in Crous, Wingfield, Mansilla, Alfenas & Groenewald, Stud. Mycol. 55: 116 (2006)
 
 #### Original name
 Mycosphaerella pseudocryptica Crous, 2006

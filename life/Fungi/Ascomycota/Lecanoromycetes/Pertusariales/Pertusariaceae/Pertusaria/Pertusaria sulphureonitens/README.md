@@ -1,5 +1,4 @@
-Pertusaria sulphureonitens J. Steiner SPECIES
-=======
+# Pertusaria sulphureonitens J. Steiner SPECIES
 
 #### Status
 ACCEPTED

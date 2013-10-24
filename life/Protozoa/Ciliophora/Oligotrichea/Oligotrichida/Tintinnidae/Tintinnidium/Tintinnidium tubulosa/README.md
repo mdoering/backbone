@@ -1,5 +1,4 @@
-Tintinnidium tubulosa Lavander, 1900 SPECIES
-=======
+# Tintinnidium tubulosa Lavander, 1900 SPECIES
 
 #### Status
 ACCEPTED

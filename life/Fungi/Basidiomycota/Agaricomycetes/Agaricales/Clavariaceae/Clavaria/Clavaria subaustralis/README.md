@@ -1,5 +1,4 @@
-Clavaria subaustralis (R.H. Petersen) R.H. Petersen SPECIES
-=======
+# Clavaria subaustralis (R.H. Petersen) R.H. Petersen SPECIES
 
 #### Status
 ACCEPTED

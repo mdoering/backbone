@@ -1,5 +1,4 @@
-Septoria polemonioides Peck SPECIES
-=======
+# Septoria polemonioides Peck SPECIES
 
 #### Status
 ACCEPTED

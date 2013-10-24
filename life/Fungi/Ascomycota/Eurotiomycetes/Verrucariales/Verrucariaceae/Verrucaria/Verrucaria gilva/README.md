@@ -1,5 +1,4 @@
-Verrucaria gilva Hoffm. SPECIES
-=======
+# Verrucaria gilva Hoffm. SPECIES
 
 #### Status
 ACCEPTED

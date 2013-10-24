@@ -1,5 +1,4 @@
-Nectria foliicola Berk. & M.A. Curtis, 1868 SPECIES
-=======
+# Nectria foliicola Berk. & M.A. Curtis, 1868 SPECIES
 
 #### Status
 ACCEPTED

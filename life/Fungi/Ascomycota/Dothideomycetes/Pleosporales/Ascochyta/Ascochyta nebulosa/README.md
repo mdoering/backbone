@@ -1,17 +1,16 @@
-Ascochyta nebulosa var. nebulosa VARIETY
-=======
+# Ascochyta nebulosa Sacc. & Berl., 1889 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Bull. Soc. R. Bot. Belg. 28(1): 98 (1889)
 
 #### Original name
-Ascochyta nebulosa var. nebulosa
+Ascochyta nebulosa Sacc. & Berl., 1889
 
 ### Remarks
 null

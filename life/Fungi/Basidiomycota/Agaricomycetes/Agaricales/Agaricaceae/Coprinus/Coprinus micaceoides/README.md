@@ -1,5 +1,4 @@
-Coprinus micaceoides Wichanský SPECIES
-=======
+# Coprinus micaceoides Wichanský SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeroderma aureum (McAlpine) Sacc. & D. Sacc. SPECIES
-=======
+# Sphaeroderma aureum (McAlpine) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

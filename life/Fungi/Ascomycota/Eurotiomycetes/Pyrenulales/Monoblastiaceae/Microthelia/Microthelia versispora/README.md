@@ -1,5 +1,4 @@
-Microthelia versispora Bagl. & Carestia SPECIES
-=======
+# Microthelia versispora Bagl. & Carestia SPECIES
 
 #### Status
 ACCEPTED

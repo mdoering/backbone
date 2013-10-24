@@ -1,5 +1,4 @@
-Taeniolella cladiniicola Alstrup SPECIES
-=======
+# Taeniolella cladiniicola Alstrup SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria pertenuis Leight. SPECIES
-=======
+# Verrucaria pertenuis Leight. SPECIES
 
 #### Status
 ACCEPTED

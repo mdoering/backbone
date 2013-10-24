@@ -1,17 +1,16 @@
-Fuscutata trirubiginopa (X.L. Pan & G.Yun Zhang) Oehl, F.A. Souza & Sieverd., 2008 SPECIES
-=======
+# Scutellospora trirubiginopa X.L. Pan & G.Yun Zhang, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Pan, Zhang, Wang & Wu, Mycosystema 16(3): 169 (1997)
 
 #### Original name
-null
+Scutellospora trirubiginopa X.L. Pan & G.Yun Zhang, 1997
 
 ### Remarks
 null

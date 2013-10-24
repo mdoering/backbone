@@ -1,5 +1,4 @@
-Tulostoma molfinoanum Speg. SPECIES
-=======
+# Tulostoma molfinoanum Speg. SPECIES
 
 #### Status
 ACCEPTED

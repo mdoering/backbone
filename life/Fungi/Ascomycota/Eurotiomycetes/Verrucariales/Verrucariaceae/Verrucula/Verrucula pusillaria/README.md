@@ -1,5 +1,4 @@
-Verrucula pusillaria Nav.-Ros. & Cl. Roux SPECIES
-=======
+# Verrucula pusillaria Nav.-Ros. & Cl. Roux SPECIES
 
 #### Status
 ACCEPTED

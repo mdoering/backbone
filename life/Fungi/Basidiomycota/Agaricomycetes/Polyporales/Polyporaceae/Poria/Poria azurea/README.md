@@ -1,5 +1,4 @@
-Poria azurea Rick SPECIES
-=======
+# Poria azurea Rick SPECIES
 
 #### Status
 ACCEPTED

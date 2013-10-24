@@ -1,5 +1,4 @@
-Barnettozyma populi (Phaff, Y. Yamada, Tredick & M. Miranda) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
-=======
+# Barnettozyma populi (Phaff, Y. Yamada, Tredick & M. Miranda) Kurtzman, Robnett & Basehoar-Powers, 2008 SPECIES
 
 #### Status
 ACCEPTED

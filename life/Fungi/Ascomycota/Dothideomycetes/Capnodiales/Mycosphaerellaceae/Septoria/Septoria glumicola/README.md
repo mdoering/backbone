@@ -1,5 +1,4 @@
-Septoria glumicola Unamuno SPECIES
-=======
+# Septoria glumicola Unamuno SPECIES
 
 #### Status
 ACCEPTED

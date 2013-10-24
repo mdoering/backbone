@@ -1,5 +1,4 @@
-Antrodia taxa T.T. Chang & W.N. Chou SPECIES
-=======
+# Antrodia taxa T.T. Chang & W.N. Chou SPECIES
 
 #### Status
 ACCEPTED

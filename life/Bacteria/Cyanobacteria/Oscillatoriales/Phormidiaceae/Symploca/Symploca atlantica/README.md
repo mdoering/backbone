@@ -1,5 +1,4 @@
-Symploca atlantica Gomont SPECIES
-=======
+# Symploca atlantica Gomont SPECIES
 
 #### Status
 ACCEPTED

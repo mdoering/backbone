@@ -1,5 +1,4 @@
-Urocystis callianthemi Domashova SPECIES
-=======
+# Urocystis callianthemi Domashova SPECIES
 
 #### Status
 ACCEPTED

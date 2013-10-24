@@ -1,5 +1,4 @@
-Leptosphaeria gossypii Woron. SPECIES
-=======
+# Leptosphaeria gossypii Woron. SPECIES
 
 #### Status
 ACCEPTED

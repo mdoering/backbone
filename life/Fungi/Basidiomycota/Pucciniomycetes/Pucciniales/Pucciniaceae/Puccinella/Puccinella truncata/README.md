@@ -1,5 +1,4 @@
-Puccinella truncata Fuckel SPECIES
-=======
+# Puccinella truncata Fuckel SPECIES
 
 #### Status
 ACCEPTED

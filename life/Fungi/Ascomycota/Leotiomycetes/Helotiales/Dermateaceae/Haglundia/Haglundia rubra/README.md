@@ -1,5 +1,4 @@
-Haglundia rubra E. Müll., 1977 SPECIES
-=======
+# Haglundia rubra E. Müll., 1977 SPECIES
 
 #### Status
 ACCEPTED

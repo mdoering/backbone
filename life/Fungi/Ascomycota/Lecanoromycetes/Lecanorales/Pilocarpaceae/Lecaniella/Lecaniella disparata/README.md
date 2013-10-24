@@ -1,5 +1,4 @@
-Lecaniella disparata (Nyl.) Jatta SPECIES
-=======
+# Lecaniella disparata (Nyl.) Jatta SPECIES
 
 #### Status
 ACCEPTED

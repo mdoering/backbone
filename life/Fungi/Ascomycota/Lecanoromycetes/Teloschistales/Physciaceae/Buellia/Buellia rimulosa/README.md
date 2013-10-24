@@ -1,5 +1,4 @@
-Buellia rimulosa Müll. Arg. SPECIES
-=======
+# Buellia rimulosa Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

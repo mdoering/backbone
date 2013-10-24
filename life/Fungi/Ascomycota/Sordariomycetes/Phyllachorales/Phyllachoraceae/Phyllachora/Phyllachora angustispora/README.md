@@ -1,5 +1,4 @@
-Phyllachora angustispora Speg., 1919 SPECIES
-=======
+# Phyllachora angustispora Speg., 1919 SPECIES
 
 #### Status
 ACCEPTED

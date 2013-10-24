@@ -1,5 +1,4 @@
-Sporisorium pole-evansii Vánky, 1999 SPECIES
-=======
+# Sporisorium pole-evansii Vánky, 1999 SPECIES
 
 #### Status
 ACCEPTED

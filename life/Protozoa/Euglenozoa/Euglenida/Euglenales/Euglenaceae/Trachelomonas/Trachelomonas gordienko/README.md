@@ -1,5 +1,4 @@
-Trachelomonas gordienko Popova SPECIES
-=======
+# Trachelomonas gordienko Popova SPECIES
 
 #### Status
 ACCEPTED

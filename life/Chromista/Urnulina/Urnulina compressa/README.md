@@ -1,5 +1,4 @@
-Urnulina compressa Cushman, 1930 SPECIES
-=======
+# Urnulina compressa Cushman, 1930 SPECIES
 
 #### Status
 ACCEPTED

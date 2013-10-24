@@ -1,14 +1,13 @@
-Physalacria luttrellii G.E. Baker, 1947 SPECIES
-=======
+# Typhula luttrellii (G.E. Baker) Berthier, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 38(6): 636 (1947)
+Mycotaxon 12(1): 106 (1980)
 
 #### Original name
 Physalacria luttrellii G.E. Baker, 1947

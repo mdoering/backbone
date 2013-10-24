@@ -1,5 +1,4 @@
-Lacrimasporonites ovatus Z.C. Song, Qian & Y.H. Zheng SPECIES
-=======
+# Lacrimasporonites ovatus Z.C. Song, Qian & Y.H. Zheng SPECIES
 
 #### Status
 ACCEPTED

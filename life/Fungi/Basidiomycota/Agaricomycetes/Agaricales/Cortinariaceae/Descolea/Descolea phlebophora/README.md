@@ -1,5 +1,4 @@
-Descolea phlebophora E. Horak, 1971 SPECIES
-=======
+# Descolea phlebophora E. Horak, 1971 SPECIES
 
 #### Status
 ACCEPTED

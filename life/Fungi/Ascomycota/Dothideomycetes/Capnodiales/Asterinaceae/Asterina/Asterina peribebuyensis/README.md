@@ -1,5 +1,4 @@
-Asterina peribebuyensis Speg. SPECIES
-=======
+# Asterina peribebuyensis Speg. SPECIES
 
 #### Status
 ACCEPTED

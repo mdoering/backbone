@@ -1,5 +1,4 @@
-Euglandulina colomboensis McCulloch, 1977 SPECIES
-=======
+# Euglandulina colomboensis McCulloch, 1977 SPECIES
 
 #### Status
 ACCEPTED

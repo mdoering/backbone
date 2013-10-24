@@ -1,5 +1,4 @@
-Peziza encoelium Sacc. SPECIES
-=======
+# Peziza encoelium Sacc. SPECIES
 
 #### Status
 ACCEPTED

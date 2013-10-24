@@ -1,5 +1,4 @@
-Ichthyophthirioides Roque & de Puytorac, 1966 GENUS
-=======
+# Ichthyophthirioides Roque & de Puytorac, 1966 GENUS
 
 #### Status
 ACCEPTED

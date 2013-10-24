@@ -1,5 +1,4 @@
-Rhizomorpha alectorioides var. alectorioides VARIETY
-=======
+# Rhizomorpha alectorioides Ach. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 K. Vetensk-Acad. Handl. 214 (1814)
 
 #### Original name
-Rhizomorpha alectorioides var. alectorioides
+Rhizomorpha alectorioides Ach.
 
 ### Remarks
 null

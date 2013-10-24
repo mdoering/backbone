@@ -1,5 +1,4 @@
-Dermatea pelidna Kalchbr. & Cooke SPECIES
-=======
+# Dermatea pelidna Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

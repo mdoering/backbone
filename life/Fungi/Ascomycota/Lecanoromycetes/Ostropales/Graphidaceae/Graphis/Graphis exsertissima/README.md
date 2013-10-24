@@ -1,5 +1,4 @@
-Graphis exsertissima Vain. SPECIES
-=======
+# Graphis exsertissima Vain. SPECIES
 
 #### Status
 ACCEPTED

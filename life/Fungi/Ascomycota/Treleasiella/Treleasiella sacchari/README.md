@@ -1,5 +1,4 @@
-Treleasiella sacchari Speg. SPECIES
-=======
+# Treleasiella sacchari Speg. SPECIES
 
 #### Status
 ACCEPTED

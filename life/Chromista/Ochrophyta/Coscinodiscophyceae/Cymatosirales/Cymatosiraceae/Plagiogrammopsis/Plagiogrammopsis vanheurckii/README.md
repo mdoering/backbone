@@ -1,5 +1,4 @@
-Plagiogrammopsis vanheurckii (Grunow) Hasle, von Stosch & Syvertsen SPECIES
-=======
+# Plagiogrammopsis vanheurckii (Grunow) Hasle, von Stosch & Syvertsen SPECIES
 
 #### Status
 ACCEPTED

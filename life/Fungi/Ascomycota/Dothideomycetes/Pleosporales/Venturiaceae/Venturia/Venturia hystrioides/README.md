@@ -1,5 +1,4 @@
-Venturia hystrioides (Dugan, R.G. Roberts & Hanlin) Crous & U. Braun, 2007 SPECIES
-=======
+# Venturia hystrioides (Dugan, R.G. Roberts & Hanlin) Crous & U. Braun, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thyrea porphyrella M. Schultz, Büdel & Porembski SPECIES
-=======
+# Thyrea porphyrella M. Schultz, Büdel & Porembski SPECIES
 
 #### Status
 ACCEPTED

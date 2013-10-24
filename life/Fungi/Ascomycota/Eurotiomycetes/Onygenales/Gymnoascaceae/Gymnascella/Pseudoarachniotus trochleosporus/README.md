@@ -1,14 +1,13 @@
-Kraurogymnocarpa trochleospora (Kuehn & G.F. Orr) Udagawa & Uchiy., 2001 SPECIES
-=======
+# Pseudoarachniotus trochleosporus Kuehn & G.F. Orr, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycoscience 42(3): 281 (2001)
+in Orr & Kuehn, Mycologia 64(1): 58 (1972)
 
 #### Original name
 Pseudoarachniotus trochleosporus Kuehn & G.F. Orr, 1972

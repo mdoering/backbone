@@ -1,5 +1,4 @@
-Lecanora thelococcoides Nyl. SPECIES
-=======
+# Lecanora thelococcoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

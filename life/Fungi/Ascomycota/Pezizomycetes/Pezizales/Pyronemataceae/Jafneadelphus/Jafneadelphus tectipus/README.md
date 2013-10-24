@@ -1,5 +1,4 @@
-Jafneadelphus tectipus Spooner SPECIES
-=======
+# Jafneadelphus tectipus Spooner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps osuzumontana Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps osuzumontana Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

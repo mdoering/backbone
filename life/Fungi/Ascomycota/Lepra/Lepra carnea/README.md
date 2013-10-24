@@ -1,5 +1,4 @@
-Lepra carnea Ehrh. SPECIES
-=======
+# Lepra carnea Ehrh. SPECIES
 
 #### Status
 ACCEPTED

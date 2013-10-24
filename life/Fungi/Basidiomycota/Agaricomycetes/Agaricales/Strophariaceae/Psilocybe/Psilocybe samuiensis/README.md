@@ -1,5 +1,4 @@
-Psilocybe samuiensis Guzmán, Bandala & J.W. Allen SPECIES
-=======
+# Psilocybe samuiensis Guzmán, Bandala & J.W. Allen SPECIES
 
 #### Status
 ACCEPTED

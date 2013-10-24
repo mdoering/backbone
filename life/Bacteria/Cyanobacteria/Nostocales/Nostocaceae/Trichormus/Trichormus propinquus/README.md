@@ -1,5 +1,4 @@
-Trichormus propinquus (Setchell & Gardner) J. Komárek & K. Anagnostidis SPECIES
-=======
+# Trichormus propinquus (Setchell & Gardner) J. Komárek & K. Anagnostidis SPECIES
 
 #### Status
 ACCEPTED

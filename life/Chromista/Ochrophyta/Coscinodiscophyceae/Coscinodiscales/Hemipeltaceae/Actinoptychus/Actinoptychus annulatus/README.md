@@ -1,11 +1,10 @@
-Actinoptychus annulatus subsp. annulatus SUBSPECIES
-=======
+# Actinoptychus annulatus (Wallich) Grunow SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The National Checklist of Taiwan
 
 #### Published in
 null

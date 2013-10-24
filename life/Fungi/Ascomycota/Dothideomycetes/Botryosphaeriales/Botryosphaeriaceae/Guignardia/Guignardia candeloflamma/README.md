@@ -1,5 +1,4 @@
-Guignardia candeloflamma J. Fröhl. & K.D. Hyde SPECIES
-=======
+# Guignardia candeloflamma J. Fröhl. & K.D. Hyde SPECIES
 
 #### Status
 ACCEPTED

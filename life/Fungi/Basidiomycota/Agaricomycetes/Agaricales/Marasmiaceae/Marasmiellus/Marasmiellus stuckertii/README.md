@@ -1,5 +1,4 @@
-Marasmiellus stuckertii (Speg.) Singer SPECIES
-=======
+# Marasmiellus stuckertii (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

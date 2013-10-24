@@ -1,5 +1,4 @@
-Fromea quadrugata Duxbury, 1980 SPECIES
-=======
+# Fromea quadrugata Duxbury, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Palaeodikaryomyces Dörfelt GENUS
-=======
+# Palaeodikaryomyces Dörfelt GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acarospora wetmorei K. Knudsen SPECIES
-=======
+# Acarospora wetmorei K. Knudsen SPECIES
 
 #### Status
 ACCEPTED

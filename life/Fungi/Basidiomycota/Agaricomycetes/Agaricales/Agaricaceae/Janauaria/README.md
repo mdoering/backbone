@@ -1,5 +1,4 @@
-Janauaria Singer GENUS
-=======
+# Janauaria Singer GENUS
 
 #### Status
 ACCEPTED

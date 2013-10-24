@@ -1,14 +1,13 @@
-Echidnodes festucae (Lib.) R.W. Ryan, 1939 SPECIES
-=======
+# Morenoina festucae (Lib.) J.P. Ellis, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Illinois Biol. Monogr. (Urbana) 17(2): 97 (1939)
+Trans. Br. mycol. Soc. 74(2): 300 (1980)
 
 #### Original name
 Aulographum festucae Lib., 1837

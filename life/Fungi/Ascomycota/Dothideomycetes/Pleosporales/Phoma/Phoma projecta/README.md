@@ -1,5 +1,4 @@
-Phoma projecta Cooke SPECIES
-=======
+# Phoma projecta Cooke SPECIES
 
 #### Status
 ACCEPTED

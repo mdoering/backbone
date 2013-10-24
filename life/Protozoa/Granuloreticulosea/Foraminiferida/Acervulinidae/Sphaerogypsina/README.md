@@ -1,5 +1,4 @@
-Sphaerogypsina Galloway, 1933 GENUS
-=======
+# Sphaerogypsina Galloway, 1933 GENUS
 
 #### Status
 ACCEPTED

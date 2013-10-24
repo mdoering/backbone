@@ -1,5 +1,4 @@
-Mischococcus confervicola Nägeli SPECIES
-=======
+# Mischococcus confervicola Nägeli SPECIES
 
 #### Status
 ACCEPTED

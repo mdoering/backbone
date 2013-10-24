@@ -1,5 +1,4 @@
-Flammula pusilla Peck SPECIES
-=======
+# Flammula pusilla Peck SPECIES
 
 #### Status
 ACCEPTED

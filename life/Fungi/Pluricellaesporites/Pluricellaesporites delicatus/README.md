@@ -1,5 +1,4 @@
-Pluricellaesporites delicatus P. Ke & Z.Y. Shi SPECIES
-=======
+# Pluricellaesporites delicatus P. Ke & Z.Y. Shi SPECIES
 
 #### Status
 ACCEPTED

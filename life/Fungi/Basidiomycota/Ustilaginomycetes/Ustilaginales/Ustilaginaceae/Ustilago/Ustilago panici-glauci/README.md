@@ -1,5 +1,4 @@
-Ustilago panici-glauci G. Winter SPECIES
-=======
+# Ustilago panici-glauci G. Winter SPECIES
 
 #### Status
 ACCEPTED

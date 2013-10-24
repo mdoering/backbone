@@ -1,5 +1,4 @@
-Didiniidae Poche, 1913 FAMILY
-=======
+# Didiniidae Poche, 1913 FAMILY
 
 #### Status
 ACCEPTED

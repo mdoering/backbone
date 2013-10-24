@@ -1,5 +1,4 @@
-Staphylococcus piscifermentans Tanasupawat et al., 1992 SPECIES
-=======
+# Staphylococcus piscifermentans Tanasupawat et al., 1992 SPECIES
 
 #### Status
 ACCEPTED

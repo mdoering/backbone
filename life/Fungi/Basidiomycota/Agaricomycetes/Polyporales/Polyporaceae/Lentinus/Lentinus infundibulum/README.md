@@ -1,5 +1,4 @@
-Lentinus infundibulum (Berk. & M.A. Curtis) Henn. SPECIES
-=======
+# Lentinus infundibulum (Berk. & M.A. Curtis) Henn. SPECIES
 
 #### Status
 ACCEPTED

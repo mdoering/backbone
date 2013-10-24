@@ -1,8 +1,7 @@
-Orbilia fairmani (Rehm) Seaver SPECIES
-=======
+# Orbilia fairmanii (Rehm) Seaver SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

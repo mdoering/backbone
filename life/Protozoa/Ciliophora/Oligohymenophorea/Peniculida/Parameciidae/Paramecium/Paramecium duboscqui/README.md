@@ -1,5 +1,4 @@
-Paramecium duboscqui Chatton & Brachon, 1933 SPECIES
-=======
+# Paramecium duboscqui Chatton & Brachon, 1933 SPECIES
 
 #### Status
 ACCEPTED

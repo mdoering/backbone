@@ -1,14 +1,13 @@
-Leptonia atribrunnea (Murrill) Largent SPECIES
-=======
+# Leptonia atrobrunnea (Murrill) Largent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Biblthca Mycol. 55: 91 (1977)
 
 #### Original name
 Entoloma atrobrunneum Murrill

@@ -1,5 +1,4 @@
-Chaetocalathus columellifer (Berk.) Singer SPECIES
-=======
+# Chaetocalathus columellifer (Berk.) Singer SPECIES
 
 #### Status
 ACCEPTED

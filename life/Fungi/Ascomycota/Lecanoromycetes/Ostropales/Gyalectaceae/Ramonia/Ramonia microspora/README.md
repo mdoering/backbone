@@ -1,5 +1,4 @@
-Ramonia microspora Vezda SPECIES
-=======
+# Ramonia microspora Vezda SPECIES
 
 #### Status
 ACCEPTED

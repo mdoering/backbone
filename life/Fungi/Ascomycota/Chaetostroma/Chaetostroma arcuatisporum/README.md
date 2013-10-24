@@ -1,5 +1,4 @@
-Chaetostroma arcuatisporum Torrend SPECIES
-=======
+# Chaetostroma arcuatisporum Torrend SPECIES
 
 #### Status
 ACCEPTED

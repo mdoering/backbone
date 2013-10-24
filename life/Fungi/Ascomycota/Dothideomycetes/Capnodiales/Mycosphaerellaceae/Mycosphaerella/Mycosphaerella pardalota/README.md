@@ -1,5 +1,4 @@
-Mycosphaerella pardalota (Cooke & Ellis) Miles SPECIES
-=======
+# Mycosphaerella pardalota (Cooke & Ellis) Miles SPECIES
 
 #### Status
 ACCEPTED

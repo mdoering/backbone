@@ -1,5 +1,4 @@
-Paradiplodiella forsythiae (Oudem.) Zambett. SPECIES
-=======
+# Paradiplodiella forsythiae (Oudem.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

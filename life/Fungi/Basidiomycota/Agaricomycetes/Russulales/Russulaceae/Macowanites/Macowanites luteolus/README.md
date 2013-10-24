@@ -1,5 +1,4 @@
-Macowanites luteolus A.H. Sm. & Trappe SPECIES
-=======
+# Macowanites luteolus A.H. Sm. & Trappe SPECIES
 
 #### Status
 ACCEPTED

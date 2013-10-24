@@ -1,5 +1,4 @@
-Triposporiopsis GENUS
-=======
+# Triposporiopsis GENUS
 
 #### Status
 ACCEPTED

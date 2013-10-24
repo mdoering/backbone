@@ -1,5 +1,4 @@
-Proamphorella Kofoid & Campbell, 1939 GENUS
-=======
+# Proamphorella Kofoid & Campbell, 1939 GENUS
 
 #### Status
 ACCEPTED

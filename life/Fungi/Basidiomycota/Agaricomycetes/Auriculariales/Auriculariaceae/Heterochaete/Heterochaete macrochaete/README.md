@@ -1,17 +1,16 @@
-Heterochaete macrochaeta Bres. & Torrend SPECIES
-=======
+# Heterochaete macrochaete Bres. & Torrend SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Brotéria, sér. bot. 11: 86 (1913)
 
 #### Original name
-Heterochaete macrochaeta Bres. & Torrend
+Heterochaete macrochaete Bres. & Torrend
 
 ### Remarks
 null

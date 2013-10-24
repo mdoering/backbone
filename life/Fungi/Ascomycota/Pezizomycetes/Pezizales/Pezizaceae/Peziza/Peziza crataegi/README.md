@@ -1,5 +1,4 @@
-Peziza crataegi Alb. & Schwein. SPECIES
-=======
+# Peziza crataegi Alb. & Schwein. SPECIES
 
 #### Status
 ACCEPTED

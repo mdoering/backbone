@@ -1,5 +1,4 @@
-Coniella fusiformis B. Sutton & Hodges SPECIES
-=======
+# Coniella fusiformis B. Sutton & Hodges SPECIES
 
 #### Status
 ACCEPTED

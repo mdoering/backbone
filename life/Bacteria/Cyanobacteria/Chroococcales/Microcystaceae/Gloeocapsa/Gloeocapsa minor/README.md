@@ -1,5 +1,4 @@
-Gloeocapsa minor (Kutzing) Hollerbach SPECIES
-=======
+# Gloeocapsa minor (Kutzing) Hollerbach SPECIES
 
 #### Status
 ACCEPTED

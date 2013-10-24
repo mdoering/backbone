@@ -1,5 +1,4 @@
-Humaria flavens Feltgen SPECIES
-=======
+# Humaria flavens Feltgen SPECIES
 
 #### Status
 ACCEPTED

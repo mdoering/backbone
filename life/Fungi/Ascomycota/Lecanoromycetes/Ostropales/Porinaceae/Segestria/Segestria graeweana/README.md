@@ -1,5 +1,4 @@
-Segestria graeweana (Blomb.) Blomb. & Forssell SPECIES
-=======
+# Segestria graeweana (Blomb.) Blomb. & Forssell SPECIES
 
 #### Status
 ACCEPTED

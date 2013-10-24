@@ -1,5 +1,4 @@
-Kainomyces rehmanii T. Majewski SPECIES
-=======
+# Kainomyces rehmanii T. Majewski SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irenina entandrophragmae Hansf. SPECIES
-=======
+# Irenina entandrophragmae Hansf. SPECIES
 
 #### Status
 ACCEPTED

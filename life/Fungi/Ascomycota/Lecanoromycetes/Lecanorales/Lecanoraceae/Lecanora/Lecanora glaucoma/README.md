@@ -1,5 +1,4 @@
-Lecanora glaucoma SPECIES
-=======
+# Lecanora glaucoma SPECIES
 
 #### Status
 ACCEPTED

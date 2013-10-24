@@ -1,5 +1,4 @@
-Coprinus caespitosus anon. SPECIES
-=======
+# Coprinus caespitosus anon. SPECIES
 
 #### Status
 ACCEPTED

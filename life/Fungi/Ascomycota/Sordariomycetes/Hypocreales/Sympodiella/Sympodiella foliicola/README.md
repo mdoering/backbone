@@ -1,5 +1,4 @@
-Sympodiella foliicola P.M. Kirk, 1986 SPECIES
-=======
+# Sympodiella foliicola P.M. Kirk, 1986 SPECIES
 
 #### Status
 ACCEPTED

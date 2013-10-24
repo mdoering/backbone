@@ -1,5 +1,4 @@
-Lisiella passiflorae (Cooke & Massee) Cooke & Massee SPECIES
-=======
+# Lisiella passiflorae (Cooke & Massee) Cooke & Massee SPECIES
 
 #### Status
 ACCEPTED

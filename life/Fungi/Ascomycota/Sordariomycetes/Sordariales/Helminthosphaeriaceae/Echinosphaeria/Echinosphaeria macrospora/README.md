@@ -1,5 +1,4 @@
-Echinosphaeria macrospora Gawas, Bhat & K.D. Hyde, 2006 SPECIES
-=======
+# Echinosphaeria macrospora Gawas, Bhat & K.D. Hyde, 2006 SPECIES
 
 #### Status
 ACCEPTED

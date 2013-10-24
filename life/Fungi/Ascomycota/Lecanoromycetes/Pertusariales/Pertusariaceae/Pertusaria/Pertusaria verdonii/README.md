@@ -1,5 +1,4 @@
-Pertusaria verdonii A.W. Archer SPECIES
-=======
+# Pertusaria verdonii A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

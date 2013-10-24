@@ -1,5 +1,4 @@
-Endotryblidium Petr. GENUS
-=======
+# Endotryblidium Petr. GENUS
 
 #### Status
 ACCEPTED

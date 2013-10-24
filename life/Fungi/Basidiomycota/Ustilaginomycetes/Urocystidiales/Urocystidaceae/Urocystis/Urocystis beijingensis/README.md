@@ -1,5 +1,4 @@
-Urocystis beijingensis L. Guo, 2001 SPECIES
-=======
+# Urocystis beijingensis L. Guo, 2001 SPECIES
 
 #### Status
 ACCEPTED

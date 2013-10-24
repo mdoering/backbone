@@ -1,5 +1,4 @@
-Scutellinia regalis (Velen.) Svrcek SPECIES
-=======
+# Scutellinia regalis (Velen.) Svrcek SPECIES
 
 #### Status
 ACCEPTED

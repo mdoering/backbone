@@ -1,5 +1,4 @@
-Chamaeceras aruensis (Britzelm.) Kuntze SPECIES
-=======
+# Chamaeceras aruensis (Britzelm.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

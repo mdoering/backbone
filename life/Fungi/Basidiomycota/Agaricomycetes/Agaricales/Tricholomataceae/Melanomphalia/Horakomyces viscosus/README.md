@@ -1,5 +1,4 @@
-Horakomyces viscosus (Singer) Raithelh. SPECIES
-=======
+# Horakomyces viscosus (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

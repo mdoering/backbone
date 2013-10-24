@@ -1,5 +1,4 @@
-Patellaria tigrina SPECIES
-=======
+# Patellaria tigrina SPECIES
 
 #### Status
 ACCEPTED

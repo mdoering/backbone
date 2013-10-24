@@ -1,5 +1,4 @@
-Facklamia tabacinasalis Collins et al., 1999 SPECIES
-=======
+# Facklamia tabacinasalis Collins et al., 1999 SPECIES
 
 #### Status
 ACCEPTED

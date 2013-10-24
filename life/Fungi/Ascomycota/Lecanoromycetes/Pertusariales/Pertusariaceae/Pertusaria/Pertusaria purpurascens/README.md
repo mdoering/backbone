@@ -1,5 +1,4 @@
-Pertusaria purpurascens Müll. Arg. SPECIES
-=======
+# Pertusaria purpurascens Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

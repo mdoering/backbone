@@ -1,5 +1,4 @@
-Parasterina transiens (Theiss.) Theiss. SPECIES
-=======
+# Parasterina transiens (Theiss.) Theiss. SPECIES
 
 #### Status
 ACCEPTED

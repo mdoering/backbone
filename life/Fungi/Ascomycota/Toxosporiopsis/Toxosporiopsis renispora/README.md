@@ -1,5 +1,4 @@
-Toxosporiopsis renispora B. Sutton SPECIES
-=======
+# Toxosporiopsis renispora B. Sutton SPECIES
 
 #### Status
 ACCEPTED

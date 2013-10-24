@@ -1,5 +1,4 @@
-Diatrype caulina Syd. SPECIES
-=======
+# Diatrype caulina Syd. SPECIES
 
 #### Status
 ACCEPTED

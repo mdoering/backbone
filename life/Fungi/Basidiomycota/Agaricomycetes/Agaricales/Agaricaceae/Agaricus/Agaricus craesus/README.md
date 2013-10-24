@@ -1,5 +1,4 @@
-Agaricus craesus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus craesus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

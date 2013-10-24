@@ -1,5 +1,4 @@
-Chaetopyrena taquarae (Starbäck) Sacc. SPECIES
-=======
+# Chaetopyrena taquarae (Starbäck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

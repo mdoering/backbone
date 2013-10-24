@@ -1,5 +1,4 @@
-Pleurotus commiscibilis (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Pleurotus commiscibilis (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

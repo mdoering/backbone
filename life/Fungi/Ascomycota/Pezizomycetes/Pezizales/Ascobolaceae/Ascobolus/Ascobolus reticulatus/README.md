@@ -1,5 +1,4 @@
-Ascobolus reticulatus Brumm. SPECIES
-=======
+# Ascobolus reticulatus Brumm. SPECIES
 
 #### Status
 ACCEPTED

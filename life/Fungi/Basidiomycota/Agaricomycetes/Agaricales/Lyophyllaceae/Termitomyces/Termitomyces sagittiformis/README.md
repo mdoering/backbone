@@ -1,14 +1,13 @@
-Agaricus sagittiformis Kalchbr. & Cooke, 1881 SPECIES
-=======
+# Termitomyces sagittiformis (Kalchbr. & Cooke) D.A. Reid, 1975 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Contr. Bolus Herb. 7: 118 (1975)
 
 #### Original name
 Agaricus sagittiformis Kalchbr. & Cooke, 1881

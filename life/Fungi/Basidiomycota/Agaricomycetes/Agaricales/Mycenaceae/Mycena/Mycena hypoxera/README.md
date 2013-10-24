@@ -1,5 +1,4 @@
-Mycena hypoxera (Singer) Raithelh. SPECIES
-=======
+# Mycena hypoxera (Singer) Raithelh. SPECIES
 
 #### Status
 ACCEPTED

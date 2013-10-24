@@ -1,5 +1,4 @@
-Amanita foetidissima D.A. Reid & Eicker SPECIES
-=======
+# Amanita foetidissima D.A. Reid & Eicker SPECIES
 
 #### Status
 ACCEPTED

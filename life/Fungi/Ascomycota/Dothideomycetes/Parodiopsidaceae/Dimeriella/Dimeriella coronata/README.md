@@ -1,5 +1,4 @@
-Dimeriella coronata (Speg.) Speg. SPECIES
-=======
+# Dimeriella coronata (Speg.) Speg. SPECIES
 
 #### Status
 ACCEPTED

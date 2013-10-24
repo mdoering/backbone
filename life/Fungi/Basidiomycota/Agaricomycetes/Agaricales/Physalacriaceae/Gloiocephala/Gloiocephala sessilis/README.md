@@ -1,5 +1,4 @@
-Gloiocephala sessilis Singer SPECIES
-=======
+# Gloiocephala sessilis Singer SPECIES
 
 #### Status
 ACCEPTED

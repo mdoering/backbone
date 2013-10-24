@@ -1,5 +1,4 @@
-Coniothecium catamarcense Speg. SPECIES
-=======
+# Coniothecium catamarcense Speg. SPECIES
 
 #### Status
 ACCEPTED

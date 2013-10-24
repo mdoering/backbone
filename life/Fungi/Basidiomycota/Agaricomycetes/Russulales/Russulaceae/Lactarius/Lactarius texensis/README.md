@@ -1,5 +1,4 @@
-Lactarius texensis (A.H. Sm. & Hesler) Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius texensis (A.H. Sm. & Hesler) Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

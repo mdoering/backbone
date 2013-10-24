@@ -1,5 +1,4 @@
-Psilosphaeria latericolla (Berk.) Cooke SPECIES
-=======
+# Psilosphaeria latericolla (Berk.) Cooke SPECIES
 
 #### Status
 ACCEPTED

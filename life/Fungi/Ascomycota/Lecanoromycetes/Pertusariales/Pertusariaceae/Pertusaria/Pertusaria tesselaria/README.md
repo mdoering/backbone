@@ -1,5 +1,4 @@
-Pertusaria tesselaria Müll. Arg. SPECIES
-=======
+# Pertusaria tesselaria Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

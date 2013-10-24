@@ -1,5 +1,4 @@
-Buellia duartei Samp. SPECIES
-=======
+# Buellia duartei Samp. SPECIES
 
 #### Status
 ACCEPTED

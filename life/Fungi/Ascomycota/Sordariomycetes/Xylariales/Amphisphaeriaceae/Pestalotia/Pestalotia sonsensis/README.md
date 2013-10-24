@@ -1,5 +1,4 @@
-Pestalotia sonsensis Henn. SPECIES
-=======
+# Pestalotia sonsensis Henn. SPECIES
 
 #### Status
 ACCEPTED

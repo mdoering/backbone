@@ -1,8 +1,7 @@
-Ascochyta roripae Dejeva SPECIES
-=======
+# Ascochyta rorippae Dejeva SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Ascochyta roripae Dejeva
+Ascochyta rorippae Dejeva
 
 ### Remarks
 null

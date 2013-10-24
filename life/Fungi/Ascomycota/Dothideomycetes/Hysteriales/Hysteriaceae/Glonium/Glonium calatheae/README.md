@@ -1,5 +1,4 @@
-Glonium calatheae Rehm SPECIES
-=======
+# Glonium calatheae Rehm SPECIES
 
 #### Status
 ACCEPTED

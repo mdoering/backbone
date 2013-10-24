@@ -1,5 +1,4 @@
-Pecila peleterii Lepell. SPECIES
-=======
+# Pecila peleterii Lepell. SPECIES
 
 #### Status
 ACCEPTED

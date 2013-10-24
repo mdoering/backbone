@@ -1,5 +1,4 @@
-Verpa brebissonii Gillet SPECIES
-=======
+# Verpa brebissonii Gillet SPECIES
 
 #### Status
 ACCEPTED

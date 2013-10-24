@@ -1,5 +1,4 @@
-Diplodia berkeleyi Keissl. SPECIES
-=======
+# Diplodia berkeleyi Keissl. SPECIES
 
 #### Status
 ACCEPTED

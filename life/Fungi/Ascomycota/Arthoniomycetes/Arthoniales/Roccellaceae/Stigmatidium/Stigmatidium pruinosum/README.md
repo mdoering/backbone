@@ -1,5 +1,4 @@
-Stigmatidium pruinosum B. de Lesd. SPECIES
-=======
+# Stigmatidium pruinosum B. de Lesd. SPECIES
 
 #### Status
 ACCEPTED

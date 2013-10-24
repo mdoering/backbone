@@ -1,5 +1,4 @@
-Petractis luetkemuelleri (Zahlbr.) Vezda SPECIES
-=======
+# Petractis luetkemuelleri (Zahlbr.) Vezda SPECIES
 
 #### Status
 ACCEPTED

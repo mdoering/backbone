@@ -1,5 +1,4 @@
-Agaricus peltigerus Batsch SPECIES
-=======
+# Agaricus peltigerus Batsch SPECIES
 
 #### Status
 ACCEPTED

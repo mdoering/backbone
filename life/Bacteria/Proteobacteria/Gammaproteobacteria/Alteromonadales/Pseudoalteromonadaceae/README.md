@@ -1,5 +1,4 @@
-Pseudoalteromonadaceae FAMILY
-=======
+# Pseudoalteromonadaceae FAMILY
 
 #### Status
 ACCEPTED

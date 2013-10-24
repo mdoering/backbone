@@ -1,5 +1,4 @@
-Hypomyces stereicola Henn. SPECIES
-=======
+# Hypomyces stereicola Henn. SPECIES
 
 #### Status
 ACCEPTED

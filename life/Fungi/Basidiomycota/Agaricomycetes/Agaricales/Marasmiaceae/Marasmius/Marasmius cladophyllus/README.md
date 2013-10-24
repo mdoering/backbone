@@ -1,5 +1,4 @@
-Marasmius cladophyllus var. cladophyllus VARIETY
-=======
+# Marasmius cladophyllus Berk. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Hooker's J. Bot. 8: 138 (1856)
 
 #### Original name
-Marasmius cladophyllus var. cladophyllus
+Marasmius cladophyllus Berk.
 
 ### Remarks
 null

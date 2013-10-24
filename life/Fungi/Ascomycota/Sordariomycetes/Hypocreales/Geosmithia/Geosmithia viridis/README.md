@@ -1,17 +1,16 @@
-Geosmithia virida Pitt & A.D. Hocking SPECIES
-=======
+# Geosmithia viridis Pitt & A.D. Hocking, 1985 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 77(5): 822 (1985)
 
 #### Original name
-Geosmithia virida Pitt & A.D. Hocking
+Geosmithia viridis Pitt & A.D. Hocking, 1985
 
 ### Remarks
 null

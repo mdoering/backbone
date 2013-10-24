@@ -1,5 +1,4 @@
-Dictyochaeta stipitocolla Kuthub. & Nawawi SPECIES
-=======
+# Dictyochaeta stipitocolla Kuthub. & Nawawi SPECIES
 
 #### Status
 ACCEPTED

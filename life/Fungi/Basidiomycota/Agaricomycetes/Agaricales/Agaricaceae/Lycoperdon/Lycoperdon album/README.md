@@ -1,5 +1,4 @@
-Lycoperdon album P. Micheli SPECIES
-=======
+# Lycoperdon album P. Micheli SPECIES
 
 #### Status
 ACCEPTED

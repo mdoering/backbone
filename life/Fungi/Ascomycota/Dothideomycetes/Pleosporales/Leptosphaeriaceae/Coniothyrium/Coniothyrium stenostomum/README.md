@@ -1,5 +1,4 @@
-Coniothyrium stenostomum (Penz.) Kuntze SPECIES
-=======
+# Coniothyrium stenostomum (Penz.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

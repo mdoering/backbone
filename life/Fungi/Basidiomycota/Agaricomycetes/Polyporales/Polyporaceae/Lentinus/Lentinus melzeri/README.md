@@ -1,5 +1,4 @@
-Lentinus melzeri Velen. SPECIES
-=======
+# Lentinus melzeri Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Derexia Naras. GENUS
-=======
+# Derexia Naras. GENUS
 
 #### Status
 ACCEPTED

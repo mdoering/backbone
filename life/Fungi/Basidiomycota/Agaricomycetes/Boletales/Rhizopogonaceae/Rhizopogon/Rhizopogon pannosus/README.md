@@ -1,5 +1,4 @@
-Rhizopogon pannosus Zeller & C.W. Dodge SPECIES
-=======
+# Rhizopogon pannosus Zeller & C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

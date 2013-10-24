@@ -1,17 +1,16 @@
-Galera ravidus (Fr.) Quél. SPECIES
-=======
+# Conocybe velata (Velen.) Watling, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kew Bull. 59(1): 168 (2004)
 
 #### Original name
-Agaricus ravidus Fr.
+Galera velata Velen., 1921
 
 ### Remarks
 null

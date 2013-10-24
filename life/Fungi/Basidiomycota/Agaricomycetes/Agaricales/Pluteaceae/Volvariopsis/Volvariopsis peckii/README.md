@@ -1,5 +1,4 @@
-Volvariopsis peckii (G.F. Atk.) Murrill SPECIES
-=======
+# Volvariopsis peckii (G.F. Atk.) Murrill SPECIES
 
 #### Status
 ACCEPTED

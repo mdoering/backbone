@@ -1,5 +1,4 @@
-Phyllachora piperacearum Speg., 1888 SPECIES
-=======
+# Phyllachora piperacearum Speg., 1888 SPECIES
 
 #### Status
 ACCEPTED

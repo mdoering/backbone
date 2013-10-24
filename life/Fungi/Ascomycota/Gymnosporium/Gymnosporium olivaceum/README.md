@@ -1,5 +1,4 @@
-Gymnosporium olivaceum Corda SPECIES
-=======
+# Gymnosporium olivaceum Corda SPECIES
 
 #### Status
 ACCEPTED

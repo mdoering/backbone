@@ -1,8 +1,7 @@
-Pertusaria acromela Müll. Arg. SPECIES
-=======
+# Pertusaria acromelana Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Pertusaria acromela Müll. Arg.
+Pertusaria acromelana Müll. Arg.
 
 ### Remarks
 null

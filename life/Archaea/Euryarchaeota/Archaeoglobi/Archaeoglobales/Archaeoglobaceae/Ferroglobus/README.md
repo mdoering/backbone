@@ -1,5 +1,4 @@
-Ferroglobus Hafenbradl, Keller, Dirmeier, Rachel, Rossnagel, Burggraf, Huber & Stetter, 1996 GENUS
-=======
+# Ferroglobus Hafenbradl, Keller, Dirmeier, Rachel, Rossnagel, Burggraf, Huber & Stetter, 1996 GENUS
 
 #### Status
 ACCEPTED

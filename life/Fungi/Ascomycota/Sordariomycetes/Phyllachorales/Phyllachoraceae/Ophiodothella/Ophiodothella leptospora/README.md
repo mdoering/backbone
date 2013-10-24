@@ -1,14 +1,13 @@
-Ophiodothis leptospora Speg., 1889 SPECIES
-=======
+# Ophiodothella leptospora (Speg.) Höhn., 1910 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boletín de la Academia Nacional de Ciencias de Córdoba 11(4): 550 (1889)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 119: 941 (1910)
 
 #### Original name
 Ophiodothis leptospora Speg., 1889

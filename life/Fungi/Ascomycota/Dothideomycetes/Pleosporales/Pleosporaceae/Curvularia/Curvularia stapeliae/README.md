@@ -1,14 +1,13 @@
-Triposporium stapeliae du Plessis, 1933 SPECIES
-=======
+# Curvularia stapeliae (du Plessis) S. Hughes & du Plessis, 1951 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Univ. Stellenbosch 11(2): 12 (1933)
+in Hughes, Mycol. Pap. 46: 28 (1951)
 
 #### Original name
 Triposporium stapeliae du Plessis, 1933

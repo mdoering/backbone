@@ -1,5 +1,4 @@
-Glomerella stephaniae Sawada SPECIES
-=======
+# Glomerella stephaniae Sawada SPECIES
 
 #### Status
 ACCEPTED

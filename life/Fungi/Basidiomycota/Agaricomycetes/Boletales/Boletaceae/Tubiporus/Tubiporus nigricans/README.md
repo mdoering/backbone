@@ -1,5 +1,4 @@
-Tubiporus nigricans Herrm. {?} SPECIES
-=======
+# Tubiporus nigricans Herrm. {?} SPECIES
 
 #### Status
 ACCEPTED

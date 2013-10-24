@@ -1,5 +1,4 @@
-Kalyptea monoceras Cookson & Eisenack SPECIES
-=======
+# Kalyptea monoceras Cookson & Eisenack SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Heliosphaera Haeckel, 1861 GENUS
-=======
+# Heliosphaera Haeckel, 1861 GENUS
 
 #### Status
 ACCEPTED

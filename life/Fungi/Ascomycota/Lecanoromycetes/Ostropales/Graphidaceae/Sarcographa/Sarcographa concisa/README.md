@@ -1,5 +1,4 @@
-Sarcographa concisa (Kremp.) Zahlbr. SPECIES
-=======
+# Sarcographa concisa (Kremp.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

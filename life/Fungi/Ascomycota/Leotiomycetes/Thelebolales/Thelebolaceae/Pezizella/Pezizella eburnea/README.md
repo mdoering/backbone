@@ -1,5 +1,4 @@
-Pezizella eburnea (Roberge) Dennis, 1956 SPECIES
-=======
+# Pezizella eburnea (Roberge) Dennis, 1956 SPECIES
 
 #### Status
 ACCEPTED

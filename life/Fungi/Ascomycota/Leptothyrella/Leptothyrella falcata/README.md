@@ -1,5 +1,4 @@
-Leptothyrella falcata Kirschst. SPECIES
-=======
+# Leptothyrella falcata Kirschst. SPECIES
 
 #### Status
 ACCEPTED

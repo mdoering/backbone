@@ -1,5 +1,4 @@
-Meliola lithocarpina W. Yamam. SPECIES
-=======
+# Meliola lithocarpina W. Yamam. SPECIES
 
 #### Status
 ACCEPTED

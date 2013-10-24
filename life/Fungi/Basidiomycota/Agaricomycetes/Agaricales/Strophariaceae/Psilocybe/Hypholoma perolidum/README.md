@@ -1,5 +1,4 @@
-Hypholoma perolidum Velen. SPECIES
-=======
+# Hypholoma perolidum Velen. SPECIES
 
 #### Status
 ACCEPTED

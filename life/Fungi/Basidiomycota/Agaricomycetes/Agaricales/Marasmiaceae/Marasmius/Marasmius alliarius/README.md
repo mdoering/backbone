@@ -1,5 +1,4 @@
-Marasmius alliarius Petch SPECIES
-=======
+# Marasmius alliarius Petch SPECIES
 
 #### Status
 ACCEPTED

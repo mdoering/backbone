@@ -1,5 +1,4 @@
-Nummulopyrgo milletti (Cushman, 1917) SPECIES
-=======
+# Nummulopyrgo milletti (Cushman, 1917) SPECIES
 
 #### Status
 ACCEPTED

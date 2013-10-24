@@ -1,5 +1,4 @@
-Pleostigma Kirschst. GENUS
-=======
+# Pleostigma Kirschst. GENUS
 
 #### Status
 ACCEPTED

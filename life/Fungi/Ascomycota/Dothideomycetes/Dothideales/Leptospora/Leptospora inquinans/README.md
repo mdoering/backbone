@@ -1,5 +1,4 @@
-Leptospora inquinans I. Hino & Katum. SPECIES
-=======
+# Leptospora inquinans I. Hino & Katum. SPECIES
 
 #### Status
 ACCEPTED

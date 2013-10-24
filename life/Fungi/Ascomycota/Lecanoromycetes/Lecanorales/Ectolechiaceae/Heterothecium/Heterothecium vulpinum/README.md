@@ -1,5 +1,4 @@
-Heterothecium vulpinum SPECIES
-=======
+# Heterothecium vulpinum SPECIES
 
 #### Status
 ACCEPTED

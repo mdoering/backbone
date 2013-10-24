@@ -1,5 +1,4 @@
-Gastrolactarius lactarioides (Zeller) J.M. Vidal SPECIES
-=======
+# Gastrolactarius lactarioides (Zeller) J.M. Vidal SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyadosporites garciabarrigae Hammen SPECIES
-=======
+# Polyadosporites garciabarrigae Hammen SPECIES
 
 #### Status
 ACCEPTED

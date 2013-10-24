@@ -1,5 +1,4 @@
-Espejoia mucicola (Penard, 1922) SPECIES
-=======
+# Espejoia mucicola (Penard, 1922) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phloeospora caricis Ellis & Everh. SPECIES
-=======
+# Phloeospora caricis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

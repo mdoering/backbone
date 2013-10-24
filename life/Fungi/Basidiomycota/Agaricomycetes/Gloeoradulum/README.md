@@ -1,5 +1,4 @@
-Gloeoradulum Rick GENUS
-=======
+# Gloeoradulum Rick GENUS
 
 #### Status
 ACCEPTED

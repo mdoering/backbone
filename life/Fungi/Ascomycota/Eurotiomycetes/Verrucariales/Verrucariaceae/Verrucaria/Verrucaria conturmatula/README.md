@@ -1,5 +1,4 @@
-Verrucaria conturmatula Nyl. SPECIES
-=======
+# Verrucaria conturmatula Nyl. SPECIES
 
 #### Status
 ACCEPTED

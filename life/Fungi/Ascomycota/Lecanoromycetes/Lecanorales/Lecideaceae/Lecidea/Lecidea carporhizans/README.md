@@ -1,5 +1,4 @@
-Lecidea carporhizans SPECIES
-=======
+# Lecidea carporhizans SPECIES
 
 #### Status
 ACCEPTED

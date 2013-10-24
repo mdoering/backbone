@@ -1,5 +1,4 @@
-Fellomyces penicillatus (Rodr. Mir.) Y. Yamada & I. Banno SPECIES
-=======
+# Fellomyces penicillatus (Rodr. Mir.) Y. Yamada & I. Banno SPECIES
 
 #### Status
 ACCEPTED

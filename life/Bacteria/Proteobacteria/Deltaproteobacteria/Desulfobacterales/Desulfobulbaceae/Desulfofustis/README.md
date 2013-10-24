@@ -1,5 +1,4 @@
-Desulfofustis Friedrich et al., 1996 GENUS
-=======
+# Desulfofustis Friedrich et al., 1996 GENUS
 
 #### Status
 ACCEPTED

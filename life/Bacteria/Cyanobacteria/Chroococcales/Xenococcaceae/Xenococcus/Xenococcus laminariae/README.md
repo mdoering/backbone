@@ -1,5 +1,4 @@
-Xenococcus laminariae Feldmann SPECIES
-=======
+# Xenococcus laminariae Feldmann SPECIES
 
 #### Status
 ACCEPTED

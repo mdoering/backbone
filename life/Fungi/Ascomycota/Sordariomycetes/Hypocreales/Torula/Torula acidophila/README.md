@@ -1,5 +1,4 @@
-Torula acidophila W.L. Owen & Mobley SPECIES
-=======
+# Torula acidophila W.L. Owen & Mobley SPECIES
 
 #### Status
 ACCEPTED

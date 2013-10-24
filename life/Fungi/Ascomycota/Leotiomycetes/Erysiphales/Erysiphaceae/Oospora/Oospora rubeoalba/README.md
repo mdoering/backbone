@@ -1,5 +1,4 @@
-Oospora rubeoalba (Preuss) Sacc. & Voglino SPECIES
-=======
+# Oospora rubeoalba (Preuss) Sacc. & Voglino SPECIES
 
 #### Status
 ACCEPTED

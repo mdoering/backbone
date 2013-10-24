@@ -1,5 +1,4 @@
-Phyllachora parvicapsa (Cooke) Theiss. & Syd., 1915 SPECIES
-=======
+# Phyllachora parvicapsa (Cooke) Theiss. & Syd., 1915 SPECIES
 
 #### Status
 DOUBTFUL

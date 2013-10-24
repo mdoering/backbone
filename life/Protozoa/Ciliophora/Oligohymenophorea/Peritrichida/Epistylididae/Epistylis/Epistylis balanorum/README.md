@@ -1,5 +1,4 @@
-Epistylis balanorum Mereschkowski, 1877 SPECIES
-=======
+# Epistylis balanorum Mereschkowski, 1877 SPECIES
 
 #### Status
 ACCEPTED

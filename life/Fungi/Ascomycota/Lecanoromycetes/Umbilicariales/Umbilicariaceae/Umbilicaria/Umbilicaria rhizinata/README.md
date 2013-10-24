@@ -1,5 +1,4 @@
-Umbilicaria rhizinata (Frey & Poelt) Krzewicka SPECIES
-=======
+# Umbilicaria rhizinata (Frey & Poelt) Krzewicka SPECIES
 
 #### Status
 ACCEPTED

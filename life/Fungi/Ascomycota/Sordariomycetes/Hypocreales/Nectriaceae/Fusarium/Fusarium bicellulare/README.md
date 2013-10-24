@@ -1,5 +1,4 @@
-Fusarium bicellulare Kirschst. SPECIES
-=======
+# Fusarium bicellulare Kirschst. SPECIES
 
 #### Status
 ACCEPTED

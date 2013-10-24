@@ -1,5 +1,4 @@
-Heteropatella polygoni Schwarzman SPECIES
-=======
+# Heteropatella polygoni Schwarzman SPECIES
 
 #### Status
 ACCEPTED

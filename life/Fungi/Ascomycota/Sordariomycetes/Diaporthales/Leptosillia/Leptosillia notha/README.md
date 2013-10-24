@@ -1,5 +1,4 @@
-Leptosillia notha Höhn., 1928 SPECIES
-=======
+# Leptosillia notha Höhn., 1928 SPECIES
 
 #### Status
 ACCEPTED

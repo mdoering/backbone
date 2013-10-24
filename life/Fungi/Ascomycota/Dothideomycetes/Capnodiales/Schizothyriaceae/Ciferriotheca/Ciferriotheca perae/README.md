@@ -1,5 +1,4 @@
-Ciferriotheca perae (Bat.) Bat. SPECIES
-=======
+# Ciferriotheca perae (Bat.) Bat. SPECIES
 
 #### Status
 ACCEPTED

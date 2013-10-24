@@ -1,5 +1,4 @@
-Septatium geopyxis Velen. SPECIES
-=======
+# Septatium geopyxis Velen. SPECIES
 
 #### Status
 ACCEPTED

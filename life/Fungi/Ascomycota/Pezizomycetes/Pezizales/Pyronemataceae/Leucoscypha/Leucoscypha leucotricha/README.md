@@ -1,14 +1,13 @@
-Peziza leucotricha Alb. & Schwein., 1805 SPECIES
-=======
+# Leucoscypha leucotricha (Alb. & Schwein.) Boud., 1907 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Consp. fung. (Leipzig) 322 (1805)
+Hist. Class. Discom. Eur. (Paris) 57 (1907)
 
 #### Original name
 Peziza leucotricha Alb. & Schwein., 1805

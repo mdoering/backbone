@@ -1,5 +1,4 @@
-Macmillanina hypodermia (Auersw.) Kuntze SPECIES
-=======
+# Macmillanina hypodermia (Auersw.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

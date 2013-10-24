@@ -1,5 +1,4 @@
-Sciniatosporium angusianum (M.B. Ellis) Morgan-Jones SPECIES
-=======
+# Sciniatosporium angusianum (M.B. Ellis) Morgan-Jones SPECIES
 
 #### Status
 ACCEPTED

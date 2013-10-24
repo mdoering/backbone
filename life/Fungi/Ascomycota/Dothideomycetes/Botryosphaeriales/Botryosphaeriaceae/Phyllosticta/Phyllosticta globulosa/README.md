@@ -1,5 +1,4 @@
-Phyllosticta globulosa Thüm. SPECIES
-=======
+# Phyllosticta globulosa Thüm. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea tinei Tornab. SPECIES
-=======
+# Lecidea tinei Tornab. SPECIES
 
 #### Status
 ACCEPTED

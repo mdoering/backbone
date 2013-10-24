@@ -1,5 +1,4 @@
-Astrosphaeriella venezuelensis M.E. Barr & D. Hawksw. SPECIES
-=======
+# Astrosphaeriella venezuelensis M.E. Barr & D. Hawksw. SPECIES
 
 #### Status
 ACCEPTED

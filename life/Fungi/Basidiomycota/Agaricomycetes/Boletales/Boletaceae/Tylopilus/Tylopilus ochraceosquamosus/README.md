@@ -1,5 +1,4 @@
-Tylopilus ochraceosquamosus Watling SPECIES
-=======
+# Tylopilus ochraceosquamosus Watling SPECIES
 
 #### Status
 ACCEPTED

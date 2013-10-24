@@ -1,5 +1,4 @@
-Leccinum cartagoense (Wolfe & Bougher) Halling & G.M. Muell. SPECIES
-=======
+# Leccinum cartagoense (Wolfe & Bougher) Halling & G.M. Muell. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Globofissurella quadricarinata (Sidebottom, 1912) SPECIES
-=======
+# Globofissurella quadricarinata (Sidebottom, 1912) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Oidium tritici Lib. SPECIES
-=======
+# Oidium tritici Lib. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Cavostelium bisporum L.S. Olive & Stoian., 1966 SPECIES
-=======
+# Echinostelium bisporum (L.S. Olive & Stoian.) K.D. Whitney & L.S. Olive, 1982 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

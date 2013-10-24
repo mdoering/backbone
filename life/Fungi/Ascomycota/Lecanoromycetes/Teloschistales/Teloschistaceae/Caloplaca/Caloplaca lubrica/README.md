@@ -1,5 +1,4 @@
-Caloplaca lubrica (Stizenb.) Zahlbr. SPECIES
-=======
+# Caloplaca lubrica (Stizenb.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

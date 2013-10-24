@@ -1,5 +1,4 @@
-Hebeloma platense Speg. SPECIES
-=======
+# Hebeloma platense Speg. SPECIES
 
 #### Status
 ACCEPTED

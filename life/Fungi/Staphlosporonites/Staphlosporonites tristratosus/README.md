@@ -1,5 +1,4 @@
-Staphlosporonites tristratosus Sheffy & Dilcher SPECIES
-=======
+# Staphlosporonites tristratosus Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

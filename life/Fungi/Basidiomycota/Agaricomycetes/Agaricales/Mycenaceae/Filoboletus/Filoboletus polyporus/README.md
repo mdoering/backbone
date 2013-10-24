@@ -1,5 +1,4 @@
-Filoboletus polyporus Maas Geest. & E. Horak SPECIES
-=======
+# Filoboletus polyporus Maas Geest. & E. Horak SPECIES
 
 #### Status
 ACCEPTED

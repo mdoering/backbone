@@ -1,5 +1,4 @@
-Setchellia punctiformis (Niessl) Magnus SPECIES
-=======
+# Setchellia punctiformis (Niessl) Magnus SPECIES
 
 #### Status
 ACCEPTED

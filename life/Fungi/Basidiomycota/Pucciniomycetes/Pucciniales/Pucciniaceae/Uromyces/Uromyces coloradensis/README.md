@@ -1,5 +1,4 @@
-Uromyces coloradensis var. coloradensis VARIETY
-=======
+# Uromyces coloradensis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Erythea 1: 204 (1893)
 
 #### Original name
-Uromyces coloradensis var. coloradensis
+Uromyces coloradensis Ellis & Everh.
 
 ### Remarks
 null

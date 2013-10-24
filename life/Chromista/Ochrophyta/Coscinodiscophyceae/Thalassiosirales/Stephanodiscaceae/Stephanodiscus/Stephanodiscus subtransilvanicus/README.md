@@ -1,5 +1,4 @@
-Stephanodiscus subtransilvanicus Gasse SPECIES
-=======
+# Stephanodiscus subtransilvanicus Gasse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hjortstamia Boidin & Gilles GENUS
-=======
+# Hjortstamia Boidin & Gilles GENUS
 
 #### Status
 ACCEPTED

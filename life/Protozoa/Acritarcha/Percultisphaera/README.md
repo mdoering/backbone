@@ -1,5 +1,4 @@
-Percultisphaera T.R. Lister, 1970 GENUS
-=======
+# Percultisphaera T.R. Lister, 1970 GENUS
 
 #### Status
 ACCEPTED

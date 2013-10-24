@@ -1,5 +1,4 @@
-Flammula hillii Murrill SPECIES
-=======
+# Flammula hillii Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Orbilia major Speg. SPECIES
-=======
+# Orbilia major Speg. SPECIES
 
 #### Status
 ACCEPTED

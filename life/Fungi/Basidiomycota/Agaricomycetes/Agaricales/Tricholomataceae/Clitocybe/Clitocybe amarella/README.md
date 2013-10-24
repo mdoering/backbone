@@ -1,5 +1,4 @@
-Clitocybe amarella (Pers.) Quél. SPECIES
-=======
+# Clitocybe amarella (Pers.) Quél. SPECIES
 
 #### Status
 ACCEPTED

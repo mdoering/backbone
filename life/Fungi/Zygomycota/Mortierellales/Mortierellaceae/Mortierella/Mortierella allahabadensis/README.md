@@ -1,5 +1,4 @@
-Mortierella allahabadensis B.S. Mehrotra & Baijal SPECIES
-=======
+# Mortierella allahabadensis B.S. Mehrotra & Baijal SPECIES
 
 #### Status
 ACCEPTED

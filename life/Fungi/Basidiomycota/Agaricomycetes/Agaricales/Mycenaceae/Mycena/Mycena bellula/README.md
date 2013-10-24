@@ -1,5 +1,4 @@
-Mycena bellula Métrod SPECIES
-=======
+# Mycena bellula Métrod SPECIES
 
 #### Status
 ACCEPTED

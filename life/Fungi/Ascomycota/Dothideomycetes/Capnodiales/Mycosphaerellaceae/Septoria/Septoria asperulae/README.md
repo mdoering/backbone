@@ -1,5 +1,4 @@
-Septoria asperulae var. asperulae VARIETY
-=======
+# Septoria asperulae Bäumler SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Fungi Schemm. 4 (1888)
 
 #### Original name
-Septoria asperulae var. asperulae
+Septoria asperulae Bäumler
 
 ### Remarks
 null

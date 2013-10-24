@@ -1,5 +1,4 @@
-Psychrobacter frigidicola Bowman et al., 1996 SPECIES
-=======
+# Psychrobacter frigidicola Bowman et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

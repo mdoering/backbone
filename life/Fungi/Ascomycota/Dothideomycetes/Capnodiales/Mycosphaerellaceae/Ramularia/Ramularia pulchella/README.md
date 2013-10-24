@@ -1,5 +1,4 @@
-Ramularia pulchella Ces. SPECIES
-=======
+# Ramularia pulchella Ces. SPECIES
 
 #### Status
 ACCEPTED

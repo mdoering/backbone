@@ -1,5 +1,4 @@
-Habrostictis decipiens (W. Phillips) Spooner SPECIES
-=======
+# Habrostictis decipiens (W. Phillips) Spooner SPECIES
 
 #### Status
 ACCEPTED

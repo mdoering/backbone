@@ -1,5 +1,4 @@
-Calocera fusca Lloyd, 1925 SPECIES
-=======
+# Calocera fusca Lloyd, 1925 SPECIES
 
 #### Status
 ACCEPTED

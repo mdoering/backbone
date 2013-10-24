@@ -1,5 +1,4 @@
-Diatrypella intermedia P. Karst. SPECIES
-=======
+# Diatrypella intermedia P. Karst. SPECIES
 
 #### Status
 ACCEPTED

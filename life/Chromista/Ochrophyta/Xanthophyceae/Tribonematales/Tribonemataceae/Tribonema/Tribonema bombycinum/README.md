@@ -1,5 +1,4 @@
-Tribonema bombycinum var. tenue VARIETY
-=======
+# Tribonema bombycinum (G. Agardh) Derbes & Solier SPECIES
 
 #### Status
 ACCEPTED

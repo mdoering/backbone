@@ -1,5 +1,4 @@
-Uredo parnassiae DC. SPECIES
-=======
+# Uredo parnassiae DC. SPECIES
 
 #### Status
 ACCEPTED

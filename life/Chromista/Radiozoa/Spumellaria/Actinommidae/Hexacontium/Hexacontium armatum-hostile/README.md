@@ -1,8 +1,7 @@
-Hexacontium armatum Cleve, 1900 SPECIES
-=======
+# Hexacontium armatum-hostile SPECIES
 
 #### Status
-SYNONYM
+DOUBTFUL
 
 #### According to
 World Register of Marine Species

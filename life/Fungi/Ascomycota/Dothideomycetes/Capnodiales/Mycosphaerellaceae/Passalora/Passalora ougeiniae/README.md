@@ -1,5 +1,4 @@
-Passalora ougeiniae (M.D. Mehrotra & R.K. Verma) U. Braun & Crous SPECIES
-=======
+# Passalora ougeiniae (M.D. Mehrotra & R.K. Verma) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

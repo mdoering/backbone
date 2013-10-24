@@ -1,5 +1,4 @@
-Lasionectria lasioderma (Ellis) Ellis & Everh. SPECIES
-=======
+# Lasionectria lasioderma (Ellis) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

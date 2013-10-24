@@ -1,5 +1,4 @@
-Sarcosoma cyttarioides Rehm SPECIES
-=======
+# Sarcosoma cyttarioides Rehm SPECIES
 
 #### Status
 ACCEPTED

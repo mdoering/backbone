@@ -1,5 +1,4 @@
-Sanderella Redmond, 1964 GENUS
-=======
+# Sanderella Redmond, 1964 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptospirillum ferrooxidans (ex Markosyan, 1972) Hippe, 2000 SPECIES
-=======
+# Leptospirillum ferrooxidans (ex Markosyan, 1972) Hippe, 2000 SPECIES
 
 #### Status
 ACCEPTED

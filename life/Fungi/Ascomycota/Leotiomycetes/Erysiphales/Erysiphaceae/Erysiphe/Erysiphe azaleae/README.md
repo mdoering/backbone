@@ -1,14 +1,13 @@
-Microsphaera azaleae U. Braun, 1982 SPECIES
-=======
+# Erysiphe azaleae (U. Braun) U. Braun & S. Takam., 2000 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycotaxon 14(1): 370 (1982)
+Schlechtendalia 4: 5 (2000)
 
 #### Original name
 Microsphaera azaleae U. Braun, 1982

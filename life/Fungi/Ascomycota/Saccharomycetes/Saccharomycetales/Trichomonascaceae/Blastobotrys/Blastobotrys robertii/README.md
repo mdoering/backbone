@@ -1,5 +1,4 @@
-Blastobotrys robertii Middelhoven & Kurtzman, 2007 SPECIES
-=======
+# Blastobotrys robertii Middelhoven & Kurtzman, 2007 SPECIES
 
 #### Status
 ACCEPTED

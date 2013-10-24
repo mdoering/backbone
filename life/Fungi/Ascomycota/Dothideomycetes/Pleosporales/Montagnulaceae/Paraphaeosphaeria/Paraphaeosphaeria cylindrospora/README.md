@@ -1,5 +1,4 @@
-Paraphaeosphaeria cylindrospora (Wehm.) O.E. Erikss. SPECIES
-=======
+# Paraphaeosphaeria cylindrospora (Wehm.) O.E. Erikss. SPECIES
 
 #### Status
 ACCEPTED

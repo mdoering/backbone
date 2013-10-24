@@ -1,5 +1,4 @@
-Lobaria stygia (L.) Hoffm. SPECIES
-=======
+# Lobaria stygia (L.) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

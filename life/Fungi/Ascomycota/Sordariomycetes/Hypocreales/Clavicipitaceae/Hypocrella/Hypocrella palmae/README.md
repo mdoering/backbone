@@ -1,5 +1,4 @@
-Hypocrella palmae (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Hypocrella palmae (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

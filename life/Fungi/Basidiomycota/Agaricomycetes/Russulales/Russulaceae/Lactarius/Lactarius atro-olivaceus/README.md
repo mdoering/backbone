@@ -1,5 +1,4 @@
-Lactarius atro-olivaceus Hesler & A.H. Sm. SPECIES
-=======
+# Lactarius atro-olivaceus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

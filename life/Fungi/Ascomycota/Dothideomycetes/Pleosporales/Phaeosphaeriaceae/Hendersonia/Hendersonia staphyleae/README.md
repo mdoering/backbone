@@ -1,5 +1,4 @@
-Hendersonia staphyleae Ellis & Everh. SPECIES
-=======
+# Hendersonia staphyleae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

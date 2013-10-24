@@ -1,5 +1,4 @@
-Spiniferodinium Horiguchi & Chihara, 1987 GENUS
-=======
+# Spiniferodinium Horiguchi & Chihara, 1987 GENUS
 
 #### Status
 ACCEPTED

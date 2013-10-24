@@ -1,5 +1,4 @@
-Cortinarius laeticolor Murrill SPECIES
-=======
+# Cortinarius laeticolor Murrill SPECIES
 
 #### Status
 ACCEPTED

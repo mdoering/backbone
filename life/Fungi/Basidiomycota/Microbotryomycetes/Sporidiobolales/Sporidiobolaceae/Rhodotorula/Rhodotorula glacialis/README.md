@@ -1,5 +1,4 @@
-Rhodotorula glacialis Margesin & Sampaio SPECIES
-=======
+# Rhodotorula glacialis Margesin & Sampaio SPECIES
 
 #### Status
 ACCEPTED

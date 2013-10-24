@@ -1,5 +1,4 @@
-Sphaerella geicola Kalchbr. & Cooke SPECIES
-=======
+# Sphaerella geicola Kalchbr. & Cooke SPECIES
 
 #### Status
 ACCEPTED

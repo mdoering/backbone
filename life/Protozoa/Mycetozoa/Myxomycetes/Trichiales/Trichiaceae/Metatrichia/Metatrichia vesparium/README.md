@@ -1,14 +1,13 @@
-Hemitrichia vesparium (Batsch) T. Macbr. SPECIES
-=======
+# Metatrichia vesparium (Batsch) Nann.-Bremek. ex G.W. Martin & Alexop. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-N. Amer. Slime-Moulds (New York) 203 (1899)
+The Myxomycetes (New York) 143 (1969)
 
 #### Original name
 Lycoperdon vesparium Batsch

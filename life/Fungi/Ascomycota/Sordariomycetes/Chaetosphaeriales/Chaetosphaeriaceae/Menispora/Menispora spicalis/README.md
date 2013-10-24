@@ -1,5 +1,4 @@
-Menispora spicalis Berk. & M.A. Curtis SPECIES
-=======
+# Menispora spicalis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

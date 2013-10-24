@@ -1,17 +1,16 @@
-Lepiota lilacea var. lilacea VARIETY
-=======
+# Lepiota lilacea Bres., 1892 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Fung. trident. 2(8-10): 3 (1892)
 
 #### Original name
-Lepiota lilacea var. lilacea
+Lepiota lilacea Bres., 1892
 
 ### Remarks
 null

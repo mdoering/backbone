@@ -1,5 +1,4 @@
-Leptogium pernigratum Nyl. SPECIES
-=======
+# Leptogium pernigratum Nyl. SPECIES
 
 #### Status
 ACCEPTED

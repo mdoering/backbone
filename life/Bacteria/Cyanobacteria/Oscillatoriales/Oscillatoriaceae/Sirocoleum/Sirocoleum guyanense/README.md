@@ -1,5 +1,4 @@
-Sirocoleum guyanense Gomont SPECIES
-=======
+# Sirocoleum guyanense Gomont SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Herpotrichiella fusispora M.E. Barr SPECIES
-=======
+# Herpotrichiella fusispora M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizocarpon permodestum Arnold SPECIES
-=======
+# Rhizocarpon permodestum Arnold SPECIES
 
 #### Status
 ACCEPTED

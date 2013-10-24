@@ -1,5 +1,4 @@
-Pseudomonas alcaliphila Yumoto et al., 2001 SPECIES
-=======
+# Pseudomonas alcaliphila Yumoto et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

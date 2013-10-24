@@ -1,5 +1,4 @@
-Clavaria minuta Sowerby SPECIES
-=======
+# Clavaria minuta Sowerby SPECIES
 
 #### Status
 ACCEPTED

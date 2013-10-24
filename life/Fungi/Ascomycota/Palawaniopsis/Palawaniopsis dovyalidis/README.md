@@ -1,5 +1,4 @@
-Palawaniopsis dovyalidis Bat., Cif. & Nascim., 1959 SPECIES
-=======
+# Palawaniopsis dovyalidis Bat., Cif. & Nascim., 1959 SPECIES
 
 #### Status
 ACCEPTED

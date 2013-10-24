@@ -1,5 +1,4 @@
-Ascobolus behnitziensis Kirschst., 1907 SPECIES
-=======
+# Ascobolus behnitziensis Kirschst., 1907 SPECIES
 
 #### Status
 ACCEPTED

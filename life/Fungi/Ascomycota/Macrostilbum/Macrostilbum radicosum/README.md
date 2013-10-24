@@ -1,5 +1,4 @@
-Macrostilbum radicosum Pat. SPECIES
-=======
+# Macrostilbum radicosum Pat. SPECIES
 
 #### Status
 ACCEPTED

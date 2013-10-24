@@ -1,17 +1,16 @@
-Sclerotium costantini É.E. Foëx & Rosella SPECIES
-=======
+# Sclerotium costantinii É.E. Foëx & Rosella, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Annls Sci. Nat. , Bot. , sér. 10 19: 214 (1937)
 
 #### Original name
-Sclerotium costantini É.E. Foëx & Rosella
+Sclerotium costantinii É.E. Foëx & Rosella, 1937
 
 ### Remarks
 null

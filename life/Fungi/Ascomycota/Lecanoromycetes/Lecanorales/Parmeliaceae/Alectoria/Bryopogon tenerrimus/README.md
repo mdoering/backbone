@@ -1,5 +1,4 @@
-Bryopogon tenerrimus (Motyka) Bystrek SPECIES
-=======
+# Bryopogon tenerrimus (Motyka) Bystrek SPECIES
 
 #### Status
 ACCEPTED

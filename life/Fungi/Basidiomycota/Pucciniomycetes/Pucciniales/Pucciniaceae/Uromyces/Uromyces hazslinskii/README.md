@@ -1,5 +1,4 @@
-Uromyces hazslinskii De Toni SPECIES
-=======
+# Uromyces hazslinskii De Toni SPECIES
 
 #### Status
 ACCEPTED

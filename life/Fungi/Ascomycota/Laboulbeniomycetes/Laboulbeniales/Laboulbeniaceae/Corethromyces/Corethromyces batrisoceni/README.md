@@ -1,5 +1,4 @@
-Corethromyces batrisoceni Thaxt. SPECIES
-=======
+# Corethromyces batrisoceni Thaxt. SPECIES
 
 #### Status
 ACCEPTED

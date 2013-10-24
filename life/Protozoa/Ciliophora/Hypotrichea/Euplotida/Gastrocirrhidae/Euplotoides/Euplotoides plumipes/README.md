@@ -1,5 +1,4 @@
-Euplotoides plumipes (Stokes, 1884) Borror & Hill, 1995 SPECIES
-=======
+# Euplotoides plumipes (Stokes, 1884) Borror & Hill, 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Streptotinia caulophylli M.E. Elliott, 1962 SPECIES
-=======
+# Streptotinia caulophylli M.E. Elliott, 1962 SPECIES
 
 #### Status
 ACCEPTED

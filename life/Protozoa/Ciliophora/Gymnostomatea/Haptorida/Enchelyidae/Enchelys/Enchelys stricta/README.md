@@ -1,5 +1,4 @@
-Enchelys stricta Dujardin, 1841 SPECIES
-=======
+# Enchelys stricta Dujardin, 1841 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lauderlindsaya simodensis (Asahina) Diederich & Sérus. SPECIES
-=======
+# Lauderlindsaya simodensis (Asahina) Diederich & Sérus. SPECIES
 
 #### Status
 ACCEPTED

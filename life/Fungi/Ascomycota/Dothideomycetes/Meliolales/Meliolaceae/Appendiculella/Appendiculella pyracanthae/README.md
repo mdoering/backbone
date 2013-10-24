@@ -1,17 +1,16 @@
-Appendiculella pyrecanthii R.K. Chaudhary, Kharwar & Budathoki SPECIES
-=======
+# Appendiculella pyracanthae R.K. Chaudhary, Kharwar & Budathoki SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Journal of Living World 1(2): 177 (1994)
 
 #### Original name
-Appendiculella pyrecanthii R.K. Chaudhary, Kharwar & Budathoki
+Appendiculella pyracanthae R.K. Chaudhary, Kharwar & Budathoki
 
 ### Remarks
 null

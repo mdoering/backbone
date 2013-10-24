@@ -1,5 +1,4 @@
-Ascochyta akebiae Bres. SPECIES
-=======
+# Ascochyta akebiae Bres. SPECIES
 
 #### Status
 ACCEPTED

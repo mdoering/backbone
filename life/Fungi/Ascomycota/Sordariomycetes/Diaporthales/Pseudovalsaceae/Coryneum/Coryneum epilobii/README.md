@@ -1,5 +1,4 @@
-Coryneum epilobii P. Karst. SPECIES
-=======
+# Coryneum epilobii P. Karst. SPECIES
 
 #### Status
 ACCEPTED

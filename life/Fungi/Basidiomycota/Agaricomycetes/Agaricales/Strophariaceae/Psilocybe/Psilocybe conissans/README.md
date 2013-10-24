@@ -1,5 +1,4 @@
-Psilocybe conissans (Peck) Peck SPECIES
-=======
+# Psilocybe conissans (Peck) Peck SPECIES
 
 #### Status
 ACCEPTED

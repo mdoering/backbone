@@ -1,5 +1,4 @@
-Pyrenula tristissima SPECIES
-=======
+# Pyrenula tristissima SPECIES
 
 #### Status
 ACCEPTED

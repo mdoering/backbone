@@ -1,5 +1,4 @@
-Graphis furfuracea Leight. SPECIES
-=======
+# Graphis furfuracea Leight. SPECIES
 
 #### Status
 ACCEPTED

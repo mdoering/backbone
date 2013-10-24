@@ -1,5 +1,4 @@
-Paracercospora paulowniae (J.M. Yen & S.K. Sun) Deighton SPECIES
-=======
+# Paracercospora paulowniae (J.M. Yen & S.K. Sun) Deighton SPECIES
 
 #### Status
 ACCEPTED

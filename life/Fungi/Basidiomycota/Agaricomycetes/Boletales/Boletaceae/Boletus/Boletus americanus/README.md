@@ -1,17 +1,16 @@
-Boletus americanus var. americanus VARIETY
-=======
+# Boletus americanus SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+Interim Register of Marine and Nonmarine Genera
 
 #### Published in
 null
 
 #### Original name
-Boletus americanus var. americanus
+null
 
 ### Remarks
 null

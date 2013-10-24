@@ -1,5 +1,4 @@
-Myceloblastanon GENUS
-=======
+# Myceloblastanon GENUS
 
 #### Status
 ACCEPTED

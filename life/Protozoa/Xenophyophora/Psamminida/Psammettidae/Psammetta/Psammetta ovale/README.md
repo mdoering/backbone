@@ -1,5 +1,4 @@
-Psammetta ovale Tendal, 1972 SPECIES
-=======
+# Psammetta ovale Tendal, 1972 SPECIES
 
 #### Status
 DOUBTFUL

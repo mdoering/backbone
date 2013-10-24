@@ -1,5 +1,4 @@
-Dermocarpellaceae Christensen, 1978 FAMILY
-=======
+# Dermocarpellaceae Christensen, 1978 FAMILY
 
 #### Status
 ACCEPTED

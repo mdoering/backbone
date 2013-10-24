@@ -1,5 +1,4 @@
-Lactarius stramineus Berk. SPECIES
-=======
+# Lactarius stramineus Berk. SPECIES
 
 #### Status
 ACCEPTED

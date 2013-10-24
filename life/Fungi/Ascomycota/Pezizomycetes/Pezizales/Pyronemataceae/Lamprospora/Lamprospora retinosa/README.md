@@ -1,5 +1,4 @@
-Lamprospora retinosa (Velen.) T. Schumach. SPECIES
-=======
+# Lamprospora retinosa (Velen.) T. Schumach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Perisporiopsis fusispora (Pat.) Arx SPECIES
-=======
+# Perisporiopsis fusispora (Pat.) Arx SPECIES
 
 #### Status
 ACCEPTED

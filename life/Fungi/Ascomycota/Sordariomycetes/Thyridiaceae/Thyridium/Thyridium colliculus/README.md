@@ -1,5 +1,4 @@
-Thyridium colliculus Cooke SPECIES
-=======
+# Thyridium colliculus Cooke SPECIES
 
 #### Status
 ACCEPTED

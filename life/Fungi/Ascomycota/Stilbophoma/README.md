@@ -1,5 +1,4 @@
-Stilbophoma Petr. GENUS
-=======
+# Stilbophoma Petr. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Inocybe leptoclada Takah. Kobay. & Courtec. SPECIES
-=======
+# Inocybe leptoclada Takah. Kobay. & Courtec. SPECIES
 
 #### Status
 ACCEPTED

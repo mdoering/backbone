@@ -1,5 +1,4 @@
-Diplodia calycanthi (Schwein.) Speg. SPECIES
-=======
+# Diplodia calycanthi (Schwein.) Speg. SPECIES
 
 #### Status
 ACCEPTED

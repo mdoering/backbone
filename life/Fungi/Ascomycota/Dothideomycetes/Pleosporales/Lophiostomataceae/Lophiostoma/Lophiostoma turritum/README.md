@@ -1,5 +1,4 @@
-Lophiostoma turritum Cooke & Peck SPECIES
-=======
+# Lophiostoma turritum Cooke & Peck SPECIES
 
 #### Status
 ACCEPTED

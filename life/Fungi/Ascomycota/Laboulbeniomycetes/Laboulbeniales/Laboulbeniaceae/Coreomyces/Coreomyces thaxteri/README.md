@@ -1,5 +1,4 @@
-Coreomyces thaxteri R.A. Poiss. SPECIES
-=======
+# Coreomyces thaxteri R.A. Poiss. SPECIES
 
 #### Status
 ACCEPTED

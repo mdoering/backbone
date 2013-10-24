@@ -1,5 +1,4 @@
-Spermatodium myriocarpum (Fée) Trevis. SPECIES
-=======
+# Spermatodium myriocarpum (Fée) Trevis. SPECIES
 
 #### Status
 ACCEPTED

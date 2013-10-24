@@ -1,5 +1,4 @@
-Euplotidium Noland, 1937 GENUS
-=======
+# Euplotidium Noland, 1937 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Micrhystridium digitatum Uutela & Tynni, 1991 SPECIES
-=======
+# Micrhystridium digitatum Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

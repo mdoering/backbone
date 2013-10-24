@@ -1,5 +1,4 @@
-Trichodina entzii SPECIES
-=======
+# Trichodina entzii SPECIES
 
 #### Status
 ACCEPTED

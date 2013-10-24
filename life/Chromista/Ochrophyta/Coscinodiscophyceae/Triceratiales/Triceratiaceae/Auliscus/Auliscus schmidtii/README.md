@@ -1,5 +1,4 @@
-Auliscus schmidtii Gründler, 1875 SPECIES
-=======
+# Auliscus schmidtii Gründler, 1875 SPECIES
 
 #### Status
 ACCEPTED

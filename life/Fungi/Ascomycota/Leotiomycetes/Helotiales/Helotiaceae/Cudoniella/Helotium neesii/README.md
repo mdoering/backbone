@@ -1,5 +1,4 @@
-Helotium neesii (Saut.) Sacc. SPECIES
-=======
+# Helotium neesii (Saut.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

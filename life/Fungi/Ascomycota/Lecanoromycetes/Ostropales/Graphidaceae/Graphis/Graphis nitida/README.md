@@ -1,5 +1,4 @@
-Graphis nitida f. nitida FORM
-=======
+# Graphis nitida Nyl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mém. Soc. natn. Sci. nat. math. Cherbourg 5: 130 (1857)
 
 #### Original name
-Graphis nitida f. nitida
+Graphis nitida Nyl.
 
 ### Remarks
 null

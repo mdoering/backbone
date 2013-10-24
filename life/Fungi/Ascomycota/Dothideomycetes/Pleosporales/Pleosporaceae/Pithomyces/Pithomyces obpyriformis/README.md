@@ -1,5 +1,4 @@
-Pithomyces obpyriformis X.G. Zhang & T.Y. Zhang SPECIES
-=======
+# Pithomyces obpyriformis X.G. Zhang & T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe hygrogramma (Bull.) P. Kumm. SPECIES
-=======
+# Clitocybe hygrogramma (Bull.) P. Kumm. SPECIES
 
 #### Status
 ACCEPTED

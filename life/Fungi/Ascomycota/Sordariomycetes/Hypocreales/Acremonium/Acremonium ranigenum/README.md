@@ -1,5 +1,4 @@
-Acremonium ranigenum Berk. & Broome SPECIES
-=======
+# Acremonium ranigenum Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

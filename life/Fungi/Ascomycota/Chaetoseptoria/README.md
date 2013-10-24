@@ -1,5 +1,4 @@
-Chaetoseptoria Tehon GENUS
-=======
+# Chaetoseptoria Tehon GENUS
 
 #### Status
 ACCEPTED

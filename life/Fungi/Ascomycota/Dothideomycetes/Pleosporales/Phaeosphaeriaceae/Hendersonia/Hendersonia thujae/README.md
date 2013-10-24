@@ -1,5 +1,4 @@
-Hendersonia thujae Died. SPECIES
-=======
+# Hendersonia thujae Died. SPECIES
 
 #### Status
 ACCEPTED

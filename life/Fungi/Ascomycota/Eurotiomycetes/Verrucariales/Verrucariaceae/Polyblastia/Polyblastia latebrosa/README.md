@@ -1,5 +1,4 @@
-Polyblastia latebrosa (Bagl. & Carestia) Jatta SPECIES
-=======
+# Polyblastia latebrosa (Bagl. & Carestia) Jatta SPECIES
 
 #### Status
 ACCEPTED

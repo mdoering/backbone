@@ -1,5 +1,4 @@
-Peltula lingulata (Vain.) Swinscow & Krog SPECIES
-=======
+# Peltula lingulata (Vain.) Swinscow & Krog SPECIES
 
 #### Status
 ACCEPTED

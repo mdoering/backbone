@@ -1,5 +1,4 @@
-Verrucaria petraea (Wulfen) Hoffm. SPECIES
-=======
+# Verrucaria petraea (Wulfen) Hoffm. SPECIES
 
 #### Status
 ACCEPTED

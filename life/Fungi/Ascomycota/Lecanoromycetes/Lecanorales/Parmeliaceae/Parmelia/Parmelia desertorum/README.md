@@ -1,5 +1,4 @@
-Parmelia desertorum f. desertorum FORM
-=======
+# Parmelia desertorum (Elenkin) Gyeln. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Parmelia desertorum f. desertorum
+Parmelia desertorum (Elenkin) Gyeln.
 
 ### Remarks
 null

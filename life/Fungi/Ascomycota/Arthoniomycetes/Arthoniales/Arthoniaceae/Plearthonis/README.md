@@ -1,5 +1,4 @@
-Plearthonis GENUS
-=======
+# Plearthonis GENUS
 
 #### Status
 ACCEPTED

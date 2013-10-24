@@ -1,5 +1,4 @@
-Xylaria apeibae Mont. SPECIES
-=======
+# Xylaria apeibae Mont. SPECIES
 
 #### Status
 ACCEPTED

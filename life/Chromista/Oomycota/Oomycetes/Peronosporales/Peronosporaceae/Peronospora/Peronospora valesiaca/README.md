@@ -1,5 +1,4 @@
-Peronospora valesiaca Gäum., 1919 SPECIES
-=======
+# Peronospora valesiaca Gäum., 1919 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thermococcus gorgonarius Miroshnichenko et al., 1998 SPECIES
-=======
+# Thermococcus gorgonarius Miroshnichenko et al., 1998 SPECIES
 
 #### Status
 ACCEPTED

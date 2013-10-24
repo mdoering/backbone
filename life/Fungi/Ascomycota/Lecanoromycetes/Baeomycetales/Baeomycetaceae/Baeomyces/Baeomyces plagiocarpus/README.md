@@ -1,5 +1,4 @@
-Baeomyces plagiocarpus Kremp. SPECIES
-=======
+# Baeomyces plagiocarpus Kremp. SPECIES
 
 #### Status
 ACCEPTED

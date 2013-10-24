@@ -1,5 +1,4 @@
-Lamptidium Haeckel, 1887 GENUS
-=======
+# Lamptidium Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dactylella plumicola Grove SPECIES
-=======
+# Dactylella plumicola Grove SPECIES
 
 #### Status
 ACCEPTED

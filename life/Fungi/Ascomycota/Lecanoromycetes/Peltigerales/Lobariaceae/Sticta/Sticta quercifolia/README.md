@@ -1,5 +1,4 @@
-Sticta quercifolia Taylor SPECIES
-=======
+# Sticta quercifolia Taylor SPECIES
 
 #### Status
 ACCEPTED

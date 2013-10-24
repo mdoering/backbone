@@ -1,5 +1,4 @@
-Uredo moraceae Henn. SPECIES
-=======
+# Uredo moraceae Henn. SPECIES
 
 #### Status
 ACCEPTED

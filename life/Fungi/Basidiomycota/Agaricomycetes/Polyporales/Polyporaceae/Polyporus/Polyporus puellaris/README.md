@@ -1,5 +1,4 @@
-Polyporus puellaris Kalchbr. SPECIES
-=======
+# Polyporus puellaris Kalchbr. SPECIES
 
 #### Status
 ACCEPTED

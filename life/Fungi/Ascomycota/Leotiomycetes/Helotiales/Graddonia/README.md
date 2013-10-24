@@ -1,5 +1,4 @@
-Graddonia Dennis GENUS
-=======
+# Graddonia Dennis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ceratolithoides ultimus SPECIES
-=======
+# Ceratolithoides ultimus SPECIES
 
 #### Status
 ACCEPTED

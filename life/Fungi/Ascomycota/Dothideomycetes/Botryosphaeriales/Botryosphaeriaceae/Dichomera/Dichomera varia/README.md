@@ -1,5 +1,4 @@
-Dichomera varia Died., 1914 SPECIES
-=======
+# Dichomera varia Died., 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Auerswaldiella parvispora M.L. Farr SPECIES
-=======
+# Auerswaldiella parvispora M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

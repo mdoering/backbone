@@ -1,5 +1,4 @@
-Phialocephala urceolata W. Wang & McGhee SPECIES
-=======
+# Phialocephala urceolata W. Wang & McGhee SPECIES
 
 #### Status
 ACCEPTED

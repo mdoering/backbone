@@ -1,5 +1,4 @@
-Lecidea intropallida Fink SPECIES
-=======
+# Lecidea intropallida Fink SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus pellitus (Paulet) Lév. SPECIES
-=======
+# Boletus pellitus (Paulet) Lév. SPECIES
 
 #### Status
 ACCEPTED

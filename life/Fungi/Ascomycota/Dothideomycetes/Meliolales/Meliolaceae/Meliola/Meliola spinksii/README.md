@@ -1,5 +1,4 @@
-Meliola spinksii Dilcher SPECIES
-=======
+# Meliola spinksii Dilcher SPECIES
 
 #### Status
 ACCEPTED

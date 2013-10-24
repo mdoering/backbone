@@ -1,5 +1,4 @@
-Euglena variabilis G.A. Klebs SPECIES
-=======
+# Euglena variabilis G.A. Klebs SPECIES
 
 #### Status
 ACCEPTED

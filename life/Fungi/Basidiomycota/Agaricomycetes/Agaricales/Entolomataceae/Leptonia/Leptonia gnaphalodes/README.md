@@ -1,5 +1,4 @@
-Leptonia gnaphalodes (Berk. & Broome) Sacc. SPECIES
-=======
+# Leptonia gnaphalodes (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

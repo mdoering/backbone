@@ -1,5 +1,4 @@
-Tichothecium epicallopisma Wedd. SPECIES
-=======
+# Tichothecium epicallopisma Wedd. SPECIES
 
 #### Status
 ACCEPTED

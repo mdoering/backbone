@@ -1,5 +1,4 @@
-Erineum oxyacanthae Pers. SPECIES
-=======
+# Erineum oxyacanthae Pers. SPECIES
 
 #### Status
 ACCEPTED

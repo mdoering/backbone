@@ -1,5 +1,4 @@
-Entoloma gibbosporum Noordel. & Hauskn. SPECIES
-=======
+# Entoloma gibbosporum Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

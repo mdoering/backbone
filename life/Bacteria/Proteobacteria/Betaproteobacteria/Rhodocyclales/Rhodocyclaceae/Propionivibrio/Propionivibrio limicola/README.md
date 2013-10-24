@@ -1,5 +1,4 @@
-Propionivibrio limicola Brune et al., 2002 SPECIES
-=======
+# Propionivibrio limicola Brune et al., 2002 SPECIES
 
 #### Status
 ACCEPTED

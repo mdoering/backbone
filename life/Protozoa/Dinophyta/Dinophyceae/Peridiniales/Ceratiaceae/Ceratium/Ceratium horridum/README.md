@@ -1,11 +1,10 @@
-Ceratium horridum f. horridum FORM
-=======
+# Ceratium horridum (Cleve) Gran SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-NUB Generator [autonym]
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null

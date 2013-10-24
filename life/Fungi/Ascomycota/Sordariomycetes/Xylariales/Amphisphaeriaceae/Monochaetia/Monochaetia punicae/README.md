@@ -1,5 +1,4 @@
-Monochaetia punicae (Shreem. & M. Reddy) Vanev SPECIES
-=======
+# Monochaetia punicae (Shreem. & M. Reddy) Vanev SPECIES
 
 #### Status
 ACCEPTED

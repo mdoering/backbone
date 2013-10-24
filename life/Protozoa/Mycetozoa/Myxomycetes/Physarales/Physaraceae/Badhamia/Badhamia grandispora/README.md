@@ -1,5 +1,4 @@
-Badhamia grandispora Illana & G. Moreno, 1992 SPECIES
-=======
+# Badhamia grandispora Illana & G. Moreno, 1992 SPECIES
 
 #### Status
 ACCEPTED

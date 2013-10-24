@@ -1,14 +1,13 @@
-Idriella bolleyi (R. Sprague) Arx, 1981 SPECIES
-=======
+# Microdochium bolleyi (R. Sprague) de Hoog & Herm.-Nijh., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Gen. Fungi Sporul. Cult. (Vaduz), Edn 3 312 (1981)
+Stud. Mycol. 15: 194 (1977)
 
 #### Original name
 Gloeosporium bolleyi R. Sprague, 1948

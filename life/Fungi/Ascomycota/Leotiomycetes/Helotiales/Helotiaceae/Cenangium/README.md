@@ -1,5 +1,4 @@
-Cenangium E.M. Fries, 1818 GENUS
-=======
+# Cenangium E.M. Fries, 1818 GENUS
 
 #### Status
 ACCEPTED

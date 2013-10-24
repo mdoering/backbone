@@ -1,5 +1,4 @@
-Entoloma maheense Noordel. & Hauskn. SPECIES
-=======
+# Entoloma maheense Noordel. & Hauskn. SPECIES
 
 #### Status
 ACCEPTED

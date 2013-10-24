@@ -1,5 +1,4 @@
-Uromyces bonaveriae Syd. & P. Syd. SPECIES
-=======
+# Uromyces bonaveriae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

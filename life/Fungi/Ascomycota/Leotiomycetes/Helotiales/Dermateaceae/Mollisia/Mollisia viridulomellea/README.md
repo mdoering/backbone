@@ -1,5 +1,4 @@
-Mollisia viridulomellea Penz. & Sacc. SPECIES
-=======
+# Mollisia viridulomellea Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

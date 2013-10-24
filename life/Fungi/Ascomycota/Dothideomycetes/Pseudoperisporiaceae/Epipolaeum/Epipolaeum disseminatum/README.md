@@ -1,5 +1,4 @@
-Epipolaeum disseminatum (Syd.) M.L. Farr SPECIES
-=======
+# Epipolaeum disseminatum (Syd.) M.L. Farr SPECIES
 
 #### Status
 ACCEPTED

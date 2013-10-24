@@ -1,17 +1,16 @@
-Trametes lunospora Quanten SPECIES
-=======
+# Trametes lunispora Quanten, 1996 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycotaxon 59: 435 (1996)
 
 #### Original name
-Trametes lunospora Quanten
+Trametes lunispora Quanten, 1996
 
 ### Remarks
 null

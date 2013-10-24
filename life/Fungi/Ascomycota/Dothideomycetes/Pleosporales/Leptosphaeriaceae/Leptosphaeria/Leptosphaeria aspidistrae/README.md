@@ -1,5 +1,4 @@
-Leptosphaeria aspidistrae Tassi SPECIES
-=======
+# Leptosphaeria aspidistrae Tassi SPECIES
 
 #### Status
 ACCEPTED

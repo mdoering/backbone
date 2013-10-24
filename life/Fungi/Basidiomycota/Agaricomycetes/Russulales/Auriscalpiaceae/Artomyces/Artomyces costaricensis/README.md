@@ -1,5 +1,4 @@
-Artomyces costaricensis Lickey, 2003 SPECIES
-=======
+# Artomyces costaricensis Lickey, 2003 SPECIES
 
 #### Status
 ACCEPTED

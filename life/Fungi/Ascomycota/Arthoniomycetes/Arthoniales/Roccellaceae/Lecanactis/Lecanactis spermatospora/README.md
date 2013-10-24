@@ -1,5 +1,4 @@
-Lecanactis spermatospora Egea & Torrente SPECIES
-=======
+# Lecanactis spermatospora Egea & Torrente SPECIES
 
 #### Status
 ACCEPTED

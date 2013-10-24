@@ -1,5 +1,4 @@
-Entomophthora atrosperma Petch SPECIES
-=======
+# Entomophthora atrosperma Petch SPECIES
 
 #### Status
 ACCEPTED

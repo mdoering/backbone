@@ -1,5 +1,4 @@
-Lepiota coriacea Rick SPECIES
-=======
+# Lepiota coriacea Rick SPECIES
 
 #### Status
 ACCEPTED

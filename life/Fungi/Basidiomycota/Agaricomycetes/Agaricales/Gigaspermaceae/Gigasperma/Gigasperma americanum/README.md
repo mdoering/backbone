@@ -1,5 +1,4 @@
-Gigasperma americanum Kropp & L.J. Hutchison, 1996 SPECIES
-=======
+# Gigasperma americanum Kropp & L.J. Hutchison, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Phomopsis cyclobalanopsis (C.C. Chen) Vanev & Aa SPECIES
-=======
+# Phomopsis cyclobalanopsidis (C.C. Chen) Vanev & Aa SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+in van der Aa & Vanev, A Revision of the Species Described in Phyllosticta (Utrecht) 174 (2002)
 
 #### Original name
-Phyllosticta cyclobalanopsis C.C. Chen
+Phyllosticta cyclobalanopsidis C.C. Chen
 
 ### Remarks
 null

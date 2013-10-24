@@ -1,5 +1,4 @@
-Septoria nematospora Davis SPECIES
-=======
+# Septoria nematospora Davis SPECIES
 
 #### Status
 ACCEPTED

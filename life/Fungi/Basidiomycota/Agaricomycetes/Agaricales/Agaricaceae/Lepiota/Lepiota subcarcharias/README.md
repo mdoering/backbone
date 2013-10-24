@@ -1,5 +1,4 @@
-Lepiota subcarcharias Beeli SPECIES
-=======
+# Lepiota subcarcharias Beeli SPECIES
 
 #### Status
 ACCEPTED

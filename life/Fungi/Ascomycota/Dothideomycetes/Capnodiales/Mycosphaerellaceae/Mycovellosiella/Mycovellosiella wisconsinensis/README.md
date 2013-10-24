@@ -1,5 +1,4 @@
-Mycovellosiella wisconsinensis Deighton SPECIES
-=======
+# Mycovellosiella wisconsinensis Deighton SPECIES
 
 #### Status
 ACCEPTED

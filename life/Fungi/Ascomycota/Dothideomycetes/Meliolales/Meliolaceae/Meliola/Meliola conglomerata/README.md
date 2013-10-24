@@ -1,5 +1,4 @@
-Meliola conglomerata G. Winter SPECIES
-=======
+# Meliola conglomerata G. Winter SPECIES
 
 #### Status
 ACCEPTED

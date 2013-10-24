@@ -1,5 +1,4 @@
-Psilosphaeria jurana (Sacc. & Berl.) Cooke SPECIES
-=======
+# Psilosphaeria jurana (Sacc. & Berl.) Cooke SPECIES
 
 #### Status
 ACCEPTED

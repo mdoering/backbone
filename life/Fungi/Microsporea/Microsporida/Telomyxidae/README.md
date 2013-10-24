@@ -1,5 +1,4 @@
-Telomyxidae FAMILY
-=======
+# Telomyxidae FAMILY
 
 #### Status
 ACCEPTED

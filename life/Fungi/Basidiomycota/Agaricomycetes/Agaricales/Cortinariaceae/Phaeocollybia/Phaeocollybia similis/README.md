@@ -1,5 +1,4 @@
-Phaeocollybia similis (Bres.) Singer SPECIES
-=======
+# Phaeocollybia similis (Bres.) Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Naucoria pallida Velen. SPECIES
-=======
+# Naucoria pallida Velen. SPECIES
 
 #### Status
 ACCEPTED

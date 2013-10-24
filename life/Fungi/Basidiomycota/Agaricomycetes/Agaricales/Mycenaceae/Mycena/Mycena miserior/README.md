@@ -1,5 +1,4 @@
-Mycena miserior Huijsman SPECIES
-=======
+# Mycena miserior Huijsman SPECIES
 
 #### Status
 ACCEPTED

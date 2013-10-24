@@ -1,5 +1,4 @@
-Entyloma alopecuri Sawada SPECIES
-=======
+# Entyloma alopecuri Sawada SPECIES
 
 #### Status
 ACCEPTED

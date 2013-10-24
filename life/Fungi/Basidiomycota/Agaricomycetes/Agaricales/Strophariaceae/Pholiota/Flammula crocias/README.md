@@ -1,5 +1,4 @@
-Flammula crocias Berk. & Broome SPECIES
-=======
+# Flammula crocias Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

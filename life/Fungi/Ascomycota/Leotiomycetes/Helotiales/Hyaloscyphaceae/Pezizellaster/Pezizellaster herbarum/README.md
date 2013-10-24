@@ -1,5 +1,4 @@
-Pezizellaster herbarum E.K. Cash SPECIES
-=======
+# Pezizellaster herbarum E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

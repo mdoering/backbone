@@ -1,5 +1,4 @@
-Halothiobacillaceae FAMILY
-=======
+# Halothiobacillaceae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Propolidium salmoneum E.K. Cash SPECIES
-=======
+# Propolidium salmoneum E.K. Cash SPECIES
 
 #### Status
 ACCEPTED

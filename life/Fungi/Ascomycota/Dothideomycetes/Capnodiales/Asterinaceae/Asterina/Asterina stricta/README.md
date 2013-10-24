@@ -1,5 +1,4 @@
-Asterina stricta G. Winter SPECIES
-=======
+# Asterina stricta G. Winter SPECIES
 
 #### Status
 ACCEPTED

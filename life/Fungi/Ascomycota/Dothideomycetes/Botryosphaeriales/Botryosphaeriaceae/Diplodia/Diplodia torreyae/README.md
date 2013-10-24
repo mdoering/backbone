@@ -1,5 +1,4 @@
-Diplodia torreyae Gucevic SPECIES
-=======
+# Diplodia torreyae Gucevic SPECIES
 
 #### Status
 ACCEPTED

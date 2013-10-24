@@ -1,5 +1,4 @@
-Favolaschia citrinella Henn. SPECIES
-=======
+# Favolaschia citrinella Henn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diatrype opaca Cooke SPECIES
-=======
+# Diatrype opaca Cooke SPECIES
 
 #### Status
 ACCEPTED

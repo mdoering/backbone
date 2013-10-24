@@ -1,5 +1,4 @@
-Cytospora hariotii Briard, 1889 SPECIES
-=======
+# Cytospora hariotii Briard, 1889 SPECIES
 
 #### Status
 ACCEPTED

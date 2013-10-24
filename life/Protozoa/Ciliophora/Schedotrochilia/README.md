@@ -1,5 +1,4 @@
-Schedotrochilia Deroux, 1976 GENUS
-=======
+# Schedotrochilia Deroux, 1976 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phlyctema ranunculacearum Höhn. SPECIES
-=======
+# Phlyctema ranunculacearum Höhn. SPECIES
 
 #### Status
 ACCEPTED

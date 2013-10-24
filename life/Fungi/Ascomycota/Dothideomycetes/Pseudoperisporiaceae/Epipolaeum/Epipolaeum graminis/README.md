@@ -1,5 +1,4 @@
-Epipolaeum graminis Bat. & Cavalc. SPECIES
-=======
+# Epipolaeum graminis Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

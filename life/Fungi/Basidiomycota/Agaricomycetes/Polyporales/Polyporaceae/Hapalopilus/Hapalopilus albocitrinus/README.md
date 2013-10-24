@@ -1,17 +1,16 @@
-Poria rhoadsii Murrill, 1939 SPECIES
-=======
+# Hapalopilus albocitrinus (Petch) Ryvarden, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Torrey bot. Club 66: 33 (1939)
+in Ryvarden & Johansen, Prelim. Polyp. Fl. E. Afr. (Oslo) 359 (1980)
 
 #### Original name
-Poria rhoadsii Murrill, 1939
+Poria albocitrina Petch, 1922
 
 ### Remarks
 null

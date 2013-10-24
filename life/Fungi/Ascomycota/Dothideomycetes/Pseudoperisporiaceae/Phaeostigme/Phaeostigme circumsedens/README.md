@@ -1,5 +1,4 @@
-Phaeostigme circumsedens Doidge SPECIES
-=======
+# Phaeostigme circumsedens Doidge SPECIES
 
 #### Status
 ACCEPTED

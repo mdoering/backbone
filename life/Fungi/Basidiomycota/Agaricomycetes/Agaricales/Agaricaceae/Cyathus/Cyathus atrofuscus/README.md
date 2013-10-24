@@ -1,5 +1,4 @@
-Cyathus atrofuscus Velen. SPECIES
-=======
+# Cyathus atrofuscus Velen. SPECIES
 
 #### Status
 ACCEPTED

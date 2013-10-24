@@ -1,5 +1,4 @@
-Alternaria catharanthicola T.Y. Zhang SPECIES
-=======
+# Alternaria catharanthicola T.Y. Zhang SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrenopeziza cotoneastri (Starbäck) Nannf. SPECIES
-=======
+# Pyrenopeziza cotoneastri (Starbäck) Nannf. SPECIES
 
 #### Status
 ACCEPTED

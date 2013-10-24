@@ -1,5 +1,4 @@
-Corticirama Pilát GENUS
-=======
+# Corticirama Pilát GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coryneum trotterianum C. Massal. SPECIES
-=======
+# Coryneum trotterianum C. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thelotrema kalarense Sethy, Nagarkar & Patw. SPECIES
-=======
+# Thelotrema kalarense Sethy, Nagarkar & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Stenella psychotriae (Chupp & Viégas) Crous & U. Braun SPECIES
-=======
+# Stenella psychotriae (Chupp & Viégas) Crous & U. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phialea erioloma (Fr.) Sacc. SPECIES
-=======
+# Phialea erioloma (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

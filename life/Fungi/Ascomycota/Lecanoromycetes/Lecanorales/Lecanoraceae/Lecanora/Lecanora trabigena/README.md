@@ -1,5 +1,4 @@
-Lecanora trabigena Nyl. SPECIES
-=======
+# Lecanora trabigena Nyl. SPECIES
 
 #### Status
 ACCEPTED

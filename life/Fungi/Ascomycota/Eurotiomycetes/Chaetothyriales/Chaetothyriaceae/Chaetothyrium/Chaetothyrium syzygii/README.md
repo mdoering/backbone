@@ -1,5 +1,4 @@
-Chaetothyrium syzygii Hansf. SPECIES
-=======
+# Chaetothyrium syzygii Hansf. SPECIES
 
 #### Status
 ACCEPTED

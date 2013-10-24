@@ -1,5 +1,4 @@
-Rostafinsckia Spegazzini, 1880 GENUS
-=======
+# Rostafinsckia Spegazzini, 1880 GENUS
 
 #### Status
 ACCEPTED

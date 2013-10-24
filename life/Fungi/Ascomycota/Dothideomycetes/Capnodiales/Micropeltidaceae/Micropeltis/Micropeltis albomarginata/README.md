@@ -1,5 +1,4 @@
-Micropeltis albomarginata Speg. SPECIES
-=======
+# Micropeltis albomarginata Speg. SPECIES
 
 #### Status
 ACCEPTED

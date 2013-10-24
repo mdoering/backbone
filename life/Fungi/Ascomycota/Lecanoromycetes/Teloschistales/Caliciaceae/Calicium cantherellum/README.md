@@ -1,5 +1,4 @@
-Calicium cantherellum (Ach.) Ach. SPECIES
-=======
+# Calicium cantherellum (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Irene plebeja (Speg.) Theiss. & Syd. SPECIES
-=======
+# Irene plebeja (Speg.) Theiss. & Syd. SPECIES
 
 #### Status
 ACCEPTED

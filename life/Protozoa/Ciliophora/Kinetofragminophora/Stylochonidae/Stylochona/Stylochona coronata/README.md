@@ -1,5 +1,4 @@
-Stylochona coronata Kent, 1881 SPECIES
-=======
+# Stylochona coronata Kent, 1881 SPECIES
 
 #### Status
 ACCEPTED

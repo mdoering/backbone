@@ -1,5 +1,4 @@
-Opegrapha planiuscula Chevall. SPECIES
-=======
+# Opegrapha planiuscula Chevall. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tomentellago Hjortstam & Ryvarden GENUS
-=======
+# Tomentellago Hjortstam & Ryvarden GENUS
 
 #### Status
 ACCEPTED

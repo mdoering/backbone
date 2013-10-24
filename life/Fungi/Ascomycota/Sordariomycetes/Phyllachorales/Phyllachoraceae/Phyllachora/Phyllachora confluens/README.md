@@ -1,5 +1,4 @@
-Phyllachora confluens Welw. & Curr. SPECIES
-=======
+# Phyllachora confluens Welw. & Curr. SPECIES
 
 #### Status
 ACCEPTED

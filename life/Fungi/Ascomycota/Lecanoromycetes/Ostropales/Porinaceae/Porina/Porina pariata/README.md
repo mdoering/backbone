@@ -1,5 +1,4 @@
-Porina pariata (Nyl.) Zahlbr. SPECIES
-=======
+# Porina pariata (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

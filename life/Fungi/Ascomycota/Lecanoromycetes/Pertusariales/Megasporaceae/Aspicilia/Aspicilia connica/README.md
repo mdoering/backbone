@@ -1,5 +1,4 @@
-Aspicilia connica SPECIES
-=======
+# Aspicilia connica SPECIES
 
 #### Status
 ACCEPTED

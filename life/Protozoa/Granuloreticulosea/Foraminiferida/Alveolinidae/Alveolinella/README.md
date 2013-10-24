@@ -1,5 +1,4 @@
-Alveolinella H. Douville, 1907 GENUS
-=======
+# Alveolinella H. Douville, 1907 GENUS
 
 #### Status
 ACCEPTED

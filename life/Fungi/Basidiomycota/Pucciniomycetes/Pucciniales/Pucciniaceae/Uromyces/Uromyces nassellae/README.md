@@ -1,5 +1,4 @@
-Uromyces nassellae Cummins SPECIES
-=======
+# Uromyces nassellae Cummins SPECIES
 
 #### Status
 ACCEPTED

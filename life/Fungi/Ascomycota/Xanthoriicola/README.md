@@ -1,5 +1,4 @@
-Xanthoriicola D. Hawksw. GENUS
-=======
+# Xanthoriicola D. Hawksw. GENUS
 
 #### Status
 ACCEPTED

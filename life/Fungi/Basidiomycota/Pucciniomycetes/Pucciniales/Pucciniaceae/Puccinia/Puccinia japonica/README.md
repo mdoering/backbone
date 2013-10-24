@@ -1,5 +1,4 @@
-Puccinia japonica Dietel SPECIES
-=======
+# Puccinia japonica Dietel SPECIES
 
 #### Status
 ACCEPTED

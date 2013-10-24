@@ -1,8 +1,7 @@
-Caulobacter subvibrioides Poindexter, 1964 (Approved Lists, 1980) SPECIES
-=======
+# Brevundimonas subvibrioides (Poindexter, 1964) Abraham et al., 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

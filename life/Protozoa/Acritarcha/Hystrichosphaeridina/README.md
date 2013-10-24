@@ -1,5 +1,4 @@
-Hystrichosphaeridina GENUS
-=======
+# Hystrichosphaeridina GENUS
 
 #### Status
 ACCEPTED

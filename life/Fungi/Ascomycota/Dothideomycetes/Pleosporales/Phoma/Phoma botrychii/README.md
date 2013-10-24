@@ -1,5 +1,4 @@
-Phoma botrychii Jacz. SPECIES
-=======
+# Phoma botrychii Jacz. SPECIES
 
 #### Status
 ACCEPTED

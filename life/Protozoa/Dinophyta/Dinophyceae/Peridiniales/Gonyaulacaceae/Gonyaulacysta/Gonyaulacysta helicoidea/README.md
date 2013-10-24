@@ -1,5 +1,4 @@
-Gonyaulacysta helicoidea (Eisenack & Cookson, 1960) Sarjeant, 1966 SPECIES
-=======
+# Gonyaulacysta helicoidea (Eisenack & Cookson, 1960) Sarjeant, 1966 SPECIES
 
 #### Status
 ACCEPTED

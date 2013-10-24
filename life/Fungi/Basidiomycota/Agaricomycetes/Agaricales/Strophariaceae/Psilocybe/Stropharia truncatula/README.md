@@ -1,5 +1,4 @@
-Stropharia truncatula (Gillet) Sacc. SPECIES
-=======
+# Stropharia truncatula (Gillet) Sacc. SPECIES
 
 #### Status
 ACCEPTED

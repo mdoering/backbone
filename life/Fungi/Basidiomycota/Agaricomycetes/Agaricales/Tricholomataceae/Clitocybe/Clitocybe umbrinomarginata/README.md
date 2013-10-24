@@ -1,5 +1,4 @@
-Clitocybe umbrinomarginata (Britzelm.) Sacc. SPECIES
-=======
+# Clitocybe umbrinomarginata (Britzelm.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomatospora insignis Petr. SPECIES
-=======
+# Phomatospora insignis Petr. SPECIES
 
 #### Status
 ACCEPTED

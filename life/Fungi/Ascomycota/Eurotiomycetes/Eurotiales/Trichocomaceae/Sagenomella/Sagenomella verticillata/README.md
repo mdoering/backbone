@@ -1,5 +1,4 @@
-Sagenomella verticillata W. Gams & B.E. Söderstr., 1978 SPECIES
-=======
+# Sagenomella verticillata W. Gams & B.E. Söderstr., 1978 SPECIES
 
 #### Status
 ACCEPTED

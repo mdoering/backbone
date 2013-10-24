@@ -1,5 +1,4 @@
-Rhynchomyces exilis Höhn. SPECIES
-=======
+# Rhynchomyces exilis Höhn. SPECIES
 
 #### Status
 ACCEPTED

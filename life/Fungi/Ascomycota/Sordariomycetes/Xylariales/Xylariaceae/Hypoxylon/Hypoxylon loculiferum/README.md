@@ -1,5 +1,4 @@
-Hypoxylon loculiferum Bull. SPECIES
-=======
+# Hypoxylon loculiferum Bull. SPECIES
 
 #### Status
 ACCEPTED

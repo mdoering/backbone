@@ -1,5 +1,4 @@
-Verrucaria subconsequens Nyl. SPECIES
-=======
+# Verrucaria subconsequens Nyl. SPECIES
 
 #### Status
 ACCEPTED

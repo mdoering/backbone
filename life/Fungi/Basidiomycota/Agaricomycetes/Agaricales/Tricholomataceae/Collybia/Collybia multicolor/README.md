@@ -1,5 +1,4 @@
-Collybia multicolor Petch SPECIES
-=======
+# Collybia multicolor Petch SPECIES
 
 #### Status
 ACCEPTED

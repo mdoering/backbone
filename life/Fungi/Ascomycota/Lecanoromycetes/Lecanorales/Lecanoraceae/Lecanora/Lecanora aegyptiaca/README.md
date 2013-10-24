@@ -1,5 +1,4 @@
-Lecanora aegyptiaca (Müll. Arg.) Stizenb. SPECIES
-=======
+# Lecanora aegyptiaca (Müll. Arg.) Stizenb. SPECIES
 
 #### Status
 ACCEPTED

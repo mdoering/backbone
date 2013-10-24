@@ -1,5 +1,4 @@
-Sphaerocybe Magrou & Marneffe GENUS
-=======
+# Sphaerocybe Magrou & Marneffe GENUS
 
 #### Status
 ACCEPTED

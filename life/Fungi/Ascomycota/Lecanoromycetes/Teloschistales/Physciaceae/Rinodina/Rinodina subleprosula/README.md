@@ -1,5 +1,4 @@
-Rinodina subleprosula SPECIES
-=======
+# Rinodina subleprosula SPECIES
 
 #### Status
 ACCEPTED

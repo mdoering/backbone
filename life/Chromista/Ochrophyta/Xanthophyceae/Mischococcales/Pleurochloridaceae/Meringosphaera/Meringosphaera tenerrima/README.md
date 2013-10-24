@@ -1,5 +1,4 @@
-Meringosphaera tenerrima Schiller, 1925 SPECIES
-=======
+# Meringosphaera tenerrima Schiller, 1925 SPECIES
 
 #### Status
 ACCEPTED

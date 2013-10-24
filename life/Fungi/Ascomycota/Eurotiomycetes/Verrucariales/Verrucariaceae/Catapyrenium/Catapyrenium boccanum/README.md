@@ -1,14 +1,13 @@
-Dermatocarpon boccanum Servít SPECIES
-=======
+# Catapyrenium boccanum (Servít) Breuss SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Rozpr. Ceskoslov. Akad. Véd 65(no. 3): 23 (1955)
+Stapfia 23: 77 (1990)
 
 #### Original name
 Dermatocarpon boccanum Servít

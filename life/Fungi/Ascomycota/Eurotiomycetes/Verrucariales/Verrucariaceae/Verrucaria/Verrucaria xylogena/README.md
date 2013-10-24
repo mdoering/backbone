@@ -1,5 +1,4 @@
-Verrucaria xylogena Norman SPECIES
-=======
+# Verrucaria xylogena Norman SPECIES
 
 #### Status
 ACCEPTED

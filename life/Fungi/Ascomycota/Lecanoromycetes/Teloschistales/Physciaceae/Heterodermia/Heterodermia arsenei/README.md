@@ -1,5 +1,4 @@
-Heterodermia arsenei (Kurok.) Kurok. SPECIES
-=======
+# Heterodermia arsenei (Kurok.) Kurok. SPECIES
 
 #### Status
 ACCEPTED

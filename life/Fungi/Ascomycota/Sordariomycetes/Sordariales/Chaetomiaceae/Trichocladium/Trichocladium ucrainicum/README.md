@@ -1,5 +1,4 @@
-Trichocladium ucrainicum Kiril. SPECIES
-=======
+# Trichocladium ucrainicum Kiril. SPECIES
 
 #### Status
 ACCEPTED

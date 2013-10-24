@@ -1,17 +1,16 @@
-Meliola niessleana G. Winter SPECIES
-=======
+# Meliola ellisii Roum., 1880 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Revue mycol. , Toulouse 2: 200 (1880)
 
 #### Original name
-Meliola niessleana G. Winter
+Meliola ellisii Roum., 1880
 
 ### Remarks
 null

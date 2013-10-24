@@ -1,14 +1,13 @@
-Coniochaeta elaeicola (Henn.) C. Moreau & M. Moreau, 1949 SPECIES
-=======
+# Stilbohypoxylon elaeicola (Henn.) L.E. Petrini, 2004 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Sydowia 56(1): 55 (2004)
 
 #### Original name
 Rosellinia elaeicola Henn., 1895

@@ -1,5 +1,4 @@
-Didymella veronicicola Kirschst. SPECIES
-=======
+# Didymella veronicicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

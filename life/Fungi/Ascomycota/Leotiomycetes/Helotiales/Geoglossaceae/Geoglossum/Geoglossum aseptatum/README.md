@@ -1,17 +1,16 @@
-Geoglossum asaeptatum Hakelier ex Nitare SPECIES
-=======
+# Geoglossum aseptatum Hakelier ex Nitare SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Windahlia 14: 40 (1984)
 
 #### Original name
-Geoglossum asaeptatum Hakelier ex Nitare
+Geoglossum aseptatum Hakelier ex Nitare
 
 ### Remarks
 null

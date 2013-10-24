@@ -1,5 +1,4 @@
-Hypocrea argentinensis Speg. SPECIES
-=======
+# Hypocrea argentinensis Speg. SPECIES
 
 #### Status
 ACCEPTED

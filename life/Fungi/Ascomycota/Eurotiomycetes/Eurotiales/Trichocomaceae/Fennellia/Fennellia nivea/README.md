@@ -1,17 +1,16 @@
-Aspergillus niveus var. niveus VARIETY
-=======
+# Fennellia nivea (B.J. Wiley & E.G. Simmons) Samson, 1979 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annls mycol. 27: 205 (1929)
+Stud. Mycol. 18: 5 (1979)
 
 #### Original name
-Aspergillus niveus var. niveus
+Emericella nivea B.J. Wiley & E.G. Simmons, 1973
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Elphidium oregonense Cushman & Grant, 1927 SPECIES
-=======
+# Elphidium oregonense Cushman & Grant, 1927 SPECIES
 
 #### Status
 ACCEPTED

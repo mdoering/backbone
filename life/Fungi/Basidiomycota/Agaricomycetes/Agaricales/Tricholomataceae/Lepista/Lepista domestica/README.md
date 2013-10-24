@@ -1,5 +1,4 @@
-Lepista domestica Murrill SPECIES
-=======
+# Lepista domestica Murrill SPECIES
 
 #### Status
 ACCEPTED

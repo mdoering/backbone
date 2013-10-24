@@ -1,5 +1,4 @@
-Acineta cornuta SPECIES
-=======
+# Acineta cornuta SPECIES
 
 #### Status
 ACCEPTED

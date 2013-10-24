@@ -1,5 +1,4 @@
-Fevansia aurantiaca Trappe & Castellano, 2000 SPECIES
-=======
+# Fevansia aurantiaca Trappe & Castellano, 2000 SPECIES
 
 #### Status
 ACCEPTED

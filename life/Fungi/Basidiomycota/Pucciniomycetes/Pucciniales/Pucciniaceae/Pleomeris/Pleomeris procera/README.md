@@ -1,5 +1,4 @@
-Pleomeris procera (Dietel & Holw.) Syd. SPECIES
-=======
+# Pleomeris procera (Dietel & Holw.) Syd. SPECIES
 
 #### Status
 ACCEPTED

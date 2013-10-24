@@ -1,5 +1,4 @@
-Uromyces schismi Jørst. SPECIES
-=======
+# Uromyces schismi Jørst. SPECIES
 
 #### Status
 ACCEPTED

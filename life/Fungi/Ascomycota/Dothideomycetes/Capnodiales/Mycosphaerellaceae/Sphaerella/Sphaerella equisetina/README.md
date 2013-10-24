@@ -1,5 +1,4 @@
-Sphaerella equisetina Kirschst. SPECIES
-=======
+# Sphaerella equisetina Kirschst. SPECIES
 
 #### Status
 ACCEPTED

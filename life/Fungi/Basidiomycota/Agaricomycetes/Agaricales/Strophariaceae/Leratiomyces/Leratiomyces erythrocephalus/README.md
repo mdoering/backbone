@@ -1,17 +1,16 @@
-Secotium lutescens Lloyd, 1908 SPECIES
-=======
+# Leratiomyces erythrocephalus (Tul. & C. Tul.) Beever & D.-C. Park, 2008 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycological Letters 19: 6 (1908)
+Mycotaxon 103: 116 (2008)
 
 #### Original name
-Secotium lutescens Lloyd, 1908
+Secotium erythrocephalum Tul., 1845
 
 ### Remarks
 null

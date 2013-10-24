@@ -1,5 +1,4 @@
-Hypocrella axillaris Cooke SPECIES
-=======
+# Hypocrella axillaris Cooke SPECIES
 
 #### Status
 ACCEPTED

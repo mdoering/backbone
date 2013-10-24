@@ -1,5 +1,4 @@
-Puccinia astragenes Fuckel SPECIES
-=======
+# Puccinia astragenes Fuckel SPECIES
 
 #### Status
 ACCEPTED

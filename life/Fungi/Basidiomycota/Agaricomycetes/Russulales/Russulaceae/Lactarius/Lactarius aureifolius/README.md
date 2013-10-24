@@ -1,5 +1,4 @@
-Lactarius aureifolius Verbeken, 1996 SPECIES
-=======
+# Lactarius aureifolius Verbeken, 1996 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhodotorula longissima Lodder SPECIES
-=======
+# Rhodotorula longissima Lodder SPECIES
 
 #### Status
 ACCEPTED

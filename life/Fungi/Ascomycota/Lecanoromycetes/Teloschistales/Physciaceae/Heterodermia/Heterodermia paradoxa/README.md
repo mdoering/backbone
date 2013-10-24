@@ -1,5 +1,4 @@
-Heterodermia paradoxa Schumm & Schäfer-Verwimp SPECIES
-=======
+# Heterodermia paradoxa Schumm & Schäfer-Verwimp SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phomopsis ligulata Grove, 1935 SPECIES
-=======
+# Phomopsis ligulata Grove, 1935 SPECIES
 
 #### Status
 ACCEPTED

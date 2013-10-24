@@ -1,5 +1,4 @@
-Stereocaulon alishanum Mineta SPECIES
-=======
+# Stereocaulon alishanum Mineta SPECIES
 
 #### Status
 ACCEPTED

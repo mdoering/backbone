@@ -1,17 +1,16 @@
-Dendroleptosphaeria castanicola Sousa da Câmara & Luz SPECIES
-=======
+# Dendroleptosphaeria castaneicola Sousa da Câmara & Luz SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Agron. lusit. 1(2): 175 (1939)
 
 #### Original name
-Dendroleptosphaeria castanicola Sousa da Câmara & Luz
+Dendroleptosphaeria castaneicola Sousa da Câmara & Luz
 
 ### Remarks
 null

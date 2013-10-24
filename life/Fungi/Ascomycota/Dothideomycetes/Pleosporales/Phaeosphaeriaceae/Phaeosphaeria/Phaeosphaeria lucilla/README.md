@@ -1,5 +1,4 @@
-Phaeosphaeria lucilla (Sacc.) Huhndorf SPECIES
-=======
+# Phaeosphaeria lucilla (Sacc.) Huhndorf SPECIES
 
 #### Status
 ACCEPTED

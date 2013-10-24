@@ -1,5 +1,4 @@
-Auriculariales J. Schröt. ORDER
-=======
+# Auriculariales J. Schröt. ORDER
 
 #### Status
 ACCEPTED

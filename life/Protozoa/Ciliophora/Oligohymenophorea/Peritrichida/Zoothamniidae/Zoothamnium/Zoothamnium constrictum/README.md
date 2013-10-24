@@ -1,5 +1,4 @@
-Zoothamnium constrictum subsp. constrictum SUBSPECIES
-=======
+# Zoothamnium constrictum SPECIES
 
 #### Status
 ACCEPTED

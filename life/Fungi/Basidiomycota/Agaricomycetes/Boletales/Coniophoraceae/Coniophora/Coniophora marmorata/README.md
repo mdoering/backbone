@@ -1,5 +1,4 @@
-Coniophora marmorata Desm., 1823 SPECIES
-=======
+# Coniophora marmorata Desm., 1823 SPECIES
 
 #### Status
 ACCEPTED

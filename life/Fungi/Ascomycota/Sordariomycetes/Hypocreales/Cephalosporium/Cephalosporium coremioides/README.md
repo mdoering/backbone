@@ -1,5 +1,4 @@
-Cephalosporium coremioides Raillo SPECIES
-=======
+# Cephalosporium coremioides Raillo SPECIES
 
 #### Status
 ACCEPTED

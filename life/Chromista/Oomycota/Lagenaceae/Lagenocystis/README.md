@@ -1,5 +1,4 @@
-Lagenocystis GENUS
-=======
+# Lagenocystis GENUS
 
 #### Status
 ACCEPTED

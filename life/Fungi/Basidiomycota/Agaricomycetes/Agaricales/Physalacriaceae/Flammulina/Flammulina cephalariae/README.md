@@ -1,5 +1,4 @@
-Flammulina cephalariae Perez-Butron & Fernández-Vic. SPECIES
-=======
+# Flammulina cephalariae Perez-Butron & Fernández-Vic. SPECIES
 
 #### Status
 ACCEPTED

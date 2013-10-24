@@ -1,5 +1,4 @@
-Pyrenula castanea (Eschw.) Müll. Arg. SPECIES
-=======
+# Pyrenula castanea (Eschw.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycobacterium brisbanense Schinsky et al., 2004 SPECIES
-=======
+# Mycobacterium brisbanense Schinsky et al., 2004 SPECIES
 
 #### Status
 ACCEPTED

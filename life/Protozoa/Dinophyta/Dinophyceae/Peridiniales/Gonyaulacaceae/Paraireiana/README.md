@@ -1,5 +1,4 @@
-Paraireiana He, 1984 GENUS
-=======
+# Paraireiana He, 1984 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graddonidiscus californicus (Raitv. & R. Galán) Raitv. SPECIES
-=======
+# Graddonidiscus californicus (Raitv. & R. Galán) Raitv. SPECIES
 
 #### Status
 ACCEPTED

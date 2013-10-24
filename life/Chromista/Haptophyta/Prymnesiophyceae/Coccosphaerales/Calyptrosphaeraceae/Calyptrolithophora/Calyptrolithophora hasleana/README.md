@@ -1,8 +1,7 @@
-Sphaerocalyptra hasleana (Gaarder, 1962) Kling, 1975 SPECIES
-=======
+# Calyptrolithophora hasleana (Gaarder, 1962) Heimdal, 1980 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

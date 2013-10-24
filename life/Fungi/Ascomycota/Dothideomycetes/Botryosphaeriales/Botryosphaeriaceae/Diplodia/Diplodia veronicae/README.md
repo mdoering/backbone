@@ -1,5 +1,4 @@
-Diplodia veronicae Fautrey SPECIES
-=======
+# Diplodia veronicae Fautrey SPECIES
 
 #### Status
 ACCEPTED

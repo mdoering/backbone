@@ -1,5 +1,4 @@
-Psathyrella praetenuis A.H. Sm. SPECIES
-=======
+# Psathyrella praetenuis A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

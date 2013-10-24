@@ -1,5 +1,4 @@
-Asterostomella heteropteridis (Henn.) G. Arnaud SPECIES
-=======
+# Asterostomella heteropteridis (Henn.) G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

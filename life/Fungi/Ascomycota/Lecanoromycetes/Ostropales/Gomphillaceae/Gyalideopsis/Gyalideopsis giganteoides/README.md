@@ -1,5 +1,4 @@
-Gyalideopsis giganteoides Sérus. SPECIES
-=======
+# Gyalideopsis giganteoides Sérus. SPECIES
 
 #### Status
 ACCEPTED

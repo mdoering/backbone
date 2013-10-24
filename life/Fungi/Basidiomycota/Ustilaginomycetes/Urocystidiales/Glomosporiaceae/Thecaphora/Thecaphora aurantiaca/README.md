@@ -1,5 +1,4 @@
-Thecaphora aurantiaca Fingerh. SPECIES
-=======
+# Thecaphora aurantiaca Fingerh. SPECIES
 
 #### Status
 ACCEPTED

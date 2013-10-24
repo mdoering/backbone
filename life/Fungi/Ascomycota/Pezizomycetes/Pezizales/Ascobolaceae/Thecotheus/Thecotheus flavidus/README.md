@@ -1,5 +1,4 @@
-Thecotheus flavidus Yei Z. Wang & Kimbr. SPECIES
-=======
+# Thecotheus flavidus Yei Z. Wang & Kimbr. SPECIES
 
 #### Status
 ACCEPTED

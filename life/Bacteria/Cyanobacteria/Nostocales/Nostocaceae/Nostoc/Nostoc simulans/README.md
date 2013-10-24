@@ -1,5 +1,4 @@
-Nostoc simulans Gardner SPECIES
-=======
+# Nostoc simulans Gardner SPECIES
 
 #### Status
 ACCEPTED

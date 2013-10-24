@@ -1,5 +1,4 @@
-Micropeltidium coccolobicola Bat. & I.H. Lima SPECIES
-=======
+# Micropeltidium coccolobicola Bat. & I.H. Lima SPECIES
 
 #### Status
 ACCEPTED

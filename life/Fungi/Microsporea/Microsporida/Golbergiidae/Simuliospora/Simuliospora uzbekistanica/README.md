@@ -1,5 +1,4 @@
-Simuliospora uzbekistanica Khodzhaeva, S.V. Krylova & I.V. Issi SPECIES
-=======
+# Simuliospora uzbekistanica Khodzhaeva, S.V. Krylova & I.V. Issi SPECIES
 
 #### Status
 ACCEPTED

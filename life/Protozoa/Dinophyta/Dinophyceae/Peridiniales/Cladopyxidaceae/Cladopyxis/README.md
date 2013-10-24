@@ -1,5 +1,4 @@
-Cladopyxis Stein, 1883 GENUS
-=======
+# Cladopyxis Stein, 1883 GENUS
 
 #### Status
 ACCEPTED

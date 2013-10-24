@@ -1,8 +1,7 @@
-Blepharisma coerulea Gajevskaja, 1927 SPECIES
-=======
+# Blepharisma coeruleum Gajewskaja, 1927 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Lobaria adpressa (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Lobaria adpressa (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Acanthobotrys Popofsky, 1913 GENUS
-=======
+# Acanthobotrys Popofsky, 1913 GENUS
 
 #### Status
 ACCEPTED

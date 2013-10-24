@@ -1,17 +1,16 @@
-Microporus campyloporus (Mont.) Kuntze, 1898 SPECIES
-=======
+# Cyclomyces fuscus Kunze ex Fr., 1830 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 495 (1898)
+Linnaea 5: 512 (1830)
 
 #### Original name
-Polyporus campyloporus Mont., 1854
+Cyclomyces fuscus Kunze ex Fr., 1830
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Coniothyrium castagnei Sacc. SPECIES
-=======
+# Coniothyrium castagnei Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Placodium adriaticum SPECIES
-=======
+# Placodium adriaticum SPECIES
 
 #### Status
 ACCEPTED

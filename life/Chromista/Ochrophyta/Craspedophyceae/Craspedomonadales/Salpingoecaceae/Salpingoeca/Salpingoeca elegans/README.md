@@ -1,5 +1,4 @@
-Salpingoeca elegans SPECIES
-=======
+# Salpingoeca elegans SPECIES
 
 #### Status
 ACCEPTED

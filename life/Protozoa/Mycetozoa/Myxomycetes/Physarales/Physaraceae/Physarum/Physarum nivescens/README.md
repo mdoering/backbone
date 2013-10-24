@@ -1,5 +1,4 @@
-Physarum nivescens SPECIES
-=======
+# Physarum nivescens SPECIES
 
 #### Status
 ACCEPTED

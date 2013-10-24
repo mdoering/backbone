@@ -1,5 +1,4 @@
-Lempholemma trivallense (Croz.) Zahlbr. SPECIES
-=======
+# Lempholemma trivallense (Croz.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

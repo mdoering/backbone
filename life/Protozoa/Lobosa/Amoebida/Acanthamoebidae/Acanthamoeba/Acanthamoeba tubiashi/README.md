@@ -1,5 +1,4 @@
-Acanthamoeba tubiashi Lewis & Sawyer, 1979 SPECIES
-=======
+# Acanthamoeba tubiashi Lewis & Sawyer, 1979 SPECIES
 
 #### Status
 ACCEPTED

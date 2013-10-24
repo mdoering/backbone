@@ -1,5 +1,4 @@
-Endococcus alpicola anon SPECIES
-=======
+# Endococcus alpicola anon SPECIES
 
 #### Status
 ACCEPTED

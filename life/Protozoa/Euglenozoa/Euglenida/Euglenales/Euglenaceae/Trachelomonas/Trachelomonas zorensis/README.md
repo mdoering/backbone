@@ -1,5 +1,4 @@
-Trachelomonas zorensis M. Lefèvre SPECIES
-=======
+# Trachelomonas zorensis M. Lefèvre SPECIES
 
 #### Status
 ACCEPTED

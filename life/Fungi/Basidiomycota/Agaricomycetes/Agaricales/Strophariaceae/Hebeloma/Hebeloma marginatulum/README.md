@@ -1,17 +1,16 @@
-Hebeloma marginatulum var. fallax A.H. Sm., V.S. Evenson & Mitchel VARIETY
-=======
+# Hebeloma marginatulum (J. Favre) Bruchet, 1970 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Veiled species of Hebeloma in the western United States (Ann Arbor) 130 (1983)
+Bull. mens. Soc. linn. Lyon 39(6[Suppl. ]): 43 (1970)
 
 #### Original name
-Hebeloma marginatulum var. fallax A.H. Sm., V.S. Evenson & Mitchel
+Hebeloma versipelle var. marginatulum J. Favre, 1955
 
 ### Remarks
 null

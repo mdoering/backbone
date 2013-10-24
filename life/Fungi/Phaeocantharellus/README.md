@@ -1,5 +1,4 @@
-Phaeocantharellus GENUS
-=======
+# Phaeocantharellus GENUS
 
 #### Status
 ACCEPTED

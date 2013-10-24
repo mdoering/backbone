@@ -1,5 +1,4 @@
-Pichia koratensis Nakase, Jindam., Mikata, Ninomiya, H. Kawas. & Limtong, 2007 SPECIES
-=======
+# Pichia koratensis Nakase, Jindam., Mikata, Ninomiya, H. Kawas. & Limtong, 2007 SPECIES
 
 #### Status
 ACCEPTED

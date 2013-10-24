@@ -1,5 +1,4 @@
-Dermatocarpon subpruinosum var. subpruinosum VARIETY
-=======
+# Dermatocarpon subpruinosum (Servít) Servít SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Dermatocarpon subpruinosum var. subpruinosum
+null
 
 ### Remarks
 null

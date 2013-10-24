@@ -1,5 +1,4 @@
-Phomopsis calanthes Sacc. SPECIES
-=======
+# Phomopsis calanthes Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pertusaria circumcincta Stirt. SPECIES
-=======
+# Pertusaria circumcincta Stirt. SPECIES
 
 #### Status
 ACCEPTED

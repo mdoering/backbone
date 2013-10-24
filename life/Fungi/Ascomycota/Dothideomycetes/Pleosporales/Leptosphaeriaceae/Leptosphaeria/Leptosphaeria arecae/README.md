@@ -1,5 +1,4 @@
-Leptosphaeria arecae Mariani SPECIES
-=======
+# Leptosphaeria arecae Mariani SPECIES
 
 #### Status
 ACCEPTED

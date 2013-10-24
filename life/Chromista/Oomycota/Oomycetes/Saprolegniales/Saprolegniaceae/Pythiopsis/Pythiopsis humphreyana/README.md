@@ -1,5 +1,4 @@
-Pythiopsis humphreyana Coker, 1914 SPECIES
-=======
+# Pythiopsis humphreyana Coker, 1914 SPECIES
 
 #### Status
 ACCEPTED

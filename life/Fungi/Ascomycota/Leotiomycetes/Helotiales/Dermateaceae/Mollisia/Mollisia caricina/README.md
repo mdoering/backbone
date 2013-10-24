@@ -1,5 +1,4 @@
-Mollisia caricina Fautrey, 1891 SPECIES
-=======
+# Mollisia caricina Fautrey, 1891 SPECIES
 
 #### Status
 ACCEPTED

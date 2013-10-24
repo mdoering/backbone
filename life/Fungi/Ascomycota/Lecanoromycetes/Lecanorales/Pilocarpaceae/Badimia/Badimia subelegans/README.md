@@ -1,5 +1,4 @@
-Badimia subelegans Sipman & Lücking SPECIES
-=======
+# Badimia subelegans Sipman & Lücking SPECIES
 
 #### Status
 ACCEPTED

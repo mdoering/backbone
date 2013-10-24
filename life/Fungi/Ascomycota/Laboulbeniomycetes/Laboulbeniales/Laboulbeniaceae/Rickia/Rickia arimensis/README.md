@@ -1,5 +1,4 @@
-Rickia arimensis Thaxt. SPECIES
-=======
+# Rickia arimensis Thaxt. SPECIES
 
 #### Status
 ACCEPTED

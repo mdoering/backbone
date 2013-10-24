@@ -1,5 +1,4 @@
-Uronemita Yankovskij, 1980 GENUS
-=======
+# Uronemita Yankovskij, 1980 GENUS
 
 #### Status
 ACCEPTED

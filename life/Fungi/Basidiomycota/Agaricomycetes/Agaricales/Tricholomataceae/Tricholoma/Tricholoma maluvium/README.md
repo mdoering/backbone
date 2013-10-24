@@ -1,5 +1,4 @@
-Tricholoma maluvium (Battarra) Fr. SPECIES
-=======
+# Tricholoma maluvium (Battarra) Fr. SPECIES
 
 #### Status
 ACCEPTED

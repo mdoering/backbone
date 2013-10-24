@@ -1,5 +1,4 @@
-Lactarius latifolius Gooss.-Font. & R. Heim SPECIES
-=======
+# Lactarius latifolius Gooss.-Font. & R. Heim SPECIES
 
 #### Status
 ACCEPTED

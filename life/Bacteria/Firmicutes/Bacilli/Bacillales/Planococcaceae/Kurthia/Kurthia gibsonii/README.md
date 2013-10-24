@@ -1,5 +1,4 @@
-Kurthia gibsonii Shaw & Keddie, 1983 SPECIES
-=======
+# Kurthia gibsonii Shaw & Keddie, 1983 SPECIES
 
 #### Status
 ACCEPTED

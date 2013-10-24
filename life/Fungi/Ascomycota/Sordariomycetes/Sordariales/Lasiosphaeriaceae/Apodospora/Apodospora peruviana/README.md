@@ -1,5 +1,4 @@
-Apodospora peruviana T. Muroi, Udagawa & Y. Otani, 1987 SPECIES
-=======
+# Apodospora peruviana T. Muroi, Udagawa & Y. Otani, 1987 SPECIES
 
 #### Status
 ACCEPTED

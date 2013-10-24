@@ -1,5 +1,4 @@
-Agaricus lecensis Harz SPECIES
-=======
+# Agaricus lecensis Harz SPECIES
 
 #### Status
 ACCEPTED

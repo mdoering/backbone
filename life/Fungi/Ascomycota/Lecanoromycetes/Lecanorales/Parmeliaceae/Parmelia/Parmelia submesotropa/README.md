@@ -1,5 +1,4 @@
-Parmelia submesotropa Gyeln. SPECIES
-=======
+# Parmelia submesotropa Gyeln. SPECIES
 
 #### Status
 ACCEPTED

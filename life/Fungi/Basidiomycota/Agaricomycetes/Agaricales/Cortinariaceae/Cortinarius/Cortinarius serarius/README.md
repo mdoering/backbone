@@ -1,5 +1,4 @@
-Cortinarius serarius Fr. SPECIES
-=======
+# Cortinarius serarius Fr. SPECIES
 
 #### Status
 ACCEPTED

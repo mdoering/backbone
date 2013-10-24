@@ -1,14 +1,13 @@
-Galera brachypodii Velen., 1947 SPECIES
-=======
+# Conocybe brachypodii (Velen.) Hauskn. & Svrcek, 1999 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Opera Bot. Cech. 4: 67 (1947)
+in Hausknecht, Czech Mycol. 51(1): 43 (1999)
 
 #### Original name
 Galera brachypodii Velen., 1947

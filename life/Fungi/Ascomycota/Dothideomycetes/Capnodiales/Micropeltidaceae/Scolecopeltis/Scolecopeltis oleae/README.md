@@ -1,5 +1,4 @@
-Scolecopeltis oleae (J.V. Almeida & Sousa da Câmara) Clem. & Shear ex Bat. SPECIES
-=======
+# Scolecopeltis oleae (J.V. Almeida & Sousa da Câmara) Clem. & Shear ex Bat. SPECIES
 
 #### Status
 ACCEPTED

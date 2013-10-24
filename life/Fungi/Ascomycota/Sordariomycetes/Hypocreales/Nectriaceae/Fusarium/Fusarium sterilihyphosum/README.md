@@ -1,5 +1,4 @@
-Fusarium sterilihyphosum Britz, Marasas & M.J. Wingf., 2002 SPECIES
-=======
+# Fusarium sterilihyphosum Britz, Marasas & M.J. Wingf., 2002 SPECIES
 
 #### Status
 ACCEPTED

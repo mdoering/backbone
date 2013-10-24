@@ -1,17 +1,16 @@
-Aecidium aegopodii Rebent., 1804 SPECIES
-=======
+# Puccinia aegopodii (Schumach.) Link, 1817 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Prodr. fl. neomarch. 222 (1804)
+Flora Mosq. 226 (1817)
 
 #### Original name
-Aecidium aegopodii Rebent., 1804
+Puccinia aegopodii (Schumach.) Link, 1817
 
 ### Remarks
 null

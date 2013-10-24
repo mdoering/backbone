@@ -1,5 +1,4 @@
-Royoungia Castellano, Trappe & Malajczuk GENUS
-=======
+# Royoungia Castellano, Trappe & Malajczuk GENUS
 
 #### Status
 ACCEPTED

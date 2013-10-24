@@ -1,5 +1,4 @@
-Spongotripodiscus Haeckel, 1887 GENUS
-=======
+# Spongotripodiscus Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mazosia longispora Lücking & Matzer SPECIES
-=======
+# Mazosia longispora Lücking & Matzer SPECIES
 
 #### Status
 ACCEPTED

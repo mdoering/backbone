@@ -1,5 +1,4 @@
-Cercospora acericola Woron. SPECIES
-=======
+# Cercospora acericola Woron. SPECIES
 
 #### Status
 ACCEPTED

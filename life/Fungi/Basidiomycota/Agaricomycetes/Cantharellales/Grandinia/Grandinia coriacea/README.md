@@ -1,5 +1,4 @@
-Grandinia coriacea Peck SPECIES
-=======
+# Grandinia coriacea Peck SPECIES
 
 #### Status
 ACCEPTED

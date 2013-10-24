@@ -1,5 +1,4 @@
-Gibsonia phaeospora Massee, 1909 SPECIES
-=======
+# Gibsonia phaeospora Massee, 1909 SPECIES
 
 #### Status
 ACCEPTED

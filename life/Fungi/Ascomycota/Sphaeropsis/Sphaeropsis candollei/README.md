@@ -1,5 +1,4 @@
-Sphaeropsis candollei Sacc., 1880 SPECIES
-=======
+# Sphaeropsis candollei Sacc., 1880 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cyclococcolithus leptoporus (Murray & Blackman) Kampt SPECIES
-=======
+# Cyclococcolithus leptoporus (Murray & Blackman) Kampt SPECIES
 
 #### Status
 ACCEPTED

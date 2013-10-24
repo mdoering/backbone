@@ -1,5 +1,4 @@
-Sticta dichotomoides Nyl. SPECIES
-=======
+# Sticta dichotomoides Nyl. SPECIES
 
 #### Status
 ACCEPTED

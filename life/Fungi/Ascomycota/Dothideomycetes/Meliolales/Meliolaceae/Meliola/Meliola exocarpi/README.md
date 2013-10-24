@@ -1,5 +1,4 @@
-Meliola exocarpi H.S. Yates SPECIES
-=======
+# Meliola exocarpi H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

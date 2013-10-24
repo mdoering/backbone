@@ -1,5 +1,4 @@
-Calicium arcyriaeforme Schumach. SPECIES
-=======
+# Calicium arcyriaeforme Schumach. SPECIES
 
 #### Status
 ACCEPTED

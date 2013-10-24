@@ -1,5 +1,4 @@
-Enterospora canceri Stentiford, Bateman, Longshaw & Feist, 2007 SPECIES
-=======
+# Enterospora canceri Stentiford, Bateman, Longshaw & Feist, 2007 SPECIES
 
 #### Status
 ACCEPTED

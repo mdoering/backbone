@@ -1,5 +1,4 @@
-Euphoriomyces unilateralis T. Majewski SPECIES
-=======
+# Euphoriomyces unilateralis T. Majewski SPECIES
 
 #### Status
 ACCEPTED

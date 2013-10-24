@@ -1,5 +1,4 @@
-Lecanora azurea Mereschk. SPECIES
-=======
+# Lecanora azurea Mereschk. SPECIES
 
 #### Status
 ACCEPTED

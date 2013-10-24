@@ -1,5 +1,4 @@
-Lecanora pleistospora SPECIES
-=======
+# Lecanora pleistospora SPECIES
 
 #### Status
 ACCEPTED

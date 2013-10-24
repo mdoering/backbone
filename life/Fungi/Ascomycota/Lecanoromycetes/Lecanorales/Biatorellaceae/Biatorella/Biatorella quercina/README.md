@@ -1,5 +1,4 @@
-Biatorella quercina Velen. SPECIES
-=======
+# Biatorella quercina Velen. SPECIES
 
 #### Status
 ACCEPTED

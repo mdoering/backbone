@@ -1,5 +1,4 @@
-Mycena lilliria Grgur. SPECIES
-=======
+# Mycena lilliria Grgur. SPECIES
 
 #### Status
 ACCEPTED

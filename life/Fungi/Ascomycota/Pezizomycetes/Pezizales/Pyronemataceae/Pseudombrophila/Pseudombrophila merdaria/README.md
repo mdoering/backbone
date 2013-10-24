@@ -1,14 +1,13 @@
-Peziza merdaria Fr., 1828 SPECIES
-=======
+# Pseudombrophila merdaria (Fr.) Brumm., 1995 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Elench. fung. (Greifswald) 2: 11 (1828)
+A World-Monograph of the Genus Pseudombrophila (Pezizales, Ascomycotina) (Eching bei München), <i>Libri Botanici</i> <b>14</b> 45 (1995)
 
 #### Original name
 Peziza merdaria Fr., 1828

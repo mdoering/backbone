@@ -1,17 +1,16 @@
-Chrysosporium keratinophilum var. denticolum C. Moreau VARIETY
-=======
+# Aphanoascus keratinophilus Punsola & Cano, 1990 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Cano & Guarro, Mycol. Res. 94(3): 358 (1990)
 
 #### Original name
-Chrysosporium keratinophilum var. denticolum C. Moreau
+Aphanoascus keratinophilus Punsola & Cano, 1990
 
 ### Remarks
 null

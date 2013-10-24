@@ -1,5 +1,4 @@
-Rickia pallodina Thaxt. SPECIES
-=======
+# Rickia pallodina Thaxt. SPECIES
 
 #### Status
 ACCEPTED

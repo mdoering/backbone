@@ -1,5 +1,4 @@
-Rhachomyces vayssierei Lepesme SPECIES
-=======
+# Rhachomyces vayssierei Lepesme SPECIES
 
 #### Status
 ACCEPTED

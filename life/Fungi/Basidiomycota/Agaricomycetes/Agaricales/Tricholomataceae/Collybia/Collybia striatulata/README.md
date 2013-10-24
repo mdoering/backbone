@@ -1,5 +1,4 @@
-Collybia striatulata Lloyd SPECIES
-=======
+# Collybia striatulata Lloyd SPECIES
 
 #### Status
 ACCEPTED

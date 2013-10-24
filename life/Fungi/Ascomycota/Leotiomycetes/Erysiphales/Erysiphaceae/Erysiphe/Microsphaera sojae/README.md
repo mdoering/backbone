@@ -1,5 +1,4 @@
-Microsphaera sojae Hori SPECIES
-=======
+# Microsphaera sojae Hori SPECIES
 
 #### Status
 DOUBTFUL

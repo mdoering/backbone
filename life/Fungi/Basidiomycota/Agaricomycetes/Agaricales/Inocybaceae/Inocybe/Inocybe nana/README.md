@@ -1,5 +1,4 @@
-Inocybe nana Raithelh. SPECIES
-=======
+# Inocybe nana Raithelh. SPECIES
 
 #### Status
 ACCEPTED

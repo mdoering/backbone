@@ -1,5 +1,4 @@
-Pertusaria subglobulifera Nyl. SPECIES
-=======
+# Pertusaria subglobulifera Nyl. SPECIES
 
 #### Status
 ACCEPTED

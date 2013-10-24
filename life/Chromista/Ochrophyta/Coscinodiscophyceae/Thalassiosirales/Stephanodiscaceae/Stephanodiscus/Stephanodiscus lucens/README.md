@@ -1,5 +1,4 @@
-Stephanodiscus lucens Hustedt SPECIES
-=======
+# Stephanodiscus lucens Hustedt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pseudotomentella larsenii Kõljalg & Dunstan, 2001 SPECIES
-=======
+# Pseudotomentella larsenii Kõljalg & Dunstan, 2001 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trichothyrium chilense Speg. SPECIES
-=======
+# Trichothyrium chilense Speg. SPECIES
 
 #### Status
 ACCEPTED

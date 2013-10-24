@@ -1,5 +1,4 @@
-Chytridium decipiens A. Braun SPECIES
-=======
+# Chytridium decipiens A. Braun SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Boletus polygonius A.E. Hills & Vassiliades SPECIES
-=======
+# Boletus polygonius A.E. Hills & Vassiliades SPECIES
 
 #### Status
 ACCEPTED

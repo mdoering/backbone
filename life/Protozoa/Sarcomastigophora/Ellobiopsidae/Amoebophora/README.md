@@ -1,5 +1,4 @@
-Amoebophora GENUS
-=======
+# Amoebophora GENUS
 
 #### Status
 ACCEPTED

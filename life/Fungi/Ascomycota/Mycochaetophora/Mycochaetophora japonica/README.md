@@ -1,5 +1,4 @@
-Mycochaetophora japonica Hara & Ogawa, 1931 SPECIES
-=======
+# Mycochaetophora japonica Hara & Ogawa, 1931 SPECIES
 
 #### Status
 ACCEPTED

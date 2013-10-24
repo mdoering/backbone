@@ -1,5 +1,4 @@
-Bacidia subchlorotica (Nyl.) Flagey SPECIES
-=======
+# Bacidia subchlorotica (Nyl.) Flagey SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gymnodinium minus Lebour SPECIES
-=======
+# Gymnodinium minus Lebour SPECIES
 
 #### Status
 ACCEPTED

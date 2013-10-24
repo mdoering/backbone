@@ -1,5 +1,4 @@
-Textularia mexicana Cushman, 1922 SPECIES
-=======
+# Textularia mexicana Cushman, 1922 SPECIES
 
 #### Status
 ACCEPTED

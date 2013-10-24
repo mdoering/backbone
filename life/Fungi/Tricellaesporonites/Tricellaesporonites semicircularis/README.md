@@ -1,5 +1,4 @@
-Tricellaesporonites semicircularis Sheffy & Dilcher SPECIES
-=======
+# Tricellaesporonites semicircularis Sheffy & Dilcher SPECIES
 
 #### Status
 ACCEPTED

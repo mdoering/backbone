@@ -1,5 +1,4 @@
-Irpex E.M. Fries, 1828 GENUS
-=======
+# Irpex E.M. Fries, 1828 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Caloplaca wasseri Khodosovtsev & S. Kondr. SPECIES
-=======
+# Caloplaca wasseri Khodosovtsev & S. Kondr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dasyscyphus meleagris (Ellis) Dennis SPECIES
-=======
+# Dasyscyphus meleagris (Ellis) Dennis SPECIES
 
 #### Status
 ACCEPTED

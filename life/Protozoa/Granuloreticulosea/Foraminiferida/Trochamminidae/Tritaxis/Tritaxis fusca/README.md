@@ -1,5 +1,4 @@
-Tritaxis fusca SPECIES
-=======
+# Tritaxis fusca SPECIES
 
 #### Status
 ACCEPTED

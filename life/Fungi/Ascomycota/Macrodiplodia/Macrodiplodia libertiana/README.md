@@ -1,5 +1,4 @@
-Macrodiplodia libertiana Petr. SPECIES
-=======
+# Macrodiplodia libertiana Petr. SPECIES
 
 #### Status
 ACCEPTED

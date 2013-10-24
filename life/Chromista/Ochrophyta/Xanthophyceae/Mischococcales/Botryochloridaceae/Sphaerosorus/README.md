@@ -1,5 +1,4 @@
-Sphaerosorus Pascher, 1939 GENUS
-=======
+# Sphaerosorus Pascher, 1939 GENUS
 
 #### Status
 ACCEPTED

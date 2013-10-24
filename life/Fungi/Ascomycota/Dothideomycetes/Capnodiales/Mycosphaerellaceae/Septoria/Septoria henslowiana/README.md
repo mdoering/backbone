@@ -1,5 +1,4 @@
-Septoria henslowiana Sacc. SPECIES
-=======
+# Septoria henslowiana Sacc. SPECIES
 
 #### Status
 ACCEPTED

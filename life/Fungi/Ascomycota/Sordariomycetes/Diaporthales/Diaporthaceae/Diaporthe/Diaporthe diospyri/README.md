@@ -1,5 +1,4 @@
-Diaporthe diospyri Traverso & Migliardi SPECIES
-=======
+# Diaporthe diospyri Traverso & Migliardi SPECIES
 
 #### Status
 ACCEPTED

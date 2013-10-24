@@ -1,5 +1,4 @@
-Ocellularia rufocincta Müll. Arg. SPECIES
-=======
+# Ocellularia rufocincta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

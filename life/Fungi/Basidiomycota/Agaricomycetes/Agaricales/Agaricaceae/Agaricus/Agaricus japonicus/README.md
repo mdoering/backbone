@@ -1,5 +1,4 @@
-Agaricus japonicus Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus japonicus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

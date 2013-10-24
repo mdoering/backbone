@@ -1,5 +1,4 @@
-Meliola schwarzii Hansf. SPECIES
-=======
+# Meliola schwarzii Hansf. SPECIES
 
 #### Status
 ACCEPTED

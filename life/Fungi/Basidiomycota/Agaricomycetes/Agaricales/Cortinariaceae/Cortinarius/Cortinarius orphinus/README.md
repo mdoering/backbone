@@ -1,5 +1,4 @@
-Cortinarius orphinus Peintner & M.M. Moser SPECIES
-=======
+# Cortinarius orphinus Peintner & M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

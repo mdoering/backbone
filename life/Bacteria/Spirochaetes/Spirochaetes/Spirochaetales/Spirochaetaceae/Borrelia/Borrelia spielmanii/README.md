@@ -1,5 +1,4 @@
-Borrelia spielmanii Richter et al., 2006 SPECIES
-=======
+# Borrelia spielmanii Richter et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coronitesta raplaensis Uutela & Tynni, 1991 SPECIES
-=======
+# Coronitesta raplaensis Uutela & Tynni, 1991 SPECIES
 
 #### Status
 ACCEPTED

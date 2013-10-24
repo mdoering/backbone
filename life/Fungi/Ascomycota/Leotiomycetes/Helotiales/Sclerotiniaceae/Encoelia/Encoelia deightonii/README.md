@@ -1,17 +1,16 @@
-Encoelia deightoni Dennis SPECIES
-=======
+# Encoelia deightonii Dennis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Kew Bull. 10(3): 365 (1955)
 
 #### Original name
-Encoelia deightoni Dennis
+Encoelia deightonii Dennis
 
 ### Remarks
 null

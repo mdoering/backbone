@@ -1,5 +1,4 @@
-Cortinarius pseudovenetus Rob. Henry SPECIES
-=======
+# Cortinarius pseudovenetus Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

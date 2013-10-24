@@ -1,5 +1,4 @@
-Pyrenula betulae (A. Massal.) Trevis. SPECIES
-=======
+# Pyrenula betulae (A. Massal.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Usnea cladocarpa Fée SPECIES
-=======
+# Usnea cladocarpa Fée SPECIES
 
 #### Status
 ACCEPTED

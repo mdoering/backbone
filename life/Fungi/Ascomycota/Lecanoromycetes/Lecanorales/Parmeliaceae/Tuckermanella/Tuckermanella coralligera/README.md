@@ -1,14 +1,13 @@
-Tuckermanopsis coralligera (W.A. Weber) W.A. Weber SPECIES
-=======
+# Tuckermanella coralligera (W. A. Weber) Essl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Egan, Bryologist 94(4): 399 (1991)
+Mycotaxon 85: 139 (2003)
 
 #### Original name
 Cetraria fendleri f. coralligera W.A. Weber

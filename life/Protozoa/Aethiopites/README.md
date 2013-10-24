@@ -1,5 +1,4 @@
-Aethiopites Caratini GENUS
-=======
+# Aethiopites Caratini GENUS
 
 #### Status
 ACCEPTED

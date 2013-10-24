@@ -1,5 +1,4 @@
-Hemileia wakefieldii Ritschel SPECIES
-=======
+# Hemileia wakefieldii Ritschel SPECIES
 
 #### Status
 ACCEPTED

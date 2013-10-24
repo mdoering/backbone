@@ -1,5 +1,4 @@
-Caloplaca canariensis (Follmann & Poelt) Breuss SPECIES
-=======
+# Caloplaca canariensis (Follmann & Poelt) Breuss SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cercospora rubrocincta Pat. SPECIES
-=======
+# Cercospora rubrocincta Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chroodiscus lomatiae Messuti, Lumbsch & Vezda SPECIES
-=======
+# Chroodiscus lomatiae Messuti, Lumbsch & Vezda SPECIES
 
 #### Status
 ACCEPTED

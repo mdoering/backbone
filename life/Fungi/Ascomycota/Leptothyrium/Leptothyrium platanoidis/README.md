@@ -1,5 +1,4 @@
-Leptothyrium platanoidis Pass. SPECIES
-=======
+# Leptothyrium platanoidis Pass. SPECIES
 
 #### Status
 ACCEPTED

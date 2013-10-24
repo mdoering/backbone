@@ -1,5 +1,4 @@
-Limboria stictica (Ach.) Ach. SPECIES
-=======
+# Limboria stictica (Ach.) Ach. SPECIES
 
 #### Status
 ACCEPTED

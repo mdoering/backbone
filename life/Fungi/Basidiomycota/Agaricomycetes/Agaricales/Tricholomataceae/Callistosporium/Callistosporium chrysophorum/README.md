@@ -1,5 +1,4 @@
-Callistosporium chrysophorum Singer, 1962 SPECIES
-=======
+# Callistosporium chrysophorum Singer, 1962 SPECIES
 
 #### Status
 ACCEPTED

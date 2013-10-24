@@ -1,5 +1,4 @@
-Phyllachora aravalliensis Dakshini, Tandon & Mukerji, 1970 SPECIES
-=======
+# Phyllachora aravalliensis Dakshini, Tandon & Mukerji, 1970 SPECIES
 
 #### Status
 DOUBTFUL

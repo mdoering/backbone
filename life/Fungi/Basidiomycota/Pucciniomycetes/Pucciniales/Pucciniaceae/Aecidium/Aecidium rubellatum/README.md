@@ -1,5 +1,4 @@
-Aecidium rubellatum SPECIES
-=======
+# Aecidium rubellatum SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia oedopoda J.Y. Zhuang SPECIES
-=======
+# Puccinia oedopoda J.Y. Zhuang SPECIES
 
 #### Status
 ACCEPTED

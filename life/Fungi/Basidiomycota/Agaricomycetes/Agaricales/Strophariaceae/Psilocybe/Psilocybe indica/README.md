@@ -1,5 +1,4 @@
-Psilocybe indica Sathe & J.T. Daniel SPECIES
-=======
+# Psilocybe indica Sathe & J.T. Daniel SPECIES
 
 #### Status
 ACCEPTED

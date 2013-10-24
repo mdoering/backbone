@@ -1,5 +1,4 @@
-Graphina schubertii (Fr.) Müll. Arg. SPECIES
-=======
+# Graphina schubertii (Fr.) Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

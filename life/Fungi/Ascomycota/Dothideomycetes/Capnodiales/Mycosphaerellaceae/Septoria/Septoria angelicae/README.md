@@ -1,5 +1,4 @@
-Septoria angelicae Höhn. SPECIES
-=======
+# Septoria angelicae Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Geopyxis pellucida Velen. SPECIES
-=======
+# Geopyxis pellucida Velen. SPECIES
 
 #### Status
 ACCEPTED

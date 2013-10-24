@@ -1,14 +1,13 @@
-Parmelia goebelii Zenker SPECIES
-=======
+# Bulbothrix goebelii (Zenker) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Goebel & Kunze, Pharmaceutische Waarenkunde (Eisenach) 1: 134 (1827)
+Smithson. Contr. bot. 32: 14 (1976)
 
 #### Original name
 Parmelia goebelii Zenker

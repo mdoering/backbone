@@ -1,5 +1,4 @@
-Quoternia GENUS
-=======
+# Quoternia GENUS
 
 #### Status
 ACCEPTED

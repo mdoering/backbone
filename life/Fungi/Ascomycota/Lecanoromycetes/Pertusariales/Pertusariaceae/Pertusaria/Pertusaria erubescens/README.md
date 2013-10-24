@@ -1,14 +1,13 @@
-Urceolaria erubescens Hook. f. & Taylor SPECIES
-=======
+# Pertusaria erubescens (Taylor) Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mém. Soc. Imp. Sci. Nat. Cherbourg 5: 117 (1858)
 
 #### Original name
 Urceolaria erubescens Hook. f. & Taylor

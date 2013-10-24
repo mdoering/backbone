@@ -1,5 +1,4 @@
-Hebeloma weberi Murrill SPECIES
-=======
+# Hebeloma weberi Murrill SPECIES
 
 #### Status
 ACCEPTED

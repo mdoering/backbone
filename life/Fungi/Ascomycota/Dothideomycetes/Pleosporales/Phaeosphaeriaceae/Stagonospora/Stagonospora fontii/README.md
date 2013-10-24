@@ -1,5 +1,4 @@
-Stagonospora fontii (Gonz. Frag.) E. Castell. & Germano SPECIES
-=======
+# Stagonospora fontii (Gonz. Frag.) E. Castell. & Germano SPECIES
 
 #### Status
 ACCEPTED

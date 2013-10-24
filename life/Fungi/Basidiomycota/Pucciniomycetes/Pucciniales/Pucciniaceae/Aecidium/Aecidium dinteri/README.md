@@ -1,5 +1,4 @@
-Aecidium dinteri Doidge SPECIES
-=======
+# Aecidium dinteri Doidge SPECIES
 
 #### Status
 ACCEPTED

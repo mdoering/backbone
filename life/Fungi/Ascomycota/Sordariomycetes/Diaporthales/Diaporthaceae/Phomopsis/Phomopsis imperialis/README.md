@@ -1,5 +1,4 @@
-Phomopsis imperialis (Sacc. & Roum.) Ratiani SPECIES
-=======
+# Phomopsis imperialis (Sacc. & Roum.) Ratiani SPECIES
 
 #### Status
 ACCEPTED

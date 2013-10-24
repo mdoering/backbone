@@ -1,5 +1,4 @@
-Ellipsoidictyum Klement, 1960 GENUS
-=======
+# Ellipsoidictyum Klement, 1960 GENUS
 
 #### Status
 ACCEPTED

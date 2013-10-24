@@ -1,5 +1,4 @@
-Cornicularia islandica (L.) H. Mart. SPECIES
-=======
+# Cornicularia islandica (L.) H. Mart. SPECIES
 
 #### Status
 ACCEPTED

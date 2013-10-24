@@ -1,5 +1,4 @@
-Discina orbicularis (Peck) Sacc. SPECIES
-=======
+# Discina orbicularis (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

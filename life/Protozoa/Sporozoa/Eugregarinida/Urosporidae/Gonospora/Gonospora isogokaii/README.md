@@ -1,5 +1,4 @@
-Gonospora isogokaii Tugawa (H Hoshide), 1944 SPECIES
-=======
+# Gonospora isogokaii Tugawa (H Hoshide), 1944 SPECIES
 
 #### Status
 ACCEPTED

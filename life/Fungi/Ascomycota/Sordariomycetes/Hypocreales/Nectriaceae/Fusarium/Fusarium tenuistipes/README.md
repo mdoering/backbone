@@ -1,5 +1,4 @@
-Fusarium tenuistipes Sacc. SPECIES
-=======
+# Fusarium tenuistipes Sacc. SPECIES
 
 #### Status
 ACCEPTED

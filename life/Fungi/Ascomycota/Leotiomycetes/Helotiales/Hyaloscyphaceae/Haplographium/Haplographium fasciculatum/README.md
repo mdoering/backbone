@@ -1,5 +1,4 @@
-Haplographium fasciculatum (Sacc.) Sacc. SPECIES
-=======
+# Haplographium fasciculatum (Sacc.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

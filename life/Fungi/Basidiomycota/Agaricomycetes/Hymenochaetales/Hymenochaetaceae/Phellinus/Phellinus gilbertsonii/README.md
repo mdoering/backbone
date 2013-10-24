@@ -1,5 +1,4 @@
-Phellinus gilbertsonii M.J. Larsen SPECIES
-=======
+# Phellinus gilbertsonii M.J. Larsen SPECIES
 
 #### Status
 ACCEPTED

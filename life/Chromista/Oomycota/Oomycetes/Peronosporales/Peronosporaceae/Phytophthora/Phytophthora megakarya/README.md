@@ -1,5 +1,4 @@
-Phytophthora megakarya Brasier & M.J. Griffin, 1979 SPECIES
-=======
+# Phytophthora megakarya Brasier & M.J. Griffin, 1979 SPECIES
 
 #### Status
 ACCEPTED

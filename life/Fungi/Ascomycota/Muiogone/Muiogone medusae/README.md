@@ -1,5 +1,4 @@
-Muiogone medusae Thaxt. SPECIES
-=======
+# Muiogone medusae Thaxt. SPECIES
 
 #### Status
 ACCEPTED

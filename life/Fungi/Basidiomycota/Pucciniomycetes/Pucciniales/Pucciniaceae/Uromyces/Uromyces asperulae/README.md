@@ -1,5 +1,4 @@
-Uromyces asperulae McAlpine SPECIES
-=======
+# Uromyces asperulae McAlpine SPECIES
 
 #### Status
 ACCEPTED

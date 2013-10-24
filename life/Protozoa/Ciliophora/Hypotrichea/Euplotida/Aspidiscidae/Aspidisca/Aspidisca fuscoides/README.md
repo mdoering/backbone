@@ -1,5 +1,4 @@
-Aspidisca fuscoides Agamaliev, 1975 SPECIES
-=======
+# Aspidisca fuscoides Agamaliev, 1975 SPECIES
 
 #### Status
 ACCEPTED

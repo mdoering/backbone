@@ -1,5 +1,4 @@
-Inocybe luteobulbosa E. Horak SPECIES
-=======
+# Inocybe luteobulbosa E. Horak SPECIES
 
 #### Status
 ACCEPTED

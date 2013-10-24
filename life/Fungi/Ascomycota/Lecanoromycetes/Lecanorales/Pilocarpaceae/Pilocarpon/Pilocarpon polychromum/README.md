@@ -1,5 +1,4 @@
-Pilocarpon polychromum (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Pilocarpon polychromum (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

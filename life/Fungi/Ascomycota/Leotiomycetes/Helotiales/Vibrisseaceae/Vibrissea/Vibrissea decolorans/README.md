@@ -1,14 +1,13 @@
-Helotium decolorans Velen., 1934 SPECIES
-=======
+# Vibrissea decolorans (Saut.) A. Sánchez & Korf, 1967 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Monogr. Discom. Bohem. (Prague) 201 (1934)
+in Sánchez, J. Agric. Univ. Puerto Rico 51: 83 (1967)
 
 #### Original name
 Helotium decolorans Velen., 1934

@@ -1,17 +1,16 @@
-Auerswaldia cecropiae Henn., 1904 SPECIES
-=======
+# Phyllachora cecropiae (Rehm) Arx & E. Müll., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 43: 253 (1904)
+Beitr. Kryptfl. Schweiz 11(no. 1): 223 (1954)
 
 #### Original name
-Auerswaldia cecropiae Henn., 1904
+Physalospora cecropiae Rehm, 1901
 
 ### Remarks
 null

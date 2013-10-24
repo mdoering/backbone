@@ -1,17 +1,16 @@
-Sphaerophorus coralloides var. caespitosus (Roth) Turner & Borrer VARIETY
-=======
+# Sphaerophorus fragilis (L.) Pers. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lich. Brit. 111 (1839)
+Ann. Bot. (Usteri) 1: 23 (1794)
 
 #### Original name
-Lichen caespitosus Vill.
+Lichen fragilis L.
 
 ### Remarks
 null

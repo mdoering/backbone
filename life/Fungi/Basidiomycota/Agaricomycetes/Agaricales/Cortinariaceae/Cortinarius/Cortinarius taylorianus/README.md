@@ -1,5 +1,4 @@
-Cortinarius taylorianus E. Horak, 1990 SPECIES
-=======
+# Cortinarius taylorianus E. Horak, 1990 SPECIES
 
 #### Status
 ACCEPTED

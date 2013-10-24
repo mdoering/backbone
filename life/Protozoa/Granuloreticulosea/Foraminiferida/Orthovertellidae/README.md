@@ -1,5 +1,4 @@
-Orthovertellidae FAMILY
-=======
+# Orthovertellidae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Discella desmazieri Berk. & Broome SPECIES
-=======
+# Lamproconium desmazieri (Berk. & Broome) Grove, 1937 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Mag. nat. Hist. , Ser. 2 5: 376 (1850)
+British Stem- and Leaf-Fungi (Coelomycetes) (Cambridge) 2: 321 (1937)
 
 #### Original name
-Discella desmazieri Berk. & Broome
+Lamproconium desmazieri (Berk. & Broome) Grove, 1937
 
 ### Remarks
 null

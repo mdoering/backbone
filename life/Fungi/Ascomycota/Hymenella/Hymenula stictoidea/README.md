@@ -1,5 +1,4 @@
-Hymenula stictoidea E. Bommer, M. Rousseau & Sacc. SPECIES
-=======
+# Hymenula stictoidea E. Bommer, M. Rousseau & Sacc. SPECIES
 
 #### Status
 ACCEPTED

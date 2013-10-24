@@ -1,5 +1,4 @@
-Stereocaulon spinosum Dombr. SPECIES
-=======
+# Stereocaulon spinosum Dombr. SPECIES
 
 #### Status
 ACCEPTED

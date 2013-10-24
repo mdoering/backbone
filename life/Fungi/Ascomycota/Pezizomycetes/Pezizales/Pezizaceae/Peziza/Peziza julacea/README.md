@@ -1,5 +1,4 @@
-Peziza julacea Pers. SPECIES
-=======
+# Peziza julacea Pers. SPECIES
 
 #### Status
 ACCEPTED

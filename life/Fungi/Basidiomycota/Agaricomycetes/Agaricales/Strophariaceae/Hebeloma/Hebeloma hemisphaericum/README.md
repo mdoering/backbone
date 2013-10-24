@@ -1,5 +1,4 @@
-Hebeloma hemisphaericum Herp. SPECIES
-=======
+# Hebeloma hemisphaericum Herp. SPECIES
 
 #### Status
 ACCEPTED

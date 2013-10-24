@@ -1,5 +1,4 @@
-Lecanora rehmannii Stizenb. SPECIES
-=======
+# Lecanora rehmannii Stizenb. SPECIES
 
 #### Status
 ACCEPTED

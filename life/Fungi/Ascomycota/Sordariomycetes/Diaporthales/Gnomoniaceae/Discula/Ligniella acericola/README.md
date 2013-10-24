@@ -1,5 +1,4 @@
-Ligniella acericola Naumov SPECIES
-=======
+# Ligniella acericola Naumov SPECIES
 
 #### Status
 ACCEPTED

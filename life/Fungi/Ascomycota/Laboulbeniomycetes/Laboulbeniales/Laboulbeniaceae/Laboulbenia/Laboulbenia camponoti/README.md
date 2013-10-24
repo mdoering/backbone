@@ -1,5 +1,4 @@
-Laboulbenia camponoti S.W.T. Batra SPECIES
-=======
+# Laboulbenia camponoti S.W.T. Batra SPECIES
 
 #### Status
 ACCEPTED

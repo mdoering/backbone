@@ -1,5 +1,4 @@
-Nuttallus GENUS
-=======
+# Nuttallus GENUS
 
 #### Status
 ACCEPTED

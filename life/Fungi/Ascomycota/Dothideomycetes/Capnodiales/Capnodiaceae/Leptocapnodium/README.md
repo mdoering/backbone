@@ -1,5 +1,4 @@
-Leptocapnodium GENUS
-=======
+# Leptocapnodium GENUS
 
 #### Status
 ACCEPTED

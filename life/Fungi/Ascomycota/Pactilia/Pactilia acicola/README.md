@@ -1,5 +1,4 @@
-Pactilia acicola Fr. SPECIES
-=======
+# Pactilia acicola Fr. SPECIES
 
 #### Status
 ACCEPTED

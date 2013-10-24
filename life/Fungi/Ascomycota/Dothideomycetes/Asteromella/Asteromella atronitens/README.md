@@ -1,5 +1,4 @@
-Asteromella atronitens Petr. & Cif., 1930 SPECIES
-=======
+# Asteromella atronitens Petr. & Cif., 1930 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pleospora celtidicola Gucevic SPECIES
-=======
+# Pleospora celtidicola Gucevic SPECIES
 
 #### Status
 ACCEPTED

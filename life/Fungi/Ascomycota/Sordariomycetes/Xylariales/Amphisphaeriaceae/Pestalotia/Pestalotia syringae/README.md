@@ -1,5 +1,4 @@
-Pestalotia syringae Oudem. SPECIES
-=======
+# Pestalotia syringae Oudem. SPECIES
 
 #### Status
 ACCEPTED

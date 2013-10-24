@@ -1,5 +1,4 @@
-Heterodendraceae FAMILY
-=======
+# Heterodendraceae FAMILY
 
 #### Status
 ACCEPTED

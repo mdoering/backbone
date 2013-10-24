@@ -1,5 +1,4 @@
-Cortinarius magisporus Bidaud SPECIES
-=======
+# Cortinarius magisporus Bidaud SPECIES
 
 #### Status
 ACCEPTED

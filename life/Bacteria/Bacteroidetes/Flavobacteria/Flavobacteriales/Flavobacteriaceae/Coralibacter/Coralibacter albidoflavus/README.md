@@ -1,5 +1,4 @@
-Coralibacter albidoflavus Mitra, Haga, Matsuo, Yasumoto-Hirose, Kasai & Yokota, 2008 SPECIES
-=======
+# Coralibacter albidoflavus Mitra, Haga, Matsuo, Yasumoto-Hirose, Kasai & Yokota, 2008 SPECIES
 
 #### Status
 ACCEPTED

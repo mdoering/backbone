@@ -1,5 +1,4 @@
-Verrucaria epapillata Nyl. SPECIES
-=======
+# Verrucaria epapillata Nyl. SPECIES
 
 #### Status
 ACCEPTED

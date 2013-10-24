@@ -1,5 +1,4 @@
-Pseudocyphellaria aurulenta Kremp. SPECIES
-=======
+# Pseudocyphellaria aurulenta Kremp. SPECIES
 
 #### Status
 ACCEPTED

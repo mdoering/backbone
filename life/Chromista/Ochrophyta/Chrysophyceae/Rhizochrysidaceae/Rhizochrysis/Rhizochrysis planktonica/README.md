@@ -1,8 +1,7 @@
-Chrysamoeba planktonica Pascher SPECIES
-=======
+# Rhizochrysis planktonica (Pascher) Pascher SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Integrated Taxonomic Information System

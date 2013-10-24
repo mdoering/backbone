@@ -1,5 +1,4 @@
-Cubotholissa Haeckel, 1887 GENUS
-=======
+# Cubotholissa Haeckel, 1887 GENUS
 
 #### Status
 ACCEPTED

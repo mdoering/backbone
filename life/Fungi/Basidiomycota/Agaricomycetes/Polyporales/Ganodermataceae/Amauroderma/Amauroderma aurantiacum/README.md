@@ -1,5 +1,4 @@
-Amauroderma aurantiacum (Torrend) Gibertoni & Bernicchia SPECIES
-=======
+# Amauroderma aurantiacum (Torrend) Gibertoni & Bernicchia SPECIES
 
 #### Status
 ACCEPTED

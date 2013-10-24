@@ -1,5 +1,4 @@
-Sphaeria persoonii Wallr. SPECIES
-=======
+# Sphaeria persoonii Wallr. SPECIES
 
 #### Status
 ACCEPTED

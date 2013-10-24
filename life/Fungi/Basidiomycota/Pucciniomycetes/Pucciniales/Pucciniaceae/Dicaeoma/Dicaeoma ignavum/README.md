@@ -1,5 +1,4 @@
-Dicaeoma ignavum (Arthur) Arthur & Fromme SPECIES
-=======
+# Dicaeoma ignavum (Arthur) Arthur & Fromme SPECIES
 
 #### Status
 ACCEPTED

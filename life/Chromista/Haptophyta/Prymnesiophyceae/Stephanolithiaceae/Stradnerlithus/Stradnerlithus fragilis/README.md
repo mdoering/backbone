@@ -1,5 +1,4 @@
-Stradnerlithus fragilis (Rood & Barnard, 1972) Perch-Nielsen, 1984 SPECIES
-=======
+# Stradnerlithus fragilis (Rood & Barnard, 1972) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

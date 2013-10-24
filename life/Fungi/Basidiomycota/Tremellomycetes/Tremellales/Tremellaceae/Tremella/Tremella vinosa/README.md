@@ -1,5 +1,4 @@
-Tremella vinosa Massee SPECIES
-=======
+# Tremella vinosa Massee SPECIES
 
 #### Status
 ACCEPTED

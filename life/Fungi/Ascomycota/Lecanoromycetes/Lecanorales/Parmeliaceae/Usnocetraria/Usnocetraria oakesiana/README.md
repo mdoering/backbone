@@ -1,5 +1,4 @@
-Usnocetraria oakesiana (Tuck.) M. J. Lai & J. C. Wei SPECIES
-=======
+# Usnocetraria oakesiana (Tuck.) M. J. Lai & J. C. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ammomarginulina foliacea SPECIES
-=======
+# Ammomarginulina foliacea SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anaplasmaceae FAMILY
-=======
+# Anaplasmaceae FAMILY
 
 #### Status
 ACCEPTED

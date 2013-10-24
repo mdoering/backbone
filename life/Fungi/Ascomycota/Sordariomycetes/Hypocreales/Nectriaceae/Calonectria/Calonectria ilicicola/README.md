@@ -1,17 +1,16 @@
-Candelospora ilicicola Hawley, 1912 SPECIES
-=======
+# Calonectria ilicicola Boedijn & Reitsma, 1950 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Proc. R. Ir. Acad. , Sect. B, Biol. Sci. 31(13): 11 (1912)
+Reinwardtia 1: 58 (1950)
 
 #### Original name
-Candelospora ilicicola Hawley, 1912
+Calonectria ilicicola Boedijn & Reitsma, 1950
 
 ### Remarks
 null

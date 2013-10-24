@@ -1,5 +1,4 @@
-Gnomonia extremiorientalis Lar.N. Vassiljeva SPECIES
-=======
+# Gnomonia extremiorientalis Lar.N. Vassiljeva SPECIES
 
 #### Status
 ACCEPTED

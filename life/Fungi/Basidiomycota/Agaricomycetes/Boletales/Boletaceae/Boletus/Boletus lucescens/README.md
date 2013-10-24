@@ -1,5 +1,4 @@
-Boletus lucescens Corner SPECIES
-=======
+# Boletus lucescens Corner SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tulostoma psilophilum Long & S. Ahmad SPECIES
-=======
+# Tulostoma psilophilum Long & S. Ahmad SPECIES
 
 #### Status
 ACCEPTED

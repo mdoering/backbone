@@ -1,5 +1,4 @@
-Heterococcus akinetus Lokhorst SPECIES
-=======
+# Heterococcus akinetus Lokhorst SPECIES
 
 #### Status
 ACCEPTED

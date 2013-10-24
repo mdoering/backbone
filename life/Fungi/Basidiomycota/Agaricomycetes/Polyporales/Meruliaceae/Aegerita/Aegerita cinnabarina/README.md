@@ -1,5 +1,4 @@
-Aegerita cinnabarina DC. SPECIES
-=======
+# Aegerita cinnabarina DC. SPECIES
 
 #### Status
 ACCEPTED

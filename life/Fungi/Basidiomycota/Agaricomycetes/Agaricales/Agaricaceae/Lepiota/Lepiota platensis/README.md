@@ -1,5 +1,4 @@
-Lepiota platensis Speg. SPECIES
-=======
+# Lepiota platensis Speg. SPECIES
 
 #### Status
 ACCEPTED

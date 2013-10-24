@@ -1,5 +1,4 @@
-Cercospora tami Hollós SPECIES
-=======
+# Cercospora tami Hollós SPECIES
 
 #### Status
 ACCEPTED

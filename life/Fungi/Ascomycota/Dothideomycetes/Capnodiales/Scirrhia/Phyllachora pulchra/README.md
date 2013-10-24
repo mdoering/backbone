@@ -1,5 +1,4 @@
-Phyllachora pulchra Speg., 1885 SPECIES
-=======
+# Phyllachora pulchra Speg., 1885 SPECIES
 
 #### Status
 DOUBTFUL

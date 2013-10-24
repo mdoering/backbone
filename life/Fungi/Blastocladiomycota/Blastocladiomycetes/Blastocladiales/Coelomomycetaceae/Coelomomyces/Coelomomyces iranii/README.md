@@ -1,17 +1,16 @@
-Coelomomyces irani Weiser, Zaim & Saebi SPECIES
-=======
+# Coelomomyces iranii Weiser, Zaim & Saebi SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+J. Invert. Path. 57(2): 291 (1991)
 
 #### Original name
-Coelomomyces irani Weiser, Zaim & Saebi
+Coelomomyces iranii Weiser, Zaim & Saebi
 
 ### Remarks
 null

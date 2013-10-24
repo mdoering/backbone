@@ -1,5 +1,4 @@
-Torula uniformis Peck SPECIES
-=======
+# Torula uniformis Peck SPECIES
 
 #### Status
 ACCEPTED

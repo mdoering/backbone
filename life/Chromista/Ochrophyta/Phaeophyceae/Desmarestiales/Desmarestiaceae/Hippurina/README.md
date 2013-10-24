@@ -1,5 +1,4 @@
-Hippurina Stackhouse, 1809 GENUS
-=======
+# Hippurina Stackhouse, 1809 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosporium lavrovianum Smarods SPECIES
-=======
+# Sorosporium lavrovianum Smarods SPECIES
 
 #### Status
 ACCEPTED

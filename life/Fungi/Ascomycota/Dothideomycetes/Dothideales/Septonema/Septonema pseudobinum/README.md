@@ -1,5 +1,4 @@
-Septonema pseudobinum Hol.-Jech., 1978 SPECIES
-=======
+# Septonema pseudobinum Hol.-Jech., 1978 SPECIES
 
 #### Status
 ACCEPTED

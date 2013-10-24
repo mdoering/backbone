@@ -1,5 +1,4 @@
-Calocera flagelliformis Berk. & M.A. Curtis SPECIES
-=======
+# Calocera flagelliformis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

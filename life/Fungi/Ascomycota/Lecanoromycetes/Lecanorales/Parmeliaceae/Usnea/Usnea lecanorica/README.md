@@ -1,5 +1,4 @@
-Usnea lecanorica W.L. Culb., C.F. Culb. & Fiscus SPECIES
-=======
+# Usnea lecanorica W.L. Culb., C.F. Culb. & Fiscus SPECIES
 
 #### Status
 ACCEPTED

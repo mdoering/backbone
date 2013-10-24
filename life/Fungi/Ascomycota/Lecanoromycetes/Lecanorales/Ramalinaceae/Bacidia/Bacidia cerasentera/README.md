@@ -1,5 +1,4 @@
-Bacidia cerasentera C. Knight SPECIES
-=======
+# Bacidia cerasentera C. Knight SPECIES
 
 #### Status
 ACCEPTED

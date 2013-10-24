@@ -1,5 +1,4 @@
-Lecanora orotavensis Vain. SPECIES
-=======
+# Lecanora orotavensis Vain. SPECIES
 
 #### Status
 ACCEPTED

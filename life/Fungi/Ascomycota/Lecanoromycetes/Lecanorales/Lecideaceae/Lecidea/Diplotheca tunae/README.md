@@ -1,5 +1,4 @@
-Diplotheca tunae (Spreng.) Starbäck SPECIES
-=======
+# Diplotheca tunae (Spreng.) Starbäck SPECIES
 
 #### Status
 ACCEPTED

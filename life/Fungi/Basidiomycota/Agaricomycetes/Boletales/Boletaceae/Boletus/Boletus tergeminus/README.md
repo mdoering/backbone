@@ -1,5 +1,4 @@
-Boletus tergeminus Schaeff. SPECIES
-=======
+# Boletus tergeminus Schaeff. SPECIES
 
 #### Status
 ACCEPTED

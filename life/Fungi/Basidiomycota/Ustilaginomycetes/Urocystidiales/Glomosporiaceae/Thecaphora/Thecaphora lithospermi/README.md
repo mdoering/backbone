@@ -1,5 +1,4 @@
-Thecaphora lithospermi Vánky & Nannf. SPECIES
-=======
+# Thecaphora lithospermi Vánky & Nannf. SPECIES
 
 #### Status
 ACCEPTED

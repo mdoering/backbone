@@ -1,5 +1,4 @@
-Caeoma radiatum Shirai SPECIES
-=======
+# Caeoma radiatum Shirai SPECIES
 
 #### Status
 ACCEPTED

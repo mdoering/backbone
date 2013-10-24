@@ -1,5 +1,4 @@
-Ramalina dalmatica J. Steiner & Zahlbr. SPECIES
-=======
+# Ramalina dalmatica J. Steiner & Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

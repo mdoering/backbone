@@ -1,5 +1,4 @@
-Rhizosolenia striata Greville, 1864 SPECIES
-=======
+# Rhizosolenia striata Greville, 1864 SPECIES
 
 #### Status
 ACCEPTED

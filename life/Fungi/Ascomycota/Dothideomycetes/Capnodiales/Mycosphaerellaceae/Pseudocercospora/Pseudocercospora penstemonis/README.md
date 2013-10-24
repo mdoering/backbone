@@ -1,5 +1,4 @@
-Pseudocercospora penstemonis (Ellis & Kellerm.) U. Braun SPECIES
-=======
+# Pseudocercospora penstemonis (Ellis & Kellerm.) U. Braun SPECIES
 
 #### Status
 ACCEPTED

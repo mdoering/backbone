@@ -1,5 +1,4 @@
-Lactarius flavorosescens Stubbe & Verbeken SPECIES
-=======
+# Lactarius flavorosescens Stubbe & Verbeken SPECIES
 
 #### Status
 ACCEPTED

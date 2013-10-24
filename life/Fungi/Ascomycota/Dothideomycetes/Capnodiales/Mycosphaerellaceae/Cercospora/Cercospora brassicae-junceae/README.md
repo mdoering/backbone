@@ -1,5 +1,4 @@
-Cercospora brassicae-junceae Sawada SPECIES
-=======
+# Cercospora brassicae-junceae Sawada SPECIES
 
 #### Status
 ACCEPTED

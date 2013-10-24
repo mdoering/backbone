@@ -1,5 +1,4 @@
-Cladonia cyanopora S. Hammer SPECIES
-=======
+# Cladonia cyanopora S. Hammer SPECIES
 
 #### Status
 ACCEPTED

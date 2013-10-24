@@ -1,5 +1,4 @@
-Helminthosporium cylindricum Corda, 1831 SPECIES
-=======
+# Helminthosporium cylindricum Corda, 1831 SPECIES
 
 #### Status
 ACCEPTED

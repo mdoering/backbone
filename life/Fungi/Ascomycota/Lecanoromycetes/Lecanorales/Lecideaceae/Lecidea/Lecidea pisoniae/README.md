@@ -1,5 +1,4 @@
-Lecidea pisoniae Spreng. SPECIES
-=======
+# Lecidea pisoniae Spreng. SPECIES
 
 #### Status
 ACCEPTED

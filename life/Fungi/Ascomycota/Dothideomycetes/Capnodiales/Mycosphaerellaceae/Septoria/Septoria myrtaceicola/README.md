@@ -1,5 +1,4 @@
-Septoria myrtaceicola Bat. & Peres SPECIES
-=======
+# Septoria myrtaceicola Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

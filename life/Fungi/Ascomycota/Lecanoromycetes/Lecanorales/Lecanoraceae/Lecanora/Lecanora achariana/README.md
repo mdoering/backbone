@@ -1,17 +1,16 @@
-Lecanora cartilaginea var. cartilaginea VARIETY
-=======
+# Lecanora achariana A. L. Sm. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Monogr. Brit. Lich. 1: 261 (1918)
 
 #### Original name
-Parmelia cartilaginea Ach.
+Lecanora achariana A. L. Sm.
 
 ### Remarks
 null

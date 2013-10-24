@@ -1,5 +1,4 @@
-Polydinium C.A. Kofoid & O. Swezy, 1921 GENUS
-=======
+# Polydinium C.A. Kofoid & O. Swezy, 1921 GENUS
 
 #### Status
 ACCEPTED

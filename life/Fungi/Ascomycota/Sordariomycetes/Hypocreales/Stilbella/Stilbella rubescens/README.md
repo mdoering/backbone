@@ -1,5 +1,4 @@
-Stilbella rubescens Syd. SPECIES
-=======
+# Stilbella rubescens Syd. SPECIES
 
 #### Status
 ACCEPTED

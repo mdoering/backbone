@@ -1,14 +1,13 @@
-Pholiota mollicorium (Cooke & Massee) Sacc. SPECIES
-=======
+# Pholiota molliscorium (Cooke & Massee) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 93 (1891)
 
 #### Original name
 Agaricus molliscorium Cooke & Massee

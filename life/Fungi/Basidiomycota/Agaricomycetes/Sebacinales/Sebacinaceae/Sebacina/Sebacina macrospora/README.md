@@ -1,5 +1,4 @@
-Sebacina macrospora (Ellis & Everh.) Burt SPECIES
-=======
+# Sebacina macrospora (Ellis & Everh.) Burt SPECIES
 
 #### Status
 ACCEPTED

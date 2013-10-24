@@ -1,8 +1,7 @@
-Lophiotrema myriocarpum (Fuckel) Sacc., 1883 SPECIES
-=======
+# Lophiostoma myriocarpum Fuckel SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
@@ -11,7 +10,7 @@ The Catalogue of Life, 3rd January 2011
 null
 
 #### Original name
-null
+Lophiostoma myriocarpum Fuckel
 
 ### Remarks
 null

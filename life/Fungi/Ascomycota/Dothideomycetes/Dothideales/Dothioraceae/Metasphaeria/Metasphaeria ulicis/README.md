@@ -1,5 +1,4 @@
-Metasphaeria ulicis Feltgen SPECIES
-=======
+# Metasphaeria ulicis Feltgen SPECIES
 
 #### Status
 ACCEPTED

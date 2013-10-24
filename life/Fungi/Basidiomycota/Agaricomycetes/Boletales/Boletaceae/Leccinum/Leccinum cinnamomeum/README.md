@@ -1,5 +1,4 @@
-Leccinum cinnamomeum var. cinnamomeum A.H. Sm., Thiers & Watling VARIETY
-=======
+# Leccinum cinnamomeum A.H. Sm., Thiers & Watling SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Leccinum cinnamomeum var. cinnamomeum A.H. Sm., Thiers & Watling
+Leccinum cinnamomeum A.H. Sm., Thiers & Watling
 
 ### Remarks
 null

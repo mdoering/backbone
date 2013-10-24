@@ -1,5 +1,4 @@
-Ceratolithina E. Martini, 1967 GENUS
-=======
+# Ceratolithina E. Martini, 1967 GENUS
 
 #### Status
 ACCEPTED

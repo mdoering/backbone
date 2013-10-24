@@ -1,5 +1,4 @@
-Hygrophorus pulverulentus Berk. & Broome SPECIES
-=======
+# Hygrophorus pulverulentus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

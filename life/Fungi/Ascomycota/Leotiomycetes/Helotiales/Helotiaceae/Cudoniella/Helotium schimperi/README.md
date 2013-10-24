@@ -1,5 +1,4 @@
-Helotium schimperi Navashin, 1888 SPECIES
-=======
+# Helotium schimperi Navashin, 1888 SPECIES
 
 #### Status
 ACCEPTED

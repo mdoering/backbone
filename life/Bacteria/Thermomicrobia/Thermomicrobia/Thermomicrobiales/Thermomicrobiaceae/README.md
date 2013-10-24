@@ -1,5 +1,4 @@
-Thermomicrobiaceae FAMILY
-=======
+# Thermomicrobiaceae FAMILY
 
 #### Status
 ACCEPTED

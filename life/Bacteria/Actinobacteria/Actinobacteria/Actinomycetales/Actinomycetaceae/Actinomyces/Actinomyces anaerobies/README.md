@@ -1,5 +1,4 @@
-Actinomyces anaerobies Plant {?} SPECIES
-=======
+# Actinomyces anaerobies Plant {?} SPECIES
 
 #### Status
 ACCEPTED

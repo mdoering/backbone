@@ -1,5 +1,4 @@
-Lactarius maculatus Peck SPECIES
-=======
+# Lactarius maculatus Peck SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Stigeosporium C. West GENUS
-=======
+# Glomus Tulasne & C. Tulasne, 1845 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Bot. , Lond. 30: 357 (1916)
+G. bot. ital. 2: 63 (1845)
 
 #### Original name
-Stigeosporium C. West
+Glomus Tulasne & C. Tulasne, 1845
 
 ### Remarks
 null

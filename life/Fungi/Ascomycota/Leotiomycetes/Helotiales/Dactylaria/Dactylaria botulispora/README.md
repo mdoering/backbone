@@ -1,5 +1,4 @@
-Dactylaria botulispora R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria botulispora R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora inordinata Hue SPECIES
-=======
+# Lecanora inordinata Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thrombium smaragdulum Körb. SPECIES
-=======
+# Thrombium smaragdulum Körb. SPECIES
 
 #### Status
 ACCEPTED

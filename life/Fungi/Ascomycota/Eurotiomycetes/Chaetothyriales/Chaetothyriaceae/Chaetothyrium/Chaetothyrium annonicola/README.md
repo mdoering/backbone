@@ -1,5 +1,4 @@
-Chaetothyrium annonicola Hansf. SPECIES
-=======
+# Chaetothyrium annonicola Hansf. SPECIES
 
 #### Status
 ACCEPTED

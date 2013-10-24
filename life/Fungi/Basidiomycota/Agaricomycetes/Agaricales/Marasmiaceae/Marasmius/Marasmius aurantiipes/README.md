@@ -1,5 +1,4 @@
-Marasmius aurantiipes Corner SPECIES
-=======
+# Marasmius aurantiipes Corner SPECIES
 
 #### Status
 ACCEPTED

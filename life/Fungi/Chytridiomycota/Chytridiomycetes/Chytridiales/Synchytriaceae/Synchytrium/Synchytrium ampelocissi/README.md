@@ -1,5 +1,4 @@
-Synchytrium ampelocissi Mishra SPECIES
-=======
+# Synchytrium ampelocissi Mishra SPECIES
 
 #### Status
 ACCEPTED

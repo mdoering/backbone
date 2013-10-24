@@ -1,5 +1,4 @@
-Cortinarius verallopus Rob. Henry & Ramm SPECIES
-=======
+# Cortinarius verallopus Rob. Henry & Ramm SPECIES
 
 #### Status
 ACCEPTED

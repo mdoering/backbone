@@ -1,5 +1,4 @@
-Katroma Pessagno & Poisson, 1981 GENUS
-=======
+# Katroma Pessagno & Poisson, 1981 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Botryosphaerostroma quercina Petr. SPECIES
-=======
+# Botryosphaerostroma quercina Petr. SPECIES
 
 #### Status
 ACCEPTED

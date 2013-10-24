@@ -1,5 +1,4 @@
-Graphis pertricosa (Kremp.) A.W. Archer SPECIES
-=======
+# Graphis pertricosa (Kremp.) A.W. Archer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Astrosporina punctatosquamosa E. Horak SPECIES
-=======
+# Astrosporina punctatosquamosa E. Horak SPECIES
 
 #### Status
 ACCEPTED

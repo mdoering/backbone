@@ -1,5 +1,4 @@
-Micropeltis clusiae Bat. & A.F. Vital SPECIES
-=======
+# Micropeltis clusiae Bat. & A.F. Vital SPECIES
 
 #### Status
 ACCEPTED

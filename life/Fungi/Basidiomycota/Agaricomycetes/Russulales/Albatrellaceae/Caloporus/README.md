@@ -1,5 +1,4 @@
-Caloporus GENUS
-=======
+# Caloporus GENUS
 
 #### Status
 ACCEPTED

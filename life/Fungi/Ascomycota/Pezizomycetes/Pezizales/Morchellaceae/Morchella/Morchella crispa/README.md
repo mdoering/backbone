@@ -1,5 +1,4 @@
-Morchella crispa Krombh. SPECIES
-=======
+# Morchella crispa Krombh. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lambertella pruni Whetzel, Zeller & Dumont, 1971 SPECIES
-=======
+# Lambertella pruni Whetzel, Zeller & Dumont, 1971 SPECIES
 
 #### Status
 ACCEPTED

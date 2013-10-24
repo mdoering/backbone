@@ -1,5 +1,4 @@
-Puccinia machalillae Berndt SPECIES
-=======
+# Puccinia machalillae Berndt SPECIES
 
 #### Status
 ACCEPTED

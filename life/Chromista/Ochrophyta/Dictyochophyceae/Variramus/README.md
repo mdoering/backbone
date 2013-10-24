@@ -1,5 +1,4 @@
-Variramus K.McCartney, S.W.Wise Jr., D.M.Harwood & R.Gersonde, 1990 GENUS
-=======
+# Variramus K.McCartney, S.W.Wise Jr., D.M.Harwood & R.Gersonde, 1990 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota caespitosa A.H. Sm. & Hesler SPECIES
-=======
+# Pholiota caespitosa A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

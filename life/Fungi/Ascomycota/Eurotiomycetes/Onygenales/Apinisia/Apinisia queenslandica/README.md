@@ -1,14 +1,13 @@
-Uncinocarpus queenslandicus (Apinis & R.G. Rees) Sigler, 1999 SPECIES
-=======
+# Apinisia queenslandica Apinis & R.G. Rees, 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Sigler, Flis & Carmichael, Can. J. Bot. 76(9): 1632 (1999)
+Trans. Br. mycol. Soc. 67(3): 524 (1976)
 
 #### Original name
 Apinisia queenslandica Apinis & R.G. Rees, 1977

@@ -1,5 +1,4 @@
-Corticium subinvisibile D.P. Rogers SPECIES
-=======
+# Corticium subinvisibile D.P. Rogers SPECIES
 
 #### Status
 ACCEPTED

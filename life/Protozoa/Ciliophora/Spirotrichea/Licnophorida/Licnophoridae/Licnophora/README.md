@@ -1,5 +1,4 @@
-Licnophora Claparède, 1867 GENUS
-=======
+# Licnophora Claparède, 1867 GENUS
 
 #### Status
 ACCEPTED

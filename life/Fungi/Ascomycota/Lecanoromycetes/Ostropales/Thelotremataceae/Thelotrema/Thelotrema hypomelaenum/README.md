@@ -1,5 +1,4 @@
-Thelotrema hypomelaenum Müll. Arg. SPECIES
-=======
+# Thelotrema hypomelaenum Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptosphaeria drechsleri (Shoemaker) M.E. Barr SPECIES
-=======
+# Leptosphaeria drechsleri (Shoemaker) M.E. Barr SPECIES
 
 #### Status
 ACCEPTED

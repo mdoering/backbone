@@ -1,5 +1,4 @@
-Russula sulphurea Velen. SPECIES
-=======
+# Russula sulphurea Velen. SPECIES
 
 #### Status
 ACCEPTED

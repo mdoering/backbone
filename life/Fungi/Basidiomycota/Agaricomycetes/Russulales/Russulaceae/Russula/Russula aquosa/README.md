@@ -1,14 +1,13 @@
-Russula emetica subsp. aquosa (Leclair) Singer SUBSPECIES
-=======
+# Russula aquosa Leclair, 1932 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. trimest. Soc. mycol. Fr. 48: 303 (1932)
 
 #### Original name
 Russula aquosa Leclair, 1932

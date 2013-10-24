@@ -1,5 +1,4 @@
-Alginobacter GENUS
-=======
+# Alginobacter GENUS
 
 #### Status
 ACCEPTED

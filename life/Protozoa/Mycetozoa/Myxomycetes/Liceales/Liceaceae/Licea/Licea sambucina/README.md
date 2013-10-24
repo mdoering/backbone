@@ -1,5 +1,4 @@
-Licea sambucina D.W. Mitch., 2001 SPECIES
-=======
+# Licea sambucina D.W. Mitch., 2001 SPECIES
 
 #### Status
 ACCEPTED

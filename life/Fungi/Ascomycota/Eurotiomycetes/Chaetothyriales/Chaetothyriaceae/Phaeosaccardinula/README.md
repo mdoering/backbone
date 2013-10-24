@@ -1,17 +1,16 @@
-Wiltshirea Bat. & Peres GENUS
-=======
+# Phaeosaccardinula Henn. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Batista & Ciferri, Beih. Sydowia 3: 29 (1962)
+Hedwigia 44: 67 (1905)
 
 #### Original name
-Wiltshirea Bat. & Peres
+Phaeosaccardinula Henn.
 
 ### Remarks
 null

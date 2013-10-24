@@ -1,5 +1,4 @@
-Placosphaeria massariae Sacc. SPECIES
-=======
+# Placosphaeria massariae Sacc. SPECIES
 
 #### Status
 ACCEPTED

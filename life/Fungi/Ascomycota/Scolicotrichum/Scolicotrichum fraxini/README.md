@@ -1,5 +1,4 @@
-Scolicotrichum fraxini Pass. SPECIES
-=======
+# Scolicotrichum fraxini Pass. SPECIES
 
 #### Status
 ACCEPTED

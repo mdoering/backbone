@@ -1,5 +1,4 @@
-Laurera columellata Makhija & Patw. SPECIES
-=======
+# Laurera columellata Makhija & Patw. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Enhydrobacter Staley, Irgens & Brenner, 1987 GENUS
-=======
+# Enhydrobacter Staley, Irgens & Brenner, 1987 GENUS
 
 #### Status
 ACCEPTED

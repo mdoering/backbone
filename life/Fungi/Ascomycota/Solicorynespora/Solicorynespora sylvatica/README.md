@@ -1,5 +1,4 @@
-Solicorynespora sylvatica R.F. Castañeda, Heredia, R.M. Arias & Guarro SPECIES
-=======
+# Solicorynespora sylvatica R.F. Castañeda, Heredia, R.M. Arias & Guarro SPECIES
 
 #### Status
 ACCEPTED

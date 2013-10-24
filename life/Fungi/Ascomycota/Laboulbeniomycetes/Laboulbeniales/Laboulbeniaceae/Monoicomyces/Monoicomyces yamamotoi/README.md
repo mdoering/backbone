@@ -1,5 +1,4 @@
-Monoicomyces yamamotoi T. Majewski & K. Sugiy. SPECIES
-=======
+# Monoicomyces yamamotoi T. Majewski & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED

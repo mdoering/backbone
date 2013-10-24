@@ -1,14 +1,13 @@
-Peronospora obducens J. Schröt., 1877 SPECIES
-=======
+# Plasmopara obducens (J. Schröt.) J. Schröt., 1886 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hedwigia 16: 129 (1877)
+in Cohn, Krypt. -Fl. Schlesien (Breslau) 3. 1(916): 238 (1886)
 
 #### Original name
 Peronospora obducens J. Schröt., 1877

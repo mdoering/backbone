@@ -1,5 +1,4 @@
-Colletotrichum daphniphylli Dzhalag. SPECIES
-=======
+# Colletotrichum daphniphylli Dzhalag. SPECIES
 
 #### Status
 ACCEPTED

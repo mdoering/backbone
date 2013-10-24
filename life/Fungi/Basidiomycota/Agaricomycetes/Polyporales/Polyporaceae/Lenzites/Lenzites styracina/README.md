@@ -1,5 +1,4 @@
-Lenzites styracina (Henn. & Shirai) Lloyd, 1919 SPECIES
-=======
+# Lenzites styracina (Henn. & Shirai) Lloyd, 1919 SPECIES
 
 #### Status
 ACCEPTED

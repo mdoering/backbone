@@ -1,5 +1,4 @@
-Peridinium groenlandicum SPECIES
-=======
+# Peridinium groenlandicum SPECIES
 
 #### Status
 ACCEPTED

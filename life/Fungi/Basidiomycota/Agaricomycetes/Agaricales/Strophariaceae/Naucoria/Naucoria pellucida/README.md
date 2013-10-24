@@ -1,5 +1,4 @@
-Naucoria pellucida Murrill SPECIES
-=======
+# Naucoria pellucida Murrill SPECIES
 
 #### Status
 ACCEPTED

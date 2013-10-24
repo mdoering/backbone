@@ -1,5 +1,4 @@
-Sphaerostilbe marmellosensis Henn. SPECIES
-=======
+# Sphaerostilbe marmellosensis Henn. SPECIES
 
 #### Status
 ACCEPTED

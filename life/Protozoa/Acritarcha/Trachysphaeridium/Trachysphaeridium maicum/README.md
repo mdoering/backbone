@@ -1,5 +1,4 @@
-Trachysphaeridium maicum Timofeev, 1969 SPECIES
-=======
+# Trachysphaeridium maicum Timofeev, 1969 SPECIES
 
 #### Status
 ACCEPTED

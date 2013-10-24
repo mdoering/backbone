@@ -1,5 +1,4 @@
-Phyllosticta labruscae Thüm. SPECIES
-=======
+# Phyllosticta labruscae Thüm. SPECIES
 
 #### Status
 ACCEPTED

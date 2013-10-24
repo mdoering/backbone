@@ -1,5 +1,4 @@
-Stagonospora carthamicola Rodigin SPECIES
-=======
+# Stagonospora carthamicola Rodigin SPECIES
 
 #### Status
 ACCEPTED

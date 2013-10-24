@@ -1,5 +1,4 @@
-Microglaena albolinita (Nyl.) Zahlbr. SPECIES
-=======
+# Microglaena albolinita (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Hypochnus cinerascens P. Karst., 1888 SPECIES
-=======
+# Tomentella cinerascens (P. Karst.) Höhn. & Litsch., 1906 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Meddn Soc. Fauna Flora fenn. 16: 2 (1888)
+Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 115: 1570 (1906)
 
 #### Original name
 Hypochnus cinerascens P. Karst., 1888

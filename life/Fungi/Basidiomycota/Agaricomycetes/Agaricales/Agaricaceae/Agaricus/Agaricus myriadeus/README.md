@@ -1,5 +1,4 @@
-Agaricus myriadeus Berk. SPECIES
-=======
+# Agaricus myriadeus Berk. SPECIES
 
 #### Status
 ACCEPTED

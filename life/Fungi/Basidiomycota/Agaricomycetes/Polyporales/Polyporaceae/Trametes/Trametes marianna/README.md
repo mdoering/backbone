@@ -1,17 +1,16 @@
-Trametes paleacea f. paleacea (Fr.) Fr. FORM
-=======
+# Trametes marianna (Pers.) Ryvarden, 1973 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Nova Acta R. Soc. Scient. upsal. , Ser. 3 1: 97 (1851)
+Persoonia 7(2): 309 (1973)
 
 #### Original name
-Trametes paleacea f. paleacea (Fr.) Fr.
+Polyporus mariannus Pers., 1827
 
 ### Remarks
 null

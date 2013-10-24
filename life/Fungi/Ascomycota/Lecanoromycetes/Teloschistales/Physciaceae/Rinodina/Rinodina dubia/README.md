@@ -1,5 +1,4 @@
-Rinodina dubia (Vain.) Zahlbr. SPECIES
-=======
+# Rinodina dubia (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

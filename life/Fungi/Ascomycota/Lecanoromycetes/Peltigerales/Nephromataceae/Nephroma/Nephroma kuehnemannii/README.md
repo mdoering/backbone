@@ -1,5 +1,4 @@
-Nephroma kuehnemannii I. M. Lamb SPECIES
-=======
+# Nephroma kuehnemannii I. M. Lamb SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diporisporites piercei (C.P. Varma & Rawat) Elsik SPECIES
-=======
+# Diporisporites piercei (C.P. Varma & Rawat) Elsik SPECIES
 
 #### Status
 ACCEPTED

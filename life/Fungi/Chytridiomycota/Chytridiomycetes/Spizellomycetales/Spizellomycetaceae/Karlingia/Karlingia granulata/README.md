@@ -1,5 +1,4 @@
-Karlingia granulata SPECIES
-=======
+# Karlingia granulata SPECIES
 
 #### Status
 ACCEPTED

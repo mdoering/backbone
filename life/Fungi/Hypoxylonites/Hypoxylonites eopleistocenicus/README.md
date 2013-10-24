@@ -1,5 +1,4 @@
-Hypoxylonites eopleistocenicus Elsik SPECIES
-=======
+# Hypoxylonites eopleistocenicus Elsik SPECIES
 
 #### Status
 ACCEPTED

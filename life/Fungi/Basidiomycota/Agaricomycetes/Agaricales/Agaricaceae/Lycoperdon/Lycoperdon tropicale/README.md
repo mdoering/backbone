@@ -1,5 +1,4 @@
-Lycoperdon tropicale Speg. SPECIES
-=======
+# Lycoperdon tropicale Speg. SPECIES
 
 #### Status
 ACCEPTED

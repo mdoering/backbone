@@ -1,5 +1,4 @@
-Protoellipsodinium spinosum Davey & Verdier, 1971 SPECIES
-=======
+# Protoellipsodinium spinosum Davey & Verdier, 1971 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aspergillus saitoi var. saitoi VARIETY
-=======
+# Aspergillus saitoi Sakag., Iizuka & M. Yamaz. ex Iizuka & K. Sugiy. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 J. Jap. Bot. 40: 230 (1965)
 
 #### Original name
-Aspergillus saitoi var. saitoi
+Aspergillus saitoi Sakag., Iizuka & M. Yamaz. ex Iizuka & K. Sugiy.
 
 ### Remarks
 null

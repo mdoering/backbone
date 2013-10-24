@@ -1,5 +1,4 @@
-Pelatractus Kahl, 1930 GENUS
-=======
+# Pelatractus Kahl, 1930 GENUS
 
 #### Status
 ACCEPTED

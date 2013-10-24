@@ -1,5 +1,4 @@
-Hypotrachyna endosulphurea Kurok. & K. H. Moon SPECIES
-=======
+# Hypotrachyna endosulphurea Kurok. & K. H. Moon SPECIES
 
 #### Status
 ACCEPTED

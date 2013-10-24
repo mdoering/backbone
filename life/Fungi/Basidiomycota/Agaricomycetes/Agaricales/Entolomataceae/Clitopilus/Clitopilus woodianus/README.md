@@ -1,5 +1,4 @@
-Clitopilus woodianus Peck SPECIES
-=======
+# Clitopilus woodianus Peck SPECIES
 
 #### Status
 ACCEPTED

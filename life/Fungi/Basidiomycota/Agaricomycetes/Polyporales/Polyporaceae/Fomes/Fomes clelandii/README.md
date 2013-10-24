@@ -1,17 +1,16 @@
-Perenniporia clelandii var. clelandii VARIETY
-=======
+# Fomes clelandii Lloyd, 1915 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Norw. Jl Bot. 19(2): 143 (1972)
+Mycol. Writ. 4 (Letter 60) 11 (1915)
 
 #### Original name
-Perenniporia clelandii var. clelandii
+Fomes clelandii Lloyd, 1915
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Hysterium nucicola Schwein. SPECIES
-=======
+# Hysterium nucicola Schwein. SPECIES
 
 #### Status
 ACCEPTED

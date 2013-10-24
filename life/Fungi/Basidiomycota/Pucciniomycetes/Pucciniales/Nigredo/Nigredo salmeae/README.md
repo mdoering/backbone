@@ -1,5 +1,4 @@
-Nigredo salmeae (Arthur & Holw.) Arthur SPECIES
-=======
+# Nigredo salmeae (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

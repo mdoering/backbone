@@ -1,5 +1,4 @@
-Xylomites intermedius Nath. SPECIES
-=======
+# Xylomites intermedius Nath. SPECIES
 
 #### Status
 ACCEPTED

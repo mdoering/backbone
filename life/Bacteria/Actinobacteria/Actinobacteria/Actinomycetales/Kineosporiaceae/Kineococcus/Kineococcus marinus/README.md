@@ -1,5 +1,4 @@
-Kineococcus marinus Lee, 2006 SPECIES
-=======
+# Kineococcus marinus Lee, 2006 SPECIES
 
 #### Status
 ACCEPTED

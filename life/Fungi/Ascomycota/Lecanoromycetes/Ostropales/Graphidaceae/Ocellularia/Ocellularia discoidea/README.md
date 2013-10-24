@@ -1,14 +1,13 @@
-Thelotrema discoideum Ach. SPECIES
-=======
+# Ocellularia discoidea (Ach.) Müll. Arg. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-K. svenska Vetensk-Akad. Handl. 33: 94 (1812)
+Mém. Soc. Phys. Hist. nat. Genève 29(8): 8 (1887)
 
 #### Original name
 Thelotrema discoideum Ach.

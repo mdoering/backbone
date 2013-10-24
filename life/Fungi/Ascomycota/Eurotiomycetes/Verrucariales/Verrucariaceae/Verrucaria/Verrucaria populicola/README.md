@@ -1,5 +1,4 @@
-Verrucaria populicola Nyl. SPECIES
-=======
+# Verrucaria populicola Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhizopogon cylindrisporus A.H. Sm. SPECIES
-=======
+# Rhizopogon cylindrisporus A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

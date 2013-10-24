@@ -1,5 +1,4 @@
-Stigonema pannosum Kütz. SPECIES
-=======
+# Stigonema pannosum Kütz. SPECIES
 
 #### Status
 ACCEPTED

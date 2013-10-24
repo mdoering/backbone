@@ -1,5 +1,4 @@
-Humaria alpigena Lind. {?} SPECIES
-=======
+# Humaria alpigena Lind. {?} SPECIES
 
 #### Status
 ACCEPTED

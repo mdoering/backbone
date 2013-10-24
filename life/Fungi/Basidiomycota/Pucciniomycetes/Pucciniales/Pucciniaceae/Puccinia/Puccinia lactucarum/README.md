@@ -1,5 +1,4 @@
-Puccinia lactucarum P. Syd., 1900 SPECIES
-=======
+# Puccinia lactucarum P. Syd., 1900 SPECIES
 
 #### Status
 ACCEPTED

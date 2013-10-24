@@ -1,5 +1,4 @@
-Neosartorya paulistensis Y. Horie, Miyaji & Nishim., 1995 SPECIES
-=======
+# Neosartorya paulistensis Y. Horie, Miyaji & Nishim., 1995 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lopadium didymopanacis Bat. & Peres SPECIES
-=======
+# Lopadium didymopanacis Bat. & Peres SPECIES
 
 #### Status
 ACCEPTED

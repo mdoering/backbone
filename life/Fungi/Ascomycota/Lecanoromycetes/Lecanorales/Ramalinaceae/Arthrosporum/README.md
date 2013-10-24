@@ -1,5 +1,4 @@
-Arthrosporum A. Massal. GENUS
-=======
+# Arthrosporum A. Massal. GENUS
 
 #### Status
 ACCEPTED

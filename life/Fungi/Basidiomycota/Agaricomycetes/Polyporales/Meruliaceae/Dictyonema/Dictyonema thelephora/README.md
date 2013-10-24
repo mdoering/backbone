@@ -1,17 +1,16 @@
-Dictyonema sericeum var. sericeum VARIETY
-=======
+# Dictyonema thelephora (Spreng.) Zahlbr., 1931 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-London J. Bot. 2: 639 (1843)
+Cat. Lich. Univers. 7: 748 (1931)
 
 #### Original name
-Dictyonema sericeum var. sericeum
+Dematium thelephora Spreng., 1820
 
 ### Remarks
 null

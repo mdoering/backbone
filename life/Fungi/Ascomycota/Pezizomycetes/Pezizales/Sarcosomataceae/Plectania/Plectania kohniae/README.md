@@ -1,17 +1,16 @@
-Plectania kohnii Korf & W.Y. Zhuang SPECIES
-=======
+# Plectania kohniae Korf & W.Y. Zhuang SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Mycotaxon 40: 8 (1991)
 
 #### Original name
-Plectania kohnii Korf & W.Y. Zhuang
+Plectania kohniae Korf & W.Y. Zhuang
 
 ### Remarks
 null

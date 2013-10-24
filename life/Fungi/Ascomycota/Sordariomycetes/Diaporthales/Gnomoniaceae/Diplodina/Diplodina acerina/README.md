@@ -1,5 +1,4 @@
-Diplodina acerina (Pass.) B. Sutton, 1980 SPECIES
-=======
+# Diplodina acerina (Pass.) B. Sutton, 1980 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Hypochanum Kalchbr. GENUS
-=======
+# Macowanites Kalchbr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Grevillea 10(no. 55): 107 (1882)
 
 #### Original name
-Hypochanum Kalchbr.
+Macowanites Kalchbr.
 
 ### Remarks
 null

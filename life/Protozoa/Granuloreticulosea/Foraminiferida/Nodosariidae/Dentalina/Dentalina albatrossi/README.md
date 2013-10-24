@@ -1,8 +1,7 @@
-Nodosaria vertebralis f. albatrossi Cushman, 1923 FORM
-=======
+# Dentalina albatrossi (Cushman, 1923) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

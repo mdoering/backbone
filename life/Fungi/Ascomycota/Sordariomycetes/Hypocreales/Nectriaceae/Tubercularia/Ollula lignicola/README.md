@@ -1,5 +1,4 @@
-Ollula lignicola Höhn. SPECIES
-=======
+# Ollula lignicola Höhn. SPECIES
 
 #### Status
 ACCEPTED

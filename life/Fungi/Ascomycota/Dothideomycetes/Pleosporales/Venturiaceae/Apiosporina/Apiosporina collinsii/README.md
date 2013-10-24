@@ -1,5 +1,4 @@
-Apiosporina collinsii (Schwein.) Höhn., 1910 SPECIES
-=======
+# Apiosporina collinsii (Schwein.) Höhn., 1910 SPECIES
 
 #### Status
 ACCEPTED

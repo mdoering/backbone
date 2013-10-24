@@ -1,5 +1,4 @@
-Acarospora tyroliensis H. Magn. SPECIES
-=======
+# Acarospora tyroliensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

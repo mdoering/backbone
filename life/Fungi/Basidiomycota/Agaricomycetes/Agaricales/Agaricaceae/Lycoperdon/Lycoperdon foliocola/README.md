@@ -1,5 +1,4 @@
-Lycoperdon foliocola SPECIES
-=======
+# Lycoperdon foliocola SPECIES
 
 #### Status
 ACCEPTED

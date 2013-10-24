@@ -1,5 +1,4 @@
-Genistelloides S.W. Peterson, Lichtw. & B.W. Horn GENUS
-=======
+# Genistelloides S.W. Peterson, Lichtw. & B.W. Horn GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia nesaeae (W.R. Gerard) Ellis & Everh. SPECIES
-=======
+# Puccinia nesaeae (W.R. Gerard) Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

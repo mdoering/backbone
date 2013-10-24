@@ -1,5 +1,4 @@
-Aecidium kalanchoe J.R. Hern. SPECIES
-=======
+# Aecidium kalanchoe J.R. Hern. SPECIES
 
 #### Status
 ACCEPTED

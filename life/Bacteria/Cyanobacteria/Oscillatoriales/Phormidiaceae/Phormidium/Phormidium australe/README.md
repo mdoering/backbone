@@ -1,5 +1,4 @@
-Phormidium australe J. Phillipson SPECIES
-=======
+# Phormidium australe J. Phillipson SPECIES
 
 #### Status
 ACCEPTED

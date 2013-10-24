@@ -1,5 +1,4 @@
-Craspedotella pileolus Kofoid SPECIES
-=======
+# Craspedotella pileolus Kofoid SPECIES
 
 #### Status
 ACCEPTED

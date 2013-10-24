@@ -1,5 +1,4 @@
-Dendrosarcus blakei (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Dendrosarcus blakei (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

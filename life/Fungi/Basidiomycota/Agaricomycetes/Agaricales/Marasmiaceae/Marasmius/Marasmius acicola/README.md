@@ -1,5 +1,4 @@
-Marasmius acicola Berk. & M.A. Curtis SPECIES
-=======
+# Marasmius acicola Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

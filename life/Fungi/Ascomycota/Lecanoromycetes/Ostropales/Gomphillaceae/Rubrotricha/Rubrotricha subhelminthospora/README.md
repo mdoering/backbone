@@ -1,5 +1,4 @@
-Rubrotricha subhelminthospora Lücking SPECIES
-=======
+# Rubrotricha subhelminthospora Lücking SPECIES
 
 #### Status
 ACCEPTED

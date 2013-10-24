@@ -1,5 +1,4 @@
-Coprinus sprageuiformis Murrill SPECIES
-=======
+# Coprinus sprageuiformis Murrill SPECIES
 
 #### Status
 ACCEPTED

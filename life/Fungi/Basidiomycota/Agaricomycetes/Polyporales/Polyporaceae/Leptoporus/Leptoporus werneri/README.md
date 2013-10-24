@@ -1,5 +1,4 @@
-Leptoporus werneri Pilát SPECIES
-=======
+# Leptoporus werneri Pilát SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pezizella campanulaeformis (Fuckel) Dennis SPECIES
-=======
+# Pezizella campanulaeformis (Fuckel) Dennis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Otthia alnea (Peck) Sacc. SPECIES
-=======
+# Otthia alnea (Peck) Sacc. SPECIES
 
 #### Status
 ACCEPTED

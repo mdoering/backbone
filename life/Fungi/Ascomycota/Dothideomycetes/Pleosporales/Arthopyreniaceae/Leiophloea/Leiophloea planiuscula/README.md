@@ -1,5 +1,4 @@
-Leiophloea planiuscula (Nyl.) Trevis. SPECIES
-=======
+# Leiophloea planiuscula (Nyl.) Trevis. SPECIES
 
 #### Status
 ACCEPTED

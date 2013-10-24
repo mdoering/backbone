@@ -1,5 +1,4 @@
-Xylanibacterium Rivas et al., 2004 GENUS
-=======
+# Xylanibacterium Rivas et al., 2004 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Syringammina minuta Pearcy, 1914 SPECIES
-=======
+# Syringammina minuta Pearcy, 1914 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma swainsonae Henn. SPECIES
-=======
+# Phoma swainsonae Henn. SPECIES
 
 #### Status
 ACCEPTED

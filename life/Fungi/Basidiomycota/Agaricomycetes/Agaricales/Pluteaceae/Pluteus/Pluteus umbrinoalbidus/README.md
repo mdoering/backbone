@@ -1,5 +1,4 @@
-Pluteus umbrinoalbidus Singer SPECIES
-=======
+# Pluteus umbrinoalbidus Singer SPECIES
 
 #### Status
 ACCEPTED

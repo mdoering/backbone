@@ -1,17 +1,16 @@
-Pseudobalsamea microspora Diehl & Lambert SPECIES
-=======
+# Diehliomyces microsporus (Diehl & E.B. Lamb.) Gilkey, 1955 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Belgian Species List
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 46: 790 (1955)
 
 #### Original name
-null
+Pseudobalsamia microspora Diehl & E.B. Lamb., 1930
 
 ### Remarks
 null

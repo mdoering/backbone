@@ -1,5 +1,4 @@
-Atrichophyton GENUS
-=======
+# Atrichophyton GENUS
 
 #### Status
 ACCEPTED

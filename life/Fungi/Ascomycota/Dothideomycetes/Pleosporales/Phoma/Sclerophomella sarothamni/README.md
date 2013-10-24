@@ -1,5 +1,4 @@
-Sclerophomella sarothamni Petr. SPECIES
-=======
+# Sclerophomella sarothamni Petr. SPECIES
 
 #### Status
 ACCEPTED

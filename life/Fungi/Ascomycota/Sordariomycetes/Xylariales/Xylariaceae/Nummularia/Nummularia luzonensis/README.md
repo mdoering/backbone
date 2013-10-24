@@ -1,5 +1,4 @@
-Nummularia luzonensis H.S. Yates SPECIES
-=======
+# Nummularia luzonensis H.S. Yates SPECIES
 
 #### Status
 ACCEPTED

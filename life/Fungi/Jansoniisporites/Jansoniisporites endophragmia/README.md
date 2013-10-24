@@ -1,5 +1,4 @@
-Jansoniisporites endophragmia (Kalgutkar & Sigler) Kalgutkar SPECIES
-=======
+# Jansoniisporites endophragmia (Kalgutkar & Sigler) Kalgutkar SPECIES
 
 #### Status
 ACCEPTED

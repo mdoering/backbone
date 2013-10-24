@@ -1,5 +1,4 @@
-Polyetron Bat. & Peres GENUS
-=======
+# Polyetron Bat. & Peres GENUS
 
 #### Status
 ACCEPTED

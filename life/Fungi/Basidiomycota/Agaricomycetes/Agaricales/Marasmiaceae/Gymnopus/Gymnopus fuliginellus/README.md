@@ -1,5 +1,4 @@
-Gymnopus fuliginellus (Peck) Murrill SPECIES
-=======
+# Gymnopus fuliginellus (Peck) Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ovulariopsis broussonetiae-papyriferae Sawada SPECIES
-=======
+# Ovulariopsis broussonetiae-papyriferae Sawada SPECIES
 
 #### Status
 ACCEPTED

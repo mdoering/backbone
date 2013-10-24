@@ -1,5 +1,4 @@
-Puccinia austroussuriensis Tranzschel SPECIES
-=======
+# Puccinia austroussuriensis Tranzschel SPECIES
 
 #### Status
 ACCEPTED

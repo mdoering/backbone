@@ -1,5 +1,4 @@
-Cortinarius squarrosus Clem. SPECIES
-=======
+# Cortinarius squarrosus Clem. SPECIES
 
 #### Status
 ACCEPTED

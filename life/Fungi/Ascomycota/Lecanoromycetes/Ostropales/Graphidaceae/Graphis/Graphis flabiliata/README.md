@@ -1,5 +1,4 @@
-Graphis flabiliata Makhija, Adaw. & Patw. SPECIES
-=======
+# Graphis flabiliata Makhija, Adaw. & Patw. SPECIES
 
 #### Status
 ACCEPTED

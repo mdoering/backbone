@@ -1,5 +1,4 @@
-Hysterium striatulum (Ach.) Fr. SPECIES
-=======
+# Hysterium striatulum (Ach.) Fr. SPECIES
 
 #### Status
 ACCEPTED

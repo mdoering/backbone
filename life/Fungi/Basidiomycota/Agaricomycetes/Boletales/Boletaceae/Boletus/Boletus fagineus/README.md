@@ -1,5 +1,4 @@
-Boletus fagineus With. SPECIES
-=======
+# Boletus fagineus With. SPECIES
 
 #### Status
 ACCEPTED

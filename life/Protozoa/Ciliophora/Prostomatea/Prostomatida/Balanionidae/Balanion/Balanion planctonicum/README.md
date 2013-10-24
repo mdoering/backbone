@@ -1,8 +1,7 @@
-Pseudobalanion planctonicum Foissner, Oleksiv & Müller, 1990 SPECIES
-=======
+# Balanion planctonicum (Foissner, Oleksiv & Müller, 1990) Foissner, Berger & Kohmann, 1994 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

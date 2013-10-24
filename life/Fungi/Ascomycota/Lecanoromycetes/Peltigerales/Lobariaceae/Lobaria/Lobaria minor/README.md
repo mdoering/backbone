@@ -1,5 +1,4 @@
-Lobaria minor Vain. SPECIES
-=======
+# Lobaria minor Vain. SPECIES
 
 #### Status
 ACCEPTED

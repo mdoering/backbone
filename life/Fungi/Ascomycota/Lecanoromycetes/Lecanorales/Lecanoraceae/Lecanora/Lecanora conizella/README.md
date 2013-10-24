@@ -1,5 +1,4 @@
-Lecanora conizella Nyl. SPECIES
-=======
+# Lecanora conizella Nyl. SPECIES
 
 #### Status
 ACCEPTED

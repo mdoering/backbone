@@ -1,5 +1,4 @@
-Sarcographa duodenaria (Nyl.) Zahlbr. SPECIES
-=======
+# Sarcographa duodenaria (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

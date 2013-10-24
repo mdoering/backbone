@@ -1,5 +1,4 @@
-Trichopeziza fusca (Schumach.) Sacc. SPECIES
-=======
+# Trichopeziza fusca (Schumach.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

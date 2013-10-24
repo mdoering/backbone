@@ -1,5 +1,4 @@
-Chaetocalathus liliputianus (Mont.) Singer SPECIES
-=======
+# Chaetocalathus liliputianus (Mont.) Singer SPECIES
 
 #### Status
 ACCEPTED

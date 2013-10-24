@@ -1,5 +1,4 @@
-Boletellus singaporensis (Pat. & C.F. Baker) E.-J. Gilbert SPECIES
-=======
+# Boletellus singaporensis (Pat. & C.F. Baker) E.-J. Gilbert SPECIES
 
 #### Status
 ACCEPTED

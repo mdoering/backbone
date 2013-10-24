@@ -1,5 +1,4 @@
-Cytidia stereoides W.B. Cooke, 1951 SPECIES
-=======
+# Cytidia stereoides W.B. Cooke, 1951 SPECIES
 
 #### Status
 ACCEPTED

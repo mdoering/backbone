@@ -1,5 +1,4 @@
-Zythia elaeocarpi Sawada SPECIES
-=======
+# Zythia elaeocarpi Sawada SPECIES
 
 #### Status
 ACCEPTED

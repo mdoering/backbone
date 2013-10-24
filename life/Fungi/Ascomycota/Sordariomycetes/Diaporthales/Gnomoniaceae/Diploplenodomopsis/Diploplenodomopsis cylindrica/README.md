@@ -1,5 +1,4 @@
-Diploplenodomopsis cylindrica (Pass.) Petr. & Syd. SPECIES
-=======
+# Diploplenodomopsis cylindrica (Pass.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

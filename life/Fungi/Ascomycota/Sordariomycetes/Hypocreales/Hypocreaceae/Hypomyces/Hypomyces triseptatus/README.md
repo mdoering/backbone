@@ -1,5 +1,4 @@
-Hypomyces triseptatus Rossman & Rogerson SPECIES
-=======
+# Hypomyces triseptatus Rossman & Rogerson SPECIES
 
 #### Status
 ACCEPTED

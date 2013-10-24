@@ -1,5 +1,4 @@
-Prorocentrum ruetzlerianum M. A. Faust SPECIES
-=======
+# Prorocentrum ruetzlerianum M. A. Faust SPECIES
 
 #### Status
 ACCEPTED

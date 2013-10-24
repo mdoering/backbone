@@ -1,5 +1,4 @@
-Cortinarius rioussetorum Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius rioussetorum Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

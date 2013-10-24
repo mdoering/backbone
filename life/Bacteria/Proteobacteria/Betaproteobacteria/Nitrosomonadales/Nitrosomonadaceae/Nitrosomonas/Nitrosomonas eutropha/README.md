@@ -1,5 +1,4 @@
-Nitrosomonas eutropha Koops et al., 2001 SPECIES
-=======
+# Nitrosomonas eutropha Koops et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

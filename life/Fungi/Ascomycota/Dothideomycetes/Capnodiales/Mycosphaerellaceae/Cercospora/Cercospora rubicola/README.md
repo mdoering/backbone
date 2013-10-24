@@ -1,5 +1,4 @@
-Cercospora rubicola Thüm. SPECIES
-=======
+# Cercospora rubicola Thüm. SPECIES
 
 #### Status
 ACCEPTED

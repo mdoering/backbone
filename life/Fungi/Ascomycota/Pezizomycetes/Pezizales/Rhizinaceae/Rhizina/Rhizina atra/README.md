@@ -1,5 +1,4 @@
-Rhizina atra Rodway SPECIES
-=======
+# Rhizina atra Rodway SPECIES
 
 #### Status
 ACCEPTED

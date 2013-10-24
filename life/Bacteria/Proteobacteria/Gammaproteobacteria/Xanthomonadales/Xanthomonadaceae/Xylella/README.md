@@ -1,5 +1,4 @@
-Xylella Wells et al., 1987 GENUS
-=======
+# Xylella Wells et al., 1987 GENUS
 
 #### Status
 ACCEPTED

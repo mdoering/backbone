@@ -1,5 +1,4 @@
-Lecidea picina Fée SPECIES
-=======
+# Lecidea picina Fée SPECIES
 
 #### Status
 ACCEPTED

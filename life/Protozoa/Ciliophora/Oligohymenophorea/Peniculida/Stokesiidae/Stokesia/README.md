@@ -1,5 +1,4 @@
-Stokesia Wenrich, 1929 GENUS
-=======
+# Stokesia Wenrich, 1929 GENUS
 
 #### Status
 ACCEPTED

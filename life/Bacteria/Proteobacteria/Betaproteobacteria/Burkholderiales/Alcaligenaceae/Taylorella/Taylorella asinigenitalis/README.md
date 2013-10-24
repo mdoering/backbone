@@ -1,5 +1,4 @@
-Taylorella asinigenitalis Jang et al., 2001 SPECIES
-=======
+# Taylorella asinigenitalis Jang et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

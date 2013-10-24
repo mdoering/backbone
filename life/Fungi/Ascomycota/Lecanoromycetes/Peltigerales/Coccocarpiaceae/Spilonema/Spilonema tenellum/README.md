@@ -1,5 +1,4 @@
-Spilonema tenellum Vain. SPECIES
-=======
+# Spilonema tenellum Vain. SPECIES
 
 #### Status
 ACCEPTED

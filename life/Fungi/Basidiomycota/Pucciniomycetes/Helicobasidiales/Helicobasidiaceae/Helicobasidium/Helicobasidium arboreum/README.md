@@ -1,5 +1,4 @@
-Helicobasidium arboreum Couch SPECIES
-=======
+# Helicobasidium arboreum Couch SPECIES
 
 #### Status
 ACCEPTED

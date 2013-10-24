@@ -1,5 +1,4 @@
-Rhodophyllus longipes Massee SPECIES
-=======
+# Rhodophyllus longipes Massee SPECIES
 
 #### Status
 ACCEPTED

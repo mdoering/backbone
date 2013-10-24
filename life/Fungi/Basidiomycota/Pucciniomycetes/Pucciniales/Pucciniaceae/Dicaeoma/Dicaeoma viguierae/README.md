@@ -1,5 +1,4 @@
-Dicaeoma viguierae (Peck) Kuntze SPECIES
-=======
+# Dicaeoma viguierae (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

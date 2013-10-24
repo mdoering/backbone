@@ -1,5 +1,4 @@
-Arthopyrenia brachyspora Müll. Arg. SPECIES
-=======
+# Arthopyrenia brachyspora Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

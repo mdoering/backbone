@@ -1,5 +1,4 @@
-Clavaria alpina Saut. SPECIES
-=======
+# Clavaria alpina Saut. SPECIES
 
 #### Status
 ACCEPTED

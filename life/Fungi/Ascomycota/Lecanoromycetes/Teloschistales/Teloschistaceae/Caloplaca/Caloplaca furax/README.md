@@ -1,5 +1,4 @@
-Caloplaca furax Egea & Llimona SPECIES
-=======
+# Caloplaca furax Egea & Llimona SPECIES
 
 #### Status
 ACCEPTED

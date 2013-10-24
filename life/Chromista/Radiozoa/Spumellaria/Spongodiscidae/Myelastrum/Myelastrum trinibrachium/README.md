@@ -1,5 +1,4 @@
-Myelastrum trinibrachium Takahashi, 1991 SPECIES
-=======
+# Myelastrum trinibrachium Takahashi, 1991 SPECIES
 
 #### Status
 ACCEPTED

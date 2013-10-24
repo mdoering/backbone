@@ -1,5 +1,4 @@
-Trichosphaeria lauri Sousa da Câmara & Luz SPECIES
-=======
+# Trichosphaeria lauri Sousa da Câmara & Luz SPECIES
 
 #### Status
 ACCEPTED

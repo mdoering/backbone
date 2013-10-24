@@ -1,5 +1,4 @@
-Coccostromopsis GENUS
-=======
+# Coccostromopsis GENUS
 
 #### Status
 ACCEPTED

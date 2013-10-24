@@ -1,17 +1,16 @@
-Phyllosticta platanoides f. platanoides Sacc. FORM
-=======
+# Asteromella platanoidis (Sacc.) Petr., 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Michelia 1(no. 4): 360 (1878)
+Hedwigia 65: 254 (1925)
 
 #### Original name
-Phyllosticta platanoides f. platanoides Sacc.
+Phyllosticta platanoides Sacc., 1878
 
 ### Remarks
 null

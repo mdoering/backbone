@@ -1,5 +1,4 @@
-Tintinnus sessilis SPECIES
-=======
+# Tintinnus sessilis SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora stenospora (Hue) Zahlbr. SPECIES
-=======
+# Lecanora stenospora (Hue) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

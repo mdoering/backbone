@@ -1,5 +1,4 @@
-Hypholoma cutifractum Peck SPECIES
-=======
+# Hypholoma cutifractum Peck SPECIES
 
 #### Status
 ACCEPTED

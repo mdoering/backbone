@@ -1,5 +1,4 @@
-Comasphaeridium campoae (Stockmans & Willière, 1966) Eisenack et al. SPECIES
-=======
+# Comasphaeridium campoae (Stockmans & Willière, 1966) Eisenack et al. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium cryptocaryae Bond.-Mont. SPECIES
-=======
+# Gloeosporium cryptocaryae Bond.-Mont. SPECIES
 
 #### Status
 ACCEPTED

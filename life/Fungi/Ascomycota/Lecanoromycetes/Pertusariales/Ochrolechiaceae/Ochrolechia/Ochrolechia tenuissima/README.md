@@ -1,5 +1,4 @@
-Ochrolechia tenuissima Verseghy SPECIES
-=======
+# Ochrolechia tenuissima Verseghy SPECIES
 
 #### Status
 ACCEPTED

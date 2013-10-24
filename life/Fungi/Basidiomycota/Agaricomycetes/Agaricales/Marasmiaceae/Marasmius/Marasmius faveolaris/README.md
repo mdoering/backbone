@@ -1,5 +1,4 @@
-Marasmius faveolaris Fr. SPECIES
-=======
+# Marasmius faveolaris Fr. SPECIES
 
 #### Status
 ACCEPTED

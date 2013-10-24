@@ -1,5 +1,4 @@
-Heliomyces subavellaneus Murrill SPECIES
-=======
+# Heliomyces subavellaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

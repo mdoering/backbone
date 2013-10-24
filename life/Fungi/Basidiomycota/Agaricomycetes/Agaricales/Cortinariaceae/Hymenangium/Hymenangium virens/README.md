@@ -1,5 +1,4 @@
-Hymenangium virens Klotzsch SPECIES
-=======
+# Hymenangium virens Klotzsch SPECIES
 
 #### Status
 ACCEPTED

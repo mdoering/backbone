@@ -1,5 +1,4 @@
-Agaricus cubensis Berk. & M.A. Curtis SPECIES
-=======
+# Agaricus cubensis Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

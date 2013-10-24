@@ -1,17 +1,16 @@
-Phaeosphaeria zingiberi Sawada SPECIES
-=======
+# Phaeosphaeria zingiberis Sawada SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Special Publication College of Agriculture, National Taiwan University 8: 67 (1959)
 
 #### Original name
-Phaeosphaeria zingiberi Sawada
+Phaeosphaeria zingiberis Sawada
 
 ### Remarks
 null

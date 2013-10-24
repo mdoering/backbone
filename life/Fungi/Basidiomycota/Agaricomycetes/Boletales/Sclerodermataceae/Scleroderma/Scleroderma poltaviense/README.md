@@ -1,5 +1,4 @@
-Scleroderma poltaviense Sosin SPECIES
-=======
+# Scleroderma poltaviense Sosin SPECIES
 
 #### Status
 ACCEPTED

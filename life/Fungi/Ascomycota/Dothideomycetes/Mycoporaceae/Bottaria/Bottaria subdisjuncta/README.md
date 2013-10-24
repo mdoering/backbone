@@ -1,5 +1,4 @@
-Bottaria subdisjuncta Müll. Arg. SPECIES
-=======
+# Bottaria subdisjuncta Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clathroporina biroi Szatala SPECIES
-=======
+# Clathroporina biroi Szatala SPECIES
 
 #### Status
 ACCEPTED

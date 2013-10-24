@@ -1,5 +1,4 @@
-Phyllachora verbesinae (Pat. & Gaillard) Petr., 1927 SPECIES
-=======
+# Phyllachora verbesinae (Pat. & Gaillard) Petr., 1927 SPECIES
 
 #### Status
 DOUBTFUL

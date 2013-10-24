@@ -1,5 +1,4 @@
-Stenella fagraeae J.M. Yen SPECIES
-=======
+# Stenella fagraeae J.M. Yen SPECIES
 
 #### Status
 ACCEPTED

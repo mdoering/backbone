@@ -1,5 +1,4 @@
-Lecanora convexula (Arnold) Nyl. SPECIES
-=======
+# Lecanora convexula (Arnold) Nyl. SPECIES
 
 #### Status
 ACCEPTED

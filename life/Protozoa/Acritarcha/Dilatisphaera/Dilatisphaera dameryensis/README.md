@@ -1,5 +1,4 @@
-Dilatisphaera dameryensis Dorning, 1981 SPECIES
-=======
+# Dilatisphaera dameryensis Dorning, 1981 SPECIES
 
 #### Status
 ACCEPTED

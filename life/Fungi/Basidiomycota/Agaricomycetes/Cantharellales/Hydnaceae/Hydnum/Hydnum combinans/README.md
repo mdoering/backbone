@@ -1,5 +1,4 @@
-Hydnum combinans Peck SPECIES
-=======
+# Hydnum combinans Peck SPECIES
 
 #### Status
 ACCEPTED

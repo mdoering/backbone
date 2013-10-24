@@ -1,5 +1,4 @@
-Euplotes violaceus Kahl, 1928 SPECIES
-=======
+# Euplotes violaceus Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

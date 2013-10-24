@@ -1,5 +1,4 @@
-Ascochyta miurai Hara SPECIES
-=======
+# Ascochyta miurai Hara SPECIES
 
 #### Status
 ACCEPTED

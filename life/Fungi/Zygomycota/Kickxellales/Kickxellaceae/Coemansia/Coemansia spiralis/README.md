@@ -1,5 +1,4 @@
-Coemansia spiralis Eidam, 1888 SPECIES
-=======
+# Coemansia spiralis Eidam, 1888 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mesocena convexa var. triangula (K. Tsumura) T.V. Desikachary, P.M. Sreelatha & P. Prema VARIETY
-=======
+# Mesocena convexa T.V. Desikachary, P.M. Sreelatha & P. Prema SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycoglaena viridis (Rehm) Riedl SPECIES
-=======
+# Mycoglaena viridis (Rehm) Riedl SPECIES
 
 #### Status
 ACCEPTED

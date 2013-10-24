@@ -1,5 +1,4 @@
-Parmelia stenotera (Stirt.) C.W. Dodge SPECIES
-=======
+# Parmelia stenotera (Stirt.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

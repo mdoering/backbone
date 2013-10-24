@@ -1,5 +1,4 @@
-Opegrapha huneckii Follmann & Klem. SPECIES
-=======
+# Opegrapha huneckii Follmann & Klem. SPECIES
 
 #### Status
 ACCEPTED

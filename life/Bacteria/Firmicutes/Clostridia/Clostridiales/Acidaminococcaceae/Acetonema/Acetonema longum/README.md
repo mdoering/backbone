@@ -1,5 +1,4 @@
-Acetonema longum Kane & Breznak, 1992 SPECIES
-=======
+# Acetonema longum Kane & Breznak, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Gloeosporium politis Maire SPECIES
-=======
+# Gloeosporium politis Maire SPECIES
 
 #### Status
 ACCEPTED

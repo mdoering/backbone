@@ -1,5 +1,4 @@
-Apiospora luzonensis Henn. SPECIES
-=======
+# Apiospora luzonensis Henn. SPECIES
 
 #### Status
 ACCEPTED

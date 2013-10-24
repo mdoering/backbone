@@ -1,5 +1,4 @@
-Phaeographina varians (Nyl.) Zahlbr. SPECIES
-=======
+# Phaeographina varians (Nyl.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

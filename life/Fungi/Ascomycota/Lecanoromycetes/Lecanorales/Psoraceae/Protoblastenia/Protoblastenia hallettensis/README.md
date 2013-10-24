@@ -1,5 +1,4 @@
-Protoblastenia hallettensis (B.J. Murray) C.W. Dodge SPECIES
-=======
+# Protoblastenia hallettensis (B.J. Murray) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

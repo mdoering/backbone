@@ -1,5 +1,4 @@
-Biatora leucophyllina (Nyl.) SPECIES
-=======
+# Biatora leucophyllina (Nyl.) SPECIES
 
 #### Status
 ACCEPTED

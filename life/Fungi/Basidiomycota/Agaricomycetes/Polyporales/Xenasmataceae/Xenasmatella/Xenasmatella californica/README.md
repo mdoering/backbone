@@ -1,5 +1,4 @@
-Xenasmatella californica (Liberta) Hjortstam SPECIES
-=======
+# Xenasmatella californica (Liberta) Hjortstam SPECIES
 
 #### Status
 ACCEPTED

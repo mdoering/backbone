@@ -1,17 +1,16 @@
-Peltigera nana var. nana VARIETY
-=======
+# Peltigera nana Vain. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 null
 
 #### Original name
-Peltigera nana var. nana
+Peltigera nana Vain.
 
 ### Remarks
 null

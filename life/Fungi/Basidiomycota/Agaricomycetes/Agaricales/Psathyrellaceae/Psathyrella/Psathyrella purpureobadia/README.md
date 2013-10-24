@@ -1,5 +1,4 @@
-Psathyrella purpureobadia Arnolds SPECIES
-=======
+# Psathyrella purpureobadia Arnolds SPECIES
 
 #### Status
 ACCEPTED

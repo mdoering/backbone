@@ -1,5 +1,4 @@
-Mycosphaerella danica Tomilin SPECIES
-=======
+# Mycosphaerella danica Tomilin SPECIES
 
 #### Status
 ACCEPTED

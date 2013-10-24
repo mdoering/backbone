@@ -1,5 +1,4 @@
-Elleipsisoma França, 1912 GENUS
-=======
+# Elleipsisoma França, 1912 GENUS
 
 #### Status
 ACCEPTED

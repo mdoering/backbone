@@ -1,5 +1,4 @@
-Buellia palmensis (Vain.) C.W. Dodge SPECIES
-=======
+# Buellia palmensis (Vain.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

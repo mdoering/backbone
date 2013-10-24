@@ -1,5 +1,4 @@
-Tympanis confusa Nyl., 1868 SPECIES
-=======
+# Tympanis confusa Nyl., 1868 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septoria clemata Pandotra SPECIES
-=======
+# Septoria clemata Pandotra SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asteromphalus symmetricus H. J. Schrader & J. Fenner SPECIES
-=======
+# Asteromphalus symmetricus H. J. Schrader & J. Fenner SPECIES
 
 #### Status
 ACCEPTED

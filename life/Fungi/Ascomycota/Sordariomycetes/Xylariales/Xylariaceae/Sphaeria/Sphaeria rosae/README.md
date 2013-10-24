@@ -1,5 +1,4 @@
-Sphaeria rosae Schwein. SPECIES
-=======
+# Sphaeria rosae Schwein. SPECIES
 
 #### Status
 ACCEPTED

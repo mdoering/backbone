@@ -1,17 +1,16 @@
-Tricholoma apium var. apium Jul. Schäff. VARIETY
-=======
+# Tricholoma apium Jul. Schäff., 1925 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Z. Pilzk. 4: 65 (1925)
 
 #### Original name
-Tricholoma apium var. apium Jul. Schäff.
+Tricholoma apium Jul. Schäff., 1925
 
 ### Remarks
 null

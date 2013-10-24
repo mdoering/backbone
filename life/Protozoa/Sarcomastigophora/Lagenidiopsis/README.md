@@ -1,5 +1,4 @@
-Lagenidiopsis Golemansky, 1974 GENUS
-=======
+# Lagenidiopsis Golemansky, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Meliola pelliculosa Syd. SPECIES
-=======
+# Meliola pelliculosa Syd. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Delitschia anomala Luck-Allen & Cain SPECIES
-=======
+# Delitschia anomala Luck-Allen & Cain SPECIES
 
 #### Status
 ACCEPTED

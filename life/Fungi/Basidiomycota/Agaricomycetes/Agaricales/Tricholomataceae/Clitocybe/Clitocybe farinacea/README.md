@@ -1,5 +1,4 @@
-Clitocybe farinacea Murrill SPECIES
-=======
+# Clitocybe farinacea Murrill SPECIES
 
 #### Status
 ACCEPTED

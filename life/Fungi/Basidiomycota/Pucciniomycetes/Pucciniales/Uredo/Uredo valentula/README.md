@@ -1,5 +1,4 @@
-Uredo valentula H.S. Jacks. & Holw. SPECIES
-=======
+# Uredo valentula H.S. Jacks. & Holw. SPECIES
 
 #### Status
 ACCEPTED

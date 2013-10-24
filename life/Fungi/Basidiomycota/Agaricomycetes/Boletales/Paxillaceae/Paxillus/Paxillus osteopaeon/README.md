@@ -1,5 +1,4 @@
-Paxillus osteopaeon Massee SPECIES
-=======
+# Paxillus osteopaeon Massee SPECIES
 
 #### Status
 ACCEPTED

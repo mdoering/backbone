@@ -1,5 +1,4 @@
-Trichoderma crassum Bissett, 1992 SPECIES
-=======
+# Trichoderma crassum Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

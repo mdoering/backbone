@@ -1,5 +1,4 @@
-Epicoccum agyrioides var. agyrioides Corda VARIETY
-=======
+# Epicoccum agyrioides Corda SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Icon. fung. (Prague) 1: 5 (1837)
 
 #### Original name
-Epicoccum agyrioides var. agyrioides Corda
+Epicoccum agyrioides Corda
 
 ### Remarks
 null

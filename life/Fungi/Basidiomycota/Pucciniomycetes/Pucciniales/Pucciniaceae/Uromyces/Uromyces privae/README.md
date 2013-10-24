@@ -1,5 +1,4 @@
-Uromyces privae Syd. & P. Syd. SPECIES
-=======
+# Uromyces privae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

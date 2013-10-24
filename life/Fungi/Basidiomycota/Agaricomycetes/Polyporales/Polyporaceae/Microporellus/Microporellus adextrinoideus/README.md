@@ -1,5 +1,4 @@
-Microporellus adextrinoideus Decock SPECIES
-=======
+# Microporellus adextrinoideus Decock SPECIES
 
 #### Status
 ACCEPTED

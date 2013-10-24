@@ -1,5 +1,4 @@
-Marinimicrobium koreense Lim et al., 2006 SPECIES
-=======
+# Marinimicrobium koreense Lim et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

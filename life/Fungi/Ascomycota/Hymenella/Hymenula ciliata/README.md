@@ -1,5 +1,4 @@
-Hymenula ciliata Fr. SPECIES
-=======
+# Hymenula ciliata Fr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Aecidium mitracarpi Syd. SPECIES
-=======
+# Aecidium mitracarpi Syd. SPECIES
 
 #### Status
 ACCEPTED

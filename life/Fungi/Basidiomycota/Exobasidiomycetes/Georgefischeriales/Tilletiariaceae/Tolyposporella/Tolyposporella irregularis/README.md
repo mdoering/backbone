@@ -1,5 +1,4 @@
-Tolyposporella irregularis (Pazschke) Zundel SPECIES
-=======
+# Tolyposporella irregularis (Pazschke) Zundel SPECIES
 
 #### Status
 ACCEPTED

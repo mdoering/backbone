@@ -1,5 +1,4 @@
-Rostafinskia australis Speg. SPECIES
-=======
+# Rostafinskia australis Speg. SPECIES
 
 #### Status
 ACCEPTED

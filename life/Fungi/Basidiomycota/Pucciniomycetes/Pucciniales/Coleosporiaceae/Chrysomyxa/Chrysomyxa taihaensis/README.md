@@ -1,5 +1,4 @@
-Chrysomyxa taihaensis Hirats. f. & Hashioka SPECIES
-=======
+# Chrysomyxa taihaensis Hirats. f. & Hashioka SPECIES
 
 #### Status
 ACCEPTED

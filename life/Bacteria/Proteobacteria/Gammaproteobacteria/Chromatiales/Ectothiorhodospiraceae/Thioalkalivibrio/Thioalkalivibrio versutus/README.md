@@ -1,5 +1,4 @@
-Thioalkalivibrio versutus Sorokin et al., 2001 SPECIES
-=======
+# Thioalkalivibrio versutus Sorokin et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

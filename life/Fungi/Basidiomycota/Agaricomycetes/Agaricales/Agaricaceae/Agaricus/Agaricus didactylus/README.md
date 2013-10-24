@@ -1,5 +1,4 @@
-Agaricus didactylus Berk. & Broome SPECIES
-=======
+# Agaricus didactylus Berk. & Broome SPECIES
 
 #### Status
 ACCEPTED

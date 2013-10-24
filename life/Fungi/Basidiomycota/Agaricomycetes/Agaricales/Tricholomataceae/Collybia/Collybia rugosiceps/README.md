@@ -1,5 +1,4 @@
-Collybia rugosiceps G.F. Atk. SPECIES
-=======
+# Collybia rugosiceps G.F. Atk. SPECIES
 
 #### Status
 ACCEPTED

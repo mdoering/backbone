@@ -1,5 +1,4 @@
-Tuckermanopsis ciliaris (Ach.) Gyeln. SPECIES
-=======
+# Tuckermanopsis ciliaris (Ach.) Gyeln. SPECIES
 
 #### Status
 ACCEPTED

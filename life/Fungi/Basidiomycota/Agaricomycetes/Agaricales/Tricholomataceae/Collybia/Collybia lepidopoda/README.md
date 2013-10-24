@@ -1,5 +1,4 @@
-Collybia lepidopoda (Fr.) Sacc. SPECIES
-=======
+# Collybia lepidopoda (Fr.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

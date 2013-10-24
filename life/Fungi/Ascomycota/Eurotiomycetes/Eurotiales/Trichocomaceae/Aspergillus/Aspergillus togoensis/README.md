@@ -1,5 +1,4 @@
-Aspergillus togoensis (Henn.) Samson & Seifert, 1986 SPECIES
-=======
+# Aspergillus togoensis (Henn.) Samson & Seifert, 1986 SPECIES
 
 #### Status
 ACCEPTED

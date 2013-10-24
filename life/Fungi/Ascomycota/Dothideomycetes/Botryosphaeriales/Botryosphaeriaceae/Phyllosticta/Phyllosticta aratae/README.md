@@ -1,5 +1,4 @@
-Phyllosticta aratae Speg. SPECIES
-=======
+# Phyllosticta aratae Speg. SPECIES
 
 #### Status
 ACCEPTED

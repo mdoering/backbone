@@ -1,5 +1,4 @@
-Pseudolembosia lenticularis (G. Winter) Theiss. SPECIES
-=======
+# Pseudolembosia lenticularis (G. Winter) Theiss. SPECIES
 
 #### Status
 ACCEPTED

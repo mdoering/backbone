@@ -1,5 +1,4 @@
-Paradiniaceae FAMILY
-=======
+# Paradiniaceae FAMILY
 
 #### Status
 ACCEPTED

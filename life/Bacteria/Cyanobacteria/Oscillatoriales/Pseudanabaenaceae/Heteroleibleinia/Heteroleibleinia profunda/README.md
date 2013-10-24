@@ -1,5 +1,4 @@
-Heteroleibleinia profunda R. Tavera & J. Komárek SPECIES
-=======
+# Heteroleibleinia profunda R. Tavera & J. Komárek SPECIES
 
 #### Status
 ACCEPTED

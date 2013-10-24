@@ -1,17 +1,16 @@
-Phyllosticta sambacae Shreem. SPECIES
-=======
+# Phyllosticta samba Shreem. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Indian Botanical Reporter 2(1): 78 (1983)
 
 #### Original name
-Phyllosticta sambacae Shreem.
+Phyllosticta samba Shreem.
 
 ### Remarks
 null

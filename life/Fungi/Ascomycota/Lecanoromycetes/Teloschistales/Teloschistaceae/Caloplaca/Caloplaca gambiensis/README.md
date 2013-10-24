@@ -1,5 +1,4 @@
-Caloplaca gambiensis Aptroot SPECIES
-=======
+# Caloplaca gambiensis Aptroot SPECIES
 
 #### Status
 ACCEPTED

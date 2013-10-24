@@ -1,5 +1,4 @@
-Leptosphaeria phragmitidis (Hollós) Leuchtm. SPECIES
-=======
+# Leptosphaeria phragmitidis (Hollós) Leuchtm. SPECIES
 
 #### Status
 ACCEPTED

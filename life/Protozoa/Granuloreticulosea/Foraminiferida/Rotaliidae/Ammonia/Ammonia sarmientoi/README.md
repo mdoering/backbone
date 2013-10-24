@@ -1,5 +1,4 @@
-Ammonia sarmientoi SPECIES
-=======
+# Ammonia sarmientoi SPECIES
 
 #### Status
 ACCEPTED

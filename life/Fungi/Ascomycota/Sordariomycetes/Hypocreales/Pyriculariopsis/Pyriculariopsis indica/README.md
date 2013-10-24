@@ -1,5 +1,4 @@
-Pyriculariopsis indica B.S. Reddy, Manohar., D.K. Agarwal & V. Rao SPECIES
-=======
+# Pyriculariopsis indica B.S. Reddy, Manohar., D.K. Agarwal & V. Rao SPECIES
 
 #### Status
 ACCEPTED

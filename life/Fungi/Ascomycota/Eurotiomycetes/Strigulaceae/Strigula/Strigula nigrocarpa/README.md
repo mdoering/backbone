@@ -1,5 +1,4 @@
-Strigula nigrocarpa Lücking SPECIES
-=======
+# Strigula nigrocarpa Lücking SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Rhabdoderma sigmoidea minor Moore & Carter, 1923 SUBSPECIES
-=======
+# Rhabdoderma sigmoidea Moore & Carter SPECIES
 
 #### Status
 ACCEPTED

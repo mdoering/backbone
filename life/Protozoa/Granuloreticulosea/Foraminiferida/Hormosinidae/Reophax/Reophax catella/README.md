@@ -1,5 +1,4 @@
-Reophax catella Höglund, 1947 SPECIES
-=======
+# Reophax catella Höglund, 1947 SPECIES
 
 #### Status
 ACCEPTED

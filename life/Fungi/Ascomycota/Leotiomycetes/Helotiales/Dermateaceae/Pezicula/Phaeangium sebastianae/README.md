@@ -1,5 +1,4 @@
-Phaeangium sebastianae (Henn.) Sacc. & D. Sacc. SPECIES
-=======
+# Phaeangium sebastianae (Henn.) Sacc. & D. Sacc. SPECIES
 
 #### Status
 ACCEPTED

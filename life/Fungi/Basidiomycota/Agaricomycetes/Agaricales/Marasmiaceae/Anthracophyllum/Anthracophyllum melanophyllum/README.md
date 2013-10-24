@@ -1,14 +1,13 @@
-Panus melanophyllus Fr., 1849 SPECIES
-=======
+# Anthracophyllum melanophyllum (Fr.) Pegler & T.W.K. Young, 1989 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Summa veg. Scand. (Stockholm), Section Post. 125 (1849)
+Mycol. Res. 93(3): 358 (1989)
 
 #### Original name
 Panus melanophyllus Fr., 1849

@@ -1,5 +1,4 @@
-Mycena fenestrata Maas Geest. & de Meijer SPECIES
-=======
+# Mycena fenestrata Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria concolor Fr. & Hoffm. SPECIES
-=======
+# Patellaria concolor Fr. & Hoffm. SPECIES
 
 #### Status
 ACCEPTED

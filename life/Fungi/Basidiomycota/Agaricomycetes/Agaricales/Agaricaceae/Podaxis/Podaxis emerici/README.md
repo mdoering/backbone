@@ -1,8 +1,7 @@
-Podaxon emerici (Berk.) Massee SPECIES
-=======
+# Podaxis emerici (Berk.) Massee SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

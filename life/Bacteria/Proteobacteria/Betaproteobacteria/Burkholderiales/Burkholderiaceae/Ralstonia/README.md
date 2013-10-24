@@ -1,5 +1,4 @@
-Ralstonia Yabuuchi et al., 1996 GENUS
-=======
+# Ralstonia Yabuuchi et al., 1996 GENUS
 
 #### Status
 ACCEPTED

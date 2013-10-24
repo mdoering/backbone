@@ -1,5 +1,4 @@
-Pluricellaesporites tricellatus (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
-=======
+# Pluricellaesporites tricellatus (A. Chandra, R.K. Saxena & Setty) Kalgutkar & Janson. SPECIES
 
 #### Status
 ACCEPTED

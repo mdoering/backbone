@@ -1,5 +1,4 @@
-Thelephora cornucopioides Fr. SPECIES
-=======
+# Thelephora cornucopioides Fr. SPECIES
 
 #### Status
 ACCEPTED

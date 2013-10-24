@@ -1,5 +1,4 @@
-Gastromyces R. Ludw. GENUS
-=======
+# Gastromyces R. Ludw. GENUS
 
 #### Status
 ACCEPTED

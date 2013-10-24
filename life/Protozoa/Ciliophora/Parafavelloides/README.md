@@ -1,5 +1,4 @@
-Parafavelloides GENUS
-=======
+# Parafavelloides GENUS
 
 #### Status
 ACCEPTED

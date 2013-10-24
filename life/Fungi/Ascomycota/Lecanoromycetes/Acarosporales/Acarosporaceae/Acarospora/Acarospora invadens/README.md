@@ -1,5 +1,4 @@
-Acarospora invadens H. Magn. SPECIES
-=======
+# Acarospora invadens H. Magn. SPECIES
 
 #### Status
 ACCEPTED

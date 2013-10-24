@@ -1,5 +1,4 @@
-Meliola scutiae Speg. SPECIES
-=======
+# Meliola scutiae Speg. SPECIES
 
 #### Status
 ACCEPTED

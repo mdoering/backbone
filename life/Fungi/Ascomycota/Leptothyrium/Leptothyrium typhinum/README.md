@@ -1,5 +1,4 @@
-Leptothyrium typhinum Dearn. & House SPECIES
-=======
+# Leptothyrium typhinum Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

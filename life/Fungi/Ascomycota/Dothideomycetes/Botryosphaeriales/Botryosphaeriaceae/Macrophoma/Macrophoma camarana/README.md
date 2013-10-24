@@ -1,5 +1,4 @@
-Macrophoma camarana Traverso & Spessa SPECIES
-=======
+# Macrophoma camarana Traverso & Spessa SPECIES
 
 #### Status
 ACCEPTED

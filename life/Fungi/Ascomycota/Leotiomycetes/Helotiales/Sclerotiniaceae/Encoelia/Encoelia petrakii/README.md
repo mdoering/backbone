@@ -1,5 +1,4 @@
-Encoelia petrakii Gremmen, 1957 SPECIES
-=======
+# Encoelia petrakii Gremmen, 1957 SPECIES
 
 #### Status
 ACCEPTED

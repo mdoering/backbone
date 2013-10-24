@@ -1,5 +1,4 @@
-Cyclogramma viridis SPECIES
-=======
+# Cyclogramma viridis SPECIES
 
 #### Status
 ACCEPTED

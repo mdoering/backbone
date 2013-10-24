@@ -1,5 +1,4 @@
-Gloeosporium debeauxii Roum. SPECIES
-=======
+# Gloeosporium debeauxii Roum. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydnum ellipsosporum Ostrow & Beenken, 2004 SPECIES
-=======
+# Hydnum ellipsosporum Ostrow & Beenken, 2004 SPECIES
 
 #### Status
 ACCEPTED

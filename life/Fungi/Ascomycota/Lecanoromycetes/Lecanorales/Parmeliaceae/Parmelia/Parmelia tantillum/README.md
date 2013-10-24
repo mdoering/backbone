@@ -1,5 +1,4 @@
-Parmelia tantillum Brusse SPECIES
-=======
+# Parmelia tantillum Brusse SPECIES
 
 #### Status
 ACCEPTED

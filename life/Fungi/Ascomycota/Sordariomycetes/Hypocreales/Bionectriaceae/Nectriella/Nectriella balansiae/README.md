@@ -1,5 +1,4 @@
-Nectriella balansiae R.H. Arnold SPECIES
-=======
+# Nectriella balansiae R.H. Arnold SPECIES
 
 #### Status
 ACCEPTED

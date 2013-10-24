@@ -1,14 +1,13 @@
-Pavonia d'Orbigny, 1846 GENUS
-=======
+# Pavonina d'Orbigny, 1826 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Foram. Foss. Vienne, 72.
+Ann. Sci. Nat. , 7 (27), 260.
 
 #### Original name
 null

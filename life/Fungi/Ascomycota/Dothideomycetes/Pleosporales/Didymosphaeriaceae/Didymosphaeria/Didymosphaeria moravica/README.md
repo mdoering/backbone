@@ -1,5 +1,4 @@
-Didymosphaeria moravica Rehm SPECIES
-=======
+# Didymosphaeria moravica Rehm SPECIES
 
 #### Status
 ACCEPTED

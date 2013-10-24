@@ -1,5 +1,4 @@
-Protodontia GENUS
-=======
+# Protodontia GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecidea goudieri Hue SPECIES
-=======
+# Lecidea goudieri Hue SPECIES
 
 #### Status
 ACCEPTED

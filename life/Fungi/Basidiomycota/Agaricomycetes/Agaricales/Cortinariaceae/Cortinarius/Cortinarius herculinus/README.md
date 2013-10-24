@@ -1,5 +1,4 @@
-Cortinarius herculinus Reumaux SPECIES
-=======
+# Cortinarius herculinus Reumaux SPECIES
 
 #### Status
 ACCEPTED

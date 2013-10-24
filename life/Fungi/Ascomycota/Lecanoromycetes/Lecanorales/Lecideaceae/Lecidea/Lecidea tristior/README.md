@@ -1,5 +1,4 @@
-Lecidea tristior Nyl. SPECIES
-=======
+# Lecidea tristior Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Trapeliopsis hainanensis Hertel SPECIES
-=======
+# Trapeliopsis hainanensis Hertel SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps alba Kobayasi & Shimizu SPECIES
-=======
+# Cordyceps alba Kobayasi & Shimizu SPECIES
 
 #### Status
 ACCEPTED

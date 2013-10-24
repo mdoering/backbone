@@ -1,5 +1,4 @@
-Tetraploa scabra Harkn. SPECIES
-=======
+# Tetraploa scabra Harkn. SPECIES
 
 #### Status
 ACCEPTED

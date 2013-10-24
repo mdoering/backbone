@@ -1,5 +1,4 @@
-Trichobolus palmae Bat. & Cavalc. SPECIES
-=======
+# Trichobolus palmae Bat. & Cavalc. SPECIES
 
 #### Status
 ACCEPTED

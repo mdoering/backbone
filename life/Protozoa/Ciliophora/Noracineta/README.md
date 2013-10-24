@@ -1,5 +1,4 @@
-Noracineta Yankovskii, 1978 GENUS
-=======
+# Noracineta Yankovskii, 1978 GENUS
 
 #### Status
 ACCEPTED

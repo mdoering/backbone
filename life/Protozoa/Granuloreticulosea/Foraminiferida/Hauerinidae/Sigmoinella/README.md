@@ -1,5 +1,4 @@
-Sigmoinella Saidova, 1975 GENUS
-=======
+# Sigmoinella Saidova, 1975 GENUS
 
 #### Status
 ACCEPTED

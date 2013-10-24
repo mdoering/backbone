@@ -1,5 +1,4 @@
-Genea balsleyi M.E. Sm. SPECIES
-=======
+# Genea balsleyi M.E. Sm. SPECIES
 
 #### Status
 ACCEPTED

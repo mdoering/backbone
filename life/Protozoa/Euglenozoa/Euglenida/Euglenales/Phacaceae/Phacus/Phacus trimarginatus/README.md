@@ -1,5 +1,4 @@
-Phacus trimarginatus Allorge & Jahn SPECIES
-=======
+# Phacus trimarginatus Allorge & Jahn SPECIES
 
 #### Status
 ACCEPTED

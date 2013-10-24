@@ -1,5 +1,4 @@
-Aschersonia microspora Sacc. SPECIES
-=======
+# Aschersonia microspora Sacc. SPECIES
 
 #### Status
 ACCEPTED

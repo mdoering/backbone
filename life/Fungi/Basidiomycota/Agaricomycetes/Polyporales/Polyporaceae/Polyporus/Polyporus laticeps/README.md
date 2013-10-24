@@ -1,5 +1,4 @@
-Polyporus laticeps Speg. SPECIES
-=======
+# Polyporus laticeps Speg. SPECIES
 
 #### Status
 ACCEPTED

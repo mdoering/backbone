@@ -1,5 +1,4 @@
-Erysiphe indigoferae (H.D. Shin & Y.J. La) U. Braun & S. Takam. SPECIES
-=======
+# Erysiphe indigoferae (H.D. Shin & Y.J. La) U. Braun & S. Takam. SPECIES
 
 #### Status
 ACCEPTED

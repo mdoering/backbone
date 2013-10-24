@@ -1,17 +1,16 @@
-Vermiculariopsiella immersa var. immersa VARIETY
-=======
+# Vermiculariopsiella immersa (Desm.) Bender, 1932 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Mycologia 24(4): 412 (1932)
 
 #### Original name
-Vermiculariopsiella immersa var. immersa
+Excipula immersa Desm., 1857
 
 ### Remarks
 null

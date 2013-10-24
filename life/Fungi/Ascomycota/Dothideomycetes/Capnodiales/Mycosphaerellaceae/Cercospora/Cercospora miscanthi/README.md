@@ -1,5 +1,4 @@
-Cercospora miscanthi Sawada ex Goh & W.H. Hsieh, 1987 SPECIES
-=======
+# Cercospora miscanthi Sawada ex Goh & W.H. Hsieh, 1987 SPECIES
 
 #### Status
 ACCEPTED

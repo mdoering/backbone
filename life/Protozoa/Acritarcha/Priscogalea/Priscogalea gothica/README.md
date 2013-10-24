@@ -1,5 +1,4 @@
-Priscogalea gothica Deunff in Deunff et al., 1961 SPECIES
-=======
+# Priscogalea gothica Deunff in Deunff et al., 1961 SPECIES
 
 #### Status
 ACCEPTED

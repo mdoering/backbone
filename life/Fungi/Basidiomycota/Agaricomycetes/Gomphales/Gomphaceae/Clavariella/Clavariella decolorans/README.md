@@ -1,5 +1,4 @@
-Clavariella decolorans P. Karst. SPECIES
-=======
+# Clavariella decolorans P. Karst. SPECIES
 
 #### Status
 ACCEPTED

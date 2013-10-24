@@ -1,5 +1,4 @@
-Dasyscyphus subciboria (Rodway) Dennis SPECIES
-=======
+# Dasyscyphus subciboria (Rodway) Dennis SPECIES
 
 #### Status
 ACCEPTED

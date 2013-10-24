@@ -1,5 +1,4 @@
-Corynebacterium lipophiloflavum Funke et al., 1997 SPECIES
-=======
+# Corynebacterium lipophiloflavum Funke et al., 1997 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Borrera denudata (Hoffm.) Röhl. SPECIES
-=======
+# Borrera denudata (Hoffm.) Röhl. SPECIES
 
 #### Status
 ACCEPTED

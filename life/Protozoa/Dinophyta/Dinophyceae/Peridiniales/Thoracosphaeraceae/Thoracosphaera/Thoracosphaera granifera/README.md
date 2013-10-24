@@ -1,5 +1,4 @@
-Thoracosphaera granifera D. Fütterer SPECIES
-=======
+# Thoracosphaera granifera D. Fütterer SPECIES
 
 #### Status
 ACCEPTED

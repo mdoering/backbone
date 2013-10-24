@@ -1,5 +1,4 @@
-Leptoglossum uliginosum (Schleich.) Singer SPECIES
-=======
+# Leptoglossum uliginosum (Schleich.) Singer SPECIES
 
 #### Status
 ACCEPTED

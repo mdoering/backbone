@@ -1,5 +1,4 @@
-Cryptosporium lunulatum Bäumler SPECIES
-=======
+# Cryptosporium lunulatum Bäumler SPECIES
 
 #### Status
 ACCEPTED

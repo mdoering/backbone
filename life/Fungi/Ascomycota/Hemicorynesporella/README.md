@@ -1,5 +1,4 @@
-Hemicorynesporella Subram. GENUS
-=======
+# Hemicorynesporella Subram. GENUS
 
 #### Status
 ACCEPTED

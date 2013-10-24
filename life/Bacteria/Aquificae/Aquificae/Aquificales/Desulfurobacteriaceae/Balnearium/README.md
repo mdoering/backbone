@@ -1,5 +1,4 @@
-Balnearium Takai, Nakagawa, Sako & Horikoshi, 2003 GENUS
-=======
+# Balnearium Takai, Nakagawa, Sako & Horikoshi, 2003 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Graphis asterella Vain. SPECIES
-=======
+# Graphis asterella Vain. SPECIES
 
 #### Status
 ACCEPTED

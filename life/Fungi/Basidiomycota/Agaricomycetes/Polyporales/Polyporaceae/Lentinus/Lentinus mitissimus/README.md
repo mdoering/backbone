@@ -1,5 +1,4 @@
-Lentinus mitissimus Bigeard & H. Guill. SPECIES
-=======
+# Lentinus mitissimus Bigeard & H. Guill. SPECIES
 
 #### Status
 ACCEPTED

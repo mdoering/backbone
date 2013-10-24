@@ -1,5 +1,4 @@
-Mazosia dispersella (Vain.) Zahlbr. SPECIES
-=======
+# Mazosia dispersella (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

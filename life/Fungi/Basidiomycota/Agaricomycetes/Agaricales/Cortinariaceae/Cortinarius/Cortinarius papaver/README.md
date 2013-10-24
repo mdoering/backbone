@@ -1,5 +1,4 @@
-Cortinarius papaver Soop, 2001 SPECIES
-=======
+# Cortinarius papaver Soop, 2001 SPECIES
 
 #### Status
 ACCEPTED

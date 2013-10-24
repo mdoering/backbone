@@ -1,5 +1,4 @@
-Astrorhiza furcata Goes, 1896 SPECIES
-=======
+# Astrorhiza furcata Goes, 1896 SPECIES
 
 #### Status
 ACCEPTED

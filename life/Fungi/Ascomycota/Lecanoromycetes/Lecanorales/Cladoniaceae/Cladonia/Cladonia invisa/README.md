@@ -1,5 +1,4 @@
-Cladonia invisa Robbins SPECIES
-=======
+# Cladonia invisa Robbins SPECIES
 
 #### Status
 ACCEPTED

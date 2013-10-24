@@ -1,5 +1,4 @@
-Bifidobacterium suis Matteuzzi et al., 1971 (Approved Lists, 1980) SPECIES
-=======
+# Bifidobacterium suis Matteuzzi et al., 1971 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

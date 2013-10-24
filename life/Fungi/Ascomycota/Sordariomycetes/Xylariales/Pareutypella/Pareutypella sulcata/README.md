@@ -1,5 +1,4 @@
-Pareutypella sulcata Y.M. Ju & J.D. Rogers, 1996 SPECIES
-=======
+# Pareutypella sulcata Y.M. Ju & J.D. Rogers, 1996 SPECIES
 
 #### Status
 ACCEPTED

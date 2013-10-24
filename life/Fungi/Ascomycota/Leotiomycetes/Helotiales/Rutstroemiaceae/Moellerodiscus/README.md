@@ -1,5 +1,4 @@
-Moellerodiscus GENUS
-=======
+# Moellerodiscus GENUS
 
 #### Status
 ACCEPTED

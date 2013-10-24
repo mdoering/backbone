@@ -1,5 +1,4 @@
-Marasmius testaceiceps Murrill SPECIES
-=======
+# Marasmius testaceiceps Murrill SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Armiacineta Yankovskij, 1982 GENUS
-=======
+# Armiacineta Yankovskij, 1982 GENUS
 
 #### Status
 ACCEPTED

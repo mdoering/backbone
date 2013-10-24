@@ -1,5 +1,4 @@
-Pelicothallos Dilcher GENUS
-=======
+# Pelicothallos Dilcher GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hendersonia stagonosporioides var. stagonosporioides VARIETY
-=======
+# Hendersonia stagonosporioides Tassi SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Hendersonia stagonosporioides var. stagonosporioides
+Hendersonia stagonosporioides Tassi
 
 ### Remarks
 null

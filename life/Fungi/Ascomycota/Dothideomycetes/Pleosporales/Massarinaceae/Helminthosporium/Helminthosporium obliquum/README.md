@@ -1,17 +1,16 @@
-Helmisporium obliquum P. Karst. SPECIES
-=======
+# Helminthosporium obliquum P. Karst. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Hedwigia 29: 272 (1890)
 
 #### Original name
-Helmisporium obliquum P. Karst.
+Helminthosporium obliquum P. Karst.
 
 ### Remarks
 null

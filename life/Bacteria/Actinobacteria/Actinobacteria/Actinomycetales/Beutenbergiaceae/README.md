@@ -1,5 +1,4 @@
-Beutenbergiaceae FAMILY
-=======
+# Beutenbergiaceae FAMILY
 
 #### Status
 ACCEPTED

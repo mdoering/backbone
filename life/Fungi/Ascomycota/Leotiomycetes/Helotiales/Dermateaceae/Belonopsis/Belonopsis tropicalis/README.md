@@ -1,5 +1,4 @@
-Belonopsis tropicalis Rick SPECIES
-=======
+# Belonopsis tropicalis Rick SPECIES
 
 #### Status
 ACCEPTED

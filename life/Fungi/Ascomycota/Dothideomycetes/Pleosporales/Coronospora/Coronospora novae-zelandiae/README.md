@@ -1,5 +1,4 @@
-Coronospora novae-zelandiae Matsush., 1985 SPECIES
-=======
+# Coronospora novae-zelandiae Matsush., 1985 SPECIES
 
 #### Status
 ACCEPTED

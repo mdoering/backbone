@@ -1,5 +1,4 @@
-Caloplaca flavida (Müll. Arg.) Zahlbr. SPECIES
-=======
+# Caloplaca flavida (Müll. Arg.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

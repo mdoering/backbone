@@ -1,5 +1,4 @@
-Hystrichosphaeridium eoinodes A. Eisenack SPECIES
-=======
+# Hystrichosphaeridium eoinodes A. Eisenack SPECIES
 
 #### Status
 ACCEPTED

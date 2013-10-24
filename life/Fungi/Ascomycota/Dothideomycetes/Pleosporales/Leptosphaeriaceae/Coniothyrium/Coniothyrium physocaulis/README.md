@@ -1,5 +1,4 @@
-Coniothyrium physocaulis Bubák & Picb. SPECIES
-=======
+# Coniothyrium physocaulis Bubák & Picb. SPECIES
 
 #### Status
 ACCEPTED

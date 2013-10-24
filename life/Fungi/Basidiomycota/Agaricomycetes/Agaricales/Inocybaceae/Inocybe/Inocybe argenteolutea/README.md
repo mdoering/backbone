@@ -1,5 +1,4 @@
-Inocybe argenteolutea Vauras SPECIES
-=======
+# Inocybe argenteolutea Vauras SPECIES
 
 #### Status
 ACCEPTED

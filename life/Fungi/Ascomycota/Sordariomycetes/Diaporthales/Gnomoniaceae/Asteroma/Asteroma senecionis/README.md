@@ -1,5 +1,4 @@
-Asteroma senecionis Ellis & Everh. SPECIES
-=======
+# Asteroma senecionis Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

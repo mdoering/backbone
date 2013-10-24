@@ -1,5 +1,4 @@
-Nucellosphaera A.M. Stanevitch in T.V. Jankauskas, 1989 GENUS
-=======
+# Nucellosphaera A.M. Stanevitch in T.V. Jankauskas, 1989 GENUS
 
 #### Status
 ACCEPTED

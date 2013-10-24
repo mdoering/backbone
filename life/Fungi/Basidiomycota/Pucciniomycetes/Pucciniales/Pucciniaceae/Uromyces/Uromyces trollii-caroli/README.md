@@ -1,5 +1,4 @@
-Uromyces trollii-caroli Ulbr. SPECIES
-=======
+# Uromyces trollii-caroli Ulbr. SPECIES
 
 #### Status
 ACCEPTED

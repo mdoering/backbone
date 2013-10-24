@@ -1,5 +1,4 @@
-Sphaerella major Auersw. SPECIES
-=======
+# Sphaerella major Auersw. SPECIES
 
 #### Status
 ACCEPTED

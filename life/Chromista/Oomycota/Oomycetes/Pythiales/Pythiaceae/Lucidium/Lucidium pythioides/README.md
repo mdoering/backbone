@@ -1,5 +1,4 @@
-Lucidium pythioides Lohde SPECIES
-=======
+# Lucidium pythioides Lohde SPECIES
 
 #### Status
 ACCEPTED

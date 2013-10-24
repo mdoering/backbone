@@ -1,5 +1,4 @@
-Pluteus diptychocystis Singer SPECIES
-=======
+# Pluteus diptychocystis Singer SPECIES
 
 #### Status
 ACCEPTED

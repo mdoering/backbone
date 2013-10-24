@@ -1,17 +1,16 @@
-Cantharellus miniatus Fayod, 1893 SPECIES
-=======
+# Cantharellus subdenticulatus Mont., 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Annals R. Accad. Agric. Torino 35: 82 (1893)
+Annls Sci. Nat. , Bot. , sér. 4 14: 181 (1860)
 
 #### Original name
-Cantharellus miniatus Fayod, 1893
+Cantharellus subdenticulatus Mont., 1860
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Eupythium sadebeckianum (Wittm.) Nieuwl. SPECIES
-=======
+# Eupythium sadebeckianum (Wittm.) Nieuwl. SPECIES
 
 #### Status
 ACCEPTED

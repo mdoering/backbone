@@ -1,5 +1,4 @@
-Valsa centripeta Fr. SPECIES
-=======
+# Valsa centripeta Fr. SPECIES
 
 #### Status
 ACCEPTED

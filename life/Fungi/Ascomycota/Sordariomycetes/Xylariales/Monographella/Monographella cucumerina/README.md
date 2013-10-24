@@ -1,17 +1,16 @@
-Fusarium tabacinum (J.F.H. Beyma) W. Gams, 1968 SPECIES
-=======
+# Monographella cucumerina (Lindf.) Arx, 1984 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-in Gams & Gerlagh, Persoonia 5(2): 179 (1968)
+Trans. Br. mycol. Soc. 83(2): 374 (1984)
 
 #### Original name
-Cephalosporium tabacinum J.F.H. Beyma, 1933
+Venturia cucumerina Lindf.
 
 ### Remarks
 null

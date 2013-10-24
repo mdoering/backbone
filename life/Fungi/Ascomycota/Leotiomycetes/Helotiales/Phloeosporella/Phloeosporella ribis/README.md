@@ -1,5 +1,4 @@
-Phloeosporella ribis (Davis) B. Sutton, Crous & Shamoun SPECIES
-=======
+# Phloeosporella ribis (Davis) B. Sutton, Crous & Shamoun SPECIES
 
 #### Status
 ACCEPTED

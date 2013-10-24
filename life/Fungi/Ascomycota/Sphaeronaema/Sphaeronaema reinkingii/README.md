@@ -1,5 +1,4 @@
-Sphaeronaema reinkingii Sacc. SPECIES
-=======
+# Sphaeronaema reinkingii Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Uvigerina proboscidea SPECIES
-=======
+# Uvigerina proboscidea SPECIES
 
 #### Status
 ACCEPTED

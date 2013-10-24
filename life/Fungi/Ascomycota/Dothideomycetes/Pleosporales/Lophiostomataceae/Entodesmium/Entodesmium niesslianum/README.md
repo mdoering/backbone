@@ -1,17 +1,16 @@
-Leptosphaeria niessliana f. niessliana FORM
-=======
+# Entodesmium niesslianum (Rabenh. ex Niessl) L. Holm, 1957 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Verh. nat. Ver. Brünn 10: 29, 179 (1872)
+Symb. bot. upsal. 14(no. 3): 133 (1957)
 
 #### Original name
-Leptosphaeria niessliana f. niessliana
+Leptosphaeria niessliana Rabenh., 1872
 
 ### Remarks
 null

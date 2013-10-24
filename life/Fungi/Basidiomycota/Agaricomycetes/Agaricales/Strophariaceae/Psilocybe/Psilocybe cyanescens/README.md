@@ -1,5 +1,4 @@
-Psilocybe cyanescens Wakef., 1946 SPECIES
-=======
+# Psilocybe cyanescens Wakef., 1946 SPECIES
 
 #### Status
 ACCEPTED

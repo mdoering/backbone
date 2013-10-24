@@ -1,5 +1,4 @@
-Lactarius floridanus var. floridanus VARIETY
-=======
+# Lactarius floridanus Beardslee & Burl. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycologia 32: 575 (1940)
 
 #### Original name
-Lactarius floridanus var. floridanus
+Lactarius floridanus Beardslee & Burl.
 
 ### Remarks
 null

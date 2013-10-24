@@ -1,5 +1,4 @@
-Erysiphe fungicola R. Schulz SPECIES
-=======
+# Erysiphe fungicola R. Schulz SPECIES
 
 #### Status
 ACCEPTED

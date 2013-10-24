@@ -1,5 +1,4 @@
-Klebahnia pressa (Arthur & Holw.) Arthur SPECIES
-=======
+# Klebahnia pressa (Arthur & Holw.) Arthur SPECIES
 
 #### Status
 ACCEPTED

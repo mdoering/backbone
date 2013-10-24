@@ -1,5 +1,4 @@
-Corticium albovirescens Petch SPECIES
-=======
+# Corticium albovirescens Petch SPECIES
 
 #### Status
 ACCEPTED

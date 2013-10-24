@@ -1,17 +1,16 @@
-Parmelia physodes var. compacta Müll. Arg. VARIETY
-=======
+# Hypogymnia enteromorphoides Elix SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brunonia 2(2): 190 (1980)
 
 #### Original name
-Parmelia physodes var. compacta Müll. Arg.
+Hypogymnia enteromorphoides Elix
 
 ### Remarks
 null

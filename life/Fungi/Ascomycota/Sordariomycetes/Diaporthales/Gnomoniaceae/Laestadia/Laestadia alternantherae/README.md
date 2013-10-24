@@ -1,5 +1,4 @@
-Laestadia alternantherae T.S. Ramakr. & Sundaram SPECIES
-=======
+# Laestadia alternantherae T.S. Ramakr. & Sundaram SPECIES
 
 #### Status
 ACCEPTED

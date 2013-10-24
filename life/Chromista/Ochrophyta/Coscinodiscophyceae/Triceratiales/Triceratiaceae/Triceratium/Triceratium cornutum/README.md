@@ -1,5 +1,4 @@
-Triceratium cornutum Greville SPECIES
-=======
+# Triceratium cornutum Greville SPECIES
 
 #### Status
 ACCEPTED

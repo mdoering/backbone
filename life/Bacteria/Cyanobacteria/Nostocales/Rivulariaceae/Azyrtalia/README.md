@@ -1,5 +1,4 @@
-Azyrtalia A.G. Vologdin & N.A. Drozdova, 1969 GENUS
-=======
+# Azyrtalia A.G. Vologdin & N.A. Drozdova, 1969 GENUS
 
 #### Status
 ACCEPTED

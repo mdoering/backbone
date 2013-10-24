@@ -1,17 +1,16 @@
-Septoria bromicola Unamuno, 1932 SPECIES
-=======
+# Septoria smithiana Trotter, 1931 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 25: 427 (1931)
 
 #### Original name
-Septoria bromicola Unamuno, 1932
+Septoria smithiana Trotter, 1931
 
 ### Remarks
 null

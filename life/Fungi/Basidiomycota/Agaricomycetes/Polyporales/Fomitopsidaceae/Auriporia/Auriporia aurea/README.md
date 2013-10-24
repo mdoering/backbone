@@ -1,14 +1,13 @@
-Poria aurea Peck, 1890 SPECIES
-=======
+# Auriporia aurea (Peck) Ryvarden, 1973 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Ann. Rep. N. Y. St. Mus. 43: 67 [reprint page 21] (1890)
+Norw. Jl Bot. 20: 2 (1973)
 
 #### Original name
 Poria aurea Peck, 1890

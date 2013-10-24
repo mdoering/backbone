@@ -1,17 +1,16 @@
-Glomus segmentatus Trappe, Spooner & Ivory SPECIES
-=======
+# Glomus segmentatum Trappe, Spooner & Ivory, 1979 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+in Trappe, Trans. Br. mycol. Soc. 73(2): 362 (1979)
 
 #### Original name
-Glomus segmentatus Trappe, Spooner & Ivory
+Glomus segmentatum Trappe, Spooner & Ivory, 1979
 
 ### Remarks
 null

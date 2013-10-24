@@ -1,5 +1,4 @@
-Gasparrinia alcarum (Poelt) Oxner SPECIES
-=======
+# Gasparrinia alcarum (Poelt) Oxner SPECIES
 
 #### Status
 ACCEPTED

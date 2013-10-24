@@ -1,5 +1,4 @@
-Rhagidiasporidium svalbardense Thor SPECIES
-=======
+# Rhagidiasporidium svalbardense Thor SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peltigera sibirica Gyeln. SPECIES
-=======
+# Peltigera sibirica Gyeln. SPECIES
 
 #### Status
 ACCEPTED

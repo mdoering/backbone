@@ -1,5 +1,4 @@
-Polyporus albojavensis Lloyd SPECIES
-=======
+# Polyporus albojavensis Lloyd SPECIES
 
 #### Status
 ACCEPTED

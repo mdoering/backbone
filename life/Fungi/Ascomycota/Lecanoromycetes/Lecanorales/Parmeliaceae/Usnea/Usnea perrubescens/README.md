@@ -1,5 +1,4 @@
-Usnea perrubescens (Vain.) Zahlbr. SPECIES
-=======
+# Usnea perrubescens (Vain.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

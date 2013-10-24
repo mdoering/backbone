@@ -1,5 +1,4 @@
-Cortinarius parasuaveolens (Bon & Trescol) Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius parasuaveolens (Bon & Trescol) Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

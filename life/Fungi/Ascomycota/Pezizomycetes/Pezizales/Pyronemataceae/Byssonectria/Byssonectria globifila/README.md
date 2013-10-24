@@ -1,5 +1,4 @@
-Byssonectria globifila Matsush. SPECIES
-=======
+# Byssonectria globifila Matsush. SPECIES
 
 #### Status
 ACCEPTED

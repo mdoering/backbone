@@ -1,5 +1,4 @@
-Peniophora effugiens (Bourdot & Galzin) Bourdot & Galzin SPECIES
-=======
+# Peniophora effugiens (Bourdot & Galzin) Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

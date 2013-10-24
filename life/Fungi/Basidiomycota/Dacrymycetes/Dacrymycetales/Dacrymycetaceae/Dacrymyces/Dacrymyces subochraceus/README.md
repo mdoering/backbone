@@ -1,5 +1,4 @@
-Dacrymyces subochraceus (Peck) Burt SPECIES
-=======
+# Dacrymyces subochraceus (Peck) Burt SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Dictyographa gracillima (Kremp.) Darb. SPECIES
-=======
+# Dictyographa gracillima (Kremp.) Darb. SPECIES
 
 #### Status
 ACCEPTED

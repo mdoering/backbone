@@ -1,5 +1,4 @@
-Microphoma GENUS
-=======
+# Microphoma GENUS
 
 #### Status
 ACCEPTED

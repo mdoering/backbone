@@ -1,5 +1,4 @@
-Celidiopsis sphyridii J. Steiner SPECIES
-=======
+# Celidiopsis sphyridii J. Steiner SPECIES
 
 #### Status
 ACCEPTED

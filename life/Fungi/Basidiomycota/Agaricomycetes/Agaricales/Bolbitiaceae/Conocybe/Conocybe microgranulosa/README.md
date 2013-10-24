@@ -1,5 +1,4 @@
-Conocybe microgranulosa Batyrova SPECIES
-=======
+# Conocybe microgranulosa Batyrova SPECIES
 
 #### Status
 ACCEPTED

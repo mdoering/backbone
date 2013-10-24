@@ -1,5 +1,4 @@
-Macrophoma neottopteridis Sawada SPECIES
-=======
+# Macrophoma neottopteridis Sawada SPECIES
 
 #### Status
 ACCEPTED

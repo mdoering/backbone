@@ -1,17 +1,16 @@
-Phlebia sordida var. sordida VARIETY
-=======
+# Phlebia sordida Rick, 1938 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Brotéria 7: 6 (1938)
 
 #### Original name
-Phlebia sordida var. sordida
+Phlebia sordida Rick, 1938
 
 ### Remarks
 null

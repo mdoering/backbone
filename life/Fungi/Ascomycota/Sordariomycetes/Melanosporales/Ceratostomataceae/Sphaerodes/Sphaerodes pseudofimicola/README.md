@@ -1,5 +1,4 @@
-Sphaerodes pseudofimicola Stchigel & Guarro SPECIES
-=======
+# Sphaerodes pseudofimicola Stchigel & Guarro SPECIES
 
 #### Status
 ACCEPTED

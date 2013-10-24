@@ -1,5 +1,4 @@
-Melanoleuca lapataiae var. lapataiae VARIETY
-=======
+# Melanoleuca lapataiae Raithelh. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Metrodiana 2(4): XXVI (1971)
 
 #### Original name
-Melanoleuca lapataiae var. lapataiae
+Melanoleuca lapataiae Raithelh.
 
 ### Remarks
 null

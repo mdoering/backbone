@@ -1,5 +1,4 @@
-Evernia lethariiformis (Motyka) M. Choisy SPECIES
-=======
+# Evernia lethariiformis (Motyka) M. Choisy SPECIES
 
 #### Status
 ACCEPTED

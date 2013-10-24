@@ -1,5 +1,4 @@
-Chaetoceros cochleus F. Schütt, 1895 SPECIES
-=======
+# Chaetoceros cochleus F. Schütt, 1895 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Psoroma benacense A. Massal. SPECIES
-=======
+# Psoroma benacense A. Massal. SPECIES
 
 #### Status
 ACCEPTED

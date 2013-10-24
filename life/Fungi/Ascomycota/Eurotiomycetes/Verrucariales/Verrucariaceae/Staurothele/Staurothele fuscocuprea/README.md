@@ -1,5 +1,4 @@
-Staurothele fuscocuprea f. fuscocuprea FORM
-=======
+# Staurothele fuscocuprea (Nyl.) Zschacke SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Staurothele fuscocuprea f. fuscocuprea
+Verrucaria cuprea var. fuscocuprea Nyl.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Sommierella cossyrensis Borzi SPECIES
-=======
+# Sommierella cossyrensis Borzi SPECIES
 
 #### Status
 ACCEPTED

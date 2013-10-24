@@ -1,5 +1,4 @@
-Gigantea bulbosa Stackhouse SPECIES
-=======
+# Gigantea bulbosa Stackhouse SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Gloeosoma capensis (Lloyd) Lloyd, 1921 SPECIES
-=======
+# Aleurocystis capensis (Lloyd) Lloyd, 1921 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

@@ -1,5 +1,4 @@
-Biatora ochrocarpa Körb. SPECIES
-=======
+# Biatora ochrocarpa Körb. SPECIES
 
 #### Status
 ACCEPTED

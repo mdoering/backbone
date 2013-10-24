@@ -1,5 +1,4 @@
-Laterispora Uecker, W.A. Ayers & P.B. Adams GENUS
-=======
+# Laterispora Uecker, W.A. Ayers & P.B. Adams GENUS
 
 #### Status
 ACCEPTED

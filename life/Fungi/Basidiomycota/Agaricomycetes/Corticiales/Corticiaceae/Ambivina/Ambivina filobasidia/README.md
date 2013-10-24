@@ -1,5 +1,4 @@
-Ambivina filobasidia Katz, 1974 SPECIES
-=======
+# Ambivina filobasidia Katz, 1974 SPECIES
 
 #### Status
 ACCEPTED

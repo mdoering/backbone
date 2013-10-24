@@ -1,5 +1,4 @@
-Afrothigma katashimai (Puytorac, 1968) Jankowski, 2007 SPECIES
-=======
+# Afrothigma katashimai (Puytorac, 1968) Jankowski, 2007 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sorosphaera Brady, 1879 GENUS
-=======
+# Sorosphaera Brady, 1879 GENUS
 
 #### Status
 ACCEPTED

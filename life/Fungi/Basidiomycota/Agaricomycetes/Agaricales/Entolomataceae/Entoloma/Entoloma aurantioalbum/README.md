@@ -1,5 +1,4 @@
-Entoloma aurantioalbum Corner & E. Horak SPECIES
-=======
+# Entoloma aurantioalbum Corner & E. Horak SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Navicella juniperi (Fabre) Kuntze SPECIES
-=======
+# Navicella juniperi (Fabre) Kuntze SPECIES
 
 #### Status
 ACCEPTED

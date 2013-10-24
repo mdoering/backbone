@@ -1,5 +1,4 @@
-Hygrophorus subpungens A.H. Sm. & Hesler SPECIES
-=======
+# Hygrophorus subpungens A.H. Sm. & Hesler SPECIES
 
 #### Status
 ACCEPTED

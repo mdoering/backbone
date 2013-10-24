@@ -1,5 +1,4 @@
-Opegrapha calva Fée SPECIES
-=======
+# Opegrapha calva Fée SPECIES
 
 #### Status
 ACCEPTED

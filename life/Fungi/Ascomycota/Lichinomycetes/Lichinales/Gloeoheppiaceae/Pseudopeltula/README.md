@@ -1,5 +1,4 @@
-Pseudopeltula Henssen GENUS
-=======
+# Pseudopeltula Henssen GENUS
 
 #### Status
 ACCEPTED

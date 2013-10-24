@@ -1,5 +1,4 @@
-Russula oreina Singer, 1938 SPECIES
-=======
+# Russula oreina Singer, 1938 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phoma periplocae Brunaud SPECIES
-=======
+# Phoma periplocae Brunaud SPECIES
 
 #### Status
 ACCEPTED

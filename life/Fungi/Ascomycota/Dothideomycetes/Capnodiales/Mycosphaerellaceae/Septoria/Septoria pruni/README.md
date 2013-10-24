@@ -1,5 +1,4 @@
-Septoria pruni (Syd.) Höhn. SPECIES
-=======
+# Septoria pruni (Syd.) Höhn. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaerobolus rosaceus var. rosaceus VARIETY
-=======
+# Sphaerobolus rosaceus Tode SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Sphaerobolus rosaceus var. rosaceus
+Sphaerobolus rosaceus Tode
 
 ### Remarks
 null

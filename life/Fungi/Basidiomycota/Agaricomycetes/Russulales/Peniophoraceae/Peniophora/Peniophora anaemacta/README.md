@@ -1,5 +1,4 @@
-Peniophora anaemacta Bourdot & Galzin SPECIES
-=======
+# Peniophora anaemacta Bourdot & Galzin SPECIES
 
 #### Status
 ACCEPTED

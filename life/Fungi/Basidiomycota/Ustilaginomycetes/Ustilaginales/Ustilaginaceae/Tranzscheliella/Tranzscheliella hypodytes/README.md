@@ -1,14 +1,13 @@
-Ustilago hypodytes var. hypodytes VARIETY
-=======
+# Tranzscheliella hypodytes (Schltdl.) Vánky & McKenzie, 2002 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Syst. mycol. (Lundae) 3(2): 518 (1832)
+Fungal Diversity Res. Ser. (Hong Kong) 8: 156 (2002)
 
 #### Original name
 Caeoma hypodytes Schltdl., 1824

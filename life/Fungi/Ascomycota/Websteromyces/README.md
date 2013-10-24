@@ -1,5 +1,4 @@
-Websteromyces W.A. Baker & Partridge GENUS
-=======
+# Websteromyces W.A. Baker & Partridge GENUS
 
 #### Status
 ACCEPTED

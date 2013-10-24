@@ -1,5 +1,4 @@
-Puccinia takikibicola Morim. SPECIES
-=======
+# Puccinia takikibicola Morim. SPECIES
 
 #### Status
 ACCEPTED

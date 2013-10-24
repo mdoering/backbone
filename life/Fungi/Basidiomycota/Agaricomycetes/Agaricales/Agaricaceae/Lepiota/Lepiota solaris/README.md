@@ -1,5 +1,4 @@
-Lepiota solaris Chalange SPECIES
-=======
+# Lepiota solaris Chalange SPECIES
 
 #### Status
 ACCEPTED

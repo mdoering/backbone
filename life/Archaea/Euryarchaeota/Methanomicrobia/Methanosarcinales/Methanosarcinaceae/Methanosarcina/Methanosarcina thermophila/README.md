@@ -1,5 +1,4 @@
-Methanosarcina thermophila Zinder et al., 1985 SPECIES
-=======
+# Methanosarcina thermophila Zinder et al., 1985 SPECIES
 
 #### Status
 ACCEPTED

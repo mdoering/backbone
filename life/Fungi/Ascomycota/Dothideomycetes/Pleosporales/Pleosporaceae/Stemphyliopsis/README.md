@@ -1,5 +1,4 @@
-Stemphyliopsis A.L. Smith, 1901 GENUS
-=======
+# Stemphyliopsis A.L. Smith, 1901 GENUS
 
 #### Status
 ACCEPTED

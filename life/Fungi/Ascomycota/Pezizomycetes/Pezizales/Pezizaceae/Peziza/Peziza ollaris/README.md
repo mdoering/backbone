@@ -1,5 +1,4 @@
-Peziza ollaris Pers. SPECIES
-=======
+# Peziza ollaris Pers. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Patellaria crenata DC. SPECIES
-=======
+# Patellaria crenata DC. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Endoxyla lineata (Alb. & Schwein.) Cooke SPECIES
-=======
+# Endoxyla lineata (Alb. & Schwein.) Cooke SPECIES
 
 #### Status
 ACCEPTED

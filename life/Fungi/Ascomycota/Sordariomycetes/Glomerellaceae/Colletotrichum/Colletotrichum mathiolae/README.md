@@ -1,5 +1,4 @@
-Colletotrichum mathiolae Sandu SPECIES
-=======
+# Colletotrichum mathiolae Sandu SPECIES
 
 #### Status
 ACCEPTED

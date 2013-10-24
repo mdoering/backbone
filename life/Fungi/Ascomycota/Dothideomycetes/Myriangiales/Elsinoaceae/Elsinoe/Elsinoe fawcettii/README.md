@@ -1,5 +1,4 @@
-Elsinoe fawcettii Bitanc. & Jenkins, 1936 SPECIES
-=======
+# Elsinoe fawcettii Bitanc. & Jenkins, 1936 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Poria archeri (Berk.) Sacc. SPECIES
-=======
+# Poria archeri (Berk.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

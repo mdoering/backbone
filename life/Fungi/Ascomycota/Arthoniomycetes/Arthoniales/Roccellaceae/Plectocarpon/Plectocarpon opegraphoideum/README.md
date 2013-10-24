@@ -1,5 +1,4 @@
-Plectocarpon opegraphoideum Christnach, Ertz, Diederich & Wedin SPECIES
-=======
+# Plectocarpon opegraphoideum Christnach, Ertz, Diederich & Wedin SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Bacteroides pectinophilus Jensen & Canale-Parola, 1987 SPECIES
-=======
+# Bacteroides pectinophilus Jensen & Canale-Parola, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Anthracothecium pachycheilum (Tuck.) Zahlbr. SPECIES
-=======
+# Anthracothecium pachycheilum (Tuck.) Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

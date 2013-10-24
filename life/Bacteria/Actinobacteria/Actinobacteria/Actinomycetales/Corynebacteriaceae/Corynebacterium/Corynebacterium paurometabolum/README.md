@@ -1,5 +1,4 @@
-Corynebacterium paurometabolum Steinhaus, 1941 SPECIES
-=======
+# Corynebacterium paurometabolum Steinhaus, 1941 SPECIES
 
 #### Status
 ACCEPTED

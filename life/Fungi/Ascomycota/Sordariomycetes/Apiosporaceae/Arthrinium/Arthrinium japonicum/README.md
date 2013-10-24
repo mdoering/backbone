@@ -1,5 +1,4 @@
-Arthrinium japonicum Pollack & C.R. Benj. SPECIES
-=======
+# Arthrinium japonicum Pollack & C.R. Benj. SPECIES
 
 #### Status
 ACCEPTED

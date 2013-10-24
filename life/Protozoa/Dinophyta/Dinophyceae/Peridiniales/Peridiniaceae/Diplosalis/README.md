@@ -1,5 +1,4 @@
-Diplosalis Bergh, 1904 GENUS
-=======
+# Diplosalis Bergh, 1904 GENUS
 
 #### Status
 ACCEPTED

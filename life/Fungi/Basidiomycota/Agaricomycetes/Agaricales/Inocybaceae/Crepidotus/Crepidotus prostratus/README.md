@@ -1,5 +1,4 @@
-Crepidotus prostratus Cleland SPECIES
-=======
+# Crepidotus prostratus Cleland SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Phaeotrametes Lloyd ex J.E. Wright GENUS
-=======
+# Phaeotrametes Lloyd ex J.E. Wright GENUS
 
 #### Status
 ACCEPTED

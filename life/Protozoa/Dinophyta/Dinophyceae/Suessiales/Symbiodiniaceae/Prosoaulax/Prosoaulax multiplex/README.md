@@ -1,8 +1,7 @@
-Amphidinium lohammarii Skuja, 1956 SPECIES
-=======
+# Prosoaulax multiplex (J.Schiller) Calado & Moestrup, 2005 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

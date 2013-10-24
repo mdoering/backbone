@@ -1,5 +1,4 @@
-Tricholoma subisabellinum (Murrill) Sacc. & Trotter SPECIES
-=======
+# Tricholoma subisabellinum (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

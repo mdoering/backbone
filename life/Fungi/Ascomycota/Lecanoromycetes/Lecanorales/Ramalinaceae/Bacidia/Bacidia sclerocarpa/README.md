@@ -1,5 +1,4 @@
-Bacidia sclerocarpa Zahlbr. SPECIES
-=======
+# Bacidia sclerocarpa Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

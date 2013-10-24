@@ -1,5 +1,4 @@
-Nectria fructicola Henn. & E. Nyman SPECIES
-=======
+# Nectria fructicola Henn. & E. Nyman SPECIES
 
 #### Status
 ACCEPTED

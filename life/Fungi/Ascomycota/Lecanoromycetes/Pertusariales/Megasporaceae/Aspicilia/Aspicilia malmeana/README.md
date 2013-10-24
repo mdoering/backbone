@@ -1,5 +1,4 @@
-Aspicilia malmeana (H. Magn.) Ozenda & Clauzade SPECIES
-=======
+# Aspicilia malmeana (H. Magn.) Ozenda & Clauzade SPECIES
 
 #### Status
 ACCEPTED

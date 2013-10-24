@@ -1,5 +1,4 @@
-Lecidea laetebunda Hue SPECIES
-=======
+# Lecidea laetebunda Hue SPECIES
 
 #### Status
 ACCEPTED

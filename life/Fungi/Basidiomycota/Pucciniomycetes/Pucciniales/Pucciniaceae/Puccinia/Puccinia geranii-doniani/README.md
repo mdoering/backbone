@@ -1,5 +1,4 @@
-Puccinia geranii-doniani J.Y. Zhuang & S.X. Wei SPECIES
-=======
+# Puccinia geranii-doniani J.Y. Zhuang & S.X. Wei SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sphaeria ericina Tubeuf SPECIES
-=======
+# Sphaeria ericina Tubeuf SPECIES
 
 #### Status
 ACCEPTED

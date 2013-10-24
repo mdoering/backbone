@@ -1,17 +1,16 @@
-Pocillaria vellerea (Berk. & M.A. Curtis) Kuntze, 1891 SPECIES
-=======
+# Lentinus scleropus (Pers.) Fr., 1836 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Syn. generis Lentinus 10 (1836)
 
 #### Original name
-Lentinus vellereus Berk. & M.A. Curtis, 1868
+Agaricus scleropus Pers., 1827
 
 ### Remarks
 null

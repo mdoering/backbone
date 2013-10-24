@@ -1,17 +1,16 @@
-Scopulariopsis brevicaulis var. brevicaulis VARIETY
-=======
+# Microascus brevicaulis S.P. Abbott, 1998 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Bull. Soc. mycol. Fr. 23: 99 (1907)
+in Abbott, Sigler & Currah, Mycologia 90(2): 298 (1998)
 
 #### Original name
-Scopulariopsis brevicaulis var. brevicaulis
+Microascus brevicaulis S.P. Abbott, 1998
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Penicilliopsis flavidus (Berk. & Broome) A.H.S. Br. SPECIES
-=======
+# Penicilliopsis flavidus (Berk. & Broome) A.H.S. Br. SPECIES
 
 #### Status
 ACCEPTED

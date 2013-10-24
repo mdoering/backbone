@@ -1,5 +1,4 @@
-Botryobasidium pilosellum J. Erikss., 1958 SPECIES
-=======
+# Botryobasidium pilosellum J. Erikss., 1958 SPECIES
 
 #### Status
 ACCEPTED

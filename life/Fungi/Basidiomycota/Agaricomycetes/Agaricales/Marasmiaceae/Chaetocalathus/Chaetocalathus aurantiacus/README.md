@@ -1,5 +1,4 @@
-Chaetocalathus aurantiacus Singer SPECIES
-=======
+# Chaetocalathus aurantiacus Singer SPECIES
 
 #### Status
 ACCEPTED

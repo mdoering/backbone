@@ -1,5 +1,4 @@
-Rhodophyllus cubisporus Pat. SPECIES
-=======
+# Rhodophyllus cubisporus Pat. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Helminthocarpon album D.D. Awasthi & S.R. Singh SPECIES
-=======
+# Helminthocarpon album D.D. Awasthi & S.R. Singh SPECIES
 
 #### Status
 ACCEPTED

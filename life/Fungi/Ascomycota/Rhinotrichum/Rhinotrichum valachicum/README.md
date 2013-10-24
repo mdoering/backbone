@@ -1,5 +1,4 @@
-Rhinotrichum valachicum Georgescu, Teodoru & Bontea SPECIES
-=======
+# Rhinotrichum valachicum Georgescu, Teodoru & Bontea SPECIES
 
 #### Status
 ACCEPTED

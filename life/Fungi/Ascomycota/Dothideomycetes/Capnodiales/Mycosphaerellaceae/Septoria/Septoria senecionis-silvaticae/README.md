@@ -1,17 +1,16 @@
-Septoria senecionis-silvatici P. Syd. SPECIES
-=======
+# Septoria senecionis-silvaticae P. Syd., 1899 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Hedwigia, Beibl. 38: 139 (1899)
 
 #### Original name
-Septoria senecionis-silvatici P. Syd.
+Septoria senecionis-silvaticae P. Syd., 1899
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lactarius mediterraneensis f. mediterraneensis FORM
-=======
+# Lactarius mediterraneensis Llistos. & Bellù SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Mycotaxon 57: 176 (1996)
 
 #### Original name
-Lactarius mediterraneensis f. mediterraneensis
+Lactarius mediterraneensis Llistos. & Bellù
 
 ### Remarks
 null

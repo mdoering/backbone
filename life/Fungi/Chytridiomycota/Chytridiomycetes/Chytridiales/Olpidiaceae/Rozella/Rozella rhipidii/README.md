@@ -1,5 +1,4 @@
-Rozella rhipidii ined. SPECIES
-=======
+# Rozella rhipidii ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria glaucovirens Grummann SPECIES
-=======
+# Verrucaria glaucovirens Grummann SPECIES
 
 #### Status
 ACCEPTED

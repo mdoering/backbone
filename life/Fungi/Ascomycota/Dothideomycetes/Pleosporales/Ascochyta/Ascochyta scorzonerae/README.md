@@ -1,5 +1,4 @@
-Ascochyta scorzonerae Rostr. SPECIES
-=======
+# Ascochyta scorzonerae Rostr. SPECIES
 
 #### Status
 ACCEPTED

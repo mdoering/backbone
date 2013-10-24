@@ -1,17 +1,16 @@
-Russula hixsoni Murrill SPECIES
-=======
+# Russula hixsonii Murrill SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Lloydia 6: 212 (1943)
 
 #### Original name
-Russula hixsoni Murrill
+Russula hixsonii Murrill
 
 ### Remarks
 null

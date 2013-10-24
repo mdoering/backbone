@@ -1,5 +1,4 @@
-Byssoloma aeruginescens Vezda SPECIES
-=======
+# Byssoloma aeruginescens Vezda SPECIES
 
 #### Status
 ACCEPTED

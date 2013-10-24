@@ -1,5 +1,4 @@
-Amphiacantha ovalis J.W. Stubblefield SPECIES
-=======
+# Amphiacantha ovalis J.W. Stubblefield SPECIES
 
 #### Status
 ACCEPTED

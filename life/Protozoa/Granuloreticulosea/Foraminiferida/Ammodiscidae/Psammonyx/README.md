@@ -1,5 +1,4 @@
-Psammonyx Döderlein, 1897 GENUS
-=======
+# Psammonyx Döderlein, 1897 GENUS
 
 #### Status
 ACCEPTED

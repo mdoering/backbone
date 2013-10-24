@@ -1,5 +1,4 @@
-Cortinarius campinaranae Singer & I.J. Araujo SPECIES
-=======
+# Cortinarius campinaranae Singer & I.J. Araujo SPECIES
 
 #### Status
 ACCEPTED

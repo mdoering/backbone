@@ -1,5 +1,4 @@
-Pholiota impudica Speg. SPECIES
-=======
+# Pholiota impudica Speg. SPECIES
 
 #### Status
 ACCEPTED

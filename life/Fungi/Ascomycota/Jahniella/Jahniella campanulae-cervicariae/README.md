@@ -1,5 +1,4 @@
-Jahniella campanulae-cervicariae (Vestergr.) Petr. SPECIES
-=======
+# Jahniella campanulae-cervicariae (Vestergr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

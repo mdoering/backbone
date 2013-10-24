@@ -1,5 +1,4 @@
-Polyporus nitidulus Berk. & M.A. Curtis SPECIES
-=======
+# Polyporus nitidulus Berk. & M.A. Curtis SPECIES
 
 #### Status
 ACCEPTED

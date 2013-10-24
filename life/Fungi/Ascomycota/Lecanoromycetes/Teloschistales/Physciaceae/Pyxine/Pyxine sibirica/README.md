@@ -1,5 +1,4 @@
-Pyxine sibirica Tomin SPECIES
-=======
+# Pyxine sibirica Tomin SPECIES
 
 #### Status
 ACCEPTED

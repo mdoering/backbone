@@ -1,5 +1,4 @@
-Didymella apiculata Feltgen SPECIES
-=======
+# Didymella apiculata Feltgen SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Septonema dendryphioides Berk. & M.A. Curtis, 1874 SPECIES
-=======
+# Septonema dendryphioides Berk. & M.A. Curtis, 1874 SPECIES
 
 #### Status
 ACCEPTED

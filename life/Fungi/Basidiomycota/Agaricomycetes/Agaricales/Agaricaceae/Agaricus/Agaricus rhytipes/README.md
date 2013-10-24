@@ -1,5 +1,4 @@
-Agaricus rhytipes Secr. SPECIES
-=======
+# Agaricus rhytipes Secr. SPECIES
 
 #### Status
 ACCEPTED

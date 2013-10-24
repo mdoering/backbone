@@ -1,5 +1,4 @@
-Peronosclerospora sorghi (W. Weston & Uppal) C.G. Shaw, 1978 SPECIES
-=======
+# Peronosclerospora sorghi (W. Weston & Uppal) C.G. Shaw, 1978 SPECIES
 
 #### Status
 ACCEPTED

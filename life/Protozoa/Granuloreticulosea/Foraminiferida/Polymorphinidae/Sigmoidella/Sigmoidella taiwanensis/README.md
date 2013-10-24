@@ -1,5 +1,4 @@
-Sigmoidella taiwanensis Nakamura SPECIES
-=======
+# Sigmoidella taiwanensis Nakamura SPECIES
 
 #### Status
 ACCEPTED

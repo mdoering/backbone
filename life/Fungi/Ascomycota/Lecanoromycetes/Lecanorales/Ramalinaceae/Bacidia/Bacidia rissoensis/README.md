@@ -1,5 +1,4 @@
-Bacidia rissoensis f. rissoensis FORM
-=======
+# Bacidia rissoensis Malme SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Bacidia rissoensis f. rissoensis
+Bacidia rissoensis Malme
 
 ### Remarks
 null

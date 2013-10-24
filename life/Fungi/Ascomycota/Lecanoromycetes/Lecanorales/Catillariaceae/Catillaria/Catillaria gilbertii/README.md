@@ -1,5 +1,4 @@
-Catillaria gilbertii Fryday & Coppins SPECIES
-=======
+# Catillaria gilbertii Fryday & Coppins SPECIES
 
 #### Status
 ACCEPTED

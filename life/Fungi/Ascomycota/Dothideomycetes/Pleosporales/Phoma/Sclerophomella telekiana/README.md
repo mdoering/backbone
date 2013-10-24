@@ -1,5 +1,4 @@
-Sclerophomella telekiana Moesz SPECIES
-=======
+# Sclerophomella telekiana Moesz SPECIES
 
 #### Status
 ACCEPTED

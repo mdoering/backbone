@@ -1,5 +1,4 @@
-Rhymbocarpus aurellae (Werner) Giralt SPECIES
-=======
+# Rhymbocarpus aurellae (Werner) Giralt SPECIES
 
 #### Status
 ACCEPTED

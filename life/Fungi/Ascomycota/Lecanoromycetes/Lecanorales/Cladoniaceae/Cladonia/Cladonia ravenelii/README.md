@@ -1,5 +1,4 @@
-Cladonia ravenelii Tuck. SPECIES
-=======
+# Cladonia ravenelii Tuck. SPECIES
 
 #### Status
 ACCEPTED

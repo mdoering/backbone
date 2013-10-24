@@ -1,5 +1,4 @@
-Phalostauris GENUS
-=======
+# Phalostauris GENUS
 
 #### Status
 ACCEPTED

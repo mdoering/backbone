@@ -1,5 +1,4 @@
-Usnea vulgaris Dill. SPECIES
-=======
+# Usnea vulgaris Dill. SPECIES
 
 #### Status
 ACCEPTED

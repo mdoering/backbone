@@ -1,5 +1,4 @@
-Cystoderma australe A.H. Sm. & Singer SPECIES
-=======
+# Cystoderma australe A.H. Sm. & Singer SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Clitocybe farcta (Britzelm.) Sacc. & Traverso SPECIES
-=======
+# Clitocybe farcta (Britzelm.) Sacc. & Traverso SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Humaria vernalis Velen. SPECIES
-=======
+# Humaria vernalis Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tylopilus areolatus (Berk.) Henn. SPECIES
-=======
+# Tylopilus areolatus (Berk.) Henn. SPECIES
 
 #### Status
 ACCEPTED

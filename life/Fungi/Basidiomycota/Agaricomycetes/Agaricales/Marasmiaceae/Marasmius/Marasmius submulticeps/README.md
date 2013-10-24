@@ -1,5 +1,4 @@
-Marasmius submulticeps (Murrill) Sacc. & Trotter SPECIES
-=======
+# Marasmius submulticeps (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

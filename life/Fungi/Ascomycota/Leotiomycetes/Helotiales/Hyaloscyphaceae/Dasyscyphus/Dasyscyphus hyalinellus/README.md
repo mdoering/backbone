@@ -1,8 +1,7 @@
-Dasyscypha hyalinellus (Rehm) Sacc. SPECIES
-=======
+# Dasyscyphus hyalinellus (Rehm) Sacc. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum

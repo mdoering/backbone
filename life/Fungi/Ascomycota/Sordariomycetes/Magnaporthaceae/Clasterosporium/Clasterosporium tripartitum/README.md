@@ -1,5 +1,4 @@
-Clasterosporium tripartitum Richon SPECIES
-=======
+# Clasterosporium tripartitum Richon SPECIES
 
 #### Status
 ACCEPTED

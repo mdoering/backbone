@@ -1,5 +1,4 @@
-Georgefischeriales R. Bauer, Begerow & Oberw. ORDER
-=======
+# Georgefischeriales R. Bauer, Begerow & Oberw. ORDER
 
 #### Status
 ACCEPTED

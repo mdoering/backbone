@@ -1,14 +1,13 @@
-Collema massiliense (Nyl.) M. Choisy SPECIES
-=======
+# Leptogium massiliense Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Flora, Jena 62: 354 (1879)
 
 #### Original name
 Leptogium massiliense Nyl.

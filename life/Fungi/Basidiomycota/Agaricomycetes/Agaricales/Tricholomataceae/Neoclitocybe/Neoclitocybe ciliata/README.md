@@ -1,5 +1,4 @@
-Neoclitocybe ciliata Singer SPECIES
-=======
+# Neoclitocybe ciliata Singer SPECIES
 
 #### Status
 ACCEPTED

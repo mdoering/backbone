@@ -1,5 +1,4 @@
-Lecidea unicolor Vain. SPECIES
-=======
+# Lecidea unicolor Vain. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Chinlingella Wang & Sun, 1973 GENUS
-=======
+# Chinlingella Wang & Sun, 1973 GENUS
 
 #### Status
 ACCEPTED

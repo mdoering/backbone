@@ -1,5 +1,4 @@
-Scytonema alatum Borzí ex Bornet & Flahault SPECIES
-=======
+# Scytonema alatum Borzí ex Bornet & Flahault SPECIES
 
 #### Status
 ACCEPTED

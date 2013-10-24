@@ -1,5 +1,4 @@
-Aplanes de Bary GENUS
-=======
+# Aplanes de Bary GENUS
 
 #### Status
 ACCEPTED

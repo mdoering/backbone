@@ -1,5 +1,4 @@
-Pseudopatellina von Höhnel, 1908 GENUS
-=======
+# Pseudopatellina von Höhnel, 1908 GENUS
 
 #### Status
 ACCEPTED

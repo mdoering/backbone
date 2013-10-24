@@ -1,5 +1,4 @@
-Arthopyrenia borucana Müll. Arg. SPECIES
-=======
+# Arthopyrenia borucana Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

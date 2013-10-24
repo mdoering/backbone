@@ -1,5 +1,4 @@
-Ochroconis de Hoog & Arx, 1974 GENUS
-=======
+# Ochroconis de Hoog & Arx, 1974 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Verrucaria porinoides Mont. SPECIES
-=======
+# Verrucaria porinoides Mont. SPECIES
 
 #### Status
 ACCEPTED

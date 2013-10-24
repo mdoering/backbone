@@ -1,5 +1,4 @@
-Wallrothiella conferta Sacc. & Flageolet SPECIES
-=======
+# Wallrothiella conferta Sacc. & Flageolet SPECIES
 
 #### Status
 ACCEPTED

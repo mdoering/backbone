@@ -1,5 +1,4 @@
-Coccinimonas Yang & Cho, 2006 GENUS
-=======
+# Coccinimonas Yang & Cho, 2006 GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cylindrosporium nanum Cooke, 1886 SPECIES
-=======
+# Cylindrosporium nanum Cooke, 1886 SPECIES
 
 #### Status
 ACCEPTED

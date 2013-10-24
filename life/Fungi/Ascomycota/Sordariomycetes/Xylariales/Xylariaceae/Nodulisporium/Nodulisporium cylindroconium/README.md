@@ -1,5 +1,4 @@
-Nodulisporium cylindroconium de Hoog, 1973 SPECIES
-=======
+# Nodulisporium cylindroconium de Hoog, 1973 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ponosoviella B.V. Skvortzov & M. Noda, 1975 GENUS
-=======
+# Ponosoviella B.V. Skvortzov & M. Noda, 1975 GENUS
 
 #### Status
 ACCEPTED

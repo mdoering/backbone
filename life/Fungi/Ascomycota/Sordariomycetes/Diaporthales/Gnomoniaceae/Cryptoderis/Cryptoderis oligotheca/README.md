@@ -1,5 +1,4 @@
-Cryptoderis oligotheca Starbäck & Grev. SPECIES
-=======
+# Cryptoderis oligotheca Starbäck & Grev. SPECIES
 
 #### Status
 ACCEPTED

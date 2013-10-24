@@ -1,14 +1,13 @@
-Cerbia R. Below, 1981 GENUS
-=======
+# Tenua A. Eisenack, 1958 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 IRMNG Homonym List
 
 #### Published in
-Palaeontographica Abt. B Palaeophytol. 176 (1-4): 8.
+Neues Jb. Geol. Paläont. Abh. 106: 410.
 
 #### Original name
 null

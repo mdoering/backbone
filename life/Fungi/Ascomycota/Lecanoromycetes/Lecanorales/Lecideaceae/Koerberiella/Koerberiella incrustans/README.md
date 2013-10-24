@@ -1,5 +1,4 @@
-Koerberiella incrustans Motyka SPECIES
-=======
+# Koerberiella incrustans Motyka SPECIES
 
 #### Status
 ACCEPTED

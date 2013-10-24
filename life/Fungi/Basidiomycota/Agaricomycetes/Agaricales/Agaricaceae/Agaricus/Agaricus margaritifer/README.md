@@ -1,5 +1,4 @@
-Agaricus margaritifer Batsch SPECIES
-=======
+# Agaricus margaritifer Batsch SPECIES
 
 #### Status
 ACCEPTED

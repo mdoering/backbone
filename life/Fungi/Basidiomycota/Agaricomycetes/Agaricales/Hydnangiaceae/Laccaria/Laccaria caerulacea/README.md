@@ -1,5 +1,4 @@
-Laccaria caerulacea Dhanch., J.C. Bhatt & S.K. Pant SPECIES
-=======
+# Laccaria caerulacea Dhanch., J.C. Bhatt & S.K. Pant SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pistillaria aculina subsp. acicula Bourdot & Galzin SUBSPECIES
-=======
+# Pterula gracilis (Desm. & Berk.) Corner, 1950 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Hyménomyc. de France 139 (1928)
+Monograph of Clavaria and allied Genera (Annals of Botany Memoirs No. 1) 514 (1950)
 
 #### Original name
-Pistillaria aculina subsp. acicula Bourdot & Galzin
+Typhula gracilis Desm. & Berk., 1838
 
 ### Remarks
 null

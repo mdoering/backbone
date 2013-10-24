@@ -1,5 +1,4 @@
-Streptomyces thermonitrificans Desai and Dhala, 1967 (Approved Lists, 1980) SPECIES
-=======
+# Streptomyces thermonitrificans Desai and Dhala, 1967 (Approved Lists, 1980) SPECIES
 
 #### Status
 ACCEPTED

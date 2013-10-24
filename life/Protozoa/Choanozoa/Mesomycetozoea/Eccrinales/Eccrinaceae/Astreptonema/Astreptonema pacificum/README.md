@@ -1,5 +1,4 @@
-Astreptonema pacificum Hibbits, 1979 SPECIES
-=======
+# Astreptonema pacificum Hibbits, 1979 SPECIES
 
 #### Status
 ACCEPTED

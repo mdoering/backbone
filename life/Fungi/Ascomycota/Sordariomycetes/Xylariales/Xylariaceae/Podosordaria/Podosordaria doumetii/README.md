@@ -1,5 +1,4 @@
-Podosordaria doumetii (Pat.) P.M.D. Martin SPECIES
-=======
+# Podosordaria doumetii (Pat.) P.M.D. Martin SPECIES
 
 #### Status
 ACCEPTED

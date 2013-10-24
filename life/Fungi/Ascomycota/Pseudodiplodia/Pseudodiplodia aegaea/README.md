@@ -1,5 +1,4 @@
-Pseudodiplodia aegaea (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia aegaea (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

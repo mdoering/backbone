@@ -1,5 +1,4 @@
-Virgatospora seifertii anon. ined. SPECIES
-=======
+# Virgatospora seifertii anon. ined. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Melanopsamma coffeicola (Berk. & M.A. Curtis) Sacc. SPECIES
-=======
+# Melanopsamma coffeicola (Berk. & M.A. Curtis) Sacc. SPECIES
 
 #### Status
 ACCEPTED

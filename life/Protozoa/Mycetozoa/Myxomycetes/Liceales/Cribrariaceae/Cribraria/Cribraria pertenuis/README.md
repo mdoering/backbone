@@ -1,5 +1,4 @@
-Cribraria pertenuis Flatau & Schirmer, 1994 SPECIES
-=======
+# Cribraria pertenuis Flatau & Schirmer, 1994 SPECIES
 
 #### Status
 ACCEPTED

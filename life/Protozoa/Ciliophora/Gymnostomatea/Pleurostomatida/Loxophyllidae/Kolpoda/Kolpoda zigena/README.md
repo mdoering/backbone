@@ -1,5 +1,4 @@
-Kolpoda zigena Bory, 1824 SPECIES
-=======
+# Kolpoda zigena Bory, 1824 SPECIES
 
 #### Status
 ACCEPTED

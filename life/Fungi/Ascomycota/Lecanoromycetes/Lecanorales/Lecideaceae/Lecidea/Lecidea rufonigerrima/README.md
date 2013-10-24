@@ -1,5 +1,4 @@
-Lecidea rufonigerrima Hue SPECIES
-=======
+# Lecidea rufonigerrima Hue SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Peronospora galeopsidis Lobik SPECIES
-=======
+# Peronospora galeopsidis Lobik SPECIES
 
 #### Status
 ACCEPTED

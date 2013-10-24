@@ -1,5 +1,4 @@
-Holothelis GENUS
-=======
+# Holothelis GENUS
 
 #### Status
 ACCEPTED

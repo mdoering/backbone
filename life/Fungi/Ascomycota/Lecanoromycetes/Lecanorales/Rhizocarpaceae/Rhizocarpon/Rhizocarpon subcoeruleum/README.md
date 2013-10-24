@@ -1,5 +1,4 @@
-Rhizocarpon subcoeruleum Eitner SPECIES
-=======
+# Rhizocarpon subcoeruleum Eitner SPECIES
 
 #### Status
 ACCEPTED

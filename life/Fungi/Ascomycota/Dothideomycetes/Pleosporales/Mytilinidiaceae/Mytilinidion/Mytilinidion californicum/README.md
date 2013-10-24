@@ -1,5 +1,4 @@
-Mytilinidion californicum (Ellis & Harkn.) Kuntze SPECIES
-=======
+# Mytilinidion californicum (Ellis & Harkn.) Kuntze SPECIES
 
 #### Status
 ACCEPTED

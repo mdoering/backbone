@@ -1,5 +1,4 @@
-Hyaloscypha epilobii Velen. SPECIES
-=======
+# Hyaloscypha epilobii Velen. SPECIES
 
 #### Status
 ACCEPTED

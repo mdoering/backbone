@@ -1,5 +1,4 @@
-Jola mahensis Pat. SPECIES
-=======
+# Jola mahensis Pat. SPECIES
 
 #### Status
 ACCEPTED

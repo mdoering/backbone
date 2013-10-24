@@ -1,5 +1,4 @@
-Calicium cladoniscum Schleich. SPECIES
-=======
+# Calicium cladoniscum Schleich. SPECIES
 
 #### Status
 ACCEPTED

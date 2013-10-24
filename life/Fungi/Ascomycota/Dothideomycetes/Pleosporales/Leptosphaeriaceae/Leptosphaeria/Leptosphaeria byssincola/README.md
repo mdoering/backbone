@@ -1,5 +1,4 @@
-Leptosphaeria byssincola Earle ex Shoemaker SPECIES
-=======
+# Leptosphaeria byssincola Earle ex Shoemaker SPECIES
 
 #### Status
 ACCEPTED

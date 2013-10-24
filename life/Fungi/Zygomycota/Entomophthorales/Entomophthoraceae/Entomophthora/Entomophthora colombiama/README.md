@@ -1,5 +1,4 @@
-Entomophthora colombiama Spain Schenck SPECIES
-=======
+# Entomophthora colombiama Spain Schenck SPECIES
 
 #### Status
 ACCEPTED

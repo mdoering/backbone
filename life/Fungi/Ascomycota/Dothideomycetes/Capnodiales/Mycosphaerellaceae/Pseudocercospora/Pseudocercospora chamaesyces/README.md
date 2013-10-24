@@ -1,5 +1,4 @@
-Pseudocercospora chamaesyces (F. Stevens & Dalbey) Deighton SPECIES
-=======
+# Pseudocercospora chamaesyces (F. Stevens & Dalbey) Deighton SPECIES
 
 #### Status
 ACCEPTED

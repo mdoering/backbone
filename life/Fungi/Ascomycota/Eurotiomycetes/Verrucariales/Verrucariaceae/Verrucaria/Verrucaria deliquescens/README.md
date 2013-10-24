@@ -1,5 +1,4 @@
-Verrucaria deliquescens C. Knight SPECIES
-=======
+# Verrucaria deliquescens C. Knight SPECIES
 
 #### Status
 ACCEPTED

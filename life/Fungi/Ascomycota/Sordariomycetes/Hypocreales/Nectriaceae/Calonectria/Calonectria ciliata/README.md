@@ -1,5 +1,4 @@
-Calonectria ciliata (Link) W.C. Snyder & H.N. Hansen SPECIES
-=======
+# Calonectria ciliata (Link) W.C. Snyder & H.N. Hansen SPECIES
 
 #### Status
 ACCEPTED

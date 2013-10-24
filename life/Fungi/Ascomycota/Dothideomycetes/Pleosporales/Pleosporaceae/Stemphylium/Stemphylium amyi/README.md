@@ -1,5 +1,4 @@
-Stemphylium amyi Reifschn. SPECIES
-=======
+# Stemphylium amyi Reifschn. SPECIES
 
 #### Status
 ACCEPTED

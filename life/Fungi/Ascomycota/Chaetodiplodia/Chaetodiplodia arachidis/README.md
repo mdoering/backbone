@@ -1,5 +1,4 @@
-Chaetodiplodia arachidis Maubl. SPECIES
-=======
+# Chaetodiplodia arachidis Maubl. SPECIES
 
 #### Status
 ACCEPTED

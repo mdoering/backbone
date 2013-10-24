@@ -1,5 +1,4 @@
-Puccinia paliformis Fuckel SPECIES
-=======
+# Puccinia paliformis Fuckel SPECIES
 
 #### Status
 ACCEPTED

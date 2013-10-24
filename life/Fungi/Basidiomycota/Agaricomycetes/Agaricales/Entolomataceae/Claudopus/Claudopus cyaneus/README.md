@@ -1,5 +1,4 @@
-Claudopus cyaneus Murrill SPECIES
-=======
+# Claudopus cyaneus Murrill SPECIES
 
 #### Status
 ACCEPTED

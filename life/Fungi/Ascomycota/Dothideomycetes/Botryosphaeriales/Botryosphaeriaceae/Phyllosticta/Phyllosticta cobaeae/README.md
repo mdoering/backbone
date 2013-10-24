@@ -1,5 +1,4 @@
-Phyllosticta cobaeae Tassi SPECIES
-=======
+# Phyllosticta cobaeae Tassi SPECIES
 
 #### Status
 ACCEPTED

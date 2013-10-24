@@ -1,5 +1,4 @@
-Phyllosticta turritis Lobik SPECIES
-=======
+# Phyllosticta turritis Lobik SPECIES
 
 #### Status
 ACCEPTED

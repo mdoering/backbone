@@ -1,17 +1,16 @@
-Polyporus lithuanicus Blonski, 1889 SPECIES
-=======
+# Pycnoporellus fulgens (Fr.) Donk, 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Persoonia 6(2): 216 (1971)
 
 #### Original name
-Ochroporus lithuanicus Blonski
+Hydnum fulgens Fr., 1852
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Selenophomites Babajan & Tasl. GENUS
-=======
+# Selenophomites Babajan & Tasl. GENUS
 
 #### Status
 ACCEPTED

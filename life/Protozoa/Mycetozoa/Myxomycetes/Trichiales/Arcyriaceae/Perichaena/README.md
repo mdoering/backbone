@@ -1,17 +1,16 @@
-Ophiotheca Curr. GENUS
-=======
+# Perichaena Fr. GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Quart. J. Microscop. Sci. 2: 241 (1854)
+Symb. gasteromyc. (Lund) 11 (1817)
 
 #### Original name
-Ophiotheca Curr.
+Perichaena Fr.
 
 ### Remarks
 null

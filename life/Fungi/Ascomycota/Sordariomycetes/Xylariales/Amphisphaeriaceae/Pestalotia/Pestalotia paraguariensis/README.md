@@ -1,5 +1,4 @@
-Pestalotia paraguariensis Speg. SPECIES
-=======
+# Pestalotia paraguariensis Speg. SPECIES
 
 #### Status
 ACCEPTED

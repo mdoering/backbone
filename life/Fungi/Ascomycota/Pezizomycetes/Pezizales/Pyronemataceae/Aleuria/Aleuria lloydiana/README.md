@@ -1,5 +1,4 @@
-Aleuria lloydiana Rehm SPECIES
-=======
+# Aleuria lloydiana Rehm SPECIES
 
 #### Status
 ACCEPTED

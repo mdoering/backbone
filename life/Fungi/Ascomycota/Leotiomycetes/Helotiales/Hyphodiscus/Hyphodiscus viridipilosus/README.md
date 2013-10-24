@@ -1,14 +1,13 @@
-Incrupila viridipilosa Graddon, 1974 SPECIES
-=======
+# Hyphodiscus viridipilosus (Graddon) Baral, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 63(3): 475 (1974)
+Z. Mykol. 59(1): 7 (1993)
 
 #### Original name
 Incrupila viridipilosa Graddon, 1974

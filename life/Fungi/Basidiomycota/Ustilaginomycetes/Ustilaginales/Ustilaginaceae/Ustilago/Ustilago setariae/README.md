@@ -1,5 +1,4 @@
-Ustilago setariae Speg. SPECIES
-=======
+# Ustilago setariae Speg. SPECIES
 
 #### Status
 ACCEPTED

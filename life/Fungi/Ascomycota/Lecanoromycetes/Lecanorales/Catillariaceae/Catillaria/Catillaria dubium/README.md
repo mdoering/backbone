@@ -1,5 +1,4 @@
-Catillaria dubium anon. SPECIES
-=======
+# Catillaria dubium anon. SPECIES
 
 #### Status
 ACCEPTED

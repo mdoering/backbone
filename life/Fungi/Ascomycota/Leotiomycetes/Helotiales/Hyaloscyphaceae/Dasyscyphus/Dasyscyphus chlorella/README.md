@@ -1,5 +1,4 @@
-Dasyscyphus chlorella Seaver SPECIES
-=======
+# Dasyscyphus chlorella Seaver SPECIES
 
 #### Status
 ACCEPTED

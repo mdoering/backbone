@@ -1,5 +1,4 @@
-Entoloma rubescentipes E. Horak SPECIES
-=======
+# Entoloma rubescentipes E. Horak SPECIES
 
 #### Status
 ACCEPTED

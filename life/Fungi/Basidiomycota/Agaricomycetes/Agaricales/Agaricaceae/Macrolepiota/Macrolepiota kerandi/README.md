@@ -1,5 +1,4 @@
-Macrolepiota kerandi (Speg.) Singer SPECIES
-=======
+# Macrolepiota kerandi (Speg.) Singer SPECIES
 
 #### Status
 ACCEPTED

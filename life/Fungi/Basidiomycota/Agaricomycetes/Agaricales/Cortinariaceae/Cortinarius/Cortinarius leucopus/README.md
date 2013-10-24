@@ -1,5 +1,4 @@
-Cortinarius leucopus (Bull.) Fr. SPECIES
-=======
+# Cortinarius leucopus (Bull.) Fr. SPECIES
 
 #### Status
 ACCEPTED

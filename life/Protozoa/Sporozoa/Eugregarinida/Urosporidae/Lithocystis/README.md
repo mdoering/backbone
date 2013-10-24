@@ -1,5 +1,4 @@
-Lithocystis Giard, 1876 GENUS
-=======
+# Lithocystis Giard, 1876 GENUS
 
 #### Status
 ACCEPTED

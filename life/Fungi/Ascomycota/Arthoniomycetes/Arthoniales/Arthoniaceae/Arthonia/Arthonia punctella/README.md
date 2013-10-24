@@ -1,14 +1,13 @@
-Conida punctella (Nyl.) Rehm SPECIES
-=======
+# Arthonia punctella Nyl. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Carroll. Nat. Hist. Rev. 6: 533 (1859)
 
 #### Original name
 Arthonia punctella Nyl.

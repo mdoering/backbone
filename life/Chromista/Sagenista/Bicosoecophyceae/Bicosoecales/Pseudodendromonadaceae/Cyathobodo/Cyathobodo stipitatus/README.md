@@ -1,5 +1,4 @@
-Cyathobodo stipitatus J.B. Petersen & J.B. Hansen SPECIES
-=======
+# Cyathobodo stipitatus J.B. Petersen & J.B. Hansen SPECIES
 
 #### Status
 ACCEPTED

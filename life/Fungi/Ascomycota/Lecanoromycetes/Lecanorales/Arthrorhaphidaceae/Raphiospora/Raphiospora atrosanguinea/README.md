@@ -1,5 +1,4 @@
-Raphiospora atrosanguinea Ach. SPECIES
-=======
+# Raphiospora atrosanguinea Ach. SPECIES
 
 #### Status
 ACCEPTED

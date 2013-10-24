@@ -1,5 +1,4 @@
-Schwartzia van Gylswyk et al., 1997 GENUS
-=======
+# Schwartzia van Gylswyk et al., 1997 GENUS
 
 #### Status
 ACCEPTED

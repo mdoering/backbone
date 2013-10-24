@@ -1,17 +1,16 @@
-Marasmius wynnei var. wynnei Berk. & Broome VARIETY
-=======
+# Marasmius wynneae Berk. & Broome, 1860 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Outl. Brit. Fung. (London) 219 (1860)
 
 #### Original name
-Marasmius wynnei var. wynnei Berk. & Broome
+Marasmius wynneae Berk. & Broome, 1860
 
 ### Remarks
 null

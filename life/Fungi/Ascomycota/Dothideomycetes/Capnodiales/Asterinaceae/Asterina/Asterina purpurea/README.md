@@ -1,5 +1,4 @@
-Asterina purpurea Ellis & G. Martin SPECIES
-=======
+# Asterina purpurea Ellis & G. Martin SPECIES
 
 #### Status
 ACCEPTED

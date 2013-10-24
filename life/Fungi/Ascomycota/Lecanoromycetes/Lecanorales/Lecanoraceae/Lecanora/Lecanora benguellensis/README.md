@@ -1,5 +1,4 @@
-Lecanora benguellensis Nyl. SPECIES
-=======
+# Lecanora benguellensis Nyl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Asterostomella banisteriae Syd. SPECIES
-=======
+# Asterostomella banisteriae Syd. SPECIES
 
 #### Status
 ACCEPTED

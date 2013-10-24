@@ -1,5 +1,4 @@
-Polyporus bankeri Lloyd SPECIES
-=======
+# Polyporus bankeri Lloyd SPECIES
 
 #### Status
 ACCEPTED

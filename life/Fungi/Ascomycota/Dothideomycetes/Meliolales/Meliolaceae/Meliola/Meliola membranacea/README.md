@@ -1,5 +1,4 @@
-Meliola membranacea Starbäck SPECIES
-=======
+# Meliola membranacea Starbäck SPECIES
 
 #### Status
 ACCEPTED

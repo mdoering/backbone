@@ -1,5 +1,4 @@
-Puccinia nierembergiae Lév. SPECIES
-=======
+# Puccinia nierembergiae Lév. SPECIES
 
 #### Status
 ACCEPTED

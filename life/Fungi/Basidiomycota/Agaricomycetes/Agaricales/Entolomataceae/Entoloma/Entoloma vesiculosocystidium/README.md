@@ -1,5 +1,4 @@
-Entoloma vesiculosocystidium Z.S. Bi SPECIES
-=======
+# Entoloma vesiculosocystidium Z.S. Bi SPECIES
 
 #### Status
 ACCEPTED

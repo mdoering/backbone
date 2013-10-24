@@ -1,5 +1,4 @@
-Phacus ranula Pochmann SPECIES
-=======
+# Phacus ranula Pochmann SPECIES
 
 #### Status
 ACCEPTED

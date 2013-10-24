@@ -1,5 +1,4 @@
-Coniothyrium oryzae Cavara SPECIES
-=======
+# Coniothyrium oryzae Cavara SPECIES
 
 #### Status
 ACCEPTED

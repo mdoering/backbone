@@ -1,5 +1,4 @@
-Lentinus gibbsiae A.L. Sm. SPECIES
-=======
+# Lentinus gibbsiae A.L. Sm. SPECIES
 
 #### Status
 ACCEPTED

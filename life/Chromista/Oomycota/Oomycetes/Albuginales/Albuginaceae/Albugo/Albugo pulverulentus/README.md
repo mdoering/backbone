@@ -1,5 +1,4 @@
-Albugo pulverulentus (Berk. & M.A. Curtis) Kuntze SPECIES
-=======
+# Albugo pulverulentus (Berk. & M.A. Curtis) Kuntze SPECIES
 
 #### Status
 ACCEPTED

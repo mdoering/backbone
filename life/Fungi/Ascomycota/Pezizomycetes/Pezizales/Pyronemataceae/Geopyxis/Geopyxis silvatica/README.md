@@ -1,5 +1,4 @@
-Geopyxis silvatica (P. Karst.) Sacc. SPECIES
-=======
+# Geopyxis silvatica (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Panaeolus speciosus P.D. Orton, 1969 SPECIES
-=======
+# Panaeolus subfirmus P. Karst., 1889 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Notes R. bot. Gdn Edinb. 29: 108 (1969)
+Hedwigia 28: 365 (1889)
 
 #### Original name
-Panaeolus speciosus P.D. Orton, 1969
+Panaeolus subfirmus P. Karst., 1889
 
 ### Remarks
 null

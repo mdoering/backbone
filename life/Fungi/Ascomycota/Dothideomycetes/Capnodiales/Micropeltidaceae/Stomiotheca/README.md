@@ -1,5 +1,4 @@
-Stomiotheca Bat. GENUS
-=======
+# Stomiotheca Bat. GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Austroparmelina GENUS
-=======
+# Austroparmelina GENUS
 
 #### Status
 ACCEPTED

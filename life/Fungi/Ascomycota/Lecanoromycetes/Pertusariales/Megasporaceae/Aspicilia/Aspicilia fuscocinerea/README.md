@@ -1,5 +1,4 @@
-Aspicilia fuscocinerea (H. Magn.) SPECIES
-=======
+# Aspicilia fuscocinerea (H. Magn.) SPECIES
 
 #### Status
 ACCEPTED

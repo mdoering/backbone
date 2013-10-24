@@ -1,5 +1,4 @@
-Parmelia stictella A. Massal. SPECIES
-=======
+# Parmelia stictella A. Massal. SPECIES
 
 #### Status
 ACCEPTED

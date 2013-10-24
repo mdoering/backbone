@@ -1,5 +1,4 @@
-Phacus segretii Allorge & Lefèvre SPECIES
-=======
+# Phacus segretii Allorge & Lefèvre SPECIES
 
 #### Status
 ACCEPTED

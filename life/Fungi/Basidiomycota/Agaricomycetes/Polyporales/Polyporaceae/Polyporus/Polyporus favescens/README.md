@@ -1,5 +1,4 @@
-Polyporus favescens Schwein. SPECIES
-=======
+# Polyporus favescens Schwein. SPECIES
 
 #### Status
 ACCEPTED

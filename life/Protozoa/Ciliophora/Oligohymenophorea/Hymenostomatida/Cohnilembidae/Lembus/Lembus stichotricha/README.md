@@ -1,5 +1,4 @@
-Lembus stichotricha Kahl, 1928 SPECIES
-=======
+# Lembus stichotricha Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

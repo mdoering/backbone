@@ -1,5 +1,4 @@
-Vasicola lutea Kahl, 1930 SPECIES
-=======
+# Vasicola lutea Kahl, 1930 SPECIES
 
 #### Status
 ACCEPTED

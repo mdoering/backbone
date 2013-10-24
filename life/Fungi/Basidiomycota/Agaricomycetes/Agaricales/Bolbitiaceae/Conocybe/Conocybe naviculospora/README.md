@@ -1,5 +1,4 @@
-Conocybe naviculospora Hauskn. SPECIES
-=======
+# Conocybe naviculospora Hauskn. SPECIES
 
 #### Status
 ACCEPTED

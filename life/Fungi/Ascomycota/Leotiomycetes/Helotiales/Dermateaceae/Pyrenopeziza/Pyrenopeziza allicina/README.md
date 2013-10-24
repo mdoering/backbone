@@ -1,5 +1,4 @@
-Pyrenopeziza allicina Arx SPECIES
-=======
+# Pyrenopeziza allicina Arx SPECIES
 
 #### Status
 ACCEPTED

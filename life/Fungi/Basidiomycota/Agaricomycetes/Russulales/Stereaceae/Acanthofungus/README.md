@@ -1,5 +1,4 @@
-Acanthofungus Sheng H. Wu, Boidin & C.Y. Chien GENUS
-=======
+# Acanthofungus Sheng H. Wu, Boidin & C.Y. Chien GENUS
 
 #### Status
 ACCEPTED

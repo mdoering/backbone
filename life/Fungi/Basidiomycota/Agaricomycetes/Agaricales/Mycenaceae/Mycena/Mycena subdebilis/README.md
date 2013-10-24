@@ -1,5 +1,4 @@
-Mycena subdebilis G. Stev., 1964 SPECIES
-=======
+# Mycena subdebilis G. Stev., 1964 SPECIES
 
 #### Status
 ACCEPTED

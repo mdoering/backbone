@@ -1,5 +1,4 @@
-Cyttarocyclis serrata SPECIES
-=======
+# Cyttarocyclis serrata SPECIES
 
 #### Status
 ACCEPTED

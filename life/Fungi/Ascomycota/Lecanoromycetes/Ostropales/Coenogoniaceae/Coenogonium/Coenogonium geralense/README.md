@@ -1,5 +1,4 @@
-Coenogonium geralense (P. Henn.) Lücking SPECIES
-=======
+# Coenogonium geralense (P. Henn.) Lücking SPECIES
 
 #### Status
 ACCEPTED

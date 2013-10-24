@@ -1,5 +1,4 @@
-Phoma epiglandula Tassi SPECIES
-=======
+# Phoma epiglandula Tassi SPECIES
 
 #### Status
 ACCEPTED

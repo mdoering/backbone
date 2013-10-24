@@ -1,5 +1,4 @@
-Cortinarius reverendissimus Bidaud, Moënne-Locc. & Reumaux SPECIES
-=======
+# Cortinarius reverendissimus Bidaud, Moënne-Locc. & Reumaux SPECIES
 
 #### Status
 ACCEPTED

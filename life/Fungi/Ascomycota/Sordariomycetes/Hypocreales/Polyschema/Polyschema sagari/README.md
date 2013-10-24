@@ -1,17 +1,16 @@
-Polyschema sagarii J.P.N. Pandeya & S.B. Saksena SPECIES
-=======
+# Polyschema sagari J.P.N. Pandeya & S.B. Saksena, 1978 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Mycologia 70(4): 877 (1978)
 
 #### Original name
-Polyschema sagarii J.P.N. Pandeya & S.B. Saksena
+Polyschema sagari J.P.N. Pandeya & S.B. Saksena, 1978
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Gymnodinium acuminatum Christen SPECIES
-=======
+# Gymnodinium acuminatum Christen SPECIES
 
 #### Status
 ACCEPTED

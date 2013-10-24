@@ -1,5 +1,4 @@
-Hyphodermella maunakeaensis Gilb. & Hemmes, 2001 SPECIES
-=======
+# Hyphodermella maunakeaensis Gilb. & Hemmes, 2001 SPECIES
 
 #### Status
 ACCEPTED

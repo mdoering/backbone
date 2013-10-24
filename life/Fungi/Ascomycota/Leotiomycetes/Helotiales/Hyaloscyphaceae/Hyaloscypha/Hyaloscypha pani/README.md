@@ -1,5 +1,4 @@
-Hyaloscypha pani Velen. SPECIES
-=======
+# Hyaloscypha pani Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Calpionella undelloides SPECIES
-=======
+# Calpionella undelloides SPECIES
 
 #### Status
 ACCEPTED

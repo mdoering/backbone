@@ -1,5 +1,4 @@
-Dothiorella sanninii Cif. SPECIES
-=======
+# Dothiorella sanninii Cif. SPECIES
 
 #### Status
 ACCEPTED

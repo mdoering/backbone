@@ -1,5 +1,4 @@
-Anoplophrya cavernosa Georgevitch, 1941 SPECIES
-=======
+# Anoplophrya cavernosa Georgevitch, 1941 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Ophiobolus polygoni Chipl. SPECIES
-=======
+# Ophiobolus polygoni Chipl. SPECIES
 
 #### Status
 ACCEPTED

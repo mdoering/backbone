@@ -1,5 +1,4 @@
-Rhabdoaskenasia minima Krainer & Foissner, 1990 SPECIES
-=======
+# Rhabdoaskenasia minima Krainer & Foissner, 1990 SPECIES
 
 #### Status
 ACCEPTED

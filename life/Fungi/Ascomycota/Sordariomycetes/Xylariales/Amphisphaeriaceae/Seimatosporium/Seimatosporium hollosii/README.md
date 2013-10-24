@@ -1,5 +1,4 @@
-Seimatosporium hollosii (Tóth) Shoemaker SPECIES
-=======
+# Seimatosporium hollosii (Tóth) Shoemaker SPECIES
 
 #### Status
 ACCEPTED

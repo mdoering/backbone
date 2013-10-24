@@ -1,5 +1,4 @@
-Ramularia picridicola Lindr. SPECIES
-=======
+# Ramularia picridicola Lindr. SPECIES
 
 #### Status
 ACCEPTED

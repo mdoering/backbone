@@ -1,5 +1,4 @@
-Lecidea endamylea (Th. Fr.) SPECIES
-=======
+# Lecidea endamylea (Th. Fr.) SPECIES
 
 #### Status
 ACCEPTED

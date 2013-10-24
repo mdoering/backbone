@@ -1,5 +1,4 @@
-Naucoria sphagnicola Kirschst. SPECIES
-=======
+# Naucoria sphagnicola Kirschst. SPECIES
 
 #### Status
 ACCEPTED

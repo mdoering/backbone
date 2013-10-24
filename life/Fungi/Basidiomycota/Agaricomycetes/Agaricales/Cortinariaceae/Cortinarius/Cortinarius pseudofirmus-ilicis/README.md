@@ -1,5 +1,4 @@
-Cortinarius pseudofirmus-ilicis Chevassut & Rob. Henry SPECIES
-=======
+# Cortinarius pseudofirmus-ilicis Chevassut & Rob. Henry SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Diplodina patagonulae Tassi SPECIES
-=======
+# Diplodina patagonulae Tassi SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Arthopyrenia consocians (Nyl.) H. Olivier SPECIES
-=======
+# Arthopyrenia consocians (Nyl.) H. Olivier SPECIES
 
 #### Status
 ACCEPTED

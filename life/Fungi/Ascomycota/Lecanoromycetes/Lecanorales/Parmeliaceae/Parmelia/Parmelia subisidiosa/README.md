@@ -1,5 +1,4 @@
-Parmelia subisidiosa (Müll. Arg.) C.W. Dodge SPECIES
-=======
+# Parmelia subisidiosa (Müll. Arg.) C.W. Dodge SPECIES
 
 #### Status
 ACCEPTED

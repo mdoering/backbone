@@ -1,5 +1,4 @@
-Meliola triumfettae var. triumfettae VARIETY
-=======
+# Meliola triumfettae F. Stevens SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Illinois Biol. Monogr. (Urbana) 2: 498 (1916)
 
 #### Original name
-Meliola triumfettae var. triumfettae
+Meliola triumfettae F. Stevens
 
 ### Remarks
 null

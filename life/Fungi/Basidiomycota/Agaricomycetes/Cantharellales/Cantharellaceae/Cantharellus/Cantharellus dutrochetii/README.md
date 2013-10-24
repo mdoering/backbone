@@ -1,5 +1,4 @@
-Cantharellus dutrochetii Mont. SPECIES
-=======
+# Cantharellus dutrochetii Mont. SPECIES
 
 #### Status
 ACCEPTED

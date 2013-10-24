@@ -1,5 +1,4 @@
-Syncephalis glabra Morini, 1902 SPECIES
-=======
+# Syncephalis glabra Morini, 1902 SPECIES
 
 #### Status
 ACCEPTED

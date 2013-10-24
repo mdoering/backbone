@@ -1,5 +1,4 @@
-Buellia sciodes (Nyl.) Boistel SPECIES
-=======
+# Buellia sciodes (Nyl.) Boistel SPECIES
 
 #### Status
 ACCEPTED

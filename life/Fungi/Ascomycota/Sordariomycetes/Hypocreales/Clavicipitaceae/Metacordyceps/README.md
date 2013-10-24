@@ -1,5 +1,4 @@
-Metacordyceps G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora GENUS
-=======
+# Metacordyceps G.H. Sung, J.M. Sung, Hywel-Jones & Spatafora GENUS
 
 #### Status
 ACCEPTED

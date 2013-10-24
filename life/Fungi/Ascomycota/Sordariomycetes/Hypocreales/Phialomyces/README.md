@@ -1,5 +1,4 @@
-Phialomyces P.C. Misra & P.H.B. Talbot GENUS
-=======
+# Phialomyces P.C. Misra & P.H.B. Talbot GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Varicosporium giganteum J.L. Crane, 1968 SPECIES
-=======
+# Varicosporium giganteum J.L. Crane, 1968 SPECIES
 
 #### Status
 ACCEPTED

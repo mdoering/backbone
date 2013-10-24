@@ -1,5 +1,4 @@
-Octospora rubricosa (Fr.) M.M. Moser SPECIES
-=======
+# Octospora rubricosa (Fr.) M.M. Moser SPECIES
 
 #### Status
 ACCEPTED

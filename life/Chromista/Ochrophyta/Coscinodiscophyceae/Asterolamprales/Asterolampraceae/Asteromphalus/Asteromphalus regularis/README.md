@@ -1,5 +1,4 @@
-Asteromphalus regularis G. Karsten, 1905 SPECIES
-=======
+# Asteromphalus regularis G. Karsten, 1905 SPECIES
 
 #### Status
 ACCEPTED

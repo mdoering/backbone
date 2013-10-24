@@ -1,5 +1,4 @@
-Tubulicrinis globisporus K.H. Larss. & Hjortstam, 1978 SPECIES
-=======
+# Tubulicrinis globisporus K.H. Larss. & Hjortstam, 1978 SPECIES
 
 #### Status
 ACCEPTED

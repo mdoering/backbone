@@ -1,5 +1,4 @@
-Uredo pedicellata Racib. SPECIES
-=======
+# Uredo pedicellata Racib. SPECIES
 
 #### Status
 ACCEPTED

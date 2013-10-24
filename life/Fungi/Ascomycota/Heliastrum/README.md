@@ -1,5 +1,4 @@
-Heliastrum Petr. GENUS
-=======
+# Heliastrum Petr. GENUS
 
 #### Status
 ACCEPTED

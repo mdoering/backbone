@@ -1,5 +1,4 @@
-Nephroma euarctoides Gyeln. SPECIES
-=======
+# Nephroma euarctoides Gyeln. SPECIES
 
 #### Status
 ACCEPTED

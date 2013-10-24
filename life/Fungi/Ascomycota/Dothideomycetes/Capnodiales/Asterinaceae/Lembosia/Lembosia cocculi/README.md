@@ -1,5 +1,4 @@
-Lembosia cocculi Pat. SPECIES
-=======
+# Lembosia cocculi Pat. SPECIES
 
 #### Status
 ACCEPTED

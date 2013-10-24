@@ -1,5 +1,4 @@
-Porina obsoleta (Kremp.) Lettau SPECIES
-=======
+# Porina obsoleta (Kremp.) Lettau SPECIES
 
 #### Status
 ACCEPTED

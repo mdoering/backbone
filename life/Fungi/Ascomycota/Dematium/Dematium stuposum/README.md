@@ -1,5 +1,4 @@
-Dematium stuposum Pers. SPECIES
-=======
+# Dematium stuposum Pers. SPECIES
 
 #### Status
 ACCEPTED

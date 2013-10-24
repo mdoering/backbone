@@ -1,5 +1,4 @@
-Coleosporium horianum Henn. SPECIES
-=======
+# Coleosporium horianum Henn. SPECIES
 
 #### Status
 ACCEPTED

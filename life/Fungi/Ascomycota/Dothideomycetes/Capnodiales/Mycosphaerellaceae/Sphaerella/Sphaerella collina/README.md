@@ -1,5 +1,4 @@
-Sphaerella collina var. collina VARIETY
-=======
+# Sphaerella collina Sacc. & Speg. SPECIES
 
 #### Status
 ACCEPTED
@@ -8,10 +7,10 @@ ACCEPTED
 Index Fungorum
 
 #### Published in
-null
+Michelia 1(no. 4): 379 (1878)
 
 #### Original name
-Sphaerella collina var. collina
+Sphaerella collina Sacc. & Speg.
 
 ### Remarks
 null

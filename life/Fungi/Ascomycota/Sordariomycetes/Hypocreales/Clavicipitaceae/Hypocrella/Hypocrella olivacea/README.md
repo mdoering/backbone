@@ -1,5 +1,4 @@
-Hypocrella olivacea Petch SPECIES
-=======
+# Hypocrella olivacea Petch SPECIES
 
 #### Status
 ACCEPTED

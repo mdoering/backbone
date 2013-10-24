@@ -1,5 +1,4 @@
-Polskiammina Bronnimann, Zaninetti & Whittaker, 1987 GENUS
-=======
+# Polskiammina Bronnimann, Zaninetti & Whittaker, 1987 GENUS
 
 #### Status
 ACCEPTED

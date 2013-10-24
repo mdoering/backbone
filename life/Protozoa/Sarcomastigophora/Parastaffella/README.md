@@ -1,5 +1,4 @@
-Parastaffella Rauzer-Chernousova, 1948 GENUS
-=======
+# Parastaffella Rauzer-Chernousova, 1948 GENUS
 
 #### Status
 ACCEPTED

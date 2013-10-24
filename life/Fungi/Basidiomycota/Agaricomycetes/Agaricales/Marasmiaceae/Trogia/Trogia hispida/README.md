@@ -1,5 +1,4 @@
-Trogia hispida Massee SPECIES
-=======
+# Trogia hispida Massee SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Biatora aureolepra T. Sprib. & Tønsberg SPECIES
-=======
+# Biatora aureolepra T. Sprib. & Tønsberg SPECIES
 
 #### Status
 ACCEPTED

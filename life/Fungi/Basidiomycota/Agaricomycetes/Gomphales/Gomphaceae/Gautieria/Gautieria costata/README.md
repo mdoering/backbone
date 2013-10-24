@@ -1,5 +1,4 @@
-Gautieria costata G. Cunn. SPECIES
-=======
+# Gautieria costata G. Cunn. SPECIES
 
 #### Status
 ACCEPTED

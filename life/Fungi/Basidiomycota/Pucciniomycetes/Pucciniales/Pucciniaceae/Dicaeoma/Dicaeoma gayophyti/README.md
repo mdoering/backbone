@@ -1,5 +1,4 @@
-Dicaeoma gayophyti (Peck) Kuntze SPECIES
-=======
+# Dicaeoma gayophyti (Peck) Kuntze SPECIES
 
 #### Status
 ACCEPTED

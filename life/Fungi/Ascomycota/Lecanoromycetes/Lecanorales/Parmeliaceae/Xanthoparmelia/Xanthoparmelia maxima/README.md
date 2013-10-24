@@ -1,5 +1,4 @@
-Xanthoparmelia maxima Hale SPECIES
-=======
+# Xanthoparmelia maxima Hale SPECIES
 
 #### Status
 ACCEPTED

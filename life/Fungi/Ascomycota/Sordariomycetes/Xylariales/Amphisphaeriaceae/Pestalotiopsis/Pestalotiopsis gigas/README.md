@@ -1,5 +1,4 @@
-Pestalotiopsis gigas Steyaert SPECIES
-=======
+# Pestalotiopsis gigas Steyaert SPECIES
 
 #### Status
 ACCEPTED

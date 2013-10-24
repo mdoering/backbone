@@ -1,5 +1,4 @@
-Septoria thalictri Ellis & Everh. SPECIES
-=======
+# Septoria thalictri Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

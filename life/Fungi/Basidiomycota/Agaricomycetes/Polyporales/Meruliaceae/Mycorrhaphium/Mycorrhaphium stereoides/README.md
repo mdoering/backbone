@@ -1,17 +1,16 @@
-Hydnum insulare Pat., 1914 SPECIES
-=======
+# Mycorrhaphium stereoides (Cooke) Maas Geest., 1971 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Leafl. of Philipp. Bot. 6: 2251 (1914)
+Verh. K. ned. Akad. Wet. , Afd. Natuurkunde, Tweede Reeks 60(3): 152 (1971)
 
 #### Original name
-Hydnum insulare Pat., 1914
+Hydnum stereoides Cooke, 1892
 
 ### Remarks
 null

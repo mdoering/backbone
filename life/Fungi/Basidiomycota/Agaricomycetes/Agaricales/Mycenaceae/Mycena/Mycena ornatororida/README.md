@@ -1,5 +1,4 @@
-Mycena ornatororida Maas Geest. & de Meijer SPECIES
-=======
+# Mycena ornatororida Maas Geest. & de Meijer SPECIES
 
 #### Status
 ACCEPTED

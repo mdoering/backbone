@@ -1,5 +1,4 @@
-Elachopeltella sapindacearum Bat. & Cavalc., 1964 SPECIES
-=======
+# Elachopeltella sapindacearum Bat. & Cavalc., 1964 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pyrobaculum arsenaticum Huber et al., 2001 SPECIES
-=======
+# Pyrobaculum arsenaticum Huber et al., 2001 SPECIES
 
 #### Status
 ACCEPTED

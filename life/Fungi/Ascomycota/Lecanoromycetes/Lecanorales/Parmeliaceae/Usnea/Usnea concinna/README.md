@@ -1,5 +1,4 @@
-Usnea concinna Stirt. SPECIES
-=======
+# Usnea concinna Stirt. SPECIES
 
 #### Status
 ACCEPTED

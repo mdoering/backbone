@@ -1,5 +1,4 @@
-Dothidella vacciniicola Dearn. & House SPECIES
-=======
+# Dothidella vacciniicola Dearn. & House SPECIES
 
 #### Status
 ACCEPTED

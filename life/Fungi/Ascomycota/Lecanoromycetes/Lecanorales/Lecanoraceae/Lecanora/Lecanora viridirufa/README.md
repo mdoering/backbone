@@ -1,5 +1,4 @@
-Lecanora viridirufa (Ach.) Nyl. SPECIES
-=======
+# Lecanora viridirufa (Ach.) Nyl. SPECIES
 
 #### Status
 ACCEPTED

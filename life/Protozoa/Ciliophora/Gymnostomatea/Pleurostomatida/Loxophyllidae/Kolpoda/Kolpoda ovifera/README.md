@@ -1,5 +1,4 @@
-Kolpoda ovifera (Müller) Bory SPECIES
-=======
+# Kolpoda ovifera (Müller) Bory SPECIES
 
 #### Status
 ACCEPTED

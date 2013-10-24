@@ -1,5 +1,4 @@
-Haligenia Decaisne, 1842 GENUS
-=======
+# Haligenia Decaisne, 1842 GENUS
 
 #### Status
 ACCEPTED

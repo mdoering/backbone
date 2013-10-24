@@ -1,5 +1,4 @@
-Cladosporium comesii Carbone SPECIES
-=======
+# Cladosporium comesii Carbone SPECIES
 
 #### Status
 ACCEPTED

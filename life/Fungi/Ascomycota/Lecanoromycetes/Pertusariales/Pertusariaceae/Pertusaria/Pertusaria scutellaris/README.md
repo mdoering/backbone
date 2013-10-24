@@ -1,5 +1,4 @@
-Pertusaria scutellaris Müll. Arg. SPECIES
-=======
+# Pertusaria scutellaris Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

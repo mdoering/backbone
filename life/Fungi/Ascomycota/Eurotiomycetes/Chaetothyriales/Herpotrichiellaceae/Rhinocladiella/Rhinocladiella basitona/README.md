@@ -1,5 +1,4 @@
-Rhinocladiella basitona (de Hoog) Arzanlou & Crous SPECIES
-=======
+# Rhinocladiella basitona (de Hoog) Arzanlou & Crous SPECIES
 
 #### Status
 ACCEPTED

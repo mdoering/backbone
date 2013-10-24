@@ -1,5 +1,4 @@
-Dimerium alpinum E. Müll. SPECIES
-=======
+# Dimerium alpinum E. Müll. SPECIES
 
 #### Status
 ACCEPTED

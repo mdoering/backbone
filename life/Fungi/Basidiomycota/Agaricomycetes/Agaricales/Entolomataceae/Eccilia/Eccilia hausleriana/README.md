@@ -1,5 +1,4 @@
-Eccilia hausleriana Henn. SPECIES
-=======
+# Eccilia hausleriana Henn. SPECIES
 
 #### Status
 ACCEPTED

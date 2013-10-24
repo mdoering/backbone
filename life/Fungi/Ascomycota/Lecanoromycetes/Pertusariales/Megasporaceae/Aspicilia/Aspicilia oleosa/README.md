@@ -1,5 +1,4 @@
-Aspicilia oleosa Poelt SPECIES
-=======
+# Aspicilia oleosa Poelt SPECIES
 
 #### Status
 ACCEPTED

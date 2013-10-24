@@ -1,5 +1,4 @@
-Coryne cellaris Pers. SPECIES
-=======
+# Coryne cellaris Pers. SPECIES
 
 #### Status
 ACCEPTED

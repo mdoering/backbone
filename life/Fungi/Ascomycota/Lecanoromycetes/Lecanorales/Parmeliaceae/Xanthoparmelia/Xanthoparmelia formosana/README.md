@@ -1,5 +1,4 @@
-Xanthoparmelia formosana Kurok. SPECIES
-=======
+# Xanthoparmelia formosana Kurok. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Johansonia chapadiensis Crous, R.W. Barreto, Alfenas & R.F. Alfenas, 2010 SPECIES
-=======
+# Johansonia chapadiensis Crous, R.W. Barreto, Alfenas & R.F. Alfenas, 2010 SPECIES
 
 #### Status
 ACCEPTED

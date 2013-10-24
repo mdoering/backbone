@@ -1,5 +1,4 @@
-Coniosporium microleucurum Speg. SPECIES
-=======
+# Coniosporium microleucurum Speg. SPECIES
 
 #### Status
 ACCEPTED

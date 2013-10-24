@@ -1,5 +1,4 @@
-Hyalophysa chattoni Bradbury, 1966 SPECIES
-=======
+# Hyalophysa chattoni Bradbury, 1966 SPECIES
 
 #### Status
 ACCEPTED

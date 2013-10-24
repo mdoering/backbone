@@ -1,5 +1,4 @@
-Geoglossum aeruginosum Kunze & J.C. Schmidt SPECIES
-=======
+# Geoglossum aeruginosum Kunze & J.C. Schmidt SPECIES
 
 #### Status
 ACCEPTED

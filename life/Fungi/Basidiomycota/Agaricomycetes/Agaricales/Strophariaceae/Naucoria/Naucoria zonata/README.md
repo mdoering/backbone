@@ -1,5 +1,4 @@
-Naucoria zonata E. Ludw. & Reil SPECIES
-=======
+# Naucoria zonata E. Ludw. & Reil SPECIES
 
 #### Status
 ACCEPTED

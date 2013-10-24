@@ -1,5 +1,4 @@
-Balansiopsis guareae Bat. & H. Maia SPECIES
-=======
+# Balansiopsis guareae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Zonotrichium Meunier in Duc d'Orléans, 1910 GENUS
-=======
+# Zonotrichium Meunier in Duc d'Orléans, 1910 GENUS
 
 #### Status
 ACCEPTED

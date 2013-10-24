@@ -1,5 +1,4 @@
-Albugo molluginis S. Ito SPECIES
-=======
+# Albugo molluginis S. Ito SPECIES
 
 #### Status
 ACCEPTED

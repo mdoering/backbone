@@ -1,17 +1,16 @@
-Coprinus spragueii Berk. & M.A. Curtis SPECIES
-=======
+# Coprinus spraguei Berk. & M.A. Curtis SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Ann. Mag. nat. Hist. , Ser. 3 3: no. 83 (1859)
 
 #### Original name
-Coprinus spragueii Berk. & M.A. Curtis
+Coprinus spraguei Berk. & M.A. Curtis
 
 ### Remarks
 null

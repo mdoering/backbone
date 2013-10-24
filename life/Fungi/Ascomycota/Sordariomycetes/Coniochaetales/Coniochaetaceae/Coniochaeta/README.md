@@ -1,14 +1,13 @@
-Coniomela (Sacc.) Kirschst. GENUS
-=======
+# Coniochaeta (Sacc.) Cooke GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Trans. Br. mycol. Soc. 18: 306 (1934)
+Grevillea 16(no. 77): 16 (1887)
 
 #### Original name
 null

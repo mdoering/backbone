@@ -1,5 +1,4 @@
-Gloeocystidium tenuimembranaceum Rick SPECIES
-=======
+# Gloeocystidium tenuimembranaceum Rick SPECIES
 
 #### Status
 ACCEPTED

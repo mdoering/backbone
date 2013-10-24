@@ -1,5 +1,4 @@
-Buellia minuta SPECIES
-=======
+# Buellia minuta SPECIES
 
 #### Status
 ACCEPTED

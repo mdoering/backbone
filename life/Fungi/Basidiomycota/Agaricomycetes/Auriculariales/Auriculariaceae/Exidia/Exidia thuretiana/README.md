@@ -1,17 +1,16 @@
-Exidia albida var. albida (Huds.) Bref. VARIETY
-=======
+# Exidia thuretiana (Lév.) Fr., 1874 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Unters. Gesammtgeb. Mykol. 7: 94 (1888)
+Hymenomyc. eur. (Upsaliae) 694 (1874)
 
 #### Original name
-Exidia albida var. albida (Huds.) Bref.
+null
 
 ### Remarks
 null

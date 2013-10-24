@@ -1,5 +1,4 @@
-Vermicularia atricha Ellis & Everh. SPECIES
-=======
+# Vermicularia atricha Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

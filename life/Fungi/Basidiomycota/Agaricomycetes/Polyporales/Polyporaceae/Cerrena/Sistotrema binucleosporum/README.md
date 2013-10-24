@@ -1,5 +1,4 @@
-Sistotrema binucleosporum Hallenb., 1984 SPECIES
-=======
+# Sistotrema binucleosporum Hallenb., 1984 SPECIES
 
 #### Status
 DOUBTFUL

@@ -1,5 +1,4 @@
-Leotia cyanescens Velen. SPECIES
-=======
+# Leotia cyanescens Velen. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,14 +1,13 @@
-Pocillaria subdulcis (Berk.) Kuntze, 1891 SPECIES
-=======
+# Lentinus subdulcis Berk., 1851 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 2: 866 (1891)
+Hooker's J. Bot. Kew Gard. Misc. 3: 46 (1851)
 
 #### Original name
 Lentinus subdulcis Berk., 1851

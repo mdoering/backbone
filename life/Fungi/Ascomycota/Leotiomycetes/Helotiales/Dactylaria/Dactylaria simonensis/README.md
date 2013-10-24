@@ -1,5 +1,4 @@
-Dactylaria simonensis R.F. Castañeda & W.B. Kendr. SPECIES
-=======
+# Dactylaria simonensis R.F. Castañeda & W.B. Kendr. SPECIES
 
 #### Status
 ACCEPTED

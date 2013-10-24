@@ -1,5 +1,4 @@
-Pontosphaera punctosa (Bramlette & Sullivan, 1961) Perch-Nielsen, 1984 SPECIES
-=======
+# Pontosphaera punctosa (Bramlette & Sullivan, 1961) Perch-Nielsen, 1984 SPECIES
 
 #### Status
 ACCEPTED

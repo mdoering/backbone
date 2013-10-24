@@ -1,5 +1,4 @@
-Halorhiza vaga Kützing SPECIES
-=======
+# Halorhiza vaga Kützing SPECIES
 
 #### Status
 ACCEPTED

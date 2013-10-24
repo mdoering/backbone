@@ -1,5 +1,4 @@
-Siphula aquatica Zahlbr. SPECIES
-=======
+# Siphula aquatica Zahlbr. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,8 +1,7 @@
-Verrucaria tongleti Hue SPECIES
-=======
+# Verrucaria tongletii Hue SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Verrucaria tongleti Hue
+Verrucaria tongletii Hue
 
 ### Remarks
 null

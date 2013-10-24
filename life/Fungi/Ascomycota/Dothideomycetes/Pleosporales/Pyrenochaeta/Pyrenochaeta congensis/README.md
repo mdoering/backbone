@@ -1,5 +1,4 @@
-Pyrenochaeta congensis Beeli SPECIES
-=======
+# Pyrenochaeta congensis Beeli SPECIES
 
 #### Status
 ACCEPTED

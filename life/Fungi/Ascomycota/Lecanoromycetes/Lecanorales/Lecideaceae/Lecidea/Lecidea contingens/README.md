@@ -1,5 +1,4 @@
-Lecidea contingens Nyl. SPECIES
-=======
+# Lecidea contingens Nyl. SPECIES
 
 #### Status
 ACCEPTED

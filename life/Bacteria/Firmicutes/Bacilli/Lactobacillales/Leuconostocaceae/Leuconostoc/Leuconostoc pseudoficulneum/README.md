@@ -1,5 +1,4 @@
-Leuconostoc pseudoficulneum Chambel et al., 2006 SPECIES
-=======
+# Leuconostoc pseudoficulneum Chambel et al., 2006 SPECIES
 
 #### Status
 ACCEPTED

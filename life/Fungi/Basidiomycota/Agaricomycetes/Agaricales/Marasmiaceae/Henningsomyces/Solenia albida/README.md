@@ -1,5 +1,4 @@
-Solenia albida anon. SPECIES
-=======
+# Solenia albida anon. SPECIES
 
 #### Status
 ACCEPTED

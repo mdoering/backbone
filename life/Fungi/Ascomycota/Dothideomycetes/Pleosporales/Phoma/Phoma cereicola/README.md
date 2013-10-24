@@ -1,5 +1,4 @@
-Phoma cereicola Henn. SPECIES
-=======
+# Phoma cereicola Henn. SPECIES
 
 #### Status
 ACCEPTED

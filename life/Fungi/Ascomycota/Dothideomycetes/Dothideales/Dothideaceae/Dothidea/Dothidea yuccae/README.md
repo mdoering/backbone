@@ -1,5 +1,4 @@
-Dothidea yuccae Ellis & Everh. SPECIES
-=======
+# Dothidea yuccae Ellis & Everh. SPECIES
 
 #### Status
 ACCEPTED

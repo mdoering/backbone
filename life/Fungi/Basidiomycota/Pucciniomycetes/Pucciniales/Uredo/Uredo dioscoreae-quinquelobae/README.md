@@ -1,5 +1,4 @@
-Uredo dioscoreae-quinquelobae Henn. SPECIES
-=======
+# Uredo dioscoreae-quinquelobae Henn. SPECIES
 
 #### Status
 ACCEPTED

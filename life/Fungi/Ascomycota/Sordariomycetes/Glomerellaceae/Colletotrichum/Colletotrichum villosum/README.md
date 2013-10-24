@@ -1,5 +1,4 @@
-Colletotrichum villosum Weimer SPECIES
-=======
+# Colletotrichum villosum Weimer SPECIES
 
 #### Status
 ACCEPTED

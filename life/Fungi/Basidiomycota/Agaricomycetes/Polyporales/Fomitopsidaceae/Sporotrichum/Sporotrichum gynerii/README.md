@@ -1,5 +1,4 @@
-Sporotrichum gynerii Lambotte & Fautrey ex Keissl. SPECIES
-=======
+# Sporotrichum gynerii Lambotte & Fautrey ex Keissl. SPECIES
 
 #### Status
 ACCEPTED

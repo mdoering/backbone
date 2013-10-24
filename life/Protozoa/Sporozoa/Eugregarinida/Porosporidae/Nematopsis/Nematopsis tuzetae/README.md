@@ -1,8 +1,7 @@
-Porospora tuzetae Vivares, 1972 SPECIES
-=======
+# Nematopsis tuzetae (Vivares, 1972) SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 World Register of Marine Species

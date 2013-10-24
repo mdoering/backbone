@@ -1,17 +1,16 @@
-Cortinarius caerulescens f. caerulescens FORM
-=======
+# Cortinarius caerulescens (Schaeff.) Fr., 1838 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
 Epicr. syst. mycol. (Upsaliae) 265 (1838)
 
 #### Original name
-Cortinarius caerulescens f. caerulescens
+Cortinarius caerulescens (Schaeff.) Fr., 1838
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cryptostictis utensis Fairm. SPECIES
-=======
+# Cryptostictis utensis Fairm. SPECIES
 
 #### Status
 ACCEPTED

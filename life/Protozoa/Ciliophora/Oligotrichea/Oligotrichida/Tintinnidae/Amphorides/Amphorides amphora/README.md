@@ -1,5 +1,4 @@
-Amphorides amphora (Claparède & Lachmann, 1858) SPECIES
-=======
+# Amphorides amphora (Claparède & Lachmann, 1858) SPECIES
 
 #### Status
 ACCEPTED

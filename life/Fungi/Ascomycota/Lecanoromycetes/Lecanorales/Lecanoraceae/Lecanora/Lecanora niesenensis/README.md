@@ -1,5 +1,4 @@
-Lecanora niesenensis H. Magn. SPECIES
-=======
+# Lecanora niesenensis H. Magn. SPECIES
 
 #### Status
 ACCEPTED

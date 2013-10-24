@@ -1,5 +1,4 @@
-Canoparmelia rupicola (Lynge) Elix SPECIES
-=======
+# Canoparmelia rupicola (Lynge) Elix SPECIES
 
 #### Status
 ACCEPTED

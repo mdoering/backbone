@@ -1,5 +1,4 @@
-Entyloma henningsiana Syd. & P. Syd. SPECIES
-=======
+# Entyloma henningsiana Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

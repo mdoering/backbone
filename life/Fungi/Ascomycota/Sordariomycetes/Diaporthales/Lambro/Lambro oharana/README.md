@@ -1,5 +1,4 @@
-Lambro oharana (Y. Nisik. & H. Matsumoto) E. Müll. SPECIES
-=======
+# Lambro oharana (Y. Nisik. & H. Matsumoto) E. Müll. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Polyporus basiphaeus Sacc. SPECIES
-=======
+# Polyporus basiphaeus Sacc. SPECIES
 
 #### Status
 ACCEPTED

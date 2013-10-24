@@ -1,17 +1,16 @@
-Camarophyllus ectypus (Fr.) P. Karst., 1879 SPECIES
-=======
+# Armillaria ectypa (Fr.) Lamoure, 1965 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+C. r. hebd. Séanc. Acad. Sci. , Paris 260: 4562 (1965)
 
 #### Original name
-null
+Agaricus ectypus Fr., 1821
 
 ### Remarks
 null

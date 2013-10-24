@@ -1,5 +1,4 @@
-Laboulbenia stolonicola Speg. SPECIES
-=======
+# Laboulbenia stolonicola Speg. SPECIES
 
 #### Status
 ACCEPTED

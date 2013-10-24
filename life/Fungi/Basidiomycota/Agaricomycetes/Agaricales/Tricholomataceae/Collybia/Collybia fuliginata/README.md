@@ -1,5 +1,4 @@
-Collybia fuliginata Weinm. SPECIES
-=======
+# Collybia fuliginata Weinm. SPECIES
 
 #### Status
 ACCEPTED

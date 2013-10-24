@@ -1,5 +1,4 @@
-Ramalina pitardii Hue SPECIES
-=======
+# Ramalina pitardii Hue SPECIES
 
 #### Status
 ACCEPTED

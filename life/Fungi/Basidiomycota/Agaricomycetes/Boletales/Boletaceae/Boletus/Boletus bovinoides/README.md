@@ -1,5 +1,4 @@
-Boletus bovinoides J. Blum SPECIES
-=======
+# Boletus bovinoides J. Blum SPECIES
 
 #### Status
 ACCEPTED

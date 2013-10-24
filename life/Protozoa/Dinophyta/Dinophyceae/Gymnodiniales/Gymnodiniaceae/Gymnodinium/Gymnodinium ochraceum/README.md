@@ -1,5 +1,4 @@
-Gymnodinium ochraceum Kofoid, 1931 SPECIES
-=======
+# Gymnodinium ochraceum Kofoid, 1931 SPECIES
 
 #### Status
 ACCEPTED

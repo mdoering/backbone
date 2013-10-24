@@ -1,5 +1,4 @@
-Coniosporium koshotankan Sawada SPECIES
-=======
+# Coniosporium koshotankan Sawada SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Puccinia dasantherae Savile SPECIES
-=======
+# Puccinia dasantherae Savile SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Pholiota carbonicola Singer SPECIES
-=======
+# Pholiota carbonicola Singer SPECIES
 
 #### Status
 ACCEPTED

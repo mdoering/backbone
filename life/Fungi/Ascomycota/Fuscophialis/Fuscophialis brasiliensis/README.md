@@ -1,5 +1,4 @@
-Fuscophialis brasiliensis B. Sutton, 1977 SPECIES
-=======
+# Fuscophialis brasiliensis B. Sutton, 1977 SPECIES
 
 #### Status
 ACCEPTED

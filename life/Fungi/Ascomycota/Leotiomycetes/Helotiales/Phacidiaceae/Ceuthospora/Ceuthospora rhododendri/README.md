@@ -1,5 +1,4 @@
-Ceuthospora rhododendri Grove, 1935 SPECIES
-=======
+# Ceuthospora rhododendri Grove, 1935 SPECIES
 
 #### Status
 ACCEPTED

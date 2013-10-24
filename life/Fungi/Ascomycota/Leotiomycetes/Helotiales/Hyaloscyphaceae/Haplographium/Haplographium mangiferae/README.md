@@ -1,5 +1,4 @@
-Haplographium mangiferae Deighton SPECIES
-=======
+# Haplographium mangiferae Deighton SPECIES
 
 #### Status
 ACCEPTED

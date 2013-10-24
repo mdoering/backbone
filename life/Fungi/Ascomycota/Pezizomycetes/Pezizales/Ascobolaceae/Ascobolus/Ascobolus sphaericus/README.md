@@ -1,5 +1,4 @@
-Ascobolus sphaericus Preuss SPECIES
-=======
+# Ascobolus sphaericus Preuss SPECIES
 
 #### Status
 ACCEPTED

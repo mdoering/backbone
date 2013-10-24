@@ -1,5 +1,4 @@
-Pseudodiplodia potentillae (Petr.) Petr. SPECIES
-=======
+# Pseudodiplodia potentillae (Petr.) Petr. SPECIES
 
 #### Status
 ACCEPTED

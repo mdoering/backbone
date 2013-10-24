@@ -1,5 +1,4 @@
-Rhizophydium sporoctonum (A. Braun) Berl. & De Toni SPECIES
-=======
+# Rhizophydium sporoctonum (A. Braun) Berl. & De Toni SPECIES
 
 #### Status
 ACCEPTED

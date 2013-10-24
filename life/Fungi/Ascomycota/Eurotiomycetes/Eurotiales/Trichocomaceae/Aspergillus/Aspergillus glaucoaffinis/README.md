@@ -1,5 +1,4 @@
-Aspergillus glaucoaffinis Samson & W. Gams SPECIES
-=======
+# Aspergillus glaucoaffinis Samson & W. Gams SPECIES
 
 #### Status
 ACCEPTED

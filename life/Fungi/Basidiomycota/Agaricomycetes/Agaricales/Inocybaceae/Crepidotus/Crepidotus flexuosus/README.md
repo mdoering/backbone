@@ -1,5 +1,4 @@
-Crepidotus flexuosus Hesler & A.H. Sm. SPECIES
-=======
+# Crepidotus flexuosus Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED

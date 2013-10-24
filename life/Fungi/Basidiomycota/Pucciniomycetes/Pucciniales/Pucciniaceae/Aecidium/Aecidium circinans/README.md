@@ -1,5 +1,4 @@
-Aecidium circinans Erikss. SPECIES
-=======
+# Aecidium circinans Erikss. SPECIES
 
 #### Status
 ACCEPTED

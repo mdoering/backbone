@@ -1,5 +1,4 @@
-Sphaerella prignitzensis Kirschst. SPECIES
-=======
+# Sphaerella prignitzensis Kirschst. SPECIES
 
 #### Status
 ACCEPTED

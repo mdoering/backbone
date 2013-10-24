@@ -1,5 +1,4 @@
-Scleroderris padi Rostr. SPECIES
-=======
+# Scleroderris padi Rostr. SPECIES
 
 #### Status
 ACCEPTED

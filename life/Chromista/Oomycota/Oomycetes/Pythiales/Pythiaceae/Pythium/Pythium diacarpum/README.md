@@ -1,5 +1,4 @@
-Pythium diacarpum E.J. Butler, 1907 SPECIES
-=======
+# Pythium diacarpum E.J. Butler, 1907 SPECIES
 
 #### Status
 ACCEPTED

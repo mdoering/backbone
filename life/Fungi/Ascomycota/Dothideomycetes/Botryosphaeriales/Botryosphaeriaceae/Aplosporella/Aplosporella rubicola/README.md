@@ -1,5 +1,4 @@
-Aplosporella rubicola Maire SPECIES
-=======
+# Aplosporella rubicola Maire SPECIES
 
 #### Status
 ACCEPTED

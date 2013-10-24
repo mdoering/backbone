@@ -1,14 +1,13 @@
-Ramularia atraphaxidis (Golovin) U. Braun SPECIES
-=======
+# Ramularia atraphaxis (Golovin) U. Braun SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-null
+Int. J. Mycol. Lichenol. 3(2-3): 280 (1988)
 
 #### Original name
 Ovularia atraphaxis Golovin

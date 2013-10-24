@@ -1,5 +1,4 @@
-Aecidium actinidiae Syd. & P. Syd. SPECIES
-=======
+# Aecidium actinidiae Syd. & P. Syd. SPECIES
 
 #### Status
 ACCEPTED

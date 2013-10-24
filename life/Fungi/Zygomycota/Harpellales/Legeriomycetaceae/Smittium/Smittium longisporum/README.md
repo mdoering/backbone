@@ -1,5 +1,4 @@
-Smittium longisporum M.C. Williams, Lichtw. & S.W. Peterson, 1982 SPECIES
-=======
+# Smittium longisporum M.C. Williams, Lichtw. & S.W. Peterson, 1982 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Hydrocybe aromatica E. Horak SPECIES
-=======
+# Hydrocybe aromatica E. Horak SPECIES
 
 #### Status
 ACCEPTED

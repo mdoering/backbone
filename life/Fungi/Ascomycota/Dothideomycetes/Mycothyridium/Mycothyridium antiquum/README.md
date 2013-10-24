@@ -1,5 +1,4 @@
-Mycothyridium antiquum (Ellis & Everh.) Petr. SPECIES
-=======
+# Mycothyridium antiquum (Ellis & Everh.) Petr. SPECIES
 
 #### Status
 ACCEPTED

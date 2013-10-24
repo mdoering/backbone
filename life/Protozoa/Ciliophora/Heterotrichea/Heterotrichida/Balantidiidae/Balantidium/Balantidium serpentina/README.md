@@ -1,5 +1,4 @@
-Balantidium serpentina Fantham & Porter, 1950 SPECIES
-=======
+# Balantidium serpentina Fantham & Porter, 1950 SPECIES
 
 #### Status
 ACCEPTED

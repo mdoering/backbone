@@ -1,5 +1,4 @@
-Sargassum nigrifolium Yendo SPECIES
-=======
+# Sargassum nigrifolium Yendo SPECIES
 
 #### Status
 ACCEPTED

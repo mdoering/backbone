@@ -1,17 +1,16 @@
-Lennisia Nieuwl. GENUS
-=======
+# Monochaetia (Saccardo) Allescher, 1902 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Am. Midl. Nat. 4: 380 (1916)
+Rabenh. Krypt. -Fl. (Leipzig), Edn 2 1(7): 665 (1902)
 
 #### Original name
-Lennisia Nieuwl.
+null
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cytospora artemisiae Petr. SPECIES
-=======
+# Cytospora artemisiae Petr. SPECIES
 
 #### Status
 ACCEPTED

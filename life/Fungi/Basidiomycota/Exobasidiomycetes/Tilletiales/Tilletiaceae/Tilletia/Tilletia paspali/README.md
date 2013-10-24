@@ -1,5 +1,4 @@
-Tilletia paspali Zundel SPECIES
-=======
+# Tilletia paspali Zundel SPECIES
 
 #### Status
 ACCEPTED

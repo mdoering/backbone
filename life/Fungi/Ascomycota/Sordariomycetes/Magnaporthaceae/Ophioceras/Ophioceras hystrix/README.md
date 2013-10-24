@@ -1,5 +1,4 @@
-Ophioceras hystrix (Ces.) Sacc. SPECIES
-=======
+# Ophioceras hystrix (Ces.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

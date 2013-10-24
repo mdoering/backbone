@@ -1,5 +1,4 @@
-Urceolaria opegraphoides DC. SPECIES
-=======
+# Urceolaria opegraphoides DC. SPECIES
 
 #### Status
 ACCEPTED

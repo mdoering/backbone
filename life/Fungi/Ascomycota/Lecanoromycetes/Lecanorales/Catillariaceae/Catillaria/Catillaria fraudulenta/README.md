@@ -1,5 +1,4 @@
-Catillaria fraudulenta Körb. SPECIES
-=======
+# Catillaria fraudulenta Körb. SPECIES
 
 #### Status
 ACCEPTED

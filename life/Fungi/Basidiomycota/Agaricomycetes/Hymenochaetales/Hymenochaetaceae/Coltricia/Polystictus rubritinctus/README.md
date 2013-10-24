@@ -1,5 +1,4 @@
-Polystictus rubritinctus (Murrill) Sacc. & Trotter SPECIES
-=======
+# Polystictus rubritinctus (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

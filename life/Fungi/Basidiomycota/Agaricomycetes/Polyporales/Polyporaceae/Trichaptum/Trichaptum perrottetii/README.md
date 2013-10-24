@@ -1,17 +1,16 @@
-Microporus endothrix (Berk.) Kuntze, 1898 SPECIES
-=======
+# Trichaptum perrottetii (Lév.) Ryvarden, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Revis. gen. pl. (Leipzig) 3(2): 496 (1898)
+Norw. Jl Bot. 19: 237 (1972)
 
 #### Original name
-Polyporus endothrix Berk., 1856
+Trametes perrottetii Lév., 1844
 
 ### Remarks
 null

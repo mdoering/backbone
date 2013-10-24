@@ -1,5 +1,4 @@
-Ceratomyces falcatus Thaxt. SPECIES
-=======
+# Ceratomyces falcatus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

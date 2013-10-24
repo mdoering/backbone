@@ -1,5 +1,4 @@
-Bjerkandera isabellina (Schwein.) P. Karst. SPECIES
-=======
+# Bjerkandera isabellina (Schwein.) P. Karst. SPECIES
 
 #### Status
 ACCEPTED

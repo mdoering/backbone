@@ -1,5 +1,4 @@
-Trachysphenia australis Petit SPECIES
-=======
+# Trachysphenia australis Petit SPECIES
 
 #### Status
 ACCEPTED

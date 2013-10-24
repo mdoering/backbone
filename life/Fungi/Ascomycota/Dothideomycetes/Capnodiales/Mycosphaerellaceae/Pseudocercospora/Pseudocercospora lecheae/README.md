@@ -1,5 +1,4 @@
-Pseudocercospora lecheae (Chupp & H.C. Greene) U. Braun & Crous SPECIES
-=======
+# Pseudocercospora lecheae (Chupp & H.C. Greene) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

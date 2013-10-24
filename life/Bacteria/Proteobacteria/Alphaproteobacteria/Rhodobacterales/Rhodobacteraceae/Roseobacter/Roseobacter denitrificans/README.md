@@ -1,5 +1,4 @@
-Roseobacter denitrificans Shiba, 1991 SPECIES
-=======
+# Roseobacter denitrificans Shiba, 1991 SPECIES
 
 #### Status
 ACCEPTED

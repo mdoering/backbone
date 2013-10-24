@@ -1,5 +1,4 @@
-Marasmius omphalodes Berk. SPECIES
-=======
+# Marasmius omphalodes Berk. SPECIES
 
 #### Status
 ACCEPTED

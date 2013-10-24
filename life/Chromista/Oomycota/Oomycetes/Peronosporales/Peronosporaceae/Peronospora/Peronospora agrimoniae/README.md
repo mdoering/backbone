@@ -1,5 +1,4 @@
-Peronospora agrimoniae Syd. SPECIES
-=======
+# Peronospora agrimoniae Syd. SPECIES
 
 #### Status
 ACCEPTED

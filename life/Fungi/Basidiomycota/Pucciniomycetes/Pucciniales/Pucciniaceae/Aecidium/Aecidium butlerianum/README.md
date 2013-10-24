@@ -1,5 +1,4 @@
-Aecidium butlerianum H.R. Rosen & Arthur SPECIES
-=======
+# Aecidium butlerianum H.R. Rosen & Arthur SPECIES
 
 #### Status
 ACCEPTED

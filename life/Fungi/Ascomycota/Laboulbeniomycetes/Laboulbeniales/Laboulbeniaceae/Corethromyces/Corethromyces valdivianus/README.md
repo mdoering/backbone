@@ -1,5 +1,4 @@
-Corethromyces valdivianus Thaxt. SPECIES
-=======
+# Corethromyces valdivianus Thaxt. SPECIES
 
 #### Status
 ACCEPTED

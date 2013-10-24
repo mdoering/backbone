@@ -1,5 +1,4 @@
-Fusidium pyrinum Corda SPECIES
-=======
+# Fusidium pyrinum Corda SPECIES
 
 #### Status
 ACCEPTED

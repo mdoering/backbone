@@ -1,17 +1,16 @@
-Cryptophaeella Höhn. GENUS
-=======
+# Microsphaeropsis von Höhnel, 1917 GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Sber. Akad. Wiss. Wien, Math. -naturw. Kl. , Abt. 1 126: 360 (1917)
+Hedwigia 59: 267 (1917)
 
 #### Original name
-Cryptophaeella Höhn.
+Microsphaeropsis von Höhnel, 1917
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Echinochaetomium ined. GENUS
-=======
+# Echinochaetomium ined. GENUS
 
 #### Status
 ACCEPTED

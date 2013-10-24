@@ -1,5 +1,4 @@
-Thekopsora nipponica Hirats. f. SPECIES
-=======
+# Thekopsora nipponica Hirats. f. SPECIES
 
 #### Status
 ACCEPTED

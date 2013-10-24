@@ -1,5 +1,4 @@
-Piromyces mae J.L. Li, 1990 SPECIES
-=======
+# Piromyces mae J.L. Li, 1990 SPECIES
 
 #### Status
 ACCEPTED

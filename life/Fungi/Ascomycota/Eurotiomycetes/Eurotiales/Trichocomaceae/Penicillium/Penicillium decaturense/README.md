@@ -1,5 +1,4 @@
-Penicillium decaturense S.W. Peterson, E.M. Bayer & Wicklow SPECIES
-=======
+# Penicillium decaturense S.W. Peterson, E.M. Bayer & Wicklow SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Lecanora scutellaris (Schaer.) Motyka SPECIES
-=======
+# Lecanora scutellaris (Schaer.) Motyka SPECIES
 
 #### Status
 ACCEPTED

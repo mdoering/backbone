@@ -1,5 +1,4 @@
-Ripartites amparae Singer SPECIES
-=======
+# Ripartites amparae Singer SPECIES
 
 #### Status
 ACCEPTED

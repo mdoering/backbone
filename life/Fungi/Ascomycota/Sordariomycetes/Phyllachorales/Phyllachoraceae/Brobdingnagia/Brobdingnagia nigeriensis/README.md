@@ -1,17 +1,16 @@
-Brobdingnagia nigeriensis subsp. nigeriensis SUBSPECIES
-=======
+# Brobdingnagia nigeriensis (Sivan. & Okpala) K.D. Hyde & P.F. Cannon, 1999 SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycol. Pap. 175: 47 (1999)
+null
 
 #### Original name
-Brobdingnagia nigeriensis subsp. nigeriensis
+null
 
 ### Remarks
 null

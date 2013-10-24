@@ -1,5 +1,4 @@
-Selenophoma sphagnophila Neophyt. SPECIES
-=======
+# Selenophoma sphagnophila Neophyt. SPECIES
 
 #### Status
 ACCEPTED

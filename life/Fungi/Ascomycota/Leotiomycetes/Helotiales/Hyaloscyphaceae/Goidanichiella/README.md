@@ -1,5 +1,4 @@
-Goidanichiella GENUS
-=======
+# Goidanichiella GENUS
 
 #### Status
 ACCEPTED

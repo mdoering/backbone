@@ -1,5 +1,4 @@
-Lactarius rubrifulvus Clem. SPECIES
-=======
+# Lactarius rubrifulvus Clem. SPECIES
 
 #### Status
 ACCEPTED

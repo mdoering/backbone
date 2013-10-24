@@ -1,5 +1,4 @@
-Caeoma juniperi Link SPECIES
-=======
+# Caeoma juniperi Link SPECIES
 
 #### Status
 ACCEPTED

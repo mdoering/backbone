@@ -1,5 +1,4 @@
-Tokophrya pulchra SPECIES
-=======
+# Tokophrya pulchra SPECIES
 
 #### Status
 ACCEPTED

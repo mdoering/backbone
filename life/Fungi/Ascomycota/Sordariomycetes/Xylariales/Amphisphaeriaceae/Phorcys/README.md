@@ -1,5 +1,4 @@
-Phorcys GENUS
-=======
+# Phorcys GENUS
 
 #### Status
 ACCEPTED

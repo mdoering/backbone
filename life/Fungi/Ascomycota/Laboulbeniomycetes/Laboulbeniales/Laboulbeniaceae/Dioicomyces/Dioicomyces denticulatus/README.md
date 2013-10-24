@@ -1,5 +1,4 @@
-Dioicomyces denticulatus Santam. SPECIES
-=======
+# Dioicomyces denticulatus Santam. SPECIES
 
 #### Status
 ACCEPTED

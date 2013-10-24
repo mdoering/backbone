@@ -1,14 +1,13 @@
-Dactylella polybrochum (Drechsler) Mekht. SPECIES
-=======
+# Monacrosporium polybrochum (Drechsler) Subram., 1977 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Kavaka 5: 96 (1977)
 
 #### Original name
 Trichothecium polybrochum Drechsler, 1937

@@ -1,5 +1,4 @@
-Uredo schellhammerae McAlpine SPECIES
-=======
+# Uredo schellhammerae McAlpine SPECIES
 
 #### Status
 ACCEPTED

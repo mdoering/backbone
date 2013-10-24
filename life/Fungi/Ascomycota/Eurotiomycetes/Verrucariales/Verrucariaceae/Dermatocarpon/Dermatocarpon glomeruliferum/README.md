@@ -1,5 +1,4 @@
-Dermatocarpon glomeruliferum A. Massal. SPECIES
-=======
+# Dermatocarpon glomeruliferum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

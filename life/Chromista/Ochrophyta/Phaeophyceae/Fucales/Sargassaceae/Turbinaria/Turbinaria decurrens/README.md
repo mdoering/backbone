@@ -1,8 +1,7 @@
-Turbinaria vulgaris var. decurrens (Bory de Saint-Vincent) J. Agardh VARIETY
-=======
+# Turbinaria decurrens Bory de Saint-Vincent SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

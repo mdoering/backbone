@@ -1,5 +1,4 @@
-Phoma catesbeyi Thüm. SPECIES
-=======
+# Phoma catesbeyi Thüm. SPECIES
 
 #### Status
 ACCEPTED

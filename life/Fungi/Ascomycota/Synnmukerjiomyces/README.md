@@ -1,5 +1,4 @@
-Synnmukerjiomyces Aneja & R. Kumar GENUS
-=======
+# Synnmukerjiomyces Aneja & R. Kumar GENUS
 
 #### Status
 ACCEPTED

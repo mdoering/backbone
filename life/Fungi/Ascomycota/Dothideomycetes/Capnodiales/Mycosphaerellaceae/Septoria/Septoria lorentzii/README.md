@@ -1,5 +1,4 @@
-Septoria lorentzii Speg. SPECIES
-=======
+# Septoria lorentzii Speg. SPECIES
 
 #### Status
 ACCEPTED

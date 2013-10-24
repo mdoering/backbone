@@ -1,5 +1,4 @@
-Lecquereusis GENUS
-=======
+# Lecquereusis GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cladosporium cycadia A. Massal. SPECIES
-=======
+# Cladosporium cycadia A. Massal. SPECIES
 
 #### Status
 ACCEPTED

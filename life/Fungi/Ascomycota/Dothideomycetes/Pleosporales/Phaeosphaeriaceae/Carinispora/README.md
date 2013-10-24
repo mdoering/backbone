@@ -1,5 +1,4 @@
-Carinispora K.D. Hyde GENUS
-=======
+# Carinispora K.D. Hyde GENUS
 
 #### Status
 ACCEPTED

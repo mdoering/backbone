@@ -1,5 +1,4 @@
-Aulographum microthyrioideum Rehm SPECIES
-=======
+# Aulographum microthyrioideum Rehm SPECIES
 
 #### Status
 ACCEPTED

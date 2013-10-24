@@ -1,14 +1,13 @@
-Preussia pascua (Niessl) Valldos. & Guarro, 1990 SPECIES
-=======
+# Sporormiella pascua (Niessl) S.I. Ahmed & Cain, 1972 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Boln Soc. Micol. Madrid 14: 88 (1990)
+Can. J. Bot. 50(3): 454 (1972)
 
 #### Original name
 Sporormia pascua Niessl, 1878

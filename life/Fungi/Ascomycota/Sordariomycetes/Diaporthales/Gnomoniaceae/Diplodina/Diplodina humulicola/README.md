@@ -1,5 +1,4 @@
-Diplodina humulicola Hollós SPECIES
-=======
+# Diplodina humulicola Hollós SPECIES
 
 #### Status
 ACCEPTED

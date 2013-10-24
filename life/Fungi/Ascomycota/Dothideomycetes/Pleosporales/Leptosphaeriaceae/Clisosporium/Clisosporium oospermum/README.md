@@ -1,5 +1,4 @@
-Clisosporium oospermum (Fuckel) Kuntze SPECIES
-=======
+# Clisosporium oospermum (Fuckel) Kuntze SPECIES
 
 #### Status
 ACCEPTED

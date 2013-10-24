@@ -1,5 +1,4 @@
-Agonimia octospora Coppins & P. James SPECIES
-=======
+# Agonimia octospora Coppins & P. James SPECIES
 
 #### Status
 ACCEPTED

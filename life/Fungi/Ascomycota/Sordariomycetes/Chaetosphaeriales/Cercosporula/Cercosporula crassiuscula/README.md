@@ -1,5 +1,4 @@
-Cercosporula crassiuscula G. Arnaud SPECIES
-=======
+# Cercosporula crassiuscula G. Arnaud SPECIES
 
 #### Status
 ACCEPTED

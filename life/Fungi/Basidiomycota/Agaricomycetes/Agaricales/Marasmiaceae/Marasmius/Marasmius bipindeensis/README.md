@@ -1,5 +1,4 @@
-Marasmius bipindeensis Henn. SPECIES
-=======
+# Marasmius bipindeensis Henn. SPECIES
 
 #### Status
 ACCEPTED

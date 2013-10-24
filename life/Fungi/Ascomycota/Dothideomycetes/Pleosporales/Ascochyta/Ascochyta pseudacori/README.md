@@ -1,5 +1,4 @@
-Ascochyta pseudacori Oudem. SPECIES
-=======
+# Ascochyta pseudacori Oudem. SPECIES
 
 #### Status
 ACCEPTED

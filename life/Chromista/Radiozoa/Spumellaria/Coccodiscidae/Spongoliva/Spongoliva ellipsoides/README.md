@@ -1,5 +1,4 @@
-Spongoliva ellipsoides Popofsky, 1912 SPECIES
-=======
+# Spongoliva ellipsoides Popofsky, 1912 SPECIES
 
 #### Status
 ACCEPTED

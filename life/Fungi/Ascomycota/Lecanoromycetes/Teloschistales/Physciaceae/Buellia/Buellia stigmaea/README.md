@@ -1,14 +1,13 @@
-Buellia maculata Bungartz SPECIES
-=======
+# Buellia stigmaea Tuck. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
 
 #### Published in
-in Bungartz & Nash, Bryologist 107(4): 454 (2004)
+Syn. N. Amer. Fungi 2: 90 (1888)
 
 #### Original name
 Buellia stigmaea Tuck.

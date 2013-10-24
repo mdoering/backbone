@@ -1,5 +1,4 @@
-Bullaria invaginata (Arthur & J.R. Johnst.) Arthur & Mains SPECIES
-=======
+# Bullaria invaginata (Arthur & J.R. Johnst.) Arthur & Mains SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Antrodiella semistipitata Bernicchia & Ryvarden SPECIES
-=======
+# Antrodiella semistipitata Bernicchia & Ryvarden SPECIES
 
 #### Status
 ACCEPTED

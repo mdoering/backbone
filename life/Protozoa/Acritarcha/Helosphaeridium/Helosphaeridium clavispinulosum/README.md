@@ -1,5 +1,4 @@
-Helosphaeridium clavispinulosum Lister, 1970 SPECIES
-=======
+# Helosphaeridium clavispinulosum Lister, 1970 SPECIES
 
 #### Status
 ACCEPTED

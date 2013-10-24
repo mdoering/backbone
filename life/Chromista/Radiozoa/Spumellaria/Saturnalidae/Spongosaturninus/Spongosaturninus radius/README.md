@@ -1,5 +1,4 @@
-Spongosaturninus radius SPECIES
-=======
+# Spongosaturninus radius SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Fusarium celosiae Abe {?} SPECIES
-=======
+# Fusarium celosiae Abe {?} SPECIES
 
 #### Status
 ACCEPTED

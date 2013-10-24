@@ -1,5 +1,4 @@
-Pseudofavolus nigrus Ryvarden, 1987 SPECIES
-=======
+# Pseudofavolus nigrus Ryvarden, 1987 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Tintinnopsis Stein, 1867 GENUS
-=======
+# Tintinnopsis Stein, 1867 GENUS
 
 #### Status
 ACCEPTED

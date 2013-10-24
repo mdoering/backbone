@@ -1,5 +1,4 @@
-Dasygloea amorpha Thwaites ex Gomont SPECIES
-=======
+# Dasygloea amorpha Thwaites ex Gomont SPECIES
 
 #### Status
 ACCEPTED

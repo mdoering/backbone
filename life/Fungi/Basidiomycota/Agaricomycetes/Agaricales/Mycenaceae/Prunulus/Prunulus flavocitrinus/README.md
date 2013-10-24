@@ -1,5 +1,4 @@
-Prunulus flavocitrinus Murrill SPECIES
-=======
+# Prunulus flavocitrinus Murrill SPECIES
 
 #### Status
 ACCEPTED

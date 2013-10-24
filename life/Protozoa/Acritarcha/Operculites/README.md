@@ -1,5 +1,4 @@
-Operculites K.R. Newman, 1965 GENUS
-=======
+# Operculites K.R. Newman, 1965 GENUS
 
 #### Status
 ACCEPTED

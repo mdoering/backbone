@@ -1,5 +1,4 @@
-Lecanora rubrocincta Stirt. SPECIES
-=======
+# Lecanora rubrocincta Stirt. SPECIES
 
 #### Status
 ACCEPTED

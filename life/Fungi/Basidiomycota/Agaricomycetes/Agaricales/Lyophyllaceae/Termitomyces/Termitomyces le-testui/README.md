@@ -1,5 +1,4 @@
-Termitomyces le-testui f. le-testui FORM
-=======
+# Termitomyces le-testui (Pat.) R. Heim SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 Arch. Mus. Hist. Nat. Paris, ser. 6 18: 109 (1942)
 
 #### Original name
-Termitomyces le-testui f. le-testui
+Lepiota le-testui Pat.
 
 ### Remarks
 null

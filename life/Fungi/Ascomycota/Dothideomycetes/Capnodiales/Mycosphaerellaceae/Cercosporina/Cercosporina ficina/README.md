@@ -1,5 +1,4 @@
-Cercosporina ficina (Tharp) Sacc. SPECIES
-=======
+# Cercosporina ficina (Tharp) Sacc. SPECIES
 
 #### Status
 ACCEPTED

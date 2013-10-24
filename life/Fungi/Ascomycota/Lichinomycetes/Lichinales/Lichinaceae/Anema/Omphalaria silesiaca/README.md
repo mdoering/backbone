@@ -1,5 +1,4 @@
-Omphalaria silesiaca Körb. SPECIES
-=======
+# Omphalaria silesiaca Körb. SPECIES
 
 #### Status
 ACCEPTED

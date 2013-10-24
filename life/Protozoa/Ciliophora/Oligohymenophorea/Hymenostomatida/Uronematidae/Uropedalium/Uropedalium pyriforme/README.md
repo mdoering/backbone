@@ -1,5 +1,4 @@
-Uropedalium pyriforme Kahl, 1928 SPECIES
-=======
+# Uropedalium pyriforme Kahl, 1928 SPECIES
 
 #### Status
 ACCEPTED

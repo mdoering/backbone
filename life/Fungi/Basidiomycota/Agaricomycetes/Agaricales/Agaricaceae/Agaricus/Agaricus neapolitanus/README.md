@@ -1,5 +1,4 @@
-Agaricus neapolitanus Fr. SPECIES
-=======
+# Agaricus neapolitanus Fr. SPECIES
 
 #### Status
 ACCEPTED

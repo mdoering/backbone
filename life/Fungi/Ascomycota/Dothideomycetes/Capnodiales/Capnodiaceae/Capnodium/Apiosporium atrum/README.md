@@ -1,5 +1,4 @@
-Apiosporium atrum Massee SPECIES
-=======
+# Apiosporium atrum Massee SPECIES
 
 #### Status
 ACCEPTED

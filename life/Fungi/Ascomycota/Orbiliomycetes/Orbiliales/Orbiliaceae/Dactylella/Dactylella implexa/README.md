@@ -1,5 +1,4 @@
-Dactylella implexa (Berk. & Broome) Sacc., 1886 SPECIES
-=======
+# Dactylella implexa (Berk. & Broome) Sacc., 1886 SPECIES
 
 #### Status
 ACCEPTED

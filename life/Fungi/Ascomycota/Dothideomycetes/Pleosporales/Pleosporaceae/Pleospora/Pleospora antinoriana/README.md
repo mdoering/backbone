@@ -1,5 +1,4 @@
-Pleospora antinoriana R.G. Bagn. SPECIES
-=======
+# Pleospora antinoriana R.G. Bagn. SPECIES
 
 #### Status
 ACCEPTED

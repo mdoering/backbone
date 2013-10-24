@@ -1,5 +1,4 @@
-Geoglossum uliginosum Pers., 1800 SPECIES
-=======
+# Geoglossum uliginosum Pers., 1800 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps obtusa Penz. & Sacc. SPECIES
-=======
+# Cordyceps obtusa Penz. & Sacc. SPECIES
 
 #### Status
 ACCEPTED

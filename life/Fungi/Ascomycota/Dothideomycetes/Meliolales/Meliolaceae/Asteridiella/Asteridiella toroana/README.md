@@ -1,5 +1,4 @@
-Asteridiella toroana (Cif.) Hansf. SPECIES
-=======
+# Asteridiella toroana (Cif.) Hansf. SPECIES
 
 #### Status
 ACCEPTED

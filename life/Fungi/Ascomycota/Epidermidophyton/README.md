@@ -1,5 +1,4 @@
-Epidermidophyton E. Lang GENUS
-=======
+# Epidermidophyton E. Lang GENUS
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Sporisorium provinciale (Ellis & Galloway) Vánky & Snets., 1990 SPECIES
-=======
+# Sporisorium provinciale (Ellis & Galloway) Vánky & Snets., 1990 SPECIES
 
 #### Status
 ACCEPTED

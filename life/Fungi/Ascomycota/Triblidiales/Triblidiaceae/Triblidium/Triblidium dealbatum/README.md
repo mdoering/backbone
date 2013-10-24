@@ -1,8 +1,7 @@
-Tryblidium dealbatum W.R. Gerard SPECIES
-=======
+# Triblidium dealbatum Gaertn. SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 Index Fungorum
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Tryblidium dealbatum W.R. Gerard
+Triblidium dealbatum Gaertn.
 
 ### Remarks
 null

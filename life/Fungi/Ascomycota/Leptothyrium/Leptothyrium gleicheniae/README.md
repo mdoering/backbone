@@ -1,5 +1,4 @@
-Leptothyrium gleicheniae F. Stevens & P.A. Young SPECIES
-=======
+# Leptothyrium gleicheniae F. Stevens & P.A. Young SPECIES
 
 #### Status
 ACCEPTED

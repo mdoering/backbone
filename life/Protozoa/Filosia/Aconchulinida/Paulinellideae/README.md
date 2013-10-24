@@ -1,5 +1,4 @@
-Paulinellideae FAMILY
-=======
+# Paulinellideae FAMILY
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Coniangium krempelhuberi A. Massal. SPECIES
-=======
+# Coniangium krempelhuberi A. Massal. SPECIES
 
 #### Status
 ACCEPTED

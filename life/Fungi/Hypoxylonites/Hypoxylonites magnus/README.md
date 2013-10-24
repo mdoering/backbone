@@ -1,5 +1,4 @@
-Hypoxylonites magnus Elsik SPECIES
-=======
+# Hypoxylonites magnus Elsik SPECIES
 
 #### Status
 ACCEPTED

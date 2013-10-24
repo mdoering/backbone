@@ -1,5 +1,4 @@
-Anoplophrya naidos SPECIES
-=======
+# Anoplophrya naidos SPECIES
 
 #### Status
 ACCEPTED

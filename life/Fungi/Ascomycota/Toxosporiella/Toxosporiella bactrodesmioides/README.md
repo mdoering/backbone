@@ -1,5 +1,4 @@
-Toxosporiella bactrodesmioides B. Sutton, 1986 SPECIES
-=======
+# Toxosporiella bactrodesmioides B. Sutton, 1986 SPECIES
 
 #### Status
 ACCEPTED

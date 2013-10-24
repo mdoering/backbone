@@ -1,5 +1,4 @@
-Tulasnella curvispora Donk SPECIES
-=======
+# Tulasnella curvispora Donk SPECIES
 
 #### Status
 ACCEPTED

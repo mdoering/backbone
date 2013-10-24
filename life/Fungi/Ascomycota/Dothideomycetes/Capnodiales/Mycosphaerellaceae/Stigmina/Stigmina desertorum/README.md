@@ -1,5 +1,4 @@
-Stigmina desertorum (Melnik) B. Sutton SPECIES
-=======
+# Stigmina desertorum (Melnik) B. Sutton SPECIES
 
 #### Status
 ACCEPTED

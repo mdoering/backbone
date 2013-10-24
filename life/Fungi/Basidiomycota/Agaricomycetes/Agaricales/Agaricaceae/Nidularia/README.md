@@ -1,5 +1,4 @@
-Nidularia E.M. Fries, 1817 GENUS
-=======
+# Nidularia E.M. Fries, 1817 GENUS
 
 #### Status
 ACCEPTED

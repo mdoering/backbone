@@ -1,5 +1,4 @@
-Rhizocarpon dimelaenae Timdal SPECIES
-=======
+# Rhizocarpon dimelaenae Timdal SPECIES
 
 #### Status
 ACCEPTED

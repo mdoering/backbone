@@ -1,5 +1,4 @@
-Lactarius argillaceifolius var. argillaceifolius VARIETY
-=======
+# Lactarius argillaceifolius Hesler & A.H. Sm. SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 North American Species of Lactarius (Ann Arbor) 366 (1979)
 
 #### Original name
-Lactarius argillaceifolius var. argillaceifolius
+Lactarius argillaceifolius Hesler & A.H. Sm.
 
 ### Remarks
 null

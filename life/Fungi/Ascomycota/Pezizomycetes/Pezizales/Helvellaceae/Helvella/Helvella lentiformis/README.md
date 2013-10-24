@@ -1,5 +1,4 @@
-Helvella lentiformis Scop. SPECIES
-=======
+# Helvella lentiformis Scop. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Algincola quercina Velen., 1939 SPECIES
-=======
+# Algincola quercina Velen., 1939 SPECIES
 
 #### Status
 ACCEPTED

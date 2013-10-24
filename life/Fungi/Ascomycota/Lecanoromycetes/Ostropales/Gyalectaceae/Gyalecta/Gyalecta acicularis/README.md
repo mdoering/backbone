@@ -1,5 +1,4 @@
-Gyalecta acicularis Anzi SPECIES
-=======
+# Gyalecta acicularis Anzi SPECIES
 
 #### Status
 ACCEPTED

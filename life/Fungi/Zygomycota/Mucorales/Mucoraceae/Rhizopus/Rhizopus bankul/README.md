@@ -1,5 +1,4 @@
-Rhizopus bankul Hanzawa SPECIES
-=======
+# Rhizopus bankul Hanzawa SPECIES
 
 #### Status
 ACCEPTED

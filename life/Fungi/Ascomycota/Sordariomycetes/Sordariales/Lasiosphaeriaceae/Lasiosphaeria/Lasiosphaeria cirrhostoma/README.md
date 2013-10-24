@@ -1,5 +1,4 @@
-Lasiosphaeria cirrhostoma (Berk. & Broome) Sacc. SPECIES
-=======
+# Lasiosphaeria cirrhostoma (Berk. & Broome) Sacc. SPECIES
 
 #### Status
 ACCEPTED

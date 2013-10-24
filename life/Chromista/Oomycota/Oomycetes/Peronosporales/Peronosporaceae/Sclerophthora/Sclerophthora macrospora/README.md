@@ -1,17 +1,16 @@
-Kawakamia macrospora (Sacc.) Hara, 1915 SPECIES
-=======
+# Sclerophthora macrospora (Sacc.) Thirum., C.G. Shaw & Naras., 1953 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Bull. Torrey bot. Club 80: 299-307 (1953)
 
 #### Original name
-null
+Sclerospora macrospora Sacc., 1890
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Lycoperdon subvelatum Lloyd SPECIES
-=======
+# Lycoperdon subvelatum Lloyd SPECIES
 
 #### Status
 ACCEPTED

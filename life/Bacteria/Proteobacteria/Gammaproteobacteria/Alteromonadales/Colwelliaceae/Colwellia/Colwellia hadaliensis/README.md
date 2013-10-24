@@ -1,5 +1,4 @@
-Colwellia hadaliensis Deming et al., 1988 SPECIES
-=======
+# Colwellia hadaliensis Deming et al., 1988 SPECIES
 
 #### Status
 ACCEPTED

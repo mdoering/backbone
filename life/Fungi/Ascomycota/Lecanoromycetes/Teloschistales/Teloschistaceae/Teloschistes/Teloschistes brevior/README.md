@@ -1,5 +1,4 @@
-Teloschistes brevior f. brevior FORM
-=======
+# Teloschistes brevior (Nyl.) Hillmann SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Teloschistes brevior f. brevior
+Graphis brevior Nyl.
 
 ### Remarks
 null

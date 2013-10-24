@@ -1,5 +1,4 @@
-Meliola rimbachii Pat. SPECIES
-=======
+# Meliola rimbachii Pat. SPECIES
 
 #### Status
 ACCEPTED

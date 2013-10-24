@@ -1,5 +1,4 @@
-Dimerium intermedium Petr. & Syd. SPECIES
-=======
+# Dimerium intermedium Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

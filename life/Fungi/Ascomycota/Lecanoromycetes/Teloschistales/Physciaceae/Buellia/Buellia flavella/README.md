@@ -1,5 +1,4 @@
-Buellia flavella Müll. Arg. SPECIES
-=======
+# Buellia flavella Müll. Arg. SPECIES
 
 #### Status
 ACCEPTED

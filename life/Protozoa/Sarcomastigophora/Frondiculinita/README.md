@@ -1,5 +1,4 @@
-Frondiculinita Gerke, 1961 GENUS
-=======
+# Frondiculinita Gerke, 1961 GENUS
 
 #### Status
 ACCEPTED

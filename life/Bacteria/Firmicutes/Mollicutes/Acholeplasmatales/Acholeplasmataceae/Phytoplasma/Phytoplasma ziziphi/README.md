@@ -1,5 +1,4 @@
-Phytoplasma ziziphi Jung et al., 2003. SPECIES
-=======
+# Phytoplasma ziziphi Jung et al., 2003. SPECIES
 
 #### Status
 ACCEPTED

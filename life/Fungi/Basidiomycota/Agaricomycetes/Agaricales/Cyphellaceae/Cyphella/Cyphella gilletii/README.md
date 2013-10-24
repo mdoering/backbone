@@ -1,5 +1,4 @@
-Cyphella gilletii Pat. SPECIES
-=======
+# Cyphella gilletii Pat. SPECIES
 
 #### Status
 ACCEPTED

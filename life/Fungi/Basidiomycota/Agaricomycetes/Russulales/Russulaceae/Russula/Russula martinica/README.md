@@ -1,5 +1,4 @@
-Russula martinica Pegler SPECIES
-=======
+# Russula martinica Pegler SPECIES
 
 #### Status
 ACCEPTED

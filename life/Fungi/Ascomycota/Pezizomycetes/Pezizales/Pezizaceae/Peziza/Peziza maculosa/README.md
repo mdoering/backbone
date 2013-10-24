@@ -1,5 +1,4 @@
-Peziza maculosa W. Phillips SPECIES
-=======
+# Peziza maculosa W. Phillips SPECIES
 
 #### Status
 ACCEPTED

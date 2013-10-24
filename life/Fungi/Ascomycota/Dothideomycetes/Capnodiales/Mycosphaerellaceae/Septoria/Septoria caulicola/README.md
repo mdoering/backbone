@@ -1,5 +1,4 @@
-Septoria caulicola Sacc. SPECIES
-=======
+# Septoria caulicola Sacc. SPECIES
 
 #### Status
 ACCEPTED

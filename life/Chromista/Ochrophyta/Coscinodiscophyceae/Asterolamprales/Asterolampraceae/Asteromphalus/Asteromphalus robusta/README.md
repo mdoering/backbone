@@ -1,5 +1,4 @@
-Asteromphalus robusta SPECIES
-=======
+# Asteromphalus robusta SPECIES
 
 #### Status
 ACCEPTED

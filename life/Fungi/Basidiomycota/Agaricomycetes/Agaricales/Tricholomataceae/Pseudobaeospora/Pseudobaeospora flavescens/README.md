@@ -1,5 +1,4 @@
-Pseudobaeospora flavescens Singer SPECIES
-=======
+# Pseudobaeospora flavescens Singer SPECIES
 
 #### Status
 ACCEPTED

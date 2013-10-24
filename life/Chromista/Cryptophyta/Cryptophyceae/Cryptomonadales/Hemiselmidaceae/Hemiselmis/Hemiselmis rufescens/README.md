@@ -1,5 +1,4 @@
-Hemiselmis rufescens Parke SPECIES
-=======
+# Hemiselmis rufescens Parke SPECIES
 
 #### Status
 ACCEPTED

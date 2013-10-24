@@ -1,5 +1,4 @@
-Atraktochrysis rotans R. Focke SPECIES
-=======
+# Atraktochrysis rotans R. Focke SPECIES
 
 #### Status
 ACCEPTED

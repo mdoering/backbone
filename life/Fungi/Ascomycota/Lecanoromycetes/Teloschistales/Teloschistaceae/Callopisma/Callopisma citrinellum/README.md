@@ -1,5 +1,4 @@
-Callopisma citrinellum (Duby) Arnold SPECIES
-=======
+# Callopisma citrinellum (Duby) Arnold SPECIES
 
 #### Status
 ACCEPTED

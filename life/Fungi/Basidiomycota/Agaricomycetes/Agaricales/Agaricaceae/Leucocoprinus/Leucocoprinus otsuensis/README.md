@@ -1,5 +1,4 @@
-Leucocoprinus otsuensis Hongo SPECIES
-=======
+# Leucocoprinus otsuensis Hongo SPECIES
 
 #### Status
 ACCEPTED

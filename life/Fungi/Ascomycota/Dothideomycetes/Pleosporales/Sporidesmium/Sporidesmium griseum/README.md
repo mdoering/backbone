@@ -1,5 +1,4 @@
-Sporidesmium griseum McAlpine SPECIES
-=======
+# Sporidesmium griseum McAlpine SPECIES
 
 #### Status
 ACCEPTED

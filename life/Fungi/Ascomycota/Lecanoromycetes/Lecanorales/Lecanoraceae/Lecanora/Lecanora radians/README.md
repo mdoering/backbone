@@ -1,5 +1,4 @@
-Lecanora radians var. radians VARIETY
-=======
+# Lecanora radians J. Steiner SPECIES
 
 #### Status
 ACCEPTED
@@ -11,7 +10,7 @@ Index Fungorum
 null
 
 #### Original name
-Lecanora radians var. radians
+Lecanora radians J. Steiner
 
 ### Remarks
 null

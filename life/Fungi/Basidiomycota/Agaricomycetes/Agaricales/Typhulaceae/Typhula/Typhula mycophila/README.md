@@ -1,5 +1,4 @@
-Typhula mycophila Fuckel SPECIES
-=======
+# Typhula mycophila Fuckel SPECIES
 
 #### Status
 ACCEPTED

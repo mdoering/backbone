@@ -1,5 +1,4 @@
-Lecidea rosaceocinerea SPECIES
-=======
+# Lecidea rosaceocinerea SPECIES
 
 #### Status
 ACCEPTED

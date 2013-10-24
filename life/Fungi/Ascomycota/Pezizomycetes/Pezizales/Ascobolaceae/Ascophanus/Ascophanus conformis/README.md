@@ -1,5 +1,4 @@
-Ascophanus conformis (P. Karst.) Sacc. SPECIES
-=======
+# Ascophanus conformis (P. Karst.) Sacc. SPECIES
 
 #### Status
 ACCEPTED

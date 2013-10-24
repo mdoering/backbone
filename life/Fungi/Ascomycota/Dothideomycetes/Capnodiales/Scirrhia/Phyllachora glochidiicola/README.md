@@ -1,5 +1,4 @@
-Phyllachora glochidiicola Seshadri, 1966 SPECIES
-=======
+# Phyllachora glochidiicola Seshadri, 1966 SPECIES
 
 #### Status
 DOUBTFUL

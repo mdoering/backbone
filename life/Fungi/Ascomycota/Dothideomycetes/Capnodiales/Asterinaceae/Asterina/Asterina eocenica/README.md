@@ -1,5 +1,4 @@
-Asterina eocenica Dilcher SPECIES
-=======
+# Asterina eocenica Dilcher SPECIES
 
 #### Status
 ACCEPTED

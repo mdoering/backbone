@@ -1,5 +1,4 @@
-Ceratocystis microcarpa (P. Karst.) C. Moreau SPECIES
-=======
+# Ceratocystis microcarpa (P. Karst.) C. Moreau SPECIES
 
 #### Status
 ACCEPTED

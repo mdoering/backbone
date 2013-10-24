@@ -1,5 +1,4 @@
-Hormiscium gelatinosum Hedgc. SPECIES
-=======
+# Hormiscium gelatinosum Hedgc. SPECIES
 
 #### Status
 ACCEPTED

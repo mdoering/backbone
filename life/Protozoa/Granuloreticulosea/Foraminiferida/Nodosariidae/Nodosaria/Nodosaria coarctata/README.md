@@ -1,5 +1,4 @@
-Nodosaria coarctata Hantken SPECIES
-=======
+# Nodosaria coarctata Hantken SPECIES
 
 #### Status
 ACCEPTED

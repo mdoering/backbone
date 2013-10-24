@@ -1,5 +1,4 @@
-Flammula elongatula Massee SPECIES
-=======
+# Flammula elongatula Massee SPECIES
 
 #### Status
 ACCEPTED

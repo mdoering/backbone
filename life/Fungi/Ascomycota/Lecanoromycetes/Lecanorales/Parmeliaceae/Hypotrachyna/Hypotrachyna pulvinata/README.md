@@ -1,17 +1,16 @@
-Parmelia pulvinata Fée SPECIES
-=======
+# Hypotrachyna pulvinata (Fée) Hale SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Smithson. Contr. bot. 25: 59 (1975)
 
 #### Original name
-null
+Parmelia pulvinata Fée
 
 ### Remarks
 null

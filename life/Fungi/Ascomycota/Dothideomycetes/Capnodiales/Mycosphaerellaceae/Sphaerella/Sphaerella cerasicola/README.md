@@ -1,5 +1,4 @@
-Sphaerella cerasicola Pass. SPECIES
-=======
+# Sphaerella cerasicola Pass. SPECIES
 
 #### Status
 ACCEPTED

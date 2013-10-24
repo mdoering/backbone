@@ -1,5 +1,4 @@
-Biatora rufofusca Anzi SPECIES
-=======
+# Biatora rufofusca Anzi SPECIES
 
 #### Status
 ACCEPTED

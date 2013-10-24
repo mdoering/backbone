@@ -1,17 +1,16 @@
-Geniculisporium GENUS
-=======
+# Nemania Gray GENUS
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Interim Register of Marine and Nonmarine Genera
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Nat. Arr. Brit. Pl. (London) 1: 508, 516 (1821)
 
 #### Original name
-null
+Nemania Gray
 
 ### Remarks
 null

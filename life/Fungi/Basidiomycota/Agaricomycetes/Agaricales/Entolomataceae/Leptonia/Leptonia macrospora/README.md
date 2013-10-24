@@ -1,5 +1,4 @@
-Leptonia macrospora Cleland SPECIES
-=======
+# Leptonia macrospora Cleland SPECIES
 
 #### Status
 ACCEPTED

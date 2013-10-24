@@ -1,5 +1,4 @@
-Leptosphaeria rostrata M.L. Farr & Horner SPECIES
-=======
+# Leptosphaeria rostrata M.L. Farr & Horner SPECIES
 
 #### Status
 ACCEPTED

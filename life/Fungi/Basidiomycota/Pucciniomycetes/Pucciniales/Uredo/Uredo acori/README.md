@@ -1,5 +1,4 @@
-Uredo acori Racib. SPECIES
-=======
+# Uredo acori Racib. SPECIES
 
 #### Status
 ACCEPTED

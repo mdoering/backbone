@@ -1,5 +1,4 @@
-Pannularia GENUS
-=======
+# Pannularia GENUS
 
 #### Status
 ACCEPTED

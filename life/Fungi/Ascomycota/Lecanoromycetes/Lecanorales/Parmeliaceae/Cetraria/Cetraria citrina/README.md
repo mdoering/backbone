@@ -1,5 +1,4 @@
-Cetraria citrina Taylor SPECIES
-=======
+# Cetraria citrina Taylor SPECIES
 
 #### Status
 ACCEPTED

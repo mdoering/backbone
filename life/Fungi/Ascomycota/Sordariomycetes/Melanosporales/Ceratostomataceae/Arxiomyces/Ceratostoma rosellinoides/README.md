@@ -1,5 +1,4 @@
-Ceratostoma rosellinoides Rehm SPECIES
-=======
+# Ceratostoma rosellinoides Rehm SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Exidiopsis glabra Möller SPECIES
-=======
+# Exidiopsis glabra Möller SPECIES
 
 #### Status
 ACCEPTED

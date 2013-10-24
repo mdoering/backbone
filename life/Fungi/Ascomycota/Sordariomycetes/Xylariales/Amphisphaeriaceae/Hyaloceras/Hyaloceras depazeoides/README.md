@@ -1,5 +1,4 @@
-Hyaloceras depazeoides (G.H. Otth) Died. SPECIES
-=======
+# Hyaloceras depazeoides (G.H. Otth) Died. SPECIES
 
 #### Status
 ACCEPTED

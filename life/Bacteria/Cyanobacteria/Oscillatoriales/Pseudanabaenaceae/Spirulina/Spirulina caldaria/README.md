@@ -1,5 +1,4 @@
-Spirulina caldaria Tilden SPECIES
-=======
+# Spirulina caldaria Tilden SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Harknessia lythri D.F. Farr & Rossman SPECIES
-=======
+# Harknessia lythri D.F. Farr & Rossman SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Paliphora multiseptata Gusmão & S.M. Leão SPECIES
-=======
+# Paliphora multiseptata Gusmão & S.M. Leão SPECIES
 
 #### Status
 ACCEPTED

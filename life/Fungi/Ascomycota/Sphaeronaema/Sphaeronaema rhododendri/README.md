@@ -1,5 +1,4 @@
-Sphaeronaema rhododendri Schwein. SPECIES
-=======
+# Sphaeronaema rhododendri Schwein. SPECIES
 
 #### Status
 ACCEPTED

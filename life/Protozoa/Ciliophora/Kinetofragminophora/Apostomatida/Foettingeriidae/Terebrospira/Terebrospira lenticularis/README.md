@@ -1,5 +1,4 @@
-Terebrospira lenticularis (Debaisieux, 1957) Debaisieux, 1960 SPECIES
-=======
+# Terebrospira lenticularis (Debaisieux, 1957) Debaisieux, 1960 SPECIES
 
 #### Status
 ACCEPTED

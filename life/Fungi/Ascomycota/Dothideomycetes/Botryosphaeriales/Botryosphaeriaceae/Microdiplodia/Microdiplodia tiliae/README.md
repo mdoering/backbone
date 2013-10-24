@@ -1,5 +1,4 @@
-Microdiplodia tiliae Allesch. SPECIES
-=======
+# Microdiplodia tiliae Allesch. SPECIES
 
 #### Status
 ACCEPTED

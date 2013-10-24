@@ -1,5 +1,4 @@
-Syndiplodia robiniae (Dearn. & Barthol.) Zambett. SPECIES
-=======
+# Syndiplodia robiniae (Dearn. & Barthol.) Zambett. SPECIES
 
 #### Status
 ACCEPTED

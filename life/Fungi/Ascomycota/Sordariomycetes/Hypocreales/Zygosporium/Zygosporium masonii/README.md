@@ -1,5 +1,4 @@
-Zygosporium masonii S. Hughes, 1951 SPECIES
-=======
+# Zygosporium masonii S. Hughes, 1951 SPECIES
 
 #### Status
 ACCEPTED

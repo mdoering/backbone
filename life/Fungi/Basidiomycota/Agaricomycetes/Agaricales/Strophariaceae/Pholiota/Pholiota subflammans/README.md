@@ -1,17 +1,16 @@
-Agaricus subflammans Speg., 1887 SPECIES
-=======
+# Pholiota subflammans (Speg.) Sacc., 1891 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Syll. fung. (Abellini) 9: 91 (1891)
 
 #### Original name
-null
+Pholiota subflammans (Speg.) Sacc., 1891
 
 ### Remarks
 null

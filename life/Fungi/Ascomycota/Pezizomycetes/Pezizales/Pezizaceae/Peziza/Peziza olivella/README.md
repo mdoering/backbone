@@ -1,5 +1,4 @@
-Peziza olivella Quél. SPECIES
-=======
+# Peziza olivella Quél. SPECIES
 
 #### Status
 ACCEPTED

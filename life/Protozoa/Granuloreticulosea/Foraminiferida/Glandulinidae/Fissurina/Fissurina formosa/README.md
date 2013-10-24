@@ -1,5 +1,4 @@
-Fissurina formosa SPECIES
-=======
+# Fissurina formosa SPECIES
 
 #### Status
 ACCEPTED

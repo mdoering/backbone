@@ -1,5 +1,4 @@
-Lasiosphaeria conica Höhn. SPECIES
-=======
+# Lasiosphaeria conica Höhn. SPECIES
 
 #### Status
 ACCEPTED

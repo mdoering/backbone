@@ -1,5 +1,4 @@
-Acrocordia galbana Kremp. SPECIES
-=======
+# Acrocordia galbana Kremp. SPECIES
 
 #### Status
 ACCEPTED

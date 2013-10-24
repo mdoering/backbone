@@ -1,17 +1,16 @@
-Collema callibotrys var. coccophyllizum (Zahlbr.) Degel. VARIETY
-=======
+# Collema callibotrys Tuck. SPECIES
 
 #### Status
 ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Symb. bot. upsal. 20(2): 68 (1974)
+null
 
 #### Original name
-Collema coccophyllizum Zahlbr.
+Collema callibotrys Tuck.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Microtheliopsidomyces uleanae Cif. & Tomas. SPECIES
-=======
+# Microtheliopsidomyces uleanae Cif. & Tomas. SPECIES
 
 #### Status
 ACCEPTED

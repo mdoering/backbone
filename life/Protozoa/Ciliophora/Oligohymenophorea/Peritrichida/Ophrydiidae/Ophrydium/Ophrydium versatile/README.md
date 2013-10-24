@@ -1,8 +1,7 @@
-Vorticella versatilis Müller, 1786 SPECIES
-=======
+# Ophrydium versatile (Müller, 1786) Bory, 1824 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011

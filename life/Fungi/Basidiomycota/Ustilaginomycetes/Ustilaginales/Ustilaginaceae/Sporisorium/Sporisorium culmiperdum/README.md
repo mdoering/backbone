@@ -1,14 +1,13 @@
-Sphacelotheca culmiperda (J. Schröt.) G.P. Clinton, 1930 SPECIES
-=======
+# Sporisorium culmiperdum (J. Schröt.) Vánky, 1993 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Mycologia 22(3): 143 (1930)
+Mycotaxon 48: 40 (1993)
 
 #### Original name
 Ustilago culmiperda J. Schröt., 1896

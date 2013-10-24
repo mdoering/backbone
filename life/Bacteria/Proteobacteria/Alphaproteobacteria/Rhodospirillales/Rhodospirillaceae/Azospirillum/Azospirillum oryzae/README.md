@@ -1,5 +1,4 @@
-Azospirillum oryzae Xie & Yokota, 2005 SPECIES
-=======
+# Azospirillum oryzae Xie & Yokota, 2005 SPECIES
 
 #### Status
 ACCEPTED

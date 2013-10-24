@@ -1,5 +1,4 @@
-Uromyces major Arthur SPECIES
-=======
+# Uromyces major Arthur SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Funicularius triseriatus K.K. Baker & Zaim, 1979 SPECIES
-=======
+# Funicularius triseriatus K.K. Baker & Zaim, 1979 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cortinarius pilatii Svrcek SPECIES
-=======
+# Cortinarius pilatii Svrcek SPECIES
 
 #### Status
 ACCEPTED

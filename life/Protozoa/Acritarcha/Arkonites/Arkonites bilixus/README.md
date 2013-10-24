@@ -1,5 +1,4 @@
-Arkonites bilixus Legault, 1973 SPECIES
-=======
+# Arkonites bilixus Legault, 1973 SPECIES
 
 #### Status
 ACCEPTED

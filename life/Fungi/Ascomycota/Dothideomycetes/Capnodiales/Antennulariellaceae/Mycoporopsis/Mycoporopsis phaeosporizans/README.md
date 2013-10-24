@@ -1,5 +1,4 @@
-Mycoporopsis phaeosporizans (Zahlbr.) Riedl SPECIES
-=======
+# Mycoporopsis phaeosporizans (Zahlbr.) Riedl SPECIES
 
 #### Status
 ACCEPTED

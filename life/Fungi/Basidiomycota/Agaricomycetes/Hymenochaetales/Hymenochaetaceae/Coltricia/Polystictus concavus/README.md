@@ -1,5 +1,4 @@
-Polystictus concavus (Murrill) Murrill SPECIES
-=======
+# Polystictus concavus (Murrill) Murrill SPECIES
 
 #### Status
 ACCEPTED

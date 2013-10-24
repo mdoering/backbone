@@ -1,5 +1,4 @@
-Boletus alabamensis (Murrill) Sacc. & Trotter SPECIES
-=======
+# Boletus alabamensis (Murrill) Sacc. & Trotter SPECIES
 
 #### Status
 ACCEPTED

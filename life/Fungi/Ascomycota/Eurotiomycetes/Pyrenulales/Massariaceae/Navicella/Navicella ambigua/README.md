@@ -1,5 +1,4 @@
-Navicella ambigua (G.H. Otth) Kuntze SPECIES
-=======
+# Navicella ambigua (G.H. Otth) Kuntze SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptothyrium microstomum Speg. SPECIES
-=======
+# Leptothyrium microstomum Speg. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Alternaria broussonetiae T.Y. Zhang, W.Q. Chen & M.X. Gao SPECIES
-=======
+# Alternaria broussonetiae T.Y. Zhang, W.Q. Chen & M.X. Gao SPECIES
 
 #### Status
 ACCEPTED

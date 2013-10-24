@@ -1,5 +1,4 @@
-Botryodiplodia araucariae (Delacr.) Petr. & Syd. SPECIES
-=======
+# Botryodiplodia araucariae (Delacr.) Petr. & Syd. SPECIES
 
 #### Status
 ACCEPTED

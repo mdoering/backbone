@@ -1,5 +1,4 @@
-Passalora sawadae (S.C. Jong & E.F. Morris) U. Braun & Crous SPECIES
-=======
+# Passalora sawadae (S.C. Jong & E.F. Morris) U. Braun & Crous SPECIES
 
 #### Status
 ACCEPTED

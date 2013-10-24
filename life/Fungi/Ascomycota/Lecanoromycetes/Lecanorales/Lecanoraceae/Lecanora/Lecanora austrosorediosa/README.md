@@ -1,17 +1,16 @@
-Biatora sorediosa Rambold SPECIES
-=======
+# Lecanora austrosorediosa Lumbsch SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Biblthca Lichenol. 34: 75 (1989)
+Australasian Lichenology 45: 10 (1999)
 
 #### Original name
-Biatora sorediosa Rambold
+null
 
 ### Remarks
 null

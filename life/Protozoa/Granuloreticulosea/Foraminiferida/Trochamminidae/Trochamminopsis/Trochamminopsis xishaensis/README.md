@@ -1,5 +1,4 @@
-Trochamminopsis xishaensis (Zheng, 1988) SPECIES
-=======
+# Trochamminopsis xishaensis (Zheng, 1988) SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Cordyceps corallomyces Möller SPECIES
-=======
+# Cordyceps corallomyces Möller SPECIES
 
 #### Status
 ACCEPTED

@@ -1,17 +1,16 @@
-Pythium zingiberum M. Takah. SPECIES
-=======
+# Pythium zingiberis M. Takah., 1954 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
-Index Fungorum
+The Catalogue of Life, 3rd January 2011
 
 #### Published in
-null
+Ann. phytopath. Soc. Japan 18: 115 (1954)
 
 #### Original name
-Pythium zingiberum M. Takah.
+Pythium zingiberis M. Takah., 1954
 
 ### Remarks
 null

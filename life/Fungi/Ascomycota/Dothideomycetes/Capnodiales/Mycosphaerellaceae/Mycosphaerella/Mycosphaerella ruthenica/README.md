@@ -1,5 +1,4 @@
-Mycosphaerella ruthenica Petr. SPECIES
-=======
+# Mycosphaerella ruthenica Petr. SPECIES
 
 #### Status
 ACCEPTED

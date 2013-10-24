@@ -1,17 +1,16 @@
-Nimisia fuegiae Kärnefelt & A. Thell SPECIES
-=======
+# Himantormia deusta (Hook. f.) A. Thell & Søchting SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Lichenologist 25(4): 370 (1993)
+in Thell, Søchting, Kärnefelt, Elix & Sancho, Biblthca Lichenol. 95: 537 (2007)
 
 #### Original name
-Nimisia fuegiae Kärnefelt & A. Thell
+Parmelia enteromorpha var. deusta Hook. f.
 
 ### Remarks
 null

@@ -1,5 +1,4 @@
-Cirrophrya Gellért, 1950 GENUS
-=======
+# Cirrophrya Gellért, 1950 GENUS
 
 #### Status
 ACCEPTED

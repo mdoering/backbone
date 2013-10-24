@@ -1,5 +1,4 @@
-Macrophoma yamabeana Saho & I. Takah. SPECIES
-=======
+# Macrophoma yamabeana Saho & I. Takah. SPECIES
 
 #### Status
 ACCEPTED

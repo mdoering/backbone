@@ -1,5 +1,4 @@
-Clitocybe subtruncicola Murrill SPECIES
-=======
+# Clitocybe subtruncicola Murrill SPECIES
 
 #### Status
 ACCEPTED

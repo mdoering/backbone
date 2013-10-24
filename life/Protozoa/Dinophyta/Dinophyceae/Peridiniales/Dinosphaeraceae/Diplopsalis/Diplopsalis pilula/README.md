@@ -1,5 +1,4 @@
-Diplopsalis pilula Ostenfeld SPECIES
-=======
+# Diplopsalis pilula Ostenfeld SPECIES
 
 #### Status
 ACCEPTED

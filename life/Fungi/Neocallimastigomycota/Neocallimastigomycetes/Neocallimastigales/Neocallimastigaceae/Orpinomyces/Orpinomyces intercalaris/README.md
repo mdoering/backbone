@@ -1,5 +1,4 @@
-Orpinomyces intercalaris Y.W. Ho, 1994 SPECIES
-=======
+# Orpinomyces intercalaris Y.W. Ho, 1994 SPECIES
 
 #### Status
 ACCEPTED

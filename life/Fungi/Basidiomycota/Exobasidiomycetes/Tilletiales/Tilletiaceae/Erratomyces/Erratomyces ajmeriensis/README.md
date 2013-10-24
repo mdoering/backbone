@@ -1,14 +1,13 @@
-Protomycopsis ajmeriensis J.C.S. Gupta, 1954 SPECIES
-=======
+# Erratomyces ajmeriensis (J.C.S. Gupta) M. Piepenbr. & R. Bauer, 1997 SPECIES
 
 #### Status
-SYNONYM
+ACCEPTED
 
 #### According to
 The Catalogue of Life, 3rd January 2011
 
 #### Published in
-Indian Phytopath. 9: 72 (1954)
+Mycologia 89(6): 934 (1997)
 
 #### Original name
 Protomycopsis ajmeriensis J.C.S. Gupta, 1954

@@ -1,5 +1,4 @@
-Acremonium vaccinii Fuckel SPECIES
-=======
+# Acremonium vaccinii Fuckel SPECIES
 
 #### Status
 ACCEPTED

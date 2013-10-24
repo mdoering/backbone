@@ -1,5 +1,4 @@
-Micropeltis ximeniae Bat. & H. Maia SPECIES
-=======
+# Micropeltis ximeniae Bat. & H. Maia SPECIES
 
 #### Status
 ACCEPTED

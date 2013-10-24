@@ -1,5 +1,4 @@
-Lycoperdon rusticum Bonord. SPECIES
-=======
+# Lycoperdon rusticum Bonord. SPECIES
 
 #### Status
 ACCEPTED

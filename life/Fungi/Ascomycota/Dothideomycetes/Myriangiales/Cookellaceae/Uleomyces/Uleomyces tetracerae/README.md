@@ -1,5 +1,4 @@
-Uleomyces tetracerae Hansf. SPECIES
-=======
+# Uleomyces tetracerae Hansf. SPECIES
 
 #### Status
 ACCEPTED

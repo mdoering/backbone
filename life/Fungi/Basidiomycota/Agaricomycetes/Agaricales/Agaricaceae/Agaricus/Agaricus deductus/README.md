@@ -1,5 +1,4 @@
-Agaricus deductus Britzelm. SPECIES
-=======
+# Agaricus deductus Britzelm. SPECIES
 
 #### Status
 ACCEPTED

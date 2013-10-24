@@ -1,5 +1,4 @@
-Bapalmuia sorediata Kalb & Lücking SPECIES
-=======
+# Bapalmuia sorediata Kalb & Lücking SPECIES
 
 #### Status
 ACCEPTED

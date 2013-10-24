@@ -1,5 +1,4 @@
-Buttiauxella warmboldiae Müller et al., 1996 SPECIES
-=======
+# Buttiauxella warmboldiae Müller et al., 1996 SPECIES
 
 #### Status
 ACCEPTED

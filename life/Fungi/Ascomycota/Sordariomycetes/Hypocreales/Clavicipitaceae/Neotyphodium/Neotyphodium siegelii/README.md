@@ -1,5 +1,4 @@
-Neotyphodium ×siegelii K.D. Craven, Leuchtm. & Schardl SPECIES
-=======
+# Neotyphodium ×siegelii K.D. Craven, Leuchtm. & Schardl SPECIES
 
 #### Status
 ACCEPTED

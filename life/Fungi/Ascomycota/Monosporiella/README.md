@@ -1,5 +1,4 @@
-Monosporiella Speg. GENUS
-=======
+# Monosporiella Speg. GENUS
 
 #### Status
 ACCEPTED

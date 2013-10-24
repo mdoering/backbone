@@ -1,5 +1,4 @@
-Copromyxa xylophagum A. Massal. SPECIES
-=======
+# Copromyxa xylophagum A. Massal. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Mycosphaerella cryptomeriae Shiro & Hara SPECIES
-=======
+# Mycosphaerella cryptomeriae Shiro & Hara SPECIES
 
 #### Status
 ACCEPTED

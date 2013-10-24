@@ -1,5 +1,4 @@
-Agaricus phylicigenus Berk. SPECIES
-=======
+# Agaricus phylicigenus Berk. SPECIES
 
 #### Status
 ACCEPTED

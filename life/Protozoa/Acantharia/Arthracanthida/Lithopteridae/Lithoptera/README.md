@@ -1,5 +1,4 @@
-Lithoptera Müller, 1858 GENUS
-=======
+# Lithoptera Müller, 1858 GENUS
 
 #### Status
 ACCEPTED

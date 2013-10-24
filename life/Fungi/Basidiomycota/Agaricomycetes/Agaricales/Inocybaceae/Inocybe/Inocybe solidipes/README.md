@@ -1,5 +1,4 @@
-Inocybe solidipes Kühner SPECIES
-=======
+# Inocybe solidipes Kühner SPECIES
 
 #### Status
 ACCEPTED

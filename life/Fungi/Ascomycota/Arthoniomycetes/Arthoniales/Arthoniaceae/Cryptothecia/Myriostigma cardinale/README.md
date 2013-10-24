@@ -1,5 +1,4 @@
-Myriostigma cardinale Kremp. SPECIES
-=======
+# Myriostigma cardinale Kremp. SPECIES
 
 #### Status
 ACCEPTED

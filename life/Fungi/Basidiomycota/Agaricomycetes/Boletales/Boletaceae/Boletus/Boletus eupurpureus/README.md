@@ -1,5 +1,4 @@
-Boletus eupurpureus Smotl. SPECIES
-=======
+# Boletus eupurpureus Smotl. SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Leptodothiorella pachmarhiensis N.D. Sharma SPECIES
-=======
+# Leptodothiorella pachmarhiensis N.D. Sharma SPECIES
 
 #### Status
 ACCEPTED

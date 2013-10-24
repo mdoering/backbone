@@ -1,5 +1,4 @@
-Puccinia vulcanicola Berndt SPECIES
-=======
+# Puccinia vulcanicola Berndt SPECIES
 
 #### Status
 ACCEPTED

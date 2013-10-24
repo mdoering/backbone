@@ -1,5 +1,4 @@
-Spermodermia clandestina Tode SPECIES
-=======
+# Spermodermia clandestina Tode SPECIES
 
 #### Status
 ACCEPTED

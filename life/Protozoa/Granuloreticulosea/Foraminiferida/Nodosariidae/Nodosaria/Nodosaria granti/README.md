@@ -1,5 +1,4 @@
-Nodosaria granti Plummer SPECIES
-=======
+# Nodosaria granti Plummer SPECIES
 
 #### Status
 ACCEPTED

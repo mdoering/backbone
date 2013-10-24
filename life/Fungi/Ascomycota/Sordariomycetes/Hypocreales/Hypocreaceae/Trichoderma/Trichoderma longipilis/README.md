@@ -1,5 +1,4 @@
-Trichoderma longipilis Bissett, 1992 SPECIES
-=======
+# Trichoderma longipilis Bissett, 1992 SPECIES
 
 #### Status
 ACCEPTED

@@ -1,5 +1,4 @@
-Thalassiosira pacifica Gran & Angst SPECIES
-=======
+# Thalassiosira pacifica Gran & Angst SPECIES
 
 #### Status
 ACCEPTED

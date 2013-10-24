@@ -1,5 +1,4 @@
-Phragmothyrium spartii Bat. & J.L. Bezerra SPECIES
-=======
+# Phragmothyrium spartii Bat. & J.L. Bezerra SPECIES
 
 #### Status
 ACCEPTED

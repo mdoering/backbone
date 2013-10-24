@@ -1,5 +1,4 @@
-Polystigmites priscus A. Massal. SPECIES
-=======
+# Polystigmites priscus A. Massal. SPECIES
 
 #### Status
 ACCEPTED

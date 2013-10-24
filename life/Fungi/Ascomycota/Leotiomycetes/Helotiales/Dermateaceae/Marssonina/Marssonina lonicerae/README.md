@@ -1,5 +1,4 @@
-Marssonina lonicerae (Harkn.) Magnus SPECIES
-=======
+# Marssonina lonicerae (Harkn.) Magnus SPECIES
 
 #### Status
 ACCEPTED

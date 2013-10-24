@@ -1,5 +1,4 @@
-Strickeria rhoina Tracy & Earle SPECIES
-=======
+# Strickeria rhoina Tracy & Earle SPECIES
 
 #### Status
 ACCEPTED
