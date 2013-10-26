@@ -1,0 +1,16 @@
+# Hieracium transiens subsp. erythrocarpum (Peter) Greuter SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+Hieracium erythrocarpum Peter
+
+### Remarks
+null

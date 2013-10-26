@@ -1,0 +1,16 @@
+# Potentilla aemulans var. incisa (Maxim.) Voroshilov VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Plagianthus glomeratus (Hook.) Benth. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Lawrencia glomerata Hook.
+
+### Remarks
+null

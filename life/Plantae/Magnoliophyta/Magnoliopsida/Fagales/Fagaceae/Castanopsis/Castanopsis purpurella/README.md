@@ -1,0 +1,16 @@
+# Castanopsis purpurella (Miq.) N.P.Balakr. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Fl. Jowai 2:458. 1983
+
+#### Original name
+null
+
+### Remarks
+null

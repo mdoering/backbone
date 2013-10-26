@@ -1,0 +1,16 @@
+# Phlox stansburyi var. compacta (Brand) M.Peck VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

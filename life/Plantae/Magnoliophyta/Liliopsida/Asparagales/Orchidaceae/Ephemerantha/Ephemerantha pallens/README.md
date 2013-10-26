@@ -1,0 +1,16 @@
+# Ephemerantha pallens (Ridl.) P.F.Hunt & Summerh. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

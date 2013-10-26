@@ -1,0 +1,16 @@
+# Mammillaria milleri var. sheldonii (Britton & Rose) Neutel. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Neomammillaria sheldonii Britton & Rose
+
+### Remarks
+null

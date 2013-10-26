@@ -1,0 +1,16 @@
+# Cerastium nigrescens var. laxum (Lindblom) Brysting & R.Elven VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

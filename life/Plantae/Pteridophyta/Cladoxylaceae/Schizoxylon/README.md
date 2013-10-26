@@ -1,0 +1,16 @@
+# Schizoxylon F.J.A.N. Unger in R. Richter & F.J.A.N. Unger, 1856 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

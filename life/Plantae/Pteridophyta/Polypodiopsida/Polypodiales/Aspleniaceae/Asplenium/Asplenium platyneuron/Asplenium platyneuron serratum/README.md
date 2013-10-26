@@ -1,0 +1,16 @@
+# Asplenium platyneuron f. serratum (E.S.Mill.) Ralph Hoffm. FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

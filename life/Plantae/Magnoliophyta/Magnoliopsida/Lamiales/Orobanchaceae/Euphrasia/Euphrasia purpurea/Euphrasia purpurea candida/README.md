@@ -1,0 +1,16 @@
+# Euphrasia purpurea f. candida Fern. & Wieg. FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

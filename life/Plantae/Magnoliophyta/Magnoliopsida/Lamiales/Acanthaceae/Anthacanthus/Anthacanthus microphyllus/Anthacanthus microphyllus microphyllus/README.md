@@ -1,0 +1,16 @@
+# Anthacanthus microphyllus var. microphyllus VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

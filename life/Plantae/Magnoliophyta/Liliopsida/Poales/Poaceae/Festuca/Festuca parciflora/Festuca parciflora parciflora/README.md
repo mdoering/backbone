@@ -1,0 +1,16 @@
+# Festuca parciflora subsp. parciflora Swallen SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

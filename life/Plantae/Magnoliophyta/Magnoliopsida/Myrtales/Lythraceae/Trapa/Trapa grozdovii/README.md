@@ -1,0 +1,16 @@
+# Trapa grozdovii V.N.Vassil. ex V.N.Tikhom. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

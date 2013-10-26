@@ -1,0 +1,16 @@
+# Potentilla monanthes var. monanthes VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

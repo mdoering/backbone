@@ -1,0 +1,16 @@
+# Veronica ×blockiana (Trávn.) Albach SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Pseudolysimachion ×blockianum Trávn.
+
+### Remarks
+null

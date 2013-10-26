@@ -1,0 +1,16 @@
+# Borzicactus samaipatanus var. samaipatanus VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

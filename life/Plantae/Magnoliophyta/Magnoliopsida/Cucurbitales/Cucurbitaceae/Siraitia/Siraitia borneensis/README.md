@@ -1,0 +1,16 @@
+# Siraitia borneensis (Merr.) C.Jeffrey ex A.M.Lu & Zhi Y.Zhang SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Thladiantha borneensis Merr.
+
+### Remarks
+null

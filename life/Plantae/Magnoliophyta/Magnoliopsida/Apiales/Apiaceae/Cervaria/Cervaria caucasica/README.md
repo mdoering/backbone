@@ -1,0 +1,16 @@
+# Cervaria caucasica (M.Bieb.) Pimenov SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Selinum caucasicum M.Bieb.
+
+### Remarks
+null

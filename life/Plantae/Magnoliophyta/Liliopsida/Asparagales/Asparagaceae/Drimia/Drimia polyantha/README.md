@@ -1,0 +1,16 @@
+# Drimia polyantha (Blatt. & McCann) Stearn SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Urginea polyantha Blatt. & McCann
+
+### Remarks
+null

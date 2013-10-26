@@ -1,0 +1,16 @@
+# Poa nervata Willd. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Sp. pl. 1(1):389. 1797
+
+#### Original name
+null
+
+### Remarks
+null

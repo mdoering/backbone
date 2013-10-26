@@ -1,0 +1,16 @@
+# Chondria incrassata (J.Agardh) Gordon-Mills & Womersley, 1987 SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+World Register of Marine Species
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Agoseris lackschewitzii Douglass M.Hend. & R.K.Moseley SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

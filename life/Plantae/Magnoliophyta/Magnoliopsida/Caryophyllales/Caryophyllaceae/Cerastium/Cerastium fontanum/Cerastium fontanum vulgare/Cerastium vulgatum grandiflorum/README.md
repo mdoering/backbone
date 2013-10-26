@@ -1,0 +1,16 @@
+# Cerastium vulgatum var. grandiflorum Fenzl in Ledeb. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

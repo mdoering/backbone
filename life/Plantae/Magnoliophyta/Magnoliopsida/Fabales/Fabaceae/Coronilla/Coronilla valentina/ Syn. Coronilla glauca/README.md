@@ -1,0 +1,16 @@
+# Coronilla glauca L. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Cent. pl. I:23. 1755 (Amoen. acad. 4:285. 1759)
+
+#### Original name
+null
+
+### Remarks
+null

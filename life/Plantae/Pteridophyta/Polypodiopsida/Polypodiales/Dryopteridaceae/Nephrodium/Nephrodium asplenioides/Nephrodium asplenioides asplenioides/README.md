@@ -1,0 +1,16 @@
+# Nephrodium asplenioides subsp. asplenioides SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

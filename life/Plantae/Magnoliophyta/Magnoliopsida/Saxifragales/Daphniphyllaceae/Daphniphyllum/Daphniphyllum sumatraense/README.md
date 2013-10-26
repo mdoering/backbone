@@ -1,0 +1,16 @@
+# Daphniphyllum sumatraense (T.C.Huang) T.C.Huang SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Daphniphyllum glaucescens subsp. sumatraense T.C.Huang
+
+### Remarks
+null

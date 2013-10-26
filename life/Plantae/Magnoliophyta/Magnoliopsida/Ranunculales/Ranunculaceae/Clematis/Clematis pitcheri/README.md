@@ -1,0 +1,16 @@
+# Clematis pitcheri Torr. & A. Gray SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Fl. N. Amer. 1:10. 1838
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Vaccinium dumosum var. dumosum VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

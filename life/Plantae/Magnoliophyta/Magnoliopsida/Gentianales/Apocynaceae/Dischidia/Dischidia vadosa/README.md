@@ -1,0 +1,16 @@
+# Dischidia vadosa R.E.Rintz SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

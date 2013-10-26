@@ -1,0 +1,16 @@
+# Berberis heteropoda Schrenk SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Enum. pl. nov. 1:102. 1841
+
+#### Original name
+null
+
+### Remarks
+null

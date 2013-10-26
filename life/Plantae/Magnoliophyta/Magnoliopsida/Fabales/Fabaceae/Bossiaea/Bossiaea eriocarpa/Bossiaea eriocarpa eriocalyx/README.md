@@ -1,0 +1,16 @@
+# Bossiaea eriocarpa var. eriocalyx Benth. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Bossiaea endlicheri var. angustifolia Meisn.
+
+### Remarks
+null

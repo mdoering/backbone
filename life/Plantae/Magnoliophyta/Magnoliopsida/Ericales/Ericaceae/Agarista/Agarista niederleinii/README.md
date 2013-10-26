@@ -1,0 +1,16 @@
+# Agarista niederleinii (Sleumer) Judd SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Leucothoe niederleinii Sleumer
+
+### Remarks
+null

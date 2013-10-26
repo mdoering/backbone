@@ -1,0 +1,16 @@
+# Gelseminum amoenum var. amoenum VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

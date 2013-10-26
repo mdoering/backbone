@@ -1,0 +1,16 @@
+# Trichocyclus simplex N.E.Br. ex C.A.Maass SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Pitcairnia altensteinii (Link, Klotzsch & Otto) Lem. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Fl. Serres Jard. Eur. 2: t. 162. 1846
+
+#### Original name
+null
+
+### Remarks
+null

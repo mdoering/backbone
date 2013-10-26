@@ -1,0 +1,16 @@
+# Catapodium marinum (L.) C.E.Hubb. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Kew Bull. 1954:375. 1954
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Indigastrum costatum subsp. theuschii (O.Hoffm.) Schrire SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Bothalia 22:168. 1992
+
+#### Original name
+Indigofera theuschii O.Hoffm.
+
+### Remarks
+null

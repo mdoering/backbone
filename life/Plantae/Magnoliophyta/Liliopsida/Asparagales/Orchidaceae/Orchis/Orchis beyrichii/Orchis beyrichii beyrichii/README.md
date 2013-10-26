@@ -1,0 +1,16 @@
+# Orchis beyrichii subsp. beyrichii SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

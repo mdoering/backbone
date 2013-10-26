@@ -1,0 +1,16 @@
+# Cordiera hadrantha (Standl.) C.H.Perss. & Delprete SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Alibertia hadrantha Standl.
+
+### Remarks
+null

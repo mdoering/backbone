@@ -1,0 +1,16 @@
+# Barleria prionitis subsp. tanzaniana Brummitt & J.R.I.Wood SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

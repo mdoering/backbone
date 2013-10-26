@@ -1,0 +1,16 @@
+# Xyris tasmanica (D.I.Morris) Doust & B.J.Conn SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Xyris gracilis subsp. tasmanica
+
+### Remarks
+null

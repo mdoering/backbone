@@ -1,0 +1,16 @@
+# Dictyocaryum ptariana (Steyerm.) H.E.Moore & Steyerm. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Navicula digitoradiata var. minor Krasske, 1938 VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+World Register of Marine Species
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

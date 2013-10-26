@@ -1,0 +1,16 @@
+# Scolymus maculatus L. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+Sp. pl. 2:813. 1753
+
+#### Original name
+null
+
+### Remarks
+null

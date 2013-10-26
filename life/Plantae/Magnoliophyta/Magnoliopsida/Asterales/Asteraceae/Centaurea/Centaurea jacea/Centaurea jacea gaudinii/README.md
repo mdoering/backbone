@@ -1,0 +1,16 @@
+# Centaurea jacea subsp. gaudinii (Boiss. & Reut.) Gremli SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

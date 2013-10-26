@@ -1,0 +1,16 @@
+# Isoetes brevicula E.R.L.Johnson SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

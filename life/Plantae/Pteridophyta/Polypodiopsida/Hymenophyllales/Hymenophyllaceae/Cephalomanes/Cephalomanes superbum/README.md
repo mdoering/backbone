@@ -1,0 +1,16 @@
+# Cephalomanes superbum (Backh. ex T.Moore) I.M.Turner SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

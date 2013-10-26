@@ -1,0 +1,16 @@
+# Deherainia smaragdina subsp. occidentalis B.Ståhl SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

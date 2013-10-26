@@ -1,0 +1,16 @@
+# Symphyotrichum subulatum (Michx.) G.L.Nesom var. ligulatum (Shinners) S.D.Sundb. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Sida 21:907. 2004
+
+#### Original name
+Aster subulatus var. ligulatus Shinners
+
+### Remarks
+null

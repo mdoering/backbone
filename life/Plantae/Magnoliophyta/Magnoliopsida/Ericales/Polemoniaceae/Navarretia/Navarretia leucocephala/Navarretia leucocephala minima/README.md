@@ -1,0 +1,16 @@
+# Navarretia leucocephala subsp. minima (Nutt.) A.G. Day SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Navarretia minima Nutt.
+
+### Remarks
+null

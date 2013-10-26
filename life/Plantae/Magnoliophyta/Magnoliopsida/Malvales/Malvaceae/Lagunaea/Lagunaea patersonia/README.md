@@ -1,0 +1,16 @@
+# Lagunaea patersonia (Andrews) Sims SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Hibiscus patersonius Andrews
+
+### Remarks
+null

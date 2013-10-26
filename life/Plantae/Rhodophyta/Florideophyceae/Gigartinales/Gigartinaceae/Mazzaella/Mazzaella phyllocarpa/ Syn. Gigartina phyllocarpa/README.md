@@ -1,0 +1,16 @@
+# Gigartina phyllocarpa (Postels & Ruprecht) D.H.Kim, 1976 SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+World Register of Marine Species
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

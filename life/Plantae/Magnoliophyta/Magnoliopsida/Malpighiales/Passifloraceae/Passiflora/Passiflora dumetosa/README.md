@@ -1,0 +1,16 @@
+# Passiflora dumetosa Barb.Redr. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

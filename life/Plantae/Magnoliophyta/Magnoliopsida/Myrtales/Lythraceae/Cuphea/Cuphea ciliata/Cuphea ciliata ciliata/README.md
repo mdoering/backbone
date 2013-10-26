@@ -1,0 +1,16 @@
+# Cuphea ciliata f. ciliata FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

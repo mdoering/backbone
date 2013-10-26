@@ -1,0 +1,16 @@
+# Eragrostis spectabilis var. spectabilis (Pursh) Steud. VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

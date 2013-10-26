@@ -1,0 +1,16 @@
+# Eriogonum racemosum var. obtusum S.Stokes VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

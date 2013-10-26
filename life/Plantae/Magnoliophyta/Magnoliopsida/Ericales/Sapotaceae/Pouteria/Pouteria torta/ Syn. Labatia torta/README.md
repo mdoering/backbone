@@ -1,0 +1,16 @@
+# Labatia torta Mart. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Flora 21(2, Beibl. ):94. 1838
+
+#### Original name
+null
+
+### Remarks
+null

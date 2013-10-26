@@ -1,0 +1,16 @@
+# Phyllostachys nigra var. henonis VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+F. B. Forbes & W. B. Hemsley, J. Linn. Soc. , Bot. 36:443. 1904
+
+#### Original name
+null
+
+### Remarks
+null

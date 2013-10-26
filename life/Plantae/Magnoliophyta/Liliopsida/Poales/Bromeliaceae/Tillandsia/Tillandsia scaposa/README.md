@@ -1,0 +1,16 @@
+# Tillandsia scaposa (L.B.Sm.) Ehlers SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

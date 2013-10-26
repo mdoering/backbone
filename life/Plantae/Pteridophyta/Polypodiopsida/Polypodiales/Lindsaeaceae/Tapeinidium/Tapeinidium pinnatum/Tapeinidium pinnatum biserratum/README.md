@@ -1,0 +1,16 @@
+# Tapeinidium pinnatum var. biserratum (Blume) W. C. Shieh VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Davallia biserrata Blume
+
+### Remarks
+null

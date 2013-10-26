@@ -1,0 +1,16 @@
+# Leptecophylla divaricata (Hook.f.) C.M.Weiller SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Lissanthe divaricata Hook.f.
+
+### Remarks
+null

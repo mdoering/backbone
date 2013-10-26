@@ -1,0 +1,16 @@
+# Lepidotis drummondii (Spring) Rothm. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Lycopodium drummondii Spring
+
+### Remarks
+null

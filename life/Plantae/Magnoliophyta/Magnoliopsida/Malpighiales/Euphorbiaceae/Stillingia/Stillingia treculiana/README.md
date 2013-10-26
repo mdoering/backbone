@@ -1,0 +1,16 @@
+# Stillingia treculiana (Müll.Arg.) I.M.Johnst. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Contr. Gray Herb. 68:91. 1923
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Phaseolus rioverdensis Freytag & Debouck SPECIES
+
+#### Status
+DOUBTFUL
+
+#### According to
+GRIN Taxonomy for Plants
+
+#### Published in
+not published
+
+#### Original name
+null
+
+### Remarks
+null

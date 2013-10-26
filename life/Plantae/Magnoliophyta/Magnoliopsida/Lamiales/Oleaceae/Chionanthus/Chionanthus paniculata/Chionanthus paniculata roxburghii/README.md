@@ -1,0 +1,16 @@
+# Chionanthus paniculata var. roxburghii (Spreng.) K.K.N.Nair & K.P.Janardhanan VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Olea roxburghii Spreng.
+
+### Remarks
+null

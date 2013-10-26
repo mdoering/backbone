@@ -1,0 +1,16 @@
+# Cereus pteranthus Link ex A. Dietr. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Allg. Gartenzeitung 2:209. 1834
+
+#### Original name
+null
+
+### Remarks
+null

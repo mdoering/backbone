@@ -1,0 +1,16 @@
+# Psephellus zuvandicus subsp. gegharkunikensis (Gabrieljan) Gabrieljan SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+Centaurea zuvandica subsp. gegharkunikensis Gabrieljan
+
+### Remarks
+null

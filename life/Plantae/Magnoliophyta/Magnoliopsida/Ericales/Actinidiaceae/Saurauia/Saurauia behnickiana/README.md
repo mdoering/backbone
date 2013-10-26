@@ -1,0 +1,16 @@
+# Saurauia behnickiana Hort. ex Buscal. & Muscat. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

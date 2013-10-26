@@ -1,0 +1,16 @@
+# Deutzia parviflora Bunge SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Enum. pl. China bor. 31. 1833 (Mém. Acad. Imp. Sci. St. -Pétersbourg Divers Savans 2:105. 1835)
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Kobayasiella saxicola (E. Manguin ex J. P. Kociolek & B. Reviers) H. Lange-Bertalot SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

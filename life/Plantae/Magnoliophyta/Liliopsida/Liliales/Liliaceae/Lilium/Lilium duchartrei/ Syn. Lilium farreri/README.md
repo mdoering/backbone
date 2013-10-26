@@ -1,0 +1,16 @@
+# Lilium farreri Turrill SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Gard. Chron. ser. 3, 66:76. 1919
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Agalinis heterophylla (Nutt.) Small SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+N. L. Britton & A. Brown, Ill. fl. n. U. S. ed. 2, 3:209. 1913
+
+#### Original name
+null
+
+### Remarks
+null

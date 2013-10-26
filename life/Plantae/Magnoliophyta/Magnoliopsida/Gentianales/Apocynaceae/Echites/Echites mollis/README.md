@@ -1,0 +1,16 @@
+# Echites mollis (R.Br.) Spreng. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Parsonsia mollis R.Br.
+
+### Remarks
+null

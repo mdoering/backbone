@@ -1,0 +1,16 @@
+# Gymnanthemum cylindriceps (C.B.Clarke) H.Rob. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Vernonia cylindriceps C.B.Clarke
+
+### Remarks
+null

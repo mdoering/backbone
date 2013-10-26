@@ -1,0 +1,16 @@
+# Eriostemon montanus (Hook.) F.Muell. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Phebalium montanum Hook.
+
+### Remarks
+null

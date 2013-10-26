@@ -1,0 +1,16 @@
+# Viburnum stellato-pilosum Polak. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

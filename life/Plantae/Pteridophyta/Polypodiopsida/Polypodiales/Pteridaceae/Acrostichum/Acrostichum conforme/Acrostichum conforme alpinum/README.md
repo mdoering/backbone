@@ -1,0 +1,16 @@
+# Acrostichum conforme var. alpinum J.Bommer VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

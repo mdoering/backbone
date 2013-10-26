@@ -1,0 +1,16 @@
+# Potamogeton zizii Koch ex Roth SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

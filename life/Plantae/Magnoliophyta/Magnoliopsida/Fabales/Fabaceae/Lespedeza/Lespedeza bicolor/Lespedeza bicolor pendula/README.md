@@ -1,0 +1,16 @@
+# Lespedeza bicolor f. pendula S.L.Tung & Z.Lu FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

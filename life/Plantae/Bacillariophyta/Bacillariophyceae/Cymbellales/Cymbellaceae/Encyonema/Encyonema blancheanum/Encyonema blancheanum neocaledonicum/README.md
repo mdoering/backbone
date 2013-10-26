@@ -1,0 +1,16 @@
+# Encyonema blancheanum var. neocaledonicum (Manguin ex Kociolek & Reviers) Gerd Moser VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

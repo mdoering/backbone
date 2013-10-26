@@ -1,0 +1,16 @@
+# Pinus parviflora subvar. todaiensis J.Sugimoto SUBVARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

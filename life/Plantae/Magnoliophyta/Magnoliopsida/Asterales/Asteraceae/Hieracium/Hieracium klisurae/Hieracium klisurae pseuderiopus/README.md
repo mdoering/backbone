@@ -1,0 +1,16 @@
+# Hieracium klisurae subsp. pseuderiopus (Zahn) Greuter SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+Hieracium pseuderiopus Zahn
+
+### Remarks
+null

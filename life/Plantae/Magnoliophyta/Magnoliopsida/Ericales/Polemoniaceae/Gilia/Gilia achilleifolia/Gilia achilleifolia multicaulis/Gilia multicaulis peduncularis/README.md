@@ -1,0 +1,16 @@
+# Gilia multicaulis subsp. peduncularis (Eastw. ex Milliken) H.Mason & V.E.Grant SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

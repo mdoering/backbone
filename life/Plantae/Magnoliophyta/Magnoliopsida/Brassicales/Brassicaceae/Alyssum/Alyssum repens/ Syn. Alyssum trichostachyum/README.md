@@ -1,0 +1,16 @@
+# Alyssum trichostachyum Rupr. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Mém. Acad. Imp. Sci. Saint Pétersbourg, Sér. 7, 15(2):101, 290. 1869 (Fl. caucasi)
+
+#### Original name
+null
+
+### Remarks
+null

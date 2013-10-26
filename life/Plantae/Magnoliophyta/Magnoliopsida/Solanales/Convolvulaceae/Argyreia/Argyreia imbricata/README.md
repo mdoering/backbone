@@ -1,0 +1,16 @@
+# Argyreia imbricata (Roth) Santapau & Patel SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

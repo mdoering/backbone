@@ -1,0 +1,16 @@
+# Polygala transvaalensis subsp. kagerensis (Lebrun & Taton) Paiva SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Polygala kagerensis Lebrun & Taton
+
+### Remarks
+null

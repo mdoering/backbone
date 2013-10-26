@@ -1,0 +1,16 @@
+# Juniperus erythrocarpa var. coahuilensis Martínez VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Anales Inst. Biol. Univ. Nac. México 17:115. 1946
+
+#### Original name
+null
+
+### Remarks
+null

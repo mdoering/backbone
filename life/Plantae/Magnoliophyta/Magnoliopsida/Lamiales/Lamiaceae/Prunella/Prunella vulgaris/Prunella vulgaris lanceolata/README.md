@@ -1,0 +1,16 @@
+# Prunella vulgaris subsp. lanceolata (W. Bartram) Hultén SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Fl. n. w. coast 311. 1915
+
+#### Original name
+null
+
+### Remarks
+null

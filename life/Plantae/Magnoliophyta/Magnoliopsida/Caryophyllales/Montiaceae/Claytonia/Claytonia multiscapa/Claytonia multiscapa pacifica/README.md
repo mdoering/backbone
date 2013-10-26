@@ -1,0 +1,16 @@
+# Claytonia multiscapa subsp. pacifica (McNeill) John M. Mill. & K.L. Chambers SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Claytonia lanceolata var. pacifica McNeill
+
+### Remarks
+null

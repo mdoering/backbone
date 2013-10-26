@@ -1,0 +1,16 @@
+# Capsicum minutiflorum (Rusby) Hunz. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Huitieme Congr. Int. Bot. Paris, Compt. Rend. Séances Rapp. & Commun. sect. 4:74. 1956 ("1954")
+
+#### Original name
+null
+
+### Remarks
+null

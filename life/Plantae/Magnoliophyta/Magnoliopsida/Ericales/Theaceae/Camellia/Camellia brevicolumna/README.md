@@ -1,0 +1,16 @@
+# Camellia brevicolumna Hung T.Chang, H.S.Liu & Y.Z.Zhang SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

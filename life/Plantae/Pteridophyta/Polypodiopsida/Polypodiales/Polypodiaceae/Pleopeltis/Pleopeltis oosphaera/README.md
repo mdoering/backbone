@@ -1,0 +1,16 @@
+# Pleopeltis oosphaera (C.Chr.) Panigr. & Patnaik SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

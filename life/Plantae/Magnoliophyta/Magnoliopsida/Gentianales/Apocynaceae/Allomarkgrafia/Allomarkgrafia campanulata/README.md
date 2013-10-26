@@ -1,0 +1,16 @@
+# Allomarkgrafia campanulata (Markgr.) J.F.Morales SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Mandevilla campanulata Markgr. ex A.H.Gentry
+
+### Remarks
+null

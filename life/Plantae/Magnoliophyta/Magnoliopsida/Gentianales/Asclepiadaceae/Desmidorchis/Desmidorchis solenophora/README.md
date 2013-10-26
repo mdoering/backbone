@@ -1,0 +1,16 @@
+# Desmidorchis solenophora (Lavranos) Lavranos SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Caralluma solenophora Lavranos
+
+### Remarks
+null

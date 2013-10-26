@@ -1,0 +1,16 @@
+# Smithiella marina (W. Smith) H. Peragallo & M. Peragallo SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

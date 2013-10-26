@@ -1,0 +1,16 @@
+# Palaquium stellatum King & Gamble SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+J. Asiat. Soc. Bengal, Pt. 2, Nat. Hist. 74(2):198. 1905
+
+#### Original name
+null
+
+### Remarks
+null

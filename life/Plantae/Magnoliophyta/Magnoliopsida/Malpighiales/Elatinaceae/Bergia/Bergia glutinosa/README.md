@@ -1,0 +1,16 @@
+# Bergia glutinosa Dinter & Schulze-Menz SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

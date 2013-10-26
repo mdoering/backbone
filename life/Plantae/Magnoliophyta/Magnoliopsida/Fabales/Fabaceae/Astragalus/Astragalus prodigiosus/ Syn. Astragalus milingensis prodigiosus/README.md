@@ -1,0 +1,16 @@
+# Astragalus milingensis var. prodigiosus (K.T.Fu) K.T.Fu VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

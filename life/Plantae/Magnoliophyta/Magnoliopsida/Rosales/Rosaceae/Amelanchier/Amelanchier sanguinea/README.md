@@ -1,0 +1,16 @@
+# Amelanchier sanguinea (Pursh) DC. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Prodr. 2:633. 1825
+
+#### Original name
+Pyrus sanguinea Pursh
+
+### Remarks
+null

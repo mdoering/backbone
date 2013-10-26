@@ -1,0 +1,16 @@
+# Magnolia caricifragans (Lozano) Govaerts SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Talauma caricifragrans Lozano
+
+### Remarks
+null

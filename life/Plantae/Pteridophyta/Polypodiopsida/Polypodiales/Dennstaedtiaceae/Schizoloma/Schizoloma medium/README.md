@@ -1,0 +1,16 @@
+# Schizoloma medium (R.Br.) Kuhn SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Lindsaea media R.Br.
+
+### Remarks
+null

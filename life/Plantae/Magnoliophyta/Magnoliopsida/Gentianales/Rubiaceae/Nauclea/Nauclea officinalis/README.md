@@ -1,0 +1,16 @@
+# Nauclea officinalis (Pierre ex Pit.) Merr. & Chun SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Sarcocephalus officinalis Pierre ex Pit.
+
+### Remarks
+null

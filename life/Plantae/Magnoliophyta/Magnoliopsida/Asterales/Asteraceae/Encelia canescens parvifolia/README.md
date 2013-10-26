@@ -1,0 +1,16 @@
+# Encelia canescens var. parvifolia (Kunth) Ball VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

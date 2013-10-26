@@ -1,0 +1,16 @@
+# Tirucalia herrei (A.C.White, R.A.Dyer & B.Sloane) P.V.Heath SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

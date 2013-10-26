@@ -1,0 +1,16 @@
+# Macropeplus friburgensis (Perkins) I.Santos & Peixoto SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Macropeplus ligustrinus var. friburgensis Perkins
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Cypripedium daweishanense (S.C.Chen & Z.J.Liu) S.C.Chen & Z.J.Liu SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Cypripedium lichiangense var. daweishanense
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Desmodium saxatile (C.V.Morton) B.G.Schub. & McVaugh SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Meibomia saxatilis C.V.Morton
+
+### Remarks
+null

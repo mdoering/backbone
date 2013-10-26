@@ -1,0 +1,16 @@
+# Hieracium murorum subsp. farinifusum (Arv.-Touv. & Briq.) Zahn SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

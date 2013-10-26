@@ -1,0 +1,16 @@
+# Yucca baccata var. australis VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Trans. Acad. Sci. St. Louis 3:44. 1873
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Echinocereus pectinatus var. reichenbachii (Terscheck ex Walp.) Werderm. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

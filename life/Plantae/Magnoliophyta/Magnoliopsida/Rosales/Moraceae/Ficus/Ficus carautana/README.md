@@ -1,0 +1,16 @@
+# Ficus carautana L.J.Neves & Emygdio SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

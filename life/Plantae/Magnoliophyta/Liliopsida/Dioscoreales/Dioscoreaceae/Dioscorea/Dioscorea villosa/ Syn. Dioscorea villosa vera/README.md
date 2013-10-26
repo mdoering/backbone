@@ -1,0 +1,16 @@
+# Dioscorea villosa var. vera Prain & Burkill VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Database of Vascular Plants of Canada (VASCAN)
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

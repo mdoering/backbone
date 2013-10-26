@@ -1,0 +1,16 @@
+# Hordeum tetrastichum var. aethiops VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+GRIN Taxonomy for Plants
+
+#### Published in
+not found ?
+
+#### Original name
+null
+
+### Remarks
+null

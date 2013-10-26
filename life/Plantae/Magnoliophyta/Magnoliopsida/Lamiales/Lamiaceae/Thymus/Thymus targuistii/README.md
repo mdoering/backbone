@@ -1,0 +1,16 @@
+# Thymus targuistii B.Tahiri & M.Rejdali SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

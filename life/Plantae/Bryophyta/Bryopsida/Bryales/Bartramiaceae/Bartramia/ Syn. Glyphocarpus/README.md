@@ -1,0 +1,16 @@
+# Glyphocarpus R. Brown ex S.E. von Bridel, 1827 GENUS
+
+#### Status
+SYNONYM
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

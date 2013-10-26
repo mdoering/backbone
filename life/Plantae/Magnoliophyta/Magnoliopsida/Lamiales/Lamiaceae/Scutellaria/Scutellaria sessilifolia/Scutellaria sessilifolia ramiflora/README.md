@@ -1,0 +1,16 @@
+# Scutellaria sessilifolia f. ramiflora C.Y.Wu & S.Chow FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

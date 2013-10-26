@@ -1,0 +1,16 @@
+# Chrysanthemum indicum L. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+Sp. pl. 2:889. 1753
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Fagonia cretica var. california Engl. in Engl. & Drude VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

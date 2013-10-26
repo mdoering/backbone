@@ -1,0 +1,16 @@
+# Glossophyllum (Müller Hal.) Hampe, 1879 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

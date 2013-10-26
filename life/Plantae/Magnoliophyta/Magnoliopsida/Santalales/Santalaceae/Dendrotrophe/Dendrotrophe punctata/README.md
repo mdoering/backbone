@@ -1,0 +1,16 @@
+# Dendrotrophe punctata C.Y.Wu ex D.D.Tao SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

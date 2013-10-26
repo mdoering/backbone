@@ -1,0 +1,16 @@
+# Lilaeopsis polyantha (Gand.) H.Eichler SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Crantzia polyantha Gand.
+
+### Remarks
+null

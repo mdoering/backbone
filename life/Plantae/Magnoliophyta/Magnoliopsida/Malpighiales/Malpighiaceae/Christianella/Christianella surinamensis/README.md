@@ -1,0 +1,16 @@
+# Christianella surinamensis (Kosterm.) W.R.Anderson SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Mascagnia multiglandulosa var. surinamensis Kosterm.
+
+### Remarks
+null

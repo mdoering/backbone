@@ -1,0 +1,16 @@
+# Diplostephium glutinosum f. glutinosum FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Rhodiola semenovii (Regel & Herder) Boriss. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+V. L. Komarov, Fl. URSS 9:27. 1939
+
+#### Original name
+null
+
+### Remarks
+null

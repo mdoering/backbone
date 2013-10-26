@@ -1,0 +1,16 @@
+# Lyonsia diaphanophleba (F.Muell.) Benth. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Parsonsia diaphanophleba F.Muell.
+
+### Remarks
+null

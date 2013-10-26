@@ -1,0 +1,16 @@
+# Anemone flaccida var. hofengensis (W.T.Wang) Ziman & B.E.Dutton VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Anemone hofengensis W.T.Wang
+
+### Remarks
+null

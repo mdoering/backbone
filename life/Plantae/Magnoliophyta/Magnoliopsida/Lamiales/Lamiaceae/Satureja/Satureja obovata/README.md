@@ -1,0 +1,16 @@
+# Satureja obovata Briq. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Gen. sp. pl. 18. 1816
+
+#### Original name
+null
+
+### Remarks
+null

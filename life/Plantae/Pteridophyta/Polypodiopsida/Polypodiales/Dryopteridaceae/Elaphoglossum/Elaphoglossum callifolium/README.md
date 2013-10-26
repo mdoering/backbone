@@ -1,0 +1,16 @@
+# Elaphoglossum callifolium (Blume) T.Moore SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Acrostichum callifolium Link
+
+### Remarks
+null

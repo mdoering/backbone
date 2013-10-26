@@ -1,0 +1,16 @@
+# Gaussia gomez-pompae (H.J.Quero) H.J.Quero SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Opsiandra gomez-pompae H.J.Quero
+
+### Remarks
+null

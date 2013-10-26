@@ -1,0 +1,16 @@
+# Vidalia J.V.F. Lamouroux ex J.G. Agardh, 1863 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

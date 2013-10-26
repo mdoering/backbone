@@ -1,0 +1,16 @@
+# Spermacoce paranaensis (E.L.Cabral & Bacigalupo) Delprete SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Borreria paranaensis E.L.Cabral & Bacigalupo
+
+### Remarks
+null

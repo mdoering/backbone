@@ -1,0 +1,16 @@
+# Sideroxylon moaense (Bisse & J.E.Gut.) J.E.Gut. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Bumelia moaensis Bisse & J.E.Gut.
+
+### Remarks
+null

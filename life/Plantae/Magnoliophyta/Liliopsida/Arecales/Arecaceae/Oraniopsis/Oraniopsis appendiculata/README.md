@@ -1,0 +1,16 @@
+# Oraniopsis appendiculata (F.M.Bailey) J.Dransf., A.K.Irvine & N.W.Uhl SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Areca appendiculata F.M.Bailey
+
+### Remarks
+null

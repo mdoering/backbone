@@ -1,0 +1,16 @@
+# Ericameria parryi var. aspra (Greene) G.L. Nesom & Baird VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Pleopeltis perrieriana (C.Chr.in Bonap.) Tardieu in Humbert SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

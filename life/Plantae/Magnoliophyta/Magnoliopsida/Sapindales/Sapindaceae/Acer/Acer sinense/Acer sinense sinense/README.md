@@ -1,0 +1,16 @@
+# Acer sinense subsp. sinense SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

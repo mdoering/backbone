@@ -1,0 +1,16 @@
+# Liatris gholsonii L.C. Anderson SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

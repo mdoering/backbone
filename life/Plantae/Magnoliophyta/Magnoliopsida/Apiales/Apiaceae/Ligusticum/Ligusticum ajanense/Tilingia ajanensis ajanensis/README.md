@@ -1,0 +1,16 @@
+# Tilingia ajanensis var. ajanensis VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Gonostemon concinnus (Masson) P.V.Heath SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Stapelia concinna Masson
+
+### Remarks
+null

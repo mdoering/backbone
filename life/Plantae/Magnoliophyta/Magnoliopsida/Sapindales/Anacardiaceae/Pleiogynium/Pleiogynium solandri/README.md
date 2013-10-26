@@ -1,0 +1,16 @@
+# Pleiogynium solandri (Benth.) Engl. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Spondias solandri Benth.
+
+### Remarks
+null

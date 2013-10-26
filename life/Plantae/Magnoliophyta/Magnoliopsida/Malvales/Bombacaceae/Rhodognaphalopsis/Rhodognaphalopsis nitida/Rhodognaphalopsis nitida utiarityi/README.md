@@ -1,0 +1,16 @@
+# Rhodognaphalopsis nitida var. utiarityi (Hoehne) A.Robyns VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

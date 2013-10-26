@@ -1,0 +1,16 @@
+# Pilocereus terscheckii J.Parm. ex Foerst.-Ruempl. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

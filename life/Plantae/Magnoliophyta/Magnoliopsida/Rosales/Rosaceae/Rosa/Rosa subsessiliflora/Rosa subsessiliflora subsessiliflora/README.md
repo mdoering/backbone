@@ -1,0 +1,16 @@
+# Rosa subsessiliflora var. subsessiliflora VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Bignonia serratifolia Vahl SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Eclog. amer. 2:46. 1798
+
+#### Original name
+null
+
+### Remarks
+null

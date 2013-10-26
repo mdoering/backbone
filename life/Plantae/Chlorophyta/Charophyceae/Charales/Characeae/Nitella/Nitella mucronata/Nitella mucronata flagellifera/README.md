@@ -1,0 +1,16 @@
+# Nitella mucronata flagellifera (J.Groves & G.O.Allen) R.D.Wood, 1962 SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+World Register of Marine Species
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Elaeagnus pungens f. pungens FORM
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

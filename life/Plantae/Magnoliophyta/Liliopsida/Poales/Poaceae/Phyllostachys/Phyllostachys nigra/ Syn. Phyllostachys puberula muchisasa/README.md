@@ -1,0 +1,16 @@
+# Phyllostachys puberula var. muchisasa VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Act. (Trois) Congr. Intern. Bot. Brux. 2:223. 1912
+
+#### Original name
+null
+
+### Remarks
+null

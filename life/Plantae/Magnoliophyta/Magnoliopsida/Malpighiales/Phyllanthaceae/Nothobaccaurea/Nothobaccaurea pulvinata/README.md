@@ -1,0 +1,16 @@
+# Nothobaccaurea pulvinata (A.C.Sm.) Haegens SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Baccaurea pulvinata A.C.Sm.
+
+### Remarks
+null

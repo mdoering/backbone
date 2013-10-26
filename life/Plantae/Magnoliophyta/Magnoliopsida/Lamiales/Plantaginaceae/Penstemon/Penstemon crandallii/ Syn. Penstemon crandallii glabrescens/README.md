@@ -1,0 +1,16 @@
+# Penstemon crandallii var. glabrescens (Pennell) D.D. Keck VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

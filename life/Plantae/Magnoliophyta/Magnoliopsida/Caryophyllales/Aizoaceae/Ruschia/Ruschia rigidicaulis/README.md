@@ -1,0 +1,16 @@
+# Ruschia rigidicaulis (Haw.) Schwantes SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Natl. Cact. Succ. J. 4:58. 1949
+
+#### Original name
+null
+
+### Remarks
+null

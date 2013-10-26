@@ -1,0 +1,16 @@
+# Salix glauca var. callicarpaea (Pursh) Dorn VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Salix callicarpaea Trautv.
+
+### Remarks
+null

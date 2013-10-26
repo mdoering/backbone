@@ -1,0 +1,16 @@
+# Rotheca incisa (Klotzsch) Steane & Mabb. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Novon 8:205. 1998
+
+#### Original name
+null
+
+### Remarks
+null

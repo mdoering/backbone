@@ -1,0 +1,16 @@
+# Pternopetalum tanakae (Franch. & Sav.) Hand.-Mazz. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Carum tanakae Franch. & Sav.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Etlingera metriochilos var. major (Holttum) I.M.Turner VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

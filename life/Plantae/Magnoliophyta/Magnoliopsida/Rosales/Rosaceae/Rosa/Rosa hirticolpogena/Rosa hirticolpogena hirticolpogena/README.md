@@ -1,0 +1,16 @@
+# Rosa hirticolpogena subsp. hirticolpogena SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

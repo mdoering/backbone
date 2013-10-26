@@ -1,0 +1,16 @@
+# Reichardia intermedia subsp. gracilis (Sch.Bip.) Rivas Mart. SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

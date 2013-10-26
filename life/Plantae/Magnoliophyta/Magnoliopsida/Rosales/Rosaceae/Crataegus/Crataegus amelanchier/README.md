@@ -1,0 +1,16 @@
+# Crataegus amelanchier (L.) Desf. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Mespilus amelanchier L.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Meiotrichum (G.L. Smith) G.L. Smith, 1995 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Plantago glacialis B.G.Briggs, Carolin & Pulley SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Acomastylis macrosepala (Ludlow) T.T.Yu & C.L.Li SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Geum macrosepalum Ludlow
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Mycetia brevipes F.C.How ex S.Y.Jin & Y.L.Chen SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

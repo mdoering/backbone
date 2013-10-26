@@ -1,0 +1,16 @@
+# Acmispon wrightii (A. Gray) Brouillet SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+Hosackia wrightii A.Gray
+
+### Remarks
+null

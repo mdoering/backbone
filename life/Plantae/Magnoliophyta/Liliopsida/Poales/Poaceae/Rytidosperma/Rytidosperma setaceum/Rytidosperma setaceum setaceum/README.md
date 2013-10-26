@@ -1,0 +1,16 @@
+# Rytidosperma setaceum var. setaceum (R.Br.) Connor & Edgar VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

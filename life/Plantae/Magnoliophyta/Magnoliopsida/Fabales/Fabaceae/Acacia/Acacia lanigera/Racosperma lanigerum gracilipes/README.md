@@ -1,0 +1,16 @@
+# Racosperma lanigerum var. gracilipes (Benth.) Pedley VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Acacia lanigera var. gracilipes Benth.
+
+### Remarks
+null

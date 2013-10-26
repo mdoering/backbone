@@ -1,0 +1,16 @@
+# Dimerostemma hatschbachii (H.Rob.) M.D.Moraes SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Angelphytum hatschbachii H.Rob.
+
+### Remarks
+null

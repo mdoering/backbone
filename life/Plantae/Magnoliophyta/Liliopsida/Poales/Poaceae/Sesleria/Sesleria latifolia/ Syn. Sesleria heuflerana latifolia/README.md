@@ -1,0 +1,16 @@
+# Sesleria heuflerana var. latifolia Adamovic VARIETY
+
+#### Status
+HOMOTYPIC_SYNONYM
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

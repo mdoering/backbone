@@ -1,0 +1,16 @@
+# Aloe verrucosa Mill. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Gard. dict. ed. 8: <I>Aloe</I> no. 20. 1768
+
+#### Original name
+null
+
+### Remarks
+null

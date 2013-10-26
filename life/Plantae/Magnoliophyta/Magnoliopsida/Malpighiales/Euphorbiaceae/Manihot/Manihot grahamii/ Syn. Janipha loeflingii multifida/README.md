@@ -1,0 +1,16 @@
+# Janipha loeflingii var. multifida VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Edinburgh New Philos. J. 29:172. 1840
+
+#### Original name
+null
+
+### Remarks
+null

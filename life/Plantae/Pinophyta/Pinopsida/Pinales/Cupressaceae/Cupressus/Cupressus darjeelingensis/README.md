@@ -1,0 +1,16 @@
+# Cupressus darjeelingensis (Silba) Silba SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Cupressus himalaica var. darjeelingensis Silba
+
+### Remarks
+null

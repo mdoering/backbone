@@ -1,0 +1,16 @@
+# Hydrangea arborescens subsp. radiata (Walter) E.M. McClint. SUBSPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+J. Arnold Arbor. 37:373. 1956
+
+#### Original name
+null
+
+### Remarks
+null

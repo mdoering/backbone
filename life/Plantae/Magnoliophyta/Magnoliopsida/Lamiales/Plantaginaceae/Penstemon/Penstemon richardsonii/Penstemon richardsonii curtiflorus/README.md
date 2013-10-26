@@ -1,0 +1,16 @@
+# Penstemon richardsonii var. curtiflorus (D.D. Keck) Cronquist VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+C. L. Hitchcock et al. , Vasc. pl. Pacif. N. W. 4:401. 1959
+
+#### Original name
+null
+
+### Remarks
+null

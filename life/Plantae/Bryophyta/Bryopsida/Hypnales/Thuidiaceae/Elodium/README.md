@@ -1,0 +1,16 @@
+# Elodium (Sullivant) C.F. Austin, 1870 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

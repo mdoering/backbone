@@ -1,0 +1,16 @@
+# Pultenaea gracilis (Turcz.) Jancey SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Phyllota gracilis Turcz.
+
+### Remarks
+null

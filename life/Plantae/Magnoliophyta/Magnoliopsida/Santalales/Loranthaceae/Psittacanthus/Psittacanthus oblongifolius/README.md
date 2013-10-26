@@ -1,0 +1,16 @@
+# Psittacanthus oblongifolius (Rusby) Kuijt SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Struthanthus oblongifolius Rusby
+
+### Remarks
+null

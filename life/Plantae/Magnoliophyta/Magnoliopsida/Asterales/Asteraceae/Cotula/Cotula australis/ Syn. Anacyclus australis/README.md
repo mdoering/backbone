@@ -1,0 +1,16 @@
+# Anacyclus australis Sieber ex Spreng. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Syst. veg. 3:497. 1826
+
+#### Original name
+null
+
+### Remarks
+null

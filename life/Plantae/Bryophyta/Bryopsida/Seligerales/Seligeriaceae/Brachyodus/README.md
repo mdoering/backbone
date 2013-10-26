@@ -1,0 +1,16 @@
+# Brachyodus C.G.D. Nees, C.F. Hornschuch & J. Sturm, 1831 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

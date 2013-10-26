@@ -1,0 +1,16 @@
+# Berberis miethkeana (L.W.Melander & Eade) Laferr. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

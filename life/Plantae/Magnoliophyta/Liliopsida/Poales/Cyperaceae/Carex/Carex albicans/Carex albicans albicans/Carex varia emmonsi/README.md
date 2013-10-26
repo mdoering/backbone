@@ -1,0 +1,16 @@
+# Carex varia var. emmonsi (Torr.) W.Stone VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Echinocactus setispinus var. sinautus (A.Dietr.) Poselg. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Plectranthus saxicola B.J.Pollard & A.J.Paton SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

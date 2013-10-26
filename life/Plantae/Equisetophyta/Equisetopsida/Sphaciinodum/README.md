@@ -1,0 +1,16 @@
+# Sphaciinodum J.M. Osborn & T.N. Taylor, 1989 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

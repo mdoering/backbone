@@ -1,0 +1,16 @@
+# Kosteletzkya adoensis Mast. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+D. Oliver, Fl. trop. Afr. 1:192, 194. 1868
+
+#### Original name
+null
+
+### Remarks
+null

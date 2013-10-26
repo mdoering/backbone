@@ -1,0 +1,16 @@
+# Stauroneis fulmen var. fulmen VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

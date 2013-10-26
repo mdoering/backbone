@@ -1,0 +1,16 @@
+# Acitheca W.P. Schimper in W.P. Schimper & Schenk, 1879 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

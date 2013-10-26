@@ -1,0 +1,16 @@
+# Valeriana septentrionalis var. uliginosa (Torr. & A.Gray) Gleason VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

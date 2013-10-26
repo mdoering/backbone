@@ -1,0 +1,16 @@
+# Mischocarpus exangulatus Radlk. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Ratonia exangulata F.Muell.
+
+### Remarks
+null

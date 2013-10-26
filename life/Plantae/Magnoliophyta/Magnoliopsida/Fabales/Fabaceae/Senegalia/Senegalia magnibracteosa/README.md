@@ -1,0 +1,16 @@
+# Senegalia magnibracteosa (Burkart) Seigler & Ebinger SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Acacia magnibracteosa Burkart
+
+### Remarks
+null

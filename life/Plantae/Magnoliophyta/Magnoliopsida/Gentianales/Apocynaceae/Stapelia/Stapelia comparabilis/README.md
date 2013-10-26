@@ -1,0 +1,16 @@
+# Stapelia comparabilis A.C.White, B.Sloane & B.Sloane SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

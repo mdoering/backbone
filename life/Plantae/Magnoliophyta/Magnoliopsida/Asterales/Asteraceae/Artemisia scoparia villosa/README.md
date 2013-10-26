@@ -1,0 +1,16 @@
+# Artemisia scoparia Waldst. & Kit. subsp. villosa Chrustaleva & Kupr. SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

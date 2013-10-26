@@ -1,0 +1,16 @@
+# Impatiens hunanensis Y.L.Chen SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Acta Phytotax. Sin. 27:402. 1989
+
+#### Original name
+null
+
+### Remarks
+null

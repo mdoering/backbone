@@ -1,0 +1,16 @@
+# Pogostemon szemacensis (C.Y.Wu & Hsuan) J.R.Press SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

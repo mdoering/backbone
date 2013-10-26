@@ -1,0 +1,16 @@
+# Morus hastifolia F.T.Wang & Tang ex Z.Y.Cao SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

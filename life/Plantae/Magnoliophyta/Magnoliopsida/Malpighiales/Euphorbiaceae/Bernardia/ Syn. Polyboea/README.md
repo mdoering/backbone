@@ -1,0 +1,16 @@
+# Polyboea Klotzsch ex Endlicher, 1850 GENUS
+
+#### Status
+SYNONYM
+
+#### According to
+IRMNG Homonym List
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

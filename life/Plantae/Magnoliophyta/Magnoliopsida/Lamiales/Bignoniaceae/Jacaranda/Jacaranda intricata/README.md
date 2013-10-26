@@ -1,0 +1,16 @@
+# Jacaranda intricata A.H.Gentry & Morawetz SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

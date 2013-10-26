@@ -1,0 +1,16 @@
+# Diplazium subsinuatum var. rheophilum M.Kato, Darnaedi & K.Iwats. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

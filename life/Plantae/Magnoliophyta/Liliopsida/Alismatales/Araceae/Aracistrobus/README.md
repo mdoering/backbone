@@ -1,0 +1,16 @@
+# Aracistrobus P.A. Nikitin ex P.I. Dorofeev, 1957 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

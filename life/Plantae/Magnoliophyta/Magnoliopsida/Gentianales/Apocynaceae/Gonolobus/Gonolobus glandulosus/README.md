@@ -1,0 +1,16 @@
+# Gonolobus glandulosus (ex de Candolle) Poepp. ex Decne. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

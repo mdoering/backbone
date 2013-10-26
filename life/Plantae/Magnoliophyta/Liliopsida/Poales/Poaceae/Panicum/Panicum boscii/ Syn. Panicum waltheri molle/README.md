@@ -1,0 +1,16 @@
+# Panicum waltheri var. molle (Vasey ex Ward) Porter VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

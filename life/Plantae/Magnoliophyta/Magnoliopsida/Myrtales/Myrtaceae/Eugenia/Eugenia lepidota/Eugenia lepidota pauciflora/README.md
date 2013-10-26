@@ -1,0 +1,16 @@
+# Eugenia lepidota var. pauciflora O.Berg VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Dryopteris heterospora (Wagner) Kuvaev SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

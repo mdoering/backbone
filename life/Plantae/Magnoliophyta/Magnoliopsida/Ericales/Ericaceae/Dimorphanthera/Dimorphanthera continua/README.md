@@ -1,0 +1,16 @@
+# Dimorphanthera continua (P.F.Stevens) P.F.Stevens SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Dimorphanthera womersleyi var. continua P.F.Stevens
+
+### Remarks
+null

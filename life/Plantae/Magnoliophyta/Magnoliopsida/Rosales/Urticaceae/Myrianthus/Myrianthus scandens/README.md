@@ -1,0 +1,16 @@
+# Myrianthus scandens Louis ex Hauman SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

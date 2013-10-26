@@ -1,0 +1,16 @@
+# Hibiscus eetveldeanus De Wild. & Durand SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Bull. Soc. Roy. Bot. Belgique 38(2):24. 1899
+
+#### Original name
+null
+
+### Remarks
+null

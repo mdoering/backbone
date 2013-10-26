@@ -1,0 +1,16 @@
+# Trichodesma zeylanicum var. sericeum (Lindl.) Benth. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Trichodesma sericeum Lindl.
+
+### Remarks
+null

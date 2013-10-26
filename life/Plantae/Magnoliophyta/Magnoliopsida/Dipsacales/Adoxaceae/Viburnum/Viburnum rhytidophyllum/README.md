@@ -1,0 +1,16 @@
+# Viburnum rhytidophyllum Hemsl. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+F. B. Forbes & W. B. Hemsley, J. Linn. Soc. , Bot. 23:355. 1888
+
+#### Original name
+null
+
+### Remarks
+null

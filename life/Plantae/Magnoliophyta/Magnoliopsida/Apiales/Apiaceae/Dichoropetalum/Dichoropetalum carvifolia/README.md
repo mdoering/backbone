@@ -1,0 +1,16 @@
+# Dichoropetalum carvifolia (Vill.) Pimenov & Kljuykov SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Peucedanum carvifolia Vill.
+
+### Remarks
+null

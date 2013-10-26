@@ -1,0 +1,16 @@
+# Trichinium longistachyum (W.Fitzg.) C.A.Gardner SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Ptilotus longistachyus W.Fitzg.
+
+### Remarks
+null

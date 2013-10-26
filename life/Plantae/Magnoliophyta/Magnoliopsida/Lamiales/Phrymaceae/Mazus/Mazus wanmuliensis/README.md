@@ -1,0 +1,16 @@
+# Mazus wanmuliensis M.Qian & L.B.Geng SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

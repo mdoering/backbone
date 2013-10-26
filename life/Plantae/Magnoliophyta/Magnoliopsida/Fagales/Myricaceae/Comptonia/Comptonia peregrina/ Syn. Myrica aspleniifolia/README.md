@@ -1,0 +1,16 @@
+# Myrica aspleniifolia L. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Sp. pl. 2:1024. 1753 "<I>asplenifolia</I>"
+
+#### Original name
+null
+
+### Remarks
+null

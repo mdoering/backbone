@@ -1,0 +1,16 @@
+# Acacia congesta subsp. cliftoniana (W.Fitzg.) Maslin SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Acacia cliftoniana W.Fitzg.
+
+### Remarks
+null

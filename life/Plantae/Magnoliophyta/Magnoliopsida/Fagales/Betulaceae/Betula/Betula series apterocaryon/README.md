@@ -1,0 +1,16 @@
+# Betula series var. apterocaryon (Spach) V.N.Vassil. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

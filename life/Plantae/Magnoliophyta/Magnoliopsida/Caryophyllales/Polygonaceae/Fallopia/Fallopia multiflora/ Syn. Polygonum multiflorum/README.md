@@ -1,0 +1,16 @@
+# Polygonum multiflorum Thunb. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+J. A. Murray, Syst. veg. ed. 14:379. 1784 May-Jun (Fl. jap. 169. 1784 Aug)
+
+#### Original name
+null
+
+### Remarks
+null

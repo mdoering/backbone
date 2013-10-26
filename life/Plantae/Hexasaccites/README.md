@@ -1,0 +1,16 @@
+# Hexasaccites P. Reinhardt in P. Reinhardt & W. Schmitz, 1965 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

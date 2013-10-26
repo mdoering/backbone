@@ -1,0 +1,16 @@
+# Geranium toquimense A.H. Holmgren & N.H. Holmgren SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Astroloma candolleanum Sond. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Stomarrhena serratifolia DC.
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Nordmannia cordifolia Ledeb. ex Nordm. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Azalea occidentalis Torr. & A. Gray ex Torr. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+J. Torrey, Pacif. Railr. Rep. 4(5):116. 1857
+
+#### Original name
+null
+
+### Remarks
+null

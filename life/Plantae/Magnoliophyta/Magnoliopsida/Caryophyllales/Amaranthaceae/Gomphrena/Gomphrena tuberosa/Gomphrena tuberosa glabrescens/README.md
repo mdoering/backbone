@@ -1,0 +1,16 @@
+# Gomphrena tuberosa var. glabrescens (Mart.) Moq. in DC. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

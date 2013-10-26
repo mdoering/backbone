@@ -1,0 +1,16 @@
+# Viola principis var. acutifolia Ching J.Wang VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+Acta Bot. Yunnan. 13:264. 1991
+
+#### Original name
+null
+
+### Remarks
+null

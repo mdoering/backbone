@@ -1,0 +1,16 @@
+# Rubus spectabilis var. franciscanus (Rydb.) J.T. Howell VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

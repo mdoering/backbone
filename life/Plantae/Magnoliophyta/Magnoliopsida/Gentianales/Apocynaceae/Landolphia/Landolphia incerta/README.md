@@ -1,0 +1,16 @@
+# Landolphia incerta (K.Schum.) J.G.M.Persoon SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Carpodinus incerta K.Schum.
+
+### Remarks
+null

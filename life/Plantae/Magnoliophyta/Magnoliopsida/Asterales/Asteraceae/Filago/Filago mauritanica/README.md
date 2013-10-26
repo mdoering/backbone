@@ -1,0 +1,16 @@
+# Filago mauritanica (Pomel) Dobignard SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+Pseudevax mauritanica Pomel
+
+### Remarks
+null

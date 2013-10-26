@@ -1,0 +1,16 @@
+# Viburnum plicatum Thunb. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Trans. Proc. Linn. Soc. London 2:332. 1794
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Turbinicarpus pseudopectinatus subsp. jarmilae Halda & Chvastek SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

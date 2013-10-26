@@ -1,0 +1,16 @@
+# Fucites F.J.A.N. Unger, 1839 GENUS
+
+#### Status
+ACCEPTED
+
+#### According to
+Interim Register of Marine and Nonmarine Genera
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

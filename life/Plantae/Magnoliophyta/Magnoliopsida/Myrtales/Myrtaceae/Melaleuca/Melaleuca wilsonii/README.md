@@ -1,0 +1,16 @@
+# Melaleuca wilsonii F.Muell. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Fragm. 2:124, t. XV. 1861
+
+#### Original name
+null
+
+### Remarks
+null

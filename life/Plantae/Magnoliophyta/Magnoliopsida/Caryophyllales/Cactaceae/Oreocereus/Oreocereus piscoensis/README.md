@@ -1,0 +1,16 @@
+# Oreocereus piscoensis (Rauh & Backeb.) F.Ritter SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Loxanthocereus piscoensis Rauh & Backeb.
+
+### Remarks
+null

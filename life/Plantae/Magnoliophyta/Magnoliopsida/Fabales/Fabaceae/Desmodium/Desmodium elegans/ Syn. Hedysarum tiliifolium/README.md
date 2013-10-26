@@ -1,0 +1,16 @@
+# Hedysarum tiliifolium D.Don SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Prodr. fl. nepal. 244. 1825 Feb "<I>tiliaefolium</I>"
+
+#### Original name
+null
+
+### Remarks
+null

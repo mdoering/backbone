@@ -1,0 +1,16 @@
+# Erigeron concinnus var. condensatus D.C. Eaton VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+Integrated Taxonomic Information System
+
+#### Published in
+S. Watson et al. , Botany [fortieth parallel] 73. 1871 (in C. King, U. S. geol. explor. 40th Parallel vol. 5)
+
+#### Original name
+null
+
+### Remarks
+null

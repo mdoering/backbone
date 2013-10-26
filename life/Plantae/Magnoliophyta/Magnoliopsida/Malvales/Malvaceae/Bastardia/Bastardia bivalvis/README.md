@@ -1,0 +1,16 @@
+# Bastardia bivalvis (Cav.) Kunth ex Griseb. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Sida bivalvis Cav.
+
+### Remarks
+null

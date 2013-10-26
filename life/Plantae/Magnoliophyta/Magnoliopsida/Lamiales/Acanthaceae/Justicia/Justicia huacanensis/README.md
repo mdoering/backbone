@@ -1,0 +1,16 @@
+# Justicia huacanensis T.F.Daniel & V.W.Steinm. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

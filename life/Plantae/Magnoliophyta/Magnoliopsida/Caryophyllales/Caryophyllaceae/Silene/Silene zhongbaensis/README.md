@@ -1,0 +1,16 @@
+# Silene zhongbaensis (L.H.Zhou) C.Y.Wu & C.L.Tang SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Melandrium zhongbaense L.H.Zhou
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Sophora albicans [Jaume St.H SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

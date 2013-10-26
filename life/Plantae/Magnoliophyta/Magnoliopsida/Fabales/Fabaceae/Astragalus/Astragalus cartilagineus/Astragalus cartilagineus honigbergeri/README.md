@@ -1,0 +1,16 @@
+# Astragalus cartilagineus subsp. honigbergeri (Sirj. & Rech.f.) Podlech SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+Astragalus honigbergeri Sirj. & Rech.f.
+
+### Remarks
+null

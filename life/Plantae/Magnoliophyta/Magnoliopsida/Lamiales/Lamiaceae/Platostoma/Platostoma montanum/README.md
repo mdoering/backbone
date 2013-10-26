@@ -1,0 +1,16 @@
+# Platostoma montanum (Robyns) A.J.Paton SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Octomeron montanum Robyns
+
+### Remarks
+null

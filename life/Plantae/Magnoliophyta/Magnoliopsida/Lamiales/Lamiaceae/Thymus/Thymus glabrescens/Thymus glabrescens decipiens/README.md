@@ -1,0 +1,16 @@
+# Thymus glabrescens subsp. decipiens (Heinr.Braun) Domin SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Thymus loevyanus f. decipiens Heinr.Braun
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Oreocereus australis (F.Ritter) A.E.Hoffm. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Arequipa australis F.Ritter
+
+### Remarks
+null

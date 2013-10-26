@@ -1,0 +1,16 @@
+# Vernonanthura oligactoides (Less.) H.Rob. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Vernonia oligactoides Less.
+
+### Remarks
+null

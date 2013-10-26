@@ -1,0 +1,16 @@
+# Mascagnia ambigua var. lanata (A.Juss.) Griseb. VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

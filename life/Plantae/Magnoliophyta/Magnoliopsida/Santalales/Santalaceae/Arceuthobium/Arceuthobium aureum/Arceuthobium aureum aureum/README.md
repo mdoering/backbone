@@ -1,0 +1,16 @@
+# Arceuthobium aureum subsp. aureum SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

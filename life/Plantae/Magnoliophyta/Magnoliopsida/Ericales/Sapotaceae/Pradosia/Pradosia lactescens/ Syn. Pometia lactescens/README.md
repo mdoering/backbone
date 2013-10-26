@@ -1,0 +1,16 @@
+# Pometia lactescens Vell. SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Fl. flumin. 81. 1829 ("1825"); icon. 2: t. 87. 1831 ("1827")
+
+#### Original name
+null
+
+### Remarks
+null

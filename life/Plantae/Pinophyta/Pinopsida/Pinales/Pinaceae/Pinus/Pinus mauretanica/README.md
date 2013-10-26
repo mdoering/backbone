@@ -1,0 +1,16 @@
+# Pinus mauretanica (Maire, Peyerimh. & sine ref.) Gaussen SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

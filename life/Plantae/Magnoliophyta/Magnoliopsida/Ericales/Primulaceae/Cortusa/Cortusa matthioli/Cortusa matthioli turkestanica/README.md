@@ -1,0 +1,16 @@
+# Cortusa matthioli subsp. turkestanica (A.Loz.) Iranshahr & Wendelbo SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

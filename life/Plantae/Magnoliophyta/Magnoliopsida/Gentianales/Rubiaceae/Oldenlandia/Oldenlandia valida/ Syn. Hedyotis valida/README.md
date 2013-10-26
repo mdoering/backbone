@@ -1,0 +1,16 @@
+# Hedyotis valida (Pierre ex Pit.) N.N.Tran SPECIES
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

@@ -1,0 +1,16 @@
+# Weigeltia schlimii var. schlimii VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

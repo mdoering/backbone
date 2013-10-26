@@ -1,0 +1,16 @@
+# Gyrostemon robustus (Diels) Heimerl SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Gyrostemon ramulosus var. robustus Diels
+
+### Remarks
+null

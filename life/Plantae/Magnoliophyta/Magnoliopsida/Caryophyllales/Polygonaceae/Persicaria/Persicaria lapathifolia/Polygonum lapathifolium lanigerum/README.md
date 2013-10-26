@@ -1,0 +1,16 @@
+# Polygonum lapathifolium var. lanigerum (R.Br.) C.Moore & Betche VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Polygonum lanigerum R.Br.
+
+### Remarks
+null

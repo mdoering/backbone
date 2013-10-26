@@ -1,0 +1,16 @@
+# Oenothera pumila var. chrysantha Gordinier & Howe in Gordinier & Howe VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

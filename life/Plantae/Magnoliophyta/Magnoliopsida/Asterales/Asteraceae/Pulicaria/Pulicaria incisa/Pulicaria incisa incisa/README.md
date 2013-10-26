@@ -1,0 +1,16 @@
+# Pulicaria incisa (Lam.) DC. subsp. incisa SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Euro+Med Plantbase
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

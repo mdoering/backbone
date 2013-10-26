@@ -1,0 +1,16 @@
+# Hymenaea verrucosa Gaertn. SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Fruct. sem. pl. 2:306, t. 139, fig. 7. 1791
+
+#### Original name
+null
+
+### Remarks
+null

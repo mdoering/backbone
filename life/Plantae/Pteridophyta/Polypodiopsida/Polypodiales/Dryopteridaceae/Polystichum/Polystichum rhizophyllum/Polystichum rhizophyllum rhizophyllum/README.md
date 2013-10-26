@@ -1,0 +1,16 @@
+# Polystichum rhizophyllum var. rhizophyllum VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+NUB Generator [autonym]
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

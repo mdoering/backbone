@@ -1,0 +1,16 @@
+# Melicope fatuhivensis (F.Brown) T.G.Hartley & B.C.Stone SPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Pelea fatuhivensis F.Br.
+
+### Remarks
+null

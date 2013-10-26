@@ -1,0 +1,16 @@
+# Corylus rostrata var. mitis VARIETY
+
+#### Status
+SYNONYM
+
+#### According to
+The Catalogue of Life, 3rd January 2011
+
+#### Published in
+Bull. Acad. Imp. Sci. Saint-Pétersbourg 27:539; Mélanges Biol. Bull. Phys. -Math. Acad. Imp. Sci. Saint-Pétersbourg 11:319. 1882 (Diagn. pl. nov. asiat. )
+
+#### Original name
+null
+
+### Remarks
+null

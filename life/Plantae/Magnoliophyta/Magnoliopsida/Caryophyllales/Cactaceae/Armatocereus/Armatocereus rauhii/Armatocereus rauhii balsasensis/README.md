@@ -1,0 +1,16 @@
+# Armatocereus rauhii subsp. balsasensis (F.Ritter) C.Ostolaza Nano SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+Armatocereus balsasensis F.Ritter
+
+### Remarks
+null

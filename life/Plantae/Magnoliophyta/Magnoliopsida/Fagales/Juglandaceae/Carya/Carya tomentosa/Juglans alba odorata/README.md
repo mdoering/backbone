@@ -1,0 +1,16 @@
+# Juglans alba var. odorata Marshall VARIETY
+
+#### Status
+ACCEPTED
+
+#### According to
+International Plant Names Index
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null

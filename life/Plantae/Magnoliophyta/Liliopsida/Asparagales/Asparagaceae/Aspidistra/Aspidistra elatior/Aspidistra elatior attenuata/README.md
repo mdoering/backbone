@@ -1,0 +1,16 @@
+# Aspidistra elatior attenuata Blume SUBSPECIES
+
+#### Status
+ACCEPTED
+
+#### According to
+Endemic species in Taiwan
+
+#### Published in
+null
+
+#### Original name
+null
+
+### Remarks
+null
